@@ -69,6 +69,13 @@ def filter_words(tree):
 
 
 def load_trees(ids, vocab=None, grow_vocab=True):
+    '''
+       This returns
+       1) a list of torch.LongTensors containing the indices of all not filtered words of each sentence
+       2) a torch.FloatTensor containing the corresponding distances between words
+       3) the original sentence with in bracket format
+       4) the brackets as tuples
+    '''
     if not vocab:
         vocab = {'<unk>': 0}
     all_sents, all_trees, all_dists, all_brackets = [], [], [], []
@@ -116,7 +123,7 @@ def main(path):
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
 
-    train_data = load_trees(train_file_ids[:2])
+    train_data = load_trees(train_file_ids)
     valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab=False)
     test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False)
     rest_data = load_trees(rest_file_ids, vocab=train_data[-1], grow_vocab=False)
