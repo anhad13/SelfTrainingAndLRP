@@ -1,0 +1,55 @@
+
+( (S 
+    (NP-SBJ-3 
+      (NP (NNP Robin) (NNP Honiss) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (NN president) )
+          (CC and) 
+          (NP (NN chief) (JJ executive) (NN officer) ))
+        (PP (IN of) 
+          (NP (DT this) (NN bank) (VBG holding) (NN company) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (NP (-NONE- *-3) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (JJ additional) (NNS posts) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (NP (NN chairman) )
+                  (, ,) 
+                  (NP (NN president) )
+                  (CC and) 
+                  (NP (NN chief) (NN executive) ))
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN company) (POS 's) )
+                    (NNP New) (NNP England) (NNP Savings) (NNP Bank) (NN subsidiary) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP William) (NNP R.) (NNP Attridge) )
+    (VP (VBD resigned) 
+      (NP 
+        (NP (DT those) (NNS posts) )
+        (, ,) 
+        (CONJP (RB as) (RB well) (IN as) )
+        (NP 
+          (NP (DT a) (NN seat) )
+          (PP-LOC (IN on) 
+            (NP 
+              (NP (NNP NESB) (POS 's) )
+              (NN board) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP NESB) )
+    (VP (VBZ is) 
+      (ADVP (RB also) )
+      (NP-PRD 
+        (NP (DT the) (NN parent) )
+        (PP (IN of) 
+          (NP (NNP Omnibank) ))))
+    (. .) ))

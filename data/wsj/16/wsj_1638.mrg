@@ -1,0 +1,50 @@
+
+( (S 
+    (NP-SBJ (NNP Health) (NNP Care) (NNP Property) (NNP Investors) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD acquired) 
+            (NP 
+              (NP (CD three) (JJ long-term) (NN care) (NNS facilities) )
+              (CC and) 
+              (NP (CD one) (JJ assisted-living) (NN facility) ))
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT a) (JJ purchase-and-lease) (NN transaction) )
+                (VP (VBN valued) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN at) 
+                    (NP 
+                      (QP ($ $) (CD 15) (CD million) )
+                      (-NONE- *U*) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ real) (NN estate) (NN investment) (NN trust) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD leased) 
+            (NP (DT the) (CD three) (NNP Florida) (NNS facilities) )
+            (PP-DTV (TO to) 
+              (NP 
+                (NP (NNP National) (NNP Health) (NNP Care) (NNP Affiliates) (NNP Inc.) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Buffalo) )
+                    (, ,) 
+                    (NP (NNP N.Y) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Health) (NNP Care) (NNP Property) )
+    (VP (VBZ holds) 
+      (NP 
+        (NP (DT an) (NN interest) )
+        (PP (IN in) 
+          (NP 
+            (NP (CD 139) (NNS facilities) )
+            (PP-LOC (IN in) 
+              (NP (CD 30) (NNS states) ))))))
+    (. .) ))

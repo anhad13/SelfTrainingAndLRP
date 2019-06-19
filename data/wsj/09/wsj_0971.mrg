@@ -1,0 +1,465 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Brooks) (NNP Armored) (NNP Car) (NNP Service) (NNP Inc.) )
+    (ADVP-TMP (RB never) )
+    (VP (VBD wanted) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB get) 
+            (PP-CLR (IN into) 
+              (NP (NN money) (NN laundering) ))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-TMP (NNP July) (CD 5) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT a) (NN thunderstorm) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NNP Wilmington) )
+          (, ,) 
+          (NP (NNP Del.) )
+          (, ,) )))
+    (VP (VBD caused) 
+      (S 
+        (NP-SBJ (NNP Shellpot) (NNP Creek) )
+        (VP (TO to) 
+          (VP (VB rise) 
+            (NP-EXT (CD 15) (NNS feet) ))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG pouring) 
+          (NP 
+            (NP 
+              (QP (CD 1.3) (CD million) )
+              (NNS gallons) )
+            (PP (IN of) 
+              (NP (NN water) )))
+          (PP-DIR (IN into) 
+            (NP (NN basement) (NNS vaults) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN water) )
+    (VP 
+      (VP (VBD destroyed) 
+        (NP 
+          (NP 
+            (QP (IN about) ($ $) (CD 75) (CD million) )
+            (-NONE- *U*) )
+          (PP (IN in) 
+            (NP (NN currency) ))))
+      (CC and) 
+      (VP (VBD caked) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 4) (CD million) )
+            (-NONE- *U*) )
+          (PP (IN of) 
+            (NP (NNS coins) )))
+        (PP-CLR (IN with) 
+          (NP (NN mud) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG rendering) 
+            (S 
+              (NP-SBJ (PRP them) )
+              (ADJP-PRD (JJ dangerous) 
+                (PP (TO to) 
+                  (NP (VBG counting) (NNS machines) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) 
+        (QP ($ $) (CD 75) (CD million) )
+        (-NONE- *U*) )
+      (PP (IN in) 
+        (NP (NN paper) (NN money) )))
+    (, ,) 
+    (SBAR-ADV (IN although) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (ADJP-PRD (JJ moldy) 
+          (, ,)
+          (JJ mildewy) 
+          (CC and)
+          (JJ smelly) )))
+    (, ,) 
+    (VP (VBD was) 
+      (VP (VBN exchanged) 
+        (NP (-NONE- *-1) )
+        (PP (IN through) 
+          (NP 
+            (NP (DT the) (NNP Federal) (NNP Reserve) (NNP Bank) )
+            (PP (IN of) 
+              (NP (NNP Philadelphia) ))))
+        (PP-MNR (IN without) 
+          (NP (NN incident) ))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ-1 (NNP Brooks) )
+    (VP (VBD was) 
+      (ADJP-PRD (JJ unable) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB reach) 
+              (NP (DT a) (JJ coin-cleaning) (NN agreement) )
+              (PP-CLR (IN with) 
+                (NP (DT the) (NN government) )))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP We) )
+      (ADVP (NN kind) (IN of) )
+      (VP (VBD got) 
+        (VP (VBN caught) 
+          (PP-CLR (IN between) 
+            (NP (NNS bureaucracies) )))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (NNP President) (NNP William) (NNP F.) (NNP Brooks) (NNP Jr) )
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (DT The) (NNP U.S.) (NNP Mint) )
+        (VP (MD would) (RB n't) 
+          (VP (VB take) 
+            (NP (DT the) (NN coin) )
+            (SBAR-PRP (IN because) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (VBD was) (RB n't) 
+                  (VP (VBN mutilated) )))))))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP-SBJ (DT the) (NNP Federal) (NNP Reserve) (NNP Bank) )
+        (VP (VBZ accepts) 
+          (NP (JJ only) (JJ clean) (NNS coins) ))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Philadelphia) (NNP Fed) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (ADVP (RB merely) )
+            (NP-PRD 
+              (NP (DT an) (`` ``) (NN agent) ('' '') )
+              (PP (IN for) 
+                (NP (NNS coins) ))
+              (, ,) 
+              (ADJP (JJ responsible) 
+                (PP (RB only) (IN for) 
+                  (NP (NN storage) 
+                    (CC and)
+                    (NN distribution) ))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (PRP We) )
+        (VP (VBP issue) 
+          (NP (NN paper) (NN money) )))
+      (: ;) 
+      (S 
+        (NP-SBJ (PRP we) )
+        (VP (VBP destroy) 
+          (NP (NN paper) (NN money) ))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Jane) (NNP Hinkle) )
+      (, ,) 
+      (NP (DT a) (NNP Philadelphia) (NNP Fed) (NN spokeswoman) ))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (DT The) (NN coin) )
+    (VP (VBZ is) 
+      (NP-PRD (PRP$ their) (NN problem) ))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT A) (NNP Mint) (NN official) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN agency) )
+          (VP (VBD offered) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB clean) 
+                  (NP (DT the) (NNS coins) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (PRP$ its) (`` ``) (JJ bare-bones) ('' '') (NN cost) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP ($ $) (CD 17,000) (-NONE- *U*) )
+                          (CC plus) 
+                          (NP (JJ certain) (JJ other) (NNS expenses) ))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ-1 (NNP Brooks) )
+    (VP (VBD declined) 
+      (, ,)
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG figuring) 
+          (SBAR (IN that) 
+            (S 
+              (S-NOM-SBJ 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG transporting) 
+                  (NP (DT the) 
+                    (ADJP (VBN mucked) (IN up) )
+                    (NN money) )
+                  (PP-DIR (TO to) 
+                    (NP (NNP Washington) ))))
+              (VP (MD would) 
+                (VP (VB cost) 
+                  (NP (DT the) (NN company) )
+                  (NP (NNS thousands) (RBR more) ))))))))
+    (. .) ))
+( (S (IN So) 
+    (NP-SBJ (NNP Brooks) )
+    (VP (VBD gave) 
+      (NP (DT the) (JJ dirty) (NN work) )
+      (PP-DTV (TO to) 
+        (NP 
+          (NP (NNP Coin) (NNP Wrap) (NNP Inc.) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD came) 
+                (PRT (RP up) )
+                (PP-CLR (IN with) 
+                  (NP (DT an) (JJ unusual) (NN solution) ))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP 
+        (NP (CD eight) (NNS hours) )
+        (NP-ADV (DT a) (NN day) )))
+    (PP-TMP (IN for) 
+      (NP (DT the) (JJ past) (CD two) (NNS weeks) ))
+    (, ,) 
+    (PP (IN in) 
+      (NP 
+        (NP (NNS aggregates) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP (RB as) (JJ much) (IN as) (CD 27,000) )
+              (NNS pounds) )
+            (PRN 
+              (-LRB- -LRB-)
+              (VP (VBG equaling) 
+                (NP 
+                  (NP ($ $) (CD 20,000) (-NONE- *U*) )
+                  (PP (IN in) 
+                    (NP (NNS pennies) ))))
+              (-RRB- -RRB-) )))))
+    (, ,) 
+    (NP-SBJ (NNP Coin) (NNP Wrap) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (VP (VBG pouring) 
+          (NP (NN money) )
+          (PP-DIR (IN into) 
+            (NP (DT a) (JJ cement-mixing) (NN truck) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT A) (JJ giant) (NN heater) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG working) 
+        (PP-MNR (IN like) 
+          (NP (DT a) (NN blowtorch) ))))
+    (, ,) 
+    (VP 
+      (VP (VBZ causes) 
+        (S 
+          (NP-SBJ (DT the) (NN mud) )
+          (VP (TO to) 
+            (VP (NN crust) ))))
+      (CC and) 
+      (VP (NNS burns) 
+        (PRT (RP off) )
+        (NP (DT any) (NNS wrappers) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN After) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (VBG clanging) 
+          (ADVP-CLR (RB around) )
+          (PP-TMP (IN for) 
+            (NP (DT an) (NN hour) 
+              (QP (CC or) (RB so) ))))))
+    (, ,) 
+    (NP-SBJ-2 (DT the) (JJ shiny) 
+      (, ,)
+      (JJ hot) (NN money) )
+    (VP (VBZ pours) 
+      (PP-DIR (IN out) 
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN cement) (NN chute) )
+            (, ,) 
+            (SBAR 
+              (WHADVP-1 (WRB where) )
+              (S 
+                (NP-SBJ (DT a) (JJ giant) (NN vacuum) )
+                (VP (VBZ sucks) 
+                  (ADVP-CLR (RB away) )
+                  (NP (DT the) 
+                    (NX 
+                      (NX (VBN dried) (NN mud) )
+                      (CC and) 
+                      (NX (JJ burnt) (NNS wrappers) )))
+                  (ADVP-LOC (-NONE- *T*-1) ))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN After) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG cooling) )))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NNS coins) )
+    (VP (VBP are) 
+      (ADVP-TMP (RB then) )
+      (VP (NN rewrapped) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Brooks) )
+    (VP (VBZ expects) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB pay) 
+            (NP (NNP Coin) (NNP Wrap) )
+            (NP 
+              (NP 
+                (NP (DT a) (NN total) )
+                (PP (IN of) 
+                  (NP 
+                    (QP (IN about) ($ $) (CD 20,000) )
+                    (-NONE- *U*) )))
+              (: --) 
+              (NP 
+                (NP (DT a) (NN cost) )
+                (SBAR 
+                  (WHNP-2 (DT that) )
+                  (S 
+                    (NP-SBJ (NN insurance) )
+                    (VP (MD wo) (RB n't) 
+                      (VP (VB cover) 
+                        (NP (-NONE- *T*-2) )))))))))))
+    (. .) ))
+( (S (CC And) 
+    (SBAR-ADV (IN while) 
+      (S 
+        (NP-SBJ-1 (DT the) (NN job) )
+        (VP (VBZ is) 
+          (ADVP (RB half) )
+          (VP (VBN done) 
+            (NP (-NONE- *-1) )))))
+    (, ,) 
+    (NP-SBJ (NNP Brooks) )
+    (VP (VBZ is) 
+      (ADVP (RB still) )
+      (ADJP-PRD (JJ bitter) ))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN fact) ))
+    (, ,) 
+    (S 
+      (NP-SBJ (EX there) )
+      (VP (VBZ 's) 
+        (NP-PRD 
+          (NP 
+            (QP (RB only) (CD one) )
+            (NN person) )
+          (VP (VBN involved) 
+            (NP (-NONE- *) ))
+          (SBAR 
+            (WHNP-1 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBZ 's) 
+                (ADJP-PRD (JJ happy) )))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (DT that) )
+      (VP (VBZ 's) 
+        (NP-PRD 
+          (NP (NNP Floyd) (NNP String) )
+          (, ,) 
+          (NP 
+            (NP 
+              (NP (NN president) )
+              (PP (IN of) 
+                (NP (NNP Coin) (NNP Wrap) )))
+            (CC and) 
+            (NP 
+              (NP (NN conceiver) )
+              (PP (IN of) 
+                (NP (DT the) (JJ cement-truck) (NN solution) )))))))
+    (. .) ))
+( (S 
+    (CONJP (RB Not) (RB only) )
+    (SINV (VBD did) 
+      (NP-SBJ (PRP$ his) (NN company) )
+      (VP (VB find) 
+        (NP 
+          (NP ($ $) (CD 20,000) (-NONE- *U*) )
+          (ADJP (NN worth) )
+          (PP (IN of) 
+            (NP (NN work) )))))
+    (, ,) (CC but) 
+    (S-2 
+      (SBAR-TMP 
+        (WHADVP-3 (WRB when) )
+        (S 
+          (NP-SBJ-1 (DT the) (NN approach) )
+          (VP (VBD was) 
+            (VP (VBN suggested) 
+              (NP (-NONE- *-1) )
+              (ADVP-TMP (-NONE- *T*-3) )))))
+      (PRN 
+        (, ,)
+        (S 
+          (NP-SBJ (NNP Mr.) (NNP String) )
+          (VP (VBZ says) 
+            (SBAR (-NONE- 0) 
+              (S (-NONE- *T*-2) ))))
+        (, ,) )
+      (NP-SBJ (NNP Brooks) (NNS officials) )
+      (`` ``) 
+      (VP (VBD did) (RB n't) 
+        (UCP 
+          (VP (NN laugh) 
+            (PP-CLR (IN at) 
+              (NP (PRP me) )))
+          (CC or) 
+          (NP-ADV (NN anything) ))))
+    (. .) ))

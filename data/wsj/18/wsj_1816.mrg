@@ -1,0 +1,105 @@
+
+( (S 
+    (NP-SBJ-1 (NNP John) (NNP E.) (NNP Hayes) (NNP Jr.) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN chairman) )
+            (, ,) 
+            (NP (NN president) )
+            (CC and) 
+            (NP (JJ chief) (NN executive) (NN officer) )))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG succeeding) 
+            (NP 
+              (NP (NNP David) (NNP S.) (NNP Black) )
+              (, ,) 
+              (SBAR 
+                (WHNP-2 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-2) )
+                  (VP (VBD retired) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-3 
+      (NP (NNP Mr.) (NNP Hayes) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 52) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD left) 
+      (NP 
+        (NP (NNP Southwestern) (NNP Bell) (NNP Telephone) (NNP Co.) )
+        (SBAR-LOC (-NONE- *ICH*-2) ))
+      (PP-TMP (IN in) 
+        (NP (NNP January) ))
+      (, ,) 
+      (SBAR-LOC-2 
+        (WHADVP-1 (WRB where) )
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD had) 
+            (VP (VBN been) 
+              (NP-PRD 
+                (NP (NN chairman) )
+                (, ,) 
+                (NP (NN president) )
+                (CC and) 
+                (NP (JJ chief) (NN executive) ))
+              (ADVP-LOC (-NONE- *T*-1) )))))
+      (, ,) 
+      (S-PRP 
+        (NP-SBJ (-NONE- *-3) )
+        (VP (TO to) 
+          (VP (VB join) 
+            (NP 
+              (NP (NNP Triad) (NNP Capital) (NNPS Partners) )
+              (, ,) 
+              (NP 
+                (NP (DT a) (NNP St.) (NNP Louis) (NN company) )
+                (PP (IN with) 
+                  (NP 
+                    (NP (NNS interests) )
+                    (PP (IN in) 
+                      (NP 
+                        (NP 
+                          (NP (JJ solid) (NN waste) )
+                          (CC and) 
+                          (NP (NN recycling) ))
+                        (, ,) 
+                        (NP (NN telecommunications) )
+                        (CC and) 
+                        (NP (JJ international) (NN venture) (NN capital) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP He) )
+    (VP (VBZ has) 
+      (VP (VBN resigned) 
+        (NP 
+          (NP (PRP$ his) (NNS posts) )
+          (PP-LOC (IN at) 
+            (NP (NNP Triad) )))
+        (S-PRP 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB take) 
+              (NP (DT the) (NNP Kansas) (NNP Power) (NNS positions) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Kansas) (NNP Power) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Mr.) (NNP Black) )
+            (, ,) 
+            (NP (CD 61) )
+            (, ,) )
+          (VP (VBD chose) 
+            (NP (JJ early) (NN retirement) )))))
+    (. .) ))

@@ -1,0 +1,101 @@
+
+( (S 
+    (NP-SBJ (NNP ENFIELD) (NNP Corp.) )
+    (VP (VBD said) 
+      (PP-LOC (IN in) 
+        (NP (NNP Toronto) ))
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ hopes) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB raise) 
+                  (NP 
+                    (NP 
+                      (QP (CD 56) (CD million) )
+                      (JJ Canadian) (NNS dollars) )
+                    (PRN 
+                      (-LRB- -LRB-)
+                      (NP 
+                        (QP ($ US$) (CD 47.7) (CD million) )
+                        (-NONE- *U*) )
+                      (-RRB- -RRB-) ))
+                  (PP-MNR (IN through) 
+                    (NP 
+                      (NP (DT a) (NNS rights) (NN offering) )
+                      (PP (TO to) 
+                        (NP (NNS shareholders) )))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NN offer) ))
+    (, ,) 
+    (NP-SBJ (NNS shareholders) )
+    (VP (MD can) 
+      (VP (VB purchase) 
+        (NP (CD one) (NNP Enfield) (NN share) )
+        (PP-CLR (IN at) 
+          (NP 
+            (NP ($ C$) (CD 6.27) (-NONE- *U*) )
+            (PP (IN for) 
+              (NP 
+                (NP (DT each) (CD five) (NNS shares) )
+                (VP (VBN held) 
+                  (NP (-NONE- *) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP Toronto) (NNP Stock) (NNP Exchange) (NN trading) ))
+    (NP-TMP (NNP Friday) )
+    (, ,) 
+    (NP-SBJ (NNP Enfield) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ C$) (CD 6.75) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP (CD 37.5) (NNS cents) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (VBG holding) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS rights) (NN offering) )
+          (VP (MD should) 
+            (VP 
+              (VP (VB reduce) 
+                (NP (PRP$ its) 
+                  (ADJP 
+                    (QP ($ C$) (CD 171) (CD million) )
+                    (-NONE- *U*) )
+                  (NN debt) )
+                (PP-CLR (TO to) 
+                  (NP (`` ``) (RBR more) (JJ manageable) (NNS levels) ('' '') ))
+                (PP-TMP (IN before) 
+                  (NP (NNP Dec.) (CD 31) )))
+              (CC and) 
+              (VP (VB allow) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (TO to) 
+                    (VP (VB finance) 
+                      (NP 
+                        (NP (JJ future) (NNS investments) )
+                        (PP (IN with) 
+                          (NP (NN equity) (NN capital) ))))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP (JJ last) (NN report) ))
+    (, ,) 
+    (NP-SBJ (NNP Enfield) )
+    (VP (VBD had) 
+      (NP 
+        (NP 
+          (QP (IN about) (CD 44.5) (CD million) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))

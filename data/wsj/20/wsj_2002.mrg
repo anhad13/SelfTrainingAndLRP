@@ -1,0 +1,113 @@
+
+( (NP (NNP SHEARSON) (NNP LEHMAN) (NNP HUTTON) (NNP Inc) (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (NNP Thomas) (NNP E.) (NNP Meador) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 42) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (NP-PRD 
+            (NP 
+              (NP (NN president) )
+              (PP (-NONE- *RNR*-1) ))
+            (CC and) 
+            (NP 
+              (NP (NN chief) (VBG operating) (NN officer) )
+              (PP (-NONE- *RNR*-1) ))
+            (PP-1 (IN of) 
+              (NP 
+                (NP (NNP Balcor) (NNP Co.) )
+                (, ,) 
+                (NP 
+                  (NP (DT a) 
+                    (NAC-LOC (NNP Skokie) 
+                      (, ,)
+                      (NNP Ill.) 
+                      (, ,)
+                      )
+                    (NN subsidiary) )
+                  (PP (IN of) 
+                    (NP (DT this) (NNP New) (NNP York) (NN investment) (NN banking) (NN firm) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Balcor) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ has) 
+            (NP 
+              (NP (NNS interests) )
+              (PP-LOC (IN in) 
+                (NP (JJ real) (NN estate) ))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN position) )
+          (VP (VBZ is) 
+            (ADVP (RB newly) )
+            (VP (VBN created) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Meador) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (JJ executive) (NN vice) (NN president) )
+          (PP (IN of) 
+            (NP (NNP Balcor) )))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (NN addition) )
+        (PP (TO to) 
+          (NP (PRP$ his) (JJ previous) (NN real-estate) (NN investment) 
+            (CC and)
+            (NN asset-management) (NNS duties) ))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Meador) )
+    (VP (VBZ takes) 
+      (NP (NN responsibility) )
+      (PP-CLR (IN for) 
+        (NP 
+          (NP (NN development) )
+          (CC and) 
+          (NP (NN property) (NN management) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT Those) (NNS duties) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (VP (VBN held) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NNP Van) (NNP Pell) )
+              (, ,) 
+              (NP (CD 44) )
+              (, ,) 
+              (SBAR 
+                (WHNP-2 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-2) )
+                  (VP (VBD resigned) 
+                    (PP-CLR (IN as) 
+                      (NP (DT an) (JJ executive) (NN vice) (NN president) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Shearson) )
+    (VP (VBZ is) 
+      (ADJP-PRD (IN about) (JJ 60%-held) 
+        (PP (IN by) 
+          (NP (NNP American) (NNP Express) (NNP Co) ))))
+    (. .) ))

@@ -1,0 +1,214 @@
+
+( (S 
+    (NP-SBJ-1 (NNP First) (NNP Chicago) (NNP Corp.) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (DT a) (NN third-quarter) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 23.3) (CD million) )
+            (-NONE- *U*) )))
+      (PP-TMP (IN after) 
+        (S-NOM 
+          (NP-SBJ-2 (-NONE- *-1) )
+          (VP (VBG joining) 
+            (NP (JJ other) (JJ big) (NNS banks) )
+            (PP (IN in) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-2) )
+                (ADVP (RB further) )
+                (VP (VBG adding) 
+                  (PP-CLR (TO to) 
+                    (NP 
+                      (NP (PRP$ its) (NNS reserves) )
+                      (PP (IN for) 
+                        (NP 
+                          (NP (NNS losses) )
+                          (PP-LOC (IN on) 
+                            (NP (JJ foreign) (NNS loans) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT The) (NN parent) (NN company) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP First) (NNP National) (NNP Bank) )
+            (PP-LOC (IN of) 
+              (NP (NNP Chicago) )))))
+      (, ,) 
+      (PP (IN with) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 48) (CD billion) )
+            (-NONE- *U*) )
+          (PP (IN in) 
+            (NP (NNS assets) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD set) 
+            (ADVP-CLR (RB aside) )
+            (NP 
+              (QP ($ $) (CD 200) (CD million) )
+              (-NONE- *U*) )
+            (S-PRP 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB absorb) 
+                  (NP 
+                    (NP (NNS losses) )
+                    (PP-LOC (IN on) 
+                      (NP (NNS loans) 
+                        (CC and)
+                        (NNS investments) ))
+                    (PP-LOC (IN in) 
+                      (NP 
+                        (ADJP (RB financially) (VBN troubled) )
+                        (NNS countries) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN addition) )
+      (, ,) 
+      (PP (IN on) 
+        (NP 
+          (NP (NN top) )
+          (PP (IN of) 
+            (NP 
+              (NP (CD two) (JJ big) (CD 1987) (NNS additions) )
+              (PP (TO to) 
+                (NP (JJ foreign-loan) (NNS reserves) ))))))
+      (, ,) )
+    (VP (VBZ brings) 
+      (NP (DT the) (NN reserve) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (DT a) (NN level) )
+          (VP (VBG equaling) 
+            (NP 
+              (NP (CD 79) (NN %) )
+              (PP (IN of) 
+                (NP 
+                  (NP (JJ medium-term) 
+                    (CC and)
+                    (JJ long-term) (NNS loans) )
+                  (ADJP (JJ outstanding) 
+                    (PP (TO to) 
+                      (NP (VBN troubled) (NNS nations) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP First) (NNP Chicago) )
+    (PP-TMP (IN since) 
+      (NP (CD 1987) ))
+    (VP (VBZ has) 
+      (VP (VBN reduced) 
+        (NP 
+          (NP (PRP$ its) (NNS loans) )
+          (PP (TO to) 
+            (NP (JJ such) (NNS nations) )))
+        (PP-DIR (TO to) 
+          (NP 
+            (QP ($ $) (CD 1.7) (CD billion) )
+            (-NONE- *U*) ))
+        (PP-DIR (IN from) 
+          (NP 
+            (QP ($ $) (CD 3) (CD billion) )
+            (-NONE- *U*) ))))
+    (. .) ))
+( (S 
+    (PP (IN Despite) 
+      (NP (DT this) (NN loss) ))
+    (, ,) 
+    (NP-SBJ (NNP First) (NNP Chicago) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ does) (RB n't) 
+            (VP (VB need) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB sell) 
+                    (NP (NN stock) ))))
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB raise) 
+                    (NP (NN capital) )))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN During) 
+      (NP (DT the) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD realized) 
+      (NP 
+        (NP (DT a) (NN pretax) (NN gain) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 60.4) (CD million) )
+            (-NONE- *U*) ))
+        (PP (IN from) 
+          (NP 
+            (NP (DT the) (NN sale) )
+            (PP (IN of) 
+              (NP (PRP$ its) (NNP First) (NNP Chicago) (NNP Investment) (NNPS Advisors) (NN unit) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (VBN Combined) (JJ foreign) (NN exchange) 
+      (CC and)
+      (NN bond) (NN trading) (NNS profits) )
+    (VP (VBD dipped) 
+      (NP-EXT 
+        (NP (CD 24) (NN %) )
+        (PP (IN against) 
+          (NP 
+            (NP (JJ last) (NN year) (POS 's) )
+            (JJ third) (NN quarter) )))
+      (, ,) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 38.2) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 50.5) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Gains) )
+      (PP (IN from) 
+        (NP 
+          (NP 
+            (NP (NNP First) (NNP Chicago) (POS 's) )
+            (NN venture) (NN capital) (NN unit) )
+          (, ,) 
+          (NP (DT a) (JJ big) (JJ leveraged) (NN buy-out) (NN investor) )
+          (, ,) )))
+    (VP (VBD rose) 
+      (NP-EXT (CD 32) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 34) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 25.7) (CD million) )
+          (-NONE- *U*) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (IN ago) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Interest) (NN income) )
+      (CC and) 
+      (NP (JJS most) (NN fee) (NN income) ))
+    (VP (VBD was) 
+      (ADJP-PRD (JJ strong) ))
+    (. .) ))

@@ -1,0 +1,957 @@
+
+( (S-HLN 
+    (NP-SBJ (NNS Wives) )
+    (VP (MD May) (RB Not) 
+      (VP (VB Benefit) 
+        (SBAR-TMP 
+          (WHADVP-1 (WRB When) )
+          (S 
+            (NP-SBJ (NN Men) )
+            (VP (VB Do) 
+              (NP (NNS Chores) )
+              (ADVP-TMP (-NONE- *T*-1) ))))))))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB WHEN) )
+      (S 
+        (NP-SBJ (NNS HUSBANDS) )
+        (VP (VBP take) 
+          (PRT (RP on) )
+          (NP (JJR more) (NN housework) )
+          (ADVP-TMP (-NONE- *T*-1) ))))
+    (, ,) 
+    (NP-SBJ-2 (PRP they) )
+    (VP (VBP tend) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB substitute) 
+            (PP-CLR (IN for) 
+              (NP 
+                (NP (NNS chores) )
+                (VP (VBN done) 
+                  (NP (-NONE- *) )
+                  (PP 
+                    (PP (IN by) 
+                      (NP-LGS (DT the) (NNS kids) ))
+                    (CONJP (RB rather) (IN than) )
+                    (PP (IN by) 
+                      (NP-LGS (DT the) (NN wife) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Rand) (NNP Corp.) (NNS researchers) (NNP Linda) (NNP Waite) 
+      (CC and)
+      (NNP Frances) (NNP Goldscheider) )
+    (VP (VBD analyzed) 
+      (NP 
+        (NP (DT a) (JJ large) (NN sample) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ married) (NNS women) )
+            (PP (IN with) 
+              (NP 
+                (NP 
+                  (QP (IN at) (JJS least) (CD one) )
+                  (NN child) )
+                (PP-LOC (IN at) 
+                  (NP (NN home) ))
+                (PP (IN between) 
+                  (NP 
+                    (NP (DT the) (NNS ages) )
+                    (PP (IN of) 
+                      (NP (CD six) 
+                        (CC and)
+                        (CD 18) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS women) )
+    (VP (VBD indicated) 
+      (NP 
+        (SBAR-NOM 
+          (WHNP-1 (WDT which) (NN family) (NN member) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (ADVP-TMP (RB usually) )
+            (VP (VBD did) 
+              (NP (JJ various) (NN household) (NNS chores) ))))
+        (CC and) 
+        (NP 
+          (NP (DT the) (JJ approximate) (NN share) )
+          (SBAR 
+            (WHNP-2 (-NONE- 0) )
+            (S 
+              (NP-SBJ (DT each) )
+              (VP (VBD did) 
+                (NP (-NONE- *T*-2) )))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Not) (RB unexpectedly) )
+    (, ,) 
+    (NP-SBJ-1 (NNS wives) )
+    (, ,) 
+    (SBAR-ADV (IN whether) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (ADJP-PRD (VBG working) (CC or) (JJ non-working) )))
+    (, ,) 
+    (VP (VBD did) 
+      (NP 
+        (NP 
+          (ADVP (IN by) (RB far) )
+          (DT the) (JJS most) )
+        (: --) 
+        (NP 
+          (NP 
+            (NP 
+              (QP (IN about) (CD 80) )
+              (NN %) )
+            (PP (IN of) 
+              (NP (DT the) (NN shopping) 
+                (, ,)
+                (NN laundry) 
+                (CC and)
+                (NN cooking) )))
+          (, ,) 
+          (CC and)
+          (NP 
+            (NP 
+              (QP (IN about) (NNS two-thirds) ))
+            (PP (IN of) 
+              (NP 
+                (NP (NN housecleaning) )
+                (, ,) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG washing) 
+                    (NP (NNS dishes) )))
+                (, ,) 
+                (NP (NN child) (NN care) )
+                (CC and) 
+                (NP (NN family) (NN paper) (NN work) )))))))
+    (. .) ))
+( (SINV 
+    (PP 
+      (ADVP (RB Only) )
+      (IN for) 
+      (NP 
+        (NP (NN yardwork) )
+        (CC and) 
+        (NP (NN home) (NN maintenance) )))
+    (VBD did) 
+    (NP-SBJ (NNS women) )
+    (VP (VB do) 
+      (NP 
+        (NP (JJR less) )
+        (PP (IN than) 
+          (NP (NN half) ))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT the) (NNS researchers) )
+    (VP (VBD found) 
+      (SBAR (IN that) 
+        (S 
+          (SBAR-ADV (IN while) 
+            (S 
+              (NP-SBJ 
+                (NP (NNS children) (POS 's) )
+                (NN household) (NNS tasks) )
+              (VP (VBD eased) 
+                (NP 
+                  (NP (DT the) (NN mother) (POS 's) )
+                  (NN burden) )
+                (ADVP-MNR (RB appreciably) ))))
+          (, ,) 
+          (NP-SBJ-1 
+            (NP (DT the) (NN husband) (POS 's) )
+            (VBG helping) (NN hand) )
+          (`` ``) 
+          (VP (VBZ appears) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP 
+                (VP (TO to) 
+                  (VP (VB lighten) 
+                    (NP 
+                      (NP (DT the) (NNS children) (POS 's) )
+                      (NN load) )
+                    (PP-MNR 
+                      (ADVP (RB almost) )
+                      (IN on) 
+                      (NP (DT a) (JJ one-for-one) (NN basis) ))))
+                (CC and) 
+                (VP (TO to) 
+                  (VP (VB reduce) 
+                    (NP 
+                      (NP (DT the) (NN wife) (POS 's) )
+                      (NN responsibility) )
+                    (ADVP-MNR (RB only) (RB modestly) )))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT This) (NN pattern) )
+    (VP (VBD was) 
+      (ADJP-PRD (RB particularly) (JJ evident) )
+      (PP-LOC (IN among) 
+        (NP 
+          (ADJP (RBR more) (RB highly) (VBN educated) )
+          (NNS couples) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT these) (NNS families) ))
+    (, ,) 
+    (NP-SBJ (NNS husbands) )
+    (VP (VBD took) 
+      (PRT (RP on) )
+      (NP 
+        (NP 
+          (ADJP 
+            (NP-ADV (CD 80) (JJ %) )
+            (JJR more) )
+          (NNS chores) )
+        (SBAR (IN than) 
+          (FRAG 
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NNS couples) )
+                (PP (IN with) 
+                  (NP (JJ only) (NN grammar) (NN school) (NN education) ))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT the) (NNS kids) )
+      (PP (IN with) 
+        (NP 
+          (ADJP (RB highly) (VBN educated) )
+          (NNS parents) )))
+    (VP (VBD did) 
+      (NP 
+        (NP 
+          (ADJP 
+            (NP-ADV (CD 68) (NN %) )
+            (JJR less) )
+          (NN housework) )
+        (PP (IN than) 
+          (NP 
+            (NP (DT those) )
+            (PP-LOC (IN in) 
+              (NP (JJ less-educated) (NNS families) ))))))
+    (. .) ))
+( (S-3 (`` ``) 
+    (NP-SBJ 
+      (NP (PRP It) )
+      (SBAR (-NONE- *EXP*-1) ))
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ clear) )
+      (PRN 
+        (, ,)
+        ('' '') 
+        (S 
+          (NP-SBJ (NNP Ms.) (NNP Waite) )
+          (VP (VBZ says) 
+            (SBAR (-NONE- 0) 
+              (S (-NONE- *T*-3) ))))
+        (, ,) )
+      (`` ``) 
+      (SBAR-1 (DT that) 
+        (S 
+          (NP-SBJ-4 
+            (NP (JJS most) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN effect) )
+                (PP (IN of) 
+                  (NP (VBG increasing) (NN education) )))))
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (S 
+                (NP-SBJ (-NONE- *-4) )
+                (VP (TO to) 
+                  (VP (VB shift) 
+                    (SBAR-NOM 
+                      (WHNP-2 (WP who) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-2) )
+                        (VP (VBZ is) 
+                          (VP (VBG helping) 
+                            (NP (DT the) (NN wife\/mother) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP$ Her) (NN share) )
+    (VP 
+      (VP (VBZ decreases) 
+        (ADVP-MNR-1 (-NONE- *NOT*) ))
+      (, ,) (CC but) 
+      (VP 
+        (ADVP-MNR=1 (RB only) (RB slightly) )))
+    (. .) ('' '') ))
+( (S-HLN 
+    (NP-SBJ-1 (NNP Nursing) (NNP Home) (NNPS Patients) )
+    (ADJP-PRD (JJ Apt) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB Be) 
+            (NP-PRD (JJ Private) (NNS Payers) )))))))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ 
+        (NP 
+          (ADJP (RB FAR) (JJR FEWER) )
+          (JJ elderly) (NN nursing) (NN home) (NNS residents) )
+        (SBAR (-NONE- *ICH*-2) ))
+      (VP (VBP bankrupt) 
+        (NP (PRP themselves) )
+        (SBAR-2 (IN than) 
+          (S 
+            (NP-SBJ-1 (-NONE- *) )
+            (VP (VBD was) 
+              (ADVP-TMP (RB previously) )
+              (VP (VBN believed) 
+                (NP (-NONE- *-1) )))))))
+    (, ,) 
+    (NP-SBJ (CD two) (JJ recent) (NNS studies) )
+    (VP (VBP declare) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN State) (NNS governments) )
+    (VP (VBP place) 
+      (NP 
+        (ADJP (RB very) (JJ low) )
+        (NNS ceilings) )
+      (PP-CLR (IN on) 
+        (SBAR-NOM 
+          (SBAR 
+            (WHADVP-1 (WRB how) (JJ much) (NN property) )
+            (S 
+              (NP-SBJ (NNS people) )
+              (VP (MD may) 
+                (VP (VB own) 
+                  (NP (-NONE- *T*-1) )
+                  (SBAR-ADV (-NONE- *RNR*-3) )))))
+          (CC or) 
+          (SBAR 
+            (WHADVP-2 (WRB how) (JJ much) (NN income) )
+            (S 
+              (NP-SBJ (PRP they) )
+              (VP (MD may) 
+                (VP (VB keep) 
+                  (NP (-NONE- *T*-2) )
+                  (SBAR-ADV (-NONE- *RNR*-3) )))))
+          (SBAR-ADV-3 (IN if) 
+            (S 
+              (NP-SBJ (PRP they) )
+              (VP (VBP want) 
+                (NP 
+                  (NP (NN welfare) (NN help) )
+                  (PP (IN on) 
+                    (NP (JJ medical) (NNS bills) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Conventional) (NN wisdom) )
+    (VP (VBZ has) 
+      (ADVP-TMP (RB long) )
+      (VP (VBN held) 
+        (SBAR (RB that) 
+          (S 
+            (NP-SBJ-1 
+              (NP 
+                (QP (RB anywhere) (IN from) (NN one-fourth) (TO to) (NN one-half) ))
+              (PP (IN of) 
+                (NP (DT all) (JJ elderly) (JJ long-term) (NN care) (NNS patients) )))
+            (VP (VBP are) 
+              (VP (VBN obliged) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB spend) 
+                      (NP (PRP themselves) )
+                      (PP-CLR (IN into) 
+                        (NP (NN poverty) ))
+                      (PP-TMP (IN before) 
+                        (S-NOM 
+                          (NP-SBJ (-NONE- *-1) )
+                          (VP (VBG qualifying) 
+                            (PP-CLR (IN for) 
+                              (NP (NNP Medicaid) (NN assistance) ))))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (JJ separate) (NNS reports) )
+      (PP (IN from) 
+        (NP 
+          (NP 
+            (NP (NNP Joshua) (NNP Weiner) 
+              (CC and)
+              (NNP Denise) (NNP Spence) )
+            (PP (IN of) 
+              (NP (DT the) (NNP Brookings) (NNP Institution) )))
+          (CC and) 
+          (NP 
+            (NP (NNP Korbin) (NNP Liu) )
+            (PP (IN of) 
+              (NP (DT the) (NNP Urban) (NNP Institute) ))))))
+    (VP (VBP find) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (`` ``) 
+            (NP (DT a) 
+              (ADJP (RB surprisingly) (JJ small) )
+              (NN proportion) )
+            ('' '') 
+            (PRN (: --) 
+              (NP 
+                (QP (RB only) (IN about) (CD 10) )
+                (NN %) )
+              (: --) )
+            (PP (IN of) 
+              (NP (NNS residents) )))
+          (VP 
+            (VP (VBP start) 
+              (ADVP-CLR (IN out) )
+              (PP-CLR (RB as) 
+                (NP (JJ private) (NNS payers) )))
+            (CC but) 
+            (VP (`` ``) (VBP spend) 
+              (PRT (RP down) )
+              ('' '') 
+              (PP-CLR (TO to) 
+                (NP (NNP Medicaid) (NNS levels) ))
+              (PP-TMP (IN in) 
+                (NP (DT a) (JJ single) (NN nursing) (NN home) (NN stay) ))
+              (SBAR-TMP (IN before) 
+                (S 
+                  (NP-SBJ-1 (PRP they) )
+                  (VP 
+                    (VP (VBP die) )
+                    (CC or) 
+                    (VP (VBP are) 
+                      (VP (VBN discharged) 
+                        (NP (-NONE- *-1) )))))))))))
+    (. .) ))
+( (S 
+    (-LRB- -LRB-)
+    (NP-SBJ 
+      (NP (DT Another) (NN one-third) )
+      (NP (-NONE- *ICH*-1) ))
+    (VP (VBP are) 
+      (ADVP-TMP (RB already) )
+      (PP-PRD (IN on) 
+        (NP (NNP Medicaid) ))
+      (SBAR-TMP 
+        (WHADVP-2 (WRB when) )
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP enter) 
+            (NP (DT the) (NN nursing) (NNS homes) )
+            (ADVP-TMP (-NONE- *T*-2) ))))
+      (, ,) 
+      (NP-1 
+        (NP (DT a) 
+          (ADJP (RB considerably) (JJR higher) )
+          (NN proportion) )
+        (SBAR (IN than) 
+          (S 
+            (NP-SBJ (DT the) (NNS analysts) )
+            (VP (VBN anticipated) 
+              (NP (-NONE- *?*) ))))))
+    (. .) 
+    (-RRB- -RRB-)
+    ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT a) 
+        (ADJP (RB remarkably) (JJ high) )
+        (NN percentage) )
+      (PRN (: --) 
+        (NP 
+          (QP (IN over) (DT half) ))
+        (: --) ))
+    (VP (VBP are) 
+      (NP-PRD (JJ private) (NNS payers) )
+      (PP-TMP (IN throughout) 
+        (NP 
+          (NP (PRP$ their) (NN stay) )
+          (, ,) (RB even) 
+          (NP (DT a) 
+            (ADJP (RB fairly) (JJ lengthy) )
+            (CD one) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (QP (IN About) (NN one-third) ))
+    (VP (NN pay) 
+      (PP-CLR (IN out) 
+        (PP (IN of) 
+          (NP (PRP$ their) (JJ own) (NNS pockets) )))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN rest) )
+          (VP (VBP are) 
+            (VP (VBN covered) 
+              (NP (-NONE- *-1) )
+              (ADVP-TMP (IN throughout) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (NNP Medicare) )
+                  (, ,) 
+                  (NP (JJ private) (NNS insurers) )
+                  (CC or) 
+                  (NP (DT the) (NNPS Veterans) (NNP Administration) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT Both) (NNS reports) )
+    (VP (VBP are) 
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN on) 
+          (NP 
+            (NP 
+              (QP (JJ several) (CD thousand) )
+              (NNS patients) )
+            (VP (VBN sampled) 
+              (NP (-NONE- *) )
+              (PP-LOC (IN in) 
+                (NP (DT a) (CD 1985) (JJ nationwide) (NN government) (NN survey) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Brookings) 
+      (CC and)
+      (NNP Urban) (NNP Institute) (NNS authors) )
+    (VP (VBP caution) 
+      (, ,)
+      (ADVP (RB however) )
+      (, ,) 
+      (SBAR (IN that) 
+        (S 
+          (S 
+            (NP-SBJ (JJS most) (NN nursing) (NN home) (NNS stays) )
+            (VP (VBP are) 
+              (PP-PRD (IN of) 
+                (NP 
+                  (ADJP (RB comparatively) (JJ short) )
+                  (NN duration) ))))
+          (, ,) 
+          (CC and)
+          (S 
+            (S-NOM-SBJ 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG reaching) 
+                (NP (DT the) (NNP Medicaid) (NN level) )))
+            (VP (VBZ is) 
+              (ADJP-PRD (RBR more) (JJ likely) )
+              (PP (IN with) 
+                (NP 
+                  (NP (DT an) 
+                    (ADJP (RB unusually) (JJ long) )
+                    (NN stay) )
+                  (CC or) 
+                  (NP (VBN repeated) (NNS stays) ))))))))
+    (. .) ))
+( (S-2 
+    (ADVP (RB Moreover) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP they) )
+        (VP (VBP note) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-2) ))))
+      (, ,) )
+    (NP-SBJ 
+      (NP (DT those) )
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ-3 (-NONE- *T*-1) )
+          (VP (VBP manage) 
+            (S 
+              (NP-SBJ (-NONE- *-3) )
+              (VP (TO to) 
+                (VP (VB pay) 
+                  (NP (PRP$ their) (JJ own) (NN way) ))))))))
+    (ADVP-TMP (RB often) )
+    (VP (VBP do) 
+      (ADVP-PRD (RB so) )
+      (PP-MNR 
+        (ADVP (RB only) )
+        (IN by) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP 
+            (VP (VBG selling) 
+              (NP (PRP$ their) (NNS homes) ))
+            (, ,) 
+            (VP (VBG using) 
+              (PRT (RP up) )
+              (NP (NN life) (NNS savings) ))
+            (CC or) 
+            (VP (VBG drawing) 
+              (ADVP-MNR (RB heavily) )
+              (PP-CLR (IN on) 
+                (NP 
+                  (NP (NNS children) )
+                  (CC and) 
+                  (NP (JJ other) (NNS relatives) ))))))))
+    (. .) ))
+( (S-HLN 
+    (NP-SBJ (NNP Reagan) (NN Era) (NN Young) )
+    (VP (VBP Hold) 
+      (NP (JJ Liberal) (NNS Views) ))))
+( (S 
+    (NP-SBJ 
+      (NP (DT THE) (NNP REAGAN) (NN generation) (JJ young) (NNS men) 
+        (CC and)
+        (NNS women) )
+      (VP (VBG reaching) 
+        (NP (JJ political) (NN maturity) )
+        (PP-TMP (IN during) 
+          (NP 
+            (NP (NNP Ronald) (NNP Reagan) (POS 's) )
+            (NN presidency) ))))
+    (: --) 
+    (VP (VBP are) 
+      (ADJP-PRD (RB firmly) (JJ liberal) 
+        (PP (IN on) 
+          (NP (NN race) 
+            (CC and)
+            (NN gender) )))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (NNP NORC) )
+            (, ,) 
+            (NP 
+              (NP (DT the) (JJ social) (NN science) (NN research) (NN center) )
+              (PP-LOC (IN at) 
+                (NP 
+                  (NP (DT the) (NNP University) )
+                  (PP (IN of) 
+                    (NP (NNP Chicago) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Many) (JJ political) (NNS analysts) )
+    (VP (VBP have) 
+      (VP (VBN speculated) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NNP Reagan) (NNS years) )
+            (VP (MD would) 
+              (VP (VB produce) 
+                (NP (DT a) 
+                  (ADJP (RB staunchly) (JJ conservative) )
+                  (JJR younger) (NN generation) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP NORC) (POS 's) )
+      (ADJP (JJS most) (JJ recent) )
+      (NN opinion) (NNS surveys) )
+    (VP (VBP find) 
+      (S 
+        (NP-SBJ (DT the) (JJS youngest) (NNS adults) )
+        (ADVP (RB indeed) )
+        (ADJP-PRD 
+          (ADJP 
+            (ADVP (RB somewhat) (JJR more) )
+            (JJ pro-Reagan) 
+            (CC and)
+            (JJ pro-Republican) )
+          (PP (IN than) 
+            (NP (JJ other) (NNS adults) )))))
+    (. .) ))
+( (S-1 (CC But) 
+    (, ,)
+    (SINV 
+      (VP (VBZ says) 
+        (SBAR (-NONE- 0) 
+          (S (-NONE- *T*-1) )))
+      (NP-SBJ (NN chief) (NN investigator) (NNP Tom) (NNP Smith) ))
+    (, ,) 
+    (NP-SBJ (DT this) )
+    (`` ``) 
+    (VP (VBZ does) (RB not) 
+      (VP (VB translate) 
+        (PP-CLR 
+          (PP (IN into) 
+            (NP 
+              (NP (NN support) )
+              (PP (IN for) 
+                (NP (NN conservatism) ))
+              (PP (IN in) 
+                (ADJP (JJ general) ))))
+          (CC or) 
+          (PP (IN into) 
+            (NP 
+              (NP (JJ conservative) (NNS positions) )
+              (PP (IN on) 
+                (NP 
+                  (UCP (JJ feminist) 
+                    (CC and)
+                    (NP (JJ civil) (NNS rights) ))
+                  (NNS issues) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Answers) )
+      (PP (TO to) 
+        (NP 
+          (NP (DT a) (NN dozen) (NNS questions) )
+          (PP-LOC (IN in) 
+            (NP (DT the) (CD 1986) 
+              (, ,)
+              (CD 1987) 
+              (, ,)
+              (CD 1988) 
+              (CC and)
+              (CD 1989) (JJ national) (NNS surveys) )))))
+    (VP (VBP reveal) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS men) 
+              (CC and)
+              (NNS women) )
+            (PP-LOC (IN in) 
+              (NP (DT the) 
+                (QP (CD 18) (TO to) (CD 24) )
+                (NN age) (NN bracket) )))
+          (VP (VBP are) 
+            (ADJP-PRD 
+              (ADJP 
+                (ADVP (RB considerably) (RBR more) )
+                (JJ liberal) )
+              (PP (IN on) 
+                (NP (NN race) 
+                  (CC and)
+                  (VB gender) ))
+              (SBAR (IN than) 
+                (SINV 
+                  (VP (VBD were) 
+                    (ADJP-PRD (-NONE- *?*) ))
+                  (NP-SBJ 
+                    (NP (DT the) 
+                      (QP (CD 18) (TO to) (CD 24) )
+                      (NN year) (NNS olds) )
+                    (PP-LOC (IN in) 
+                      (NP 
+                        (NP (NNP NORC) (POS 's) )
+                        (NN polling) ))
+                    (PP-TMP (IN in) 
+                      (NP (DT the) 
+                        (NX 
+                          (NX (JJ early) (CD 1970s) )
+                          (CC and) 
+                          (NX (JJ early) (CD 1980s) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBD were) 
+      (ADVP (RB also) )
+      (ADJP-PRD 
+        (ADJP 
+          (ADJP (RB as) (JJ liberal) )
+          (PP (-NONE- *RNR*-1) ))
+        (CC or) 
+        (ADJP 
+          (ADJP (RBR more) (JJ liberal) )
+          (PP (-NONE- *RNR*-1) ))
+        (PP-1 (IN than) 
+          (NP 
+            (NP (DT any) (JJ other) (NN age) (NN group) )
+            (PP-LOC (IN in) 
+              (NP (DT the) (CD 1986) (IN through) (CD 1989) (NNS surveys) ))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (NN example) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (CD 66) (NN %) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) 
+            (QP (CD 18) (TO to) (CD 24) )
+            (NN year) (NNS olds) )
+          (PP-LOC (IN in) 
+            (NP (DT the) (CD four) (JJS latest) (NNS surveys) )))))
+    (VP (VBD favored) 
+      (NP 
+        (NP (DT an) (`` ``) (JJ open) (NN housing) ('' '') (NN law) )
+        (VP (VBG prohibiting) 
+          (NP-2 (NNS homeowners) )
+          (PP-CLR (IN from) 
+            (S-NOM 
+              (NP-SBJ-1 (-NONE- *-2) )
+              (VP (VBG refusing) 
+                (PP-PRP (IN on) 
+                  (NP (JJ racial) (NNS grounds) ))
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB sell) 
+                      (PP-CLR (TO to) 
+                        (NP (JJ prospective) (NNS buyers) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) )
+    (VP (VBZ compares) 
+      (PP-CLR (IN with) 
+        (NP 
+          (NP 
+            (NP (CD 58) (NN %) )
+            (PP (IN of) 
+              (NP (DT the) (JJ similar) (NN age) (NN group) ))
+            (PP-LOC (IN in) 
+              (NP (DT the) (CD 1980) (IN through) (CD 1982) (NNS surveys) )))
+          (CC and) 
+          (NP 
+            (NP (CD 55) (NN %) )
+            (PP-LOC (IN in) 
+              (NP (DT the) (CD 1972) (IN through) (CD 1975) (NNS surveys) ))))))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ-3 (-NONE- *-1) )
+      (VP (VBN Asked) 
+        (NP (-NONE- *-3) )
+        (SBAR (IN whether) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBD agreed) (CC or) (VBD disagreed) 
+              (PP-CLR (IN with) 
+                (NP (DT the) (NN claim) 
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ (NNS men) )
+                      (VP (VBP are) 
+                        (ADVP (RB emotionally) )
+                        (VP 
+                          (ADVP-MNR 
+                            (ADVP (RB better) )
+                            (PP (-NONE- *ICH*-2) ))
+                          (VBN suited) 
+                          (PP-CLR (TO to) 
+                            (NP (NNS politics) ))
+                          (PP-2 (IN than) 
+                            (NP (NNS women) )))))))))))))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (CD 70) (NN %) )
+      (PP (IN of) 
+        (NP (DT the) (NNP Reagan) (NN generation) )))
+    (VP (VBD disagreed) 
+      (, ,)
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP 
+              (QP (IN under) (CD 60) )
+              (NN %) )
+            (PP (IN of) 
+              (NP (JJR younger) (NNS men) 
+                (CC and)
+                (NNS women) ))
+            (PP-TMP (IN in) 
+              (NP (DT the) (JJR earlier) (NNS years) ))))))
+    (. .) ))
+( (NP-HLN (NNPS Odds) 
+    (CC and)
+    (NNPS Ends) ))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ-1 
+        (ADJP (VBN SEPARATED) 
+          (CC and)
+          (VBN divorced) )
+        (NNS men) 
+        (CC and)
+        (NNS women) )
+      (VP (VBP are) 
+        (ADJP-PRD 
+          (ADJP 
+            (ADVP (RB far) (RBR more) )
+            (JJ likely) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (NP-PRD (NNS smokers) )))))
+          (PP (IN than) 
+            (NP (JJ married) (NNS persons) )))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNPS Centers) )
+      (PP (IN for) 
+        (NP (NNP Disease) (NNP Control) )))
+    (VP (VBZ discovers) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (: ...) (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (NN Graduate) (NNS students) )
+      (VP (VBP are) 
+        (VP (VBG taking) 
+          (ADVP 
+            (ADVP (RBR longer) )
+            (PP (IN than) 
+              (ADVP-TMP (RB ever) )))
+          (S-CLR 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB get) 
+                (NP 
+                  (NP (PRP$ their) (NN doctor) )
+                  (PP (IN of) 
+                    (NP (NN philosophy) (NNS degrees) )))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP National) (NNP Research) (NNP Council) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ estimates) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN time) )
+            (PP (IN between) 
+              (NP 
+                (NP (NN college) (NN graduation) )
+                (CC and) 
+                (NP 
+                  (NP (DT the) (NN awarding) )
+                  (PP (IN of) 
+                    (NP (DT a) (NNP Ph.) (NNP D.) ))))))
+          (VP (VBZ has) 
+            (VP (VBN lengthened) 
+              (PP-EXT (IN by) 
+                (NP (CD 30) (NN %) ))
+              (PP-TMP (IN over) 
+                (NP (DT the) (JJ past) (CD 20) (NNS years) ))
+              (, ,) 
+              (PP (IN with) 
+                (S-NOM 
+                  (NP-SBJ (DT the) (JJ average) (NN gap) )
+                  (ADVP-TMP (RB now) )
+                  (VP (VBG ranging) 
+                    (PP-CLR 
+                      (PP (IN from) 
+                        (NP 
+                          (NP 
+                            (QP (IN about) (CD 7.4) )
+                            (NNS years) )
+                          (PP-LOC (IN in) 
+                            (NP (DT the) (JJ physical) (NNS sciences) ))))
+                      (PP (TO to) 
+                        (NP 
+                          (NP (CD 16.2) (NNS years) )
+                          (PP-LOC (IN in) 
+                            (NP (NN education) )))))))))))))
+    (. .) ))

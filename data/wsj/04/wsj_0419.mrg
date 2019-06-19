@@ -1,0 +1,387 @@
+
+( (S 
+    (NP-SBJ (NNP NRM) (NNP Energy) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD filed) 
+            (NP (NNS materials) )
+            (PP-CLR (IN with) 
+              (NP (DT the) (NNP Securities) 
+                (CC and)
+                (NNP Exchange) (NNP Commission) ))
+            (S-ADV 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG calling) 
+                (SBAR (IN for) 
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (TO to) 
+                      (VP (VB restructure) 
+                        (PP-CLR (IN into) 
+                          (NP (DT a) (NN corporation) ))
+                        (PP-CLR (IN from) 
+                          (NP (DT a) (VBN limited) (NN partnership) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN partnership) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG proposing) 
+              (NP (DT the) (NN change) )
+              (SBAR-PRP (RB largely) (IN because) 
+                (S 
+                  (NP-SBJ 
+                    (NP (DT the) (NNS provisions) )
+                    (PP (IN of) 
+                      (NP (PRP$ its) (JJ senior) (NNS notes) )))
+                  (VP (VBP restrict) 
+                    (NP-1 (PRP it) )
+                    (PP-CLR (IN from) 
+                      (S-NOM 
+                        (NP-SBJ (-NONE- *-1) )
+                        (VP (VBG making) 
+                          (NP (NNS distributions) )
+                          (PP-CLR (IN on) 
+                            (NP 
+                              (NP (PRP$ its) (NNS units) )
+                              (ADJP (JJ outstanding) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP NRM) )
+    (VP 
+      (VP (VBD suspended) 
+        (NP-3 (PRP$ its) (JJ common) (NN distribution) )
+        (PP-TMP-2 (IN in) 
+          (NP (NNP June) (CD 1988) )))
+      (CC and) 
+      (VP 
+        (NP=3 
+          (NP (DT the) (NN distribution) )
+          (PP (IN on) 
+            (NP (PRP$ its) 
+              (ADJP ($ $) (CD 2) (-NONE- *U*) )
+              (JJ cumulative) (JJ convertible) (NN acquisition) (VBN preferred) (NNS units) )))
+        (PP-TMP=2 (IN in) 
+          (NP (NNP September) ))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (ADVP (RB However) )
+      (, ,) 
+      (NP-SBJ 
+        (NP (JJ unpaid) (NNS distributions) )
+        (PP (IN on) 
+          (NP 
+            (NP (DT the) (NN acquisition) )
+            (VP (VBN preferred) 
+              (NP (-NONE- *) )))))
+      (VP 
+        (VP (VBP are) 
+          (ADJP-PRD (JJ cumulative) ))
+        (CC and) 
+        (VP (MD would) 
+          (VP (VB total) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 23) (CD million) )
+                (-NONE- *U*) )
+              (NP-ADV (DT a) (NN year) ))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG hurting) 
+                (NP 
+                  (NP 
+                    (NP (NNP NRM) (POS 's) )
+                    (JJ financial) (NN flexibility) )
+                  (CC and) 
+                  (NP (PRP$ its) (NN ability) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB raise) 
+                          (NP (NN capital) ))))))))))))
+    (, ,) 
+    (NP-SBJ (NNP NRM) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG following) 
+          (NP 
+            (NP (JJ several) (JJ other) (NN oil) 
+              (CC and)
+              (NN gas) (NNS partnerships) )
+            (SBAR 
+              (WHNP-1 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBP have) 
+                  (VP (VBN made) 
+                    (NP 
+                      (NP (DT the) (NN conversion) )
+                      (PP (TO to) 
+                        (NP (DT a) (NN corporation) )))
+                    (PP-TMP (IN in) 
+                      (NP (DT the) (JJ last) (NN year) ))))))))))
+    (, ,) 
+    (NP-SBJ (NNP NRM) )
+    (ADVP (RB also) )
+    (VP 
+      (VP (VBD noted) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (NN tax) (NNS advantages) )
+              (PP (IN for) 
+                (NP (NNS partnerships) )))
+            (VP (VBP have) 
+              (VP (VBN diminished) 
+                (PP-CLR (IN under) 
+                  (NP (JJ new) (NN tax) (NNS laws) )))))))
+      (CC and) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (MD would) 
+              (VP (VB save) 
+                (NP 
+                  (NP ($ $) (CD 2) (CD million) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN year) )
+                  (PP (IN in) 
+                    (NP (JJ administrative) (NNS costs) )))
+                (PP-CLR (IN from) 
+                  (NP (DT the) (NN change) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NN plan) ))
+    (, ,) 
+    (NP-SBJ (NNP NRM) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS holders) )
+            (PP (IN of) 
+              (NP (PRP$ its) (JJ common) (NNS units) )))
+          (VP (MD will) 
+            (VP (VB receive) 
+              (NP 
+                (NP (CD one) (NN share) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (JJ new) (JJ common) (NN stock) )
+                    (PP-LOC (IN in) 
+                      (NP (NNP Edisto) (NNP Resources) (NNP Corp.) )))))
+              (PP (IN for) 
+                (NP 
+                  (NP (DT every) (CD 14.97) (JJ common) (NNS units) )
+                  (VP (VBN owned) 
+                    (NP (-NONE- *) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Holders) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNP NRM) (POS 's) )
+          (ADJP ($ $) (CD 2) (-NONE- *U*) )
+          (JJ cumulative) (JJ convertible) (NN acquisition) (VBD preferred) (NNS units) )))
+    (VP (MD will) 
+      (VP (VB receive) 
+        (NP 
+          (NP (CD one) (JJ new) (JJ common) (NN share) )
+          (PP-LOC (IN in) 
+            (NP (NNP Edisto) )))
+        (PP (IN for) 
+          (NP 
+            (NP (DT every) (CD 1.342) (NNS units) )
+            (SBAR 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (VBP own) 
+                  (NP (-NONE- *T*-1) ))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN After) 
+      (NP (DT the) (NN transaction) ))
+    (, ,) 
+    (S 
+      (NP-SBJ (JJ current) (JJ common) (NNS unitholders) )
+      (VP (MD will) 
+        (VP (VB own) 
+          (NP 
+            (NP 
+              (QP (RB about) (CD 21.3) )
+              (NN %) )
+            (PP (IN of) 
+              (NP (NNP Edisto) ))))))
+    (, ,) 
+    (S 
+      (NP-SBJ (JJ current) (NN acquisition) (VBD preferred) (NNS holders) )
+      (VP (MD will) 
+        (VP (VB own) 
+          (NP (CD 72.3) (NN %) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (JJ current) (NNS stockholders) )
+        (PP (IN of) 
+          (NP (NNP Edisto) )))
+      (VP (MD will) 
+        (VP (VB own) 
+          (NP 
+            (NP 
+              (QP (RB about) (CD 6.4) )
+              (NN %) )
+            (, ,) 
+            (NP 
+              (NP (RB about) (DT the) (JJ same) (NN stake) )
+              (SBAR (IN as) 
+                (S 
+                  (NP-SBJ (NNP Edisto) )
+                  (VP (VBZ owns) 
+                    (NP (-NONE- *?*) )
+                    (ADVP-TMP (RB now) )
+                    (PP (IN in) 
+                      (NP (NNP NRM) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Edisto) )
+    (ADVP-TMP (RB currently) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (JJ general) (NN partner) )
+        (PP (IN of) 
+          (NP (NNP NRM) ))))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (NP 
+        (NP (DT the) (JJS largest) (NN holder) )
+        (PP (IN of) 
+          (NP (NN acquisition) (VBG preferred) (NNS units) ))))
+    (, ,) 
+    (NP-SBJ (NNP Mesa) (NNP Limited) (NNP Partnership) )
+    (VP (MD would) 
+      (VP (VB own) 
+        (NP 
+          (NP 
+            (QP (RB about) (CD 28) )
+            (NN %) )
+          (PP (IN of) 
+            (NP (NNP Edisto) )))
+        (PP-TMP (IN after) 
+          (NP (DT the) (NN transaction) ))))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (NP 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP (DT the) (NN transaction) ))))
+    (, ,) 
+    (NP-SBJ-1 (NNP Edisto) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB give) 
+            (NP 
+              (NP (NNP Mesa) )
+              (, ,) 
+              (NP 
+                (NP (DT an) 
+                  (NAC-LOC (NNP Amarillo) 
+                    (, ,)
+                    (NNP Texas) 
+                    (, ,)
+                    )
+                  (NN oil) 
+                  (CC and)
+                  (NN gas) (NN partnership) )
+                (VP (VBN managed) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS (NNP T.) (NNP Boone) (NNP Pickens) (NNP Jr.) ))))
+              (, ,) )
+            (NP 
+              (NP (DT a) (NN seat) )
+              (PP (IN on) 
+                (NP (PRP$ its) (NN board) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP NRM) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP$ its) 
+            (ADJP ($ $) (CD 2.60) (-NONE- *U*) )
+            (JJ senior) (JJ cumulative) (JJ convertible) (VBN preferred) (NNS units) )
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBN converted) 
+                (NP (-NONE- *-1) )
+                (PP-CLR (IN into) 
+                  (NP 
+                    (NP (DT an) (JJ equal) (NN number) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNS shares) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP 
+                              (ADJP ($ $) (CD 2.60) (-NONE- *U*) )
+                              (JJ senior) (JJ cumulative) (NN convertible) (VBD preferred) (NN stock) )
+                            (PP (IN of) 
+                              (NP (NNP Edisto) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN transaction) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ subject) 
+        (PP (TO to) 
+          (NP 
+            (NP (NN approval) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP NRM) (NNS unitholders) )
+                (PP (IN of) 
+                  (NP (NN record) ))
+                (PP-TMP (IN on) 
+                  (NP (NNP Oct.) (CD 23) ))))
+            (, ,) 
+            (PP (IN among) 
+              (NP (JJ other) (NNS conditions) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP NRM) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (NNS unitholders) )
+              (VP (TO to) 
+                (VP (VB vote) 
+                  (PP-CLR (IN on) 
+                    (NP (DT the) (NN restructuring) ))
+                  (PP-LOC (IN at) 
+                    (NP 
+                      (NP (DT a) (NN meeting) )
+                      (NP-TMP (NNP Dec.) (CD 15) ))))))))))
+    (. .) ))

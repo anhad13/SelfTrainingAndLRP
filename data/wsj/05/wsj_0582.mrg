@@ -1,0 +1,98 @@
+
+( (S 
+    (NP-SBJ (NNP Humana) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB receive) 
+                  (NP 
+                    (NP 
+                      (QP (IN about) ($ $) (CD 27) (CD million) )
+                      (-NONE- *U*) )
+                    (PP (IN in) 
+                      (NP 
+                        (NP (JJ federal) (JJ income-tax) (NNS refunds) )
+                        (CC and) 
+                        (NP (NN interest) ))))
+                  (PP (IN from) 
+                    (NP 
+                      (NP (DT a) (NN court) (VBG ruling) )
+                      (PP (IN on) 
+                        (NP (DT a) (NN tax) (NN dispute) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ health-care) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ-1 (DT the) (NN refund) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (VP (VBN included) 
+                    (NP (-NONE- *-1) )
+                    (PP-CLR (IN in) 
+                      (NP 
+                        (NP (DT the) (JJ first) (NN quarter) )
+                        (VP (VBG ending) 
+                          (NP-TMP (NNP Nov.) (CD 30) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN refund) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (QP (IN about) ($ $) (CD 9) (CD million) )
+        (-NONE- *U*) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (VBN Accrued) (NN interest) )
+      (PP (IN on) 
+        (NP (DT the) (NN refund) )))
+    (VP (VBD was) 
+      (NP-PRD 
+        (QP (IN about) ($ $) (CD 18) (CD million) )
+        (-NONE- *U*) )
+      (PP-TMP (IN as) 
+        (PP (IN of) 
+          (NP (NNP Oct.) (CD 25) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN refund) )
+    (VP (VBZ stems) 
+      (PP-CLR (IN from) 
+        (NP 
+          (NP (DT a) (NN court) (NN ruling) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD found) 
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP-SBJ 
+                      (NP (JJ certain) (NNS payments) )
+                      (PP (IN by) 
+                        (NP (NNP Humana) (NNS subsidiaries) ))
+                      (PP (TO to) 
+                        (NP (PRP$ its) (NN insurance) (NN subsidiary) ))
+                      (PP-TMP (IN during) 
+                        (NP 
+                          (NP (JJ fiscal) (CD 1977) )
+                          (PP (IN through) 
+                            (NP (CD 1979) )))))
+                    (VP (VBD were) 
+                      (ADJP-PRD (JJ deductible) 
+                        (PP (IN as) 
+                          (NP 
+                            (NP (NNS premiums) )
+                            (PP (IN for) 
+                              (NP (NN liability) (NN insurance) ))))))))))))))
+    (. .) ))

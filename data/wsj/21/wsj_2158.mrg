@@ -1,0 +1,85 @@
+
+( (S 
+    (NP-SBJ (NNP CALIFORNIA) (NNP REAL) (NNP ESTATE) (NNP INVESTMENT) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NNS directors) )
+          (VP (VBD declared) 
+            (NP 
+              (NP (DT a) (NN dividend) )
+              (PP (IN of) 
+                (NP 
+                  (NP (CD five) (NNS cents) )
+                  (PP (IN per) 
+                    (NP (NN Class) (NNP A) (JJ common) (NN stock) ))))
+              (ADJP (JJ payable) 
+                (NP-TMP (NNP Nov.) (CD 6) )
+                (PP (TO to) 
+                  (NP 
+                    (NP 
+                      (NP (VB stock) )
+                      (PP (IN of) 
+                        (NP (NN record) )))
+                    (NP-TMP (NNP Oct.) (CD 16) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN dividend) )
+    (VP (VBZ represents) 
+      (NP 
+        (NP (DT the) (NN balance) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (PRP$ its) (JJ regular) (JJ quarterly) (NN payout) )
+              (PP (IN of) 
+                (NP 
+                  (NP (CD 10) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))))
+            (, ,) 
+            (SBAR 
+              (WHPP-2 (IN of) 
+                (WHNP (WDT which) ))
+              (S 
+                (NP-SBJ-1 
+                  (NP (NN half) )
+                  (PP (-NONE- *T*-2) ))
+                (VP (VBD was) 
+                  (VP (VBN paid) 
+                    (NP (-NONE- *-1) )
+                    (NP-TMP (NNP July) (CD 17) )
+                    (PP-MNR (IN in) 
+                      (NP (DT a) (JJ final) (NN distribution) ))
+                    (ADVP-TMP (RB prior) 
+                      (PP (TO to) 
+                        (NP 
+                          (NP (PRP$ its) (NN merger) )
+                          (PP (IN with) 
+                            (NP (NNP B.B.) (NNP Real) (NNP Estate) (NNP Investment) (NNP Corp.) ))
+                          (, ,) 
+                          (PP-TMP 
+                            (ADVP (RB also) )
+                            (IN in) 
+                            (NP (NNP July) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ hopes) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB resume) 
+                  (NP 
+                    (NP (PRP$ its) (NN schedule) )
+                    (PP (IN of) 
+                      (NP (JJ regular) (JJ quarterly) (NNS dividends) )))
+                  (PP-TMP (IN at) 
+                    (NP 
+                      (NP (DT the) (NN end) )
+                      (PP (IN of) 
+                        (NP (DT this) (NN year) )))))))))))
+    (. .) ))

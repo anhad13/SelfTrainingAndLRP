@@ -1,0 +1,90 @@
+
+( (NP-TTL (NNP Past) (NNP Due) (NNP Impasse) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP I) )
+      (ADVP-TMP (RB never) )
+      (VP (VBP pay) 
+        (NP (PRP$ my) (NNS bills) )
+        (PP-TMP (IN Till) 
+          (NP (DT the) 
+            (ADJP (RB very) (JJ last) )
+            (NN day) ))))
+    (: ;) 
+    (S 
+      (NP-SBJ-1 (PRP I) )
+      (VP (VBP lose) 
+        (NP 
+          (ADJP (RB far) (JJR less) )
+          (NN interest) )
+        (PP-MNR (IN By) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG proceeding) 
+              (NP-MNR (DT that) (NN way) ))))))
+    (. .) ))
+( (S 
+    (S (CC But) 
+      (NP-SBJ 
+        (NP (PRP it) )
+        (NP (RB all) ))
+      (VP (VBZ evens) 
+        (PRT (IN out) )))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP It) )
+        (VP (VBZ 's) 
+          (ADJP-PRD (RB so) (JJ easy) 
+            (SBAR 
+              (WHNP-2 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB see) 
+                    (NP (-NONE- *T*-2) )))))))))
+    (: :) 
+    (SINV 
+      (PP-TMP (RB Not) (IN till) 
+        (NP (DT the) (JJ last) (NN moment) ))
+      (VBP Am) 
+      (NP-SBJ-3 (PRP I) )
+      (VP (VBN paid) 
+        (NP (-NONE- *-3) )
+        (SBAR-NOM 
+          (WHNP-1 (WP what) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ 's) 
+              (ADJP-PRD (JJ due) 
+                (NP (PRP me) )))))))
+    (. .) ))
+( (NP (: --) (NNP Arnold) (NNP J.) (NNP Zarett) (. .) ))
+( (NP-TTL (NNP Rex) (NNP Tremendae) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (JJ effete) (NNP Tyrannosaurus) (NNP Rex) )
+      (VP (VBD Had) 
+        (NP 
+          (NP (JJ strict) (JJ Cretaceous) (NNS views) )
+          (PP (IN on) 
+            (NP (NN sex) )))))
+    (, ,) (CC And) 
+    (S 
+      (NP-SBJ (DT that) )
+      (VP (VBZ is) 
+        (SBAR-PRD 
+          (WHADVP-1 (WRB why) )
+          (S 
+            (NP-SBJ (PRP you) )
+            (ADVP (RB only) )
+            (VP (VB see) 
+              (S 
+                (NP-SBJ-2 (PRP him) )
+                (VP (VBN Reproduced) 
+                  (NP (-NONE- *-2) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NN museum) ))
+                  (ADVP-PRP (-NONE- *T*-1) ))))))))
+    (. .) ))
+( (NP (: --) (NNP Laurence) (NNP W.) (NNP Thomas) (. .) ))

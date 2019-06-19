@@ -1,0 +1,353 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Xerox) (NNP Corp.) (POS 's) )
+      (JJ third-quarter) (JJ net) (NN income) )
+    (VP (VBD grew) 
+      (NP-EXT (CD 6.2) (NN %) )
+      (PP (IN on) 
+        (NP 
+          (ADJP 
+            (NP (CD 7.3) (NN %) )
+            (JJR higher) )
+          (NN revenue) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG earning) 
+          (NP (JJ mixed) (NNS reviews) )
+          (PP (IN from) 
+            (NP (NNP Wall) (NNP Street) (NNS analysts) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Quarter) (NN net) )
+      (PP (IN for) 
+        (NP (DT the) (NNS business-machines) 
+          (CC and)
+          (NNS financial-services) (NN company) )))
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 155) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 1.41) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) ))))
+      (, ,) 
+      (PP-DIR (IN from) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 146) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 1.37) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) ))))
+      (, ,) 
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJ year-earlier) (NN period) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 4.45) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 4.15) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (NNP Xerox) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 62.75) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (ADVP (RB up) 
+        (NP ($ $) (CD 1) (-NONE- *U*) )))
+    (. .) ))
+( (SINV 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (NNS Sales) (NN growth) 
+          (CC and)
+          (NN profit) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NN business) (NNS products) 
+              (CC and)
+              (NNS systems) )
+            (PRN (: --) 
+              (NP 
+                (NP (NNP Xerox) (POS 's) )
+                (JJ main) (NN business) )
+              (: --) ))))
+      (VP (VBD were) (`` ``) 
+        (ADJP-PRD (JJ disappointing) )))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (NP-SBJ 
+      (NP (NNP B.) (NNP Alex) (NNP Henderson) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ follows) 
+            (NP (DT the) (NN company) )
+            (PP (IN for) 
+              (NP (NNP Prudential-Bache) (NNP Securities) (NNP Inc) ))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ 
+          (NP (NNS Sales) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Xerox) (NNS copiers) )
+              (CC and) 
+              (NP (JJ other) (NN office) (NNS products) ))))
+        (VP (VBD grew) 
+          (NP-EXT (CD 1.6) (NN %) )))
+      (: ;) (`` ``) 
+      (S 
+        (NP-SBJ (PRP we) )
+        (VP (VBD expected) 
+          (NP 
+            (NP (NN growth) )
+            (PP (IN of) 
+              (NP 
+                (QP (CD 6) (NN %) (TO to) (CD 7) (NN %) )
+                (-NONE- *U*) ))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Henderson) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NN Operating-profit) (NNS margins) )
+      (VP (VBD slipped) 
+        (NP-EXT 
+          (QP (RB almost) (CD 18) )
+          (NN %) )
+        (, ,) 
+        (PP-DIR (TO to) 
+          (NP 
+            (NP (CD 4.3) (NN %) )
+            (PP (IN of) 
+              (NP (NNS sales) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN analyst) )
+    (VP (VBD noted) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 
+      (ADVP (RB Still) )
+      (, ,) 
+      (PP (IN with) 
+        (S-NOM 
+          (NP-SBJ 
+            (NP (NNS competitors) )
+            (PP (JJ such) (IN as) 
+              (NP (NNP Eastman) (NNP Kodak) (NNP Co.) )))
+          (VP (VBG faltering) 
+            (PP-LOC (IN in) 
+              (NP (NN copier) (NNS sales) )))))
+      (, ,) 
+      (NP-SBJ 
+        (NP (NNP Xerox) (POS 's) )
+        (NNS sales) (VBZ increases) )
+      (`` ``) 
+      (VP (VBD were) 
+        (ADJP-PRD (JJ encouraging) )))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (NNP Eugene) (NNP Glazer) )
+      (PP (IN of) 
+        (NP (NNP Dean) (NNP Witter) (NNP Reynolds) (NNP Inc) )))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (PRP They) )
+        (VP (VBP are) 
+          (VP (VBG holding) 
+            (NP (PRP$ their) (JJ own) )
+            (PP-LOC (IN in) 
+              (NP (DT a) (JJ weak) (NN market) )))))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP-SBJ (DT the) (NN restructuring) )
+        (VP (VBZ is) 
+          (VP (VBG working) ))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP David) (NNP T.) (NNP Kearns) )
+      (, ,) 
+      (NP (NNP Xerox) 
+        (NX 
+          (NX (NN chairman) )
+          (CC and) 
+          (NX (JJ chief) (JJ executive) (NN officer) )))
+      (, ,) )
+    (VP (VBD cited) 
+      (NP 
+        (NP (DT the) (NN restructuring) )
+        (CC and) 
+        (NP (`` ``) (JJ strong) ('' '') (NN cost) (NNS controls) ))
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) 
+            (ADJP (CD 13) (NN %) )
+            (NN growth) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (NN profit) )
+              (PP (IN from) 
+                (NP (NN business) (NNS products) 
+                  (CC and)
+                  (NNS systems) (NNS operations) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Glazer) )
+    (VP (VBZ expects) 
+      (S 
+        (NP-SBJ (NNP Xerox) )
+        (VP (TO to) 
+          (VP (VB experience) 
+            (NP 
+              (NP (JJ tough) (NN sledding) )
+              (PRN 
+                (, ,)
+                (ADVP (RB though) )
+                (, ,) )
+              (PP-LOC (IN in) 
+                (NP (JJ financial) (NNS services) )))
+            (PP-PRP (IN because) (IN of) 
+              (NP 
+                (NP (NN rate) (NNS pressures) )
+                (CC and) 
+                (NP 
+                  (NP (NN uncertainty) )
+                  (VP (VBG surrounding) 
+                    (NP 
+                      (NP (NN tax) (NN treatment) )
+                      (PP (IN of) 
+                        (NP (NN capital) (NNS gains) )))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Crum) (CC &) (NNP Forster) (NN insurance) (NN unit) )
+    (VP (VBD reported) 
+      (NP 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 200) (CD million) )
+            (-NONE- *U*) )
+          (PP (-NONE- *ICH*-1) ))
+        (PP-TMP (IN before) 
+          (NP (NN tax) ))
+        (PP-1 (IN of) 
+          (NP 
+            (NP (NN capital) (NNS gains) )
+            (PP (IN from) 
+              (NP (NN property) 
+                (CC and)
+                (NN casualty) (NNS operations) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN subsidiary) )
+    (ADVP (RB also) )
+    (VP 
+      (VP (VBD increased) 
+        (NP (NNS reserves) )
+        (PP-MNR (IN by) 
+          (NP 
+            (QP ($ $) (CD 140) (CD million) )
+            (-NONE- *U*) )))
+      (, ,) 
+      (ADVP (RB however) )
+      (, ,) 
+      (CC and)
+      (VP (VBD set) 
+        (ADVP-CLR (RB aside) )
+        (NP (DT an) (JJ additional) 
+          (QP ($ $) (CD 25) (CD million) )
+          (-NONE- *U*) )
+        (PP-PRP (IN for) 
+          (NP 
+            (NP (NNS claims) )
+            (VP (VBN connected) 
+              (NP (-NONE- *) )
+              (PP-CLR (IN with) 
+                (NP (NNP Hurricane) (NNP Hugo) )))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (NNP Xerox) )
+    (VP (VBD earned) 
+      (NP 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 492) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 4.55) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) )))
+        (, ,) 
+        (ADVP (RB up) 
+          (NP (CD 5.8) (NN %) )
+          (PP (IN from) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 465) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP ($ $) (CD 4.32) (-NONE- *U*) )
+                (NP-ADV (DT a) (NN share) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 7.6) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 12.97) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 12.05) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))

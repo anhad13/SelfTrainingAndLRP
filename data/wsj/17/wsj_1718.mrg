@@ -1,0 +1,140 @@
+
+( (S 
+    (NP-SBJ (DT The) (JJ Canadian) (NN government) )
+    (VP (VBD introduced) 
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT the) (NNP House) )
+          (PP (IN of) 
+            (NP (NNP Commons) ))))
+      (NP 
+        (NP (NN legislation) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB extend) 
+                (NP (JJ federal) (JJ regulatory) (NN authority) )
+                (PP-DIR (IN over) 
+                  (NP 
+                    (NP (JJ provincial) (JJ government-owned) (NN telephone) (NNS utilities) )
+                    (PP-LOC (IN in) 
+                      (NP (NNP Alberta) 
+                        (, ,)
+                        (NNP Saskatchewan) 
+                        (CC and)
+                        (NNP Manitoba) ))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN legislation) )
+      (VP (MD would) 
+        (VP (VB open) 
+          (NP 
+            (NP (DT the) (NN way) )
+            (PP (IN for) 
+              (NP 
+                (NP 
+                  (NP (JJR more) (NN telephone) (NNS services) )
+                  (CC and) 
+                  (NP 
+                    (NP (JJR more) (NN competition) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (NN telephone) (NN business) ))))
+                (PP-LOC (IN in) 
+                  (NP (DT the) (CD three) (NNS provinces) ))))))))
+    (, ,) 
+    (NP-SBJ (JJ federal) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ federal) (NN government) (NN initiative) )
+    (VP (VBZ follows) 
+      (NP 
+        (NP (DT a) (JJ recent) (NNP Canadian) (NNP Supreme) (NNP Court) (NN decision) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD held) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ 
+                    (NP (DT the) (JJ major) (NN telephone) (NNS companies) )
+                    (PP-LOC 
+                      (PP (IN in) 
+                        (NP (NNP Alberta) 
+                          (, ,)
+                          (NNP Saskatchewan) 
+                          (CC and)
+                          (NNP Manitoba) ))
+                      (CC and) 
+                      (PP (IN in) 
+                        (NP (DT the) (JJ Atlantic) (NN coast) (NNS provinces) ))))
+                  (VP (VBD were) 
+                    (UCP-PRD 
+                      (NP (JJ interprovincial) (NNS undertakings) )
+                      (CC and) 
+                      (ADJP (JJ subject) 
+                        (PP (TO to) 
+                          (NP (JJ federal) (JJ legislative) (NN authority) ))))))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Prior) 
+      (PP (TO to) 
+        (NP (DT the) (NN ruling) )))
+    (NP-SBJ (DT the) (JJ federal) (NN government) )
+    (VP (VBD had) 
+      (VP (VBN regulated) 
+        (NP 
+          (NP (RB only) (DT the) (NN telephone) (NNS companies) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (NNP Quebec) )
+              (, ,) 
+              (NP (NNP Ontario) )
+              (, ,) 
+              (NP (NNP British) (NNP Columbia) )
+              (CC and) 
+              (NP (DT the) (NNP Northwest) (NNPS Territories) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS governments) )
+      (PP (IN of) 
+        (NP (NNP Alberta) 
+          (, ,)
+          (NNP Saskatchewan) 
+          (CC and)
+          (NNP Manitoba) )))
+    (VP (VBP have) 
+      (VP 
+        (ADVP-MNR (RB strongly) )
+        (VBN opposed) 
+        (NP 
+          (NP (JJ federal) (NN regulation) )
+          (PP (IN of) 
+            (NP (PRP$ their) (NN telephone) (NNS companies) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN extension) )
+      (PP (IN of) 
+        (NP (JJ federal) (JJ regulatory) (NN authority) ))
+      (PP (IN over) 
+        (NP 
+          (NP (NN telephone) (NNS utilities) )
+          (PP-LOC (IN in) 
+            (NP (DT the) (JJ Atlantic) (NNS provinces) )))))
+    (VP (VBZ has) (RB n't) 
+      (VP (VBN required) 
+        (NP (JJ special) (NN legislation) )
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBP are) 
+              (ADJP-PRD (JJ investor-owned) ))))))
+    (. .) ))

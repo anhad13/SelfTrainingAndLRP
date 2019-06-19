@@ -1,0 +1,29 @@
+
+( (S 
+    (NP-SBJ (DT THE) (NNP YALE) (JJ POLITICAL) (NN UNION) )
+    (VP (VBZ does) (RB n't) 
+      (VP (VB pay) 
+        (NP (DT an) (NN honorarium) )
+        (PP-DTV (TO to) 
+          (NP (NNS speakers) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (NNP Thursday) (POS 's) )
+        (NN edition) ))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD was) 
+      (VP 
+        (ADVP-MNR (RB incorrectly) )
+        (VBN indicated) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NN union) )
+            (VP (VBD had) 
+              (VP (VBN paid) 
+                (NP (DT a) (NN fee) )
+                (PP-DTV (TO to) 
+                  (NP (JJ former) (NNP House) (NNP Speaker) (NNP Jim) (NNP Wright) ))))))))
+    (. .) ))

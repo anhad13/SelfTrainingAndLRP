@@ -1,0 +1,161 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Unilab) (NNP Corp.) )
+      (, ,) 
+      (NP 
+        (NP (NNP Norcross) )
+        (, ,) 
+        (NP (NNP Ga.) ))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD acquired) 
+            (NP 
+              (NP (DT the) (JJ clinical) (NNS laboratories) )
+              (PP (IN of) 
+                (NP 
+                  (ADJP (RB closely) (VBN held) )
+                  (NNP Central) (NNP Diagnostic) (NNP Laboratory) (NNP Inc.) )))
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT a) (NN cash) 
+                  (CC and)
+                  (NNS securities) (NN transaction) )
+                (VP (VBN valued) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN at) 
+                    (NP 
+                      (QP ($ $) (CD 85) (CD million) )
+                      (-NONE- *U*) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Unilab) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) 
+            (ADJP (RB wholly) (VBN owned) )
+            (NNP MetWest) (NNP Inc.) (NN unit) )
+          (VP 
+            (VP (VBD paid) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 25) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN in) 
+                  (NP (NN cash) ))))
+            (, ,) 
+            (VP (VBN provided) 
+              (NP 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 30) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN in) 
+                    (NP (NNS notes) )))
+                (CC and) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 30) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN in) 
+                    (NP (VBN preferred) (NN stock) )))))
+            (S-PRP 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB acquire) 
+                  (NP 
+                    (NP 
+                      (NP (NNP Central) (POS 's) )
+                      (NNS labs) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (NNP Western) (NNP U.S.) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Unilab) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ provides) 
+            (NP (JJ clinical) (NN laboratory) (NNS services) ))))
+      (, ,) )
+    (VP (VBD competed) 
+      (PP-CLR (IN with) 
+        (NP 
+          (NP (NNP Central) )
+          (, ,) 
+          (VP (VBN based) 
+            (NP (-NONE- *) )
+            (PP-LOC-CLR (IN in) 
+              (NP 
+                (NP (NNP Tarzana) )
+                (, ,) 
+                (NP (NNP Calif.) ))))))
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT a) (NN number) )
+          (PP (IN of) 
+            (NP (NNS areas) )))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 
+      (PP (IN Beyond) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (VBG removing) 
+            (NP (DT a) (NN competitor) ))))
+      (, ,) 
+      (NP-SBJ-2 (DT the) (NN combination) )
+      (VP (MD should) 
+        (VP (VB provide) (`` ``) 
+          (NP (NNS synergies) ))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (NNP Fred) (NNP Harlow) )
+      (, ,) 
+      (NP 
+        (NP (NNP Unilab) (POS 's) )
+        (NN chief) (JJ financial) (NN officer) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP (RB also) )
+    (VP (MD will) 
+      (VP (VB hand) 
+        (NP (NNP Unilab) )
+        (NP (JJ new) (NNS markets) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP Los) (NNP Angeles) ))
+    (, ,) 
+    (PP (IN for) 
+      (NP (NN example) ))
+    (, ,) 
+    (NP-SBJ (NNP Central) )
+    (VP (VBZ has) 
+      (VP (VBN had) 
+        (NP (DT a) (JJ strong) (NN market) (NN position) )
+        (SBAR-ADV (IN while) 
+          (S 
+            (NP-SBJ 
+              (NP (NNP Unilab) (POS 's) )
+              (NN presence) )
+            (VP (VBZ has) 
+              (VP (VBN been) 
+                (ADJP-PRD (RBR less) (JJ prominent) )))))
+        (, ,) 
+        (PP (VBG according) 
+          (PP (TO to) 
+            (NP (NNP Mr.) (NNP Harlow) )))))
+    (. .) ))

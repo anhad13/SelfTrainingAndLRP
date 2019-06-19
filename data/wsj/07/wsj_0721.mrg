@@ -1,0 +1,84 @@
+
+( (S 
+    (NP-SBJ (NNP Trinova) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (MD will) 
+            (VP (VB resume) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG buying) 
+                  (PRT (RP back) )
+                  (NP 
+                    (NP 
+                      (QP (RB as) (JJ many) (IN as) (CD three) (CD million) ))
+                    (PP (IN of) 
+                      (NP (PRP$ its) (JJ common) (NNS shares) )))))
+              (PP-LOC (IN under) 
+                (NP 
+                  (NP (DT a) (NN program) )
+                  (VP (VBN announced) 
+                    (NP (-NONE- *) )
+                    (ADVP-TMP 
+                      (NP (CD two) (NNS years) )
+                      (RB ago) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Trinova) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD had) 
+            (NP 
+              (NP 
+                (QP (CD 34.2) (CD million) )
+                (JJ common) (NNS shares) )
+              (ADJP (JJ outstanding) ))
+            (NP-TMP (NNP Sept.) (CD 30) ))))
+      (, ,) )
+    (VP (VBD had) 
+      (VP (VBN repurchased) 
+        (NP (CD 29,700) (NNS shares) )
+        (PP-TMP (IN since) 
+          (NP (NNP October) (CD 1987) ))
+        (PP-TMP (IN before) 
+          (NP (DT this) (JJS latest) (NN announcement) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ is) (RB n't) 
+            (S 
+              (NP-SBJ-2 (-NONE- *-1) )
+              (VP (VBG making) 
+                (NP (DT a) (NN commitment) 
+                  (S 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (TO to) 
+                      (VP (VB purchase) 
+                        (NP 
+                          (NP (DT a) (JJ specific) (NN number) )
+                          (PP (IN of) 
+                            (NP (NNS shares) )))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (NNP Trinova) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 32.125) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (RB up) 
+        (NP (CD 12.5) (NNS cents) )))
+    (. .) ))

@@ -1,0 +1,82 @@
+
+( (S 
+    (NP-SBJ (NNP Genentech) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NNP West) (NNP German) (NN distributor) )
+            (PP (IN of) 
+              (NP (PRP$ its) (NN heart) (NN drug) (NNP TPA) )))
+          (VP (VBD reached) 
+            (NP (DT a) (NN joint) (NN marketing) (NN agreement) )
+            (PP-CLR (IN with) 
+              (NP 
+                (NP (DT a) (NN subsidiary) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Hoechst) (NNP AG) )
+                    (, ,) 
+                    (SBAR 
+                      (WHNP-1 (WDT which) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (VBZ makes) 
+                          (NP (DT the) (JJ rival) (JJ anti-clotting) (NN agent) (NNP streptokinase) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN biotechnology) (NN concern) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN agreement) )
+            (PP (IN between) 
+              (NP 
+                (NP 
+                  (NP (PRP$ its) (NN longtime) (NNP West) (NNP German) (NN distributor) )
+                  (, ,) 
+                  (NP 
+                    (NP (NNP Boehringer-Ingleheim) (POS 's) )
+                    (NNP Dr.) (NNP Karl) (NNP Thomae) (NNP G.m.b.H.) (NN subsidiary) )
+                  (, ,) )
+                (CC and) 
+                (NP 
+                  (NP (NNP Hoechst) (POS 's) )
+                  (NNP Behringwerke) (NN subsidiary) ))))
+          (VP (VBD was) 
+            (NP-PRD (DT an) (NN attempt) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB expand) 
+                    (NP 
+                      (NP (DT the) (NN market) )
+                      (PP (IN for) 
+                        (NP 
+                          (NP (NN blood-clot) (NNS drugs) )
+                          (PP (IN in) 
+                            (NP (NN general) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NNP Genentech) (NN spokeswoman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN agreement) )
+          (VP (VBZ calls) 
+            (SBAR (IN for) 
+              (S 
+                (NP-SBJ (NNP Hoechst) )
+                (VP (TO to) 
+                  (VP 
+                    (VP (VB promote) 
+                      (NP-1 (NNP TPA) )
+                      (PP-2 (IN for) 
+                        (NP (NN heart) (NNS patients) )))
+                    (CC and) 
+                    (VP 
+                      (NP=1 (NNP streptokinase) )
+                      (PP-PRP=2 (IN for) 
+                        (NP (JJ other) (JJ clot-reducing) (NNS purposes) )))))))))))
+    (. .) ))

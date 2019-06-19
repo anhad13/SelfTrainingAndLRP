@@ -1,0 +1,122 @@
+
+( (S 
+    (S 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (ADJP-PRD (JJ Ready) 
+          (, ,)
+          (JJ Willing) 
+          (CC and)
+          (JJ Unable) ))
+      (NP-SBJ-1 (PRP I) )
+      (ADVP-TMP (RB always) )
+      (VP (VBP lift) 
+        (NP (DT the) (NN hood) )
+        (SBAR-TMP 
+          (WHADVP-2 (WRB When) )
+          (S 
+            (NP-SBJ (PRP$ my) (NN car) )
+            (VP (VBZ does) (RB n't) 
+              (VP (VB start) 
+                (ADVP-TMP (-NONE- *T*-2) )))))))
+    (: ;) 
+    (S 
+      (SBAR-ADV (IN If) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS gadgets) )
+            (PP-LOC (IN at) 
+              (NP (NN home) )))
+          (VP (VBP do) (RB n't) 
+            (VP (VB work) ))))
+      (NP-SBJ (PRP I) )
+      (VP 
+        (ADVP-MNR (RB coolly) )
+        (VBP take) 
+        (NP (PRP them) )
+        (ADVP-CLR (RB apart) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP I) )
+      (VP (MD 'll) 
+        (VP (VB admit) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ (EX there) )
+              (VP (VBZ 's) 
+                (NP-PRD 
+                  (NP (NN nothing) )
+                  (ADJP (JJ wrong) )
+                  (SBAR 
+                    (WHNP-1 (IN That) )
+                    (S 
+                      (NP-SBJ (PRP I) )
+                      (ADVP (RB ever) )
+                      (VP (VBP do) 
+                        (VP (VB find) 
+                          (NP (-NONE- *T*-1) ))))))))))))
+    (, ,) (CC But) 
+    (S 
+      (NP-SBJ 
+        (NP (PRP it) )
+        (SBAR-TMP (-NONE- *EXP*-3) ))
+      (VP (VBZ 's) 
+        (ADJP-PRD (JJ nice) )
+        (SBAR-TMP-3 
+          (WHADVP-2 (WRB when) )
+          (S 
+            (NP-SBJ (NNS people) )
+            (VP (VBP say) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (PRP I) )
+                  (VP (VBP appear) 
+                    (ADJP-PRD (RB mechanically) (JJ inclined) ))))
+              (ADVP-TMP (-NONE- *T*-2) ))))))
+    (. .) ))
+( (NP (: --) (NNP Joshua) (NNP Adams) (. .) ))
+( (NP-HLN (NN Flick) (NN Shock) ))
+( (S 
+    (PP-LOC (IN At) 
+      (NP (DT the) (NNS movies) ))
+    (NP-TMP (NN today) )
+    (PP (IN In) 
+      (NP (NN detail) ))
+    (NP-SBJ (PRP you) )
+    (VP (VBP see) 
+      (SBAR-NOM 
+        (WHNP-1 (WP What) )
+        (S 
+          (NP-SBJ (DT the) (NN prof) )
+          (VP (MD would) (RB n't) 
+            (VP (VB show) 
+              (NP (-NONE- *T*-1) )
+              (PP-LOC (IN In) 
+                (NP (NNP Physiology) (NNP Three) )))))))
+    (. .) ))
+((NP (: --) (NNP Robert) (NNP Gordon) (. .) ))
+( (NP-TTL (JJ Candid) (NN Comment) ))
+( (S 
+    (S 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBP Do) (RB n't) 
+        (VP (VB worry) )))
+    (: ;) 
+    (S 
+      (NP-SBJ-1 (NNS people) )
+      (VP (MD will) 
+        (VP (VB learn) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB read) 
+                (ADVP 
+                  (ADVP (RB as) (RB long) )
+                  (SBAR (IN as) 
+                    (S 
+                      (NP-SBJ (EX there) )
+                      (VP (VBP are) 
+                        (NP-PRD (NN TV) (NN program) (NNS listings) )))))))))))
+    (. .) ))
+( (NP (: --) (NNP John) (NNP Drybred) (. .) ))

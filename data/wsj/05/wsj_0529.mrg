@@ -1,0 +1,377 @@
+
+( (S 
+    (NP-SBJ (NNP TransCanada) (NNPS PipeLines) (NNP Ltd.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ-2 (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB shift) 
+                  (NP (PRP$ its) (NNS headquarters) )
+                  (PP-CLR (TO to) 
+                    (NP 
+                      (NP (NNP Calgary) )
+                      (, ,) 
+                      (NP-LOC (NNP Alberta) )))
+                  (, ,) 
+                  (PP-CLR (IN from) 
+                    (NP (NNP Toronto) ))
+                  (NP-TMP (JJ next) (NN year) )
+                  (S-PRP 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (TO to) 
+                      (VP 
+                        (VP (VB cut) 
+                          (NP (NNS costs) ))
+                        (CC and) 
+                        (VP (VB be) 
+                          (ADJP-PRD (JJR closer) 
+                            (PP (TO to) 
+                              (NP (DT the) (JJ upstream) (NN natural-gas) (NN industry) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Gerald) (NNP Maier) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (NN president) )
+          (PP (-NONE- *RNR*-1) ))
+        (CC and) 
+        (NP 
+          (NP (NN chief) (JJ executive) (NN officer) )
+          (PP (-NONE- *RNR*-1) ))
+        (PP-1 (IN of) 
+          (NP (DT the) (JJ natural-gas) (NN pipeline) 
+            (CC and)
+            (NN marketing) (NN concern) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN company) (POS 's) )
+            (JJ future) (NN growth) )
+          (VP (VBZ is) (`` ``) 
+            (VP 
+              (ADVP-MNR (RB increasingly) )
+              (VBN linked) ('' '') 
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP (NNS decisions) )
+                  (VP (VBN made) 
+                    (NP (-NONE- *) )
+                    (PP (IN by) 
+                      (NP-LGS (JJ Calgary-based) (NN gas) (NNS producers) ))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (PP-TMP (IN Since) 
+        (NP 
+          (NP (NN deregulation) )
+          (PP (IN of) 
+            (NP (DT the) (NN market) ))
+          (PP (IN in) 
+            (NP (CD 1985) ))))
+      (, ,) 
+      (NP-SBJ (NNS producers) )
+      (VP (VBP have) 
+        (VP (VBN become) 
+          (ADJP-PRD 
+            (ADVP-MNR (RB much) (RBR more) (RB intensely) )
+            (VBN involved) 
+            (PP (IN in) 
+              (NP (DT both) (NN transportation) 
+                (CC and)
+                (NN marketing) ))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Maier) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) (`` ``) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ 's) 
+        (NP-PRD 
+          (NP (DT a) (NN matter) )
+          (PP (IN of) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG being) 
+                (ADJP-PRD (JJ close) 
+                  (PP (TO to) 
+                    (NP (DT those) (NNS suppliers) )))))))))
+    (: ;) 
+    (S 
+      (NP-SBJ 
+        (NP (JJ many) )
+        (PP (IN of) 
+          (NP (DT those) (NNS companies) )))
+      (VP (VBP do) (RB n't) 
+        (VP (VB know) 
+          (NP (PRP us) )
+          (ADVP-MNR 
+            (ADVP (RB as) (RB well) )
+            (SBAR (IN as) 
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (MD should) 
+                  (VP (-NONE- *?*) ))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNP TransCanada) )
+    (VP (VBZ transports) 
+      (NP 
+        (NP (DT all) (NN gas) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ moves) 
+              (ADVP-DIR (RB eastward) )
+              (PP-DIR (IN from) 
+                (NP (NNP Alberta) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) )
+    (VP (VBZ includes) 
+      (NP 
+        (NP 
+          (NP (PDT all) (DT the) (NN gas) )
+          (VP (VBN consumed) 
+            (NP (-NONE- *) )
+            (PP-LOC (IN in) 
+              (NP (NNP Ontario) 
+                (CC and)
+                (NNP Quebec) ))))
+        (, ,) 
+        (PP (IN along) (IN with) 
+          (NP 
+            (NP (DT the) (NN bulk) )
+            (PP (IN of) 
+              (NP 
+                (NP (JJ Canadian) (NN gas) (NNS exports) )
+                (PP (TO to) 
+                  (NP (DT the) ))))))))))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Walter) (NNP Litvinchuk) )
+      (, ,) 
+      (NP 
+        (NP (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Pan-Alberta) (NNP Gas) (NNP Ltd.) )
+            (, ,) 
+            (NP (DT a) (JJ Calgary-based) (NN gas) (NN marketing) (NN concern) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN industry) )
+          (VP (MD will) 
+            (VP (VB welcome) 
+              (NP (DT the) (NN move) ))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (S-NOM-SBJ 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG Having) 
+          (NP 
+            (NP (JJR more) )
+            (PP (IN than) 
+              (NP (DT a) (JJ token) (NN presence) )))
+          (ADVP-LOC (RB here) )))
+      (VP (MD should) 
+        (VP (VB enhance) 
+          (NP (NNS communications) 
+            (CC and)
+            (NN business) (NNS relationships) ))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Litvinchuk) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) (`` ``) ))
+( (S 
+    (SBAR-PRP (IN Since) 
+      (S 
+        (NP-SBJ 
+          (NP (DT the) (NN cost) )
+          (PP (IN of) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG transporting) 
+                (NP (NN gas) )))))
+        (VP (VBZ is) 
+          (ADJP-PRD (RB so) (JJ important) 
+            (PP (TO to) 
+              (NP 
+                (NP (NNS producers) (POS ') )
+                (NN ability) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB sell) 
+                      (NP (PRP it) ))))))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (PRP it) )
+      (S (-NONE- *EXP*-1) ))
+    (VP (VBZ helps) 
+      (S-1 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB have) 
+            (NP 
+              (NP (NN input) 
+                (CC and)
+                (NN access) )
+              (PP (TO to) 
+                (NP (NN transportation) (NNS companies) )))))))
+    (. .) ('' '') ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (DT The) (NN move) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (MD could) 
+              (VP (VB cost) 
+                (NP (NNP TransCanada) )
+                (NP 
+                  (NP (RB as) (RB much) )
+                  (PP (IN as) 
+                    (NP 
+                      (NP 
+                        (QP (CD 50) (CD million) )
+                        (JJ Canadian) (NNS dollars) )
+                      (PRN 
+                        (-LRB- -LRB-)
+                        (NP 
+                          (QP ($ US$) (CD 42.5) (CD million) )
+                          (-NONE- *U*) )
+                        (-RRB- -RRB-) ))))
+                (PP (IN in) 
+                  (NP (NN relocation) 
+                    (CC and)
+                    (NN severance) (NNS payments) ))))))
+        (, ,) )
+      (VP (MD should) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ complete) )
+          (PP-TMP (IN by) 
+            (NP (JJ next) (NN summer) )))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Maier) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (QP (DT All) (CD 700) )
+        (JJ Toronto-based) (NNS employees) )
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN offered) 
+            (NP (-NONE- *-1) )
+            (NP 
+              (NP (NNS positions) )
+              (PP-LOC (IN in) 
+                (NP (NNP Calgary) )))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ-2 (DT The) (NN company) )
+      (VP (MD will) 
+        (VP (VB save) 
+          (NP 
+            (QP (IN between) ($ C$) (CD 4) (CD million) 
+              (CC and)
+              ($ C$) (CD 6) (CD million) )
+            (-NONE- *U*) )
+          (ADVP-TMP (RB annually) )
+          (PP (IN in) 
+            (NP 
+              (NP (NN office) (NNS expenses) )
+              (CC and) 
+              (NP (JJ other) (JJ administrative) (NNS costs) )))
+          (PP-MNR (IN by) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (VBG moving) 
+                (PP-DIR (TO to) 
+                  (NP (NNP Calgary) ))))))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Maier) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NN Part) )
+      (PP (IN of) 
+        (NP (PDT both) 
+          (NP (DT the) (NNS costs) )
+          (CC and) 
+          (NP (DT the) (NNS savings) ))))
+    (VP (MD could) 
+      (VP (VB be) 
+        (VP (VBN passed) 
+          (NP (-NONE- *-1) )
+          (PRT (RP on) )
+          (PP-CLR (TO to) 
+            (NP 
+              (NP (NNS shippers) )
+              (PP-LOC (IN on) 
+                (NP (DT the) (NNP TransCanada) (NN pipeline) ))))
+          (PP-CLR (IN through) 
+            (NP 
+              (NP (NNS tolls) )
+              (, ,) 
+              (SBAR 
+                (WHNP-3 (WDT which) )
+                (S 
+                  (NP-SBJ-2 (-NONE- *T*-3) )
+                  (VP (VBP are) 
+                    (VP (VBN based) 
+                      (NP (-NONE- *-2) )
+                      (PP-CLR (IN on) 
+                        (NP 
+                          (NP 
+                            (NP (DT the) (NN value) )
+                            (PP (IN of) 
+                              (NP (DT the) (NN pipeline) (NN system) )))
+                          (CC and) 
+                          (NP 
+                            (NP (DT the) (NN cost) )
+                            (PP (IN of) 
+                              (S-NOM 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (VBG operating) 
+                                  (NP (PRP it) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP TransCanada) )
+    (VP (VBZ is) 
+      (VP 
+        (NP-ADV (CD 49.1) (NN %) )
+        (VBN owned) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (JJ Montreal-based) (VBG holding) (NN company) (NNP BCE) (NNP Inc) ))))
+    (. .) ))

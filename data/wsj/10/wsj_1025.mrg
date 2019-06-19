@@ -1,0 +1,103 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Sotheby) (POS 's) )
+        (NNPS Holdings) (NNP Inc.) )
+      (, ,) 
+      (NP 
+        (NP (DT the) (NN parent) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN auction) (NN house) )
+            (NP (NNP Sotheby) (POS 's) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP$ its) (JJ net) (NN loss) )
+            (PP (IN for) 
+              (NP (DT the) 
+                (ADJP (RB seasonally) (JJ slow) )
+                (JJ third) (NN quarter) )))
+          (VP (VBN narrowed) 
+            (PP-CLR (IN from) 
+              (ADVP 
+                (NP (DT a) (NN year) )
+                (RB earlier) ))
+            (PP (IN on) 
+              (NP 
+                (NP (DT a) (NN leap) )
+                (PP-LOC (IN in) 
+                  (NP (NN operating) (NN revenue) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP New) (JJ York-based) (NN company) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) (JJ third-quarter) (JJ net) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 5.1) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 10) (NNS cents) )
+              (NP-ADV (DT a) (NN share) )))))
+      (, ,) 
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP (DT a) (JJ year-earlier) (JJ net) (NN loss) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 6.2) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD 12) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Operating) (NN revenue) )
+    (VP (VBD surged) 
+      (NP-EXT (CD 54) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJS latest) (NN period) ))
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 42.9) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 27.7) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (CD 80) (NN %) )
+            (PP (IN of) 
+              (NP (PRP$ its) (NN auction) (NN business) )))
+          (VP (VBZ is) 
+            (ADVP-TMP (RB usually) )
+            (VP (VBN conducted) 
+              (NP (-NONE- *-1) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ second) 
+                  (CC and)
+                  (JJ fourth) (NNS quarters) ))
+              (, ,) 
+              (PP (IN with) 
+                (S-NOM 
+                  (NP-SBJ (DT the) (JJ current) (NN quarter) )
+                  (VP (VBG having) 
+                    (VP (VBN begun) (`` ``) 
+                      (ADVP-MNR (RB extremely) (RB well) ))))))))))
+    (. .) ))

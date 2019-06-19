@@ -1,0 +1,62 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Douglas) (NNP H.) (NNP Miller) )
+      (, ,) 
+      (ADJP (JJ self-employed) 
+        (PP-LOC (IN in) 
+          (NP (DT the) (NN oil) 
+            (CC and)
+            (NN gas) (NNS securities) (NN business) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN chairman) )
+            (PP (IN of) 
+              (NP (DT this) (NN oil) 
+                (CC and)
+                (NN gas) (NN exploration) (NN company) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG filling) 
+            (NP (DT a) (NN vacancy) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Mr.) (NNP Miller) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (NP-PRD (DT a) (NNP Coda) (NN director) )))))
+      (, ,) )
+    (ADVP (RB also) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD (NN chief) (NN executive) (NN officer) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG succeeding) 
+            (NP 
+              (NP (NNP Ted) (NNP Eubank) )
+              (, ,) 
+              (SBAR 
+                (WHNP-3 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-3) )
+                  (VP (VBZ remains) 
+                    (NP-PRD 
+                      (NP (NN president) )
+                      (CC and) 
+                      (NP (NN chief) (VBG operating) (NN officer) ))))))))))
+    (. .) ))

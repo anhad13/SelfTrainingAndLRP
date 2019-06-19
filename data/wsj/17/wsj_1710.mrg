@@ -1,0 +1,78 @@
+
+( (S 
+    (NP-SBJ (NNP NEW) (NNP ENGLAND) (NNP CRITICAL) (NNP CARE) (NNP Inc.) )
+    (VP (VBD offered) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 35) (CD million) )
+          (-NONE- *U*) )
+        (PP (IN in) 
+          (NP (JJ convertible) (VBN subordinated) (NNS debentures) )))
+      (PP (IN through) 
+        (NP 
+          (NP (NNP Morgan) (NNP Stanley) (CC &) (NNP Co.) )
+          (CC and) 
+          (NP (NNP Prudential-Bache) (NNP Capital) (NNP Funding) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS debentures) )
+      (, ,) 
+      (ADJP (JJ due) 
+        (PP-TMP (IN in) 
+          (NP (CD 2014) )))
+      (, ,) )
+    (VP (VBP have) 
+      (NP 
+        (NP (DT a) (NN coupon) )
+        (PP (IN of) 
+          (NP 
+            (QP (CD 7) (CD 3\/4) )
+            (NN %) ))
+        (, ,) 
+        (ADJP (JJ payable) 
+          (ADVP-TMP (RB semiannually) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS debentures) )
+    (VP (MD may) 
+      (VP (VB be) 
+        (VP (VBN converted) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN into) 
+            (NP 
+              (NP (JJ common) (NN stock) )
+              (PP (IN of) 
+                (NP (DT the) 
+                  (NAC-LOC (NNP Westborough) 
+                    (, ,)
+                    (NNP Mass.) 
+                    (, ,)
+                    )
+                  (NN home) (NN health) (NN care) (NN concern) ))))
+          (PP-CLR (IN at) 
+            (NP 
+              (NP ($ $) (CD 52.50) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Proceeds) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN used) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN for) 
+            (NP 
+              (NP (VBG working) (NN capital) )
+              (CC and) 
+              (NP 
+                (NP (JJ general) (JJ corporate) (NNS purposes) )
+                (, ,) 
+                (PP (VBG including) 
+                  (NP 
+                    (NP (NN expansion) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (NN company) (POS 's) )
+                        (NNS operations) ))))))))))
+    (. .) ))

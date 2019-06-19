@@ -1,0 +1,88 @@
+
+( (S 
+    (NP-SBJ (NNP Falcon) (NNP Cable) (NNPS Systems) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD proposed) 
+            (NP 
+              (NP (DT an) (NN amendment) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (MD would) 
+                    (VP (VB allow) 
+                      (S 
+                        (NP-SBJ (PRP it) )
+                        (VP (TO to) 
+                          (VP (VB increase) 
+                            (NP (PRP$ its) (NN debt) (NN cap) )
+                            (PP-DIR (TO to) 
+                              (NP 
+                                (NP (CD 65) (NN %) )
+                                (PP (IN of) 
+                                  (NP 
+                                    (NP (DT the) (NN company) (POS 's) )
+                                    (JJ fair) (NN market) (NN value) ))))
+                            (PP-DIR (IN from) 
+                              (NP 
+                                (NP (DT the) (CD 40) (NN %) )
+                                (VP 
+                                  (ADVP-TMP (RB currently) )
+                                  (VBN allowed) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Falcon) )
+      (, ,) 
+      (NP (DT a) (JJ limited) (NN partnership) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD wanted) 
+            (NP (DT the) (NN increase) )
+            (UCP-PRP 
+              (SBAR (IN in) (NN order) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB continue) 
+                      (NP (PRP$ its) 
+                        (ADJP ($ $) (JJ 2.15-per-unit) (-NONE- *U*) )
+                        (JJ annual) (NN payment) )))))
+              (, ,) 
+              (CC and)
+              (PP (IN for) 
+                (NP (NN expansion) 
+                  (CC and)
+                  (NNS acquisitions) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN spokesman) )
+      (PP (IN for) 
+        (NP (DT the) (NN company) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT a) (NN meeting) )
+          (VP (MD would) 
+            (VP (VB be) 
+              (VP (VBN held) 
+                (NP (-NONE- *-1) )
+                (SBAR-PRP (IN for) 
+                  (S 
+                    (NP-SBJ (NNS shareholders) )
+                    (VP (TO to) 
+                      (VP (VB vote) 
+                        (PP-CLR (IN on) 
+                          (NP (DT the) (NN amendment) ))
+                        (PP-TMP (IN before) 
+                          (NP 
+                            (NP (NN year) (POS 's) )
+                            (NN end) ))))))))))))
+    (. .) ))

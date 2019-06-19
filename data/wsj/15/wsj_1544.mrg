@@ -1,0 +1,120 @@
+
+( (S 
+    (NP-SBJ-1 (CD Four) (JJ former) (NNP Cordis) (NNP Corp.) (NNS officials) )
+    (VP (VBD were) 
+      (VP (VBN acquitted) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN of) 
+          (NP 
+            (NP (JJ federal) (NNS charges) )
+            (VP (VBN related) 
+              (NP (-NONE- *) )
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (JJ Miami-based) (NN company) (POS 's) )
+                    (NN sale) )
+                  (PP (IN of) 
+                    (NP (NNS pacemakers) )))))
+            (, ,) 
+            (PP (VBG including) 
+              (NP (NN conspiracy) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB hide) 
+                      (NP (NN pacemaker) (NNS defects) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Jurors) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NNP U.S.) (NNP District) (NNP Court) )
+          (PP-LOC (IN in) 
+            (NP (NNP Miami) )))))
+    (VP (VBD cleared) 
+      (NP 
+        (NP 
+          (NP (NNP Harold) (NNP Hershhenson) )
+          (, ,) 
+          (NP (DT a) (JJ former) (JJ executive) (NN vice) (NN president) ))
+        (: ;) 
+        (NP 
+          (NP (NNP John) (NNP Pagones) )
+          (, ,) 
+          (NP (DT a) (JJ former) (NN vice) (NN president) ))
+        (: ;) 
+        (CC and)
+        (NP 
+          (NP 
+            (NP (NNP Stephen) (NNP Vadas) )
+            (CC and) 
+            (NP (NNP Dean) (NNP Ciporkin) ))
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD had) 
+                (VP (VBN been) 
+                  (NP-PRD 
+                    (NP (NNS engineers) )
+                    (PP (IN with) 
+                      (NP (NNP Cordis) ))))))))))
+    (. .) ))
+( (S 
+    (NP-TMP (RBR Earlier) (DT this) (NN year) )
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNP Cordis) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN maker) )
+        (PP (IN of) 
+          (NP (JJ medical) (NNS devices) )))
+      (, ,) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP 
+          (VP (TO to) 
+            (VP (VB plead) 
+              (S-ADV 
+                (NP-SBJ (-NONE- *-2) )
+                (ADJP-PRD (JJ guilty) ))
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP (NN felony) 
+                    (CC and)
+                    (NN misdemeanor) (NNS charges) )
+                  (ADJP (VBN related) 
+                    (PP (TO to) 
+                      (NP (DT the) (NNS pacemakers) )))))))
+          (CC and) 
+          (VP (TO to) 
+            (VP (VB pay) 
+              (NP (DT the) (NN government) )
+              (NP 
+                (NP 
+                  (QP (RB about) ($ $) (CD 5.7) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN in) 
+                  (NP 
+                    (NP (NNS fines) )
+                    (CC and) 
+                    (NP (JJ other) (NNS costs) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Cordis) )
+    (VP (VBD sold) 
+      (NP (PRP$ its) (NN pacemaker) (NNS operations) )
+      (ADVP-TMP 
+        (NP (CD two) (NNS years) )
+        (RB ago) )
+      (PP-DTV (TO to) 
+        (NP 
+          (NP (NNP Telectronics) (NNP Holding) (NNP Ltd.) )
+          (PP (IN of) 
+            (NP (NNP Australia) )))))
+    (. .) ))

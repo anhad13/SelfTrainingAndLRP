@@ -1,0 +1,272 @@
+((S 
+    (NP-VOC (NNP Dick) (NNP Darman) )
+    (, ,) 
+    (NP-SBJ (-NONE- *) )
+    (VP (VB call) 
+      (NP (PRP$ your) (NN office) ))
+    (. .) ))
+((SINV 
+    (VP-TPC-1 (VBN Embedded) 
+      (NP (-NONE- *-2) )
+      (PP-CLR (IN in) 
+        (NP 
+          (NP (DT the) (`` ``) (NN budget) ('' '') )
+          (VP (VBG being) 
+            (VP (VBN concocted) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS (DT the) (NNP House-Senate) (NN conference) (NN committee) )))))))
+    (VP (VBZ is) 
+      (VP (-NONE- *T*-1) ))
+    (NP-SBJ-2 
+      (NP (NN something) )
+      (SBAR 
+        (WHNP-3 (WDT that) )
+        (S 
+          (NP-SBJ (-NONE- *T*-3) )
+          (VP (VBZ looks) 
+            (, ,)
+            (VBZ smells) 
+            (CC and)
+            (VBZ waddles) 
+            (PP-MNR (IN like) 
+              (NP (DT a) (NN duck) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ 's) 
+      (NP-PRD 
+        (NP (DT a) (JJ nuisance) (NN tax) )
+        (PP (IN on) 
+          (NP (NNS mergers) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Congress) )
+    (VP (VBZ has) 
+      (VP (VBN decided) 
+        (S 
+          (NP-SBJ-2 (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB raise) 
+              (NP 
+                (QP ($ $) (CD 40) (CD million) )
+                (-NONE- *U*) )
+              (PP-MNR (IN by) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (VBG charging) 
+                    (NP (NNS companies) )
+                    (NP ($ $) (CD 20,000) (-NONE- *U*) )
+                    (PP-CLR (IN for) 
+                      (NP 
+                        (NP (DT the) (NN honor) )
+                        (PP (IN of) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (VBG filing) 
+                              (NP 
+                                (NP (DT the) (JJ required) (NNS papers) )
+                                (PP-LOC (IN under) 
+                                  (NP (DT the) (NNP Hart-Scott-Rodino) (NN law) ))))))))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (RB Ever) (IN since) 
+      (NP 
+        (NP (DT the) (JJ bad) (NNS days) )
+        (PP (IN of) 
+          (NP 
+            (S-TTL 
+              (NP-SBJ (JJ Big) )
+              (VP (VBZ is) 
+                (ADJP-PRD (JJ Bad) )))
+            (JJ antitrust) (NN enforcement) ))))
+    (, ,) 
+    (NP-SBJ (DT this) (NN law) )
+    (VP (VBZ has) 
+      (VP (VBN required) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (NN anyone) )
+              (VP (VBG proposing) 
+                (NP (DT a) (NN merger) )))
+            (VP (MD must) 
+              (VP (VB make) 
+                (NP 
+                  (NP (DT a) (NN filing) )
+                  (VP (VBG describing) 
+                    (NP 
+                      (NP (DT the) (NNS effects) )
+                      (PP (IN on) 
+                        (NP (DT all) (JJ relevant) (NNS markets) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (DT The) (NNP Hart-Scott) (NN filing) )
+      (VP (VBZ is) 
+        (ADVP-TMP-2 (RB then) )
+        (VP-3 (VBN reviewed) 
+          (NP (-NONE- *-1) ))))
+    (CC and) 
+    (S 
+      (NP-SBJ=1-4 (DT any) (JJ antitrust) (NNS concerns) )
+      (ADVP-TMP=2 (RB usually) )
+      (VP=3 (VBN met) 
+        (NP (-NONE- *-4) )))
+    (. .) ))
+((S 
+    (ADVP (RB Typically) )
+    (, ,) 
+    (NP-SBJ-1 (NNP Hart-Scott) )
+    (VP (VBZ is) 
+      (VP (VBN used) 
+        (NP (-NONE- *-1) )
+        (ADVP-TMP (RB now) )
+        (S-CLR 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB give) 
+              (NP 
+                (NP (NNS managers) )
+                (PP (IN of) 
+                  (NP (NN target) (NNS firms) )))
+              (NP 
+                (NP 
+                  (NP (JJ early) (NN news) )
+                  (PP (IN of) 
+                    (NP (DT a) (NN bid) )))
+                (CC and) 
+                (NP (DT a) (NN chance) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB use) 
+                        (NP (JJ regulatory) (NN review) )
+                        (PP-CLR (IN as) 
+                          (NP (DT a) (NN delaying) (NN tactic) ))))))))))))
+    (. .) ))
+((S 
+    (NP-SBJ (DT The) 
+      (ADJP ($ $) (CD 20,000) (-NONE- *U*) )
+      (NN tax) )
+    (VP (MD would) 
+      (VP (VB be) 
+        (NP-PRD 
+          (NP 
+            (NP (DT a) (JJ small) (NN cost) )
+            (PP-LOC (IN in) 
+              (NP (DT a) (JJ multibillion-dollar) (NN deal) )))
+          (, ,) (CC but) 
+          (NP 
+            (NP (DT a) (JJ serious) (NN drag) )
+            (PP (IN on) 
+              (NP 
+                (NP (NNS thousands) )
+                (PP (IN of) 
+                  (NP (JJ small) 
+                    (, ,)
+                    (JJ friendly) (NNS deals) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (CD One) 
+        (ADJP (RB especially) (JJ dangerous) )
+        (NN aspect) )
+      (PP (TO to) 
+        (NP (DT the) (JJ new) (NN tax) )))
+    (VP (MD would) 
+      (VP (VB be) 
+        (SBAR-PRD (IN that) 
+          (S 
+            (NP-SBJ-1 (DT the) (NNS proceeds) )
+            (VP (MD will) 
+              (VP (VB be) 
+                (VP (VBN used) 
+                  (NP (-NONE- *-1) )
+                  (S-CLR 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB increase) 
+                        (NP 
+                          (NP (DT the) (NNS budgets) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP 
+                                (NP (DT the) (JJ antitrust) (NN division) )
+                                (PP-LOC (IN at) 
+                                  (NP (NNP Justice) )))
+                              (CC and) 
+                              (NP (DT the) (NNP Federal) (NNP Trade) (NNP Commission) ))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT This) )
+      (VP (VBZ amounts) 
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT a) (NN bounty) )
+            (PP (IN for) 
+              (NP (NNS regulators) ))))))
+    (: --) 
+    (S 
+      (X-ADV (DT the) (JJR more) (NN regulating) )
+      (X-ADV (DT the) (JJR more) )
+      (NP-SBJ-1 (PRP they) )
+      (VP (VBP get) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB keep) 
+              (NP (-NONE- *?*) ))))))
+    (. .) ))
+((S 
+    (ADVP (RB Also) )
+    (, ,) 
+    (SBAR-ADV (IN as) 
+      (S 
+        (NP-SBJ (JJ former) (NNP Reagan) (JJ antitrust) (NN chief) (NNP Charles) (NNP Rule) )
+        (VP (VBZ has) 
+          (VP (VBN noted) 
+            (SBAR (-NONE- 0) 
+              (S (-NONE- *?*) ))))))
+    (, ,) 
+    (NP-SBJ (DT this) )
+    (VP (MD would) (`` ``) 
+      (VP (VB establish) 
+        (NP (DT the) (NN precedent) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (DT the) (NN government) )
+              (VP (MD may) 
+                (VP (VB charge) 
+                  (NP (NNS parties) )
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (NP (DT the) (NN privilege) )
+                      (PP (IN of) 
+                        (S-NOM 
+                          (NP-SBJ-1 (-NONE- *) )
+                          (VP (VBG being) 
+                            (VP (VBN sued) 
+                              (NP (-NONE- *-1) )))))))
+                  (ADVP (RB regardless) 
+                    (PP (IN of) 
+                      (SBAR (IN whether) 
+                        (S 
+                          (NP-SBJ (DT the) (NN government) )
+                          (VP (VBZ prevails) ))))))))))))
+    (. .) ('' '') ))
+( (NP (RB Yet) (DT another) (NN opportunity) 
+    (SBAR (IN for) 
+      (S 
+        (NP-SBJ (NNP President) (NNP Bush) )
+        (VP (TO to) 
+          (VP (VB respond) 
+            (, ,)
+            (`` ``) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (VB Read) 
+                (NP (PRP$ my) (NNS lips) )))))))
+    (. .) ))
+( (NP (JJ Line-item) (NN veto) (. .) ))

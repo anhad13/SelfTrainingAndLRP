@@ -1,0 +1,55 @@
+
+( (NP-HLN (NNP Two-Way) (NNP Street) ))
+( (SBARQ 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (DT the) (JJ sixty-day) (JJ plant-closing) (NN law) )
+        (VP (VBZ 's) 
+          (ADJP-PRD (JJ fair) ))))
+    (, ,) 
+    (SBARQ 
+      (WHADVP (WRB Why) )
+      (SQ (MD should) 
+        (NP-SBJ (PRP we) )
+        (RB not) 
+        (ADVP (RB then) )
+        (VP (VB amend) 
+          (NP (DT the) (NN writ) )
+          (S-CLR 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO To) 
+              (VP (VB require) 
+                (SBAR (IN that) 
+                  (S 
+                    (NP-SBJ (DT all) (NNS employees) )
+                    (VP (VBP give) 
+                      (NP (JJ Similar) (NN notice) )
+                      (SBAR-TMP (IN before) 
+                        (S 
+                          (NP-SBJ (PRP they) )
+                          (VP (VBP quit) ))))))))))))
+    (. ?) ))
+( (NP-HLN (: --) (NNP Rollin) (NNP S.) (NNP Trexler) (. .) ))
+( (NP-HLN (NNP Candid) (NNP Comment) ))
+( (SQ 
+    (SBAR-TMP 
+      (WHNP-4 (WRB When) )
+      (S 
+        (NP-SBJ-1 (NN research) (NNS projects) )
+        (VP (VBP are) 
+          (VP (VBN curtailed) 
+            (NP (-NONE- *-1) )
+            (PP-PRP (JJ due) (TO to) 
+              (NP (NN government) (NN funding) (NNS cuts) ))
+            (ADVP-TMP (-NONE- *T*-4) )))))
+    (, ,) (VBP are) 
+    (NP-SBJ-3 (PRP we) )
+    (VP (`` ``) (VBN caught) 
+      (NP (-NONE- *-3) )
+      (SBAR-CLR (IN with) 
+        (S 
+          (NP-SBJ (PRP$ our) (NNS grants) )
+          (ADVP-PRD (IN down) )))
+      ('' '') )
+    (. ?) ))
+( (NP-HLN (: --) (NNP C.E.) (NNP Friedman) (. .) ))

@@ -1,0 +1,67 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (JJ Canadian) (NN steel) (NN ingot) (NN production) )
+      (VP (VBD totaled) 
+        (NP (CD 276,334) (JJ metric) (NNS tons) )
+        (PP-TMP (IN in) 
+          (NP 
+            (NP (DT the) (NN week) )
+            (VP (VBN ended) 
+              (NP-TMP (NNP Oct.) (CD 14) ))))
+        (, ,) 
+        (ADVP (RB down) 
+          (NP (CD 5.3) (NN %) )
+          (PP (IN from) 
+            (NP 
+              (NP 
+                (NP (DT the) (VBG preceding) (NN week) (POS 's) )
+                (NN total) )
+              (PP (IN of) 
+                (NP (CD 291,890) (NNS tons) )))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Statistics) (NNP Canada) )
+      (, ,) 
+      (NP (DT a) (JJ federal) (NN agency) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN week) (POS 's) )
+      (NN total) )
+    (VP (VBD was) 
+      (ADVP-PRD (RB down) 
+        (NP (CD 7.1) (NN %) )
+        (PP (IN from) 
+          (NP (CD 297,446) (NNS tons) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (JJ metric) (NN ton) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ equal) 
+        (PP (TO to) 
+          (NP (CD 2,204.62) (NNS pounds) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ cumulative) (NN total) )
+      (PP-TMP (IN in) 
+        (NP (CD 1989) )))
+    (VP (VBD was) 
+      (NP-PRD (CD 12,283,217) (NNS tons) )
+      (, ,) 
+      (ADVP (RB up) 
+        (NP (CD 7.5) (NN %) )
+        (PP (IN from) 
+          (NP (CD 11,429,243) (NNS tons) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (. .) ))

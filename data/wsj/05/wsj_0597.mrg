@@ -1,0 +1,178 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN state) (NN trial) (NN judge) )
+      (PP-LOC (IN in) 
+        (NP (NNP Illinois) )))
+    (VP (VBD gave) 
+      (NP (JJ preliminary) (NN approval) )
+      (PP-DTV (TO to) 
+        (NP 
+          (NP (DT a) (VBN proposed) (NN settlement) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT a) (NN suit) )
+              (PP (IN against) 
+                (NP 
+                  (NP (DT a) 
+                    (NAC (NNP Bank) 
+                      (PP (IN of) 
+                        (NP (NNP New) (NNP York) (NNP Co.) )))
+                    (NN unit) )
+                  (, ,) 
+                  (NP (NNP Irving) (NNP Trust) (NNP Co.) )
+                  (, ,) ))
+              (PP (IN over) 
+                (NP 
+                  (NP (DT the) (NN interest) (NNS rates) )
+                  (PP (IN on) 
+                    (NP 
+                      (NP (NNP Irving) (POS 's) )
+                      (JJ former) (CD One) (NNP Wall) (NNP Street) (NNP Account) (JJ money-market) (NN deposit) (NNS accounts) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Judge) (NNP Albert) (NNP Green) )
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NNP Cook) (NNP County) (NNP Circuit) (NNP Court) )
+          (PP-LOC (IN in) 
+            (NP (NNP Chicago) ))))
+      (, ,) )
+    (ADVP (RB also) )
+    (VP (VBD recognized) 
+      (NP 
+        (NP (DT the) (NN suit) )
+        (, ,) 
+        (VP (VBN filed) 
+          (NP (-NONE- *) )
+          (NP-TMP (JJ last) (NNP May) )
+          (PP (IN by) 
+            (NP-LGS (NNP Robert) 
+              (CC and)
+              (NNP Cynthia) (NNP Langendorf) ))))
+      (, ,) 
+      (PP-CLR (IN as) 
+        (NP 
+          (NP (DT a) (NN class) (NN action) )
+          (VP (VBG covering) 
+            (NP 
+              (NP (NNS thousands) )
+              (PP (IN of) 
+                (NP (NNP Irving) (NNS customers) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS plaintiffs) )
+    (VP (VBD accused) 
+      (NP-2 (NNP Irving) )
+      (PP-CLR (IN of) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (VBG paying) 
+            (NP 
+              (NP (JJR less) (NN interest) )
+              (SBAR (IN than) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBN promised) 
+                    (NP (-NONE- *?*) )
+                    (PP-LOC (IN in) 
+                      (NP (DT a) (NN marketing) (NN brochure) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Irving) )
+    (VP (VBD maintained) 
+      (PRN (: --) 
+        (CC and)
+        (ADVP-TMP (RB still) )
+        (VP (VBZ does) 
+          (VP (-NONE- *?*) ))
+        (: --) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP$ its) (NNS actions) )
+          (VP (VBD were) 
+            (ADJP-PRD (JJ proper) )
+            (PP-LOC (IN under) 
+              (NP 
+                (NP (PRP$ its) (NN account) (NNS agreements) )
+                (PP (IN with) 
+                  (NP (NNS customers) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (VBN proposed) (NN settlement) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNS customers) )
+      (PP (IN with) 
+        (NP 
+          (NP (JJ valid) (NNS claims) )
+          (: --) 
+          (SBAR 
+            (WHNP-2 (-NONE- 0) )
+            (S 
+              (NP-SBJ-1 (-NONE- *T*-2) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (VP (VBN submitted) 
+                    (NP (-NONE- *-1) )
+                    (PP-TMP (IN by) 
+                      (NP (NNP Dec.) (CD 15) )))))))
+          (: --) )))
+    (VP (MD will) 
+      (VP (VB receive) 
+        (NP (`` ``) 
+          (NP (JJ valuable) (NN bank) (NNS services) )
+          (, ,) ('' '') 
+          (PP (JJ such) (IN as) 
+            (NP 
+              (NP (NN credit) (NNS cards) )
+              (PP (IN with) 
+                (NP (VBN reduced) (NN finance) (NNS charges) )))))
+        (, ,) 
+        (PP-TMP (IN for) 
+          (NP (CD two) (NNS years) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Larry) (NNP Drury) )
+      (, ,) 
+      (NP 
+        (NP (NN attorney) )
+        (PP (IN for) 
+          (NP (DT the) (NNS plaintiffs) )))
+      (, ,) )
+    (VP (VBD valued) 
+      (NP (DT the) (NN settlement) )
+      (PP-CLR (IN at) 
+        (NP 
+          (QP (IN between) ($ $) (CD 6) (CD million) 
+            (CC and)
+            ($ $) (CD 8) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT A) 
+          (NAC (NNP Bank) 
+            (PP (IN of) 
+              (NP (NNP New) (NNP York) )))
+          (NN spokesman) )
+        (PP-LOC (IN in) 
+          (NP (NNP Manhattan) )))
+      (, ,) 
+      (NP (NNP Owen) (NNP Brady) )
+      (, ,) )
+    (VP (VBD said) 
+      (, ,)
+      (`` ``) 
+      (S 
+        (NP-SBJ (DT That) )
+        (VP (VBZ 's) 
+          (NP-PRD (DT the) (JJ maximum) 
+            (, ,)
+            (JJ outside) (NN figure) ))))
+    (. .) ))

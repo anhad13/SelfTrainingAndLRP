@@ -1,0 +1,125 @@
+
+( (S 
+    (NP-SBJ-1 (DT The) (NNP Treasury) )
+    (VP (NNS plans) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB raise) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 2.3) (CD billion) )
+                (-NONE- *U*) )
+              (PP (IN in) 
+                (NP (JJ new) (NN cash) )))
+            (PP (IN with) 
+              (NP 
+                (NP (DT the) (NN sale) )
+                (NP-TMP (NNP Monday) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (QP (RB about) ($ $) (CD 16) (CD billion) )
+                      (-NONE- *U*) )
+                    (PP (IN in) 
+                      (NP (JJ short-term) (NNS bills) ))))))
+            (S-PRP 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB redeem) 
+                  (NP 
+                    (NP 
+                      (QP ($ $) (CD 13.71) (CD billion) )
+                      (-NONE- *U*) )
+                    (PP (IN in) 
+                      (NP (VBG maturing) (NNS bills) ))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Treasury) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB postpone) 
+              (NP (DT the) (NN auction) )
+              (SBAR-ADV (IN unless) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBZ has) 
+                    (NP 
+                      (NP (NNS assurances) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NN enactment) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (NN legislation) )
+                              (SBAR 
+                                (WHNP-1 (-NONE- 0) )
+                                (S 
+                                  (NP-SBJ (-NONE- *T*-1) )
+                                  (VP (TO to) 
+                                    (VP (VB raise) 
+                                      (NP (DT the) (JJ statutory) (NN debt) (NN limit) ))))))))))
+                    (PP-TMP (IN before) 
+                      (NP (DT the) (JJ scheduled) (NN auction) (NN date) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN offering) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN divided) 
+          (NP (-NONE- *-1) )
+          (ADVP-MNR (RB evenly) )
+          (PP (IN between) 
+            (NP 
+              (NP 
+                (ADJP (JJ 13-week) 
+                  (CC and)
+                  (JJ 26-week) )
+                (NNS bills) )
+              (VP (VBG maturing) 
+                (PP-TMP-CLR (IN on) 
+                  (NP 
+                    (NP (NNP Feb.) (CD 8) 
+                      (, ,)
+                      (CD 1990) )
+                    (, ,) 
+                    (CC and)
+                    (NP (NNP May) (CD 10) 
+                      (, ,)
+                      (CD 1990) )
+                    (, ,) 
+                    (ADVP (RB respectively) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNS Tenders) )
+        (PP (IN for) 
+          (NP (DT the) (NNS bills) )))
+      (, ,) 
+      (ADJP (JJ available) 
+        (PP (IN in) 
+          (NP (JJ minimum) 
+            (ADJP ($ $) (CD 10,000) (-NONE- *U*) )
+            (NNS denominations) )))
+      (, ,) )
+    (VP (MD must) 
+      (VP (VB be) 
+        (VP (VBN received) 
+          (NP (-NONE- *-1) )
+          (PP-TMP (IN by) 
+            (NP 
+              (NP (CD 1) (NN p.m.) (NNP EST) )
+              (NP (NNP Monday) )))
+          (PP-LOC 
+            (PP (IN at) 
+              (NP (DT the) (NNP Treasury) ))
+            (CC or) 
+            (PP (IN at) 
+              (NP (NNP Federal) (NNP Reserve) (NNS banks) (CC or) (NNS branches) ))))))
+    (. .) ))

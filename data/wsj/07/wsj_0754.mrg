@@ -1,0 +1,43 @@
+
+( (S 
+    (NP-SBJ-1 (NNP William) (NNP J.) (NNP Russo) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (JJ senior) (NN vice) (NN president) )
+            (, ,) 
+            (NP 
+              (NP (JJ public) (NNS affairs) )
+              (CC and) 
+              (NP (NN advertising) ))
+            (, ,) 
+            (PP (IN for) 
+              (NP 
+                (NP (DT this) (JJ financial) 
+                  (CC and)
+                  (NN travel) (NNS services) (NN concern) (POS 's) )
+                (NNP American) (NNP Express) (NNP Bank) (NNP Ltd.) (NN subsidiary) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Russo) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 38) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (ADVP-TMP (RB previously) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (JJ first) (NN vice) (NN president) )
+        (, ,) 
+        (NP 
+          (NP (JJ public) (NNS affairs) )
+          (CC and) 
+          (NP (NN advertising) ))
+        (, ,) 
+        (PP-LOC (IN at) 
+          (NP (DT the) (VBG banking) (NN unit) ))))
+    (. .) ))

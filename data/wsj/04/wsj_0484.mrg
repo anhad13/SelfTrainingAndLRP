@@ -1,0 +1,190 @@
+
+( (S 
+    (NP-SBJ (NNP Giant) (NNP Group) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT a) (JJ federal) (NN court) )
+            (PP-LOC (IN in) 
+              (NP (NNP Delaware) )))
+          (VP (VBZ has) 
+            (VP (VBN denied) 
+              (NP 
+                (NP (DT a) (NN motion) )
+                (PP (IN by) 
+                  (NP 
+                    (NP (NNP Rally) (POS 's) )
+                    (NN Inc.) ))
+                (VP (VBG seeking) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB block) 
+                        (NP-1 
+                          (NP (DT a) (NN group) )
+                          (VP (VBD led) 
+                            (NP (-NONE- *) )
+                            (PP (IN by) 
+                              (NP-LGS (NNP Giant) (NNP Chairman) (NNP Burt) (NNP Sugarman) ))))
+                        (PP-CLR (IN from) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *-1) )
+                            (VP (VBG acquiring) 
+                              (NP 
+                                (NP (JJR more) )
+                                (PP (IN of) 
+                                  (NP 
+                                    (NP (DT the) (NN company) (POS 's) )
+                                    (NNS shares) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Rally) (POS 's) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN fast-food) (NN chain) )
+        (VP (VBN based) 
+          (NP (-NONE- *) )
+          (PP-LOC-CLR (IN in) 
+            (NP 
+              (NP (NNP Louisville) )
+              (, ,) 
+              (NP (NNP Ky.) )))))
+      (, ,) )
+    (VP (VBZ is) 
+      (VP (VBG contending) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 
+              (NP (NNP Mr.) (NNP Sugarman) )
+              (CC and) 
+              (NP (CD two) (JJ other) (NN company) (NNS directors) ))
+            (VP (VBD failed) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB disclose) 
+                    (PP (TO to) 
+                      (NP (DT the) (NNP Securities) 
+                        (CC and)
+                        (NNP Exchange) (NNP Commission) ))
+                    (SBAR (IN that) 
+                      (S 
+                        (NP-SBJ-2 (PRP they) )
+                        (VP (VBD intended) 
+                          (S 
+                            (NP-SBJ (-NONE- *-2) )
+                            (VP (TO to) 
+                              (VP (VB acquire) 
+                                (NP (DT a) (JJ big) (NNP Rally) (NN stake) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Sugarman) )
+    (VP (VBZ has) 
+      (PP (IN in) 
+        (NP (NN turn) ))
+      (VP (VBN contended) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (JJ other) (JJ major) (NN shareholder) (NN group) )
+              (PRN (: --) 
+                (SBAR 
+                  (WHNP-2 (WP$ whose) (NNS interests) )
+                  (S 
+                    (NP-SBJ-1 (-NONE- *T*-2) )
+                    (VP (VBP are) 
+                      (VP (VBN represented) 
+                        (NP (-NONE- *-1) )
+                        (PP (IN by) 
+                          (NP-LGS 
+                            (NP (CD three) (JJ other) (NNS directors) )
+                            (VP (VBN connected) 
+                              (NP (-NONE- *) )
+                              (PP-CLR (TO to) 
+                                (NP 
+                                  (NP (NNS trusts) )
+                                  (PP (IN in) 
+                                    (NP 
+                                      (NP (DT the) (NN name) )
+                                      (PP (IN of) 
+                                        (NP 
+                                          (NP (DT the) (NNS children) )
+                                          (PP (IN of) 
+                                            (NP 
+                                              (NP 
+                                                (NP (DT the) (NN company) (POS 's) )
+                                                (NN founder) )
+                                              (, ,) 
+                                              (NP (NNP James) (NNP Patterson) ))))))))))))))))
+                (: --) ))
+            (VP (VBZ has) 
+              (NP 
+                (NP (NNS ties) )
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT a) (VBG competing) (JJ fast) (NN food) (NN chain) )
+                    (, ,) 
+                    (NP 
+                      (NP (NNP Wendy) (POS 's) )
+                      (NNP International) (NNP Inc) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (NP-TMP (JJ last) (NN week) )
+    (VP (VBD assembled) 
+      (NP 
+        (NP (DT a) (JJ three-member) (NN committee) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS directors) )
+            (VP (VBN aligned) 
+              (NP (-NONE- *) )
+              (PP-CLR (IN with) 
+                (NP (DT neither) (NN side) ))))))
+      (S-PRP 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB analyze) 
+            (NP (DT the) (NN situation) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Each) (NN group) )
+    (VP (VBZ controls) 
+      (NP 
+        (NP 
+          (QP (JJR more) (IN than) (CD 40) )
+          (NN %) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Rally) (POS 's) )
+            (NN stock) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP 
+      (ADVP (RB just) )
+      (VBD went) 
+      (ADJP-PRD (JJ public) )
+      (NP-TMP (RBR earlier) (DT this) (NN month) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNP Rally) (POS 's) )
+    (VP 
+      (VP (VBD had) 
+        (NP (DT no) (NN comment) ))
+      (, ,) (CC but) 
+      (VP (VBD was) 
+        (VP (VBN expected) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB make) 
+                (NP 
+                  (NP (DT an) (NN announcement) )
+                  (PP (-NONE- *ICH*-1) ))
+                (NP-TMP (DT this) (NN morning) )
+                (PP-1 (IN about) 
+                  (NP (DT the) (NN situation) ))))))))
+    (. .) ))

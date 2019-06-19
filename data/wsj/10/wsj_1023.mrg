@@ -1,0 +1,137 @@
+
+( (S 
+    (NP-SBJ (NNP Businessland) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD purchased) 
+            (NP 
+              (NP (DT a) (JJ major) (JJ regional) (NN computer) (NN retailer) )
+              (, ,) 
+              (NP 
+                (NP (NNPS Data) (NNPS Systems) (NNP Computer) (NNP Centre) (NNP Inc.) )
+                (, ,) 
+                (NP-LOC 
+                  (NP (NNP Springfield) )
+                  (, ,) 
+                  (NP (NNP New) (NNP Jersey) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN purchase) )
+    (VP (VBZ strengthens) 
+      (NP 
+        (NP 
+          (NP 
+            (ADJP (NNP San) (NNP Jose) 
+              (, ,)
+              (JJ Calif.-based) )
+            (NNP Businessland) (POS 's) )
+          (NNS links) )
+        (PP (TO to) 
+          (NP 
+            (NP (DT the) (JJ large) (NNS corporations) )
+            (SBAR 
+              (WHNP-1 (WP who) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBP are) 
+                  (PP-PRD (IN among) 
+                    (NP 
+                      (NP (DT the) (JJS biggest) (NNS buyers) )
+                      (PP (IN of) 
+                        (NP (NNS computers) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNPS Data) (NNPS Systems) )
+    (VP 
+      (VP (VBZ has) 
+        (NP (CD five) (JJ retail) (NNS stores) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NN northeast) )))
+      (, ,) (CC but) 
+      (VP (VBZ specializes) 
+        (PP-CLR (IN in) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG selling) 
+              (NP 
+                (NP (JJ personal) (NNS computers) )
+                (VP (VBN made) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS 
+                      (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.) )
+                      (CC and) 
+                      (NP (NNP Apple) (NNP Computer) (NNP Inc.) )))))
+              (PP-DTV (TO to) 
+                (NP 
+                  (NP (NNS banks) )
+                  (, ,) 
+                  (NP (NN brokerage) (NNS firms) )
+                  (CC and) 
+                  (NP 
+                    (NP (JJ other) (JJ big) (NNS businesses) )
+                    (VP (VBN based) 
+                      (NP (-NONE- *) )
+                      (PP-LOC-CLR (IN in) 
+                        (NP (DT the) (NNP New) (NNP York) (JJ metropolitan) (NN area) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP John) (NNP Fitzsimmons) )
+      (, ,) 
+      (NP 
+        (NP (JJ chief) (NN executive) (NN officer) )
+        (PP (IN of) 
+          (NP (NNPS Data) (NNPS Systems) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP 
+            (VP (VBD was) 
+              (ADJP-PRD (JJ profitable) ))
+            (CC and) 
+            (VP (VBD expected) 
+              (NP 
+                (NP (NNS sales) )
+                (PP (IN of) 
+                  (NP 
+                    (QP (RB nearly) ($ $) (CD 100) (CD million) )
+                    (-NONE- *U*) )))
+              (NP-TMP (DT this) (NN year) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 
+            (NP (NNP Businessland) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ operates) 
+                  (NP (NNS stores) )
+                  (PP-LOC (IN in) 
+                    (NP (CD 50) (NNP U.S.) (JJ metropolitan) (NNS areas) )))))
+            (, ,) )
+          (VP (VBD planned) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB absorb) 
+                  (NP 
+                    (NP (PRP$ his) (NN firm) (POS 's) )
+                    (NNS operations) ))))))))
+    (. .) ))

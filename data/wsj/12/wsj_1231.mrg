@@ -1,0 +1,87 @@
+
+( (S 
+    (NP-SBJ (DT This) 
+      (NAC-LOC (NNP Brooklyn) 
+        (, ,)
+        (NNP N.Y.) 
+        (, ,)
+        )
+      (NN generic-drug) (NN maker) )
+    (VP (VBD announced) 
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 5) (NN %) )
+          (NN stock) (NN dividend) )
+        (ADJP (JJ payable) 
+          (NP-TMP (NNP Dec.) (CD 15) )
+          (, ,) 
+          (PP (TO to) 
+            (NP 
+              (NP (NNS holders) )
+              (PP (IN of) 
+                (NP (NN record) ))
+              (NP-TMP (NNP Nov.) (CD 15) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN As) 
+      (PP (IN of) 
+        (NP (NNP Sept.) (CD 30) )))
+    (, ,) 
+    (NP-SBJ (NNP Halsey) )
+    (VP (VBD had) 
+      (NP 
+        (NP 
+          (QP (CD 5.3) (CD million) )
+          (JJ common) (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Jay) (NNP Marcus) )
+      (, ,) 
+      (NP (NN president) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN move) )
+          (`` ``) 
+          (VP (VBZ reflects) 
+            (NP 
+              (NP 
+                (NP (DT the) (NN confidence) )
+                (PP (IN of) 
+                  (NP (PRP$ our) (NN board) 
+                    (CC and)
+                    (NN management) ))
+                (PP (IN in) 
+                  (NP 
+                    (NP (NNP Halsey) (POS 's) )
+                    (JJ long-term) (NNS prospects) )))
+              (CC and) 
+              (NP (PRP$ our) (NN desire) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB provide) 
+                      (NP (PRP$ our) (NNS shareholders) )
+                      (PP-CLR (IN with) 
+                        (NP 
+                          (NP (DT an) (JJ attractive) (NN return) )
+                          (PP (IN on) 
+                            (NP (PRP$ their) (NN investment) )))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP American) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (NNP Halsey) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 5.8125) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (ADVP (IN up) 
+        (NP (CD 6.25) (NNS cents) )))
+    (. .) ))

@@ -1,0 +1,149 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Republic) (NNP New) (NNP York) (NNP Corp.) )
+    (VP (VBD joined) 
+      (NP 
+        (NP (DT the) (NN list) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS banks) )
+            (VP (VBG boosting) 
+              (NP 
+                (NP (NNS reserves) )
+                (PP (IN for) 
+                  (NP 
+                    (NP (NNS losses) )
+                    (PP (IN on) 
+                      (NP 
+                        (NP (NNS loans) )
+                        (PP (TO to) 
+                          (NP (JJ less-developed) (NNS countries) )))))))))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP 
+          (VP (VBG setting) 
+            (PRT (RP out) )
+            (NP (DT a) 
+              (ADJP 
+                (QP ($ $) (CD 200) (CD million) )
+                (-NONE- *U*) )
+              (NN provision) ))
+          (CC and) 
+          (VP (VBG posting) 
+            (NP (DT a) 
+              (ADJP 
+                (QP ($ $) (CD 155.4) (CD million) )
+                (-NONE- *U*) )
+              (NN third-quarter) (JJ net) (NN loss) )
+            (PP (IN as) 
+              (NP (DT a) (NN result) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ per-share) (NN loss) )
+    (VP (VBD was) 
+      (NP-PRD ($ $) (CD 5.32) (-NONE- *U*) ))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) 
+        (ADJP (NN year) (JJR earlier) )
+        (NN period) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP New) (NNP York) (NN parent) )
+      (PP (IN of) 
+        (NP (NNP Republic) (NNP National) (NNP Bank) )))
+    (VP (VBD had) 
+      (NP 
+        (NP (JJ net) (NN income) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 38.7) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP ($ $) (CD 1.12) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) ))))))
+    (. .) ))
+( (S 
+    (PP (VBG Excluding) 
+      (NP (DT the) (NN provision) ))
+    (, ,) 
+    (NP-SBJ (NNP Republic) )
+    (VP (VBD earned) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 44.6) (CD million) )
+          (-NONE- *U*) )
+        (, ,) 
+        (ADVP (IN up) 
+          (NP (CD 15) (NN %) )
+          (PP (IN from) 
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (IN ago) )))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP 
+          (NP (DT The) (NN bank) (POS 's) )
+          (ADJP (JJ medium-term) 
+            (CC and)
+            (JJ long-term) )
+          (NNS loans) )
+        (PP (TO to) 
+          (NP (JJ less-developed) (NNS countries) )))
+      (VP (VBP total) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 293) (CD million) )
+            (-NONE- *U*) )
+          (, ,) 
+          (SBAR 
+            (WHPP-1 (IN of) 
+              (WHNP (WDT which) ))
+            (S 
+              (NP-SBJ 
+                (NP 
+                  (QP ($ $) (CD 146) (CD million) )
+                  (-NONE- *U*) )
+                (PP (-NONE- *T*-1) ))
+              (VP (VBP are) (RB n't) 
+                (VP (VBG accruing) 
+                  (NP (NN interest) ))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN bank) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Republic) (POS 's) )
+        (NN total) )
+      (PP (IN of) 
+        (NP (VBG nonperforming) (NNS assets) )))
+    (VP (VBD was) 
+      (NP-PRD 
+        (QP ($ $) (CD 167) (CD million) )
+        (-NONE- *U*) )
+      (PP-TMP (IN at) 
+        (NP (NNP Sept.) (CD 30) ))
+      (, ,) 
+      (PP (IN with) 
+        (S-NOM 
+          (NP-SBJ 
+            (NP (PRP$ its) (NN reserve) )
+            (PP (IN for) 
+              (NP (NN loan) (NNS losses) )))
+          (ADVP-TMP (RB now) )
+          (VP (VBG standing) 
+            (PP-CLR-LOC (IN at) 
+              (NP 
+                (QP ($ $) (CD 357) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))

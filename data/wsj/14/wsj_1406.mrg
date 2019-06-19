@@ -1,0 +1,47 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP 
+          (NP (NNP Japan) (POS 's) )
+          (JJ wholesale) (NNS prices) )
+        (PP-TMP (IN in) 
+          (NP 
+            (NP (DT the) (JJ first) (CD 10) (NNS days) )
+            (PP (IN of) 
+              (NP (NNP October) )))))
+      (VP 
+        (VP (VBD fell) 
+          (NP-EXT (CD 0.3) (NN %) )
+          (PP-TMP (IN from) 
+            (NP (DT the) (JJ previous) (CD 10) (NNS days) )))
+        (CC but) 
+        (VP (VBD rose) 
+          (NP-EXT (CD 3.3) (NN %) )
+          (PP-TMP (IN from) 
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RB ago) )))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP Bank) )
+      (PP (IN of) 
+        (NP (NNP Japan) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (JJ wholesale) (NN price) (NN index) )
+      (VP (VBD stood) 
+        (PP-CLR (IN at) 
+          (NP (CD 89.6) ))))
+    (PRN 
+      (-LRB- -LRB-)
+      (S 
+        (NP-SBJ (CD 1985) )
+        (VP (VBZ equals) 
+          (NP (CD 100) )))
+      (-RRB- -RRB-) )
+    (. .) ))

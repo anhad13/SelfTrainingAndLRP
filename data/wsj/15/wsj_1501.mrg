@@ -1,0 +1,205 @@
+
+( (S 
+    (NP-SBJ (NNP East) (NNP Rock) (NNP Partners) (NNP Limited) (NNP Partnership) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD proposed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB acquire) 
+                  (NP (NNP A.P.) (NNP Green) (NNP Industries) (NNP Inc.) )
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (NP ($ $) (CD 40) (-NONE- *U*) )
+                      (NP-ADV (DT a) (NN share) ))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (DT an) (NNP Oct.) (CD 19) (NN letter) )
+        (PP (TO to) 
+          (NP 
+            (NP (NNP A.P.) (NNP Green) (POS 's) )
+            (NN board) ))))
+    (, ,) 
+    (NP-SBJ (NNP East) (NNP Rock) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN offer) )
+          (VP (VBZ is) 
+            (ADJP-PRD (JJ subject) 
+              (PP (TO to) 
+                (NP 
+                  (NP (DT the) (NN signing) )
+                  (PP (IN of) 
+                    (NP (DT a) (NN merger) (NN agreement) ))
+                  (PP-TMP (IN by) 
+                    (ADVP 
+                      (ADVP (RB no) (RB later) )
+                      (PP (IN than) 
+                        (NP (NNP Oct.) (CD 31) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN letter) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ-2 (-NONE- *-1) )
+      (VP (VBN attached) 
+        (NP (-NONE- *-2) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT a) (NN filing) )
+            (PP (IN with) 
+              (NP (DT the) (NNP Securities) 
+                (CC and)
+                (NNP Exchange) (NNP Commission) ))))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN approval) )
+          (VP (VBZ is) 
+            (ADVP (RB also) )
+            (ADJP-PRD (JJ contingent) 
+              (PP (IN upon) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG obtaining) 
+                    (NP (JJ satisfactory) (NN financing) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT An) (NNP A.P.) (NNP Green) (NN official) )
+    (VP (VBD declined) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB comment) 
+            (PP-CLR (IN on) 
+              (NP (DT the) (NN filing) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (ADJP ($ $) (JJ 40-a-share) (-NONE- *U*) )
+      (NN proposal) )
+    (VP (VBZ values) 
+      (NP (DT the) (NN company) )
+      (PP-CLR (IN at) 
+        (NP 
+          (QP (RB about) ($ $) (CD 106.6) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP A.P.) (NNP Green) )
+    (ADVP-TMP (RB currently) )
+    (VP (VBZ has) 
+      (NP 
+        (NP (CD 2,664,098) (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP$ Its) (NN stock) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 38) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP-CLR (RB up) 
+        (NP ($ $) (CD 1.875) (-NONE- *U*) ))
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP (JJ national) (JJ over-the-counter) (NN trading) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) 
+          (NAC-LOC (NNP Mexico) 
+            (, ,)
+            (NNP Mo.) 
+            (, ,)
+            )
+          (NN maker) )
+        (PP (IN of) 
+          (NP (JJ refractory) (NNS products) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP East) (NNP Rock) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (PP-LOC (IN in) 
+        (NP (DT the) (NN filing) ))
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD boosted) 
+            (NP 
+              (NP (PRP$ its) (NN stake) )
+              (PP-LOC (IN in) 
+                (NP (NNP A.P.) (NNP Green) )))
+            (PP-CLR (TO to) 
+              (NP (CD 8.7) (NN %) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP-TMP (RB now) )
+    (VP (VBZ holds) 
+      (NP 
+        (NP (CD 233,000) (NNP A.P.) (NNP Green) (JJ common) (NNS shares) )
+        (, ,) 
+        (PP (VBG including) 
+          (NP 
+            (NP (CD 30,000) (NNS shares) )
+            (VP (VBD bought) 
+              (NP-TMP (JJ last) (NNP Thursday) )
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 35.50) (TO to) ($ $) (CD 36.50) )
+                    (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (ADJP (NNP New) (JJ York-based) )
+      (NX 
+        (NX (NNP John) (NNP Kuhns) )
+        (CC and) 
+        (NX (NNP Robert) (NNP MacDonald) )))
+    (VP (VBP control) 
+      (NP 
+        (NP (NNP East) (NNP Rock) (NNP Partners) (NNP Inc.) )
+        (, ,) 
+        (NP 
+          (NP (DT the) (JJ sole) (JJ general) (NN partner) )
+          (PP (IN of) 
+            (NP (NNP East) (NNP Rock) (NNP Partners) (NNP L.P) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ sole) (VBN limited) (NN partner) )
+      (PP (IN of) 
+        (NP (DT the) (NN partnership) )))
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (NNP Westwood) (NNP Brick) (NNP Lime) (NNP Inc.) )
+        (, ,) 
+        (NP 
+          (NP (DT an) (JJ indirect) (NN subsidiary) )
+          (PP (IN of) 
+            (NP (NNP Westwood) (NNP Group) (NNP Inc) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT Both) 
+      (NP (NNP Westwood) (NNP Brick) )
+      (CC and) 
+      (NP (NNP Westwood) (NNP Group) ))
+    (VP (VBP are) 
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN in) 
+          (NP (NNP Boston) ))))
+    (. .) ))

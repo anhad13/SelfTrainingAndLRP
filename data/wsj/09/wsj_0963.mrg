@@ -1,0 +1,37 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Eugene) (NNP A.) (NNP Miller) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 52) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (JJ electric) (NN utility) (NN company) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG filling) 
+            (NP (DT a) (NN vacancy) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP 
+          (NP (NN president) )
+          (CC and) 
+          (NP (NN chief) (JJ executive) (NN officer) ))
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Comerica) (NNP Inc.) )
+            (PP-LOC (IN in) 
+              (NP (NNP Detroit) ))))))
+    (. .) ))

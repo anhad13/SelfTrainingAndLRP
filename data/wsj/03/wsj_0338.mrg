@@ -1,0 +1,157 @@
+
+( (S 
+    (NP-SBJ (NNP J.C.) (NNP Penney) (NNP Co.) )
+    (VP (VBZ is) 
+      (VP (VBG extending) 
+        (NP 
+          (NP (PRP$ its) (NN involvement) )
+          (PP-LOC (IN in) 
+            (NP (DT a) (JJ televised) (NN home-shopping) (NN service) )))
+        (PP-TMP-CLR (IN by) 
+          (NP 
+            (QP (CD five) (TO to) (CD 10) )
+            (NNS years) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Shop) (NNP Television) (NNP Network) (NNP Inc.) )
+      (PRN 
+        (, ,)
+        (PP-LOC (IN of) 
+          (NP (NNP Los) (NNP Angeles) ))
+        (, ,) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NNP Penney) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB continue) 
+                  (NP 
+                    (NP (PRP$ its) (JJ exclusive) (NN arrangement) )
+                    (PP (IN with) 
+                      (NP 
+                        (NP (NNP Shop) (NNP Television) )
+                        (, ,) 
+                        (SBAR 
+                          (WHNP-103 (WDT which) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-103) )
+                            (VP (VBZ does) 
+                              (NP (DT the) 
+                                (NX 
+                                  (NX (NN production) )
+                                  (, ,) 
+                                  (NX (NN marketing) )
+                                  (CC and) 
+                                  (NX (NN cable) (NN distribution) )))
+                              (PP (IN for) 
+                                (NP (DT the) (NNP J.C.) (NNP Penney) (NNP Television) (NNP Shopping) (NNP Channel) )))))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN channel) )
+      (VP (VBZ reaches) 
+        (NP 
+          (QP (CD 6.5) (CD million) )
+          (NNS homes) )))
+    (, ,) 
+    (NP-SBJ (DT a) (NNP Penney) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Michael) (NNP Rosen) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP (NNP Shop) (NNP Television) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NN Penney) )
+          (VP (VBD decided) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB extend) 
+                  (NP 
+                    (NP (PRP$ its) (NN involvement) )
+                    (PP (IN with) 
+                      (NP (DT the) (NN service) )))
+                  (PP-TMP (IN for) 
+                    (NP 
+                      (QP (IN at) (JJS least) (CD five) )
+                      (NNS years) )))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (, ,)
+        (PP-TMP (IN by) 
+          (NP (DT that) (NN time) ))
+        (, ,) 
+        (NP-SBJ (DT the) (NN network) )
+        (VP (VBZ reaches) 
+          (NP 
+            (QP (CD 14) (CD million) )
+            (NNS homes) ))))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NN contract) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN renewed) 
+          (NP (-NONE- *-1) )
+          (PP-TMP (IN for) 
+            (NP (CD five) (JJR more) (NNS years) )))))
+    (. .) ))
+( (S 
+    (NP-TMP (RBR Earlier) (DT this) (NN year) )
+    (, ,) 
+    (NP-SBJ-1 (NNP Penney) )
+    (VP (VBD abandoned) 
+      (NP 
+        (NP (DT another) (NN home) (NN shopping) (NN venture) )
+        (, ,) 
+        (NP (NNP Telaction) (NNP Corp.) )
+        (, ,) )
+      (PP-TMP (IN after) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG investing) 
+            (NP 
+              (QP ($ $) (CD 106) (CD million) )
+              (-NONE- *U*) )
+            (PP-CLR (IN in) 
+              (NP (PRP it) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD took) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 20) (CD million) )
+            (-NONE- *U*) )
+          (NN charge) )
+        (VP (-NONE- *ICH*-1) ))
+      (PP-TMP (IN in) 
+        (NP 
+          (NP (DT the) (NN fiscal) (JJ first) (NN quarter) )
+          (VP (VBN ended) 
+            (NP (-NONE- *) )
+            (NP-TMP (NNP April) (CD 29) ))))
+      (, ,) 
+      (VP-1 (VBN related) 
+        (PP-CLR (TO to) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG discontinuing) 
+              (NP (DT the) (NN service) ))))))
+    (. .) ))

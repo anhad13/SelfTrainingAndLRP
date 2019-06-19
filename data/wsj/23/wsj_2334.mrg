@@ -1,0 +1,102 @@
+
+( (S 
+    (NP-SBJ (NNP Southmark) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD filed) 
+              (NP 
+                (NP (NN part) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (JJ 10-K) (NN report) )))
+              (PP-CLR (IN with) 
+                (NP (DT the) (NNP Securities) 
+                  (CC and)
+                  (NNP Exchange) (NNP Commission) )))))
+        (, ,) (CC but) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NN filing) )
+            (VP (VBZ does) (RB n't) 
+              (VP (VB include) 
+                (NP 
+                  (NP (PRP$ its) (JJ audited) (JJ financial) (NNS statements) )
+                  (CC and) 
+                  (NP (JJ related) (NN information) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ real) (NN estate) 
+      (CC and)
+      (NN thrift) (NN concern) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG operating) 
+        (PP-LOC (IN under) 
+          (NP (NN bankruptcy-law) (NNS proceedings) ))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD told) 
+            (NP (DT the) (NNP SEC) )
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (MD could) (RB n't) 
+                  (VP (VB provide) 
+                    (NP (JJ financial) (NNS statements) )
+                    (PP-TMP (IN by) 
+                      (NP 
+                        (NP (DT the) (NN end) )
+                        (PP (IN of) 
+                          (NP (PRP$ its) (JJ first) (NN extension) ))))
+                    (`` ``) 
+                    (PP (IN without) 
+                      (NP (JJ unreasonable) (NN burden) (CC or) (NN expense) ))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD asked) 
+      (PP-CLR (IN for) 
+        (NP (DT a) (JJ 15-day) (NN extension) ))
+      (NP-TMP 
+        (NP (NNP Sept.) (CD 30) )
+        (, ,) 
+        (SBAR 
+          (WHADVP-1 (WRB when) )
+          (S 
+            (NP-SBJ (DT the) (JJ financial) (NNS reports) )
+            (VP (VBD were) 
+              (ADJP-PRD (JJ due) )
+              (ADVP-TMP (-NONE- *T*-1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Southmark) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB amend) 
+                  (NP-3 (PRP$ its) (JJ 10K) )
+                  (S-CLR 
+                    (NP-SBJ (-NONE- *-3) )
+                    (VP (TO to) 
+                      (VP (VB provide) 
+                        (NP (JJ financial) (NNS results) ))))
+                  (ADVP-TMP 
+                    (ADVP (RB as) (RB soon) )
+                    (SBAR (IN as) 
+                      (S 
+                        (NP-SBJ-1 (PRP$ its) (NN audit) )
+                        (VP (VBZ is) 
+                          (VP (VBN completed) 
+                            (NP (-NONE- *-1) )))))))))))))
+    (. .) ))

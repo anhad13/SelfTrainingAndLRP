@@ -1,0 +1,92 @@
+
+( (SINV 
+    (ADJP-PRD-TPC-1 (VBG Following) )
+    (VP (VBZ is) 
+      (ADJP-PRD (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (DT a) (JJ weekly) (NN listing) )
+      (PP (IN of) 
+        (NP 
+          (NP (JJ unadited) (JJ net) (NN asset) (NNS values) )
+          (PP (IN of) 
+            (NP 
+              (NP 
+                (ADJP (RB publicly) (VBN traded) )
+                (NN investment) (NN fund) (NNS shares) )
+              (, ,) 
+              (VP (VBN reported) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS (DT the) (NNS companies) ))
+                (PP-TMP (IN as) 
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Friday) (POS 's) )
+                      (NN close) )))))))))
+    (. .) ))
+( (SINV 
+    (VP-TPC-1 
+      (ADVP (RB Also) )
+      (VBN shown) 
+      (NP (-NONE- *-2) ))
+    (VP (VBZ is) 
+      (VP (-NONE- *T*-1) ))
+    (NP-SBJ-2 
+      (NP (DT the) (NN closing) (VBD listed) (NN market) (NN price) )
+      (CC or) 
+      (NP 
+        (NP (DT a) (JJ dealer-to-dealer) (VBN asked) (NN price) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT each) (NN fund) (POS 's) )
+            (NNS shares) ))))
+    (, ,) 
+    (PP (IN with) 
+      (NP 
+        (NP (DT the) (NN percentage) )
+        (PP (IN of) 
+          (NP (NN difference) ))))
+    (. .) ))
+( (X 
+    (X (SYM b) )
+    (: -) 
+    (PP-TMP (IN As) 
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Thursday) (POS 's) )
+          (NN close) )))
+    (. .) ))
+( (X 
+    (X (SYM c) )
+    (: -) 
+    (S 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBN Translated) 
+        (PP-CLR (IN at) 
+          (NP (NNP Commercial) (NNP Rand) (NN exchange) (NN rate) ))))
+    (. .) ))
+( (X 
+    (X (SYM e) )
+    (: -) 
+    (PP (IN In) 
+      (NP (JJ Canadian) (NNS dollars) ))
+    (. .) ))
+( (X 
+    (X (SYM f) )
+    (: -) 
+    (PP-TMP (IN As) 
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Wednesday) (POS 's) )
+          (NN close) )))
+    (. .) ))
+( (X 
+    (X (SYM g) )
+    (: -) 
+    (NP (CD 10.06.89) (NN NAV:22.15) )
+    (. .) ))
+( (X 
+    (X (SYM z) )
+    (: -) 
+    (ADJP (RB Not) (JJ available) )
+    (. .) ))

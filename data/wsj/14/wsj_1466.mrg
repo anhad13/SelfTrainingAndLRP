@@ -1,0 +1,166 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT The) (NNP Better) (NNP Business) (NNP Bureau) )
+        (PP (IN of) 
+          (NP (NNP San) (NNP Diego) )))
+      (CC and) 
+      (NP 
+        (NP (DT the) (NN state) (NNP Attorney) (NNP General) (POS 's) )
+        (NN office) ))
+    (VP (VBD entered) 
+      (PP-CLR (IN into) 
+        (NP 
+          (NP (DT a) (NN settlement) )
+          (VP (VBG stemming) 
+            (PP-CLR (IN from) 
+              (NP 
+                (NP (DT an) (NN investigation) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (JJ bureau-sponsored) (NN business) (NNS directories) )
+                    (VP (VBN published) 
+                      (NP (-NONE- *) )
+                      (PP (IN by) 
+                        (NP-LGS 
+                          (NP (DT an) (JJ outside) (NN firm) )
+                          (, ,) 
+                          (NP (NNP Better) (NNP Book) (NNP Inc) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN settlement) )
+    (VP (VBZ stems) 
+      (PP-CLR (IN from) 
+        (NP (NNS charges) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ 
+                (NP (NNP Better) (NNP Book) )
+                (, ,) 
+                (ADJP (RB now) (JJ defunct) )
+                (, ,) )
+              (VP (VBD made) 
+                (NP 
+                  (NP (NNS misrepresentations) )
+                  (PP (IN in) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG selling) 
+                        (NP 
+                          (NP 
+                            (NP (NN advertising) )
+                            (PP (IN for) 
+                              (NP (DT the) (NNS directories) )))
+                          (CC and) 
+                          (NP 
+                            (NP (NNS memberships) )
+                            (PP (IN in) 
+                              (NP (DT the) (NN bureau) ))))
+                        (PP-TMP 
+                          (PP (IN from) 
+                            (NP (CD 1984) ))
+                          (PP (TO to) 
+                            (NP (CD 1986) )))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN Without) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG admitting) 
+          (NP (DT any) (NN guilt) ))))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NN bureau) )
+    (VP (VBD agreed) 
+      (PP-CLR (TO to) 
+        (NP (JJ several) (NNS conditions) ))
+      (SBAR-ADV (IN if) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (ADVP-TMP (RB again) )
+          (VP (VBZ contracts) 
+            (PP-CLR (IN with) 
+              (NP (DT an) (JJ outside) (NN firm) ))
+            (S-PRP 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB publish) 
+                  (NP (PRP$ its) (NNS directories) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS conditions) )
+    (VP (VBP include) 
+      (S 
+        (NP-SBJ-4 (-NONE- *) )
+        (VP 
+          (VP (RB not) (VBG misrepresenting) 
+            (SBAR 
+              (WHNP-3 
+                (WHADJP (WRB how) (JJ many) )
+                (NNS directories) )
+              (S 
+                (NP-SBJ-1 (-NONE- *T*-3) )
+                (VP (MD will) 
+                  (VP (VB be) 
+                    (VP (VBN distributed) 
+                      (NP (-NONE- *-1) )))))))
+          (, ,) 
+          (CC and)
+          (VP (VBG agreeing) 
+            (S 
+              (NP-SBJ (-NONE- *-4) )
+              (VP (TO to) 
+                (VP (VB make) 
+                  (NP (NNS refunds) )
+                  (PP-CLR (TO to) 
+                    (NP (NN directory) (NNS advertisers) ))
+                  (SBAR-ADV (IN if) 
+                    (S 
+                      (NP-SBJ-2 (DT any) (NNS misrepresentations) )
+                      (VP (VBP are) 
+                        (VP (VBN involved) 
+                          (NP (-NONE- *-2) )
+                          (PP-CLR (IN in) 
+                            (NP (DT the) (NN sale) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NNP Attorney) (NNP General) (POS 's) )
+      (NN investigation) )
+    (VP (VBD was) 
+      (VP (VBN sparked) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (NNS lawsuits) )
+            (CC and) 
+            (NP 
+              (NP (NNS charges) 
+                (SBAR (-NONE- *ICH*-3) ))
+              (PP (IN by) 
+                (NP (JJ angry) (NNP California) (NN businesspeople) ))
+              (SBAR-3 (IN that) 
+                (S 
+                  (NP-SBJ-2 (PRP they) )
+                  (VP (VBD were) 
+                    (VP (VBN swindled) 
+                      (NP (-NONE- *-2) )
+                      (PP-LOC (IN in) 
+                        (NP 
+                          (NP (DT a) (JJ bureau-sponsored) (NN directory) (NN project) )
+                          (VP (VBN contracted) 
+                            (NP (-NONE- *) )
+                            (PP (IN by) 
+                              (NP-LGS (NNP Better) (NNP Book) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN uproar) )
+    (VP (VBD led) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT the) (NN closing) )
+          (PP (IN of) 
+            (NP (DT the) (NNP Los) (NNP Angeles) (NNP Better) (NNP Business) (NNP Bureau) ))
+          (PP-TMP (IN in) 
+            (NP (JJ late) (CD 1987) )))))
+    (. .) ))

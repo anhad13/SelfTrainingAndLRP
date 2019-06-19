@@ -1,0 +1,68 @@
+
+( (S 
+    (PP (VBG Concerning) 
+      (NP 
+        (NP (PRP$ your) (NNP Sept.) (CD 21) (JJ page-one) (NN article) )
+        (PP (IN on) 
+          (NP 
+            (NP (NNP Prince) (NNP Charles) )
+            (CC and) 
+            (NP (DT the) (NNS leeches) )))))
+    (: :) 
+    (NP-SBJ 
+      (NP (PRP It) )
+      (SBAR (-NONE- *EXP*-1) ))
+    (VP (VBZ 's) 
+      (NP-PRD 
+        (QP (DT a) (JJ few) (CD hundred) )
+        (NNS years) )
+      (SBAR-1 (IN since) 
+        (S 
+          (NP-SBJ (NNP England) )
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (NP-PRD (DT a) (NN kingdom) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ 's) 
+      (ADVP-TMP (RB now) )
+      (NP-PRD 
+        (NP 
+          (NP (DT the) (NNP United) (NNP Kingdom) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Great) (NNP Britain) )
+              (CC and) 
+              (NP (NNP Northern) (NNP Ireland) ))))
+        (, ,) 
+        (PP (VBG comprising) 
+          (NP 
+            (NP (NNP Wales) )
+            (, ,) 
+            (NP (NNP Northern) (NNP Ireland) )
+            (, ,) 
+            (NP (NNP Scotland) )
+            (, ,) 
+            (CC and)
+            (: ...) 
+            (INTJ (UH oh) (UH yes) )
+            (, ,) 
+            (NP (NNP England) )
+            (, ,) (RB too) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (-NONE- *) )
+    (ADVP (RB Just) )
+    (VP (VBD thought) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP you) )
+          (VP (MD 'd) 
+            (VP (VB like) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB know) ))))))))
+    (. .) ))
+( (NP (NNP George) (NNP Morton) ))

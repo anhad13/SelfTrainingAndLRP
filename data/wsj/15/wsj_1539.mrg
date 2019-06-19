@@ -1,0 +1,124 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP SciMed) (NNP Life) (NNP Systems) (NNP Inc.) )
+      (, ,) 
+      (NP-LOC (NNP Minneapolis) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT a) (JJ federal) (NNS appeals) (NN court) )
+          (VP (VBD vacated) 
+            (NP 
+              (NP (DT an) (JJR earlier) (NN summary) (NN judgment) )
+              (PP (IN in) 
+                (NP (PRP$ its) (NN favor) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (JJR lower) (NN court) )
+      (PP-LOC (IN in) 
+        (NP (NNP St.) (NNP Paul) )))
+    (VP (VBD had) 
+      (VP (VBN ruled) 
+        (PP-TMP (IN in) 
+          (NP (NNP September) (CD 1988) ))
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT a) (NN heart) (NN catheter) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (VBD SciMed) )
+                  (VP (VBZ manufactures) 
+                    (NP (-NONE- *T*-1) )))))
+            (VP (VBZ does) (RB n't) 
+              (VP (VB infringe) 
+                (PP-CLR (IN on) 
+                  (NP 
+                    (NP (DT a) (NN patent) )
+                    (VP (VBN owned) 
+                      (NP (-NONE- *) )
+                      (PP (IN by) 
+                        (NP-LGS 
+                          (NP (NNP Advanced) (NNP Cardiovascular) (NNP Systems) )
+                          (, ,) 
+                          (NP 
+                            (NP (DT a) (NN unit) )
+                            (PP (IN of) 
+                              (NP (NNP Eli) (NNP Lilly) (CC &) (NNP Co) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP SciMed) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS appeals) (NN court) )
+          (VP (VBD remanded) 
+            (NP (DT the) (NN case) )
+            (ADVP-CLR (RB back) 
+              (PP (TO to) 
+                (NP (DT the) (NN district) (NN court) )))
+            (PP-PRP (IN for) 
+              (NP (JJ further) (NNS proceedings) ))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ national) (JJ over-the-counter) (NN trading) ))
+    (NP-TMP (NNP Friday) )
+    (, ,) 
+    (NP-SBJ (NNP SciMed) (NNS shares) )
+    (VP (VBD tumbled) 
+      (NP-EXT ($ $) (CD 2.75) (-NONE- *U*) )
+      (PP-DIR (TO to) 
+        (NP ($ $) (CD 43) (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (VBN SciMed) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (`` ``) 
+          (VP (VBZ remains) 
+            (ADJP-PRD (JJ committed) ('' '') 
+              (PP (DT both) 
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT the) (`` ``) (JJ vigorous) (NN defense) ('' '') )
+                    (PP (IN of) 
+                      (NP (PRP$ its) (NN position) 
+                        (SBAR (IN that) 
+                          (S 
+                            (NP-SBJ (DT the) (NN catheter) )
+                            (VP (VBZ does) (RB n't) 
+                              (VP (VB infringe) 
+                                (NP 
+                                  (NP (DT the) (NNP Lilly) (NN unit) (POS 's) )
+                                  (NN patent) )))))))))
+                (, ,) 
+                (CC and)
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT the) (NN pursuit) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (PRP$ its) (JJ own) (NNS counterclaims) )
+                        (, ,) 
+                        (SBAR 
+                          (WHNP-1 (WDT which) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-1) )
+                            (VP (VBP allege) 
+                              (SBAR (-NONE- 0) 
+                                (S 
+                                  (NP-SBJ (NNP Lilly) )
+                                  (VP (VBD engaged) 
+                                    (PP-CLR (IN in) 
+                                      (NP 
+                                        (NP (JJ antitrust) (NNS violations) )
+                                        (CC and) 
+                                        (NP (JJ other) (JJ wrongful) (NNS acts) )))))))))))))))))))
+    (. .) ))

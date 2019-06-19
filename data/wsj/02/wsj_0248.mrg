@@ -1,0 +1,64 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (PRP$ Your) (NNP Oct.) (CD 2) (JJ page-one) (NN article) )
+      (PP (IN on) 
+        (NP 
+          (NP (NNS people) )
+          (VP (VBG riding) 
+            (NP (JJ so-called) (`` ``) (NNS railbikes) ('' '') )
+            (PP-LOC (IN on) 
+              (NP (NN railroad) (NNS tracks) ))))))
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT a) (NN disservice) )
+        (PP (TO to) 
+          (NP (PRP$ your) (NNS readers) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP (RB unfortunately) )
+    (VP (VBZ encourages) 
+      (S 
+        (NP-SBJ (NNS others) )
+        (VP (TO to) 
+          (VP (VB engage) 
+            (PP-CLR (IN in) 
+              (NP 
+                (NP (DT a) 
+                  (ADJP 
+                    (ADJP (RB highly) (JJ dangerous) )
+                    (CC and) 
+                    (ADJP (JJ illegal) ))
+                  (NN activity) )
+                (SBAR 
+                  (WHNP-1 (IN that) )
+                  (S 
+                    (NP-SBJ (RB only) (DT a) (RB very) (JJ few) )
+                    (VP (VBP are) 
+                      (VP (VBG doing) 
+                        (NP (-NONE- *T*-1) )
+                        (ADVP-TMP (RB now) )))))))))))
+    (. .) ))
+( (S (CC And) 
+    (NP-SBJ (PRP it) )
+    (VP (VBZ treats) 
+      (NP (JJ such) (NNS activities) )
+      (PP-MNR (IN in) 
+        (NP (DT a) (JJ frivolous) 
+          (, ,)
+          (JJ cavalier) (NN fashion) ))
+      (, ,) 
+      (PP (IN with) 
+        (NP 
+          (NP (JJ total) (NN indifference) )
+          (PP (TO to) 
+            (NP 
+              (NP (JJ common) (NN sense) )
+              (CC and) 
+              (NP (JJ public) (NN safety) ))))))
+    (. .) ))
+( (NP (NNP Saul) (NNP Resnick) ))
+( (NP (NNP Vice) (NNP President) ))
+( (NP (NNP Public) (NNPS Affairs) ))
+( (NP (NNP Conrail) ))

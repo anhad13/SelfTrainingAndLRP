@@ -1,0 +1,43 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (DT This) (NN maker) )
+      (PP (IN of) 
+        (NP (JJ electronic) (NN measuring) (NNS devices) )))
+    (VP (VBD named) 
+      (NP (CD two) (JJ new) (NNS directors) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG increasing) 
+          (NP (NN board) (NN membership) )
+          (PP-DIR (TO to) 
+            (NP (CD nine) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ new) (NNS directors) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP 
+          (NP (NNP Gordon) (NNP M.) (NNP Sprenger) )
+          (, ,) 
+          (NP 
+            (NP 
+              (NP (NN president) )
+              (CC and) 
+              (NP (JJ chief) (JJ executive) (NN officer) ))
+            (PP (IN of) 
+              (NP (NNP LifeSpan) (NNP Inc.) ))))
+        (, ,) 
+        (CC and)
+        (NP 
+          (NP (NNP Peter) (NNP S.) (NNP Willmott) )
+          (, ,) 
+          (NP 
+            (NP 
+              (NP (NN chairman) )
+              (CC and) 
+              (NP (JJ chief) (JJ executive) (NN officer) ))
+            (PP (IN of) 
+              (NP (NNP Willmott) (NNP Services) (NNP Inc) ))))))
+    (. .) ))

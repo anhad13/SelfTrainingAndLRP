@@ -1,0 +1,25 @@
+
+( (S 
+    (NP-SBJ (NNP Chamberlain) (NNP Manufacturing) (NNP Corp.) )
+    (VP (VBD won) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 25.8) (CD million) )
+            (-NONE- *U*) )
+          (NNP Army) (NN contract) )
+        (PP (IN for) 
+          (NP (CD 155mm) (NN artillery) (NN shell) (NNS casings) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Avondale) (NNPS Industries) (NNP Inc.) )
+    (VP (VBD received) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 13.5) (CD million) )
+            (-NONE- *U*) )
+          (NNP Navy) (NN contract) )
+        (PP (IN for) 
+          (NP (NN ship) (JJ spare) (NNS parts) ))))
+    (. .) ))

@@ -1,0 +1,157 @@
+
+( (S 
+    (NP-SBJ (JJ Federal) (NNS prosecutors) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP have) 
+            (VP (VBN obtained) 
+              (NP (DT a) (JJ guilty) (NN plea) )
+              (PP-CLR (IN from) 
+                (NP (DT another) (NN person) ))
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NN government) (POS 's) )
+                    (JJ ongoing) (NN probe) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (JJ illegal) (NNS payments) )
+                      (PP-LOC (IN in) 
+                        (NP (DT the) (JJ record) (NN industry) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP William) (NNP Craig) )
+      (, ,) 
+      (NP (DT an) (JJ independent) (NN record) (NN promoter) )
+      (, ,) )
+    (VP (VBD pleaded) 
+      (ADJP-PRD (JJ guilty) 
+        (PP (TO to) 
+          (NP 
+            (NP (NN payola) )
+            (CC and) 
+            (NP (JJ criminal) (NN tax) (NNS charges) ))))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (DT a) (NN statement) )
+            (VP (VBN issued) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (NNP Gary) (NNP Feess) )
+                  (, ,) 
+                  (NP 
+                    (NP (DT the) (NNP U.S.) (NN attorney) )
+                    (ADVP-LOC (RB here) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Payola) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN practice) )
+        (PP (IN of) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG making) 
+              (NP (JJ illegal) 
+                (, ,)
+                (JJ undisclosed) (NNS payments) )
+              (PP-CLR (TO to) 
+                (NP (NN radio) (NN station) (NNS personnel) ))
+              (PP (IN in) 
+                (NP 
+                  (NP (NN return) )
+                  (PP (IN for) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG getting) 
+                        (S 
+                          (NP-SBJ (DT the) (NNS stations) )
+                          (VP (TO to) 
+                            (VP (VB play) 
+                              (NP (JJ certain) (NNS songs) )
+                              (PP-LOC (IN over) 
+                                (NP (DT the) (NN air) )))))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (NP 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP 
+            (NP (PRP$ his) (NN plea) (NN agreement) )
+            (PP (IN with) 
+              (NP (DT the) (NN government) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (JJ 44-year-old) (NNP Mr.) (NNP Craig) )
+    (VP (VBZ faces) 
+      (NP 
+        (NP 
+          (QP (DT a) (NN maximum) (IN of) (CD three) )
+          (NNS years) )
+        (PP-LOC (IN in) 
+          (NP (NN prison) ))))
+    (. .) ))
+( (SINV 
+    (S-TPC-2 
+      (PP (IN In) 
+        (NP (NN return) ))
+      (, ,) 
+      (NP-SBJ-1 (NNP Mr.) (NNP Craig) )
+      (VP (VBD agreed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB cooperate) 
+              (PP-LOC-CLR (IN in) 
+                (NP 
+                  (NP (DT the) (NN government) (POS 's) )
+                  (VBG continuing) (NN payola) (NN probe) )))))))
+    (, ,) 
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (NP-SBJ 
+      (NP (DT a) (NN spokeswoman) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) (NNP U.S.) (NN attorney) (POS 's) )
+          (NN office) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Mr.) (NNP Craig) )
+      (CC and) 
+      (NP (CD three) (NNS others) ))
+    (VP (VBD were) 
+      (VP (VBN indicted) 
+        (NP (-NONE- *-1) )
+        (NP-TMP (JJ last) (NN year) )
+        (PP (IN as) 
+          (NP 
+            (NP (NN part) )
+            (PP (IN of) 
+              (NP (DT that) (NN payola) (NN probe) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (CD Two) (JJ other) (NNS defendants) )
+      (ADVP-TMP (RB previously) )
+      (VP (VBD pleaded) 
+        (ADJP-PRD (JJ guilty) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-1 
+        (NP (NNS charges) )
+        (PP (IN against) 
+          (NP (DT the) (JJ third) )))
+      (VP (VBD were) 
+        (VP (VBN dropped) 
+          (NP (-NONE- *-1) ))))
+    (. .) ))

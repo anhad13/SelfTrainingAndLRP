@@ -1,0 +1,31 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP WPP) (NNP GROUP) (POS 'S) )
+      (NNP Ogilvy) (CC &) (NNP Mather) )
+    (VP (VBZ expects) 
+      (S 
+        (NP-SBJ (NN profit) (NNS margins) )
+        (VP (TO to) 
+          (VP (VB improve) 
+            (PP-DIR (TO to) 
+              (NP (CD 11.5) (NN %) ))
+            (PP-TMP (IN in) 
+              (NP (CD 1990) ))
+            (PP-LOC (IN in) 
+              (NP (DT the) (NNP U.S.) ))))))))
+( (S 
+    (NP-SBJ 
+      (NP (NN Yesterday) (POS 's) )
+      (NN edition) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB specify) 
+        (SBAR 
+          (WHADVP-1 (WRB where) )
+          (S 
+            (NP-SBJ (DT the) (NN improvement) )
+            (VP (MD would) 
+              (VP (VB take) 
+                (NP (NN place) )
+                (ADVP-LOC (-NONE- *T*-1) )))))))
+    (. .) ))

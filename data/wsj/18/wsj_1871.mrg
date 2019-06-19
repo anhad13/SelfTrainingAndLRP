@@ -1,0 +1,33 @@
+
+( (S 
+    (NP-SBJ (NNP PRINCE) (NNP HENRI) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) 
+          (NX 
+            (NX (NN crown) (NN prince) )
+            (CC and) 
+            (NX (JJ hereditary) (JJ grand) (NN duke) )))
+        (PP (IN of) 
+          (NP (NNP Luxembourg) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT An) (NN article) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT the) (NNP World) (NNP Business) (NNP Report) )
+          (PP-TMP (IN of) 
+            (NP (NNP Sept.) (CD 22) (NNS editions) )))))
+    (VP 
+      (ADVP-MNR (RB incorrectly) )
+      (VBD referred) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (PRP$ his) (NN father) )
+          (, ,) 
+          (NP (NNP Grand) (NNP Duke) (NNP Jean) )
+          (, ,) ))
+      (PP-CLR (IN as) 
+        (NP (DT the) (NN crown) (NN prince) )))
+    (. .) ))

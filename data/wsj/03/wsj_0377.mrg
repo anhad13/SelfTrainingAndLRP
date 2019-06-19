@@ -1,0 +1,110 @@
+
+( (S 
+    (NP-SBJ (NNP Sanwa) (NNP Shutter) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP 
+              (NP (PRP$ its) (JJ affiliated) (NN company) )
+              (PP-LOC (IN in) 
+                (NP (NN Malaysia) )))
+            (, ,) 
+            (VP (VBN established) 
+              (NP (-NONE- *) )
+              (NP-TMP (DT this) (NNP April) ))
+            (, ,) )
+          (VP (MD will) 
+            (VP (VB begin) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG manufacturing) 
+                  (NP (NN steel) (NNS doors) )
+                  (NP-TMP (NNP Wednesday) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (PRP$ Its) (NN partner) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (JJ joint) (NN venture) )))
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (NNP Sin) (NNP Kean) (NNP Boon) (NNP Metal) (NNP Industries) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Penang) )
+          (, ,) 
+          (NP (NNP Malaysia) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Company) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (DT the) (JJ new) (NN company) )
+            (, ,) 
+            (NP 
+              (NP (NNP Sin) (NNP Kean) (NNP Boon-Sanwa) )
+              (PRN 
+                (-LRB- -LRB-)
+                (NP (NNP J.V) (. .) )
+                (-RRB- -RRB-) )))
+          (VP (VBZ is) 
+            (VP (VBN capitalized) 
+              (NP (-NONE- *-1) )
+              (PP-MNR (IN at) 
+                (NP 
+                  (NP (DT the) (NN equivalent) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (QP (CD 54) (CD million) )
+                        (NNS yen) )
+                      (PRN 
+                        (-LRB- -LRB-)
+                        (NP ($ $) (CD 381,000) (-NONE- *U*) )
+                        (-RRB- -RRB-) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ Japanese) (NN concern) )
+    (VP (VBZ has) 
+      (NP 
+        (ADJP (DT a) (CD 40) (NN %) )
+        (NN stake) )
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ (DT the) (JJ local) (NN partner) )
+          (VP (VBZ has) 
+            (NP (DT a) 
+              (ADJP (CD 60) (NN %) )
+              (NN stake) )))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (JJ new) (NN company) )
+      (VP (VBD was) 
+        (VP (VBN created) 
+          (NP (-NONE- *-1) )
+          (S-PRP 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB meet) 
+                (NP 
+                  (NP (VBG growing) (NN demand) )
+                  (PP (IN for) 
+                    (NP (NN steel) (NNS doors) ))
+                  (, ,) 
+                  (ADJP (JJ concurrent) 
+                    (PP (IN with) 
+                      (NP 
+                        (NP (VBG increasing) (JJ local) (NN concern) )
+                        (PP (IN about) 
+                          (NP (NN fire) (NN prevention) )))))
+                  (, ,) )))))))
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))

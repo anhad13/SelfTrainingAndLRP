@@ -1,0 +1,60 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Gerard) (NNP E.) (NNP Wood) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 51) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN president) )
+              (, ,) 
+              (NP (JJ chief) (NN executive) (NN officer) )
+              (CC and) 
+              (NP (DT a) (NN director) ))
+            (PP (IN of) 
+              (NP (DT this) (NNS minerals) 
+                (CC and)
+                (NNS materials) (NN company) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP Harry) (NNP A.) (NNP Durney) )
+        (, ,) 
+        (NP (CD 65) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP 
+              (VP (VBZ is) 
+                (VP (VBG retiring) 
+                  (PP-CLR (IN from) 
+                    (NP (JJ active) (NN duty) ))))
+              (CC but) 
+              (VP (VBZ remains) 
+                (NP-PRD (DT a) (NN director) 
+                  (CC and)
+                  (NN consultant) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Wood) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP 
+            (NP (NN president) )
+            (CC and) 
+            (NP (JJ chief) (NN executive) ))
+          (PP (IN of) 
+            (NP (NNP Steep) (NNP Rock) (NNP Resources) (NNP Inc) )))))
+    (. .) ))

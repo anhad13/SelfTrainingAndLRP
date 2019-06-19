@@ -1,0 +1,86 @@
+
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (NNP Lion) (NNP Nathan) (NNP Ltd.) )
+      (VP (VBD agreed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP (DT the) (NN franchise) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB bottle) 
+                      (, ,)
+                      (VB distribute) 
+                      (CC and)
+                      (VB market) 
+                      (NP (NNP Pepsi-Cola) (NN soft-drink) (NNS products) )
+                      (PP-LOC (IN in) 
+                        (NP (NNP Australia) )))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP New) (NNP Zealand) (NN brewing) 
+      (CC and)
+      (JJ retail) (NN concern) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB disclose) 
+        (NP (NNS terms) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN agreement) )
+    (VP 
+      (VP (VBZ is) 
+        (ADJP-PRD (JJ effective) )
+        (NP-TMP (NNP Jan.) (CD 1) ))
+      (CC and) 
+      (VP (VBZ is) 
+        (ADJP-PRD (JJ subject) 
+          (PP (TO to) 
+            (NP 
+              (NP (NN approval) )
+              (PP (IN from) 
+                (NP 
+                  (NP (NNP Australia) (POS 's) )
+                  (NNP Foreign) (NNP Investment) (NNP Review) (NNP Board) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Cadbury) (NNP Schweppes) (NNP Australia) (NNP Ltd.) )
+    (VP (VBZ has) 
+      (VP (VBN held) 
+        (NP (DT the) (JJ Australian) (NNP Pepsi) (NN franchise) )
+        (PP-TMP (IN for) 
+          (NP (DT the) (JJ past) (CD four) (NNS years) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Lion) (NNP Nathan) )
+      (CC and) 
+      (NP 
+        (NP (NNP PepsiCola) (NNP Australia) )
+        (, ,) 
+        (NP 
+          (NP (DT a) (NN unit) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP PepsiCo) (NNP Inc.) )
+              (PP (IN of) 
+                (NP (DT the) (NNP U.S.) )))))
+        (, ,) ))
+    (VP (VBD did) (RB n't) 
+      (VP (VB say) 
+        (SBAR 
+          (WHADVP (WRB why) )
+          (S 
+            (NP-SBJ (NNP Cadbury) (NNP Schweppes) )
+            (VP (MD will) 
+              (ADVP-TMP (RB no) (RBR longer) )
+              (VP (VB hold) 
+                (NP (DT the) (NN franchise) )))))))
+    (. .) ))

@@ -1,0 +1,89 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNPS People) (POS 's) )
+      (NNPS Savings) (NNP Financial) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB buy) 
+              (ADVP-CLR (RB back) )
+              (NP 
+                (NP 
+                  (QP (RB as) (JJ much) (IN as) (CD 10) )
+                  (NN %) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (PRP$ its) 
+                      (QP (CD 2.4) (CD million) )
+                      (NNS shares) )
+                    (ADJP (JJ outstanding) ))))
+              (SBAR-PRP (IN because) 
+                (S 
+                  (NP-SBJ-37 (DT the) (NN stock) )
+                  (VP (VBZ is) 
+                    (VP (VBN undervalued) 
+                      (NP (-NONE- *-37) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (VBG holding) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (VP (`` ``) 
+                (ADVP-MNR (RB unfairly) )
+                (VBN associated) ('' '') 
+                (NP (-NONE- *-1) )
+                (PP-CLR (IN with) 
+                  (NP 
+                    (NP (JJ other) (NNS banks) )
+                    (PP-LOC (IN in) 
+                      (NP (NNP New) (NNP England) ))
+                    (SBAR 
+                      (WHNP-62 (WDT that) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-62) )
+                        (VP (VBP have) 
+                          (VP (VBN had) 
+                            (NP (JJ major) (NN loan) (NNS losses) )
+                            (PP-TMP (IN in) 
+                              (NP (JJ recent) (NNS quarters) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) 
+            (NP (NNPS People) (POS 's) )
+            (NNPS Savings) (NNP Bank) (NN unit) )
+          (VP (VBZ does) (RB n't) 
+            (VP (VB have) 
+              (NP 
+                (NP (DT a) (`` ``) (JJ large) (NN exposure) )
+                (PP (TO to) 
+                  (NP 
+                    (NP 
+                      (UCP (NN construction) 
+                        (CC and)
+                        (JJ commercial) )
+                      (NNS loans) )
+                    (SBAR 
+                      (WHNP-63 (WDT that) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-63) )
+                        (VP (VBP have) 
+                          (VP (VBN caused) 
+                            (NP 
+                              (NP (DT the) (JJ loan-loss) (NNS problems) )
+                              (PP-LOC (IN in) 
+                                (NP 
+                                  (NP (JJ many) )
+                                  (PP (IN of) 
+                                    (NP (DT the) (NNS banks) )))))))))))))))))
+    (. .) ))

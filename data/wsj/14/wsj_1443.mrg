@@ -1,0 +1,213 @@
+
+( (S 
+    (NP-SBJ (NNP Immunex) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NNS scientists) )
+          (VP (VBD isolated) 
+            (NP 
+              (NP (DT a) (NN molecule) )
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (MD may) 
+                    (VP (VB hold) 
+                      (NP 
+                        (NP (JJ potential) )
+                        (PP (IN as) 
+                          (NP 
+                            (NP (DT a) (NN treatment) )
+                            (PP (IN for) 
+                              (NP 
+                                (NP (NNS disruptions) )
+                                (PP (IN of) 
+                                  (NP (DT the) (NN immune-system) ))
+                                (, ,) 
+                                (VP (VBG ranging) 
+                                  (PP-DIR (IN from) 
+                                    (NP (NN organ-transplant) (NN rejection) )
+                                    (, ,) )
+                                  (PP-DIR (TO to) 
+                                    (NP (NNS allergies) 
+                                      (CC and)
+                                      (NN asthma) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN molecule) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN mouse) (NN version) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT a) (NN protein) )
+            (VP (VBN called) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (NP-PRD (DT the) (NN interleukin-4) (NN receptor) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN IL-4) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN hormone) )
+        (SBAR 
+          (WHNP-5 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-5) )
+            (VP (VBZ directs) 
+              (NP 
+                (NP (DT the) (NN growth) 
+                  (CC and)
+                  (NN function) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (JJ white) (NN blood) (NNS cells) )
+                    (VP (VBN involved) 
+                      (NP (-NONE- *) )
+                      (PP-CLR (IN in) 
+                        (NP 
+                          (NP (DT the) (NN body) (POS 's) )
+                          (JJ immune) (NN response) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN IL-4) (NN receptor) )
+      (PP-LOC (IN on) 
+        (NP 
+          (NP (DT the) (NN surface) )
+          (PP (IN of) 
+            (NP (JJ such) (NNS cells) )))))
+    (VP (VBZ receives) 
+      (NP 
+        (NP (DT the) (NN hormone) (POS 's) )
+        (NN message) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB rally) 
+              (NP 
+                (NP (DT the) (NN body) (POS 's) )
+                (NN defense) ))))))
+    (. .) ))
+( (S (CC But) 
+    (PP (IN in) 
+      (NP 
+        (NP (JJ certain) (NNS conditions) )
+        (PP (JJ such) (IN as) 
+          (NP 
+            (NP (JJ autoimmune) (NNS diseases) )
+            (CC and) 
+            (NP (NNS allergies) )
+            (CC and) 
+            (NP (NN transplant) (NN rejection) )))))
+    (, ,) 
+    (NP-SBJ-1 (NNS doctors) )
+    (VP (MD would) 
+      (VP (VB like) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB damp) 
+              (NP (DT the) (JJ immune) (NN response) )
+              (SBAR-PRP (IN so) 
+                (S 
+                  (NP-SBJ (JJ such) (NNS cells) )
+                  (VP (VBP do) (RB n't) 
+                    (VP (VB touch) 
+                      (PRT (RP off) )
+                      (NP 
+                        (NP (JJ harmful) (JJ inflammatory) (NNS reactions) )
+                        (CC or) 
+                        (NP (NN cell) (NN destruction) )))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT A) (JJ soluble) (NN form) )
+        (PP (IN of) 
+          (NP (DT the) (NN receptor) )))
+      (VP (MD might) 
+        (VP (VB turn) 
+          (PRT (RP off) )
+          (NP-PRD 
+            (NP (DT a) (JJ specific) (NN part) )
+            (PP (IN of) 
+              (NP (DT the) (JJ immune) (NN response) )))
+          (PP (IN without) 
+            (NP (JJ general) (JJ immune) (NN suppression) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN IL-4) (NN receptor) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (CD one) )
+        (PP (IN of) 
+          (NP 
+            (NP (CD five) (JJ such) (NNS receptors) )
+            (SBAR 
+              (WHNP-2 (-NONE- 0) )
+              (S 
+                (NP-SBJ-3 (-NONE- *T*-2) )
+                (VP (TO to) 
+                  (VP (VB be) 
+                    (NP (-NONE- *-3) )
+                    (VP (VBN developed) 
+                      (CC and)
+                      (VBN tested) 
+                      (PP (IN by) 
+                        (NP-LGS 
+                          (NP (NNP Receptech) (NNP Corp.) )
+                          (, ,) 
+                          (NP 
+                            (NP (DT a) (NN spinoff) )
+                            (PP (IN of) 
+                              (NP (NNP Immunex) )))))
+                      (, ,) 
+                      (PP-MNR (IN through) 
+                        (NP (DT a) (VBN proposed) 
+                          (ADJP 
+                            (QP ($ $) (CD 30) (CD million) )
+                            (-NONE- *U*) )
+                          (JJ initial) (JJ public) (NN offering) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Immunex) )
+    (VP (MD will) 
+      (VP (VB contract) 
+        (PP-CLR (IN with) 
+          (NP (DT the) (NN spinoff) ))
+        (S-PRP 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB provide) 
+              (NP 
+                (NP (DT the) (NN research) )
+                (, ,) 
+                (NP (NN development) )
+                (CC and) 
+                (NP 
+                  (NP (JJ initial) (NN testing) )
+                  (PP (IN of) 
+                    (NP (DT the) (JJ new) (NNS agents) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Immunex) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (NP (DT the) (NN option) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB buy) 
+                (PRT (RP back) )
+                (NP (NNP Receptech) (NNS shares) )
+                (PP-TMP (IN after) 
+                  (NP (CD five) (NNS years) ))))))))
+    (. .) ))

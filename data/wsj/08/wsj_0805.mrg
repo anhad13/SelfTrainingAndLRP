@@ -1,0 +1,80 @@
+
+( (S 
+    (NP-SBJ (NNP CMS) (NNP ENERGY) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN management) )
+          (VP (MD would) 
+            (VP (VB recommend) 
+              (PP-CLR (TO to) 
+                (NP (PRP$ its) (NN board) ))
+              (NP-TMP (NN today) )
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ-1 (PRP$ its) (JJ common) (NN stock) (NN dividend) )
+                  (VP (VB be) 
+                    (VP (VBN reinstated) 
+                      (NP (-NONE- *-1) )
+                      (PP-CLR (IN at) 
+                        (NP (DT a) (`` ``) (JJ modest) (NN level) ('' '') ))
+                      (NP-TMP (RB later) (DT this) (NN year) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) 
+      (NAC-LOC (NNP Dearborn) 
+        (, ,)
+        (NNP Mich.) 
+        (, ,)
+        )
+      (NN energy) (NN company) )
+    (VP (VBD stopped) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG paying) 
+          (NP (DT a) (NN dividend) )))
+      (PP-TMP (IN in) 
+        (NP 
+          (NP (DT the) (JJ third) (NN quarter) )
+          (PP (IN of) 
+            (NP (CD 1984) ))))
+      (PP-PRP (IN because) (IN of) 
+        (NP 
+          (NP (NNS troubles) )
+          (PP-LOC (IN at) 
+            (NP (PRP$ its) (NNP Midland) (JJ nuclear) (NN plant) )))))
+    (. .) ))
+((S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ (NNP CMS) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (JJ third-quarter) (NN net) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 68.2) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP (CD 83) (NNS cents) )
+                (NP-ADV (DT a) (NN share) )))
+            (, ,) 
+            (ADVP (RB up) 
+              (PP (IN from) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 66.8) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP (CD 81) (NNS cents) )
+                    (NP-ADV (DT a) (NN share) )))
+                (, ,) 
+                (ADVP-TMP 
+                  (NP (DT a) (NN year) )
+                  (RB ago) )))))))
+    (. .) ))

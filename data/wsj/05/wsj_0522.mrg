@@ -1,0 +1,73 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (JJ current) (NN account) (NN deficit) )
+        (PP-LOC (IN on) 
+          (NP 
+            (NP 
+              (NP (NNP France) (POS 's) )
+              (NN balance) )
+            (PP (IN of) 
+              (NP (NNS payments) )))))
+      (VP (VBD narrowed) 
+        (PP-DIR (TO to) 
+          (NP 
+            (NP 
+              (QP (CD 1.48) (CD billion) )
+              (JJ French) (NNS francs) )
+            (PRN 
+              (-LRB- -LRB-)
+              (NP 
+                (QP ($ $) (CD 236.8) (CD million) )
+                (-NONE- *U*) )
+              (-RRB- -RRB-) ))
+          (PP-TMP (IN in) 
+            (NP (NNP August) )))
+        (PP-DIR (IN from) 
+          (NP (DT a) (VBN revised) 
+            (QP (CD 2.1) (CD billion) )
+            (NNS francs) )
+          (PP-TMP (IN in) 
+            (NP (NNP July) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Finance) (NNP Ministry) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Previously) )
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NNP July) (NN figure) )
+    (VP (VBD was) 
+      (VP (VBN estimated) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN at) 
+          (NP 
+            (NP (DT a) (NN deficit) )
+            (PP (IN of) 
+              (NP 
+                (QP (CD 613) (CD million) )
+                (NNS francs) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (RB Seasonally) (VBN adjusted) (NNS figures) )
+      (PP (IN for) 
+        (NP (NNP August) )))
+    (VP (VBD were) (RB n't) 
+      (ADJP-PRD (JJ available) )
+      (PP-PRP (IN because) (IN of) 
+        (NP 
+          (NP (DT a) (JJ recent) (NN strike) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBZ has) 
+                (VP (VBN disrupted) 
+                  (NP 
+                    (NP (DT the) (NN ministry) (POS 's) )
+                    (NNS data) (NN collection) ))))))))
+    (. .) ))

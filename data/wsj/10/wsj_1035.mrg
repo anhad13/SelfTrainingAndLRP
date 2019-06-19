@@ -1,0 +1,155 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Consolidated) (NNPS Freightways) (NNP Inc.) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 77) (NN %) )
+          (NN drop) )
+        (PP (IN in) 
+          (NP (JJ third-quarter) (JJ net) (NN income) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG citing) 
+          (NP 
+            (NP (JJ expected) (NNS losses) )
+            (PP-LOC (IN in) 
+              (NP (PRP$ its) (NNP Emery) (NNP Worldwide) (VBG shipping) (NN business) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (NAC-LOC (NNP Menlo) (NNP Park) 
+        (, ,)
+        (NNP Calif.) 
+        (, ,)
+        )
+      (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN net) )
+          (VP (VBD was) 
+            (NP-PRD 
+              (NP 
+                (QP ($ $) (CD 7.4) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP (CD 22) (NNS cents) )
+                (NP-ADV (DT a) (NN share) )))
+            (, ,) 
+            (ADVP (RB down) 
+              (PP (IN from) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 32.3) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP (CD 86) (NNS cents) )
+                    (NP-ADV (DT a) (NN share) ))
+                  (, ,) 
+                  (ADVP-TMP 
+                    (NP (DT a) (NN year) )
+                    (RB ago) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD totaled) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 1.01) (CD billion) )
+          (-NONE- *U*) )
+        (, ,) 
+        (NP 
+          (NP 
+            (NP (DT a) 
+              (ADJP (CD 43) (NN %) )
+              (NN increase) )
+            (PP (IN from) 
+              (NP 
+                (QP ($ $) (CD 704.4) (CD million) )
+                (-NONE- *U*) )))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG reflecting) 
+          (NP 
+            (NP 
+              (NP 
+                (NP (DT the) (NN company) (POS 's) )
+                (NN acquisition) )
+              (PP (IN of) 
+                (NP (NNP Emery) )))
+            (NP-TMP (RB earlier) (DT this) (NN year) )))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NN Profit) )
+      (ADVP (RB also) )
+      (VP (VBD suffered) 
+        (PP-PRP (IN because) (IN of) 
+          (NP 
+            (NP (`` ``) (JJ intense) ('' '') (NN discounting) )
+            (PP-LOC (IN in) 
+              (NP (PRP$ its) (JJ long-haul) (NN trucking) (NN business) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNS Analysts) )
+      (VP (VBD had) 
+        (VP (VBN expected) 
+          (S 
+            (NP-SBJ (NNP Consolidated) )
+            (VP (TO to) 
+              (VP (VB post) 
+                (NP (DT a) (JJ slim) (NN profit) )))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (DT the) (NN company) (POS 's) )
+        (NN stock) )
+      (VP (VBD was) 
+        (ADVP-PRD (RB down) 
+          (NP 
+            (QP (RB only) (CD 25) )
+            (NNS cents) )
+          (PP (TO to) 
+            (NP ($ $) (CD 30.25) (-NONE- *U*) )))
+        (PP-LOC (IN in) 
+          (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+        (NP-TMP (NN yesterday) )))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-3 
+      (NP-SBJ-1 (PRP They) )
+      (VP (VBP have) 
+        (S 
+          (NP-SBJ-2 (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB continue) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB tighten) 
+                    (NP (PRP$ their) (NNS belts) )))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-3) ))
+    (NP-SBJ 
+      (NP (NNP Craig) (NNP Kloner) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN analyst) )
+        (PP-LOC (IN at) 
+          (NP (NNP Goldman) 
+            (, ,)
+            (NNP Sachs) (CC &) (NNP Co) ))))
+    (. .) ))

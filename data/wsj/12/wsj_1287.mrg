@@ -1,0 +1,500 @@
+
+( (S 
+    (NP-SBJ (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.) )
+    (VP (VBD unveiled) 
+      (NP 
+        (NP (DT a) (JJ broad) (NN strategy) )
+        (SBAR 
+          (WHNP-2 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-2) )
+            (VP (TO to) 
+              (VP (VB tackle) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (JJS biggest) (NN problem) )
+                    (SBAR 
+                      (WHNP-1 (IN that) )
+                      (S 
+                        (NP-SBJ (NNS manufacturers) )
+                        (VP (VBP face) 
+                          (NP (-NONE- *T*-1) )
+                          (SBAR-TMP 
+                            (WHADVP-3 (WRB when) )
+                            (S 
+                              (NP-SBJ (-NONE- *) )
+                              (VP (VBG computerizing) 
+                                (NP (PRP$ their) (NNS operations) )
+                                (ADVP-TMP (-NONE- *T*-3) ))))))))
+                  (: :) 
+                  (S 
+                    (NP-SBJ (JJS Most) (NNS machines) )
+                    (VP (MD ca) (RB n't) 
+                      (VP (VB talk) 
+                        (PP-CLR (TO to) 
+                          (NP (DT each) (JJ other) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD unveiled) 
+      (NP 
+        (NP 
+          (QP (JJR more) (IN than) (CD 50) )
+          (NNS products) )
+        (, ,) 
+        (NP (RB mostly) (NN software) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-1) )
+            (VP (VBP are) 
+              (VP (VBN designed) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB integrate) 
+                      (NP 
+                        (NP 
+                          (NP (DT the) (CD three) (NNS areas) )
+                          (PP (IN of) 
+                            (NP (DT a) (NN manufacturing) (NN operation) )))
+                        (: --) 
+                        (NP 
+                          (NP (DT the) (NN plant) (NN floor) )
+                          (, ,) 
+                          (NP (NN design) (NNS operations) )
+                          (CC and) 
+                          (NP (NN production) (NN planning) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN aim) )
+    (, ,) 
+    (ADVP (RB ultimately) )
+    (, ,) 
+    (VP (VBZ is) 
+      (S-PRD 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB increase) 
+            (NP 
+              (NP (DT the) (NN flow) )
+              (PP (IN of) 
+                (NP (NN information) ))
+              (PP (IN into) 
+                (NP 
+                  (NP (DT a) (NN manufacturer) (POS 's) )
+                  (JJ main) (NN computer) (NN network) ))
+              (PP (IN for) 
+                (NP 
+                  (NP (NN use) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (NN business) (NN planning) )
+                      (, ,) 
+                      (NP (NN marketing) )
+                      (CC and) 
+                      (NP (JJ other) (NNS operations) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Manufacturers) )
+    (VP (VBP have) 
+      (ADVP (RB already) )
+      (VP (VBN spent) 
+        (ADVP 
+          (ADVP (RB so) (RB heavily) 
+            (PP (IN on) 
+              (NP (NN automation) )))
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (PRP they) )
+              (VP (VBP are) 
+                (NP-PRD 
+                  (NP (CD one) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (NN computer) (NN industry) (POS 's) )
+                      (VBG leading) (NN revenue) (NNS sources) )))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (JJ many) (NNS manufacturers) )
+    (VP (VBP find) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ-1 
+            (NP (NN communication) )
+            (PP (IN between) 
+              (NP (JJ different) (NNS computers) )))
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (VP (VBN rendered) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (ADJP-PRD (RB nearly) (JJ impossible) ))
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (DT the) (NN babel) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NN computer) (NNS languages) )
+                        (VP (VBN used) 
+                          (NP (-NONE- *) )
+                          (PP (IN by) 
+                            (NP-LGS 
+                              (NP (JJ different) (NNS machines) )
+                              (, ,) 
+                              (PP (VBG including) 
+                                (NP 
+                                  (NP (NNS robots) )
+                                  (CC and) 
+                                  (NP (NN machine) (NNS tools) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP IBM) (POS 's) )
+        (NN announcement) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ-2 (-NONE- *T*-1) )
+          (VP 
+            (VP (VBD was) 
+              (VP (VBN expected) 
+                (NP (-NONE- *-2) )))
+            (CC and) 
+            (VP (MD will) 
+              (ADVP-MNR (RB formally) )
+              (VP (VB be) 
+                (VP (VBN made) 
+                  (NP (-NONE- *-2) )
+                  (PP (TO to) 
+                    (NP (NNS customers) ))
+                  (NP-TMP (NN today) )))))))
+      (, ,) )
+    (ADVP (RB also) )
+    (VP (VBZ marks) 
+      (NP (DT an) (NN attempt) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB gain) 
+              (NP 
+                (NP (NN credibility) )
+                (PP-LOC (IN on) 
+                  (NP 
+                    (NP (DT the) (NN plant) (NN floor) )
+                    (, ,) 
+                    (SBAR 
+                      (SBAR 
+                        (WHADVP-3 (WRB where) )
+                        (S 
+                          (NP-SBJ (NNP Digital) (NNP Equipment) (NNP Corp.) )
+                          (VP (VBZ has) 
+                            (ADVP (RB long) )
+                            (VP (VBN dominated) 
+                              (ADVP-LOC (-NONE- *T*-3) )))))
+                      (CC and) 
+                      (SBAR 
+                        (WHADVP-4 (WRB where) )
+                        (S 
+                          (NP-SBJ (NNP Hewlett-Packard) (NNP Co.) )
+                          (VP (VBZ has) 
+                            (ADVP-TMP (RB recently) )
+                            (VP (VBN gained) 
+                              (NP (NN market) (NN share) )
+                              (ADVP-LOC (-NONE- *T*-4) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Consultants) )
+    (VP (VBP have) 
+      (VP (VBN said) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (PRP it) )
+              (SBAR (-NONE- *EXP*-1) ))
+            (VP (MD will) 
+              (VP (VB take) 
+                (NP (DT a) (NN while) )
+                (SBAR-1 (IN for) 
+                  (S 
+                    (NP-SBJ 
+                      (NP (PDT all) (DT the) (NNS pieces) )
+                      (PP (IN of) 
+                        (NP (DT the) (NNP IBM) (NN strategy) )))
+                    (VP (TO to) 
+                      (VP (VB fall) 
+                        (PP-CLR (IN into) 
+                          (NP (NN place) ))))))
+                (, ,) 
+                (SBAR-ADV (RB even) (IN though) 
+                  (S 
+                    (NP-SBJ 
+                      (NP (DT the) (JJ specific) (NNS products) )
+                      (SBAR 
+                        (WHNP-2 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (NNP IBM) )
+                          (VP (VBD unveiled) 
+                            (NP (-NONE- *T*-2) )))))
+                    (VP (MD will) 
+                      (ADVP (RB generally) )
+                      (VP (VB be) 
+                        (ADJP-PRD (JJ available) )
+                        (PP-TMP (IN by) 
+                          (NP 
+                            (NP (DT the) (NN end) )
+                            (PP (IN of) 
+                              (NP (DT the) (JJ first) (NN quarter) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Sam) (NNP Albert) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN consultant) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP Scarsdale) )
+            (, ,) 
+            (NP (NNP N.Y.) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (PP-TMP (IN in) 
+            (NP (DT the) (NN past) ))
+          (NP-SBJ (NNP IBM) )
+          (VP (VBZ has) 
+            (VP (VBN developed) 
+              (NP (JJ broad) (NN software) (NNS strategies) )
+              (PP-PRP (RB only) (IN for) 
+                (NP 
+                  (NP (NNS problems) )
+                  (SBAR 
+                    (WHNP-1 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBD crossed) 
+                        (NP (NN industry) (NNS lines) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBZ believes) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ 
+                  (NP (NNP IBM) (POS 's) )
+                  (NN decision) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB invest) 
+                        (NP 
+                          (NP (DT this) (NN sort) )
+                          (PP (IN of) 
+                            (NP (NN effort) )))
+                        (PP-CLR (IN into) 
+                          (NP (DT a) (JJ single) (NN industry) ))))))
+                (VP (VBD showed) 
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ (PRP it) )
+                      (VP 
+                        (VP (VBD was) 
+                          (VP (VBG getting) 
+                            (ADJP-PRD (JJ serious) 
+                              (PP (IN about) 
+                                (S-NOM 
+                                  (NP-SBJ (-NONE- *) )
+                                  (VP (VBG understanding) 
+                                    (NP 
+                                      (NP (NNS customers) (POS ') )
+                                      (NNS problems) )))))))
+                        (CC and) 
+                        (VP (VBD was) (RB n't) 
+                          (VP 
+                            (ADVP (RB just) )
+                            (VBG selling) 
+                            (NP (NN technology) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (NNP IBM) )
+              (VP (TO to) 
+                (VP (VB unveil) 
+                  (NP 
+                    (NP (JJ similar) (NNS strategies) )
+                    (PP (IN for) 
+                      (NP (JJ other) (NNS industries) )))
+                  (PP-TMP (IN in) 
+                    (NP (VBG coming) (NNS months) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP IBM) (POS 's) )
+      (NN push) )
+    (VP (VBZ is) 
+      (ADVP (RB also) )
+      (ADJP-PRD (JJ unusual) )
+      (PP (IN in) 
+        (NP 
+          (NP (PRP$ its) (NN approach) )
+          (PP (TO to) 
+            (NP (NN marketing) )))))
+    (. .) ))
+( (S 
+    (PP (RB Rather) (IN than) 
+      (S-NOM 
+        (NP-SBJ-1 (-NONE- *) )
+        (VP 
+          (ADVP (RB just) )
+          (VB send) 
+          (PRT (RP out) )
+          (NP (NN marketing) (NNS people) )
+          (S-PRP 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB knock) 
+                (PP-CLR (IN on) 
+                  (NP 
+                    (NP (NNS customers) (POS ') )
+                    (NNS doors) ))))))))
+    (, ,) 
+    (NP-SBJ (NNP IBM) )
+    (VP (VBZ is) 
+      (VP (VBG making) 
+        (S 
+          (NP-SBJ-2 
+            (NP 
+              (QP (JJ several) (CD hundred) ))
+            (PP (IN of) 
+              (NP (PRP$ its) (JJ own) (VBG manufacturing) (NNS people) )))
+          (ADJP-PRD (JJ available) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB discuss) 
+                  (NP (JJ specific) (NNS needs) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (NNP IBM) (POS 's) )
+      (VBG manufacturing) (NN staff) )
+    (ADVP (RB also) )
+    (VP 
+      (VP (MD will) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ able) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB provide) 
+                  (NP 
+                    (NP (NN software) )
+                    (SBAR 
+                      (WHNP-1 (IN that) )
+                      (S 
+                        (NP-SBJ (NNP IBM) )
+                        (VP (VBZ has) 
+                          (VP (VBN developed) 
+                            (ADVP-LOC (RB internally) )
+                            (NP (-NONE- *T*-1) ))))))))))))
+      (CC and) 
+      (VP (MD will) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ able) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB form) 
+                  (NP 
+                    (NP (NNS teams) )
+                    (PP (IN with) 
+                      (NP (DT a) (NN customer) ))
+                    (SBAR-PRP 
+                      (WHNP-3 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-3) )
+                        (VP (TO to) 
+                          (VP 
+                            (ADVP-MNR (RB jointly) )
+                            (VB solve) 
+                            (NP (NN manufacturing) (NNS problems) )))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP IBM) )
+      (VP (MD can) 
+        (ADVP (RB obviously) )
+        (VP (VB bring) 
+          (S 
+            (NP-SBJ (PRP$ its) (NN expertise) )
+            (VP (TO to) 
+              (VP (VB bear) 
+                (PP-CLR (IN on) 
+                  (NP 
+                    (NP (NNS problems) )
+                    (VP (VBN related) 
+                      (NP (-NONE- *) )
+                      (PP-CLR (TO to) 
+                        (NP (NN computer) (NN manufacturing) )))))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP it) )
+      (VP (MD could) 
+        (ADVP (RB also) )
+        (VP (VB help) 
+          (NP (NNS customers) )
+          (PP-CLR (IN on) 
+            (NP 
+              (NP (NN software) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (TO to) 
+                    (VP (VB deal) 
+                      (PP-CLR (IN with) 
+                        (NP 
+                          (NP (JJ such) (NNS things) )
+                          (PP (IN as) 
+                            (NP 
+                              (NP (NNS changes) )
+                              (PP-LOC (IN in) 
+                                (NP (VBG engineering) (NNS documents) )))))))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (PRP We) )
+        (VP (MD may) (RB not) 
+          (VP (VB have) 
+            (NP (DT every) (NN manufacturing) (NN problem) ))))
+      (, ,) (CC but) 
+      (S 
+        (NP-SBJ (PRP we) )
+        (VP (VBP have) 
+          (NP (JJS most) ))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP George) (NNP Conrades) )
+      (, ,) 
+      (NP 
+        (NP (NNP IBM) (POS 's) )
+        (JJ top) (NN marketing) (NN official) ))
+    (. .) ))

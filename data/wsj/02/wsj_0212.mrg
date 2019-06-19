@@ -1,0 +1,43 @@
+
+( (S 
+    (NP-SBJ-2 
+      (NP-1 (NNP Raymond) (NNP E.) (NNP Ross) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 53) (NNS years) )
+        (JJ old) )
+      (, ,) 
+      (NP 
+        (NP (RB formerly) (NN group) (NN vice) (NN president) )
+        (, ,) 
+        (NP (NNP U.S.) (NNS plastics) (NN machinery) )
+        (, ,) 
+        (PP-LOC (IN at) 
+          (NP (DT this) (NN machine) (NN tool) 
+            (, ,)
+            (NNS plastics) (NN machinery) 
+            (CC and)
+            (NNS robots) (NN concern) ))
+        (, ,) ))
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (JJ senior) (NN vice) (NN president) )
+            (, ,) 
+            (NP (JJ industrial) (NNS systems) )
+            (, ,) ))
+        (S-ADV 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (VBG succeeding) 
+            (NP 
+              (NP (NNP David) (NN A.) (NNP Entrekin) )
+              (, ,) 
+              (SBAR 
+                (WHNP-49 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-49) )
+                  (VP (VBD resigned) 
+                    (NP-TMP (NNP Monday) )))))))))
+    (. .) ))

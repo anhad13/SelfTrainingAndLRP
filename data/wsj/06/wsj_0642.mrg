@@ -1,0 +1,129 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (DT This) (NN maker) )
+      (PP (IN of) 
+        (NP (JJ electronic) (NNS devices) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD replaced) 
+            (NP 
+              (QP (DT all) (CD five) )
+              (JJ incumbent) (NNS directors) )
+            (PP-LOC (IN at) 
+              (NP 
+                (NP (DT a) (JJ special) (NN meeting) )
+                (VP (VBN called) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS 
+                      (NP (NNP Milton) (NNP B.) (NNP Hollander) )
+                      (, ,) 
+                      (SBAR 
+                        (WHNP-1 
+                          (WHNP (WP$ whose) (NNP High) (NNP Technology) (NNP Holding) (NNP Co.) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (NNP Stamford) )
+                              (, ,) 
+                              (NP-LOC (NNP Conn.) ))))
+                        (S 
+                          (NP-SBJ (-NONE- *T*-1) )
+                          (VP (VBD acquired) 
+                            (NP 
+                              (NP (JJS most) )
+                              (PP (IN of) 
+                                (NP 
+                                  (NP (PRP$ its) 
+                                    (ADJP (CD 49.4) (NN %) )
+                                    (NN stake) )
+                                  (PP (IN in) 
+                                    (NP (NNP Newport) )))))
+                            (PP-TMP (IN in) 
+                              (NP (NNP August) ))))))))))))))
+    (. .) ))
+( (SINV 
+    (VP-TPC-1 (VBN Elected) 
+      (NP (-NONE- *-2) )
+      (PP-CLR (IN as) 
+        (NP (NNS directors) )))
+    (VP (VBD were) 
+      (VP (-NONE- *T*-1) ))
+    (NP-SBJ-2 
+      (NP (NNP Mr.) (NNP Hollander) )
+      (, ,) 
+      (NP (NNP Frederick) (NNP Ezekiel) )
+      (, ,) 
+      (NP (NNP Frederick) (NNP Ross) )
+      (, ,) 
+      (NP (NNP Arthur) (NNP B.) (NNP Crozier) )
+      (CC and) 
+      (NP (NNP Rose) (NNP Pothier) ))
+    (. .) ))
+( (SINV 
+    (VP-TPC-1 (VBN Removed) 
+      (NP (-NONE- *-2) )
+      (PP-CLR (IN from) 
+        (NP (NN office) )))
+    (VP (VBD were) 
+      (VP (-NONE- *T*-1) ))
+    (NP-SBJ-2 
+      (NP (NNP George) (NNP Pratt) )
+      (, ,) 
+      (NP (NNP Robert) (NNP E.) (NNP Davis) )
+      (, ,) 
+      (NP (NNP Norman) (NNP Gray) )
+      (, ,) 
+      (NP 
+        (NP (NNP John) (NNP Virtue) )
+        (, ,) 
+        (NP (JJ corporate) (NN secretary) ))
+      (, ,) 
+      (CC and)
+      (NP 
+        (NP (NNP Barrett) (NNP B.) (NNP Weekes) )
+        (, ,) 
+        (NP 
+          (NP (NN chairman) )
+          (, ,) 
+          (NP (NN president) )
+          (CC and) 
+          (NP (JJ chief) (JJ executive) (NN officer) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Newport) (NNS officials) )
+      (VP (VBD did) (RB n't) 
+        (VP (VB respond) 
+          (NP-TMP (NNP Friday) )
+          (PP-CLR (TO to) 
+            (NP (NNS requests) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB discuss) 
+                    (NP 
+                      (NP (DT the) (NNS changes) )
+                      (PP-LOC (IN at) 
+                        (NP (DT the) (NN company) )))))))))))
+    (CC but) 
+    (S 
+      (ADVP-TMP (RB earlier) )
+      (, ,) 
+      (NP-SBJ (NNP Mr.) (NNP Weekes) )
+      (VP (VBD had) 
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ-1 (NNP Mr.) (NNP Hollander) )
+              (VP (VBD wanted) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB have) 
+                      (NP (PRP$ his) (JJ own) (NN team) )
+                      (PP-LOC (IN on) 
+                        (NP (DT the) (NN board) )))))))))))
+    (. .) ))

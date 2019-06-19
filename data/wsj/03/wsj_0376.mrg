@@ -1,0 +1,405 @@
+
+( (S 
+    (NP-SBJ (NNP Courtaulds) (NNP PLC) )
+    (VP (VBD announced) 
+      (NP (NNS plans) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB spin) 
+              (PRT (RP off) )
+              (NP (PRP$ its) (NNS textiles) (NNS operations) )
+              (PP-DIR (TO to) 
+                (NP (VBG existing) (NNS shareholders) ))
+              (PP-LOC (IN in) 
+                (NP (DT a) (NN restructuring) ))
+              (S-PRP 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB boost) 
+                    (NP (NN shareholder) (NN value) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP 
+          (NP (DT The) (JJ British) 
+            (UCP (NN chemical) 
+              (CC and)
+              (NN textile) )
+            (NN company) (POS 's) )
+          (NN plan) )
+        (, ,) 
+        (SBAR 
+          (WHNP-210 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-210) )
+            (VP (VBZ requires) 
+              (NP (NN shareholder) (NN approval) ))))
+        (, ,) )
+      (VP (MD would) 
+        (VP (VB create) 
+          (NP 
+            (NP (DT a) (JJ new) 
+              (, ,)
+              (JJ listed) (NNP U.K.) (NN stock) )
+            (PP (IN with) 
+              (NP 
+                (NP (DT a) (JJ probable) (NN market) (NN capitalization) )
+                (PP (IN between) 
+                  (NP 
+                    (NP 
+                      (NP 
+                        (QP (# #) (CD 300) (CD million) )
+                        (-NONE- *U*) )
+                      (PRN 
+                        (-LRB- -LRB-)
+                        (NP 
+                          (QP ($ $) (CD 473) (CD million) )
+                          (-NONE- *U*) )
+                        (-RRB- -RRB-) ))
+                    (CC and) 
+                    (NP 
+                      (QP (# #) (CD 400) (CD million) )
+                      (-NONE- *U*) )))))))))
+    (, ,) 
+    (NP-SBJ (NNS analysts) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN establishment) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (JJ separate) (NN company) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ-2 (-NONE- *T*-1) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (VP (VBN called) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (NP-PRD (NNP Courtaulds) (NNP Textiles) )))))))
+          (, ,) )))
+    (VP (MD could) 
+      (VP (VB be) 
+        (ADJP-PRD (JJ effective) )
+        (ADVP-TMP 
+          (ADVP (RB as) (RB early) )
+          (PP (IN as) 
+            (NP 
+              (NP (JJ next) (NN year) (POS 's) )
+              (JJ first) (NN quarter) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Investors) )
+    (VP (VBD welcomed) 
+      (NP (DT the) (NN move) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Courtaulds) (POS ') )
+      (NNS shares) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 15) (NN pence) )
+      (PP-DIR (TO to) 
+        (NP (CD 362) (NN pence) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG valuing) 
+          (NP (DT the) (JJ entire) (NN company) )
+          (PP (IN at) 
+            (NP 
+              (QP (RB about) (# #) (CD 1.44) (CD billion) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Courtaulds) (POS ') )
+      (NN spinoff) )
+    (VP (VBZ reflects) 
+      (NP 
+        (NP (NN pressure) 
+          (S (-NONE- *ICH*-1) ))
+        (PP-LOC (IN on) 
+          (NP (JJ British) (NN industry) ))
+        (S-1 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB boost) 
+              (NP (NN share) (NNS prices) )
+              (PP-LOC-CLR (IN beyond) 
+                (NP 
+                  (NP (DT the) (NN reach) )
+                  (PP (IN of) 
+                    (NP (JJ corporate) (NNS raiders) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Courtaulds) (POS ') )
+      (NN restructuring) )
+    (VP (VBZ is) 
+      (PP-LOC-PRD (IN among) 
+        (NP 
+          (NP (DT the) (JJS largest) )
+          (ADVP-TMP (RB thus) (RB far) )
+          (PP-LOC (IN in) 
+            (NP (NNP Britain) ))))
+      (, ,) 
+      (SBAR-ADV (IN though) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBN dwarfed) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LOC 
+                  (NP (NNP B.A.T) (NNPS Industries) (NNP PLC) (POS 's) )
+                  (NNS plans) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB spin) 
+                        (PRT (RP off) )
+                        (NP 
+                          (NP 
+                            (QP (RB roughly) (# #) (CD 4) (CD billion) )
+                            (-NONE- *U*) )
+                          (PP (IN in) 
+                            (NP (NNS assets) )))
+                        (S-PRP 
+                          (NP-SBJ-2 (-NONE- *) )
+                          (VP (TO to) 
+                            (VP (VB help) 
+                              (S 
+                                (NP-SBJ (-NONE- *-2) )
+                                (VP (VB fend) 
+                                  (PRT (RP off) )
+                                  (NP 
+                                    (NP (DT a) (NN takeover) (NN bid) )
+                                    (PP-DIR (IN from) 
+                                      (NP (JJ Anglo-French) (NN financier) (NNP Sir) (NNP James) (NNP Goldsmith) ))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ divested) (NNP Courtaulds) (NN textile) (NNS operations) )
+    (VP (VBD had) 
+      (NP 
+        (NP (NN operating) (NN profit) )
+        (PP (IN of) 
+          (NP 
+            (QP (# #) (CD 50) (CD million) )
+            (-NONE- *U*) ))
+        (PP (IN on) 
+          (NP 
+            (NP 
+              (QP (# #) (CD 980) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN in) 
+              (NP (NN revenue) )))))
+      (PP-TMP (IN in) 
+        (NP 
+          (NP (DT the) (NN year) )
+          (VP (VBN ended) 
+            (NP-TMP (NNP March) (CD 31) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Some) (NNS analysts) )
+    (VP (VBP have) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ 
+              (NP (NNP Courtaulds) (POS ') )
+              (NNS moves) )
+            (VP (MD could) 
+              (VP (VB boost) 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (NN value) )
+                (PP-EXT (IN by) 
+                  (NP 
+                    (QP (CD 5) (NN %) (TO to) (CD 10) )
+                    (NN %) ))
+                (, ,) 
+                (SBAR-PRP (IN because) 
+                  (S 
+                    (NP-SBJ (DT the) (CD two) (NNS entities) )
+                    (ADVP (RB separately) )
+                    (VP (MD will) 
+                      (VP (VB carry) 
+                        (NP 
+                          (NP (DT a) (JJR higher) (NN price) (NNS earnings) (NN multiple) )
+                          (SBAR (IN than) 
+                            (S 
+                              (NP-SBJ (PRP they) )
+                              (VP (VBD did) 
+                                (VP (-NONE- *?*) 
+                                  (FRAG 
+                                    (ADJP (JJ combined) )))))))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ (NNP Courtaulds) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS moves) )
+          (VP (VBP are) 
+            (ADJP-PRD (JJ logical) )
+            (SBAR-PRP (IN because) 
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (MD will) 
+                  (VP (VB allow) 
+                    (S 
+                      (NP-SBJ (DT both) (DT the) (NNS chemicals) 
+                        (CC and)
+                        (NN textile) (NNS businesses) )
+                      (VP (TO to) 
+                        (VP (VB focus) 
+                          (ADVP-MNR (RBR more) (RB closely) )
+                          (PP-LOC-CLR (IN on) 
+                            (NP (NN core) (NNS activities) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Courtaulds) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (PP-PRD (IN under) 
+          (NP (NN pressure) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB enhance) 
+                  (NP (NN shareholder) (NN value) ))))))
+        (SBAR-TMP (IN since) 
+          (S 
+            (NP-SBJ-1 
+              (NP (NN takeover) (NNS speculators) )
+              (PRN (: --) 
+                (PP (VBG including) 
+                  (NP (JJ Australian) (NN financier) (NNP Kerry) (NNP Packer) ))
+                (: --) ))
+            (VP (VBD surfaced) 
+              (S-ADV 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG holding) 
+                  (NP (JJ small) (NNS stakes) )
+                  (NP-TMP (JJ last) (NN year) ))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN Though) 
+      (S 
+        (NP-SBJ (NNP Mr.) (NNP Packer) )
+        (VP (VBZ has) 
+          (ADVP-TMP (IN since) )
+          (VP (VBN sold) 
+            (NP (PRP$ his) (NN stake) )))))
+    (, ,) 
+    (NP-SBJ-1 (NNP Courtaulds) )
+    (VP (VBZ is) 
+      (VP (VBG moving) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB keep) 
+              (S 
+                (NP-SBJ (PRP$ its) (JJ institutional) (NNS shareholders) )
+                (ADJP-PRD (JJ happy) )))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 
+      (PP (RB Even) (IN without) 
+        (NP (DT a) (NN specific) (NN takeover) (NN threat) ))
+      (, ,) 
+      (NP-SBJ (NNP Courtaulds) )
+      (VP (VBZ is) 
+        (VP (VBG giving) 
+          (NP (NNS shareholders) )
+          (`` ``) 
+          (NP (NN choice) 
+            (CC and)
+            (NN value) )
+          (, ,) ('' '') )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (NNP Julia) (NNP Blake) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN analyst) )
+        (PP-LOC (IN at) 
+          (NP (NNP London) (NNS stockbrokers) (NNP Barclays) (IN de) (NNP Zoete) (NNP Wedd) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (NN statement) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) (: :) (`` ``) 
+      (S 
+        (NP-SBJ-1 (DT Both) (NNS parts) )
+        (VP (MD can) 
+          (ADVP (RB only) )
+          (VP 
+            (VP (VB realize) 
+              (NP (PRP$ their) (JJ full) (NN potential) ))
+            (CC and) 
+            (VP (VB be) 
+              (VP 
+                (ADVP (RB appropriately) )
+                (VBN valued) 
+                (NP (-NONE- *-1) )
+                (PP (IN by) 
+                  (NP-LGS (DT the) (NN market) ))))
+            (SBAR-ADV (IN if) 
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (VBP are) 
+                  (NP-PRD (RB separately) (VBN quoted) (NNS companies) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT The) (JJR sharper) (NN definition) )
+        (CC and) 
+        (NP (DT the) (NN autonomy) ))
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (DT each) )
+          (VP (MD will) 
+            (ADVP (RB thereby) )
+            (VP (VB gain) 
+              (NP (-NONE- *T*-1) ))))))
+    (VP (MD will) 
+      (VP (VB benefit) 
+        (NP (NNS shareholders) 
+          (, ,)
+          (NNS customers) 
+          (CC and)
+          (NNS employees) )))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNP Courtaulds) (NNP Chairman) 
+      (CC and)
+      (NNP Chief) (NNP Executive) (NNP Sir) (NNP Christopher) (NNP Hogg) )
+    (VP (MD will) 
+      (VP (VB remain) 
+        (PP-LOC-PRD (IN in) 
+          (NP 
+            (NP (DT both) (NNS posts) )
+            (PP-LOC (IN at) 
+              (NP (DT the) (VBG surviving) (NN chemical) (NN company) ))))
+        (PP-TMP (IN after) 
+          (NP (DT the) (NN spinoff) ))))
+    (. .) ))

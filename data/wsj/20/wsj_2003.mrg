@@ -1,0 +1,196 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Great) (NNP American) (NNP Bank) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG citing) 
+        (NP (JJ depressed) (NNP Arizona) (JJ real) (NN estate) (NNS prices) )))
+    (, ,) 
+    (VP (VBD posted) 
+      (NP 
+        (NP (DT a) (NN third-quarter) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 59.4) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP ($ $) (CD 2.48) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) ))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP 
+      (NP (DT A) (NN year) )
+      (RBR earlier) )
+    (, ,) 
+    (NP-SBJ (DT the) (NNS savings) (NN bank) )
+    (VP (VBD had) 
+      (NP 
+        (NP (NNS earnings) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 8.1) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 33) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD had) 
+      (NP 
+        (NP (DT a) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 58.3) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP ($ $) (CD 2.44) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) )))))
+      (, ,) 
+      (PP-TMP (IN after) 
+        (NP 
+          (NP (NNS earnings) )
+          (PP (IN of) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 29.5) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP ($ $) (CD 1.20) (-NONE- *U*) )
+                (NP-ADV (DT a) (NN share) )))
+            (, ,) 
+            (PP-TMP (IN in) 
+              (NP (DT the) (CD 1988) (NN period) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Great) (NNP American) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD increased) 
+            (NP (PRP$ its) (NN loan-loss) (NNS reserves) )
+            (PP-EXT (IN by) 
+              (NP 
+                (QP ($ $) (CD 93) (CD million) )
+                (-NONE- *U*) ))
+            (PP-TMP (IN after) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP 
+                  (VP (VBG reviewing) 
+                    (NP (PRP$ its) (NN loan) (NN portfolio) )))))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG raising) 
+                (NP (PRP$ its) (JJ total) (NN loan) 
+                  (CC and)
+                  (JJ real) (NN estate) (NNS reserves) )
+                (PP-DIR (TO to) 
+                  (NP 
+                    (QP ($ $) (CD 217) (CD million) )
+                    (-NONE- *U*) ))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN Before) 
+      (NP (DT the) (NN loan-loss) (NN addition) ))
+    (PRN 
+      (, ,)
+      (NP-SBJ (PRP it) )
+      (VP (VBD said) ))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD had) 
+      (NP 
+        (NP (VBG operating) (NN profit) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 10) (CD million) )
+            (-NONE- *U*) )))
+      (PP-TMP (IN for) 
+        (NP (DT the) (NN quarter) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN move) )
+    (VP (VBD followed) 
+      (NP 
+        (NP (DT a) (NN round) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ similar) (NNS increases) )
+            (PP (IN by) 
+              (NP (JJ other) (NNS lenders) ))
+            (PP (IN against) 
+              (NP (NNP Arizona) (JJ real) (NN estate) (NNS loans) )))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG reflecting) 
+          (NP 
+            (NP (DT a) (VBG continuing) (NN decline) )
+            (PP-LOC (IN in) 
+              (NP (DT that) (NN market) ))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (NN addition) )
+        (PP (TO to) 
+          (NP (DT the) (VBN increased) (NN reserve) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS savings) (NN bank) )
+    (VP (VBD took) 
+      (NP 
+        (NP (DT a) (JJ special) (NN charge) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 5) (CD million) )
+              (-NONE- *U*) )
+            (VP (VBG representing) 
+              (NP 
+                (NP (JJ general) 
+                  (CC and)
+                  (JJ administrative) (NNS expenses) )
+                (PP (IN from) 
+                  (NP 
+                    (NP (NN staff) (NNS reductions) )
+                    (CC and) 
+                    (NP (JJ other) (NNS matters) )))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (PRP it) )
+      (VP (VBD posted) 
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 7.6) (CD million) )
+              (-NONE- *U*) )
+            (NN reduction) )
+          (PP (IN in) 
+            (NP (VBN expected) (NN mortgage) (VBG servicing) (NNS fees) )))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG reflecting) 
+            (NP (DT the) (NN fact) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ (JJR more) (NNS borrowers) )
+                  (VP (VBP are) 
+                    (VP (VBG prepaying) 
+                      (NP (PRP$ their) (NNS mortgages) ))))))))))
+    (. .) ))

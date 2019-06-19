@@ -1,0 +1,88 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Richard) (NNP D.) (NNP Sutton) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 64) (NNS years) )
+        (JJ old) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (PP (IN of) 
+          (NP (DT this) (JJ bank-holding) (NN company) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (JJ acting) (NN president) )
+              (CC and) 
+              (NP (JJ chief) (NN executive) (NN officer) ))
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN company) )
+                (CC and) 
+                (NP (PRP$ its) 
+                  (NAC (NNP First) (NNP National) (NNP Bank) 
+                    (PP (IN of) 
+                      (NP (NNP Toms) (NNP River) )))
+                  (NN subsidiary) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (NNP Joseph) (NNP W.) (NNP Robertson) )
+        (, ,) 
+        (NP (CD 61) )
+        (, ,) )
+      (VP (VBD was) 
+        (VP (VBN dismissed) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN from) 
+            (NP (DT those) (NNS posts) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (PRP He) )
+      (VP (MD could) (RB n't) 
+        (VP (VB be) 
+          (VP (VBN reached) 
+            (NP (-NONE- *-1) )))))
+    (CC and) 
+    (S 
+      (NP-SBJ (DT a) (NN company) (NN spokesman) )
+      (VP (MD would) (RB n't) 
+        (VP (VB comment) 
+          (PP-CLR (IN on) 
+            (NP (DT the) (NN dismissal) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Mr.) (NNP Robertson) )
+    (VP (VBD was) 
+      (ADVP (RB also) )
+      (VP (VBN removed) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (DT the) (NN board) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (NP 
+                    (NP (NNP First) (NNP National) (NNP Bank) )
+                    (PP (IN of) 
+                      (NP (NNP New) (NNP Jersey-Salem) (NNP County) )))
+                  (, ,) 
+                  (NP (DT another) (NN unit) )
+                  (, ,) )
+                (CC and) 
+                (NP (DT the) (NNP Toms) (NNP River) (NN bank) )))))))
+    (. .) ))

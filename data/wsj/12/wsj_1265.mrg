@@ -1,0 +1,105 @@
+
+( (S 
+    (NP-SBJ (NNP MCA) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP$ its) (JJ toy-making) (NN unit) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB buy) 
+                  (NP 
+                    (NP (NNP Buddy) (NNP L) (NNP Corp.) )
+                    (, ,) 
+                    (NP 
+                      (NP (NN producer) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT a) (NN line) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (NN toy) (NNS vehicles) )
+                              (CC and) 
+                              (NP (JJ preschool) (NNS products) ))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (DT The) (NN price) )
+      (VP (VBD was) (RB n't) 
+        (VP (VBD disclosed) 
+          (NP (-NONE- *-1) ))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (DT an) (NN executive) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP LJN) (NNPS Toys) (NNP Ltd.) )
+            (, ,) 
+            (NP (DT the) (NNP MCA) (NN unit) )
+            (, ,) )))
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) 
+              (ADJP (RB closely) (VBN held) )
+              (NNP Buddy) (NNP L) )
+            (VP (VBD had) 
+              (NP 
+                (NP (JJ annual) (NNS sales) )
+                (PP (IN in) 
+                  (NP 
+                    (NP (NN excess) )
+                    (PP (IN of) 
+                      (NP 
+                        (QP ($ $) (CD 20) (CD million) )
+                        (-NONE- *U*) ))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (JJ 40-year-old) (NNP Buddy) (NNP L) (NN concern) )
+        (, ,) 
+        (VP (VBN based) 
+          (NP (-NONE- *) )
+          (PP-CLR-LOC (IN in) 
+            (NP (NNP New) (NNP York) )))
+        (, ,) )
+      (VP (VBZ designs) 
+        (CC and)
+        (VBZ develops) 
+        (NP (NNS toys) )
+        (PP-MNR (IN under) 
+          (NP 
+            (NP (DT the) (NNS names) )
+            (NP (`` ``) 
+              (NP (NNP Buddy) (NNP L) )
+              ('' '') 
+              (CC and)
+              (`` ``) 
+              (NP (NNP My) (NNP First) (NNP Buddy) ))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP MCA) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ-2 (DT the) (VBN proposed) (NN transaction) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (VP (VBN completed) 
+                    (NP (-NONE- *-2) )
+                    (`` ``) 
+                    (ADVP-TMP (RB no) (RB later) 
+                      (PP (IN than) 
+                        (NP (NNP Nov.) (CD 10) )))))))))))
+    (. .) ))

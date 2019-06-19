@@ -1,0 +1,801 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT The) (NNS estimates) )
+        (PP (IN of) 
+          (NP (JJ real) (JJ gross) (JJ national) (NN product) )))
+      (VP (VBN prepared) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP 
+              (NP (DT the) (NNP Bureau) )
+              (PP (IN of) 
+                (NP (NNP Economic) (NNP Analysis) )))
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT the) (NNP Department) )
+                (PP (IN of) 
+                  (NP (NNP Commerce) ))))))))
+    (VP 
+      (ADVP-MNR (RB significantly) )
+      (VBP understate) 
+      (NP 
+        (NP (DT the) (NN rate) )
+        (PP (IN of) 
+          (NP (JJ economic) (NN growth) ))))
+    (. .) ))
+( (S 
+    (SBAR-PRP (IN Since) 
+      (S 
+        (NP-SBJ 
+          (NP 
+            (NP (DT the) (NN bureau) (POS 's) )
+            (NNS estimates) )
+          (PP (IN for) 
+            (NP (DT the) (NN business) (NN sector) )))
+        (VP (VBP provide) 
+          (NP 
+            (NP (DT the) (NN numerator) )
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (NN productivity) (NNS ratios) )
+                (VP (VBN calculated) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS 
+                      (NP (DT the) (NNP Department) )
+                      (PP (IN of) 
+                        (NP (NNP Labor) )))))))))))
+    (, ,) 
+    (NP-SBJ (VBN underestimated) (NN growth) (NNS rates) )
+    (VP 
+      (ADVP-MNR (RB artificially) )
+      (VBP depress) 
+      (NP (JJ official) (NN productivity) (NNS statistics) ))
+    (. .) ))
+( (S 
+    (S 
+      (SBAR-ADV (IN If) 
+        (S 
+          (NP-SBJ (DT this) (NN thesis) )
+          (VP (VBZ is) 
+            (ADJP-PRD (JJ correct) ))))
+      (, ,) 
+      (NP-SBJ (PRP it) )
+      (VP (VBZ has) 
+        (NP 
+          (NP (JJ important) (NNS implications) )
+          (PP (IN for) 
+            (NP (JJ macroeconomic) (NNS policies) )))))
+    (: :) 
+    (S 
+      (NP-SBJ (PRP It) )
+      (VP (MD may) 
+        (VP (VB lower) 
+          (NP 
+            (NP (DT the) (NN sense) )
+            (PP (IN of) 
+              (NP (NN urgency) ))
+            (PP-LOC (IN behind) 
+              (NP 
+                (NP 
+                  (NP (NNS efforts) )
+                  (SBAR 
+                    (WHNP-1 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (TO to) 
+                        (VP (VB enact) 
+                          (NP (NN tax) (NNS incentives) ))))))
+                (CC and) 
+                (NP 
+                  (NP (JJ other) (NNS measures) )
+                  (SBAR 
+                    (WHNP-2 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-2) )
+                      (VP (TO to) 
+                        (VP (VB increase) 
+                          (NP 
+                            (NP 
+                              (NP (DT the) (NN rate) )
+                              (PP (IN of) 
+                                (NP 
+                                  (NP (NN growth) )
+                                  (PP (IN in) 
+                                    (NP (NN productivity) )))))
+                            (CC and) 
+                            (NP (JJ real) (NNP GNP) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (MD would) 
+      (ADVP (RB also) )
+      (VP (VB affect) 
+        (NP 
+          (NP (DT the) (NNS perceptions) )
+          (PP (IN of) 
+            (NP 
+              (NP 
+                (NP (DT the) (NN board) )
+                (PP (IN of) 
+                  (NP (NNS governors) ))
+                (PP (IN of) 
+                  (NP (DT the) (NNP Federal) (NNP Reserve) (NNP System) )))
+              (, ,) 
+              (CC and)
+              (NP (DT the) (VBN informed) (NN public) (RB generally) )
+              (, ,) ))
+          (PP (IN as) 
+            (PP (TO to) 
+              (SBAR-NOM 
+                (WHNP-1 (WP what) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBZ constitutes) 
+                    (NP 
+                      (NP (DT a) (JJ reasonable) (NN degree) )
+                      (PP (IN of) 
+                        (NP (NN price) (NN stability) )))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (JJ early) (CD 1980s) ))
+    (, ,) 
+    (NP-SBJ (PRP I) )
+    (VP (VBD predicted) 
+      (NP 
+        (NP (DT a) (JJ significant) (NN acceleration) )
+        (PP (IN in) 
+          (NP (NN productivity) (NN growth) ))
+        (PP-TMP (IN over) 
+          (NP 
+            (NP (DT the) (NN rest) )
+            (PP (IN of) 
+              (NP (DT the) (NN decade) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT This) (NN forecast) )
+    (VP (VBD was) 
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN on) 
+          (NP 
+            (NP (DT the) (JJ apparent) (NN reversal) )
+            (PP (IN of) 
+              (NP 
+                (NP (JJS most) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (NP (DT the) (JJ negative) (NNS forces) )
+                      (: --) 
+                      (PP (JJ such) (IN as) 
+                        (NP 
+                          (NP (JJ demographic) (NNS changes) )
+                          (, ,) 
+                          (NP (DT the) (NN oil) (NN shock) )
+                          (CC and) 
+                          (NP (VBG accelerating) (NN inflation) )))
+                      (: --) 
+                      (SBAR 
+                        (WHNP-2 (WDT that) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-2) )
+                          (VP (VBD had) 
+                            (VP (VBN reduced) 
+                              (NP (NN productivity) (NNS gains) )
+                              (PP-TMP (IN in) 
+                                (NP (DT the) (CD 1970s) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (EX There) )
+    (VP (VBZ has) 
+      (ADVP (RB indeed) )
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (JJR more) )
+          (PP (IN than) 
+            (NP 
+              (NP (DT a) 
+                (ADJP (CD one) (NN percentage) (NN point) )
+                (NN improvement) )
+              (PP-LOC (IN in) 
+                (NP (NN productivity) (NN growth) )))))
+        (PP-TMP (IN since) 
+          (NP (CD 1981) ))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (PRP I) )
+    (VP 
+      (VP (VBD had) 
+        (VP (VBN expected) 
+          (NP (RBR more) )))
+      (, ,) 
+      (SBAR-ADV 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ is) 
+            (NP-PRD 
+              (NP (CD one) (NN reason) )
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ-2 (PRP I) )
+                  (VP (VBD began) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (VBG looking) 
+                        (PP-CLR (IN at) 
+                          (NP 
+                            (NP (NN evidence) )
+                            (VP (VBG suggesting) 
+                              (NP 
+                                (NP (NNS defects) )
+                                (PP-LOC (IN in) 
+                                  (NP (DT the) (JJ official) (NN output) (NNS estimates) ))))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NN evidence) )
+      (VP (VBZ does) (RB not) 
+        (VP 
+          (ADVP-MNR (RB clearly) )
+          (VB support) 
+          (NP (DT the) (NN view) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ 
+                  (NP (DT the) (JJ downward) (NN bias) )
+                  (PP-LOC (IN in) 
+                    (NP (NN output) (NN growth) )))
+                (VP (VBZ has) 
+                  (VP (VBN become) 
+                    (ADJP-PRD (JJR greater) )
+                    (PP-TMP (IN during) 
+                      (NP (DT the) (CD 1948-89) (NN period) ))))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (DT all) )
+        (SBAR 
+          (WHNP-91 (-NONE- 0) )
+          (S 
+            (NP-SBJ (PRP I) )
+            (VP (VBP am) 
+              (VP (VBG claiming) 
+                (NP (-NONE- *T*-91) ))))))
+      (VP (VBZ is) 
+        (SBAR-PRD (IN that) 
+          (S 
+            (NP-SBJ-90 (DT the) (NN growth) (NN trend) )
+            (VP (VBZ is) 
+              (VP (VBN understated) 
+                (NP (-NONE- *-90) )))))))
+    (. .) ))
+( (S 
+    (-LRB- -LRB-)
+    (NP-SBJ 
+      (NP (PRP It) )
+      (SBAR (-NONE- *EXP*-1) ))
+    (VP (VBZ is) 
+      (, ,)
+      (ADVP (RB however) )
+      (, ,) 
+      (ADJP-PRD (JJ possible) )
+      (, ,) 
+      (SBAR-1 (IN that) 
+        (S 
+          (NP-SBJ (JJ further) (NN study) )
+          (VP (MD will) 
+            (VP (VB reveal) 
+              (NP (VBG increasing) (NN bias) ))))))
+    (. .) 
+    (-RRB- -RRB-)
+    ))
+( (S 
+    (NP-SBJ (DT This) (NN bias) )
+    (VP (VBZ is) 
+      (PP (IN in) 
+        (NP (DT no) (NN way) ))
+      (ADJP-PRD (JJ deliberate) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN understatement) )
+      (PP (IN of) 
+        (NP (NN growth) )))
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ due) 
+        (ADVP (RB largely) )
+        (PP (TO to) 
+          (NP 
+            (NP (DT the) (JJ conservative) (NNS expedients) )
+            (VP (VBN adopted) 
+              (NP (-NONE- *) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB deal) 
+                    (PP-CLR (IN with) 
+                      (NP 
+                        (NP (NNS deficiencies) )
+                        (PP-LOC (IN in) 
+                          (NP (JJ basic) (JJ economic) (NNS data) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ first) )
+      (PP (IN of) 
+        (NP 
+          (NP (CD three) (JJ major) (NNS sources) )
+          (PP (IN of) 
+            (NP (NN error) )))))
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN use) )
+        (PP (IN of) 
+          (NP 
+            (NP (NN labor) (NN input) (NNS estimates) )
+            (PRN 
+              (-LRB- -LRB-)
+              (NP (RB mainly) (NN employment) (CC or) (NNS hours) )
+              (-RRB- -RRB-) )))
+        (PP (RB instead) (IN of) 
+          (NP 
+            (NP (NN output) (NNS estimates) )
+            (PP (IN for) 
+              (NP 
+                (NP 
+                  (NP (DT those) (NNS sectors) )
+                  (, ,) 
+                  (PP (JJ such) (IN as) 
+                    (NP 
+                      (NP (NNS governments) )
+                      (, ,) 
+                      (NP (VBN paid) (NN household) (NNS services) )
+                      (CC and) 
+                      (NP (JJ private) (JJ non-profit) (NNS institutions) )))
+                  (, ,) )
+                (SBAR 
+                  (WHADVP-1 (WRB where) )
+                  (S 
+                    (NP-SBJ (EX there) )
+                    (VP (VBP are) 
+                      (NP-PRD 
+                        (NP (NNS difficulties) )
+                        (PP (IN in) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (VBG assembling) 
+                              (NP (NN output) (NNS data) )))))
+                      (ADVP-LOC (-NONE- *T*-1) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT This) )
+    (VP (VBZ means) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (DT no) (NN allowance) )
+          (VP (VBZ is) 
+            (VP (VBN made) 
+              (NP (-NONE- *-1) )
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP (JJ possible) (NNS increases) )
+                  (PP (IN in) 
+                    (NP (NN output) ))
+                  (PP (IN per) 
+                    (NP 
+                      (NP (NN unit) )
+                      (PP (IN of) 
+                        (NP (NN labor) )))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (DT an) (JJ unrelated) (NN program) )
+        (SBAR 
+          (WHPP-1 (IN in) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ (DT the) (NNP Labor) (NNP Department) )
+            (VP (VBZ does) 
+              (VP (VB estimate) 
+                (NP 
+                  (NP (NN output) )
+                  (PP (IN per) 
+                    (NP (NN employee) )))
+                (PP (IN for) 
+                  (NP 
+                    (NP 
+                      (QP (JJR more) (IN than) (NNS two-thirds) ))
+                    (PP (IN of) 
+                      (NP (JJ federal) (JJ civilian) (NNS employees) ))))
+                (PP-LOC (-NONE- *T*-1) )))))))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD found) 
+      (NP 
+        (NP (DT an) (JJ average) (JJ annual) (NN rate) )
+        (PP (IN of) 
+          (NP 
+            (NP (NN productivity) (NN improvement) )
+            (PP (IN of) 
+              (NP (CD 1.7) (NN %) ))))
+        (PP-TMP (IN during) 
+          (NP (DT the) (CD 1980s) ))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (RB Even) (IN if) 
+      (S 
+        (NP-SBJ-1 (PRP it) )
+        (VP (VBZ is) 
+          (VP (VBN assumed) 
+            (NP (-NONE- *-1) )
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ (NN productivity) )
+                (VP (VBD rose) 
+                  (ADVP-MNR 
+                    (ADVP (RB no) (RBR more) )
+                    (PP (IN than) 
+                      (ADVP (DT half) (RB as) (RB quickly) )))
+                  (PP-TMP (IN in) 
+                    (NP 
+                      (NP (DT the) (NN rest) )
+                      (PP (IN of) 
+                        (NP (DT the) (NN nonbusiness) (NN sector) )))))))))))
+    (, ,) 
+    (NP-SBJ (DT this) (NNP Labor) (NNP Department) (NN estimate) )
+    (VP (VBZ indicates) 
+      (NP 
+        (NP (DT a) (JJ downward) (NN bias) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT the) (JJ real) (NNP GNP) (NNS estimates) )
+            (PP (IN of) 
+              (NP 
+                (NP (CD 0.2) (NN percentage) (NN point) )
+                (NP-ADV (DT a) (NN year) )
+                (, ,) 
+                (PP (IN on) 
+                  (NP (NN average) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ federal) (NN productivity) (NNS estimators) )
+    (VP (VBP use) 
+      (NP (NN labor) (NN input) 
+        (PRN 
+          (, ,)
+          (PP (RB rather) (IN than) 
+            (NP (NN output) ))
+          (, ,) )
+        (NNS data) )
+      (PP-CLR (IN for) 
+        (NP 
+          (NP (PRP$ their) (NNS calculations) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT half) )
+              (PP (IN of) 
+                (NP (JJ private) 
+                  (UCP (JJ financial) 
+                    (CC and)
+                    (NN service) )
+                  (NNS industries) ))))))
+      (ADVP (RB as) (RB well) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (JJ Independent) (NNS estimates) )
+        (PP (IN of) 
+          (NP 
+            (NP (NN output) )
+            (PP-LOC (IN in) 
+              (NP (DT those) (NNS industries) )))))
+      (, ,) 
+      (PP (VBG including) 
+        (NP 
+          (NP (CD one) )
+          (PP (IN by) 
+            (NP 
+              (NP (DT the) (NNP Department) )
+              (PP (IN of) 
+                (NP (NNP Labor) ))))
+          (PP (IN for) 
+            (NP (NN banking) ))))
+      (, ,) )
+    (VP (VBZ suggests) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ-1 
+            (NP (NN productivity) )
+            (PP-LOC (IN in) 
+              (NP (NN finance) 
+                (CC and)
+                (NNS services) )))
+          (VP (VBZ appears) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB have) 
+                  (VP (VBN risen) 
+                    (PP-EXT (IN by) 
+                      (NP 
+                        (NP (DT an) (NN average) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP 
+                              (ADVP (IN at) (JJS least) )
+                              (CD 1.5) (NN %) )
+                            (NP-ADV (DT a) (NN year) )))))
+                    (PP-TMP (IN between) 
+                      (NP (CD 1948) 
+                        (CC and)
+                        (CD 1988) ))))))))))
+    (. .) ))
+( (S 
+    (SBAR-PRP (IN Because) 
+      (S 
+        (NP-SBJ (NN finance) 
+          (CC and)
+          (NNS services) )
+        (VP (VBP contribute) 
+          (NP (CD 10) (NN %) )
+          (PP-CLR (TO to) 
+            (NP (JJ final) (NN business) (NN product) )))))
+    (, ,) 
+    (S-NOM-SBJ 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBG missing) 
+        (NP (DT these) (NN productivity) (NNS improvements) )))
+    (VP (VBZ depresses) 
+      (NP (DT the) (JJ overall) (NN growth) (NN rate) )
+      (PP-EXT (IN by) 
+        (NP 
+          (NP (CD 0.15) (NN %) )
+          (NP-ADV (DT a) (NN year) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ second) (NN source) )
+      (PP (IN of) 
+        (NP 
+          (NP (NN error) )
+          (PP-LOC (IN in) 
+            (NP (NN growth) (NNS statistics) )))))
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN use) )
+        (PP (IN of) 
+          (NP (JJ inappropriate) (NNS deflators) ))
+        (SBAR-PRP 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB adjust) 
+                (PP (IN for) 
+                  (NP (NN price) (NNS changes) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP estimate) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (DT these) (NNS mismeasurements) )
+            (SBAR (IN as) 
+              (S 
+                (NP-SBJ-1 (-NONE- *) )
+                (VP (VBN detailed) 
+                  (NP (-NONE- *-1) )
+                  (PP (IN by) 
+                    (NP-LGS 
+                      (NP (NNP Martin) (NNP N.) (NNP Baily) )
+                      (CC and) 
+                      (NP (NNP Robert) (NNP J.) (NNP Gordon) )))))))
+          (VP (VB add) 
+            (NP (DT a) 
+              (QP (JJ further) (CD 0.12) )
+              (NN percentage) (NN point) )
+            (PP (TO to) 
+              (NP 
+                (NP (DT the) (JJ downward) (NN bias) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (DT the) (NN growth) (NN rate) )
+                    (PP (IN of) 
+                      (NP (JJ real) (NN business) (NN product) ))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Finally) )
+    (, ,) 
+    (NP-SBJ (DT the) (JJ official) (NNS estimates) )
+    (VP (VBP understate) 
+      (NP (NN growth) )
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP make) 
+            (NP (JJ inadequate) (NN allowance) )
+            (PP-CLR (IN for) 
+              (NP 
+                (NP (NNS improvements) )
+                (PP (IN in) 
+                  (NP 
+                    (NP (NN quality) )
+                    (PP (IN of) 
+                      (NP (NNS goods) 
+                        (CC and)
+                        (NNS services) ))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (PP-TMP (IN In) 
+        (NP (CD 1985) ))
+      (, ,) 
+      (NP-SBJ-1 
+        (NP (DT a) (JJ new) (NN price) (NN index) )
+        (PP (IN for) 
+          (NP (NNS computers) ))
+        (VP (VBN adjusted) 
+          (NP (-NONE- *) )
+          (PP-CLR (IN for) 
+            (NP 
+              (NP (NNS changes) )
+              (PP-LOC (IN in) 
+                (NP (NN performance) (NNS characteristics) ))))))
+      (VP (VBD was) 
+        (VP (VBN introduced) 
+          (NP (-NONE- *-1) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (WDT that) )
+      (VP (VBD resulted) 
+        (PP-CLR (IN in) 
+          (NP 
+            (NP (DT a) 
+              (ADJP (RB significantly) (JJR larger) )
+              (NN increase) )
+            (PP (IN in) 
+              (NP 
+                (NP (JJ real) (NNS outlays) )
+                (PP (IN for) 
+                  (NP (JJ durable) (NNS goods) ))))
+            (SBAR (IN than) 
+              (S 
+                (NP-SBJ (DT the) (JJR earlier) (NNS estimates) )
+                (VP (VBD had) 
+                  (VP (VBN showed) 
+                    (NP (-NONE- *?*) )))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN Since) 
+      (NP (RB then) ))
+    (, ,) 
+    (NP-SBJ (JJ further) (NN research) )
+    (VP (VBZ argues) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (NN failure) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB take) 
+                  (NP-CLR (NN account) )
+                  (PP-CLR (IN of) 
+                    (NP (NN quality) (NNS improvements) ))))))
+          (VP (VBZ has) 
+            (VP (VBN contributed) 
+              (NP 
+                (NP (DT a) (NN total) )
+                (PP (IN of) 
+                  (NP 
+                    (QP 
+                      (ADVP (IN at) (JJS least) )
+                      (CD 0.26) )
+                    (NN percentage) (NN point) )))
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP (DT the) (JJ downward) (NN bias) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NN growth) (NN rate) )))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN sum) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNS biases) )
+      (VP (VBD ennumerated) 
+        (NP (-NONE- *) )
+        (ADVP-LOC (IN above) )))
+    (VP (VBP indicate) 
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 0.7) (NN percentage) (NN point) )
+          (NN understatement) )
+        (PP (IN in) 
+          (NP 
+            (NP (NN growth) )
+            (PP (IN of) 
+              (NP (JJ total) (JJ real) (NNP GNP) ))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (DT the) (JJ private) (JJ domestic) (NN business) (NN economy) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN bias) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (QP (DT a) (NN bit) (IN over) (CD 0.5) )
+        (NN percentage) (NN point) ))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (JJ other) (NNS words) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (DT the) (NN growth) (NNS rates) )
+      (PP (IN of) 
+        (NP (DT both) 
+          (NP (NN total) (NNP GNP) )
+          (CC and) 
+          (NP 
+            (NP (JJ real) (JJ private) (NN business) (NN product) )
+            (PP (IN per) 
+              (NP (NN labor) (NN hour) ))))))
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (VP (VBN underestimated) 
+          (NP (-NONE- *-1) )
+          (PP-EXT (IN by) 
+            (NP 
+              (QP (IN about) (CD 20) )
+              (NN %) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Kendrick) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (NN professor) (NN emeritus) )
+        (PP (IN of) 
+          (NP (NNS economics) ))
+        (PP-LOC (IN at) 
+          (NP (NNP George) (NNP Washington) (NNP University) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (NN co-author) )
+        (PP (IN of) 
+          (NP (`` ``) 
+            (NP-TTL 
+              (NP (NNP Personal) (NNP Productivity) )
+              (: :) 
+              (SBAR 
+                (WHADVP-1 (WRB How) )
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB Increase) 
+                      (NP 
+                        (NP (PRP$ Your) (NN Satisfaction) )
+                        (PP (IN in) 
+                          (NP (VBG Living) )))
+                      (ADVP-MNR (-NONE- *T*-1) ))))))
+            ('' '') 
+            (PRN 
+              (-LRB- -LRB-)
+              (NP (NNP M.E.) (NNP Sharp) )
+              (, ,) 
+              (NP (CD 1988) )
+              (-RRB- -RRB-) )))))
+    (. .) ))

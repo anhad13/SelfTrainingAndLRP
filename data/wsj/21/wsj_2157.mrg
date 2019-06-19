@@ -1,0 +1,162 @@
+
+( (S 
+    (NP-SBJ (NNP President) (NNP Bush) )
+    (VP (VBD chose) 
+      (NP-1 
+        (NP (NNP Martin) (NNP Allday) )
+        (, ,) 
+        (NP 
+          (NP (DT a) (JJ longtime) (NN friend) )
+          (PP (IN from) 
+            (NP (NNP Texas) )))
+        (, ,) )
+      (S-CLR 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB be) 
+            (NP-PRD 
+              (NP (NN chairman) )
+              (PP (IN of) 
+                (NP (DT the) (NNP Federal) (NNP Energy) (NNP Regulatory) (NNP Commission) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Allday) )
+    (VP (MD would) 
+      (VP (VB succeed) 
+        (NP 
+          (NP (NNP Martha) (NNP Hesse) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBZ is) 
+                (VP (VBG resigning) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP White) (NNP House) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 
+            (NP (NNP Ms.) (NNP Hesse) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NNP Chicago) (NN businesswoman) )
+              (SBAR 
+                (WHNP-1 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (ADVP-TMP (RB previously) )
+                  (VP (VBD held) 
+                    (NP 
+                      (NP (NNS posts) )
+                      (PP-LOC (IN at) 
+                        (NP 
+                          (NP (DT the) (NNP Energy) (NNP Department) )
+                          (CC and) 
+                          (NP (NNP FERC) ))))))))
+            (, ,) )
+          (VP (VBZ is) 
+            (VP (VBG leaving) 
+              (S-PRP 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB become) 
+                    (NP-PRD 
+                      (NP (DT a) (NN vice) (NN president) )
+                      (PP (IN of) 
+                        (NP (NNP First) (NNP Chicago) (NNP Corp) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Allday) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN attorney) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP Midland) )
+            (, ,) 
+            (NP (NNP Texas) )
+            (, ,) ))))
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (NP-PRD (NN solicitor) )
+        (PP-LOC (IN at) 
+          (NP (DT the) (NNP Interior) (NNP Department) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD met) 
+      (NP (NNP Mr.) (NNP Bush) )
+      (PP-TMP (IN in) 
+        (NP 
+          (NP (DT the) (NNS 1950s) )
+          (, ,) 
+          (SBAR 
+            (WHADVP-1 (WRB when) )
+            (S 
+              (S 
+                (NP-SBJ (DT the) (NN president) )
+                (VP (VBD was) 
+                  (NP-PRD (DT a) (JJ young) (NN oil) (NN man) )
+                  (PP-LOC (IN in) 
+                    (NP (NNP Midland) ))
+                  (ADVP-TMP (-NONE- *T*-1) )))
+              (CC and) 
+              (S 
+                (NP-SBJ (NNP Mr.) (NNP Allday) )
+                (VP (VBD was) 
+                  (NP-PRD 
+                    (NP (DT a) (NN lawyer) )
+                    (PP (IN for) 
+                      (NP (DT an) (NN oil) (NN firm) )))
+                  (ADVP-TMP (-NONE- *T*-1) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP FERC) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (JJ five-member) (NN commission) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ regulates) 
+              (NP 
+                (NP (NNS billions) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNS dollars) )
+                    (PP (IN of) 
+                      (NP (JJ interstate) (JJ wholesale) (NN energy) (NNS transactions) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Allday) (POS 's) )
+      (NN appointment) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ subject) 
+        (PP (TO to) 
+          (NP 
+            (NP (NN confirmation) )
+            (PP (IN by) 
+              (NP (DT the) (NNP Senate) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Administration) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (DT a) (NN date) )
+            (PP (IN for) 
+              (NP 
+                (NP (NNP Ms.) (NNP Hesse) (POS 's) )
+                (NN departure) )))
+          (VP (VBZ has) (RB n't) 
+            (VP (VBN been) 
+              (VP (VBN set) 
+                (NP (-NONE- *-1) )))))))
+    (. .) ))

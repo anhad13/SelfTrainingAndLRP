@@ -1,0 +1,64 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Albert) (NNP Fried) (NNP Jr.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ 59-year-old) (NN director) 
+          (CC and)
+          (NN holder) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT a) 
+              (ADJP (CD 9.5) (NN %) )
+              (NN stake) )
+            (PP-LOC (IN in) 
+              (NP (DT the) (NN company) )))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN chairman) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT this) (NN maker) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNS products) )
+                    (PP (IN for) 
+                      (NP (DT the) (NN construction) (NN equipment) 
+                        (, ,)
+                        (NN material) (NN handling) 
+                        (CC and)
+                        (NN railroad) (NNS industries) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP L.L.) (NNP White) (NNP Jr.) )
+        (, ,) 
+        (NP (CD 62) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP 
+              (VP (VBD resigned) )
+              (CC but) 
+              (VP (VBZ continues) 
+                (PP-CLR (IN as) 
+                  (NP (DT a) (NN director) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Fried) )
+    (ADVP (RB also) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (VBG managing) (NN partner) )
+        (PP (IN of) 
+          (NP (NNP Albert) (NNP Fried) (CC &) (NNP Co) ))))
+    (. .) ))

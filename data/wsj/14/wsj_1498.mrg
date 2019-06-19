@@ -1,0 +1,25 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Roland) (NNP J.) (NNP Hawkins) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (PP (IN of) 
+          (NP (NNP Jet) (NNPS Vacations) (NNP Inc.) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (NN board) )
+            (PP (IN of) 
+              (NP (DT this) (NN cruise) (NN line) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN board) )
+    (VP (VBZ expands) 
+      (PP-CLR (TO to) 
+        (NP (CD seven) (NNS members) )))
+    (. .) ))

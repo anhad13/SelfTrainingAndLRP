@@ -1,0 +1,331 @@
+
+( (S 
+    (NP-SBJ (NNP Intel) (NNP Corp.) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) (CD 50) (NN %) (NN drop) )
+        (PP-LOC (IN in) 
+          (NP (NN third-quarter) (NN net) (NN income) )))
+      (, ,) 
+      (PP-PRP 
+        (ADVP (RB partly) )
+        (IN because) (IN of) 
+        (NP 
+          (NP (DT a) (JJ one-time) (NN charge) )
+          (PP (IN for) 
+            (NP (VBN discontinued) (NNS operations) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (NX 
+        (NX (JJ big) (NN semiconductor) )
+        (CC and) 
+        (NX (NN computer) (NN maker) )))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD had) 
+            (NP 
+              (NP (NN net) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 72) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP (CD 38) (NNS cents) )
+                  (, ,) )))
+            (ADVP (IN down) 
+              (NP (CD 50) (NN %) )
+              (PP (IN from) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 142.7) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP (CD 78) (NNS cents) )
+                    (NP-ADV (DT a) (NN share) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJR lower) (NN net) )
+    (VP (VBD included) 
+      (NP 
+        (NP (DT a) (NN charge) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 35) (CD million) )
+              (-NONE- *U*) )
+            (, ,) 
+            (PP (JJ equal) 
+              (PP (TO to) 
+                (NP 
+                  (NP (CD 12) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) )
+                  (PP-LOC (IN on) 
+                    (NP (DT an) (JJ after-tax) (NN basis) )))))
+            (, ,) ))
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (NN cost) )
+            (PP (IN of) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG abandoning) 
+                  (NP 
+                    (NP (DT a) (NNS computer-systems) (NN joint) (NN venture) )
+                    (PP (IN with) 
+                      (NP 
+                        (NP (NNP Siemens) (NNP AG) )
+                        (PP (IN of) 
+                          (NP (NNP West) (NNP Germany) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Earning) )
+    (ADVP (RB also) )
+    (VP (VBD fell) 
+      (PP-DIR (IN from) 
+        (NP (DT the) (JJ year-ago) (NN period) ))
+      (PP-PRP (IN because) (IN of) 
+        (NP (VBG slowing) (NN microchip) (NN demand) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBD amounted) 
+      (PP-CLR (TO to) 
+        (NP 
+          (QP ($ $) (CD 771.4) (CD million) )
+          (-NONE- *U*) )
+        (, ,) )
+      (ADVP (IN down) 
+        (NP (CD 1.7) (NN %) )
+        (PP (IN from) 
+          (NP 
+            (QP ($ $) (CD 784.9) (CD million) )
+            (-NONE- *U*) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Intel) (POS 's) )
+      (NN stock) )
+    (VP (VBD rose) 
+      (PP-LOC (IN in) 
+        (NP (JJ early) (NN over-the-counter) (NN trading) ))
+      (NP-TMP (NNP Friday) )
+      (, ,) 
+      (SBAR-TMP (IN as) 
+        (S 
+          (NP-SBJ (NNS investors) )
+          (VP (VBD appeared) 
+            (ADJP-PRD (VBN relieved) 
+              (SBAR 
+                (SBAR (IN that) 
+                  (S 
+                    (NP-SBJ 
+                      (NP 
+                        (NP (DT the) (NN company) (POS 's) )
+                        (NN income) )
+                      (PP (IN from) 
+                        (NP (VBG continuing) (NNS operations) )))
+                    (VP (VBD was) 
+                      (PP-PRD 
+                        (ADVP (RB only) (RB slightly) )
+                        (IN below) 
+                        (NP 
+                          (NP 
+                            (NP (DT the) (JJ second) (NN quarter) (POS 's) )
+                            (NNS earnings) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP 
+                                (QP ($ $) (CD 99.3) (CD million) )
+                                (-NONE- *U*) )
+                              (, ,) (CC or) 
+                              (NP 
+                                (NP (CD 53) (NNS cents) )
+                                (NP-ADV (DT a) (NN share) )))))))))
+                (, ,) 
+                (CC and)
+                (SBAR (IN that) 
+                  (S 
+                    (NP-SBJ (NNS sales) )
+                    (ADVP (RB actually) )
+                    (VP (VBD exceeded) 
+                      (NP 
+                        (NP (DT the) 
+                          (QP ($ $) (CD 747.3) (CD million) )
+                          (-NONE- *U*) )
+                        (PP (IN for) 
+                          (NP (DT the) (JJ second) (NN period) ))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (NNP Intel) )
+    (ADVP-TMP (RB later) )
+    (VP (VBD succumbed) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT the) (NN stock) (NN market) (POS 's) )
+          (NN plunge) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG closing) 
+          (PP-CLR (IN at) 
+            (NP ($ $) (CD 31.75) (-NONE- *U*) ))
+          (, ,) 
+          (ADVP (IN down) 
+            (NP ($ $) (CD 2.125) (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP August) ))
+    (, ,) 
+    (NP-SBJ (NNP Intel) )
+    (VP (VBD warned) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NN third-quarter) (NNS earnings) )
+          (VP (MD might) 
+            (VP (VB be) (`` ``) 
+              (ADJP-PRD (JJ flat) 
+                (PP (TO to) 
+                  (ADJP (JJ down) ))
+                ('' '') 
+                (PP (IN from) 
+                  (NP (DT the) (JJ previous) (NN period) (POS 's) )))
+              (PP-PRP (IN because) (IN of) 
+                (NP 
+                  (NP 
+                    (NP (VBG slowing) (NNS sales) (NN growth) )
+                    (PP (IN of) 
+                      (NP (PRP$ its) (CD 80386) (NN microprocessor) )))
+                  (, ,) 
+                  (NP 
+                    (NP (JJ start-up) (NNS costs) )
+                    (VP (VBN associated) 
+                      (NP (-NONE- *) )
+                      (PP-CLR (IN with) 
+                        (NP 
+                          (NP (DT a) (NN line) )
+                          (PP (IN of) 
+                            (NP (NNS computers) ))))))
+                  (CC and) 
+                  (NP 
+                    (NP (NNS costs) )
+                    (PP (IN of) 
+                      (NP 
+                        (S 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (VBG preparing) 
+                            (PP-CLR (IN for) 
+                              (NP 
+                                (NP (NN mass) (NNS shipments) )
+                                (PP (IN of) 
+                                  (NP 
+                                    (NP (DT the) (NN company) (POS 's) )
+                                    (JJ new) (CD 80486) (NN chip) ))
+                                (PP-LOC (IN in) 
+                                  (NP (DT the) (JJ current) (NN quarter) ))))))))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN On) 
+      (NP (NNP Friday) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Andrew) (NNP S.Grove) )
+      (, ,) 
+      (NP (NNP Intel) (NN president) 
+        (CC and)
+        (NN chief) (NN executive) (NN officer) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (`` ``) 
+          (NP-SBJ 
+            (NP (NNP Intel) (POS 's) )
+            (NN business) )
+          (VP (VBZ is) 
+            (ADJP-PRD (JJ strong) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP$ Our) (NNS bookings) )
+      (VP (VBD improved) 
+        (SBAR-TMP (IN as) 
+          (S 
+            (NP-SBJ (DT the) (NN quarter) )
+            (VP (VBD progressed) )))))
+    (CC and) 
+    (S 
+      (NP-SBJ (NNP September) )
+      (VP (VBD was) 
+        (ADJP-PRD (RB especially) (JJ good) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (DT the) (JJ full) (NN quarter) ))
+    (, ,) 
+    (S 
+      (NP-SBJ (PRP$ our) (NNS bookings) )
+      (VP (VBD were) 
+        (ADJP-PRD 
+          (ADJP (JJR higher) )
+          (PP (IN than) 
+            (NP (DT the) (JJ previous) (NN quarter) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (PRP$ our) (NN book-to-bill) (NN ratio) )
+      (VP (VBD exceeded) 
+        (NP (CD 1.0) )))
+    (. .) ('' '') ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (DT the) (JJ nine-month) (NN period) ))
+    (, ,) 
+    (NP-SBJ (NNP Intel) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (NN net) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 268.3) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP ($ $) (CD 1.43) (-NONE- *U*) )
+                (NP-ADV (DT a) (NN share) )))
+            (, ,) 
+            (ADVP (IN down) 
+              (NP (CD 27) (NN %) )
+              (PP (IN from) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 367.1) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP ($ $) (CD 2.05) (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN share) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD amounted) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 2.23) (CD billion) )
+            (-NONE- *U*) )
+          (, ,) 
+          (ADVP (IN up) 
+            (ADVP (RB slightly) )
+            (PP (IN from) 
+              (NP 
+                (QP ($ $) (CD 2.15) (CD billion) )
+                (-NONE- *U*) ))))))
+    (. .) ))

@@ -1,0 +1,138 @@
+
+( (S 
+    (NP-SBJ (NNP Banc) (CD One) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD agreed) 
+            (PP-MNR (IN in) 
+              (NP (NN principle) ))
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB buy) 
+                  (NP (CD five) (NN branch) (NNS offices) )
+                  (PP-CLR (IN from) 
+                    (NP 
+                      (NP (NNP Trustcorp) (NNP Inc.) )
+                      (, ,) 
+                      (NP-LOC 
+                        (NP (NNP Toledo) )
+                        (, ,) 
+                        (NP (NNP Ohio) ))
+                      (, ,) ))
+                  (PP-TMP (VBG following) 
+                    (NP 
+                      (NP (DT the) (VBN planned) (NN merger) )
+                      (PP (IN of) 
+                        (NP (NNP Trustcorp) ))
+                      (PP (IN into) 
+                        (NP 
+                          (NP (NNP Society) (NNP Corp.) )
+                          (, ,) 
+                          (NP-LOC (NNP Cleveland) ))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (CD five) (NNS offices) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP Erie) 
+              (CC and)
+              (NNP Ottawa) (NNS counties) )
+            (PP-LOC (IN in) 
+              (NP (JJ northern) (NNP Ohio) )))))
+      (VP (VBP have) 
+        (NP 
+          (NP (JJ total) (NNS assets) )
+          (PP (IN of) 
+            (NP 
+              (QP (RB about) ($ $) (CD 88) (CD million) )
+              (-NONE- *U*) )))))
+    (, ,) 
+    (NP-SBJ (NNP Banc) (CD One) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (NN purchase) (NN price) )
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN established) 
+            (NP (-NONE- *-1) )
+            (SBAR-TMP (IN after) 
+              (S 
+                (NP-SBJ (NNP Banc) (CD One) )
+                (VP (VBZ has) 
+                  (NP (DT an) (NN opportunity) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB study) 
+                          (NP 
+                            (NP (DT the) (NN quality) )
+                            (PP (IN of) 
+                              (NP (DT the) (NNS assets) ))))))))))))))
+    (, ,) 
+    (NP-SBJ (NNP Banc) (CD One) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Society) (NNP Corp.) )
+      (ADVP (RB already) )
+      (VP (VBZ has) 
+        (NP (NNS branches) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NN area) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (S-NOM-SBJ 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG selling) 
+          (NP (DT the) (NNP Trustcorp) (NNS offices) )))
+      (VP (MD could) 
+        (VP (VB avoid) 
+          (NP 
+            (NP (DT a) (NN problem) )
+            (PP (IN with) 
+              (NP (NNS regulators) ))
+            (PP (IN over) 
+              (NP 
+                (NP (JJ excessive) (NN concentration) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (VBG banking) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (CD two) (NNS counties) ))))
+                (PP-TMP (IN after) 
+                  (NP 
+                    (NP (DT the) (NN merger) )
+                    (PP (IN of) 
+                      (NP (NNP Trustcorp) ))
+                    (PP (IN into) 
+                      (NP (NNP Society) ))))))))))
+    (, ,) 
+    (PP (VBG according) 
+      (PP (TO to) 
+        (NP (NN industry) (NNS sources) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN merger) )
+    (VP (VBZ is) 
+      (VP (VBN scheduled) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB take) 
+              (NP-CLR (NN place) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (CD 1990) (JJ first) (NN quarter) )))))))
+    (. .) ))

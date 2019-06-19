@@ -1,0 +1,166 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Golden) (NNP West) (NNP Financial) (NNP Corp.) )
+      (, ,) 
+      (VP (VBG riding) 
+        (PP-LOC (IN above) 
+          (NP 
+            (NP (DT the) (NN turbulence) )
+            (SBAR 
+              (WHNP-1 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ has) 
+                  (VP (VBN troubled) 
+                    (NP 
+                      (NP (JJS most) )
+                      (PP (IN of) 
+                        (NP (DT the) (NN thrift) (NN industry) ))))))))))
+      (, ,) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 16) (NN %) )
+          (NN increase) )
+        (PP (IN of) 
+          (NP (JJ third-quarter) (NNS earnings) )))
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 41.8) (NN millon) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP (CD 66) (NNS cents) )
+            (NP-ADV (DT a) (NN share) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD earned) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 36) (CD million) )
+          (-NONE- *U*) )
+        (, ,) (CC or) 
+        (NP 
+          (NP (CD 57) (NNS cents) )
+          (NP-ADV (DT a) (NN share) ))
+        (, ,) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJ year-ago) (NN quarter) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Herbert) (NNP M.) (NNP Sandler) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (NN chairman) )
+          (CC and) 
+          (NP (JJ chief) (JJ executive) (NN officer) ))
+        (PP (IN of) 
+          (NP (DT the) 
+            (NAC-LOC (NNP Oakland) 
+              (, ,)
+              (NNP Calif.) 
+              (, ,)
+              )
+            (JJ savings-and-loan) (VBG holding) (NN company) )))
+      (, ,) )
+    (VP (VBD credited) 
+      (NP-1 
+        (NP (DT the) (JJ high) (NN number) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS loans) )
+            (VP (VBN added) 
+              (NP (-NONE- *) )
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (NN portfolio) ))
+              (PP-TMP (IN over) 
+                (NP (DT the) (JJ last) (CD 12) (NNS months) ))))))
+      (PP-CLR (IN for) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP 
+            (VP (VBG broadening) 
+              (NP (PRP$ its) (NN earning) (NN asset) (NN base) ))
+            (CC and) 
+            (VP (VBG improving) 
+              (NP (NN profit) (NN performance) ))))))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ (DT the) (NN executive) )
+    (VP (VBD noted) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (VBG slackening) (NN demand) )
+            (PP (IN for) 
+              (NP (JJ new) (NNS mortgages) )))
+          (VP (VBD depressed) 
+            (NP (JJ new) (NN loan) (NNS originations) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 1) (CD billion) )
+                  (-NONE- *U*) )
+                (, ,) 
+                (NP 
+                  (NP (CD 30) (NN %) )
+                  (PP (IN below) 
+                    (NP 
+                      (NP (DT the) (JJ same) (NN period) )
+                      (NP-TMP (JJ last) (NN year) ))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NN savings) (NN activity) ))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Sandler) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN consumer) (NNS deposits) )
+          (VP 
+            (VP (VBP have) 
+              (VP (VBN enjoyed) 
+                (NP (DT a) (JJ steady) (NN increase) )
+                (PP-TMP (IN throughout) 
+                  (NP (CD 1989) ))))
+            (, ,) 
+            (CC and)
+            (VP (VBD topped) 
+              (NP 
+                (QP ($ $) (CD 11) (CD billion) )
+                (-NONE- *U*) )
+              (PP-TMP (IN at) 
+                (NP 
+                  (NP (NN quarter) (POS 's) )
+                  (NN end) ))
+              (PP (IN for) 
+                (NP 
+                  (NP (DT the) (JJ first) (NN time) )
+                  (PP (IN in) 
+                    (NP 
+                      (NP (DT the) (NN company) (POS 's) )
+                      (NN history) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Deposit) (NN growth) )
+    (VP (VBD amounted) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 393) (CD million) )
+            (-NONE- *U*) )
+          (, ,) 
+          (NP 
+            (QP (RBR more) (IN than) (RB double) )
+            (DT the) (JJ year-ago) (NN figure) ))))
+    (. .) ))

@@ -1,0 +1,111 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP Japan) (POS 's) )
+        (NN steel) (NNS exports) )
+      (VP 
+        (VP (VBD fell) 
+          (NP-EXT (CD 12.2) (NN %) )
+          (PP-TMP (IN in) 
+            (NP (NNP September) ))
+          (PP (IN from) 
+            (NP-TMP (DT a) (NN year) (RBR earlier) )))
+        (CC and) 
+        (VP (VBD were) 
+          (ADVP-PRD (RB down) 
+            (NP (CD 1.1) (NN %) )
+            (PP (IN from) 
+              (NP-TMP (DT the) (JJ previous) (NN month) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Japan) (NNP Iron) 
+      (CC and)
+      (NNP Steel) (NNP Federation) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP September) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT the) (JJ 10th) (JJ consecutive) (NN month) )
+        (SBAR 
+          (WHPP-1 (IN in) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ-2 (NN steel) (NNS exports) )
+            (VP (VBD failed) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB reach) 
+                    (NP (DT the) (JJ year-earlier) (NN level) )
+                    (PP-TMP (-NONE- *T*-1) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NN federation) (NN official) )
+    (VP (VBD attributed) 
+      (NP (DT the) (NN decline) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (JJ brisk) (NN demand) )
+          (PP-DIR (IN from) 
+            (NP (JJ domestic) (NNS industries) ))
+          (VP (VBN backed) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP (VBG continuing) (JJ economic) (NN expansion) )
+                (PP-LOC (IN in) 
+                  (NP (NNP Japan) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (JJ Japanese) (NN steel) (NNS companies) )
+      (VP (VBP are) 
+        (ADVP (RB apparently) )
+        (VP (VBG focusing) 
+          (PP-LOC-CLR (IN on) 
+            (NP (JJ domestic) (NNS sales) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (DT the) (NN official) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ does) (RB n't) 
+              (ADVP (RB necessarily) )
+              (VP (VB mean) 
+                (SBAR (IN that) 
+                  (S 
+                    (NP-SBJ (JJ local) (NNS sales) (NNS contracts) )
+                    (VP (VBP are) 
+                      (VP (VBG increasing) 
+                        (ADVP (RB that) (RB markedly) )))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP They) )
+      (VP 
+        (VP (VBP are) 
+          (ADJP-PRD (RB just) (RB too) (JJ busy) 
+            (SBAR 
+              (WHNP-2 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (TO to) 
+                  (VP (VB meet) 
+                    (NP (JJ domestic) (NN demand) )))))))
+        (CC and) 
+        (VP (VBP have) 
+          (NP 
+            (NP (JJ little) (NN room) )
+            (PP (IN for) 
+              (NP (JJ overseas) (NNS shipments) ))))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT the) (NN official) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))

@@ -1,0 +1,74 @@
+
+( (S 
+    (NP-SBJ (NNP Waxman) (NNPS Industries) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (NNS holders) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (ADJP 
+                    (QP ($ $) (CD 6,542,000) )
+                    (-NONE- *U*) )
+                  (NN face) (NN amount) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (PRP$ its) 
+                      (ADJP 
+                        (QP (CD 6) (CD 1\/4) )
+                        (NN %) )
+                      (JJ convertible) (VBN subordinated) (NNS debentures) )
+                    (, ,) 
+                    (ADJP (JJ due) 
+                      (NP-TMP 
+                        (NP (NNP March) (CD 15) )
+                        (, ,) 
+                        (NP (CD 2007) )))
+                    (, ,) )))))
+          (VP (VBP have) 
+            (VP (VBN elected) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB convert) 
+                    (NP (DT the) (NN debt) )
+                    (PP-CLR (IN into) 
+                      (NP 
+                        (QP (IN about) (CD 683,000) )
+                        (JJ common) (NNS shares) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN conversion) (NN price) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP ($ $) (CD 9.58) (-NONE- *U*) )
+        (NP-ADV (DT a) (NN share) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS holders) )
+          (VP (VBP represent) 
+            (NP 
+              (NP (CD 52) (NN %) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN face) (NN amount) )
+                  (PP (IN of) 
+                    (NP (DT the) (NNS debentures) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Waxman) )
+    (VP (VBZ sells) 
+      (NP 
+        (NP (DT a) (NN variety) )
+        (PP (IN of) 
+          (NP 
+            (NP (NN hardware) (NNS products) )
+            (PP (IN for) 
+              (NP (DT the) (NN home) (NN repair) (NN market) ))))))
+    (. .) ))

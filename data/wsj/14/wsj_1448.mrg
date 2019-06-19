@@ -1,0 +1,785 @@
+
+( (S 
+    (NP-SBJ (DT This) (NN city) )
+    (VP (VBZ is) 
+      (VP (VBG girding) 
+        (PP-CLR (IN for) 
+          (NP (NN gridlock) ))
+        (NP-TMP (NN today) )
+        (SBAR-TMP (IN as) 
+          (S 
+            (NP-SBJ 
+              (NP (NNS hundreds) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNS thousands) )
+                  (PP (IN of) 
+                    (NP (NNS commuters) )))))
+            (VP (VBP avoid) 
+              (NP 
+                (NP (NN travel) (NNS routes) )
+                (VP (VBN ravaged) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS 
+                      (NP (JJ last) (NN week) (POS 's) )
+                      (NN earthquake) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Estimates) )
+      (PP (IN of) 
+        (NP 
+          (NP (NN damage) )
+          (PP-LOC (IN in) 
+            (NP (DT the) (JJ six-county) (NNP San) (NNP Francisco) (NNP Bay) (NN area) )))))
+    (VP (VBD neared) 
+      (NP 
+        (QP ($ $) (CD 5) (CD billion) )
+        (-NONE- *U*) )
+      (, ,) 
+      (PP (VBG excluding) 
+        (NP 
+          (NP (DT the) (NN cost) )
+          (PP (IN of) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG repairing) 
+                (NP 
+                  (NP (DT the) (NN region) (POS 's) )
+                  (NN transportation) (NN system) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NNP Bay) (NNP Bridge) )
+      (, ,) 
+      (NP 
+        (NP (DT the) (JJ main) (NN artery) )
+        (PP-DIR (IN into) 
+          (NP (NNP San) (NNP Francisco) ))
+        (PP-DIR (IN from) 
+          (NP (DT the) (JJ east) )))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN closed) 
+          (NP (-NONE- *-1) )
+          (PP-TMP (IN for) 
+            (NP 
+              (QP (IN at) (JJS least) (JJ several) )
+              (NNS weeks) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Part) )
+      (PP (IN of) 
+        (NP (DT the) (NN bridge) )))
+    (VP (VBD collapsed) 
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT the) (NN quake) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD registered) 
+                (NP 
+                  (NP (CD 6.9) )
+                  (PP-LOC (IN on) 
+                    (NP (DT the) (NNP Richter) (NN scale) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN bridge) )
+    (ADVP (RB normally) )
+    (VP (VBZ carries) 
+      (NP 
+        (NP (CD 250,000) (NNS commuters) )
+        (NP-ADV (DT a) (NN day) )))
+    (. .) ))
+( (S 
+    (ADVP (RB Also) )
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (RBS most) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NNS ramps) )
+          (VP (VBG connecting) 
+            (NP (DT the) (NN city) )
+            (PP-LOC-CLR (TO to) 
+              (NP 
+                (NP 
+                  (NP (PRP$ its) (JJ main) (NN link) )
+                  (PP (TO to) 
+                    (NP (DT the) (NN south) )))
+                (, ,) 
+                (NP (DT the) (CD 101) (NN freeway) )
+                (, ,) ))))))
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (VP (VBN closed) 
+          (NP (-NONE- *-1) )
+          (PP-PRP (IN for) 
+            (NP (NNS repairs) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NNP Bay) (NNP Area) (NNP Rapid) (NNP Transit) (NN system) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBZ runs) 
+            (NP (NN subway) (NNS trains) )
+            (PP-LOC (IN beneath) 
+              (NP (DT the) (NN bay) )))))
+      (, ,) )
+    (VP (VBZ is) 
+      (VP (VBN braced) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (DT a) (NN doubling) )
+            (PP (IN of) 
+              (NP (PRP$ its) (JJ daily) (JJ regular) (NN ridership) ))
+            (PP (TO to) 
+              (NP (CD 300,000) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP BART) )
+    (VP (VBZ has) 
+      (VP (VBN increased) 
+        (NP (NN service) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (CD 24) (NNS hours) )
+            (NP-ADV (DT a) (NN day) )))
+        (PP (IN in) 
+          (NP 
+            (NP (NN preparation) )
+            (PP (IN for) 
+              (NP (DT the) (NN onslaught) ))))))
+    (. .) ))
+( (SINV 
+    (ADJP-PRD-TPC-1 (RBS Most) (JJ unusual) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (ADJP-PRD (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (JJ water-borne) (NNS commuters) )
+      (PP (IN from) 
+        (NP 
+          (NP (DT the) (NNP East) (NNP Bay) (NNS towns) )
+          (PP (IN of) 
+            (NP (NNP Oakland) 
+              (CC and)
+              (NNP Berkeley) )))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP 
+        (NP (DT the) (JJ first) (NN time) )
+        (PP (IN in) 
+          (NP (CD 32) (NNS years) ))))
+    (, ,) 
+    (NP-SBJ-1 (NN ferry) (NN service) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (VP (VBN restored) 
+          (NP (-NONE- *-1) )
+          (PP-LOC (IN between) 
+            (NP 
+              (NP (DT the) (NNP East) (NNP Bay) )
+              (CC and) 
+              (NP (NNP San) (NNP Francisco) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP Red) 
+        (CC and)
+        (NNP White) (NNP Fleet) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ operates) 
+            (NP 
+              (NP 
+                (NP (JJ regular) (NN commuter) (NN ferry) (NN service) )
+                (PP (TO to) 
+                  (CC and)
+                  (IN from) 
+                  (NP (NNP Marin) (NNP County) )))
+              (, ,) 
+              (CC and)
+              (NP 
+                (NP (NN tourist) (NNS tours) )
+                (PP (IN of) 
+                  (NP (DT the) (NN bay) )))
+              (, ,) )))))
+    (VP (VBZ is) 
+      (VP (VBG offering) 
+        (NP (NNP East) (NNP Bay) (NNS commuters) )
+        (NP (DT a) (NN chance) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB ride) 
+                (NP (DT the) (NNS waves) )))
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (NN price) )
+                (PP (IN of) 
+                  (NP 
+                    (NP ($ $) (CD 10) (-NONE- *U*) )
+                    (NP (NN round-trip) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) (NN tariff) )
+    (VP (VBZ is) 
+      (ADJP-PRD (RB too) (JJ stiff) )
+      (PP (IN for) 
+        (NP (DT some) (NNP Financial) (NNP District) (NN wage) (NNS earners) )))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP I) )
+      (VP (MD 'll) 
+        (VP (VB stay) 
+          (PP-CLR (IN with) 
+            (NP (NNP BART) )))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ-2 
+      (NP (CD one) (NN secretary) ))
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-2) )
+      (VP (VBG swallowing) 
+        (NP 
+          (NP (PRP$ her) (NNS fears) )
+          (PP (IN about) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG using) 
+                (NP (DT the) (JJ transbay) (NN tube) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Officials) )
+    (VP (VBP expect) 
+      (S 
+        (NP-SBJ-1 (DT the) (NNP Golden) (NNP Gate) (NNP Bridge) )
+        (VP (TO to) 
+          (VP (VB be) 
+            (VP (VBN swamped) 
+              (NP (-NONE- *-1) )
+              (PP-CLR (IN with) 
+                (NP 
+                  (NP (DT an) (JJ extra) (NN load) )
+                  (PP (IN of) 
+                    (NP (NNS commuters) ))))
+              (, ,) 
+              (PP (VBG including) 
+                (NP 
+                  (NP (NNP East) (NNP Bay) (NNS residents) )
+                  (VP (VBG making) 
+                    (NP (DT a) (JJ long) (NN detour) )))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP We) )
+      (VP (VBP 're) 
+        (VP (VBG anticipating) 
+          (NP (RB quite) (DT a) (NN traffic) (NN crunch) ))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (CD one) (NN official) )
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (QP (IN About) (CD 23,000) )
+      (NNS people) )
+    (ADVP (RB typically) )
+    (VP (VBP travel) 
+      (PP-LOC-CLR (IN over) 
+        (NP (DT the) (NNP Golden) (NNP Gate) (NNP Bridge) ))
+      (PP-TMP (IN during) 
+        (NP (NN commute) (NNS hours) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (QP (IN About) (CD 130,000) )
+      (NNS vehicles) )
+    (VP (VBP cross) 
+      (PP-TMP (IN during) 
+        (NP (DT a) (JJ 24-hour) (NN period) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Meetings) )
+      (VP (VBN canceled) 
+        (NP (-NONE- *) )
+        (PP-LGS 
+          (PP (IN by) 
+            (NP 
+              (NP (NNP Apple) (NNP Computer) (NNP Inc.) (POS 's) )
+              (JJ European) (NNS sales) (NN force) ))
+          (CC and) 
+          (PP (IN by) 
+            (NP (JJ other) (NNS groups) )))))
+    (VP (VBD raised) 
+      (NP 
+        (NP (DT the) (NN specter) )
+        (PP (IN of) 
+          (NP (JJ empty) (NN hotel) (NNS rooms) 
+            (CC and)
+            (NNS restaurants) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP (RB also) )
+    (VP (VBD raised) 
+      (NP 
+        (NP (NNS hackles) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN city) (POS 's) )
+            (NN tourism) (NNS boosters) ))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (JJ Other) (NNS cities) )
+      (VP (VBP are) 
+        (VP 
+          (VP (VBG calling) 
+            (-LRB- -LCB-)
+            (NP 
+              (NP (NNS groups) )
+              (VP (VBN booked) 
+                (ADVP-LOC (RB here) )
+                (PP (IN for) 
+                  (NP (NNS tours) 
+                    (CC and)
+                    (NNS conferences) ))))
+            (-RRB- -RCB-) )
+          (CC and) 
+          (PRN (: --) 
+            (S (RB not) 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (ADJP-PRD (JJ crass) ))))
+            (: --) )
+          (VP (VBG stealing) 
+            (NP (PRP$ our) (NN booking) (NN list) )))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Scott) (NNP Shafer) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN spokesman) )
+        (PP (IN for) 
+          (NP (NNP Mayor) (NNP Art) (NNP Agnos) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN City) (NNS officials) )
+    (VP (VBN stuck) 
+      (PRT (RP by) )
+      (NP 
+        (NP (PRP$ their) (NN estimate) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 2) (CD billion) )
+              (-NONE- *U*) )
+            (PP (IN in) 
+              (NP 
+                (NP (NN damage) )
+                (PP (TO to) 
+                  (NP (DT the) (JJ quake-shocked) (NN city) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ other) (CD five) (NNP Bay) (NN area) (NNS counties) )
+    (VP (VBP have) 
+      (VP (VBN increased) 
+        (NP (PRP$ their) (JJ total) (NN damage) (NNS estimates) )
+        (PP-CLR (TO to) 
+          (NP 
+            (QP ($ $) (CD 2.8) (CD billion) )
+            (-NONE- *U*) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT All) (NNS estimates) )
+    (VP (VBP exclude) 
+      (NP 
+        (NP (NN highway) (NN repair) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (MD could) 
+              (VP (VB exceed) 
+                (NP 
+                  (QP ($ $) (CD 1) (CD billion) )
+                  (-NONE- *U*) )))))))
+    (. .) ))
+( (SINV 
+    (PP-PRD-TPC-3 (IN Among) 
+      (NP (DT the) (JJ expensive) (NNS unknowns) ))
+    (VP (VBP are) 
+      (PP-PRD (-NONE- *T*-3) ))
+    (NP-SBJ 
+      (NP (NNS stretches) )
+      (PP (IN of) 
+        (NP (JJ elevated) (NN freeway) ))
+      (PP-LOC (IN in) 
+        (NP (NNP San) (NNP Francisco) ))
+      (SBAR 
+        (WHNP-2 (WDT that) )
+        (S 
+          (NP-SBJ-1 (-NONE- *T*-2) )
+          (VP (VBD were) 
+            (VP (VBN closed) 
+              (NP (-NONE- *-1) )
+              (PP (IN because) (IN of) 
+                (NP (JJ quake-inflicted) (NN damage) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (RBS most) (JJ worrisome) (NN stretch) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (CD 1.2) (NNS miles) )
+        (PP (IN of) 
+          (NP 
+            (NP (NN waterfront) (NN highway) )
+            (VP (VBN known) 
+              (NP (-NONE- *) )
+              (PP-CLR (IN as) 
+                (NP (DT the) (NNP Embarcadero) (NNP Freeway) )))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP (IN Until) 
+      (S 
+        (NP-SBJ-1 (PRP it) )
+        (VP (VBD was) 
+          (VP (VBN closed) 
+            (NP (-NONE- *-1) )
+            (NP-TMP (NNP Tuesday) )))))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD had) 
+      (VP (VBN provided) 
+        (NP 
+          (NP (DT the) (JJS quickest) (NN series) )
+          (PP (IN of) 
+            (NP (NNS exits) ))
+          (PP (IN for) 
+            (NP 
+              (NP (NNS commuters) )
+              (PP (IN from) 
+                (NP (DT the) (NNP Bay) (NNP Bridge) ))
+              (VP (VBG heading) 
+                (PP-DIR (IN into) 
+                  (NP (DT the) (NNP Financial) (NNP District) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Engineers) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB take) 
+              (NP 
+                (QP (IN at) (JJS least) (CD eight) )
+                (NNS months) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB repair) 
+                    (NP (DT the) (NNP Embarcadero) (NN structure) )))))))))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (NP 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP (DT the) (NN quake) (NN recovery) (NN effort) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN city) (NNP Building) (NNP Department) )
+    (VP (VBZ has) 
+      (VP (VBN surveyed) 
+        (NP 
+          (QP (IN about) (CD 3,000) )
+          (NNS buildings) )
+        (, ,) 
+        (PP (VBG including) 
+          (NP 
+            (NP (DT all) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NNP Financial) (NNP District) (POS 's) )
+                (NNS high-rises) ))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (JJ preliminary) (NN conclusion) )
+        (PP (IN from) 
+          (NP 
+            (NP (DT a) (NN survey) )
+            (PP (IN of) 
+              (NP (CD 200) (NN downtown) (NNS high-rises) )))))
+      (VP (VBZ is) 
+        (SBAR-PRD (IN that) (`` ``) 
+          (S 
+            (NP-SBJ (PRP we) )
+            (VP (VBD were) 
+              (ADJP-PRD (RB incredibly) (JJ lucky) ))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Lawrence) (NNP Kornfield) )
+      (, ,) 
+      (NP 
+        (NP (NNP San) (NNP Francisco) (POS 's) )
+        (JJ chief) (NN building) (NN inspector) ))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ 
+          (NP (JJ many) )
+          (PP (IN of) 
+            (NP (DT these) (NNS buildings) )))
+        (VP (VBD sustained) 
+          (NP (JJ heavy) (NN damage) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (JJ little) )
+      (PP (IN of) 
+        (NP (DT that) )))
+    (VP (VBN involved) 
+      (NP (JJ major) (JJ structural) (NN damage) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN City) (NN building) (NNS codes) )
+    (VP (VBP require) 
+      (NP 
+        (NP (NN construction) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (MD can) 
+              (VP (VB resist) 
+                (NP (NNS temblors) )))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP England) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Martin) (NNP Leach) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN spokesman) )
+        (PP (IN for) 
+          (NP 
+            (NP (NN Lloyd) (POS 's) )
+            (PP (IN of) 
+              (NP (NNP London) ))))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN insurance) (NN market) )
+          (VP (VBZ has) (RB n't) 
+            (ADVP-TMP (RB yet) )
+            (VP (VBN been) 
+              (ADJP-PRD (JJ able) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB estimate) 
+                      (NP 
+                        (NP (DT the) (JJ total) (JJ potential) (NNS claims) )
+                        (PP (IN from) 
+                          (NP (DT the) (NN disaster) ))))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (NN extent) )
+        (PP (IN of) 
+          (NP (DT the) (NNS claims) )))
+      (VP (MD wo) (RB n't) 
+        (VP (VB be) 
+          (VP (VBN known) 
+            (PP-TMP (IN for) 
+              (NP (DT some) (NN time) ))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Leach) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (PP-TMP (IN On) 
+      (NP (NNP Friday) ))
+    (, ,) 
+    (PP-TMP (IN during) 
+      (NP 
+        (NP (DT a) (NN visit) )
+        (PP (TO to) 
+          (NP (NNP California) ))
+        (SBAR 
+          (WHADVP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB survey) 
+                (NP (NN quake) (NN damage) )
+                (ADVP (-NONE- *T*-1) )))))))
+    (, ,) 
+    (NP-SBJ-2 (NNP President) (NNP Bush) )
+    (VP (VBD promised) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) (`` ``) 
+          (VP (VB meet) 
+            (NP 
+              (NP (DT the) (JJ federal) (NN government) (POS 's) )
+              (NN obligation) ('' '') 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB assist) 
+                    (NP (NN relief) (NNS efforts) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP California) (NNS officials) )
+    (VP (VBP plan) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB ask) 
+            (NP (NNP Congress) )
+            (PP-CLR (IN for) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 3) (CD billion) (CC or) (JJR more) )
+                  (-NONE- *U*) )
+                (PP (IN of) 
+                  (NP (JJ federal) (NN aid) ))
+                (, ,) 
+                (PP (IN in) 
+                  (NP 
+                    (NP (DT the) (NN form) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNS grants) )
+                        (CC and) 
+                        (NP (JJ low-interest) (NNS loans) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN state) )
+    (VP 
+      (VP (VBZ has) 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 1) (CD billion) )
+            (-NONE- *U*) )
+          (NN reserve) ))
+      (, ,) 
+      (CC and)
+      (VP (VBZ is) 
+        (VP (VBN expected) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB add) 
+                (NP 
+                  (QP ($ $) (CD 1) (CD billion) )
+                  (-NONE- *U*) )
+                (PP-CLR (TO to) 
+                  (NP (DT that) (NN fund) ))
+                (PP-TMP (IN in) 
+                  (NP (DT the) (JJ next) (NN year) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (DT Some) )
+        (PP (IN of) 
+          (NP (DT that) (NN money) )))
+      (VP (MD will) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ available) 
+            (PP (IN for) 
+              (NP 
+                (NP (NN highway) (NN repair) )
+                (CC and) 
+                (NP (JJ special) (NN emergency) (NN aid) )))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (NNS members) )
+        (PP (IN of) 
+          (NP (DT the) (NN legislature) )))
+      (VP (VBP are) 
+        (ADVP (RB also) )
+        (VP (VBG mulling) 
+          (PRT (RP over) )
+          (NP 
+            (NP (DT a) (JJ temporary) (NN state) (NN gasoline) (NN tax) )
+            (SBAR 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (TO to) 
+                  (VP (VB raise) 
+                    (NP 
+                      (NP (NN money) )
+                      (PP (IN for) 
+                        (NP (NN earthquake) (NN relief) )))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ (NN state) (NNS initiatives) )
+    (VP (VBP restrict) 
+      (NP 
+        (NP (DT the) (NN ability) 
+          (S (-NONE- *ICH*-1) ))
+        (PP (IN of) 
+          (NP (DT the) (NN legislature) ))
+        (S-1 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB raise) 
+              (NP (JJ such) (NNS taxes) )))))
+      (SBAR-ADV (IN unless) 
+        (S 
+          (NP-SBJ (DT the) (NNS voters) )
+          (VP (VBP approve) 
+            (PP-LOC (IN in) 
+              (NP (DT a) (JJ statewide) (NN referendum) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP G.) (NNP Christian) (NNP Hill) )
+      (CC and) 
+      (NP (NNP Ken) (NNP Wells) ))
+    (VP (VBD contributed) 
+      (PP-CLR (TO to) 
+        (NP (DT this) (NN article) )))
+    (. .) ))

@@ -1,0 +1,119 @@
+
+( (S 
+    (NP-SBJ (NNP Hunter) (NNP Environmental) (NNPS Services) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reached) 
+            (NP (DT a) (JJ preliminary) (NN accord) )
+            (PP (IN on) 
+              (NP 
+                (NP (DT the) (NN sale) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (JJ environmental) (NN consulting) 
+                    (CC and)
+                    (NNS services) (NN business) ))
+                (PP (IN for) 
+                  (NP 
+                    (NP 
+                      (QP (IN about) ($ $) (CD 40) (CD million) )
+                      (-NONE- *U*) )
+                    (CC and) 
+                    (NP 
+                      (NP (NN assumption) )
+                      (PP (IN of) 
+                        (NP (JJ related) (NN debt) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN buyer) )
+    (VP (VBD was) (RB n't) 
+      (VP (VBN identified) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (ADVP (RB also) )
+          (VP (VBZ is) 
+            (VP (VBG making) 
+              (NP (NN progress) )
+              (PP (IN in) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (VBG negotiating) 
+                    (NP 
+                      (NP (DT the) (NN buy-out) )
+                      (PP (IN of) 
+                        (NP (PRP$ its) (NN design) (NN division) ))
+                      (PP (IN by) 
+                        (NP (NN management) )))))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ (NNP Hunter) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (MD will) 
+            (VP (VB use) 
+              (NP 
+                (NP (NNS proceeds) )
+                (PP (IN from) 
+                  (NP 
+                    (NP (DT a) (JJ private) (NN placement) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP 
+                          (QP ($ $) (CD 8) (CD million) )
+                          (-NONE- *U*) )
+                        (PP (IN of) 
+                          (NP (JJ preferred) (NNS shares) )))))))
+              (S-CLR 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB purchase) 
+                    (NP 
+                      (NP (DT an) (NN interest) )
+                      (PP-LOC (IN in) 
+                        (NP 
+                          (NP-SBJ (DT a) (JJ start-up) (NN company) )
+                          (SBAR 
+                            (WHNP-1 (-NONE- 0) )
+                            (S 
+                              (NP-SBJ (-NONE- *T*-1) )
+                              (VP (TO to) 
+                                (VP (VB underwrite) 
+                                  (NP (JJ environmental) (NN impairment) (NN insurance) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Hunter) )
+    (VP (VBZ wants) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB concentrate) 
+            (NP (PRP$ its) (NNS resources) )
+            (PP-CLR 
+              (PP (IN on) 
+                (NP (DT the) (NN insurance) (NN business) ))
+              (CC and) 
+              (PP (IN on) 
+                (NP 
+                  (NP (DT a) (NN project) )
+                  (SBAR 
+                    (WHNP-2 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-2) )
+                      (VP (TO to) 
+                        (VP (VB store) 
+                          (NP (JJ hazardous) (NNS wastes) )
+                          (PP-LOC (IN in) 
+                            (NP (NN salt) (NNS domes) )))))))))))))
+    (. .) ))

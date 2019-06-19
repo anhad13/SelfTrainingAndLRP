@@ -1,0 +1,197 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP Wall) (NNP Street) (NNP Journal) (`` ``) 
+      (NAC-TTL (JJ American) (NN Way) 
+        (PP (IN of) 
+          (NP (NN Buying) )))
+      ('' '') (NN Survey) )
+    (VP (VBZ consists) 
+      (PP-CLR (IN of) 
+        (NP 
+          (NP (CD two) (JJ separate) 
+            (, ,)
+            (JJ door-to-door) (JJ nationwide) (NNS polls) )
+          (VP (VBN conducted) 
+            (NP (-NONE- *) )
+            (PP (IN for) 
+              (NP (DT the) (NNP Journal) ))
+            (PP (IN by) 
+              (NP-LGS 
+                (NP (NNP Peter) (NNP D.) (NNP Hart) (NNP Research) (NNPS Associates) )
+                (CC and) 
+                (NP (DT the) (NNP Roper) (NNP Organization) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (CD two) (NNS surveys) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBD asked) 
+            (NP (JJ different) (NNS questions) ))))
+      (, ,) )
+    (VP (VBD were) 
+      (VP (VBN conducted) 
+        (NP (-NONE- *-1) )
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG using) 
+            (NP (JJ national) (JJ random) (NN probability) (NNS samples) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN poll) )
+      (VP (VBN conducted) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS (NNP Peter) (NNP D.) (NNP Hart) (NNP Research) (NNPS Associates) ))))
+    (VP (VBD interviewed) 
+      (NP 
+        (NP (CD 2,064) (NNS adults) )
+        (UCP 
+          (NP (NN age) (CD 18) )
+          (CC and) 
+          (ADJP (JJR older) )))
+      (PP-TMP 
+        (PP (IN from) 
+          (NP (NNP June) (CD 15) ))
+        (PP (TO to) 
+          (NP (NNP June) (CD 30) 
+            (, ,)
+            (CD 1989) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN poll) )
+      (VP (VBN conducted) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS (DT the) (NNP Roper) (NNP Organization) ))))
+    (VP (VBD interviewed) 
+      (NP 
+        (NP (CD 2,002) (NNS adults) )
+        (UCP 
+          (NP (NN age) (CD 18) )
+          (CC and) 
+          (ADJP (JJR older) )))
+      (PP-TMP 
+        (PP (IN from) 
+          (NP (NNP July) (CD 7) ))
+        (PP (TO to) 
+          (NP (NNP July) (CD 15) 
+            (, ,)
+            (CD 1989) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Responses) )
+    (VP (VBD were) 
+      (VP (VBN weighted) 
+        (NP (-NONE- *-1) )
+        (PP (IN on) 
+          (NP 
+            (NP (DT the) (NN basis) )
+            (PP (IN of) 
+              (NP (NN age) 
+                (CC and)
+                (NN gender) ))))
+        (S-PRP 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB conform) 
+              (PP-CLR (IN with) 
+                (NP (NNP U.S.) (NNP Census) (NNS data) )))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (DT each) (NN poll) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS odds) 
+      (SBAR (-NONE- *ICH*-2) ))
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (CD 19) )
+        (PP (IN out) 
+          (PP (IN of) 
+            (NP (CD 20) ))))
+      (SBAR-2 (DT that) 
+        (S 
+          (SBAR-ADV (IN if) 
+            (S 
+              (NP-SBJ-1 (NNS pollsters) )
+              (VP (VBD had) 
+                (VP (VBN sought) 
+                  (S 
+                    (NP-SBJ-3 (-NONE- *-1) )
+                    (VP (TO to) 
+                      (VP (VB survey) 
+                        (NP 
+                          (NP (DT every) (NN household) )
+                          (PP-LOC (IN in) 
+                            (NP (DT the) (NNP U.S.) )))
+                        (S-ADV 
+                          (NP-SBJ (-NONE- *-3) )
+                          (VP (VBG using) 
+                            (NP (DT the) (JJ same) (NN questionnaire) ))))))))))
+          (, ,) 
+          (NP-SBJ (DT the) (NNS findings) )
+          (VP (MD would) 
+            (VP (VB differ) 
+              (PP-CLR (IN from) 
+                (NP (DT these) (JJ poll) (NNS results) ))
+              (PP-EXT (IN by) 
+                (NP 
+                  (NP 
+                    (QP (DT no) (JJR more) (IN than) (CD 2) (CD 1\/2) )
+                    (NN percentage) (NNS points) )
+                  (PP-LOC (IN in) 
+                    (NP (DT either) (NN direction) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN margin) )
+      (PP (IN of) 
+        (NP (NN error) ))
+      (PP (IN for) 
+        (NP 
+          (NP (NNS subgroups) )
+          (PRN (: --) 
+            (PP (IN for) 
+              (NP (NN example) ))
+            (, ,) 
+            (NP 
+              (NP (JJ married) (NNS women) )
+              (PP (IN with) 
+                (NP 
+                  (NP (NNS children) )
+                  (PP-LOC (IN at) 
+                    (NP (NN home) )))))
+            (: --) ))))
+    (VP (MD would) 
+      (VP (VB be) 
+        (ADJP-PRD (JJR larger) )))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (PP-LOC (IN in) 
+      (NP (DT any) (NN survey) ))
+    (, ,) 
+    (NP-SBJ (EX there) )
+    (VP (VBZ is) 
+      (ADVP-TMP (RB always) )
+      (NP-PRD (DT the) (NN chance) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (JJ other) (NNS factors) )
+              (PP (JJ such) (IN as) 
+                (NP (NN question) (NN wording) )))
+            (VP (MD could) 
+              (VP (VB introduce) 
+                (NP (NNS errors) )
+                (PP-DIR (IN into) 
+                  (NP (DT the) (NNS findings) ))))))))
+    (. .) ))

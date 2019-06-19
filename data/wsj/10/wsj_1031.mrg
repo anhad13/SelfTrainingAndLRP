@@ -1,0 +1,110 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Philip) (NNP Morris) (NNPS Cos.) )
+      (, ,) 
+      (NP-LOC (NNP New) (NNP York) )
+      (, ,) )
+    (VP (VBD adopted) 
+      (NP 
+        (NP (DT a) (NN defense) (NN measure) )
+        (VP (VBN designed) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB make) 
+                (S 
+                  (NP-SBJ (DT a) (JJ hostile) (NN takeover) )
+                  (ADJP-PRD (RB prohibitively) (JJ expensive) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ giant) (NNS foods) 
+      (, ,)
+      (NN tobacco) 
+      (CC and)
+      (NN brewing) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB issue) 
+              (NP (JJ common-share) (NN purchase) (NNS rights) )
+              (PP-DTV (TO to) 
+                (NP 
+                  (NP (NNS shareholders) )
+                  (PP (IN of) 
+                    (NP (NN record) ))))
+              (NP-TMP (NNP Nov.) (CD 8) ))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (JJ certain) (NNS circumstances) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS rights) )
+    (VP (MD would) 
+      (VP (VB entitle) 
+        (S 
+          (NP-SBJ (NNP Philip) (NNP Morris) (NNS holders) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP 
+                (NP (NNS shares) )
+                (PP (IN of) 
+                  (NP (DT either) 
+                    (NP (DT the) (NN company) )
+                    (CC or) 
+                    (NP (PRP$ its) (NN acquirer) ))))
+              (PP-CLR (IN for) 
+                (NP (JJ half) (NN price) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN board) )
+      (VP (VBZ is) (RB n't) 
+        (ADJP-PRD (JJ aware) 
+          (PP (IN of) 
+            (NP (DT any) (NNS attempts) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB take) 
+                    (PRT (RP over) )
+                    (NP (NNP Philip) (NNP Morris) )))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN As) 
+      (PP (IN of) 
+        (NP (NNP Sept.) (CD 30) )))
+    (, ,) 
+    (NP-SBJ (NNP Philip) (NNP Morris) )
+    (VP (VBD had) 
+      (NP 
+        (NP 
+          (QP (CD 926) (CD million) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (JJ composite) (NN trading) )
+        (PP-LOC (IN on) 
+          (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))))
+    (, ,) 
+    (NP-SBJ (NNP Philip) (NNP Morris) (NNS shares) )
+    (VP (VBN closed) 
+      (NP-TMP (NN yesterday) )
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 43.50) (-NONE- *U*) )
+          (NP-ADV (DT each) )))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP ($ $) (CD 1) (-NONE- *U*) )))
+    (. .) ))

@@ -1,0 +1,245 @@
+
+( (S 
+    (NP-SBJ (NNP SYDNEY-Qintex) (NNP Australia) (NNP Ltd.) )
+    (, ,) 
+    (PP-LOC (IN under) 
+      (NP 
+        (NP (NN pressure) )
+        (PP (IN from) 
+          (NP (NN bank) (NNS lenders) ))))
+    (, ,) 
+    (VP (VBZ has) 
+      (VP (VBN called) 
+        (PRT (RP in) )
+        (NP-1 (NN accounting) (NN firm) (NNP Peat) (NNP Marwick) (NNP Hungerfords) )
+        (S-PRP 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB help) 
+              (VP 
+                (VP (VB oversee) 
+                  (NP (NN asset) (NNS sales) ))
+                (CC and) 
+                (VP (VB restructure) 
+                  (NP (DT the) 
+                    (NX 
+                      (NX (NNS resorts) )
+                      (CC and) 
+                      (NX (NNS media) (NN company) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Analysts) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN move) )
+          (VP (MD could) 
+            (VP (VB presage) 
+              (NP 
+                (NP 
+                  (ADJP (RB even) (JJR harsher) )
+                  (NN action) )
+                (PP (IN by) 
+                  (NP (DT the) (NNS banks) ))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT any) (NN move) )
+      (PP (IN by) 
+        (NP (DT the) (NNS banks) ))
+      (SBAR 
+        (WHNP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (TO to) 
+            (VP (VB take) 
+              (PRT (RP over) )
+              (NP 
+                (NP (NNP Qintex) (NNP Australia) (POS 's) )
+                (NN management) ))))))
+    (VP (MD could) 
+      (VP (VB threaten) 
+        (NP (PRP$ its) (NN ability) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB operate) 
+                (NP (PRP$ its) (JJ national) (NN television) (NN network) )
+                (PP-MNR (IN under) 
+                  (NP (JJ Australian) (NN broadcast) (NN license) (NNS rules) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (IN That) )
+    (, ,) 
+    (PP (IN in) 
+      (NP (NN turn) ))
+    (, ,) 
+    (VP (MD could) 
+      (VP 
+        (ADVP-MNR (RB substantially) )
+        (VB reduce) 
+        (NP 
+          (NP (DT the) (NN value) )
+          (PP (IN of) 
+            (NP (DT the) (NN television) (NNS assets) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN appointment) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Peat) (NNP Marwick) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBZ has) 
+                (NP 
+                  (NP (DT a) (NN unit) )
+                  (SBAR 
+                    (WHNP-2 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-2) )
+                      (VP (VBZ specializes) 
+                        (PP-CLR (IN in) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (VBG advising) 
+                              (NP (JJ troubled) (NNS companies) )))))))))))
+          (, ,) )))
+    (VP (VBD came) 
+      (PRT (RP about) )
+      (PP-PRP (IN as) 
+        (NP 
+          (NP (DT a) (NN result) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT a) (NN round) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNS meetings) )
+                  (VP (VBN held) 
+                    (NP (-NONE- *) )
+                    (PP (IN by) 
+                      (NP-LGS (NNP Qintex) (NNP Australia) (NNP Chairman) 
+                        (NP (NNP Christopher) (NNP Skase) )))
+                    (PP-MNR (IN with) 
+                      (NP (NN bank) (NNS creditors) ))))))))))
+    (. .) ))
+( (S 
+    (NP-TMP (NN Yesterday) )
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Skase) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN company) )
+          (VP 
+            (VP (VBZ is) 
+              (ADJP-PRD (`` ``) (JJ solvent) ))
+            (CC and) 
+            (VP 
+              (PP-MNR (IN with) 
+                (NP 
+                  (NP (DT the) (JJ continued) (NN support) )
+                  (PP (IN of) 
+                    (NP (PRP$ its) (NNS bankers) ))))
+              (VBZ is) 
+              (ADJP-PRD (JJ able) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB meet) 
+                      (NP (PRP$ its) (JJ financial) (NNS commitments) ))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNP Qintex) (NNP Australia) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP (NNP Qintex) (NNP Ltd) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP Qintex) (NN group) (POS 's) )
+      (NNS problems) )
+    (VP (VBD began) 
+      (PP (IN in) 
+        (NP (NN earnest) ))
+      (PP-TMP (IN in) 
+        (NP 
+          (NP (NNP March) )
+          (, ,) 
+          (SBAR 
+            (WHADVP-2 (WRB when) )
+            (S 
+              (NP-SBJ-1 (NNP Mr.) (NNP Skase) )
+              (VP (VBD agreed) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB buy) 
+                      (NP (NNP MGM\/UA) (NNPS Communications) (NNP Co) ))))
+                (ADVP-TMP (-NONE- *T*-2) )))))))
+    (. .) ))
+( (S 
+    (S (CC But) 
+      (NP-SBJ (DT the) (NN transaction) )
+      (VP (VBD faltered) 
+        (PP-TMP (IN in) 
+          (NP 
+            (NP (NNP September) )
+            (, ,) 
+            (SBAR 
+              (WHADVP-2 (WRB when) )
+              (S 
+                (NP-SBJ-1 (NNP Qintex) (NNP Australia) )
+                (VP (VBD was) 
+                  (VP (VBN forced) 
+                    (S 
+                      (NP-SBJ (-NONE- *-1) )
+                      (VP (TO to) 
+                        (VP (VB increase) 
+                          (NP (PRP$ its) (NN offer) )
+                          (PP-EXT (TO to) 
+                            (NP 
+                              (QP ($ US$) (CD 1.5) (CD billion) )
+                              (-NONE- *U*) )))))
+                    (PP (VBG following) 
+                      (NP 
+                        (NP (DT a) (NN counterbid) )
+                        (PP (IN from) 
+                          (NP (NNP Rupert) (NNP Murdoch) ))))
+                    (ADVP-TMP (-NONE- *T*-2) )))))))))
+    (: ;) 
+    (S 
+      (NP-SBJ (DT the) (NN deal) )
+      (VP (VBD fell) 
+        (PRT (RP apart) )
+        (ADVP (RB altogether) )
+        (NP-TMP (RBR earlier) (DT this) (NN month) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Qintex) (NNP Australia) )
+    (VP (VBZ owes) 
+      (NP (NNS creditors) )
+      (NP 
+        (QP (IN around) ($ A$) (CD 1.2) (CD billion) )
+        (-NONE- *U*) ))
+    (. .) ))
+( (S 
+    (NP-TMP (JJ Last) (NNP Friday) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Qintex) (NNP Entertainment) (NNP Inc.) )
+      (, ,) 
+      (NP (PRP$ its) (JJ 43%-owned) (NNP U.S.) (NN TV) (NN production) 
+        (CC and)
+        (NN distribution) (NN affiliate) )
+      (, ,) )
+    (VP (VBD filed) 
+      (PP-CLR (IN for) 
+        (NP (NNP Chapter) (CD 11) (NN protection) )))
+    (. .) ))

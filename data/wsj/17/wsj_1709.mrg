@@ -1,0 +1,219 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Schlumberger) (NNP Ltd.) )
+      (, ,) 
+      (NP-LOC (NNP New) (NNP York) )
+      (, ,) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ third-quarter) (JJ net) (NN income) )
+          (VP (VBD edged) 
+            (ADVP-DIR (IN up) )
+            (SBAR-ADV (IN as) 
+              (S 
+                (NP-SBJ 
+                  (NP (NN growth) )
+                  (PP-LOC (IN in) 
+                    (NP (PRP$ its) (JJ oil-field) (NNS services) (NN sector) )))
+                (VP (VBP offset) 
+                  (NP 
+                    (NP (DT a) (NN decline) )
+                    (PP-LOC (IN in) 
+                      (NP (NN interest) (NN income) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJR lower) (NN interest) (NN income) )
+    (VP (VBD occurred) 
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ-1 (NNP Schlumberger) )
+          (VP (VBD spent) 
+            (NP 
+              (QP ($ $) (CD 1.2) (CD billion) )
+              (-NONE- *U*) )
+            (S-CLR 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VBG buying) 
+                (PRT (RP back) )
+                (NP (PRP$ its) (NN stock) )))
+            (NP-TMP (JJ last) (NN year) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Net) )
+      (PP (IN for) 
+        (NP (DT the) (NN oil-field) (NNS services) 
+          (CC and)
+          (JJ electronic) (NNS measurements) 
+          (CC and)
+          (NNS systems) (NN concern) )))
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 114.2) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP (CD 48) (NNS cents) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 112.2) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP (CD 42) (NNS cents) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (RBR earlier) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Per-share) (NNS earnings) )
+    (VP (VBD advanced) 
+      (NP-EXT (CD 14) (NN %) )
+      (PP-PRP (IN because) (IN of) 
+        (NP (DT the) (NN buy-back) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD declined) 
+      (NP-EXT (CD 6.3) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 1.11) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 1.18) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S (CC But) 
+    (PP (VBG excluding) 
+      (NP 
+        (NP (NNS businesses) )
+        (VP (VBN acquired) (CC or) (VBN sold) 
+          (NP (-NONE- *) ))))
+    (, ,) 
+    (NP-SBJ (NN revenue) )
+    (VP (VBD was) 
+      (ADJP-PRD (JJ flat) )
+      (PP-CLR (IN at) 
+        (NP 
+          (QP (IN about) ($ $) (CD 1.24) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Nine-month) (NN net) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 9.5) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 323.4) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 1.36) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 357.2) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 1.32) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (RBR earlier) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD dropped) 
+      (NP-EXT (CD 5.4) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 3.48) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 3.68) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT This) (NN year) (POS 's) )
+      (JJ nine-month) (NNS results) )
+    (VP (VBP include) 
+      (NP 
+        (NP (NNS gains) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 13) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD five) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) )
+              (PP (IN from) 
+                (NP 
+                  (NP (DT the) (NN sale) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Schlumberger) (POS 's) )
+                      (NN defense) (NNS systems) (NN business) )))))
+            (, ,) 
+            (CC and)
+            (NP 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 22) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD nine) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) )
+              (PP (IN from) 
+                (NP 
+                  (NP (DT an) (NN award) )
+                  (PP (IN by) 
+                    (NP (DT the) (NNP IranU.S) (. .) (NNPS Claims) (NNP Tribunal) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ year-earlier) (CD nine) (NNS months) )
+    (VP (VBP include) 
+      (NP 
+        (NP (DT a) (NN gain) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 35) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 13) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) ))
+        (PP (IN from) 
+          (NP 
+            (NP (NN sale) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN company) (POS 's) )
+                (NNP Electricity) (NNP Control) (CC &) (NNPS Transformers) (NN division) ))))))
+    (. .) ))

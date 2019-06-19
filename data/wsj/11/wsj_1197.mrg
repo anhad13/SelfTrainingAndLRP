@@ -1,0 +1,165 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Homestake) (NNP Mining) (NNP Co.) )
+      (, ,) 
+      (NP-LOC (NNP San) (NNP Francisco) )
+      (, ,) )
+    (VP (VBD blamed) 
+      (NP 
+        (NP (DT the) (JJ continued) (NN slump) )
+        (PP-LOC (IN in) 
+          (NP (JJ gold) (NNS prices) )))
+      (PP (IN for) 
+        (NP 
+          (NP (DT an) 
+            (ADJP (CD 83) (NN %) )
+            (NN plunge) )
+          (PP-LOC (IN in) 
+            (NP (JJ third-quarter) (JJ net) (NN income) ))
+          (PP 
+            (PP (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 2) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD two) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))))
+            (, ,) 
+            (PP (IN from) 
+              (NP 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 11.2) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP (CD 12) (NNS cents) )
+                    (NP-ADV (DT a) (NN share) )))
+                (, ,) 
+                (ADVP-TMP 
+                  (NP (DT a) (NN year) )
+                  (RBR earlier) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 5) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 110.4) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 105.4) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (NNP Homestake) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 15.25) (-NONE- *U*) )
+          (, ,) 
+          (ADVP (RB down) 
+            (NP (CD 25) (NNS cents) )))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (DT A) (JJ significant) (NN increase) )
+        (PP-LOC (IN in) 
+          (NP (JJ gold) (NNS sales) ))
+        (PP (TO to) 
+          (NP (CD 248,279) (NNS ounces) ))
+        (PP (IN for) 
+          (NP (DT the) (NN quarter) ))
+        (PP (IN from) 
+          (NP 
+            (NP (CD 188,726) )
+            (PP-TMP (IN in) 
+              (NP 
+                (NP (DT the) (JJ third) (NN quarter) )
+                (PP (IN of) 
+                  (NP (CD 1988) )))))))
+      (VP (VBD was) 
+        (VP 
+          (ADVP (RBR more) (IN than) )
+          (VBN offset) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (DT the) (JJ continued) (NN decline) )
+              (PP-LOC (IN in) 
+                (NP (JJ average) (JJ gold) (NN price) (NN realization) ))
+              (PP 
+                (PP (TO to) 
+                  (NP 
+                    (NP ($ $) (CD 367) (-NONE- *U*) )
+                    (PP (-NONE- *RNR*-3) )))
+                (PP (IN from) 
+                  (NP 
+                    (NP ($ $) (CD 429) (-NONE- *U*) )
+                    (PP (-NONE- *RNR*-3) )))
+                (PP-3 (IN per) 
+                  (NP (NN ounce) ))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN mining) (NN company) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 40) (NN %) )
+          (NN drop) )
+        (PP-LOC (IN in) 
+          (NP (NN profit) ))
+        (PP 
+          (PP (TO to) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 30.1) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP (CD 31) (NNS cents) )
+                (NP-ADV (DT a) (NN share) ))))
+          (, ,) 
+          (PP (IN from) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 50.6) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP (CD 52) (NNS cents) )
+                (NP-ADV (DT a) (NN share) ))))))
+      (, ,) 
+      (PP (IN on) 
+        (NP 
+          (NP (DT a) 
+            (ADJP (CD 6) (NN %) )
+            (NN rise) )
+          (PP-LOC (IN in) 
+            (NP (NN revenue) ))
+          (PP 
+            (PP (TO to) 
+              (NP 
+                (QP ($ $) (CD 323.2) (CD million) )
+                (-NONE- *U*) ))
+            (PP (IN from) 
+              (NP 
+                (QP ($ $) (CD 305.7) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))

@@ -1,0 +1,140 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Eastman) (NNP Kodak) (NNP Co.) )
+      (PP (IN of) 
+        (NP (NNP Rochester) 
+          (, ,)
+          (NNP N.Y.) 
+          (, ,)
+          )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP$ its) (NNP Lehn) (CC &) (NNP Fink) (NNPS Products) (NN subsidiary) )
+          (VP (VBD was) 
+            (VP (VBN restructured) 
+              (NP (-NONE- *-1) )
+              (S-PRP-CLR 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB form) 
+                    (NP 
+                      (NP (CD two) (VBG operating) (NNS groups) )
+                      (, ,) 
+                      (NP 
+                        (NP 
+                          (NP (CD one) )
+                          (PP (IN for) 
+                            (NP 
+                              (NP (NN household) (NNS products) )
+                              (PP (JJ such) (IN as) 
+                                (NP (NNS cleaners) 
+                                  (CC and)
+                                  (NNS disinfectants) )))))
+                        (CC and) 
+                        (NP 
+                          (NP (DT the) (JJ other) )
+                          (PP (IN for) 
+                            (NP 
+                              (NP (JJ do-it-yourself) (NNS products) )
+                              (PP (JJ such) (IN as) 
+                                (NP (NN wood) (NNS finishes) 
+                                  (CC and)
+                                  (NNS stains) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Montvale) 
+      (, ,)
+      (NNP N.J.) 
+      (, ,)
+      (NN unit) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ new) (NN operating) (NN structure) )
+          (`` ``) 
+          (VP (VBZ creates) 
+            (NP 
+              (NP (DT a) 
+                (ADJP (RBR more) (JJ focused) 
+                  (CC and)
+                  (JJ responsive) )
+                (NN organization) )
+              (VP (VBN geared) 
+                (NP (-NONE- *) )
+                (PP-CLR (TO to) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP 
+                      (ADVP-MNR (RB effectively) )
+                      (VBG managing) 
+                      (NP 
+                        (NP (DT the) (NN size) 
+                          (CC and)
+                          (NN scope) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (DT the) (NN unit) (POS 's) )
+                            (JJ current) (NN business) ))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN consumer) (NNS brands) (NN unit) )
+    (VP (VBD was) 
+      (VP (VBN absorbed) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (DT the) (JJ photographic) 
+            (, ,)
+            (JJ pharmaceutical) 
+            (CC and)
+            (NN chemical) (NN concern) ))
+        (NP-TMP 
+          (NP (JJ last) (NN year) )
+          (SBAR 
+            (WHADVP-2 (WRB when) )
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (VBD acquired) 
+                (NP (NNP Sterling) (NNP Drug) (NNP Inc) )
+                (ADVP-TMP (-NONE- *T*-2) )))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (JJ related) (NN matter) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNP Peter) (NNP Black) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP (NN consumer) (NN brand) (NNP Minwax) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN group) (NN vice) (NN president) )
+            (PP (IN for) 
+              (NP (DT the) (NN household) (NNS products) (VBG operating) (NN group) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Kenneth) (NNP M.) (NNP Evans) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP (NNP Thompson) (CC &) (NNP Formby) (NN brand) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN group) (NN vice) (NN president) )
+            (PP (IN of) 
+              (NP (DT the) (JJ do-it-yourself) (VBG operating) (NN group) ))))))
+    (. .) ))

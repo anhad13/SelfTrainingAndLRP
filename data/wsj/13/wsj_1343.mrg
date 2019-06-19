@@ -1,0 +1,122 @@
+
+( (S 
+    (NP-SBJ (NNP American) (NNP Telephone) (CC &) (NNP Telegraph) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (MD will) 
+            (VP (VB spend) 
+              (NP 
+                (QP ($ $) (CD 20) (CD million) )
+                (-NONE- *U*) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB build) 
+                    (NP 
+                      (NP (DT a) (NN factory) )
+                      (PP-LOC (IN in) 
+                        (NP 
+                          (NP (NNP Guadalajara) )
+                          (, ,) 
+                          (NP (NNP Mexico) )
+                          (, ,) ))
+                      (SBAR-PRP 
+                        (WHNP-2 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-2) )
+                          (VP (TO to) 
+                            (VP (VB make) 
+                              (NP (NN telephone) (NN answering) (NNS machines) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Construction) )
+      (PP (IN of) 
+        (NP (DT the) (JJ 265,000-square-foot) (NN facility) )))
+    (VP (MD will) 
+      (VP (VB begin) 
+        (NP-TMP (JJ next) (NN year) )
+        (, ,) 
+        (SBAR-ADV (IN with) 
+          (S 
+            (NP-SBJ-1 (NN production) )
+            (VP (VBN expected) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB start) 
+                    (PP-TMP (IN in) 
+                      (NP (JJ late) (CD 1991) ))))))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB When) )
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (ADJP-PRD (RB fully) (JJ operational) )
+        (ADVP-TMP (-NONE- *T*-1) )))
+    (, ,) 
+    (NP-SBJ-2 (DT the) (NNP Guadalajara) (NN factory) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB employ) 
+          (NP 
+            (QP (RB about) (CD 1,500) )
+            (NNS workers) ))
+        (CC and) 
+        (VP (VB have) 
+          (NP 
+            (NP (JJ annual) (NN operating) (NNS expenses) )
+            (PP (IN of) 
+              (NP 
+                (QP ($ $) (CD 5) (CD million) (TO to) ($ $) (CD 6) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT An) (NNP AT&T) (NN representative) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NNP Guadalajara) (NN factory) )
+          (VP (MD will) 
+            (VP (VB make) 
+              (NP 
+                (NP (DT a) (JJ full) (NN line) )
+                (PP (IN of) 
+                  (NP (NN answering) (NNS machines) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP AT&T) )
+    (ADVP (RB already) )
+    (VP (VBZ has) 
+      (NP 
+        (NP (DT a) (NN factory) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP Matamoros) )
+            (, ,) 
+            (NP (NNP Mexico) )
+            (, ,) ))
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB make) 
+                (NP (JJ electrical) (NNS devices) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP (RB also) )
+    (VP (VBZ purchases) 
+      (NP (NN data) (NNS systems) (NNS products) )
+      (PP-CLR (IN from) 
+        (NP 
+          (NP (DT a) (NN manufacturer) )
+          (VP (VBN based) 
+            (NP (-NONE- *) )
+            (PP-LOC-CLR (IN in) 
+              (NP (NNP Monterrey) ))))))
+    (. .) ))

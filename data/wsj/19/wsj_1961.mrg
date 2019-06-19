@@ -1,0 +1,45 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (DT THE) (NN STOCK) )
+      (PP (IN of) 
+        (NP (NNP Applied) (NNP Power) (NNP Inc.) ))
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBD split) 
+            (ADVP-CLR (JJ 2-for-1) )
+            (PP-TMP (IN in) 
+              (NP (NNP May) )))))
+      (, ,) )
+    (VP (VBZ has) 
+      (VP (VBN risen) 
+        (PP-TMP (IN since) 
+          (NP (NNP August) (CD 1988) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (NN yesterday) (POS 's) )
+        (NN edition) ))
+    (, ,) 
+    (NP-SBJ-2 
+      (NP (PRP it) )
+      (SBAR (-NONE- *EXP*-1) ))
+    (VP (VBD was) 
+      (VP 
+        (ADVP-MNR (RB incorrectly) )
+        (VBN stated) 
+        (NP (-NONE- *-2) )
+        (SBAR-1 (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NN company) (POS 's) )
+              (NN share) (NN price) )
+            (VP (VBZ has) 
+              (VP (VBN softened) 
+                (PP-TMP (IN since) 
+                  (NP (NNP August) (CD 1988) ))))))))
+    (. .) ))

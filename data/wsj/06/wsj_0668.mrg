@@ -1,0 +1,110 @@
+
+( (S 
+    (NP-SBJ (NNP ABB) (NNP Asea) (NNP Brown) (NNP Boveri) (NNP B.V.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD signed) 
+            (NP 
+              (NP (DT a) (NN contract) )
+              (PP (IN for) 
+                (NP 
+                  (NP (DT the) (JJ largest-ever) (NN power) (NN plant) (NN order) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NNPS Netherlands) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP ABB) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (DT the) (NN contract) )
+            (, ,) 
+            (VP (VBN signed) 
+              (NP (-NONE- *) )
+              (PP (IN with) 
+                (NP (DT the) (JJ Dutch) (NN utility) (NNP N.V) (. .) (NNP Energieproduktiebedrijf) (NNP UNA) )))
+            (, ,) )
+          (VP (VBZ is) 
+            (VP (VBN valued) 
+              (NP (-NONE- *-1) )
+              (PP-CLR (IN in) 
+                (NP 
+                  (NP (NN excess) )
+                  (PP (IN of) 
+                    (NP 
+                      (QP ($ $) (CD 200) (CD million) )
+                      (-NONE- *U*) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN accord) )
+    (VP (VBZ is) 
+      (PP-PRD (IN for) 
+        (NP 
+          (NP (DT a) (NN turbogenerator) (NN plant) )
+          (PP-LOC (IN at) 
+            (NP 
+              (NP (DT the) (JJ coal-fired) (NN power) (NN station) (NNP Hemweg) )
+              (PP-LOC (IN in) 
+                (NP (NNP Amsterdam) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP ABB) (NNP Asea) (NNP Brown) (NNP Boveri) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (JJ Dutch) (NN unit) )
+        (PP (IN of) 
+          (NP (DT the) (JJ Swedish-Swiss) (JJ electrical) (NN engineering) (NN group) (NNP ABB) (NNP Asea) (NNP Brown) (NNP Boveri) (NNP AG) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNP ABB) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (DT a) (JJ significant) (NN portion) )
+            (PP (IN of) 
+              (NP (DT the) (NN order) )))
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBN placed) 
+                (NP (-NONE- *-1) )
+                (PP-CLR (IN with) 
+                  (NP (JJ Dutch) (NNS subcontractors) )))))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (VBG adding) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ-3 (DT a) (NN group) )
+              (VP (VBZ has) 
+                (VP (VBN been) 
+                  (VP (VBN set) 
+                    (PRT (RP up) )
+                    (NP (-NONE- *-3) )
+                    (PP-PRP (IN for) 
+                      (NP (DT this) (NN purpose) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ Dutch) (NN utility) (NN firm) )
+    (VP (VBZ serves) 
+      (NP (DT the) (NNP Amsterdam) 
+        (CC and)
+        (NNP Utrecht) (NNS areas) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ planned) (NN turbogenerator) (NN plant) )
+    (VP (VBZ is) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB go) 
+              (PP-CLR (IN into) 
+                (NP (NN operation) ))
+              (PP-TMP (IN in) 
+                (NP (CD 1994) )))))))
+    (. .) ))

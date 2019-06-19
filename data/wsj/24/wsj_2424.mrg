@@ -1,0 +1,154 @@
+
+( (S 
+    (NP-SBJ (NNP Giant) (NNP Group) (NNP Ltd.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD terminated) 
+            (NP 
+              (NP (NNS negotiations) )
+              (PP (IN for) 
+                (NP 
+                  (NP (DT the) (NN purchase) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Aspen) (NNPS Airways) )
+                      (, ,) 
+                      (NP 
+                        (NP (DT a) (JJ Denver-based) (JJ regional) (NN carrier) )
+                        (SBAR 
+                          (WHNP-1 (WDT that) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-1) )
+                            (VP (VBZ operates) 
+                              (NP (DT the) (NNP United) (NNP Express) (NN connector) (NN service) )
+                              (PP-LOC (IN under) 
+                                (NP 
+                                  (NP (NN contract) )
+                                  (PP (TO to) 
+                                    (NP 
+                                      (NP (NNP UAL) (NNP Corp.) (POS 's) )
+                                      (NNP United) (NNPS Airlines) )))))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNP Giant) )
+        (, ,) 
+        (NP 
+          (NP (DT a) 
+            (NAC-LOC (NNP Beverly) (NNPS Hills) 
+              (, ,)
+              (NNP Calif.) 
+              (, ,)
+              )
+            (NN collection) )
+          (PP (IN of) 
+            (NP (NNS companies) ))
+          (SBAR 
+            (WHNP-3 (WDT that) )
+            (S 
+              (NP-SBJ-1 (-NONE- *T*-3) )
+              (VP (VBZ is) 
+                (VP (VBN controlled) 
+                  (NP (-NONE- *-1) )
+                  (PP (IN by) 
+                    (NP-LGS (NNP Hollywood) (NN producer) (NNP Burt) (NNP Sugarman) )))))))
+        (, ,) )
+      (VP (VBD did) (RB n't) 
+        (VP (VB give) 
+          (NP 
+            (NP (DT a) (NN reason) )
+            (PP (IN for) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG halting) 
+                  (NP (PRP$ its) (NN plan) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB acquire) 
+                          (NP (DT the) (NN airline) ))))))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-2 (NNP Aspen) (NNS officials) )
+      (VP (MD could) (RB n't) 
+        (VP (VB be) 
+          (VP (VBN reached) 
+            (NP (-NONE- *-2) )
+            (PP-CLR (IN for) 
+              (NP (NN comment) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Giant) )
+    (VP (VBD agreed) 
+      (NP-TMP (JJ last) (NN month) )
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB purchase) 
+            (NP (DT the) (NN carrier) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Giant) )
+    (VP (VBZ has) (RB n't) 
+      (ADVP (RB ever) )
+      (VP (VBN disclosed) 
+        (NP (DT the) (VBN proposed) (NN price) ))
+      (, ,) 
+      (SBAR-ADV (IN although) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Avmark) (NNP Inc.) )
+            (, ,) 
+            (NP (DT an) 
+              (NAC (NNP Arlington) 
+                (, ,)
+                (JJ Va.-based) )
+              (NN aircraft) (VBG consulting) (NN concern) )
+            (, ,) )
+          (VP (VBZ has) 
+            (VP (VBN valued) 
+              (NP 
+                (NP (NNP Aspen) (POS 's) )
+                (NN fleet) )
+              (PP-CLR (IN at) 
+                (NP 
+                  (QP (IN about) ($ $) (CD 46) (CD million) )
+                  (-NONE- *U*) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN airline) )
+    (VP (MD would) 
+      (VP (VB have) 
+        (VP (VBN become) 
+          (NP-PRD 
+            (NP (DT the) (JJS latest) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT a) (JJ peculiar) (NN blend) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Giant) (NNS companies) )
+                    (, ,) 
+                    (SBAR 
+                      (WHNP-1 (WDT which) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (VBP are) 
+                          (ADJP-PRD (VBN involved) 
+                            (PP (IN in) 
+                              (S-NOM 
+                                (NP-SBJ (-NONE- *) )
+                                (VP 
+                                  (VP (VBG making) 
+                                    (NP (NN cement) ))
+                                  (, ,) 
+                                  (VP (VBG recycling) 
+                                    (NP (NN newsprint) ))
+                                  (CC and) 
+                                  (VP (VBG operating) 
+                                    (NP (NN fast-food) (NNS restaurants) )))))))))))))))))
+    (. .) ))

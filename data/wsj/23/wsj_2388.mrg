@@ -1,0 +1,99 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Honeywell) (NNP Inc.) )
+      (CC and) 
+      (NP (NNP International) (NNP Business) (NNP Machines) (NNP Corp.) ))
+    (VP (VBD received) 
+      (NP 
+        (NP (NNP Air) (NNP Force) (NNS contracts) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB develop) 
+                (NP 
+                  (NP (JJ integrated) (NNS circuits) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (NN use) )
+                      (PP-LOC (IN in) 
+                        (NP (NN space) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 
+        (NP (NNP Honeywell) (POS 's) )
+        (NN contract) )
+      (VP (VBD totaled) 
+        (NP-2 
+          (QP ($ $) (CD 69.7) (CD million) )
+          (-NONE- *U*) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ=1 (NNP IBM) (POS 's) )
+      (NP=2 
+        (QP ($ $) (CD 68.8) (CD million) )
+        (-NONE- *U*) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Boeing) (NNP Co.) )
+    (VP (VBD received) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 46.7) (CD million) )
+            (-NONE- *U*) )
+          (NNP Air) (NNP Force) (NN contract) )
+        (PP (IN for) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG developing) 
+              (NP 
+                (NP (NN cable) (NNS systems) )
+                (PP (IN for) 
+                  (NP (DT the) (NNP Minuteman) (NNP Missile) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP General) (NNP Dynamics) (NNP Corp.) )
+    (VP (VBD received) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 29) (CD million) )
+            (-NONE- *U*) )
+          (NNP Air) (NNP Force) (NN contract) )
+        (PP (IN for) 
+          (NP (NN electronic-warfare) (NN training) (NNS sets) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Grumman) (NNP Corp.) )
+    (VP (VBD received) 
+      (NP 
+        (NP (DT an) 
+          (ADJP 
+            (QP ($ $) (CD 18.1) (CD million) )
+            (-NONE- *U*) )
+          (NNP Navy) (NN contract) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB upgrade) 
+                (NP (NN aircraft) (NNS electronics) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Avco) (NNP Corp.) )
+    (VP (VBD received) 
+      (NP 
+        (NP (DT an) 
+          (ADJP 
+            (QP ($ $) (CD 11.8) (CD million) )
+            (-NONE- *U*) )
+          (NNP Army) (NN contract) )
+        (PP (IN for) 
+          (NP (NN helicopter) (NNS engines) ))))
+    (. .) ))

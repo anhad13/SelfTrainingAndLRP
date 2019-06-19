@@ -1,0 +1,134 @@
+
+( (S 
+    (NP-SBJ (NNP Broad) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD doubled) 
+            (NP (PRP$ its) (JJ regular) (JJ quarterly) (NN dividend) )
+            (PP-DIR 
+              (PP 
+                (PP (TO to) 
+                  (NP 
+                    (NP (CD five) (NNS cents) )
+                    (NP-ADV (DT a) (NN share) )))
+                (PP (IN from) 
+                  (NP 
+                    (NP (CD 2.5) (NNS cents) )
+                    (PP-LOC (IN on) 
+                      (NP (JJ common) )))))
+              (, ,) 
+              (CC and)
+              (PP (TO to) 
+                (NP 
+                  (NP 
+                    (NP (CD 4.5) (NNS cents) )
+                    (NP-ADV (DT a) (NN share) ))
+                  (NP 
+                    (NP (CD 2.25) (NNS cents) )
+                    (PP (IN on) 
+                      (NP (NNP Class) (NNP B) (NN stock) )))
+                  (, ,) 
+                  (ADJP (JJ payable) 
+                    (NP-TMP (NNP Nov.) (CD 10) )
+                    (PP (TO to) 
+                      (NP 
+                        (NP (NNS holders) )
+                        (PP (IN of) 
+                          (NP (NN record) ))
+                        (NP-TMP (NNP Nov.) (CD 6) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ financial) (NNS services) (NN company) )
+    (VP (VBD emerged) 
+      (PP-DIR (IN from) 
+        (NP 
+          (NP (DT the) (NN restructuring) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Kaufman) (CC &) (NNP Broad) 
+                (, ,)
+                (NNP Inc.) )
+              (, ,) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP 
+                    (VP (VBD spun) 
+                      (PRT (RP off) )
+                      (NP (PRP$ its) (JJ home-building) (NN subsidiary) )
+                      (PP-CLR (IN into) 
+                        (NP (NNP Kaufman) (CC &) (NNP Broad) (NNP Home) (NNP Corp.) ))
+                      (NP-TMP (RBR earlier) (DT this) (NN year) ))
+                    (CC and) 
+                    (VP (VBD changed) 
+                      (NP (PRP$ its) (NN name) )
+                      (PP-CLR (TO to) 
+                        (NP (NNP Broad) (NNP Inc) )))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP 
+        (NP (DT the) (JJ 10-month) (JJ fiscal) (NN year) )
+        (VP (VBD ended) 
+          (NP-TMP (NNP Sept.) (CD 30) ))))
+    (, ,) 
+    (NP-SBJ (NNP Chairman) (NNP Eli) (NNP Broad) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD expected) 
+            (S 
+              (NP-SBJ (NNS earnings) (NNS results) )
+              (VP (TO to) 
+                (VP (JJ approximate) 
+                  (NP 
+                    (NP 
+                      (NP (NNS analysts) (POS ') )
+                      (NNS estimates) )
+                    (, ,) 
+                    (SBAR 
+                      (WHNP-1 (WDT which) )
+                      (S 
+                        (NP-SBJ (DT the) (NN company) )
+                        (VP (VBD said) 
+                          (SBAR (-NONE- 0) 
+                            (S 
+                              (NP-SBJ-2 (-NONE- *T*-1) )
+                              (VP (VBP have) 
+                                (VP (VBN been) 
+                                  (VP (VBN revised) 
+                                    (NP (-NONE- *-2) )
+                                    (ADVP-CLR (RB upward) )
+                                    (PP-DIR (TO to) 
+                                      (NP 
+                                        (NP (CD 80) (NNS cents) )
+                                        (NP-ADV (DT a) (NN share) )))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT This) )
+    (VP (MD would) 
+      (VP (VB compare) 
+        (PP-CLR (IN with) 
+          (NP 
+            (NP (DT an) (VBN estimated) (NN loss) )
+            (PP (IN of) 
+              (NP 
+                (NP (CD 3) (NNS cents) )
+                (NP-ADV (DT a) (NN share) )))
+            (PP (IN for) 
+              (NP 
+                (NP 
+                  (NP (DT the) (JJ comparable) (CD 10) (NNS months) )
+                  (NP-TMP (JJ last) (NN year) ))
+                (, ,) 
+                (SBAR 
+                  (WHNP-1 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBD included) 
+                      (NP (NN restructuring) (NNS costs) ))))))))))
+    (. .) ))

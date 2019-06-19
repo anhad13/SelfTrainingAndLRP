@@ -1,0 +1,363 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Japan) (POS 's) )
+      (NNP Big) (NNP Four) (NNS securities) (NNS firms) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (JJ first-half) (VBN unconsolidated) (NNS results) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD mirrored) 
+              (NP 
+                (NP (JJR softer) (NN performance) )
+                (PP (IN as) 
+                  (NP 
+                    (NP (DT a) (NN result) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (JJR slower) (NN turnover) )
+                        (PP-LOC (IN on) 
+                          (NP (DT the) (NNP Tokyo) (NNP Stock) (NNP Exchange) ))
+                        (PP-TMP (IN during) 
+                          (NP (NNP July) 
+                            (CC and)
+                            (NNP August) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Figures) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) (NN period) )
+          (VP (VBD ended) 
+            (NP-TMP (NNP Sept.) (CD 30) ))))
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) (CD four) (JJS largest) (NN brokerage) (NNS firms) )
+          (: --) 
+          (NP 
+            (NP (NNP Nomura) (NNPS Securities) (NNP Co.) )
+            (, ,) 
+            (NP (NNP Daiwa) (NNPS Securities) (NNP Co.) )
+            (, ,) 
+            (NP (NNP Yamaichi) (NNPS Securities) (NNP Co.) )
+            (CC and) 
+            (NP (NNP Nikko) (NNPS Securities) ))
+          (: --) )))
+    (ADVP (RB also) )
+    (VP (VBD reflected) 
+      (NP 
+        (NP (DT a) (NN changeover) )
+        (PP (TO to) 
+          (NP 
+            (NP 
+              (NP (DT a) (JJ fiscal) (NN year) )
+              (VP (VBG ending) 
+                (NP-TMP (NNP March) (CD 31) )))
+            (, ,) 
+            (VP (VBG replacing) 
+              (NP 
+                (NP (DT the) (JJ 12-month) (NN term) )
+                (VP 
+                  (ADVP-TMP (RB formerly) )
+                  (VBG finishing) 
+                  (NP-TMP (NNP Sept.) (CD 30) ))))))))
+    (. .) ))
+( (S-1 
+    (PP (IN As) 
+      (NP (DT a) (NN result) ))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (NN brokerage) (NN house) (NNS officials) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (NP-SBJ 
+      (NP (JJ appropriate) (NNS comparisons) )
+      (PP (IN from) 
+        (NP 
+          (NP (DT the) (JJ same) (NN period) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (VP (VBD were) 
+      (ADJP-PRD (JJ unavailable) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (VBG Operating) (NN profit) )
+      (, ,) 
+      (NP (NN pretax) (NN profit) )
+      (CC and) 
+      (NP (JJ net) (NN income) (NNS results) ))
+    (, ,) 
+    (ADVP (RB however) )
+    (, ,) 
+    (VP (VBD were) 
+      (VP (VBN provided) 
+        (NP (-NONE- *-1) )
+        (PP (IN for) 
+          (NP (DT the) 
+            (ADJP (RB immediately) (VBG preceding) )
+            (JJ six-month) (NN period) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS statistics) )
+    (VP (VBP follow) 
+      (NP 
+        (NP (DT a) (JJ year-on-year) (NN rebound) )
+        (PP (IN in) 
+          (NP 
+            (NP 
+              (ADJP (VBN consolidated) 
+                (CC and)
+                (VBN unconsolidated) )
+              (NNS results) )
+            (PP-TMP (IN in) 
+              (NP 
+                (NP (DT the) (JJ full) (JJ fiscal) (NN year) )
+                (VP (VBD ended) 
+                  (PP-TMP (IN in) 
+                    (NP (NNP March) (CD 1989) ))))))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG recovering) 
+          (PP-CLR (IN from) 
+            (NP 
+              (NP (JJ dismal) (NNS results) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ prior) (JJ fiscal) (NN year) ))
+              (PP (IN as) 
+                (NP 
+                  (NP (DT a) (NN result) )
+                  (PP (IN of) 
+                    (NP (DT the) 
+                      (NAC-LOC (NNP October) (CD 1987) )
+                      (NN stock) (NN market) (NN crash) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Nomura) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN pretax) (NNS profits) )
+          (VP (VBD inched) 
+            (PRT (RP up) )
+            (NP-EXT (CD 0.9) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP (CD 248.91) (CD billion) )
+                  (NN yen) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP 
+                    (QP ($ US$) (CD 1.75) (CD billion) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) )))
+            (PP-DIR (IN from) 
+              (NP 
+                (QP (CD 246.60) (CD billion) )
+                (NN yen) ))
+            (PP-TMP (IN in) 
+              (NP 
+                (NP (DT the) (CD six) (NNS months) )
+                (VP (VBD ended) 
+                  (NP-TMP (NNP March) (CD 31) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Total) (VBG operating) (NN profit) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 3.1) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 486.1) (CD billion) )
+          (NN yen) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (CD 501.61) (CD billion) )
+          (NN yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Net) (NN income) )
+    (, ,) 
+    (ADVP (RB however) )
+    (, ,) 
+    (VP (VBD rose) 
+      (NP-EXT (CD 3.7) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 107.87) (CD billion) )
+          (NN yen) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (CD 103.98) (CD billion) )
+          (NN yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Per-share) (NN net) )
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP (CD 55.10) (NN yen) ))
+      (PP-DIR (IN from) 
+        (NP (CD 54.51) (NN yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Daiwa) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN pretax) (NNS profits) )
+          (VP (VBD surged) 
+            (NP-EXT (CD 9.6) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (QP (CD 171.04) (CD billion) )
+                (NN yen) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (QP (CD 156.12) (CD billion) )
+                (NN yen) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (VBG preceding) (JJ six-month) (NN term) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (VBG Operating) (NN profit) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 5.5) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 332.38) (CD billion) )
+          (NN yen) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (CD 315.12) (CD billion) )
+          (NN yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Net) (NN income) )
+    (VP (VBD jumped) 
+      (NP-EXT (CD 21) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 79.03) (CD billion) )
+          (NN yen) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (CD 65.53) (CD billion) )
+          (NN yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Per-share) (NN net) )
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP (CD 62.04) (NN yen) ))
+      (PP-DIR (IN from) 
+        (NP (CD 51.50) (NN yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Yamaichi) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN pretax) (NN profit) )
+          (VP (VBD increased) 
+            (NP-EXT (CD 8.9) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (QP (CD 117.94) (CD billion) )
+                (NN yen) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (QP (CD 108.28) (CD billion) )
+                (NN yen) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (VBG Operating) (NN profit) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 5.3) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 279.75) (CD billion) )
+          (NN yen) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (CD 265.79) (CD billion) )
+          (NN yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Net) (NN income) )
+    (VP (VBD surged) 
+      (NP-EXT (CD 21) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 55.59) (CD billion) )
+          (NN yen) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (CD 46.02) (CD billion) )
+          (NN yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Per-share) (NN net) )
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP (CD 47.46) (NN yen) ))
+      (PP-DIR (IN from) 
+        (NP (CD 39.31) (NN yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Nikko) (POS 's) )
+      (NN pretax) (NN profit) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 1.6) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 130.25) (CD billion) )
+          (NN yen) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (CD 128.19) (CD billion) )
+          (NN yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (VBG Operating) (NN profit) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 4) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 293.29) (CD billion) )
+          (NN yen) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (CD 282.08) (CD billion) )
+          (NN yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Net) (NN income) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 23) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 63.52) (CD billion) )
+          (NN yen) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (CD 51.65) (CD billion) )
+          (NN yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Per-share) (NN net) )
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP (CD 44.08) (NN yen) ))
+      (PP-DIR (IN from) 
+        (NP (CD 36.13) (NN yen) )))
+    (. .) ))

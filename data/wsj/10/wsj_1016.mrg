@@ -1,0 +1,92 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (JJ French) (NNS chemicals) (NN group) )
+      (, ,) 
+      (NP (NNP Orkem) (NNP S.A.) )
+      (, ,) )
+    (VP (VBD said) 
+      (NP-TMP (NNP Wednesday) )
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) 
+            (VP (VBN made) 
+              (NP 
+                (NP (DT a) (NN bid) )
+                (PP (IN for) 
+                  (NP 
+                    (NP (NN control) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP Coates) (NNPS Brothers) (NNP PLC) )
+                        (, ,) 
+                        (NP 
+                          (NP (DT a) (JJ British) (NN manufacturer) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (NNS inks) )
+                              (CC and) 
+                              (NP (NN polyester) (NNS resins) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ State-controlled) (NNP Orkem) )
+    (ADVP (RB already) )
+    (VP (VBZ owns) 
+      (NP 
+        (NP (CD 40.6) (NN %) )
+        (PP (IN of) 
+          (NP (NNP Coates) ))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (NN remainder) )
+      (VP (VBZ is) 
+        (VP (VBN held) 
+          (NP (-NONE- *-1) )
+          (PP 
+            (PP (IN by) 
+              (NP-LGS (DT the) (NN public) ))
+            (CC and) 
+            (PP (IN by) 
+              (NP-LGS (NN family) (NNS interests) ))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT a) (NN spokeswoman) )
+      (PP (IN for) 
+        (NP (DT the) (JJ French) (NN group) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNP Orkem) )
+    (VP (VBD declined) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB give) 
+            (NP 
+              (NP (NNS details) )
+              (PP (IN of) 
+                (NP (PRP$ its) (NN offer) ))))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (VBG saying) 
+          (ADVP (RB only) )
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ-1 (DT the) (NN bid) )
+              (VP (MD will) 
+                (VP (VB be) 
+                  (VP (VBN submitted) 
+                    (NP (-NONE- *-1) )
+                    (PP-CLR (IN for) 
+                      (NP (NN approval) ))
+                    (PP (IN by) 
+                      (NP-LGS 
+                        (NP (DT the) (NN board) )
+                        (PP (IN of) 
+                          (NP (DT the) (JJ British) (NN company) ))))))))))))
+    (. .) ))

@@ -1,0 +1,201 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Hotel) (NNPS Investors) (NNP Trust) )
+      (CC and) 
+      (NP 
+        (NP (PRP$ its) (NN affiliate) )
+        (, ,) 
+        (NP (NNP Hotel) (NNPS Investors) (NNP Corp.) )
+        (, ,) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (DT the) (NNS companies) )
+          (VP (VBP plan) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB sell) 
+                  (NP 
+                    (NP (DT all) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (NNS hotels) )
+                        (SBAR 
+                          (WHNP-1 (-NONE- 0) )
+                          (S 
+                            (NP-SBJ (DT the) (NNS companies) )
+                            (VP (VBP own) 
+                              (CC and)
+                              (VBP operate) 
+                              (NP (-NONE- *T*-1) ))))))
+                    (, ,) 
+                    (PP (IN except) 
+                      (PP (IN for) 
+                        (NP 
+                          (NP (CD two) (NNS hotel-casinos) )
+                          (PP-LOC (IN in) 
+                            (NP 
+                              (NP (NNP Las) (NNP Vegas) )
+                              (, ,) 
+                              (NP (NNP Nev) ))))))))))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) 
+        (NX 
+          (NX (NNS hotels) )
+          (CC and) 
+          (NX (NN management) (NNS interests) )))
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN sold) 
+            (NP (-NONE- *-1) )
+            (PP-LOC (IN at) 
+              (NP (DT an) (NN auction) ))))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (NP-SBJ 
+      (NP (NNP John) (NNP Rothman) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP 
+            (NP (NN president) )
+            (CC and) 
+            (NP (NN chief) (JJ executive) (NN officer) ))
+          (PP (IN of) 
+            (NP (DT the) (NN trust) )))
+        (CC and) 
+        (NP 
+          (NP (DT a) (NN director) )
+          (PP (IN of) 
+            (NP (DT the) (NN corporation) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NN Value) )
+      (PP (IN of) 
+        (NP (DT the) 
+          (NX 
+            (NX (NNS properties) )
+            (CC and) 
+            (NX (NN management) (NNS interests) )))))
+    (VP (VBD was) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (DT all) ))
+    (, ,) 
+    (NP-SBJ-1 (DT the) 
+      (ADJP (NNP Los) (JJ Angeles-based) )
+      (NN trust) )
+    (VP (VBZ plans) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB sell) 
+            (NP 
+              (NP (PRP$ its) (NNS interests) )
+              (PP (IN in) 
+                (NP (CD 36) (NNS hotels) ))))))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ (DT the) (NN corporation) )
+          (VP (MD will) 
+            (VP (VB sell) 
+              (NP 
+                (NP (PRP$ its) (NN management) (NNS interests) )
+                (PP (IN in) 
+                  (NP 
+                    (NP (CD 32) )
+                    (PP (IN of) 
+                      (NP (DT those) (NNS properties) ))))))))))
+    (. .) ))
+( (SINV 
+    (VP-TPC-2 (VBN Excluded) 
+      (NP (-NONE- *-1) )
+      (PP-CLR (IN from) 
+        (NP (DT the) (NN sale) )))
+    (VP (VBP are) 
+      (VP (-NONE- *T*-2) ))
+    (NP-SBJ-1 
+      (NP (DT the) (NNS interests) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NN trust) )
+          (CC and) 
+          (NP (DT the) (NN corporation) )))
+      (PP (IN in) 
+        (NP (CD two) (NNP Las) (NNP Vegas) (NNS hotel-casinos) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN After) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP 
+          (VP (VBG completing) 
+            (NP (DT the) (NN sale) ))
+          (CC and) 
+          (VP (VBG paying) 
+            (NP (NNS debts) )))))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NN trust) 
+      (CC and)
+      (NN corporation) )
+    (VP (MD will) 
+      (VP (VB consider) 
+        (NP 
+          (NP (DT a) (NN number) )
+          (PP (IN of) 
+            (NP (NNS options) ))
+          (PP (VBG including) 
+            (NP 
+              (NP (DT a) (NN stock) (NN repurchase) )
+              (, ,) 
+              (NP 
+                (NP (NN payment) )
+                (PP (IN of) 
+                  (NP (JJ special) (NN dividend) )))
+              (CC or) 
+              (NP 
+                (NP (NN investment) )
+                (PP (IN in) 
+                  (NP (JJR more) (NN gaming) (NNS properties) ))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NNS companies) )
+      (VP (MD will) 
+        (VP (VB retain) 
+          (NP 
+            (NP (PRP$ their) (JJ current) (JJ regular) (JJ quarterly) (NN dividend) )
+            (PP (IN of) 
+              (NP (CD 25) (NNS cents) )))
+          (PP-TMP (IN during) 
+            (NP (DT the) (NN sale) (NN process) )))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Rothman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (DT the) (JJ first) (CD six) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN trust) 
+      (CC and)
+      (NN corporation) )
+    (VP (VBD had) 
+      (NP 
+        (NP (DT a) (JJ net) (NN loss) )
+        (PP (IN of) 
+          (NP ($ $) (CD 244,000) (-NONE- *U*) ))))
+    (. .) ))

@@ -1,0 +1,119 @@
+
+( (S 
+    (NP-SBJ (NNP Comair) (NNPS Holdings) (NNP Inc.) )
+    (VP (VBD said) 
+      (PP-LOC (IN in) 
+        (NP (NNP Cincinnati) ))
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD bought) 
+            (NP 
+              (NP (NNP Airline) (NNP Aviation) (NNP Academy) )
+              (, ,) 
+              (NP 
+                (NP (DT a) (NN pilot) (NN training) (NN school) )
+                (VP (VBN based) 
+                  (NP (-NONE- *) )
+                  (PP-LOC-CLR (IN at) 
+                    (NP 
+                      (NP (NNP Sanford) (NNP Regional) (NNP Airport) )
+                      (PP-LOC (IN near) 
+                        (NP 
+                          (NP (NNP Orlando) )
+                          (, ,) 
+                          (NP (NNP Fla) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Comair) )
+    (VP 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD paid) 
+              (NP (NN cash) )))))
+      (CC but) 
+      (VP (VBD declined) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB disclose) 
+              (NP (DT the) (NN price) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Comair) (NNPS Holdings) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN parent) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Comair) (NNP Inc.) )
+            (, ,) 
+            (NP (DT a) (JJ regional) (NN air) (NN carrier) )))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (NNP Airline) (NNP Aviation) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ has) 
+              (NP 
+                (NP (JJ annual) (NN revenue) )
+                (PP (IN of) 
+                  (NP 
+                    (QP ($ $) (CD 5) (CD million) (TO to) ($ $) (CD 6) (CD million) )
+                    (-NONE- *U*) ))))))
+        (, ,) )
+      (VP (VBZ has) 
+        (NP (JJ great) (NN growth) (NN potential) )
+        (PP-PRP (IN because) (IN of) 
+          (NP 
+            (NP (DT the) (JJ large) (NN number) )
+            (PP (IN of) 
+              (NP (NNP U.S.) (NNS pilots) ))
+            (VP (VBG nearing) 
+              (NP (NN retirement) (NN age) ))))))
+    (, ,) 
+    (NP-SBJ (NNP Comair) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ-2 (DT The) (NN unit) )
+      (VP 
+        (VP (MD will) 
+          (VP (VB be) 
+            (VP (VBN renamed) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (NP-PRD (NNP Comair) (NNP Aviation) (NNP Academy) )))))
+        (CC and) 
+        (VP (MD will) 
+          (VP (VB continue) 
+            (S 
+              (NP-SBJ-1 (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (VP (VBN headed) 
+                    (NP (-NONE- *-1) )
+                    (PP (IN by) 
+                      (NP-LGS 
+                        (NP (NNP Scott) (NNP Williams) )
+                        (, ,) 
+                        (NP 
+                          (NP (DT a) (NN son) )
+                          (PP (IN of) 
+                            (NP (PRP$ its) (NN founder) )))))))))))))
+    (, ,) 
+    (NP-SBJ (NNP Comair) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))

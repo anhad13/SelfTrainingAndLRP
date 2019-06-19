@@ -1,0 +1,439 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Banco) (NNP Popular) (IN de) (NNP Puerto) (NNP Rico) )
+      (CC and) 
+      (NP (NNP BanPonce) (NNP Corp.) ))
+    (: --) 
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB merge) 
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT a) (NN transaction) )
+                (VP (VBN valued) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN at) 
+                    (NP 
+                      (QP ($ $) (CD 324) (CD million) )
+                      (-NONE- *U*) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NN agreement) ))
+    (, ,) 
+    (NP-SBJ-1 (NNP BanPonce) (NNS stockholders) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (ADJP-PRD (JJ able) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB exchange) 
+                (NP 
+                  (NP (DT each) )
+                  (PP (IN of) 
+                    (NP (PRP$ their) (NNS shares) )))
+                (PP-CLR (IN for) 
+                  (NP (CC either) 
+                    (NP 
+                      (NP (NNS shares) )
+                      (PP (IN in) 
+                        (NP (DT the) (JJ new) (NN entity) )))
+                    (CC or) 
+                    (NP (NN cash) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT each) (NN case) ))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NN exchange) )
+    (VP (VBZ is) 
+      (VP (VBN valued) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN at) 
+          (NP 
+            (NP ($ $) (CD 56.25) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (CD two) (NNS companies) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ-1 (DT both) )
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN in) 
+          (NP (NNP San) (NNP Juan) ))))
+    (, ,) 
+    (VP (MD will) 
+      (VP (VB form) 
+        (NP 
+          (NP (DT a) (NN bank) (VBG holding) (NN company) )
+          (PP (IN with) 
+            (NP 
+              (NP (NNS assets) )
+              (PP (IN of) 
+                (NP 
+                  (QP (RB just) (IN over) ($ $) (CD 9) (CD billion) )
+                  (-NONE- *U*) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (VBG holding) (NN company) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN called) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (NP-PRD (NNP BanPonce) (NNP Corp) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ primary) (NN subsidiary) )
+    (VP 
+      (VP (MD will) 
+        (VP (VB be) 
+          (NP-PRD 
+            (NP (DT the) (VBN combined) (NN banking) (NNS operations) )
+            (PP (IN of) 
+              (NP (DT the) (CD two) (NNS companies) )))))
+      (CC and) 
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN known) 
+            (NP (-NONE- *-1) )
+            (PP-CLR (IN as) 
+              (NP (NNP Banco) (NNP Popular) (IN de) (NNP Puerto) (NNP Rico) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Rafael) (NNP Carrion) (NNP Jr.) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (PP (IN of) 
+          (NP (NNP Banco) (NNP Popular) )))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (NP-PRD 
+          (NP (DT the) (NN chairman) )
+          (PP (IN of) 
+            (NP (DT the) (VBG holding) (NN company) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Alberto) (NNP M.) (NNP Paracchini) )
+      (, ,) 
+      (RRC 
+        (ADVP-TMP (RB currently) )
+        (NP 
+          (NP (NN chairman) )
+          (PP (IN of) 
+            (NP (NNP BanPonce) ))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB serve) 
+        (PP-CLR (IN as) 
+          (NP 
+            (NP 
+              (NP (NN president) )
+              (PP (IN of) 
+                (NP (DT the) (NN bank) (VBG holding) (NN company) )))
+            (CC and) 
+            (NP 
+              (NP (NN chairman) )
+              (PP (IN of) 
+                (NP (DT the) (NN subsidiary) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Banco) (NNP Popular) )
+    (ADVP (RB originally) )
+    (VP (VBD proposed) 
+      (NP (DT the) (NN merger) )
+      (PP-TMP (IN in) 
+        (NP (NNP July) ))
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT a) (NN cash) 
+            (CC and)
+            (NN stock) (NN transaction) )
+          (VP (VBN valued) 
+            (NP (-NONE- *) )
+            (PP-CLR (IN at) 
+              (NP 
+                (NP 
+                  (NP ($ $) (CD 50) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) (CC or) 
+                (NP 
+                  (QP (RB about) ($ $) (CD 293) (CD million) )
+                  (-NONE- *U*) )))))))
+    (. .) ))
+( (S-3 
+    (NP-SBJ-1 (NNP BanPonce) )
+    (VP 
+      (VP (VBD reacted) 
+        (ADVP-MNR (RB cooly) )
+        (PP-TMP (IN at) 
+          (ADJP (JJ first) )))
+      (, ,) (CC but) 
+      (VP (VBD appeared) 
+        (S 
+          (NP-SBJ-2 (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (VP (VBN won) 
+                (PRT (RP over) )
+                (NP (-NONE- *-2) )
+                (PRN 
+                  (, ,)
+                  (S 
+                    (NP-SBJ (NNS analysts) )
+                    (VP (VBD said) 
+                      (SBAR (-NONE- 0) 
+                        (S (-NONE- *T*-3) ))))
+                  (, ,) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (NNP Banco) (NNP Popular) (POS 's) )
+                    (NNS assurances) 
+                    (SBAR (IN that) 
+                      (S 
+                        (NP-SBJ (PRP it) )
+                        (VP (VBD wanted) 
+                          (NP (RB only) (DT a) (JJ friendly) (NN transaction) ))))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ-1 (NNP Banco) (NNP Popular) )
+      (ADVP (RB just) )
+      (VP (VBD kept) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG waiting) ))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP Edward) (NNP Thompson) )
+      (, ,) 
+      (NP 
+        (NP (DT a) 
+          (NX 
+            (NX (NN vice) (NN president) )
+            (CC and) 
+            (NX (NN analyst) )))
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (NNP Thomson) (NNP BankWatch) (NNP Inc.) )
+            (PP-LOC (IN in) 
+              (NP (NNP New) (NNP York) ))))))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (PRP They) )
+    (VP (VBD got) 
+      (NP 
+        (NP (DT a) (NN transaction) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ 's) 
+              (ADJP-PRD (JJ good) 
+                (PP (IN for) 
+                  (NP (DT both) (NNS companies) ))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ-1 (DT The) (CD two) (NNS banks) )
+    (VP (VBP appear) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB be) 
+            (NP-PRD (DT a) (JJ good) (NN fit) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP BanPonce) )
+    (VP (VBZ caters) 
+      (PP-CLR (TO to) 
+        (NP (DT a) 
+          (ADJP (RBR more) (JJ affluent) )
+          (NN customer) ))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ (NNP Banco) (NNP Popular) )
+          (VP (VBZ has) 
+            (ADVP-TMP (RB always) )
+            (VP (VBD had) 
+              (NP 
+                (NP (DT a) (JJ large) (NN presence) )
+                (PP (IN among) 
+                  (NP 
+                    (ADJP (JJ middle-income) 
+                      (CC and)
+                      (JJ lower-income) )
+                    (NNS markets) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN merger) )
+    (VP (MD should) 
+      (ADVP (RB also) )
+      (VP (VB allow) 
+        (S 
+          (NP-SBJ-1 (DT the) (NNS companies) )
+          (VP (TO to) 
+            (VP (VB reduce) 
+              (NP (NNS costs) )
+              (PP-MNR (IN by) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (VBG combining) 
+                    (NP 
+                      (NP (NNS operations) )
+                      (PP-LOC (IN in) 
+                        (NP 
+                          (NP (JJ many) (NNS locations) )
+                          (PP-LOC (IN in) 
+                            (NP (NNP Puerto) (NNP Rico) )))))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP They) )
+      (VP (VBP 're) 
+        (ADVP-TMP (RB often) )
+        (PP-LOC-PRD 
+          (ADVP (JJ right) )
+          (PP (IN across) 
+            (NP (DT the) (NN street) ))
+          (PP (IN from) 
+            (NP (CD one) (DT another) )))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Thompson) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Richard) (NNP Carrion) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ is) 
+            (ADVP-TMP (RB currently) )
+            (NP-PRD 
+              (NP 
+                (NP (NN president) )
+                (CC and) 
+                (NP (JJ chief) (JJ executive) (NN officer) ))
+              (PP (IN of) 
+                (NP (NNP Banco) (NNP Popular) ))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN merger) )
+          (VP (MD will) 
+            (VP (VB result) 
+              (PP-CLR (IN in) 
+                (NP (DT a) (`` ``) 
+                  (ADJP (JJR larger) 
+                    (CC and)
+                    (JJR stronger) )
+                  (ADJP (RB locally) (VBN based) )
+                  (NN bank) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Carrion) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (MD will) 
+            (ADVP-TMP (RB now) )
+            (VP (VB serve) 
+              (PP-CLR (IN as) 
+                (NP 
+                  (NP 
+                    (NP (NN president) )
+                    (CC and) 
+                    (NP (JJ chief) (JJ executive) (NN officer) ))
+                  (PP (IN of) 
+                    (NP (DT the) (NN subsidiary) (NN bank) ))))))))
+      (, ,) )
+    (VP (VBD added) (: :) (`` ``) 
+      (S 
+        (NP-SBJ-2 (PRP We) )
+        (VP (MD 'll) 
+          (VP (VB be) 
+            (ADJP-PRD (JJ able) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP 
+                    (ADVP-MNR (RBR better) )
+                    (VB compete) 
+                    (PP-CLR (IN with) 
+                      (NP (JJ large) (JJ foreign) (NNS banks) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ makes) 
+      (NP (NN sense) )
+      (PP (IN from) 
+        (NP (DT a) (JJ strategic) (NN standpoint) )))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT The) 
+      (ADJP (RB newly) (VBN merged) )
+      (NN company) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (NP 
+          (NP 
+            (NP (CD 165) (NNS branches) )
+            (PP-LOC (IN in) 
+              (NP (NNP Puerto) (NNP Rico) )))
+          (CC and) 
+          (NP 
+            (NP (CD 27) (NNS branches) )
+            (ADVP-LOC (JJ outside) 
+              (PP (IN of) 
+                (NP (DT the) (NN island) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS banks) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP do) (RB n't) 
+            (VP (VB expect) 
+              (S 
+                (NP-SBJ (DT the) (NN merger) )
+                (VP (TO to) 
+                  (VP (VB face) 
+                    (NP (DT any) (JJ regulatory) (NNS hurdles) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Carrion) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN merger) )
+          (VP (MD should) 
+            (VP (VB be) 
+              (VP (VBN completed) 
+                (NP (-NONE- *-1) )
+                (PP-TMP (IN in) 
+                  (NP 
+                    (QP (CD six) (TO to) (CD nine) )
+                    (NNS months) ))))))))
+    (. .) ))

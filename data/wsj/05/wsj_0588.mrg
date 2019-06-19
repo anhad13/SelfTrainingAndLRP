@@ -1,0 +1,102 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) 
+          (ADJP (JJ West) (JJ German) )
+          (NN machinery) 
+          (CC and)
+          (NN plant) (NN equipment) (NN industry) (POS 's) )
+        (NNS orders) )
+      (VP (VBD rose) 
+        (NP-EXT (DT an) (JJ inflation-adjusted) (CD 1) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))
+        (PP-DIR (IN from) 
+          (NP-TMP (DT a) (NN year) (RBR earlier) ))
+        (PP (IN despite) 
+          (NP 
+            (NP (DT a) (JJ sharp) (NN drop) )
+            (PP-LOC (IN in) 
+              (NP (JJ foreign) (NNS orders) ))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP German) (NNP Association) )
+      (PP (IN of) 
+        (NP (NNP Machinery) (NNPS Makers) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S-1 
+    (PP-TMP (IN Before) 
+      (NP 
+        (NP (NN adjustment) )
+        (PP (IN for) 
+          (NP (NN inflation) ))))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (DT the) (NN association) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (NP-SBJ (NNS orders) )
+    (VP (VBD were) 
+      (ADVP-PRD (RB up) 
+        (NP (DT a) (JJ nominal) (CD 5) (NN %) )))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (JJ domestic) (NNS orders) )
+        (VP (VBD climbed) 
+          (NP-EXT 
+            (NP (DT an) (VBN adjusted) (CD 8) (NN %) )
+            (CC and) 
+            (NP (DT a) (JJ nominal) (CD 11) (NN %) ))
+          (PP-TMP (IN in) 
+            (NP (NNP September) )))))
+    (, ,) 
+    (NP-SBJ (JJ foreign) (NNS orders) )
+    (VP 
+      (VP (VBD declined) 
+        (NP-EXT-1 (CD 4) (NN %) )
+        (PP-TMP-2 (IN after) 
+          (NP (NN inflation) )))
+      (CC and) 
+      (VP 
+        (NP-EXT=1 (CD 1) (NN %) )
+        (PP=2 (IN on) 
+          (NP (DT a) (JJ nominal) (NN basis) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (JJ third) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (NNS orders) )
+    (VP (VBD rose) 
+      (NP-EXT 
+        (NP (DT a) (JJ real) (CD 5) (NN %) )
+        (CC and) 
+        (NP (DT a) (JJ nominal) (CD 9) (NN %) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Domestic) (NNS orders) )
+    (VP (VBD were) 
+      (ADVP-PRD (RB up) 
+        (NP 
+          (NP (DT a) (JJ real) (CD 11) (NN %) )
+          (CC and) 
+          (NP (DT a) (JJ nominal) (CD 14) (NN %) )))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ (JJ foreign) (NNS orders) )
+          (VP (VBD rose) 
+            (NP-EXT 
+              (NP (DT a) (JJ real) (CD 1) (NN %) )
+              (CC and) 
+              (NP (DT a) (JJ nominal) (CD 5) (NN %) ))))))
+    (. .) ))

@@ -1,0 +1,61 @@
+
+( (S 
+    (NP-SBJ (NNP MCI) (NNPS Communications) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD received) 
+            (NP (DT a) 
+              (ADJP 
+                (QP ($ $) (CD 12) (CD million) )
+                (-NONE- *U*) )
+              (NN contract) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB provide) 
+                    (NP (JJ virtual) (NN network) (NNS services) )
+                    (PP-CLR (TO to) 
+                      (NP 
+                        (NP 
+                          (NP (NNP Woolworth) (NNP Corp.) (POS 's) )
+                          (CD 5,600) (JJ corporate) 
+                          (CC and)
+                          (JJ retail) (NNS sites) )
+                        (PP (IN in) 
+                          (NP (DT the) ))))))))))))))
+( (S 
+    (NP-SBJ (DT The) (NN contract) )
+    (ADVP (RB also) )
+    (VP (VBZ provides) 
+      (PP-CLR (IN for) 
+        (NP (VBN advanced) (NN billing) 
+          (CC and)
+          (NN network) (NN management) (NNS services) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Woolworth) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB expand) 
+                  (NP 
+                    (NP (NN usage) )
+                    (PP (IN of) 
+                      (NP (DT the) (NNP MCI) (NNS services) )))
+                  (SBAR-ADV (IN as) 
+                    (S 
+                      (NP-SBJ (PRP it) )
+                      (VP (VBZ adds) 
+                        (NP 
+                          (QP (IN about) (CD 6,000) )
+                          (NN business) (NNS locations) )
+                        (PP-TMP (IN over) 
+                          (NP (DT the) (JJ next) (JJ few) (NNS years) ))))))))))))
+    (. .) ))

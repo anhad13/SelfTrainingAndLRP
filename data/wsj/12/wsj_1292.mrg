@@ -1,0 +1,51 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Standard) (CC &) (NNP Poor) (POS 's) )
+      (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD would) 
+            (VP 
+              (VP (VB add) 
+                (NP 
+                  (NP (NNP John) (NNP H.) (NNP Harland) (NNP Co.) )
+                  (, ,) 
+                  (NP (DT an) (NNP Atlanta) (NN check) (NN printer) )
+                  (, ,) )
+                (PP (TO to) 
+                  (NP (PRP$ its) (JJ 500-stock) (NN index) )))
+              (, ,) 
+              (ADJP (JJ effective) 
+                (PP-TMP (IN at) 
+                  (NP 
+                    (NP (DT the) (NN close) )
+                    (PP (IN of) 
+                      (NP (VBG trading) ))
+                    (PP-TMP (IN on) 
+                      (NP (NNP Wednesday) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP American) (NNP Medical) (NNP International) (NNP Inc.) )
+      (, ,) 
+      (NP (DT a) (NNP New) (NNP York) (NN hospital) (NN operator) )
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN deleted) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN from) 
+            (NP (DT the) (NN index) ))
+          (PP-TMP (IN at) 
+            (NP (DT that) (NN time) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP American) (NNP Medical) )
+    (VP (VBZ is) 
+      (VP (VBG being) 
+        (VP (VBN acquired) 
+          (NP (-NONE- *-1) ))))
+    (. .) ))

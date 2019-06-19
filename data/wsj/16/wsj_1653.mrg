@@ -1,0 +1,37 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP James) (NNP F.) (NNP Gero) )
+        (, ,) 
+        (NP 
+          (NP (JJ former) 
+            (NX 
+              (NX (NN chairman) )
+              (CC and) 
+              (NX (JJ chief) (JJ executive) (NN officer) )))
+          (PP (IN of) 
+            (NP (NNP Varo) (NNP Inc.) )))
+        (, ,) )
+      (CC and) 
+      (NP 
+        (NP (NNP Richard) (NNP J.) (NNP Hatchett) (NNP III) )
+        (, ,) 
+        (NP (DT a) (NNP Dallas) (NN investment) (NN banker) )
+        (, ,) ))
+    (VP (VBD were) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NNS directors) )
+            (PP (IN of) 
+              (NP (DT this) (NNS medical-products) (NN concern) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG boosting) 
+            (NP (DT the) (NN board) )
+            (PP-CLR (TO to) 
+              (NP (CD seven) (NNS members) ))))))
+    (. .) ))

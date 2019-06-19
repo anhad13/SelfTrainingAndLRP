@@ -1,0 +1,46 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT THE) (NNP AMERICAN) (NNP CANCER) (NNP SOCIETY) (POS 'S) )
+        (CD 1988) (NNS costs) )
+      (PP (IN of) 
+        (NP 
+          (NP (NN fund) (NN raising) )
+          (CC and) 
+          (NP (NN administration) ))))
+    (VP (VBD were) 
+      (NP-PRD 
+        (NP 
+          (QP ($ $) (CD 72.4) (CD million) )
+          (-NONE- *U*) )
+        (, ,) (CC or) 
+        (NP 
+          (NP (CD 23.2) (NN %) )
+          (PP (IN of) 
+            (NP (PRP$ its) (NN revenue) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN chart) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP 
+            (NP (JJ last) (NNP Friday) (POS 's) )
+            (JJ special) (NN report) )
+          (PP (IN on) 
+            (NP (JJ personal) (NN finance) )))))
+    (VP (VBD contained) 
+      (NP 
+        (NP (DT an) (JJ incorrect) (NN figure) )
+        (VP (VBN supplied) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NNP NonProfit) (NNPS Times) )
+              (, ,) 
+              (NP 
+                (NP (DT a) (JJ monthly) (NN newspaper) )
+                (VP (VBG covering) 
+                  (NP (NNS charities) ))))))))
+    (. .) ))

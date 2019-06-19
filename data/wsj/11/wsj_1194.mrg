@@ -1,0 +1,166 @@
+
+( (S 
+    (NP-SBJ-1 (NNP International) (NNP Business) (NNP Machines) (NNP Corp.) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB acquire) 
+            (NP 
+              (NP (DT a) 
+                (ADJP (CD 15) (NN %) )
+                (NN stake) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (NNP Paxus) (NNP Corp.) )
+                  (, ,) 
+                  (NP (DT an) (JJ Australian) (NN computer-software) 
+                    (CC and)
+                    (NNS information-services) (NN concern) )
+                  (, ,) )))
+            (PP-CLR (IN for) 
+              (NP 
+                (NP 
+                  (QP (CD 20) (CD million) )
+                  (JJ Australian) (NNS dollars) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP 
+                    (QP ($ US$) (CD 17) (CD million) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (NN investment) )
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN made) 
+            (NP (-NONE- *-1) )
+            (PP (IN through) 
+              (NP 
+                (NP (NNP IBM) (NNP Australia) (NNP Ltd.) )
+                (, ,) 
+                (NP 
+                  (NP (DT a) (NN unit) )
+                  (PP (IN of) 
+                    (NP (NNP IBM) )))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (CD two) (NNS companies) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) ))
+      (NP-TMP (NN yesterday) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP IBM) )
+    (VP 
+      (VP (MD can) 
+        (VP (VB raise) 
+          (NP 
+            (NP (PRP$ its) (NN stake) )
+            (PP-LOC (IN in) 
+              (NP (NN Paxus) )))
+          (PP-DIR (TO to) 
+            (NP (CD 20) (NN %) ))
+          (PP-TMP (IN over) 
+            (NP (CD three) (NNS years) ))))
+      (, ,) (CC but) 
+      (VP (VBD agreed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) (RB not) 
+            (VP (VB go) 
+              (PP-DIR (IN beyond) 
+                (NP (CD 20) (NN %) ))
+              (PP-TMP (IN in) 
+                (NP (DT that) (NN time) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Paxus) )
+    (VP (VBD said) 
+      (PP-LOC (IN in) 
+        (NP (DT a) (NN statement) ))
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP 
+            (VP (VBZ has) 
+              (NP 
+                (NP (JJ several) (`` ``) 
+                  (ADJP (RB well) (JJ developed) )
+                  (NN product) 
+                  (CC and)
+                  (NNS services) (NNS relationships) ('' '') )
+                (PP (IN with) 
+                  (NP (DT the) (NNP U.S.) (NN computer) (NN company) ))))
+            (, ,) 
+            (CC and)
+            (VP (NNS plans) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB expand) 
+                    (NP (DT these) (NNS links) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP 
+      (VP (VBZ earns) 
+        (NP 
+          (QP (RB about) (PDT half) )
+          (PRP$ its) (NN revenue) )
+        (ADVP-LOC (RB overseas) ))
+      (CC and) 
+      (VP (VBZ plans) 
+        (NP (JJ further) (NN expansion) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (DT A) (NN majority) (NN stake) )
+        (PP-LOC (IN in) 
+          (NP (NNP Paxus) )))
+      (VP 
+        (ADVP-TMP (RB currently) )
+        (VBN held) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS (NNP NZI) (NNP Corp.) ))))
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN diluted) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (TO to) 
+            (NP 
+              (QP (RB slightly) (JJR less) (IN than) (CD 50) )
+              (NN %) ))
+          (PP-TMP (IN after) 
+            (S-NOM 
+              (NP-SBJ (NNP IBM) )
+              (VP (VBZ acquires) 
+                (NP (PRP$ its) (NN interest) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN agreement) )
+    (VP (VBZ requires) 
+      (NP 
+        (NP (NN approval) )
+        (PP 
+          (PP (IN from) 
+            (NP 
+              (NP (NNP Australia) (POS 's) )
+              (NX 
+                (NX (NNP Foreign) (NNP Investment) (NNP Review) (NNP Board) )
+                (CC and) 
+                (NX (NNP National) (NNP Companies) 
+                  (CC and)
+                  (NNP Securities) (NNP Commission) ))))
+          (, ,) 
+          (CC and)
+          (PP (IN from) 
+            (NP 
+              (NP (NNS shareholders) )
+              (PP (IN of) 
+                (NP (NNP Paxus) )))))))
+    (. .) ))

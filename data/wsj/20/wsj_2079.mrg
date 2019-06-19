@@ -1,0 +1,135 @@
+
+( (S 
+    (NP-SBJ (NNP Cross) (CC &) (NNP Trecker) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reached) 
+            (NP (DT an) (NN agreement) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB sell) 
+                    (NP (PRP$ its) (NNP Wiedemann) (NN division) )
+                    (PP-DTV (TO to) 
+                      (NP 
+                        (NP 
+                          (ADJP (RB recently) (VBN created) )
+                          (NNP Murata) (NNP Wiedemann) (NNP Inc.) )
+                        (, ,) 
+                        (NP 
+                          (NP (DT a) (NNP U.S.) (NN affiliate) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (NNP Murata) (NNP Machinery) (NNP Ltd.) )
+                              (PP-LOC (IN of) 
+                                (NP 
+                                  (NP (NNP Kyoto) )
+                                  (, ,) 
+                                  (NP (NNP Japan) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN agreement) )
+    (ADVP (RB also) )
+    (VP (VBZ includes) 
+      (NP 
+        (NP (DT the) (NN purchase) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Cross) (CC &) (NNP Trecker) (POS 's) )
+            (NP (NNP Warner) (CC &) (NNP Swasey) 
+              (PRN 
+                (-LRB- -LRB-)
+                (NP (NNP Switzerland) )
+                (-RRB- -RRB-) )
+              (NNP AG) (NN unit) )))
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT a) (JJ European) (NN affiliate) )
+            (PP (IN of) 
+              (NP (NNP Murata) (NNP Machinery) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Cross) (CC &) (NNP Trecker) )
+    (VP (VBZ is) 
+      (ADVP (RB also) )
+      (VP (VBG selling) 
+        (NP 
+          (NP (PRP$ its) (NN equity) (NN interest) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (DT a) (JJ Japanese) (NN joint) (NN venture) )
+              (, ,) 
+              (NP (NNP Murata) (NNP Warner) (NNP Swasey) )
+              (, ,) )))
+        (PP-DTV (TO to) 
+          (NP (NNP Murata) (NNP Machinery) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Cross) (CC &) (NNP Trecker) )
+      (, ,) 
+      (NP (DT a) 
+        (NAC-LOC (NNP Bloomfield) (NNPS Hills) 
+          (, ,)
+          (NNP Mich.) 
+          (, ,)
+          )
+        (JJ machine-tool) (NN maker) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (JJ net) (NNS sales) (NN price) )
+            (PP (IN of) 
+              (NP (DT the) (JJ total) (NN transaction) )))
+          (VP (VBZ is) 
+            (NP-PRD 
+              (QP ($ $) (CD 24) (CD million) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Wiedemann) (NN division) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (CD one) )
+        (PP (IN of) 
+          (NP 
+            (NP (CD three) (NNS businesses) )
+            (VP (VBN put) 
+              (NP (-NONE- *) )
+              (PRT (RP up) )
+              (PP (IN for) 
+                (NP (NN sale) ))
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP 
+                    (NP (NNP Cross) (CC &) (NNP Trecker) (POS 's) )
+                    (VBG restructuring) (NN program) )
+                  (VP (VBN announced) 
+                    (NP (-NONE- *) )
+                    (PP-TMP-CLR (IN in) 
+                      (NP (NNP July) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Cross) (CC &) (NNP Trecker) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS negotiations) )
+            (PP (-NONE- *ICH*-1) ))
+          (VP (VBP are) 
+            (PP-PRD (IN under) 
+              (NP (NN way) ))
+            (PP-1 (IN for) 
+              (NP 
+                (NP (DT the) (NN sale) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT another) (NN company) )
+                    (, ,) 
+                    (NP (NNP RobertsCorp) )))))))))
+    (. .) ))

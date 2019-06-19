@@ -1,0 +1,59 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (PRP$ Your) (NNP Oct.) (CD 2) (NN article) )
+      (PP (IN on) 
+        (NP (NNP Daniel) (NNP Yankelovich) )))
+    (VP (VBD cited) 
+      (NP 
+        (NP (DT the) (NN quote) )
+        (S-TTL (`` ``) 
+          (NP-SBJ (DT A) (JJ good) (NN name) )
+          (VP (VBZ is) 
+            (ADJP-PRD 
+              (ADJP (JJR better) )
+              (PP (IN than) 
+                (NP (JJ great) (NNS riches) ))))
+          ('' '') ))
+      (PP-CLR (IN as) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG being) 
+            (PP-PRD (IN from) 
+              (NP 
+                (NP (NNP Cervantes) (POS ') )
+                (`` ``) 
+                (NX-TTL (NNP Don) (NNP Quixote) )))))))
+    (. .) ('' '') ))
+( (S 
+    (S 
+      (ADVP (RB Actually) )
+      (, ,) 
+      (NP-SBJ (NNP Cervantes) )
+      (VP (VBD borrowed) 
+        (NP (IN that) (NN quote) )
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (DT a) (NN writer) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT some) (CD 25) (NNS centuries) )
+                (ADVP-TMP (RB earlier) )))))))
+    (: :) 
+    (S 
+      (NP-SBJ 
+        (NP (NNP Israel) (POS 's) )
+        (NNP King) (NNP Solomon) )
+      (VP (VBD wrote) 
+        (NP (DT those) (NNS words) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP-TTL 
+              (NP (DT the) (NN Book) )
+              (PP (IN of) 
+                (NP (NNS Proverbs) )))
+            (-LRB- -LRB-) 
+            (NP (CD 22:1) )
+            (-RRB- -RRB-) ))))
+    (. .) ))
+( (NP (NNP Michael) (NNP E.) (NNP Hill) ))

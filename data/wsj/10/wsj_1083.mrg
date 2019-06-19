@@ -1,0 +1,82 @@
+
+( (S 
+    (NP-SBJ (NNP Coda) (NNP Energy) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD completed) 
+            (NP 
+              (NP (DT the) (NN sale) )
+              (PP (IN of) 
+                (NP (NNP Phenix-Transmission) (NNP Co.) ))
+              (PP (TO to) 
+                (NP (NNP Bishop) (NNP Pipeline) (NNP Co.) ))
+              (, ,) 
+              (PP (IN for) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 17) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN in) 
+                    (NP (NN cash) 
+                      (CC and)
+                      (NNS notes) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Coda) )
+      (, ,) 
+      (NP (DT an) (NN oil) 
+        (CC and)
+        (NN gas) (NN concern) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP it) )
+            (CC and) 
+            (NP (PRP$ its) (NNS partners) ))
+          (VP (VBD received) 
+            (NP 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 7) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN in) 
+                  (NP (NN cash) )))
+              (CC and) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 10) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN in) 
+                  (NP (JJ five-year) (NNS notes) ))))
+            (PP-CLR (IN for) 
+              (NP (DT the) (NNP Kansas) (JJ intrastate) (NN pipeline) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Coda) )
+      (VP (VBD owned) 
+        (NP 
+          (NP (CD 60) (NN %) )
+          (PP (IN of) 
+            (NP (DT the) (NN pipeline) )))))
+    (CC and) 
+    (S 
+      (NP-SBJ (JJ private) (NNS entities) )
+      (VP (VBD owned) 
+        (NP (DT the) (NN rest) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Bishop) )
+    (VP (VBZ is) 
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-LOC (IN in) 
+          (NP (NNP Hutchinson) 
+            (, ,)
+            (NNP Kansas) ))))
+    (. .) ))

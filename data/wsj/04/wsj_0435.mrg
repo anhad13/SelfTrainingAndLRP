@@ -1,0 +1,438 @@
+
+( (S 
+    (NP-SBJ (NNP Chrysler) (NNP Corp.) (NNP Chairman) (NNP Lee) (NNP A.) (NNP Iacocca) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (DT the) (NN nation) (POS 's) )
+            (NN No.) (CD 3) (NN auto) (NN maker) )
+          (VP (MD will) 
+            (VP (VB need) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB close) 
+                    (NP 
+                      (NP (CD one) (CC or) (CD two) )
+                      (PP (IN of) 
+                        (NP (PRP$ its) (NN assembly) (NNS plants) ))))))
+              (PP-PRP (RB because) (IN of) 
+                (NP 
+                  (NP (DT the) (NN slowdown) )
+                  (VP (VBG hitting) 
+                    (NP (DT the) (NN industry) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (DT an) (NN interview) )
+        (PP (IN with) 
+          (NP (DT the) (NN trade) (NN journal) (NNP Automotive) (NNP News) ))))
+    (, ,) 
+    (NP-SBJ-2 (NNP Mr.) (NNP Iacocca) )
+    (VP (VBD declined) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB say) 
+            (SBAR 
+              (SBAR 
+                (WHNP-1 (WDT which) (NNS plants) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (MD will) 
+                    (VP (VB close) ))))
+              (CC or) 
+              (SBAR 
+                (WHADVP-3 (WRB when) )
+                (S 
+                  (NP-SBJ (NNP Chrysler) )
+                  (VP (MD will) 
+                    (VP (VB make) 
+                      (NP (DT the) (NNS moves) )
+                      (ADVP-TMP (-NONE- *T*-3) ))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (, ,)
+      (`` ``) 
+      (S 
+        (NP-SBJ (PRP we) )
+        (VP (VBP have) 
+          (NP 
+            (ADJP (RB too) (JJ many) )
+            (NNS plants) )
+          (PP-LOC (IN in) 
+            (NP (PRP$ our) (NN system) )))))
+    (. .) ))
+( (S (IN So) 
+    (NP-SBJ-1 (DT the) 
+      (ADJP 
+        (ADJP (JJR older) )
+        (CC or) 
+        (ADJP (RBS most) (JJ inefficient) ))
+      (NN capacity) )
+    (VP (VBZ has) 
+      (VP (VBD got) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB go) )))))
+    (. .) ('' '') ))
+( (S 
+    (PP (VBG According) 
+      (PP (TO to) 
+        (NP (NN industry) (NNS analysts) )))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Chrysler) (NNS plants) )
+      (ADJP (RBS most) (JJ likely) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (RB close) )))))
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP 
+          (NP (DT the) (NNP St.) (NNP Louis) (NN No.) (CD 1) (NN facility) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBZ builds) 
+                (NP (NNP Chrysler) (NNP LeBaron) 
+                  (CC and)
+                  (NNP Dodge) (NNP Daytona) (NNS models) )))))
+        (: ;) 
+        (NP 
+          (NP (DT the) 
+            (NAC-LOC (NNP Toledo) 
+              (, ,)
+              (NNP Ohio) 
+              (, ,)
+              )
+            (NNP Jeep) (NN plant) )
+          (, ,) 
+          (SBAR 
+            (WHNP-2 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-2) )
+              (VP (VBZ dates) 
+                (ADVP-CLR (RB back) 
+                  (PP (TO to) 
+                    (NP (DT the) (JJ early) (CD 1900s) )))))))
+        (: ;) 
+        (CC and)
+        (NP 
+          (NP (CD two) (JJ Canadian) (NNS plants) )
+          (SBAR 
+            (WHNP-3 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-3) )
+              (VP (VBP build) 
+                (NP 
+                  (NP (DT the) (NNP Jeep) (NNP Wrangler) )
+                  (CC and) 
+                  (NP 
+                    (NP (NNP Chrysler) (POS 's) )
+                    (JJ full-sized) (NNS vans) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Chrysler) )
+    (VP (VBZ has) 
+      (VP (VBD had) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (ADVP-TMP (RB temporarily) )
+            (VP (VB close) 
+              (NP (DT the) (NNP St.) (NNP Louis) 
+                (CC and)
+                (NNP Toledo) (NNS plants) ))))
+        (ADVP-TMP (RB recently) )
+        (PP-PRP (IN because) (IN of) 
+          (NP 
+            (NP (JJ excess) (NNS inventories) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNS vehicles) )
+                (VP (VBN built) 
+                  (NP (-NONE- *) )
+                  (ADVP-LOC (RB there) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN At) 
+      (NP 
+        (NP (NNP Chrysler) (POS 's) )
+        (CD 1990) (NN model) (NN preview) ))
+    (NP-TMP (JJ last) (NN month) )
+    (, ,) 
+    (NP-SBJ (NNP Chrysler) (NNP Motors) (NNP President) (NNP Robert) (NNP A.) (NNP Lutz) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN No.) (CD 3) (NN auto) (NN maker) )
+          (, ,) 
+          (ADVP (IN along) 
+            (PP (IN with) 
+              (NP (JJ other) (NNP U.S.) (NNS manufacturers) )))
+          (, ,) 
+          (VP (MD might) 
+            (VP (VB be) 
+              (VP (VBN forced) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) (`` ``) 
+                    (VP (VB realign) (: ...) 
+                      (NP (NN capacity) )))
+                  ('' '') )
+                (SBAR-ADV (IN if) 
+                  (S 
+                    (NP-SBJ (NN market) (NN demand) )
+                    (VP (VBZ does) (RB n't) 
+                      (VP (VB improve) ))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Iacocca) (POS 's) )
+      (NNS remarks) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (DT the) 
+          (ADJP (RBS most) (JJ specific) )
+          (NN indication) )
+        (PP (TO to) 
+          (NP (NN date) ))
+        (PP (IN of) 
+          (SBAR-NOM 
+            (WHNP-1 
+              (WHADVP (WRB how) (JJ many) )
+              (NNS plants) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (MD could) 
+                (VP (VB be) 
+                  (PP-PRD (IN in) 
+                    (NP (NN jeopardy) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP General) (NNP Motors) (NNP Corp.) )
+    (VP (VBZ has) 
+      (VP (VBN signaled) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP 
+                (QP (RB as) (JJ many) (IN as) (CD five) ))
+              (PP (IN of) 
+                (NP (PRP$ its) 
+                  (UCP (NNP U.S.) 
+                    (CC and)
+                    (JJ Canadian) )
+                  (NNS plants) )))
+            (VP (MD may) (RB not) 
+              (VP (VB survive) 
+                (NP (DT the) (NNS mid-1990s) )
+                (SBAR-ADV (IN as) 
+                  (S 
+                    (NP-SBJ-1 (PRP it) )
+                    (VP (VBZ struggles) 
+                      (S 
+                        (NP-SBJ (-NONE- *-1) )
+                        (VP (TO to) 
+                          (VP (VB trim) 
+                            (NP (PRP$ its) (JJ excess) (JJ vehicle-production) (NN capacity) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN overcapacity) (NN problem) )
+    (VP (VBZ has) 
+      (VP (VBN intensified) 
+        (PP-TMP (IN in) 
+          (NP (JJ recent) (NNS years) ))
+        (, ,) 
+        (PP (IN with) 
+          (S-NOM 
+            (NP-SBJ (JJ foreign) (NN auto) (NNS makers) )
+            (VP (VBG beginning) 
+              (NP (NN car) 
+                (CC and)
+                (NN truck) (NN production) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (NNP U.S.) )))))))
+    (. .) ))
+( (S 
+    (PP (IN With) 
+      (S-NOM 
+        (NP-SBJ 
+          (NP (NNS companies) )
+          (PP (JJ such) (IN as) 
+            (NP 
+              (NP (NNP Honda) (NNP Motor) (NNP Co.) )
+              (, ,) 
+              (NP (NNP Toyota) (NNP Motor) (NNP Corp.) )
+              (CC and) 
+              (NP (NNP Nissan) (NNP Motor) (NNP Co.) ))))
+        (VP (VBG running) 
+          (NP (JJ so-called) (NN transplant) (NN auto) (NNS operations) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (JJ Japanese) (NN auto) (NN production) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NNP U.S.) )))
+    (VP (MD will) 
+      (VP (VB reach) 
+        (NP 
+          (QP (CD one) (CD million) )
+          (NNS vehicles) )
+        (NP-TMP (DT this) (NN year) )))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (SBAR-ADV (IN Unless) 
+        (S 
+          (NP-SBJ (DT the) (NN market) )
+          (VP 
+            (VP (VBZ goes) 
+              (PP-DIR (TO to) 
+                (NP 
+                  (QP (CD 19) (CD million) )
+                  (NNS units) )))
+            (PRN (: --) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ 
+                    (NP (PRP we) )
+                    (NP (DT all) ))
+                  (VP (VBP know) 
+                    (SBAR (-NONE- 0) 
+                      (S 
+                        (NP-SBJ-3 (PRP it) )
+                        (VP (VBZ 's) (RB not) 
+                          (VP (VBG going) 
+                            (S 
+                              (NP-SBJ (-NONE- *-3) )
+                              (VP (TO to) 
+                                (VP (VB do) 
+                                  (NP (-NONE- *T*-1) )))))))))))
+              (: --) ))))
+      (NP-SBJ (PRP we) )
+      (VP (VBP have) 
+        (NP (DT the) (JJ inescapable) (NN fact) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (DT the) (NNS transplants) )
+              (VP (VBP are) 
+                (VP (VBG adding) 
+                  (NP (NN capacity) ))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Lutz) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) )
+      (NP-TMP (JJ last) (NN month) ))
+    (. .) ))
+( (S 
+    (S-TPC-4 
+      (S 
+        (NP-SBJ (DT The) (JJ Japanese-managed) (NNS plants) )
+        (ADVP-TMP (RB eventually) )
+        (VP (MD will) 
+          (VP (VB have) 
+            (NP (DT the) (NN capacity) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB build) 
+                    (NP 
+                      (QP (DT some) (CD 2.5) (CD million) )
+                      (NNS vehicles) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (NNP U.S.) )))))))))
+      (CC and) 
+      (S 
+        (NP-SBJ (DT that) )
+        (VP (MD will) 
+          (VP (VB translate) 
+            (PP-CLR (IN into) (`` ``) 
+              (NP 
+                (NP (NN market) (NN share) )
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ-2 (-NONE- *T*-1) )
+                    (VP (VBZ is) 
+                      (VP (VBG going) 
+                        (S 
+                          (NP-SBJ-3 (-NONE- *-2) )
+                          (VP (TO to) 
+                            (VP (VB have) 
+                              (S 
+                                (NP-SBJ (-NONE- *-3) )
+                                (VP (TO to) 
+                                  (VP (VB come) 
+                                    (PP-DIR (IN out) 
+                                      (PP (IN of) 
+                                        (NP (NN somebody) )))))))))))))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-4) )))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Already) )
+    (NP-SBJ (NNP Chrysler) )
+    (VP (VBZ has) 
+      (VP (VBN closed) 
+        (NP 
+          (NP (DT the) 
+            (NAC-LOC (NNP Kenosha) 
+              (, ,)
+              (NNP Wis.) 
+              (, ,)
+              )
+            (NN plant) )
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (VBD acquired) 
+                (NP (-NONE- *T*-1) )
+                (SBAR-TMP 
+                  (WHADVP-2 (WRB when) )
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBD bought) 
+                      (NP (NNP American) (NNP Motors) (NNP Corp.) )
+                      (PP-TMP (IN in) 
+                        (NP (CD 1987) ))
+                      (ADVP-TMP (-NONE- *T*-2) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Chrysler) )
+    (VP (VBZ has) 
+      (ADVP (RB also) )
+      (VP (VBN launched) 
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 1) (CD billion) )
+              (-NONE- *U*) )
+            (NN cost-cutting) (NN program) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (MD will) 
+                (VP (VB cut) 
+                  (NP 
+                    (QP (RB about) (CD 2,300) )
+                    (JJ white-collar) (NNS workers) )
+                  (PP (IN from) 
+                    (NP (DT the) (NN payroll) ))
+                  (PP-TMP (IN in) 
+                    (NP (DT the) (JJ next) (JJ few) (NNS months) )))))))))
+    (. .) ))

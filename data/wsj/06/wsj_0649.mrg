@@ -1,0 +1,160 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Sharp) (NNP Corp.) )
+      (, ,) 
+      (NP-LOC (NNP Tokyo) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (JJ net) (NN income) )
+            (PP-TMP (IN in) 
+              (NP (PRP$ its) (JJ first) (NN half) )))
+          (VP (VBD rose) 
+            (NP-EXT (CD 59) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP (CD 18.32) (CD billion) )
+                  (NNS yen) )
+                (-LRB- -LRB-) 
+                (NP 
+                  (QP ($ $) (CD 128.9) (CD million) )
+                  (-NONE- *U*) )
+                (-RRB- -RRB-) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (QP (CD 11.53) (CD billion) )
+                (NNS yen) )
+              (ADVP-TMP 
+                (NP-ADV (DT a) (NN year) )
+                (RBR earlier) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN consumer) (NNS electronics) 
+      (, ,)
+      (NN home) (NNS appliances) 
+      (CC and)
+      (NN information-processing) (NN concern) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NN revenue) )
+            (PP-TMP (IN in) 
+              (NP 
+                (NP (DT the) (CD six) (NNS months) )
+                (VP (VBN ended) 
+                  (NP-TMP (NNP Sept.) (CD 30) )))))
+          (VP (VBD rose) 
+            (NP-EXT (CD 8.9) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (QP (CD 517.85) (CD billion) )
+                (NNS yen) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (QP (CD 475.6) (CD billion) )
+                (NNS yen) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Sales) )
+      (PP (IN of) 
+        (NP 
+          (NP (NN information-processing) (NNS products) )
+          (CC and) 
+          (NP (JJ electric) (NNS parts) ))))
+    (VP 
+      (VP (VBD increased) 
+        (NP-EXT (DT a) (JJ strong) (CD 22) (NN %) )
+        (PP-DIR (TO to) 
+          (NP 
+            (QP (CD 236.23) (CD billion) )
+            (NNS yen) ))
+        (PP-DIR (IN from) 
+          (NP 
+            (QP (CD 194.24) (CD billion) )
+            (NNS yen) )))
+      (CC and) 
+      (VP (VBD accounted) 
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (CD 46) (NN %) )
+            (PP (IN of) 
+              (NP (JJ total) (NNS sales) ))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ audio) (NN equipment) ))
+    (, ,) 
+    (NP-SBJ (NNS sales) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 13) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 44.3) (CD billion) )
+          (NNS yen) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (CD 39.19) (CD billion) )
+          (NNS yen) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNS Sales) )
+        (PP (IN of) 
+          (NP (JJ electric) (NNS appliances) )))
+      (VP (VBD were) 
+        (ADJP-PRD (JJ flat) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (NNS sales) )
+        (PP (IN of) 
+          (NP (JJ electronic) (NN equipment) )))
+      (VP (VBD declined) 
+        (ADVP-MNR (RB slightly) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Sharp) )
+    (VP (JJ projected) 
+      (NP 
+        (NP (NNS sales) )
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (JJ current) (NN year) )
+            (VP (VBG ending) 
+              (NP-TMP (NNP March) (CD 31) )))))
+      (PP-CLR (IN at) 
+        (NP 
+          (NP 
+            (QP (CD 1.6) (CD trillion) )
+            (NNS yen) )
+          (, ,) 
+          (NP (DT a) 
+            (ADJP (CD 7) (NN %) )
+            (NN increase) )
+          (NP-TMP (DT the) (JJ previous) (JJ fiscal) (NN year) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (NN net) )
+              (VP (TO to) 
+                (VP (VB rise) 
+                  (NP-EXT (CD 45) (NN %) )
+                  (PP-DIR (TO to) 
+                    (NP 
+                      (QP (CD 380) (CD billion) )
+                      (NNS yen) )))))))))
+    (. .) ))

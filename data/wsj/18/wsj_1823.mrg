@@ -1,0 +1,64 @@
+
+( (S 
+    (NP-SBJ (DT The) (NN average) 
+      (ADJP (RB publicly) (VBN offered) )
+      (NN commodity) (NN fund) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 4.2) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (NNP September) ))
+      (, ,) 
+      (PP-PRP 
+        (ADVP (RB largely) )
+        (IN because) (IN of) 
+        (NP 
+          (NP (DT the) (JJ volatile) (NNS markets) )
+          (PP-LOC (IN in) 
+            (NP (JJ foreign) (NNS currencies) ))))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP (NNP Norwood) (NNPS Securities) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN firm) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNS losers) )
+          (VP (VBD outnumbered) 
+            (NP (NNS gainers) )
+            (PP-EXT (IN by) 
+              (NP 
+                (NP (JJR more) )
+                (PP (IN than) 
+                  (NP 
+                    (NP (CD three) )
+                    (PP (TO to) 
+                      (NP (CD one) ))))))
+            (PP-LOC (IN among) 
+              (NP 
+                (NP (DT the) (CD 122) (NNS funds) )
+                (SBAR 
+                  (WHNP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBZ tracks) 
+                      (NP (-NONE- *T*-1) ))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP 
+        (NP (DT the) (JJ first) (CD nine) (NNS months) )
+        (PP (IN of) 
+          (NP (DT the) (NN year) ))))
+    (, ,) 
+    (NP-SBJ (NNP Norwood) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ average) (NN fund) )
+          (VP (VBZ has) 
+            (VP (VBN lost) 
+              (NP (CD 3.3) (NN %) ))))))
+    (. .) ))

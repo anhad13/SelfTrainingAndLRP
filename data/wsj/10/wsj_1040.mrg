@@ -1,0 +1,115 @@
+
+( (S 
+    (NP-SBJ (NNP ONEIDA) (NNP Ltd.) )
+    (VP (VBD declared) 
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 10) (NN %) )
+          (NN stock) (NN dividend) )
+        (, ,) 
+        (ADJP (JJ payable) 
+          (NP-TMP (NNP Dec.) (CD 15) )
+          (PP (TO to) 
+            (NP 
+              (NP (VB stock) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN record) )
+                  (NP (NNP Nov.) (CD 17) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) 
+        (NAC-LOC (NNP Oneida) 
+          (, ,)
+          (NNP N.Y.) 
+          (, ,)
+          )
+        (NN maker) )
+      (PP (IN of) 
+        (NP 
+          (UCP (NN consumer) 
+            (, ,)
+            (NN food-service) 
+            (CC and)
+            (JJ industrial) )
+          (NNS products) )))
+    (ADVP (RB also) )
+    (VP (VBD declared) 
+      (NP 
+        (NP 
+          (NP (DT a) (JJ quarterly) (NN cash) (NN dividend) )
+          (PP (IN of) 
+            (NP 
+              (NP (CD 12) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))))
+        (, ,) 
+        (PP (IN with) 
+          (NP (DT the) (JJ same) 
+            (UCP (JJ payable) 
+              (CC and)
+              (NN record) )
+            (NNS dates) ))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (NN cash) (NN dividend) )
+        (VP (VBN paid) 
+          (NP (-NONE- *) )
+          (PP-CLR (IN on) 
+            (NP (DT the) (JJ common) (NN stock) ))))
+      (ADVP (RB also) )
+      (VP (MD will) 
+        (VP (VB apply) 
+          (PP-CLR (TO to) 
+            (NP (DT the) (JJ new) (NNS shares) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN move) )
+      (VP 
+        (VP (VBZ rewards) 
+          (NP (NNS shareholders) ))
+        (CC and) 
+        (VP (MD should) 
+          (VP (VB improve) 
+            (NP 
+              (NP (DT the) (NN stock) (POS 's) )
+              (NN liquidity) )))))
+    (, ,) 
+    (NP-SBJ (NNP Oneida) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (QP (IN about) (CD 8.8) (CD million) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN composite) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Oneida) (POS 's) )
+      (NNS shares) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 18.375) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (ADVP (JJ unchanged) ))
+    (. .) ))

@@ -1,0 +1,141 @@
+
+( (S 
+    (NP-SBJ (NNP Lyondell) (NNP Petrochemical) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ third-quarter) (NN net) (NN income) )
+          (VP (VBD fell) 
+            (NP-EXT (CD 54) (NN %) )
+            (, ,) 
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 73) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD 91) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))))
+            (, ,) 
+            (PP-DIR (IN from) 
+              (NP 
+                (QP ($ $) (CD 160) (CD million) )
+                (-NONE- *U*) )
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (RBR earlier) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Year-earlier) (JJ per-share) (NNS results) )
+    (VP (VBP are) (RB n't) 
+      (ADJP-PRD (JJ applicable) )
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP (VBD went) 
+            (NP-PRD (NN public) )
+            (PP-TMP (IN in) 
+              (NP (NNP January) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 7.7) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 1.28) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 1.18) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN petrochemical) (NN maker) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (JJS biggest) (NN reason) )
+            (SBAR 
+              (WHADVP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (NNS earnings) )
+                (VP (VBD declined) 
+                  (ADVP-PRP (-NONE- *T*-1) )))))
+          (VP (VBD was) 
+            (NP-PRD 
+              (NP 
+                (NP (DT a) (NN loss) )
+                (PP (IN of) 
+                  (NP (NN production) (NN time) )))
+              (CC and) 
+              (NP 
+                (NP (DT the) (VBN increased) (NNS costs) )
+                (VP (VBN associated) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN with) 
+                    (NP 
+                      (NP (DT a) (JJ temporary) (NN maintenance) (NN closing) )
+                      (CC and) 
+                      (NP 
+                        (NP (NN expansion) )
+                        (PP (IN of) 
+                          (NP (DT an) (NNS olefins) (NN plant) ))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN Like) 
+      (NP (JJ other) (NNS refiners) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Lyondell) (POS 's) )
+        (NNS margins) )
+      (PP (IN for) 
+        (NP (NNS chemicals) 
+          (CC and)
+          (NN gasoline) )))
+    (VP (VBD were) 
+      (ADJP-PRD (JJR narrower) ))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (DT the) (NN company) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ-1 (NN chemical) (NNS margins) )
+              (VP (VBD continued) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB worsen) )))
+                (NP-TMP (DT this) (NN quarter) )))))))
+    (, ,) 
+    (NP-SBJ (NNS costs) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (ADJP-PRD (JJR lower) )
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (DT the) (NN maintenance) 
+              (CC and)
+              (NNS expansions) )
+            (VP (VBP are) 
+              (ADJP-PRD (JJ complete) ))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN composite) (NN trading) ))
+    (NP-TMP (NNP Friday) )
+    (, ,) 
+    (NP-SBJ (NNP Lyondell) )
+    (VP (VBD was) 
+      (ADJP-PRD (JJ unchanged) 
+        (PP (IN at) 
+          (NP 
+            (NP ($ $) (CD 18.50) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) )))))
+    (. .) ))

@@ -1,0 +1,95 @@
+
+( (S 
+    (NP-SBJ (NNP Quest) (NNP Medical) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD adopted) 
+            (NP 
+              (NP 
+                (NP (DT a) (NNS shareholders) (POS ') )
+                (NNS rights) (NN plan) )
+              (SBAR 
+                (WHPP-2 (IN in) 
+                  (WHNP (WDT which) ))
+                (S 
+                  (NP-SBJ-1 (NNS rights) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB purchase) 
+                          (NP 
+                            (NP (NNS shares) )
+                            (PP (IN of) 
+                              (NP (JJ common) (NN stock) )))))))
+                  (VP (MD will) 
+                    (VP (VB be) 
+                      (VP (VBN distributed) 
+                        (NP (-NONE- *-1) )
+                        (PP (IN as) 
+                          (NP (DT a) (NN dividend) ))
+                        (PP-DIR (TO to) 
+                          (NP 
+                            (NP (NNS shareholders) )
+                            (PP (IN of) 
+                              (NP (NN record) ))
+                            (PP-TMP (IN as) 
+                              (PP (IN of) 
+                                (NP (NNP Oct.) (CD 23) )))))
+                        (PP-LOC (-NONE- *T*-2) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN plan) )
+          (VP (VBD was) (RB n't) 
+            (VP (VBN adopted) 
+              (NP (-NONE- *-1) )
+              (PP (IN in) 
+                (NP 
+                  (NP (NN response) )
+                  (PP (TO to) 
+                    (NP 
+                      (NP (DT any) (VBN known) (NNS offers) )
+                      (PP (IN for) 
+                        (NP 
+                          (NP (NNP Quest) )
+                          (, ,) 
+                          (NP 
+                            (NP (DT a) (NN maker) 
+                              (CC and)
+                              (NN marketer) )
+                            (PP (IN of) 
+                              (NP (NN hospital) (NNS products) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS rights) )
+    (VP (VBP allow) 
+      (S 
+        (NP-SBJ (NNS shareholders) )
+        (VP (TO to) 
+          (VP (VB purchase) 
+            (NP (NNP Quest) (NN stock) )
+            (PP (IN at) 
+              (NP (DT a) (NN discount) ))
+            (SBAR-ADV (IN if) 
+              (S 
+                (NP-SBJ (DT any) (NN person) (CC or) (NN group) )
+                (VP 
+                  (VP (VBZ acquires) 
+                    (NP 
+                      (NP 
+                        (NP 
+                          (QP (JJR more) (IN than) (CD 15) )
+                          (NN %) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (DT the) (NN company) (POS 's) )
+                            (JJ common) (NN stock) )))))
+                  (CC or) 
+                  (VP (VBZ announces) 
+                    (NP (DT a) (NN tender) (NN offer) )))))))))
+    (. .) ))

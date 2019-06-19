@@ -1,0 +1,99 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (VBG Spending) )
+        (PP (IN by) 
+          (NP (JJ average) (JJ Japanese) (NNS households) )))
+      (PP-TMP (IN in) 
+        (NP (NNP August) ))
+      (VP (VBD fell) 
+        (NP-EXT (DT an) (JJ adjusted) (CD 1.9) (NN %) )
+        (PP-TMP (IN from) 
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RB earlier) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNPS Statistics) (NNP Bureau) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NNP Prime) (NNP Minister) (POS 's) )
+          (NN Office) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN bureau) )
+    (VP (VBD cited) 
+      (NP 
+        (NP (NNS typhoons) )
+        (PP-TMP (IN in) 
+          (NP (DT the) (NN month) ))
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD discouraged) 
+              (NP (NN shopping) 
+                (CC and)
+                (NN leisure) (NNS opportunities) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Spending) )
+      (PP (IN by) 
+        (NP (JJ Japanese) (NNS households) )))
+    (VP (VBD averaged) 
+      (NP 
+        (NP (CD 290,782) (NNS yen) )
+        (PRN 
+          (-LRB- -LRB-)
+          (NP ($ $) (CD 2,052.10) (-NONE- *U*) )
+          (-RRB- -RRB-) ))
+      (PP-TMP (IN in) 
+        (NP (NNP August) )))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (JJ nominal) (NNS terms) ))
+    (NP-SBJ (PRP it) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 0.6) (NN %) )
+      (PP-TMP (IN from) 
+        (ADVP 
+          (NP (DT a) (NN year) )
+          (RB earlier) ))
+      (PP-TMP (IN before) 
+        (NP (NN adjustment) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP August) (JJ adjusted) (NN spending) )
+      (PP (IN by) 
+        (NP (JJ wage-earning) (NNS families) )))
+    (VP (VBD was) 
+      (ADVP-PRD (RB down) 
+        (NP (CD 0.6) (NN %) ))
+      (PP (TO to) 
+        (NP (CD 309,381) (NNS yen) )
+        (PP-TMP (IN from) 
+          (ADVP 
+            (NP (DT a) (NN year) )
+            (RB earlier) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ real) (NN income) )
+      (PP (IN of) 
+        (NP (JJ wage-earning) (NNS families) )))
+    (PP-TMP (IN in) 
+      (NP (DT the) (NN month) ))
+    (VP (VBD eased) 
+      (NP-EXT (CD 1.2) (NN %) )
+      (PP-DIR (TO to) 
+        (NP (CD 438,845) (NNS yen) )
+        (PP-TMP (IN from) 
+          (NP (DT the) (JJ previous) (NN year) ))))
+    (. .) ))

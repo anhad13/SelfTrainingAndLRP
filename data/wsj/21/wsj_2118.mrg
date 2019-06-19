@@ -1,0 +1,112 @@
+
+( (S 
+    (NP-SBJ (NNP CAE) (NNPS Industries) (NNP Ltd.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP$ its) (NN Link) (NN Flight) (NN Simulation) (NN division) )
+          (VP (VBD was) 
+            (VP (VBN awarded) 
+              (NP (-NONE- *-2) )
+              (NP 
+                (NP (DT a) (NN contract) )
+                (PP (-NONE- *ICH*-1) ))
+              (PP (IN by) 
+                (NP-LGS (DT the) (NNP U.S.) (NNP Army) ))
+              (PP-1 (IN for) 
+                (NP 
+                  (NP (CD two) (NN helicopter) (NNS simulators) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-3 (WDT which) )
+                    (S 
+                      (NP-SBJ (DT the) (NN company) )
+                      (VP (VBN valued) 
+                        (NP (-NONE- *T*-3) )
+                        (PP-CLR (IN at) 
+                          (NP 
+                            (NP 
+                              (QP (RB as) (JJ much) (IN as) (CD 37) (CD million) )
+                              (JJ Canadian) (NNS dollars) )
+                            (PRN 
+                              (-LRB- -LRB-)
+                              (NP 
+                                (QP ($ US$) (CD 31.5) (CD million) )
+                                (-NONE- *U*) )
+                              (-RRB- -RRB-) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP CAE) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (VBN fixed) (NN price) )
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (JJ first) )
+                (PP (IN of) 
+                  (NP (DT the) (NN AH-64) (NNP Apache) (NN combat) (NN mission) (NNS simulators) )))))
+          (VP (VBZ is) 
+            (NP-PRD 
+              (QP ($ C$) (CD 19) (CD million) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP It) )
+    (VP (VBZ is) 
+      (VP (VBN scheduled) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN for) 
+          (NP (NN delivery) ))
+        (PP-TMP (IN in) 
+          (NP (JJ late) (CD 1991) ))))
+    (. .) ))
+( (S-1 
+    (NP-SBJ 
+      (NP (DT The) (NN price) )
+      (PP (IN of) 
+        (NP (DT the) (JJ second) (NN simulator) )))
+    (VP (VBZ ranges) 
+      (PP (IN between) 
+        (NP 
+          (NP 
+            (QP ($ C$) (CD 16.4) (CD million) )
+            (-NONE- *U*) )
+          (CC and) 
+          (NP 
+            (QP ($ C$) (CD 18) (CD million) )
+            (-NONE- *U*) )))
+      (PRN 
+        (, ,)
+        (S 
+          (NP-SBJ (NNP CAE) )
+          (VP (VBD said) 
+            (SBAR (-NONE- 0) 
+              (S (-NONE- *T*-1) ))))
+        (, ,) )
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG depending) 
+          (PP-CLR (IN on) 
+            (SBAR 
+              (WHADVP-2 (WRB when) )
+              (S 
+                (NP-SBJ (DT the) (NNP Army) )
+                (VP (VBZ exercises) 
+                  (NP (PRP$ its) (NN option) )
+                  (ADVP-TMP (-NONE- *T*-2) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP CAE) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (JJ Toronto-based) (NN maker) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ commercial) 
+              (CC and)
+              (JJ military) (NN aircraft) (NNS simulators) )
+            (CC and) 
+            (NP (NN training) (NN equipment) )))))
+    (. .) ))

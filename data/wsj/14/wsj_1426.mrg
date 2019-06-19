@@ -1,0 +1,102 @@
+
+( (S 
+    (NP-SBJ (NNP McCormick) (NNP Capital) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ final) (JJ proration) (NN factor) )
+          (VP (VBD was) 
+            (NP-PRD 
+              (NP (CD 0.628394) )
+              (PP (IN on) 
+                (NP (PRP$ its) (JJ oversubscribed) 
+                  (, ,)
+                  (ADJP ($ $) (JJ 3-a-share) (-NONE- *U*) )
+                  (NN tender) (NN offer) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB buy) 
+                        (ADVP-CLR (RB back) )
+                        (NP 
+                          (NP 
+                            (QP (RB as) (JJ many) (IN as) (CD 1.1) (CD million) ))
+                          (PP (IN of) 
+                            (NP (PRP$ its) (JJ common) (NNS shares) )))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NN Payment) )
+      (VP (MD will) 
+        (VP (VB begin) (`` ``) 
+          (ADVP-TMP-CLR 
+            (ADVP (RB as) (RB soon) )
+            (PP (IN as) 
+              (NP (NNP Oct.) (CD 25) )))
+          (, ,) ('' '') )))
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP McCormick) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN developer) 
+          (CC and)
+          (NN manager) )
+        (PP (IN of) 
+          (NP (JJ futures-investment) (JJ limited) (NNS partnerships) ))))
+    (. .) ))
+( (S-1 
+    (PP (IN Through) 
+      (NP 
+        (NP (DT a) (JJ separate) (NN agreement) )
+        (PP (IN between) 
+          (NP 
+            (NP 
+              (NP (NNP Peter) (NNP Dauchy) )
+              (, ,) 
+              (NP (NN president) )
+              (, ,) )
+            (CC and) 
+            (NP 
+              (NP (DT a) (NN group) )
+              (PP (IN of) 
+                (NP (VBG selling) (NNS shareholders) )))))))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (DT the) (NN company) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (NP-SBJ (NNP Mr.) (NNP Dauchy) )
+    (VP (MD will) 
+      (PP-TMP (IN on) 
+        (NP (NNP Oct.) (CD 30) ))
+      (VP (VB buy) 
+        (NP (CD 231,405) (NNS shares) )
+        (PP-CLR (IN from) 
+          (NP (DT the) (NN group) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG boosting) 
+            (NP (PRP$ his) (NN stake) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP (IN about) (CD 717,000) )
+                  (NNS shares) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD 50.7) (NN %) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (NN total) )
+                      (PP-TMP (IN after) 
+                        (NP (DT the) (NN buy-back) )))))))))))
+    (. .) ))

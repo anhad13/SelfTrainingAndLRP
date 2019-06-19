@@ -1,0 +1,59 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Thomas) (NNP H.) (NNP Johnson) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNP Coatedboard) (NN division) )
+            (PP (IN of) 
+              (NP (NNP Mead) (NNP Corp.) )))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN president) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP Manville) (NNP Forest) (NNPS Products) (NNP Corp.) )
+                  (, ,) 
+                  (NP (DT a) (NNP Manville) (NN unit) ))))
+            (, ,) 
+            (CC and)
+            (NP 
+              (NP (JJ senior) (NN vice) (NN president) )
+              (PP (IN of) 
+                (NP (NNP Manville) (NNP Corp) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Johnson) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP Harry) (NNP W.) (NNP Sherman) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-1) )
+            (VP (VBD resigned) 
+              (S-PRP 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB pursue) 
+                    (NP (JJ other) (NNS interests) )))))))
+        (, ,) )
+      (PP-LOC (IN in) 
+        (NP (DT both) (NNS positions) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Manville) )
+    (VP (VBZ is) 
+      (NP-PRD (DT a) (NN building) 
+        (CC and)
+        (NN forest) (NNS products) (NN concern) ))
+    (. .) ))

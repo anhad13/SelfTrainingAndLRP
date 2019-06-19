@@ -1,0 +1,54 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (JJ Canadian) (NN retail) (NNS sales) )
+      (VP (VBD rose) 
+        (NP-EXT (CD 0.2) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (NNP August) ))
+        (PP-DIR (IN from) 
+          (NP-TMP (NNP July) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Statistics) (NNP Canada) )
+      (, ,) 
+      (NP (DT a) (JJ federal) (NN agency) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP August) (NN increase) )
+    (VP (VBD followed) 
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 0.3) (NN %) )
+          (NN decline) )
+        (PP-TMP (IN in) 
+          (NP (NNP July) ))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (PP-TMP (IN During) 
+        (NP (DT the) (JJ past) (CD four) (NNS months) ))
+      (, ,) 
+      (NP-SBJ-1 (JJ retail) (NNS sales) )
+      (VP (VBP have) 
+        (VP (VBN remained) 
+          (ADJP-PRD (RB generally) (JJ weak) )
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG advancing) 
+              (NP 
+                (NP 
+                  (NP (DT an) (JJ average) )
+                  (NP (CD 0.2) (NN %) ))
+                (NP-ADV (DT a) (NN month) )))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN agency) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))

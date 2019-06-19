@@ -1,0 +1,129 @@
+
+( (S 
+    (NP-SBJ (NNP Tandy) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD signed) 
+            (NP (DT a) (JJ definitive) (NN agreement) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB acquire) 
+                    (NP 
+                      (NP (CD two) (NNS units) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNP Datatronic) (NNP AB) )
+                          (PP (IN of) 
+                            (NP (NNP Stockholm) )))))
+                    (PP-CLR (IN for) 
+                      (NP (NN cash) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN amount) )
+    (VP (VBD was) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS electronics) (NN maker) 
+      (CC and)
+      (NN retailer) )
+    (ADVP-TMP (RB previously) )
+    (VP (VBD estimated) 
+      (NP 
+        (NP (DT the) (NN sale) (NN price) )
+        (PP (-NONE- *ICH*-1) ))
+      (PP-CLR (IN at) 
+        (NP 
+          (QP (IN between) ($ $) (CD 100) (CD million) 
+            (CC and)
+            ($ $) (CD 200) (CD million) )
+          (-NONE- *U*) ))
+      (PP-1 (IN for) 
+        (NP 
+          (NP (NNP Datatronic) (POS 's) )
+          (NX 
+            (NX (NNP Victor) (NN microcomputer) )
+            (CC and) 
+            (NX (NNP Micronic) (JJ hand-held) (NN computer) (NNS subsidiaries) )))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ (NNP Tandy) )
+    (VP (MD will) 
+      (VP (VB acquire) 
+        (NP 
+          (NP (NNS rights) )
+          (PP (TO to) 
+            (NP 
+              (NP (DT the) (NNP Victor) 
+                (CC and)
+                (NNP Micronic) (NNS names) )
+              (PP (IN for) 
+                (NP (NNS computers) )))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN During) 
+      (NP (CD 1988) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Datatronic) (NNS subsidiaries) )
+    (VP (VBD had) 
+      (NP 
+        (NP (VBN combined) (NNS sales) )
+        (PP (IN in) 
+          (NP 
+            (NP (NN excess) )
+            (PP (IN of) 
+              (NP 
+                (QP ($ $) (CD 200) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN transaction) )
+    (VP (MD will) 
+      (VP (VB give) 
+        (NP (VB Tandy) )
+        (NP 
+          (NP (DT a) (JJ well-known) (JJ European) (NN computer) (NN brand) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBZ includes) 
+                (NP 
+                  (NP (CD 2,700) (NNS dealers) 
+                    (CC and)
+                    (NNS distributors) )
+                  (VP (VBG marketing) 
+                    (PP-CLR (TO to) 
+                      (NP (JJ medium-sized) 
+                        (UCP (NN business) 
+                          (CC and)
+                          (JJ educational) )
+                        (NNS institutions) ))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NN Closing) )
+        (PP (IN of) 
+          (NP (DT the) (NN transaction) )))
+      (VP (VBZ is) 
+        (ADJP-PRD (JJ subject) 
+          (PP (TO to) 
+            (NP (JJ certain) 
+              (NX 
+                (NX (NNS conditions) )
+                (CC and) 
+                (NX (JJ regulatory) (NNS approvals) )))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

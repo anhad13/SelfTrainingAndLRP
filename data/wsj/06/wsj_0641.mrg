@@ -1,0 +1,236 @@
+
+( (S 
+    (NP-SBJ (NNP Kerr-McGee) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (MD will) 
+            (VP (VB spend) 
+              (NP 
+                (QP ($ $) (CD 42) (CD million) )
+                (-NONE- *U*) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP 
+                    (VP (VB purchase) 
+                      (NP (NN land) ))
+                    (CC and) 
+                    (VP (VB relocate) 
+                      (NP (PRP$ its) (NN ammonium) (NN perchlorate) (NN storage) (NN facility) )
+                      (PP-CLR (TO to) 
+                        (NP 
+                          (NP (NNP Clark) (NNP County) )
+                          (, ,) 
+                          (NP (NNP Nev.) )
+                          (, ,) ))
+                      (PP-CLR (IN from) 
+                        (NP 
+                          (NP (NNP Henderson) )
+                          (, ,) 
+                          (NP (NNP Nev) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (MD will) 
+            (VP (VB move) 
+              (NP 
+                (NP (DT the) (NN storage) )
+                (CC and) 
+                (NP (JJ cross-blending) (NNS operations) ))
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP (DT a) (NN site) )
+                  (ADVP 
+                    (NP-ADV (CD 23) (NNS miles) )
+                    (RB northeast) 
+                    (PP (IN of) 
+                      (NP (NNP Las) (NNP Vegas) )))))
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB distance) 
+                    (NP (DT the) (NNS operations) )
+                    (PP-CLR (IN from) 
+                      (NP (JJ residential) (NNS areas) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Ammonium) (NN perchlorate) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT an) (NN oxidizer) )
+        (SBAR 
+          (WHNP-2 (WDT that) )
+          (S 
+            (NP-SBJ-1 (-NONE- *T*-2) )
+            (VP (VBZ is) 
+              (VP (VBN mixed) 
+                (NP (-NONE- *-1) )
+                (PP-CLR (IN with) 
+                  (NP (DT a) (NN propellant) ))
+                (S-PRP 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB make) 
+                      (NP 
+                        (NP (NN rocket) (NN fuel) )
+                        (VP (VBN used) 
+                          (NP (-NONE- *) )
+                          (PP-LOC-CLR (IN in) 
+                            (NP 
+                              (NP (DT the) (NN space) (NN shuttle) )
+                              (CC and) 
+                              (NP (JJ military) (NNS rockets) ))))))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP May) (CD 1988) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (DT an) (NN ammonium) (NN perchlorate) (NN plant) )
+      (PP-LOC (IN in) 
+        (NP (NNP Henderson) ))
+      (VP (VBN owned) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS (DT an) (NNP American) (NNP Pacific) (NNP Corp.) (NN unit) ))))
+    (VP (VBD was) 
+      (VP (VBN leveled) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT a) (NN series) )
+            (PP (IN of) 
+              (NP (NNS explosions) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN After) 
+      (NP (DT the) (NN explosion) ))
+    (, ,) 
+    (NP-SBJ (NNP Kerr-McGee) )
+    (ADVP-TMP (RB temporarily) )
+    (VP (VBD shut) 
+      (PRT (RP down) )
+      (NP 
+        (NP (PRP$ its) (NN facility) )
+        (ADVP (RB just) (RB south) 
+          (PP (IN of) 
+            (NP (NNP Las) (NNP Vegas) ))))
+      (PP-PRP (IN for) 
+        (NP (DT a) (NN safety) (NN inspection) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP American) (NNP Pacific) )
+      (CC and) 
+      (NP (NNP Kerr-McGee) ))
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (DT the) 
+          (QP (JJ only) (CD two) )
+          (NNP U.S.) (NNS manufacturers) )
+        (PP (IN of) 
+          (NP (NN ammonium) (NN perchlorate) ))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (SBAR-TMP 
+        (WHADVP-2 (WRB When) )
+        (S 
+          (NP-SBJ-1 (DT the) (NN plant) )
+          (VP (VBD was) 
+            (VP (VBN destroyed) 
+              (NP (-NONE- *-1) )
+              (ADVP-TMP (-NONE- *T*-2) )))))
+      (, ,) (`` ``) 
+      (NP-SBJ (PRP I) )
+      (VP (VBP think) 
+        (S 
+          (NP-SBJ (NN everyone) )
+          (VP (VBD got) 
+            (ADJP-PRD (JJ concerned) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ (DT the) (JJ same) (NN thing) )
+                  (VP (MD would) 
+                    (VP (VB happen) 
+                      (PP-LOC (IN at) 
+                        (NP (PRP$ our) (NN plant) )))))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT a) (NNP KerrMcGee) (NN spokeswoman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) )
+    (VP (VBD prompted) 
+      (S 
+        (NP-SBJ-1 (NNP Kerr-McGee) )
+        (VP (TO to) 
+          (VP (VB consider) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VBG moving) 
+                (NP (DT the) 
+                  (ADJP (RB potentially) (JJ volatile) )
+                  (NX 
+                    (NX (NN storage) (NNS facilities) )
+                    (CC and) 
+                    (NX (JJ cross-blending) (NNS operations) )))
+                (ADVP-DIR (RB away) 
+                  (PP (IN from) 
+                    (NP (NN town) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Kerr-McGee) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ has) 
+            (VP 
+              (VP (VBN purchased) 
+                (NP (CD 3,350) (NNS acres) )
+                (PP-CLR (IN from) 
+                  (NP (DT the) (JJ federal) (NN government) ))
+                (PP-LOC (IN in) 
+                  (NP (NNP Clark) (NNP County) )))
+              (CC and) 
+              (VP (NNS plans) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB begin) 
+                      (NP (NN construction) )
+                      (NP-TMP (RB early) (JJ next) (NN year) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ new) (NN facility) )
+    (VP (VBZ is) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB begin) 
+              (NP (NNS operations) )
+              (PP-TMP (IN in) 
+                (NP (JJ early) (CD 1991) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NNP Henderson) (NN plant) )
+      (VP (MD will) 
+        (VP (VB continue) 
+          (NP (PRP$ its) (JJ other) (JJ chemical) (NNS operations) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

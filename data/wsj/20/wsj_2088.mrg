@@ -1,0 +1,141 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Newport) (NNP Electronics) (NNP Inc.) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Santa) (NNP Ana) )
+          (, ,) 
+          (NP (NNP Calif.) )
+          (, ,) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Milton) (NNP B.) (NNP Hollander) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WP who) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ holds) 
+                  (NP (DT a) 
+                    (ADJP (CD 49.4) (NN %) )
+                    (NN stake) ))))
+            (, ,) )
+          (VP (VBD requested) 
+            (NP 
+              (NP (DT a) (JJ special) (NNS shareholders) (POS ') )
+              (NN meeting) )
+            (NP-TMP (IN next) (NNP Wednesday) )
+            (S-PRP 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP 
+                  (VP (VB remove) 
+                    (NP (CD four) (JJ current) (NNS directors) ))
+                  (CC and) 
+                  (VP (VB elect) 
+                    (NP (DT an) (JJ alternative) (NN slate) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Hollander) (POS 's) )
+      (NP 
+        (NP (NNP High) (NNP Technology) (NNP Holding) (NNP Co.) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Stamford) )
+            (, ,) 
+            (NP (NNP Conn.) )
+            (, ,) ))))
+    (VP (VBD acquired) 
+      (NP 
+        (NP (JJS most) )
+        (PP (IN of) 
+          (NP (PRP$ its) (NN stake) )))
+      (NP-TMP (JJ last) (NNP August) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT an) 
+            (ADJP ($ $) (JJ 11-a-share) (-NONE- *U*) )
+            (NN tender) (NN offer) )
+          (PP (IN for) 
+            (NP 
+              (NP (NNP Newport) )
+              (, ,) 
+              (NP 
+                (NP (DT a) (NN maker) )
+                (PP (IN of) 
+                  (NP (JJ electronic-measuring) (NNS devices) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Newport) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Mr.) (NNP Hollander) )
+          (VP (VBZ is) 
+            (VP (VBG asking) 
+              (NP-1 (NNS shareholders) )
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB retain) 
+                    (NP 
+                      (NP (RB only) (CD one) (NN director) )
+                      (, ,) 
+                      (NP (NNP James) (NNP R.) (NNP Lees) )
+                      (, ,) 
+                      (NP (DT a) (NNP Newport) (NN vice) (NN president) ))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (S 
+        (NP-SBJ (DT The) (NN board) )
+        (VP (VBZ is) (RB n't) 
+          (VP (VBG proposing) 
+            (NP 
+              (NP (DT a) (NN slate) )
+              (PP (IN of) 
+                (NP (PRP$ its) (JJ own) ))))))
+      (CC and) 
+      (S 
+        (NP-SBJ-1 (DT the) (JJ other) (CD four) (JJ current) (NNS directors) )
+        (VP (VBP do) (RB n't) 
+          (VP (VB want) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB serve) 
+                  (PP-TMP-CLR (IN beyond) 
+                    (NP (DT the) (JJ special) (NN meeting) (NN date) )))))))))
+    (, ,) 
+    (NP-SBJ (NNP Newport) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (SINV 
+    (S 
+      (NP-SBJ-1 (NNP Mr.) (NNP Hollander) )
+      (`` ``) 
+      (VP 
+        (VP (VBZ is) 
+          (NP-PRD (DT the) (JJ new) (NN owner) ))
+        (CC and) 
+        (VP (VBZ wants) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB exercise) 
+                (NP (NN control) )))))))
+    (, ,) ('' '') 
+    (VP (VBD said) )
+    (NP-SBJ 
+      (NP (NNP Barret) (NNP B.) (NNP Weekes) )
+      (, ,) 
+      (NP 
+        (NP (NNP Newport) (POS 's) )
+        (NN chairman) ))
+    (. .) ))

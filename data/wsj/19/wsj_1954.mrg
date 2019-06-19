@@ -1,0 +1,64 @@
+
+( (S 
+    (NP-SBJ (DT The) (JJ Canadian) (NN government) )
+    (VP (VBD auctioned) 
+      (NP 
+        (NP 
+          (QP (CD 750) (CD million) )
+          (JJ Canadian) (NNS dollars) )
+        (PRN 
+          (-LRB- -LRB-)
+          (NP 
+            (QP ($ US$) (CD 637.5) (CD million) )
+            (-NONE- *U*) )
+          (-RRB- -RRB-) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (ADJP (CD 9.25) (NN %) )
+              (NNS bonds) )
+            (ADJP (JJ due) 
+              (NP-TMP (NNP Dec.) (CD 15) 
+                (, ,)
+                (CD 1994) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ average) (JJ accepted) (NN yield) )
+      (VP (NN bid) 
+        (NP (-NONE- *) )))
+    (VP (VBD was) 
+      (NP-PRD (CD 9.617) (NN %) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT a) (NN price) (NN equivalent) )
+          (PP (IN of) 
+            (NP (CD 98.523) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Proceeds) )
+      (PP (IN of) 
+        (NP (DT the) (NN sale) )))
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN used) 
+          (NP-2 (-NONE- *-1) )
+          (UCP 
+            (S-CLR 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB redeem) 
+                  (NP 
+                    (NP 
+                      (QP ($ C$) (CD 675) (CD million) )
+                      (-NONE- *U*) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NN government) (NNS bonds) )
+                        (VP (VBG maturing) 
+                          (NP-TMP (NNP Nov.) (CD 1) ))))))))
+            (CC and) 
+            (PP-PRP (IN for) 
+              (NP (JJ general) (NN government) (NNS purposes) ))))))
+    (. .) ))

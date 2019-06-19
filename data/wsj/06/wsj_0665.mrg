@@ -1,0 +1,144 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Employees) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NNP Globe) 
+            (CC and)
+            (NNP Mail) )
+          (, ,) 
+          (NP 
+            (NP (DT a) (NNP Thomson) (NNP Corp.) (NN newspaper) )
+            (PP-LOC (IN in) 
+              (NP (NNP Toronto) ))))
+        (, ,) ))
+    (VP (VBD voted) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB accept) 
+            (NP (DT a) (JJ tentative) (NN contract) (NN agreement) ))))
+      (NP-TMP (NNP Saturday) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG averting) 
+          (NP 
+            (NP (DT a) (NN strike) )
+            (PP-LOC (IN at) 
+              (NP 
+                (NP (NNP Canada) (POS 's) )
+                (JJ leading) (NN daily) ))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP 
+        (NP (DT the) (NNS terms) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (JJ three-year) (NN contract) )
+            (, ,) 
+            (ADJP (JJ similar) 
+              (PP (TO to) 
+                (NP 
+                  (NP (CD one) )
+                  (VP (VBN reached) 
+                    (NP (-NONE- *) )
+                    (PP-LOC (IN at) 
+                      (NP 
+                        (NP (NNP Torstar) (NNP Corp.) (POS 's) )
+                        (NNP Toronto) (NNP Star) (NN newspaper) ))
+                    (NP-TMP (RBR earlier) (DT this) (NN month) )))))
+            (, ,) ))))
+    (NP-SBJ (DT the) (CD 500) (NNP Globe) 
+      (CC and)
+      (NNP Mail) (NNS workers) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB see) 
+          (NP 
+            (NP (DT a) (NN raise) )
+            (PP (IN of) 
+              (NP-1 (CD 8) (NN %) )))
+          (PP-TMP-2 (IN in) 
+            (NP 
+              (NP (DT the) (NN contract) (POS 's) )
+              (JJ first) (NN year) )))
+        (CC and) 
+        (VP 
+          (NP=1 (CD 7) (NN %) )
+          (PP-TMP=2 (IN in) 
+            (NP 
+              (NP (DT each) )
+              (PP (IN of) 
+                (NP (DT the) (JJ following) (CD two) (NNS years) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Lorne) (NNP Slotnick) )
+      (, ,) 
+      (NP 
+        (NP (NN vice) (NN chairman) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNP Southern) (NNP Ontario) (NNP Newspaper) (NNP Guild) )
+            (, ,) 
+            (NP 
+              (NP (DT the) (NN union) )
+              (VP (VBG representing) 
+                (NP (DT the) (NNS workers) )))
+            (, ,) ))))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Thomson) )
+          (VP (VBD made) 
+            (NP (JJ significant) (NNS concessions) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT the) (JJ final) (NN round) )
+                (PP (IN of) 
+                  (NP (NNS talks) ))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (PP (IN In) 
+        (NP 
+          (NP (NN addition) )
+          (PP (TO to) 
+            (NP (NN wage) (NNS increases) ))))
+      (, ,) 
+      (NP-SBJ (DT the) (NN union) )
+      (VP (VBD negotiated) 
+        (NP (JJ improved) 
+          (NX 
+            (NX (NN vacation) (NNS plans) )
+            (, ,) 
+            (NX (NN benefit) (NNS packages) )
+            (CC and) 
+            (NX (NN pension) (NNS plans) )))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Slotnick) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP 
+              (QP (JJR more) (IN than) (CD 70) )
+              (NN %) )
+            (PP (IN of) 
+              (NP (DT the) (NN bargaining) (NN unit) )))
+          (VP (VBD voted) 
+            (PP-MNR (IN in) 
+              (NP 
+                (NP (NN favor) )
+                (PP (IN of) 
+                  (NP (DT the) (NN agreement) ))))))))
+    (. .) ))

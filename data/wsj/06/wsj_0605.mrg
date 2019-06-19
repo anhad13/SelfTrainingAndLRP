@@ -1,0 +1,42 @@
+
+( (S 
+    (PP-LOC (IN UNDER) 
+      (NP 
+        (NP (DT A) (NN PROPOSAL) 
+          (S (-NONE- *ICH*-1) ))
+        (PP (IN by) 
+          (NP (NNPS Democrats) ))
+        (S-1 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB expand) 
+              (NP (NNP Individual) (NNP Retirement) (NNPS Accounts) ))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT a) 
+        (ADJP ($ $) (CD 2,000) (-NONE- *U*) )
+        (NN contribution) )
+      (PP (IN by) 
+        (NP 
+          (NP (DT a) (NN taxpayer) )
+          (PP-LOC (IN in) 
+            (NP (DT the) 
+              (ADJP (CD 33) (NN %) )
+              (NN bracket) )))))
+    (VP (MD would) 
+      (VP (VB save) 
+        (NP ($ $) (CD 330) (-NONE- *U*) )
+        (PP (IN on) 
+          (NP (PRP$ his) (NNS taxes) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN savings) )
+    (VP (VBD was) 
+      (VP (VBN given) 
+        (NP (-NONE- *-1) )
+        (ADVP-MNR (RB incorrectly) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP Friday) (POS 's) )
+            (NN edition) ))))
+    (. .) ))

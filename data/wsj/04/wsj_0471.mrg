@@ -1,0 +1,117 @@
+
+( (S 
+    (NP-SBJ (NNP Dataproducts) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD filed) 
+            (NP (DT a) (NN lawsuit) )
+            (PP-LOC (IN in) 
+              (NP (NNP Delaware) (NNP Chancery) (NNP Court) ))
+            (S-PRP 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB block) 
+                  (NP 
+                    (NP (DT a) (NN tender) (NN offer) )
+                    (PP (IN by) 
+                      (NP (NNP DPC) (NNP Acquisition) (NNP Partners) ))))))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VBG alleging) 
+                (SBAR (IN that) 
+                  (S 
+                    (NP-SBJ (DT the) (NN hostile) (NN offer) )
+                    (VP (VBZ violates) 
+                      (NP 
+                        (NP (DT a) (JJ standstill) (NN agreement) )
+                        (PP (IN between) 
+                          (NP (DT the) (CD two) (NNS concerns) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP DPC) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN investor) (NN group) )
+        (VP (VBN led) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS 
+              (ADJP (NNP New) (JJ York-based) )
+              (NNP Crescott) (NNP Investment) (NNP Associates) ))))
+      (, ,) )
+    (VP (VBD had) 
+      (NP-ADV (PRP itself) )
+      (VP (VBD filed) 
+        (NP (DT a) (NN suit) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NN state) (NN court) )
+            (PP-LOC (IN in) 
+              (NP (NNP Los) (NNP Angeles) ))))
+        (S-ADV 
+          (NP-SBJ-2 (-NONE- *-1) )
+          (VP (VBG seeking) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB nullify) 
+                  (NP (DT the) (NN agreement) ))))))))
+    (. .) ))
+( (S 
+    (NP-TMP (RBR Earlier) (DT this) (NN year) )
+    (, ,) 
+    (NP-SBJ-1 (NNP Dataproducts) )
+    (VP (VBD had) 
+      (VP (VBN rejected) 
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (ADJP ($ $) (CD 15) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) ))
+            (NN offer) )
+          (PP (IN from) 
+            (NP (NNP DPC) )))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG saying) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ-2 (PRP it) )
+                (VP (VBD was) (RB n't) 
+                  (VP 
+                    (ADVP (RB adequately) )
+                    (VBN financed) 
+                    (NP (-NONE- *-2) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP DPC) )
+    (NP-TMP (JJ last) (NN week) )
+    (VP (VBD launched) 
+      (NP 
+        (NP (DT a) (JJ new) 
+          (, ,)
+          (ADJP ($ $) (JJ 10-a-share) (-NONE- *U*) )
+          (NN offer) )
+        (PP (IN for) 
+          (NP (DT the) 
+            (ADJP (NNP Woodland) (NNP Hills) 
+              (, ,)
+              (JJ Calif.-based) )
+            (NN computer) (NN printer) (NN maker) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP DPC) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD could) (RB n't) 
+            (VP (VB comment) 
+              (PP-CLR (IN on) 
+                (NP (DT the) (NN suit) )))))))
+    (. .) ))

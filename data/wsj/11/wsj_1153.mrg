@@ -1,0 +1,112 @@
+
+( (S 
+    (NP-SBJ (NNP Boeing) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Trans) (NNP European) (NNP Airways) )
+          (VP (VBD ordered) 
+            (NP 
+              (NP 
+                (QP (DT a) (NN dozen) )
+                (CD 737) (NNS jetliners) )
+              (VP (VBN valued) 
+                (NP (-NONE- *) )
+                (PP-CLR (IN at) 
+                  (NP 
+                    (NP (DT a) (NN total) )
+                    (PP (IN of) 
+                      (NP 
+                        (QP (RB about) ($ $) (CD 450) (CD million) )
+                        (-NONE- *U*) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (CD 300) 
+      (CC and)
+      (CD 400) (NN series) (NN aircraft) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN powered) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NNS engines) )
+              (VP 
+                (ADVP-MNR (RB jointly) )
+                (VBN produced) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (NNP General) (NNP Electric) (NNP Co.) )
+                    (CC and) 
+                    (NP 
+                      (NP (NNP Snecma) )
+                      (PP (IN of) 
+                        (NP (NNP France) )))))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (NNP Currently) )
+    (, ,) 
+    (S 
+      (NP-SBJ (NNP Boeing) )
+      (VP (VBZ has) 
+        (NP 
+          (NP (DT a) (NN backlog) )
+          (PP (IN of) 
+            (NP 
+              (QP (RB about) ($ $) (CD 80) (CD billion) )
+              (-NONE- *U*) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-1 (NN production) )
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (VP (VBN slowed) 
+            (NP (-NONE- *-1) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP 
+                  (NP (DT a) (NN strike) )
+                  (PP (IN of) 
+                    (NP (CD 55,000) (NNS machinists) )))
+                (, ,) 
+                (SBAR 
+                  (WHNP-2 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-2) )
+                    (VP (VBD entered) 
+                      (NP (PRP$ its) (JJ 22nd) (NN day) )
+                      (NP-TMP (NN today) ))))))))))
+    (. .) ))
+( (S 
+    (NP-TMP (JJ Last) (NN week) )
+    (, ,) 
+    (NP-SBJ-2 (DT a) (NN mediator) )
+    (VP (VBD failed) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB rekindle) 
+            (NP 
+              (NP (NNS talks) )
+              (PP (IN between) 
+                (NP 
+                  (NP (DT the) (NN company) )
+                  (CC and) 
+                  (NP 
+                    (NP (DT the) (NNS strikers) )
+                    (, ,) 
+                    (SBAR 
+                      (WHNP-1 (WP who) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (VBP have) 
+                          (VP (VBN rejected) 
+                            (NP 
+                              (NP (DT a) (NN pay) (NN raise) (NN offer) )
+                              (PP (IN of) 
+                                (NP 
+                                  (NP (CD 10) (NN %) )
+                                  (PP-TMP (IN over) 
+                                    (NP (CD three) (NNS years) )))))))))))))))))
+    (. .) ))

@@ -1,0 +1,804 @@
+
+( (S 
+    (NP-SBJ-2 (NNP Ford) (NNP Motor) (NNP Co.) )
+    (VP (VBD intensified) 
+      (NP 
+        (NP (PRP$ its) (NN battle) )
+        (PP (IN with) 
+          (NP (NNP General) (NNPS Motors) (NNP Corp.) ))
+        (PP (IN over) 
+          (NP (NNP Jaguar) (NNP PLC) )))
+      (PP-MNR (IN by) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (VBG saying) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ-3 (PRP it) )
+                (VP (VBZ is) 
+                  (VP (VBN prepared) 
+                    (S 
+                      (NP-SBJ (-NONE- *-3) )
+                      (VP (TO to) 
+                        (VP (VB make) 
+                          (NP 
+                            (NP (DT a) (NN bid) )
+                            (PP (IN for) 
+                              (NP 
+                                (NP (DT all) )
+                                (PP (IN of) 
+                                  (NP (DT the) (JJ British) (NN auto) (NN maker) )))))
+                          (SBAR-TMP 
+                            (WHADVP-4 (WRB when) )
+                            (S 
+                              (NP-SBJ-1 
+                                (NP (NNS restrictions) )
+                                (PP (IN on) 
+                                  (NP (PRP$ its) (NN shareholding) )))
+                              (VP (VBP are) 
+                                (VP (VBN lifted) 
+                                  (NP (-NONE- *-1) )
+                                  (ADVP-TMP (-NONE- *T*-4) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN statement) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT a) (NNP Ford) (NN filing) )
+            (PP (IN with) 
+              (NP (DT the) (NNP U.S.) (NNPS Securities) 
+                (CC and)
+                (NNP Exchange) (NNP Commission) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ford) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB say) 
+        (SBAR 
+          (SBAR 
+            (WHNP-1 (WRB how) (JJ much) )
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (MD might) 
+                (VP (VB offer) 
+                  (NP (-NONE- *T*-1) )
+                  (PP-CLR (IN for) 
+                    (NP (NNP Jaguar) ))))))
+          (, ,) (CC or) 
+          (FRAG 
+            (WHADVP (WRB when) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ British) (NN government) )
+    (ADVP-TMP (RB currently) )
+    (VP (VBZ forbids) 
+      (NP-1 (DT any) (JJ outside) (NN investor) )
+      (PP-CLR (IN from) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG holding) 
+            (NP 
+              (NP 
+                (QP (RBR more) (IN than) (CD 15) )
+                (NN %) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (NNS shares) )))
+            (PP-MNR (IN without) 
+              (NP (NN permission) )))))
+      (PP-TMP (IN until) 
+        (NP (NNP Dec.) (CD 31) )))
+    (, ,) ))
+( (S (CC But) 
+    (PP (IN with) 
+      (NP 
+        (NP 
+          (NP (PRP$ its) (NN stake) )
+          (PP-LOC (IN in) 
+            (NP (NNP Jaguar) )))
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WDT which) )
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD raised) 
+              (NP (-NONE- *T*-1) )
+              (NP-TMP (NN yesterday) )
+              (PP-DIR (TO to) 
+                (NP (CD 11.95) (NN %) )))))
+        (, ,) ))
+    (NP-SBJ (NNP Ford) )
+    (VP (MD could) 
+      (VP 
+        (VP (VB convene) 
+          (NP (DT a) (JJ special) (NNP Jaguar) (NNS shareholders) (POS ') (NN meeting) ))
+        (CC and) 
+        (VP (VB urge) 
+          (NP-2 (NNS holders) )
+          (S 
+            (NP-SBJ-3 (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB vote) 
+                (S 
+                  (NP-SBJ (-NONE- *-3) )
+                  (VP (TO to) 
+                    (VP (VB drop) 
+                      (NP (DT the) (NN restriction) )
+                      (ADVP-TMP (RBR sooner) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (JJ successful) (NN vote) )
+    (VP (MD would) 
+      (VP (VB put) 
+        (NP (NN pressure) 
+          (S (-NONE- *ICH*-1) ))
+        (PP-PUT (IN on) 
+          (NP (DT the) (JJ British) (NN government) ))
+        (S-1 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB lift) 
+              (NP (DT the) (NN restriction) ))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP We) )
+      (VP (VBP have) (RB not) 
+        (VP (VBN made) 
+          (NP (DT that) (NN decision) ('' '') 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB seek) 
+                  (NP 
+                    (NP (DT a) (NNP Jaguar) (JJ special) (NNS shareholders) (POS ') )
+                    (NN meeting) ))))))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (NNP Martyn) (NNP Watkins) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NNP Ford) (NN spokesman) )
+        (PP-LOC (IN in) 
+          (NP (NNP London) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP 
+      (VP (VBD emphasized) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NN car) (NN maker) )
+            (ADVP (RB only) )
+            (VP (MD would) 
+              (VP (VB bid) 
+                (PP-CLR (IN for) 
+                  (NP 
+                    (NP (DT all) )
+                    (PP (IN of) 
+                      (NP (NNP Jaguar) ))))
+                (PP-LOC (IN under) 
+                  (NP (DT the) (JJ right) (NNS circumstances) )))))))
+      (, ,) 
+      (CC and)
+      (VP (VBD said) (`` ``) 
+        (S 
+          (NP-SBJ (DT those) (NNS circumstances) )
+          (VP (VBP are) (RB n't) 
+            (ADJP-PRD (JJ right) (CC or) (JJ possible) )
+            (PP-TMP (IN at) 
+              (NP (DT the) (NN moment) ))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-TMP (JJ Last) (NN month) )
+    (, ,) 
+    (NP-SBJ (NNP Ford) )
+    (VP (VBD announced) 
+      (NP (NNS plans) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB acquire) 
+              (NP 
+                (NP 
+                  (QP (RB as) (RB much) (IN as) (CD 15) )
+                  (NN %) )
+                (PP (IN of) 
+                  (NP (NNP Jaguar) ))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN Since) 
+      (NP (RB then) ))
+    (, ,) 
+    (NP-SBJ (NNP Jaguar) (NNS officials) )
+    (VP 
+      (VP (VBP have) 
+        (VP (VBN confirmed) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (PRP they) )
+              (VP (VBP are) 
+                (VP (VBG discussing) 
+                  (NP 
+                    (NP (DT an) (NN alliance) )
+                    (PP (IN with) 
+                      (NP (NNP GM) )))))))))
+      (CC and) 
+      (VP (VBD said) 
+        (NP-TMP (JJ last) (NN week) )
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (PRP they) )
+            (VP (VBD hoped) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB reach) 
+                    (NP (DT an) (NN agreement) )
+                    (PP-TMP (IN within) 
+                      (NP (DT a) (NN month) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Analysts) )
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (VP (VBG expecting) 
+          (NP 
+            (NP (DT a) (JJ GM-Jaguar) (NN pact) )
+            (SBAR 
+              (WHNP-1 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (MD would) 
+                  (VP 
+                    (VP (VB give) 
+                      (NP (DT the) (NNP U.S.) (NN car) (NN maker) )
+                      (NP 
+                        (NP (DT an) (JJ eventual) 
+                          (ADJP (CD 30) (NN %) )
+                          (NN stake) )
+                        (PP-LOC (IN in) 
+                          (NP (DT the) (JJ British) (NN company) ))))
+                    (CC and) 
+                    (VP (VB create) 
+                      (NP 
+                        (NP (JJ joint) (NNS ventures) )
+                        (SBAR 
+                          (WHNP-2 (WDT that) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-2) )
+                            (VP (MD would) 
+                              (VP (VB produce) 
+                                (NP 
+                                  (NP (DT an) (JJ executive-model) (NN range) )
+                                  (PP (IN of) 
+                                    (NP (NNS cars) )))))))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT the) (NN specter) )
+      (PP (IN of) 
+        (S-NOM 
+          (NP-SBJ (NNP Ford) )
+          (VP 
+            (ADVP-TMP (RB eventually) )
+            (VBG launching) 
+            (NP (DT a) (JJ full-fledged) (NN bid) )))))
+    (VP (MD could) 
+      (VP (VB unravel) 
+        (NP (DT the) (JJ GM-Jaguar) (NNS talks) )))
+    (. .) ))
+( (SINV 
+    (S-TPC-3 
+      (NP-SBJ-2 (NNP Jaguar) )
+      (VP (VBZ seems) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (VP (VBG losing) 
+                (NP (NN interest) )
+                (PP-CLR (IN in) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG giving) 
+                      (NP (NNP GM) )
+                      (NP (DT a) (NN minority) (NN stake) ))))))))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (NP-SBJ-4 
+      (NP (CD one) (NN individual) )
+      (ADJP (JJ close) 
+        (PP (TO to) 
+          (NP (DT the) (NNS talks) ))))
+    (, ,) 
+    (S 
+      (NP-SBJ (-NONE- *-4) )
+      (VP (VBG adding) 
+        (, ,)
+        (`` ``) 
+        (S 
+          (NP-SBJ (PRP It) )
+          (VP (MD would) (RB n't) 
+            (VP (VB surprise) 
+              (NP (PRP me) )
+              (SBAR-ADV (IN if) 
+                (S 
+                  (-LRB- -LCB-)
+                  (NP-SBJ-5 (NNP Jaguar) (NNS executives) )
+                  (-RRB- -RCB-) 
+                  (VP (VBP want) 
+                    (S 
+                      (NP-SBJ (-NONE- *-5) )
+                      (VP (TO to) 
+                        (VP (VB wait) 
+                          (CC and)
+                          (VB see) 
+                          (SBAR 
+                            (WHNP-1 (WP what) )
+                            (S 
+                              (NP-SBJ 
+                                (NP (DT the) (NN color) )
+                                (PP (IN of) 
+                                  (NP (DT that) 
+                                    (-LRB- -LCB-)
+                                    (NNP Ford) (NN bid) 
+                                    (-RRB- -RCB-)
+                                    )))
+                              (VP (VBZ is) 
+                                (NP-PRD (-NONE- *T*-1) ))))
+                          ('' '') 
+                          (ADVP-TMP (JJ first) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD predicted) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NNP Ford) (NNS officials) )
+          (VP (MD will) 
+            (VP (VB meet) 
+              (PP-CLR (IN with) 
+                (NP (NNP Jaguar) (NNS executives) ))
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ next) (NN week) ))
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB outline) 
+                    (NP (PRP$ their) (VBN proposed) (NN offer) )))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 
+        (NP (NNP Sir) (NNP John) (NNP Egan) )
+        (, ,) 
+        (NP 
+          (NP (NNP Jaguar) (POS 's) )
+          (NN chairman) )
+        (, ,) )
+      (ADVP (RB so) (RB far) )
+      (VP (VBZ has) 
+        (VP (VBN refused) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB meet) 
+                (PP-CLR (IN with) 
+                  (NP (NNP Ford) (NNS officials) ))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-2 (PRP he) )
+      (VP (VBZ is) 
+        (VP (VBN believed) 
+          (S 
+            (NP-SBJ-3 (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (ADJP-PRD (JJ willing) 
+                  (S 
+                    (NP-SBJ (-NONE- *-3) )
+                    (VP (TO to) 
+                      (VP (VB consider) 
+                        (NP (DT a) (JJ specific) (NN bid) (NN proposal) )))))))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-2 
+      (PP (IN As) 
+        (PP (IN for) 
+          (NP (NNP GM) )))
+      (, ,) 
+      (NP-SBJ-1 (PRP$ its) (`` ``) (NN fallback) (NN position) )
+      (VP (VBZ has) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (NP-PRD 
+                (NP (DT a) (JJ full) (NN bid) )
+                (NP (PRP itself) )))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP Stephen) (NNP Reitman) )
+      (, ,) 
+      (NP 
+        (NP (JJ European) (NN auto-industry) (NN analyst) )
+        (PP-LOC (IN at) 
+          (NP (NNP London) (NNS brokers) 
+            (NP (NNP UBS-Phillips) (CC &) (NNP Drew) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NNP Ford) (NN takeover) )
+      (PP (IN of) 
+        (NP (NNP Jaguar) )))
+    (VP (MD would) (`` ``) 
+      (VP (VB have) 
+        (NP 
+          (NP (JJ such) (NNS implications) )
+          (PP (IN for) 
+            (NP 
+              (NP (DT the) (NN balance) )
+              (PP (IN of) 
+                (NP (NN power) ))
+              (PP-TMP (IN in) 
+                (NP (DT the) (CD 1990s) ))))
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ-1 (NNP General) (NNPS Motors) )
+              (VP (MD ca) (RB n't) 
+                (VP (VB afford) 
+                  (S 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (TO to) 
+                      (VP (VB step) 
+                        (ADVP-LOC (RB aside) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP They) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB throw) 
+              (NP (PRP$ their) (NN hat) )
+              (PP-CLR (IN in) 
+                (NP (DT the) (NN ring) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT A) (NNP GM) (NN spokesman) )
+    (NP-TMP (NN yesterday) )
+    (VP (VBD reiterated) 
+      (NP 
+        (NP 
+          (NP (DT the) (NN company) (POS 's) )
+          (NN interest) )
+        (PP (IN in) 
+          (S-NOM 
+            (NP-SBJ-1 (-NONE- *) )
+            (VP (VBG acquiring) 
+              (NP (DT a) (NN minority) (NN stake) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB help) 
+                    (S 
+                      (NP-SBJ (NNP Jaguar) )
+                      (VP (VB remain) 
+                        (ADJP-PRD (JJ independent) )))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT A) (JJ pitched) (NN battle) )
+      (VP (MD could) 
+        (VP (VB mean) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ (NNP Jaguar) )
+              (VP (MD would) 
+                (VP (VB fetch) 
+                  (NP 
+                    (NP 
+                      (NP 
+                        (NP (# #) (CD 10) (-NONE- *U*) )
+                        (PRN 
+                          (-LRB- -LRB-)
+                          (NP ($ $) (CD 16.02) (-NONE- *U*) )
+                          (-RRB- -RRB-) ))
+                      (NP-ADV (DT a) (NN share) ))
+                    (, ,) (CC or) 
+                    (NP 
+                      (NP 
+                        (QP (IN about) (# #) (CD 1.8) (CD billion) )
+                        (-NONE- *U*) )
+                      (PRN 
+                        (-LRB- -LRB-)
+                        (NP 
+                          (QP ($ $) (CD 2.88) (CD billion) )
+                          (-NONE- *U*) )
+                        (-RRB- -RRB-) ))
+                    (, ,) ))))))))
+    (NP-SBJ (JJ several) (NNS analysts) )
+    (VP (VBP believe) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN prospect) )
+      (PP (IN of) 
+        (NP (PDT such) (DT a) (NN takeover) (NN fight) )))
+    (VP (VBZ has) 
+      (VP (VBN sent) 
+        (S 
+          (NP-SBJ (NNP Jaguar) (NNS shares) )
+          (VP (VBG soaring) ))
+        (PP-TMP (IN in) 
+          (NP (JJ recent) (NNS weeks) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP U.S.) (NN takeover-stock) (NNS speculators) )
+    (ADVP-TMP (RB now) )
+    (VP (VBP own) 
+      (NP 
+        (NP (DT an) (VBN estimated) (CD 25) (NN %) )
+        (PP (IN of) 
+          (NP (NNP Jaguar) (NNS shares) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (VBG declining) (JJ London) (NN stock) (NN market) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (NNP Jaguar) (NNS shares) )
+    (VP (VBD were) 
+      (ADVP-PRD (IN down) 
+        (NP (CD four) (NN pence) )
+        (PP-TMP (IN from) 
+          (NP (NNP Monday) )))
+      (PP-LOC (IN in) 
+        (NP (JJ late) (NN trading) ))
+      (, ,) 
+      (PP-CLR (IN at) 
+        (NP 
+          (NP 
+            (NP (CD 694) (NN pence) )
+            (PRN 
+              (-LRB- -LRB-)
+              (NP ($ $) (CD 11.11) (-NONE- *U*) )
+              (-RRB- -RRB-) ))
+          (NP-ADV (DT a) (NN share) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT the) (NNP U.S.) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Jaguar) (POS 's) )
+      (JJ American) (NN depositary) (NNS receipts) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 12.5) (NNS cents) )
+      (PP-LOC (IN in) 
+        (NP (JJ over-the-counter) (NN trading) ))
+      (, ,) 
+      (PP-DIR (TO to) 
+        (NP ($ $) (CD 11.25) (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) (NNP Ford) 
+      (CC and)
+      (NNP GM) )
+    (VP 
+      (ADVP-MNR (RB badly) )
+      (VBP need) 
+      (NP 
+        (NP (DT a) (NN luxury) (NN brand) )
+        (SBAR-PRD 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB combat) 
+                (NP 
+                  (NP (JJ new) (NN competition) )
+                  (PP (IN from) 
+                    (NP (DT the) (NNP Japanese) )))
+                (PP-LOC (IN in) 
+                  (NP (DT the) (JJ European) 
+                    (CC and)
+                    (NNP U.S.) (NNS markets) ))))))))
+    (. .) ))
+( (S (CC And) 
+    (NP-SBJ-1 
+      (ADJP (RB financially) (VBN strapped) )
+      (NNP Jaguar) )
+    (VP (VBZ has) 
+      (VP (VBN spent) 
+        (NP (IN over) (DT a) (NN year) )
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG looking) 
+            (PP-CLR (IN for) 
+              (NP 
+                (NP (DT a) (JJ rich) (NN uncle) )
+                (SBAR 
+                  (WHNP-2 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-2) )
+                    (VP (TO to) 
+                      (VP (VB provide) 
+                        (NP 
+                          (NP (NN cash) )
+                          (CC and) 
+                          (NP (JJ technological) (NN know-how) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBZ has) 
+      (VP (VBN expressed) 
+        (NP 
+          (NP (DT a) (NN preference) )
+          (PP (IN for) 
+            (NP 
+              (NP (NNP GM) )
+              (PP (IN over) 
+                (NP (NNP Ford) )))))
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (NNP GM) )
+            (VP (VBZ has) 
+              (VP (VBN promised) 
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (MD would) 
+                      (VP (VB keep) 
+                        (S 
+                          (NP-SBJ (NNP Jaguar) )
+                          (ADJP-PRD (JJ independent) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Ford) (POS 's) )
+      (NN need) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB acquire) 
+            (NP 
+              (NP (DT some) (CC or) (DT all) )
+              (PP (IN of) 
+                (NP (NNP Jaguar) )))))))
+    (VP (VBD became) 
+      (ADJP-PRD (RBR more) (JJ acute) )
+      (NP-TMP 
+        (NP (JJ last) (NN week) )
+        (SBAR 
+          (WHADVP-1 (WRB when) )
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD abandoned) 
+              (NP 
+                (NP (DT a) (JJ four-year) (NN effort) )
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (NN market) 
+                      (NP (PRP$ its) (JJ German-built) (NNP Merkur) (NNP Scorpio) (NN sedan) )
+                      (PP-CLR (IN as) 
+                        (NP (DT a) (JJ European) (NN luxury) (NN import) ))
+                      (PP-LOC (IN in) 
+                        (NP (DT the) (NNP U.S.) ))))))
+              (ADVP-TMP (-NONE- *T*-1) ))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Then) )
+    (, ,) 
+    (NP-TMP (JJ last) (NNP Friday) )
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Ford) (POS 's) )
+        (NNS talks) )
+      (PP (IN about) 
+        (NP 
+          (NP (DT a) (JJ possible) (NN alliance) )
+          (PP (IN with) 
+            (NP 
+              (NP (NNP Saab-Scania) (NNP AB) )
+              (PP (IN of) 
+                (NP (NNP Sweden) )))))))
+    (VP (VBD collapsed) )
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP GM) (POS 's) )
+        (NN interest) )
+      (PP (IN in) 
+        (NP (NNP Jaguar) )))
+    (VP (VBZ reflects) 
+      (NP (DT a) (NN desire) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB help) 
+              (VP (VB diversify) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NNP U.S.) (NN company) (POS 's) )
+                    (NNS products) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (DT the) (VBG growing) (NN luxury-car) (NN segment) )
+                      (PP (IN of) 
+                        (NP (DT the) (NN market) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP$ Its) (NNP Opel) (NN line) )
+      (VP (VBZ has) 
+        (NP 
+          (NP (DT a) (JJ solid) (NN image) )
+          (CC and) 
+          (NP 
+            (NP (DT a) (JJ recent) (NN string) )
+            (PP (IN of) 
+              (NP 
+                (ADJP (RB highly) (JJ successful) )
+                (JJ new) (NNS models) ))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP it) )
+      (VP (VBZ lacks) 
+        (NP 
+          (NP (NNP Jaguar) (POS 's) )
+          (NN cachet) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP GM) (NNS officials) )
+    (ADVP (RB also) )
+    (VP (VBP see) 
+      (NP 
+        (NP (DT a) (NN lot) )
+        (PP (IN of) 
+          (NP (NN potential) )))
+      (PP-CLR (IN in) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG marrying) 
+            (NP 
+              (NP (NNP Jaguar) (POS 's) )
+              (NNS cars) )
+            (PP-CLR (TO to) 
+              (NP 
+                (NP (DT the) (JJ technological) (NN know-how) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Group) (NNP Lotus) (NNP PLC) )
+                    (, ,) 
+                    (NP 
+                      (NP (DT a) (JJ British) (NN engineering) 
+                        (CC and)
+                        (NN specialty) (NN car) (NN maker) )
+                      (SBAR 
+                        (WHNP-1 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (NNP GM) )
+                          (VP (VBD bought) 
+                            (NP (-NONE- *T*-1) )
+                            (PP-TMP (IN in) 
+                              (NP (CD 1986) ))))))))))))))
+    (. .) ))

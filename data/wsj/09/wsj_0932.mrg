@@ -1,0 +1,264 @@
+
+( (S 
+    (NP-SBJ-3 
+      (NP (DT The) (NN amount) )
+      (PP (IN of) 
+        (NP 
+          (NP (NN blood) )
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (JJ surgical) (NNS patients) )
+              (VP (MD can) 
+                (VP (VB donate) 
+                  (CC and)
+                  (VB store) 
+                  (NP (-NONE- *T*-1) )
+                  (PP-TMP (IN before) 
+                    (NP (NN surgery) )))))))))
+    (VP (MD can) 
+      (VP (VB be) 
+        (VP (VBN increased) 
+          (NP (-NONE- *-3) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (DT the) (JJ new) 
+                (ADJP (RB genetically) (VBN engineered) )
+                (NN drug) )
+              (, ,) 
+              (NP (NNP EPO) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP EPO) )
+      (, ,) (CC or) 
+      (NP (NN erythropoietin) )
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN protein) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ-2 (DT the) (JJ human) (NN body) )
+            (VP (VBZ makes) 
+              (NP (-NONE- *T*-1) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB stimulate) 
+                    (NP 
+                      (NP (DT the) (NN growth) )
+                      (PP (IN of) 
+                        (NP (JJ red) (NN blood) (NNS cells) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT A) 
+        (ADJP (RB genetically) (VBN engineered) )
+        (NN version) )
+      (PP (IN of) 
+        (NP (DT the) (JJ human) (NN protein) ))
+      (VP (VBN developed) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (NNP Amgen) (NNP Corp.) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Thousand) (NNP Oaks) )
+                (, ,) 
+                (NP (NNP Calif.) )
+                (, ,) ))))))
+    (ADVP-TMP (RB recently) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (VP (VBN marketed) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (DT the) (NNP Ortho) (NNP Pharmaceuticals) (NN division) )
+              (PP (IN of) 
+                (NP (NNP Johnson) (CC &) (NNP Johnson) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT A) (VBG competing) (NN version) )
+      (PP (IN of) 
+        (NP (NNP EPO) )))
+    (VP (VBZ is) 
+      (VP (VBG being) 
+        (VP (VBN developed) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NNP Genetics) (NNP Institute) (NNP Inc.) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (NNP Cambridge) )
+                  (, ,) 
+                  (NP (NNP Mass) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN drug) )
+    (VP (VBZ is) 
+      (VP (VBG being) 
+        (VP (VBN used) 
+          (NP (-NONE- *-1) )
+          (ADVP (RB primarily) )
+          (S-CLR 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB treat) 
+                (NP (NNS anemias) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (JJ new) (NN experiment) )
+      (, ,) 
+      (VP (VBN reported) 
+        (NP (-NONE- *) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP 
+              (NP (DT this) (NN week) (POS 's) )
+              (NNP New) (NNP England) (NNP Journal) )
+            (PP (IN of) 
+              (NP (NNP Medicine) )))))
+      (, ,) )
+    (VP (VBD involved) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG giving) 
+          (NP 
+            (NP (NNS injections) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Amgen) (POS 's) )
+                (NNP EPO) )))
+          (PP-DTV (TO to) 
+            (NP 
+              (NP (CD 23) (NNS patients) )
+              (SBAR 
+                (WHNP-1 (WP who) )
+                (S 
+                  (NP-SBJ-2 (-NONE- *T*-1) )
+                  (VP (VBD wanted) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB store) 
+                          (NP 
+                            (NP (NNS units) )
+                            (PP (IN of) 
+                              (NP (PRP$ their) (JJ own) (NN blood) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS patients) )
+    (VP (VBD began) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG receiving) 
+          (NP (NNP EPO) (NNS injections) )
+          (PP-TMP 
+            (NP-ADV 
+              (QP (IN about) (DT a) )
+              (NN month) )
+            (IN before) 
+            (NP (PRP$ their) (VBN scheduled) (NN surgery) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP They) )
+    (ADVP-TMP (RB then) )
+    (VP (VBD began) 
+      (S 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (VBG donating) 
+          (NP (NN blood) )
+          (NP-TMP (RB twice) (DT a) (NN week) )
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (VBG receiving) 
+              (NP (DT an) (NNP EPO) (NN injection) )
+              (NP-TMP (DT each) (NN time) ))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (NNS tests) )
+        (VP (VBD indicated) 
+          (NP 
+            (NP (DT a) (JJ low) (NN number) )
+            (PP (IN of) 
+              (NP (JJ red) (NNS cells) ))))))
+    (, ,) 
+    (NP-SBJ-1 (NN blood) )
+    (VP (VBD was) (RB n't) 
+      (VP (VBN taken) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ EPO-treated) (NNS patients) )
+    (VP (VBD donated) 
+      (NP 
+        (NP (DT an) (NN average) )
+        (PP (IN of) 
+          (NP 
+            (NP (CD 5.4) (NNS units) )
+            (PP (IN of) 
+              (NP (NN blood) ))))
+        (NP-ADV (DT each) ))
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP 
+              (QP (RB only) (CD 4.1) )
+              (NNS units) )
+            (VP (VBN donated) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT a) (JJ similar) (NN group) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (JJ surgical) (NNS patients) )
+                      (SBAR 
+                        (WHNP-1 (WP who) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-1) )
+                          (VP (VBD received) 
+                            (NP (DT a) (NN placebo) (NN injection) )))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (NN volume) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ red) (NNS cells) )
+            (VP (VBN donated) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS (DT the) (JJ EPO-treated) (NNS patients) ))))))
+      (VP (VBD was) 
+        (ADVP-PRD 
+          (NP (CD 41) (NN %) )
+          (JJR higher) )
+        (PP (IN per) 
+          (NP (NN donor) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN research) (NN team) )
+      (VP (VBG representing) 
+        (NP 
+          (NP (DT a) (NN number) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNS hospitals) )
+              (CC and) 
+              (NP (NN blood) (NNS banks) ))))))
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

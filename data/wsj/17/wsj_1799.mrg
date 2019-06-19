@@ -1,0 +1,77 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (DT This) (NN maker) 
+        (CC and)
+        (NN marketer) )
+      (PP (IN of) 
+        (NP (NN cartridge) (NN tape) (NNS systems) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD completed) 
+            (NP 
+              (NP (DT the) (NN sale) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (QP (CD 2.85) (CD million) )
+                    (NNS shares) )
+                  (PP (IN of) 
+                    (NP (JJ common) ))
+                  (VP (VBN priced) 
+                    (NP (-NONE- *) )
+                    (PP-CLR (IN at) 
+                      (NP 
+                        (NP ($ $) (CD 10) (-NONE- *U*) )
+                        (NP-ADV (DT a) (NN share) )))))))
+            (PP-LOC (IN in) 
+              (NP (DT an) (JJ initial) (JJ public) (NN offering) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ is) 
+              (VP (VBG selling) 
+                (NP 
+                  (QP (CD two) (CD million) )
+                  (NNS shares) )))))
+        (CC and) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (DT the) (NN rest) )
+            (VP (VBP are) 
+              (VP (VBG being) 
+                (VP (VBN sold) 
+                  (NP (-NONE- *-1) )
+                  (PP (IN by) 
+                    (NP-LGS (JJ certain) (NNS stockholders) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Proceeds) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN used) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN for) 
+            (NP 
+              (NP (NN capital) (NNS expenditures) )
+              (CC and) 
+              (NP (VBG working) (NN capital) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Goldman) 
+        (, ,)
+        (NNP Sachs) (CC &) (NNP Co.) )
+      (CC and) 
+      (NP (NNP Montgomery) (NNPS Securities) (NNP Inc.) ))
+    (VP (VBP are) 
+      (VP (VBG co-managing) 
+        (NP (DT the) (NN offering) )))
+    (. .) ))

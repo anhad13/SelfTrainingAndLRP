@@ -1,0 +1,45 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (JJ French) (NN crude-steel) (NN production) )
+      (PP-TMP (IN in) 
+        (NP (NNP September) )))
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (CD 1,616,000) (JJ metric) (NNS tons) )
+        (, ,) 
+        (ADJP (JJ unchanged) 
+          (PP (IN from) 
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RBR earlier) )))
+        (, ,) )
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (DT the) (NNP National) (NNP Steel) (NNP Manufacturers) (POS ') )
+            (NN Association) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN association) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNP September) (NN total) )
+          (VP (VBN brought) 
+            (NP 
+              (NP (JJ French) (NN output) )
+              (PP (IN for) 
+                (NP 
+                  (NP (DT the) (JJ first) (CD nine) (NNS months) )
+                  (NP-TMP (DT this) (NN year) ))))
+            (PP-DIR (TO to) 
+              (NP (CD 14,789,000) (NNS tons) ))
+            (, ,) 
+            (ADVP (RB up) 
+              (NP (CD 4.5) (NN %) )
+              (PP (IN from) 
+                (ADVP-TMP 
+                  (NP (DT a) (NN year) )
+                  (RBR earlier) )))))))
+    (. .) ))

@@ -1,0 +1,203 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Moody) (POS 's) )
+      (NNP Investors) (NNP Service) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reduced) 
+            (NP 
+              (NP (PRP$ its) (NN rating) )
+              (PP-LOC (IN on) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 165) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (JJ subordinated) (NN debt) )
+                      (PP (IN of) 
+                        (NP (DT this) 
+                          (NAC-LOC (NNP Beverly) (NNP Hills) 
+                            (, ,)
+                            (NNP Calif.) 
+                            (, ,)
+                            )
+                          (NN thrift) ))))))))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG citing) 
+          (NP 
+            (NP (NN turmoil) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT the) (NN market) )
+                (PP (IN for) 
+                  (NP (JJ low-grade) 
+                    (, ,)
+                    (JJ high-yield) (NNS securities) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN agency) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP 
+            (VP (VBD reduced) 
+              (NP 
+                (NP (PRP$ its) (NN rating) )
+                (PP-LOC (IN on) 
+                  (NP 
+                    (NP (DT the) (NN thrift) (POS 's) )
+                    (JJ subordinated) (NN debt) )))
+              (PP-DIR (TO to) 
+                (NP (JJ B-2) ))
+              (PP-DIR (IN from) 
+                (NP (JJ Ba-2) )))
+            (CC and) 
+            (VP (MD will) 
+              (VP (VB keep) 
+                (NP (DT the) (NN debt) )
+                (PP-LOC-CLR (IN under) 
+                  (NP (NN review) ))
+                (PP-PRP (IN for) 
+                  (NP (JJ possible) (JJ further) (NN downgrade) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Columbia) (NNP Savings) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (JJ major) (NN holder) )
+        (PP (IN of) 
+          (NP (JJ so-called) (NN junk) (NNS bonds) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ New) (JJ federal) (NN legislation) )
+    (VP (VBZ requires) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT all) (NNS thrifts) )
+          (VP (VBP divest) 
+            (NP (PRP themselves) )
+            (PP-CLR (IN of) 
+              (NP (JJ such) (JJ speculative) (NNS securities) ))
+            (PP-TMP (IN over) 
+              (NP 
+                (NP (DT a) (NN period) )
+                (PP (IN of) 
+                  (NP (NNS years) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Columbia) (NNP Savings) (NNS officials) )
+    (VP (VBD were) (RB n't) 
+      (ADJP-PRD (JJ available) 
+        (PP (IN for) 
+          (NP 
+            (NP (NN comment) )
+            (PP (IN on) 
+              (NP (DT the) (NN downgrade) ))))))
+    (. .) ))
+( (NP 
+    (NP (NNP FRANKLIN) (NNP SAVINGS) (NNP ASSOCIATION) )
+    (PRN 
+      (-LRB- -LRB-)
+      (NP-LOC 
+        (NP (NNP Ottawa) )
+        (, ,) 
+        (NP (NNP Kan.) ))
+      (-RRB- -RRB-) )
+    (: --) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Moody) (POS 's) )
+      (NNP Investors) (NNP Service) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD downgraded) 
+            (NP 
+              (NP (PRP$ its) (NN rating) )
+              (PP-LOC (-NONE- *ICH*-1) ))
+            (PP-DIR (TO to) 
+              (NP (JJ B-2) ))
+            (PP-DIR (IN from) 
+              (NP (JJ Ba-3) ))
+            (PP-LOC-1 (IN on) 
+              (NP 
+                (NP 
+                  (QP (JJR less) (IN than) ($ $) (CD 20) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT this) (NN thrift) (POS 's) )
+                    (JJ senior) (JJ subordinated) (NNS notes) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN rating) (NN concern) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP 
+              (NP (NNP Franklin) (POS 's) )
+              (`` ``) (JJ troubled) (NN diversification) (NN record) )
+            (PP-LOC (IN in) 
+              (NP (DT the) (NNS securities) (NN business) ))
+            ('' '') )
+          (VP (VBD was) 
+            (NP-PRD 
+              (NP (CD one) (NN reason) )
+              (PP (IN for) 
+                (NP (DT the) (NN downgrade) ))))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG citing) 
+          (NP 
+            (NP 
+              (NP (DT the) (NNS troubles) )
+              (PP-LOC (IN at) 
+                (NP (PRP$ its) (NNP L.F.) (NNP Rothschild) (NN subsidiary) )))
+            (CC and) 
+            (NP 
+              (NP (DT the) (JJ possible) (NN sale) )
+              (PP (IN of) 
+                (NP (JJ other) (NNS subsidiaries) )))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP They) )
+      (ADVP (RB perhaps) )
+      (VP (VBD had) 
+        (NP (NN concern) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (PRP we) )
+              (VP (VBD were) 
+                (VP (VBG getting) 
+                  (ADVP-DIR (IN out) 
+                    (PP (IN of) 
+                      (NP (PDT all) (DT these) ))))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (NNP Franklin) (NNP President) (NNP Duane) (NNP H.) (NNP Hall) )
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (PRP I) )
+    (VP (VBP think) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD was) 
+            (ADJP-PRD 
+              (NP (DT a) (JJ little) )
+              (JJ premature) 
+              (PP (IN on) 
+                (NP (PRP$ their) (NN part) )))))))
+    (. .) ))

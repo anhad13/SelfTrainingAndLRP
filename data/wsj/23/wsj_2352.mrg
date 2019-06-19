@@ -1,0 +1,174 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NAC (DT The) (NNP Second) (NNP U.S.) (NNP Circuit) (NNP Court) 
+          (PP (IN of) 
+            (NP (NNP Appeals) )))
+        (NN opinion) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NNP Arcadian) (NNP Phosphate) (NN case) )))
+    (VP (VBD did) (RB not) 
+      (VP (VB repudiate) 
+        (NP 
+          (NP (DT the) (NN position) )
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (NNP Pennzoil) (NNP Co.) )
+              (VP (VBD took) 
+                (NP (-NONE- *T*-1) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (PRP$ its) (NN dispute) )
+                    (PP (IN with) 
+                      (NP (NNP Texaco) ))))))))
+        (, ,) 
+        (ADVP (JJ contrary) 
+          (PP (TO to) 
+            (NP 
+              (NP (PRP$ your) (NNP Sept.) (CD 8) (NN article) )
+              (`` ``) 
+              (S-TTL 
+                (NP-SBJ (NN Court) )
+                (VP (VBZ Backs) 
+                  (NP 
+                    (NP (NNP Texaco) (POS 's) )
+                    (NN View) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (NNP Pennzoil) )
+                      (NN Case) ))
+                  (: --) 
+                  (ADVP-TMP (RB Too) (RB Late) ))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ fundamental) (NN rule) )
+      (PP (IN of) 
+        (NP (NN contract) (NN law) ))
+      (VP (VBN applied) 
+        (NP (-NONE- *) )
+        (PP-CLR (TO to) 
+          (NP (DT both) (NNS cases) ))))
+    (VP (VBD was) 
+      (SBAR-PRD (IN that) 
+        (S 
+          (NP-SBJ (NNS courts) )
+          (VP (MD will) (RB not) 
+            (VP (VB enforce) 
+              (NP 
+                (NP (NNS agreements) )
+                (SBAR 
+                  (WHPP-3 (TO to) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP-SBJ-2 (DT the) (NNS parties) )
+                    (VP (VBD did) (RB not) 
+                      (VP (VB intend) 
+                        (S 
+                          (NP-SBJ-1 (-NONE- *-2) )
+                          (VP (TO to) 
+                            (VP (VB be) 
+                              (VP (VBN bound) 
+                                (NP (-NONE- *-1) )
+                                (PP-CLR (-NONE- *T*-3) )))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (PP-LOC (IN In) 
+        (NP (DT the) (NNP Pennzoil\/Texaco) (NN litigation) ))
+      (, ,) 
+      (NP-SBJ (DT the) (NNS courts) )
+      (VP (VBD found) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-3 
+              (NP (NNP Pennzoil) )
+              (CC and) 
+              (NP (NNP Getty) (NNP Oil) ))
+            (VP (VBD intended) 
+              (S 
+                (NP-SBJ-1 (-NONE- *-3) )
+                (VP (TO to) 
+                  (VP (VB be) 
+                    (VP (VBN bound) 
+                      (NP (-NONE- *-1) ))))))))))
+    (: ;) 
+    (S 
+      (PP-LOC (IN in) 
+        (NP (NNP Arcadian) (NNP Phosphates) ))
+      (NP-SBJ (PRP they) )
+      (VP (VBD found) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (EX there) )
+            (VP (VBD was) 
+              (NP-PRD (DT no) (NN intention) 
+                (S 
+                  (NP-SBJ-2 (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB be) 
+                      (VP (VBN bound) 
+                        (NP (-NONE- *-2) )))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Admittedly) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN principle) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NNS cases) )))
+    (VP (VBZ is) 
+      (NP-PRD (DT the) (JJ same) ))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT the) (NN outcome) )
+      (PP (IN of) 
+        (NP (DT a) (JJ legal) (NN dispute) )))
+    (ADVP-TMP (RB almost) (RB always) )
+    (VP (VBZ turns) 
+      (PP-CLR (IN on) 
+        (NP (DT the) (NNS facts) )))
+    (. .) ))
+( (S (CC And) 
+    (NP-SBJ (DT the) (NNS facts) )
+    (, ,) 
+    (SBAR-ADV (IN as) 
+      (S 
+        (NP-SBJ-1 (-NONE- *) )
+        (VP (VBN found) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS (DT the) (JJ various) (NNS courts) ))
+          (PP-LOC (IN in) 
+            (NP (DT these) (CD two) (NNS lawsuits) )))))
+    (, ,) 
+    (VP (VBD were) 
+      (ADJP-PRD (JJ different) ))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB When) )
+      (S 
+        (NP-SBJ (PRP you) )
+        (VP (VBP suggest) 
+          (ADVP (RB otherwise) )
+          (ADVP-TMP (-NONE- *T*-1) ))))
+    (, ,) 
+    (NP-SBJ (PRP you) )
+    (VP 
+      (VP (VBP leave) 
+        (NP 
+          (NP (DT the) (NN realm) )
+          (PP (IN of) 
+            (NP (NN reporting) ))))
+      (CC and) 
+      (VP (VB enter) 
+        (NP 
+          (NP (DT the) (NN orbit) )
+          (PP (IN of) 
+            (NP (NN speculation) )))))
+    (. .) ))
+( (NP (NNP Charles) (NNP F.) (NNP Vihon) ))

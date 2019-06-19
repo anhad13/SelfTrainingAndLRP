@@ -1,0 +1,59 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP A.F.) (NNP Sloan) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 60) (NNS years) )
+        (JJ old) ))
+    (, ,) 
+    (VP (VBD announced) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (MD will) 
+            (VP (VB retire) 
+              (NP-TMP-CLR (JJ next) (NNP April) )
+              (PP-CLR (IN as) 
+                (NP 
+                  (NP 
+                    (NP (NN chairman) )
+                    (PP (-NONE- *RNR*-1) ))
+                  (CC and) 
+                  (NP 
+                    (NP (NN chief) (JJ executive) (NN officer) )
+                    (PP (-NONE- *RNR*-1) ))
+                  (PP-1 (IN of) 
+                    (NP (DT this) (NN snack) (NN food) 
+                      (CC and)
+                      (NN bakery) (NNS products) (NN maker) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT No) (NN replacement) )
+    (VP (VBD was) 
+      (ADVP-TMP (RB immediately) )
+      (VP (VBN named) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (NNP Mr.) (NNP Sloan) )
+      (VP (VBZ plans) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB remain) 
+              (PP-LOC-CLR (IN on) 
+                (NP (DT the) (NN board) ))
+              (SBAR-TMP (IN until) 
+                (S 
+                  (NP-SBJ (PRP$ his) (JJ current) (NN term) )
+                  (VP (VBZ expires) 
+                    (PP-TMP-CLR (IN in) 
+                      (NP (NNP April) (CD 1991) ))))))))))
+    (, ,) 
+    (NP-SBJ (DT a) (NNP Lance) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))

@@ -1,0 +1,127 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN portfolio) (NN unit) )
+      (PP (IN of) 
+        (NP (DT the) (JJ French) (NN bank) (NN group) (NNP Credit) (NNP Lyonnais) )))
+    (VP (VBD told) 
+      (NP (NN stock) (NN market) (NNS regulators) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD bought) 
+            (NP 
+              (NP (CD 43,000) (NNS shares) )
+              (PP (IN of) 
+                (NP (NNP Cie.) (FW de) (NNP Navigation) (NNP Mixte) )))
+            (, ,) 
+            (S-PRP 
+              (ADVP (RB apparently) )
+              (NP-SBJ-1 (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB help) 
+                  (S 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (VB fend) 
+                      (PRT (RP off) )
+                      (NP 
+                        (NP (DT an) (JJ unwelcome) (NN takeover) (NN bid) )
+                        (PP (IN for) 
+                          (NP (DT the) (NN company) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-TMP (RBR Earlier) (NN yesterday) )
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NNP Societe) (FW de) (NNP Bourses) (NNP Francaises) )
+    (VP (VBD was) 
+      (VP (VBN told) 
+        (NP (-NONE- *-1) )
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT a) (NN unit) )
+              (PP (IN of) 
+                (NP (NNP Framatome) (NNP S.A.) )))
+            (ADVP (RB also) )
+            (VP (VBD bought) 
+              (NP (NNP Navigation) (NNP Mixte) (NNS shares) )
+              (, ,) 
+              (S-ADV 
+                (NP-SBJ (DT this) (NN purchase) )
+                (VP (VBG covering) 
+                  (NP 
+                    (QP (JJR more) (IN than) (CD 160,000) )
+                    (NNS shares) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) (NNS companies) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (NNS allies) )
+        (PP (IN of) 
+          (NP (NNP Navigation) (NNP Mixte) ))
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (PRP$ its) (NN fight) )
+            (PP (IN against) 
+              (NP 
+                (NP (DT a) (JJ hostile) (NN takeover) (NN bid) )
+                (VP (VBN launched) 
+                  (NP (-NONE- *) )
+                  (NP-TMP (JJ last) (NN week) )
+                  (PP (IN by) 
+                    (NP-LGS (NNP Cie) )))))))))
+    (. .) ))
+( (NP 
+    (NP (NNP Financiere) (FW de) (NNP Paribas) )
+    (PP (IN at) 
+      (NP 
+        (NP (CD 1,850) (JJ French) (NNS francs) )
+        (PRN 
+          (-LRB- -LRB-)
+          (NP ($ $) (CD 297) (-NONE- *U*) )
+          (-RRB- -RRB-) )
+        (NP-ADV (DT a) (NN share) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Navigation) (NNP Mixte) (POS 's) )
+      (NN chairman) )
+    (VP (VBD had) 
+      (VP (VBN suggested) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (JJ friendly) (NNS institutions) )
+            (VP (VBD were) 
+              (ADJP-PRD (JJ likely) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB buy) 
+                      (NP (PRP$ its) (NN stock) )
+                      (ADVP-TMP (RB as) (RB soon) 
+                        (SBAR (IN as) 
+                          (S 
+                            (NP-SBJ (NN trading) )
+                            (VP (VBD opened) 
+                              (NP-TMP (NNP Monday) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NNP Credit) (NNP Lyonnais) (NN purchase) )
+      (PRN 
+        (, ,)
+        (PP (IN for) 
+          (NP 
+            (NP (CD 33,000) (JJ regular) (JJ common) (NNS shares) )
+            (CC and) 
+            (NP (CD 10,000) (RB newly) (VBN created) (NNS shares) )))
+        (, ,) ))
+    (VP (VBZ is) 
+      (VP (VBN valued) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN at) 
+          (NP 
+            (QP (RB about) (RB slightly) (JJR more) (IN than) (CD 80) (CD million) )
+            (JJ French) (NNS francs) ))))
+    (. .) ))

@@ -1,0 +1,56 @@
+
+( (S 
+    (NP-SBJ-1 (NNP General) (NNP Electric) (NNP Co.) )
+    (VP (VBD was) 
+      (VP (VBN given) 
+        (NP (-NONE- *-1) )
+        (NP 
+          (NP (DT an) 
+            (ADJP 
+              (QP ($ $) (CD 89.6) (CD million) )
+              (-NONE- *U*) )
+            (NNP Navy) (NN contract) )
+          (PP (IN for) 
+            (NP (JJ nuclear) (NN propulsion) (NNS parts) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Westinghouse) (NNP Electric) (NNP Corp.) )
+    (ADVP (RB also) )
+    (VP (VBD won) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 75.5) (CD million) )
+            (-NONE- *U*) )
+          (NNP Navy) (NN contract) )
+        (PP (IN for) 
+          (NP (JJ nuclear) (NN propulsion) (NNS parts) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Federal) (NNP Data) (NNP Corp.) )
+    (VP (VBD was) 
+      (VP (VBN issued) 
+        (NP (-NONE- *-1) )
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 14.5) (CD million) )
+              (-NONE- *U*) )
+            (NNP Navy) (NN contract) )
+          (PP (IN for) 
+            (NP (NN computer) (NNS systems) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP American) (NNP Telephone) (CC &) (NNP Telegraph) (NNP Co.) )
+    (VP (VBD was) 
+      (VP (VBN awarded) 
+        (NP (-NONE- *-1) )
+        (NP 
+          (NP (DT an) 
+            (ADJP 
+              (QP ($ $) (CD 11.5) (CD million) )
+              (-NONE- *U*) )
+            (NNP Navy) (NN contract) )
+          (PP (IN for) 
+            (NP (JJ oceanographic) (NNS services) )))))
+    (. .) ))

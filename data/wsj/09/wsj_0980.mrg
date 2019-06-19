@@ -1,0 +1,207 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP Sept.) (CD 25) (`` ``) (NNP Tracking) (NNP Travel) ('' '') (NN column) )
+    (VP (VBZ advises) 
+      (NP-2 (NNS readers) )
+      (S 
+        (NP-SBJ-3 (-NONE- *-2) )
+        (VP (TO to) (`` ``) 
+          (VP (VB Charge) 
+            (PP-MNR (IN With) 
+              (NP (NN Caution) ))
+            (SBAR-TMP 
+              (WHADVP-1 (WRB When) )
+              (S 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (VBG Traveling) 
+                  (ADVP-LOC (RB Abroad) )
+                  (ADVP-TMP (-NONE- *T*-1) )))))
+          ('' '') ))
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ-4 (NN credit-card) (NNS companies) )
+          (VP (VBP charge) 
+            (NP (CD 1) (NN %) )
+            (S-PRP-CLR 
+              (NP-SBJ (-NONE- *-4) )
+              (VP (TO to) 
+                (VP (VB convert) 
+                  (NP (NN foreign-currency) (NNS expenditures) )
+                  (PP-CLR (IN into) 
+                    (NP (NNS dollars) )))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN fact) ))
+    (, ,) 
+    (NP-SBJ (DT this) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (JJS best) (NN bargain) )
+        (ADJP (JJ available) 
+          (PP (TO to) 
+            (NP 
+              (NP (NN someone) )
+              (VP (VBG traveling) 
+                (ADVP-LOC (RB abroad) )))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (NN contrast) )
+        (PP (TO to) 
+          (NP 
+            (NP (DT the) 
+              (ADJP (CD 1) (NN %) )
+              (NN conversion) (NN fee) )
+            (VP (VBN charged) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS (NNP Visa) )))))))
+    (, ,) 
+    (NP-SBJ-1 (NN foreign-currency) (NNS dealers) )
+    (ADVP-TMP (RB routinely) )
+    (VP (VBP charge) 
+      (NP 
+        (QP (CD 7) (NN %) (CC or) (JJR more) )
+        (-NONE- *U*) )
+      (S-PRP-CLR 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB convert) 
+            (NP (NNP U.S.) (NNS dollars) )
+            (PP-CLR (IN into) 
+              (NP (JJ foreign) (NN currency) ))))))
+    (. .) ))
+( (S 
+    (PP (IN On) 
+      (NP 
+        (NP (NN top) )
+        (PP (IN of) 
+          (NP (DT this) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN traveler) )
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ converts) 
+            (NP (PRP$ his) (NNS dollars) )
+            (PP-CLR (IN into) 
+              (NP (JJ foreign) (NN currency) ))
+            (SBAR-TMP (IN before) 
+              (S 
+                (NP-SBJ (DT the) (NN trip) )
+                (VP (VBP starts) )))))))
+    (VP (MD will) 
+      (VP (VB lose) 
+        (NP (NN interest) )
+        (PP-TMP (IN from) 
+          (NP 
+            (NP (DT the) (NN day) )
+            (PP (IN of) 
+              (NP (NN conversion) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP 
+        (NP (DT the) (NN end) )
+        (PP (IN of) 
+          (NP (DT the) (NN trip) ))))
+    (, ,) 
+    (NP-SBJ-2 (DT any) (JJ unspent) (JJ foreign) (NN exchange) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (S 
+          (NP-SBJ-1 (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (VP (VBN converted) 
+                (NP (-NONE- *-1) )
+                (ADVP-CLR (RB back) 
+                  (PP (IN into) 
+                    (NP (NNS dollars) )))
+                (, ,) 
+                (PP (IN with) 
+                  (NP 
+                    (NP (DT another) (NN commission) )
+                    (ADJP (RB due) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN card) (NN holder) )
+    (VP (MD will) 
+      (VP (VB pay) 
+        (NP (DT the) (JJ modest) 
+          (ADJP (CD 1) (NN %) )
+          (NN fee) )
+        (PP-CLR (RB only) (IN on) 
+          (NP 
+            (NP (DT the) (NNS amounts) )
+            (VP 
+              (ADVP (RB actually) )
+              (VBN needed) 
+              (NP (-NONE- *) ))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Typically) )
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP 
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN billed) 
+            (PP 
+              (NP-ADV 
+                (QP (RB only) (JJ several) )
+                (NNS weeks) )
+              (IN after) 
+              (NP (DT the) (NN expenditure) )))))
+      (, ,) 
+      (CC and)
+      (VP 
+        (ADVP-TMP (RB then) )
+        (VBZ has) 
+        (NP 
+          (NP (DT another) (NN couple) )
+          (PP (IN of) 
+            (NP (NNS weeks) )))
+        (SBAR-TMP (IN before) 
+          (S 
+            (NP-SBJ-1 (PRP he) )
+            (VP (VBZ has) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB pay) 
+                    (NP (DT the) (NN bill) )))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (NN meantime) ))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NN money) )
+    (VP (MD can) 
+      (VP (VB continue) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB earn) 
+              (NP 
+                (NP (NN interest) )
+                (NP (-NONE- *ICH*-2) ))
+              (PP-BNF (IN for) 
+                (NP (DT the) (NN card) (NN holder) ))
+              (PRN (: --) 
+                (ADVP-TMP (RB often) )
+                (NP-2 
+                  (NP 
+                    (QP (RBR more) (IN than) (CD 1) )
+                    (NN %) )
+                  (PP-TMP (IN during) 
+                    (NP 
+                      (NP (DT that) (`` ``) (NN float) ('' '') (NN period) )
+                      (ADVP (RB alone) ))))))))))
+    (. .) ))
+( (NP (NNP Daniel) (NNP Brigham) ))
+( (NP (NNP Visa) (NNP U.S.A.) (NNP Inc) (. .) ))

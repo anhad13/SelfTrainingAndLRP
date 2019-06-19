@@ -1,0 +1,77 @@
+
+( (S 
+    (NP-SBJ (NNP ENGRAPH) (NNP INC.) )
+    (VP 
+      (ADVP-TMP (RB recently) )
+      (VBD reported) 
+      (NP 
+        (NP (JJ third-quarter) (NNS earnings) )
+        (, ,) 
+        (SBAR 
+          (WHNP-2 (WDT which) )
+          (S 
+            (NP-SBJ-1 (-NONE- *T*-2) )
+            (VP (VBD were) 
+              (VP 
+                (ADVP (RB mistakenly) )
+                (VBN shown) 
+                (PP-LOC (IN in) 
+                  (NP (DT the) (JJ Quarterly) (NNS Earnings) (NNS Surprises) (NN table) ))
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (JJ last) (NNP Tuesday) (POS 's) )
+                    (NN edition) ))
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB be) 
+                      (ADJP-PRD 
+                        (ADJP (JJR lower) )
+                        (PP (IN than) 
+                          (NP 
+                            (NP (DT the) (NN average) )
+                            (PP (IN of) 
+                              (NP 
+                                (NP (NNS analysts) (POS ') )
+                                (NNS estimates) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Zacks) (NNP Investment) (NNP Research) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB adjust) 
+        (NP 
+          (NP 
+            (NP (CD one) (NN analyst) (POS 's) )
+            (NN estimate) )
+          (PP (IN for) 
+            (NP (DT a) (NN stock) (NN split) ))
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (ADVP (RB therefore) )
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD was) 
+                (ADJP-PRD (RB artificially) (JJ high) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Engraph) (POS 's) )
+        (JJ third-quarter) (JJ net) (NN income) )
+      (PP (IN of) 
+        (NP 
+          (NP (CD 15) (NNS cents) )
+          (NP-ADV (DT a) (NN share) ))))
+    (ADVP (RB actually) )
+    (VP (VBD was) 
+      (ADJP-PRD 
+        (ADJP 
+          (NP-EXT (CD 7) (NN %) )
+          (JJR higher) )
+        (PP (IN than) 
+          (NP 
+            (NP (DT the) (JJ adjusted) (NN average) )
+            (PP (IN of) 
+              (NP (NNS estimates) ))))))
+    (. .) ))

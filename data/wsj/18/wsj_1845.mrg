@@ -1,0 +1,90 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Diamond-Star) (NNPS Motors) (NNP Corp.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ joint) (NN venture) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Chrysler) (NNP Corp.) )
+            (CC and) 
+            (NP (NNP Mitsubishi) (NNPS Motors) (NNP Corp.) )))))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (MD will) 
+            (VP (VB begin) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG shipping) 
+                  (NP (NNP Mitsubishi) (NNP Eclipse) (NNS cars) )
+                  (PP-DIR (TO to) 
+                    (NP (NNP Japan) ))))
+              (NP-TMP (JJ next) (NN week) )
+              (, ,) 
+              (S-ADV 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG emulating) 
+                  (NP 
+                    (NP (JJ other) (JJ Japanese) (NN auto) (NNS ventures) )
+                    (VP (VBG shipping) 
+                      (NP (JJ U.S.-built) (NNS vehicles) )
+                      (ADVP-DIR (RB back) )
+                      (PP-DIR (TO to) 
+                        (NP (NNP Japan) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Diamond-Star) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB export) 
+              (NP 
+                (QP (IN about) (CD 1,500) )
+                (NNP Eclipse) (NNS cars) )
+              (PP-DIR (TO to) 
+                (NP (NNP Japan) ))
+              (PP-TMP (IN by) 
+                (NP 
+                  (NP (NN year) (POS 's) )
+                  (NN end) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Honda) (NNP Motor) (NNP Co.) )
+      (, ,) 
+      (NP 
+        (NP-SBJ (DT the) (JJ first) (JJ Japanese) (NN auto) (NN maker) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (NN ship) 
+                (NP (NNS cars) )
+                (PP-DIR (TO to) 
+                  (NP (NNP Japan) ))
+                (PP-DIR (IN from) 
+                  (NP (DT the) (NNP U.S.) )))))))
+      (, ,) )
+    (VP (VBZ is) 
+      (ADVP-TMP (RB now) )
+      (VP (VBG exporting) 
+        (NP 
+          (NP 
+            (QP (JJR more) (IN than) (CD 5,000) )
+            (NNP Accord) (NNP Coupes) )
+          (NP-ADV (DT a) (NN year) ))
+        (PP-DIR (IN from) 
+          (NP (PRP$ its) 
+            (NAC-LOC (NNP Marysville) 
+              (, ,)
+              (NNP Ohio) 
+              (, ,)
+              )
+            (NN factory) ))))
+    (. .) ))

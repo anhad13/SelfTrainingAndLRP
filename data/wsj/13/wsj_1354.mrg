@@ -1,0 +1,123 @@
+
+( (S 
+    (NP-SBJ (NNP CMS) (NNP Enhancements) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ estimates) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ 
+                  (NP (NNS sales) 
+                    (CC and)
+                    (NNS earnings) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (DT the) (JJ fiscal) (JJ first) (NN quarter) )
+                      (VP (VBN ended) 
+                        (NP (-NONE- *) )
+                        (NP-TMP-CLR (NNP Sept.) (CD 30) )))))
+                (VP (VBD fell) 
+                  (ADVP-EXT (RB somewhat) )
+                  (PP-DIR (IN from) 
+                    (NP-TMP (DT the) (JJ year-earlier) (NN period) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Jim) (NNP Farooquee) )
+      (, ,) 
+      (NP 
+        (NP (JJ chief) (JJ executive) (NN officer) )
+        (PP (IN of) 
+          (NP (DT the) 
+            (NAC-LOC (NNP Tustin) 
+              (, ,)
+              (NNP Calif.) 
+              (, ,)
+              )
+            (NN computer) (NNS accessories) (NN supplier) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD was) 
+            (ADJP-PRD (`` ``) (JJ comfortable) ('' '') 
+              (PP (IN with) 
+                (NP 
+                  (NP (NNS analysts) (POS ') )
+                  (NNS expectations) 
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ (NNP CMS) )
+                      (VP (MD would) 
+                        (VP (VB earn) 
+                          (NP 
+                            (PP-NOM (IN between) 
+                              (NP 
+                                (NP (CD six) (NNS cents) )
+                                (CC and) 
+                                (NP (CD eight) (NNS cents) )))
+                            (NP-ADV (DT a) (NN share) ))
+                          (PP-CLR (IN on) 
+                            (NP 
+                              (NP (NN revenue) )
+                              (PP (IN of) 
+                                (NP 
+                                  (QP (RB about) ($ $) (CD 42) (CD million) )
+                                  (-NONE- *U*) )))))))))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP 
+      (NP (DT A) (NN year) )
+      (RBR earlier) )
+    (, ,) 
+    (NP-SBJ (NNP CMS) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (NN profit) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 1.1) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 13) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) ))
+        (PP (IN on) 
+          (NP 
+            (NP (NNS sales) )
+            (PP (IN of) 
+              (NP 
+                (QP ($ $) (CD 48) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-TMP (DT This) (NN time) )
+    (, ,) 
+    (NP-SBJ (EX there) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP 
+          (ADJP 
+            (NP-ADV (CD 30) (JJ %) )
+            (JJR more) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Farooquee) )
+    (VP (VBD attributed) 
+      (NP (DT the) (NN decline) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT an) (JJ industrywide) (NN softening) )
+          (PP (IN of) 
+            (NP 
+              (NP (NN demand) )
+              (PP (IN for) 
+                (NP (NN computer) (NN enhancement) (NNS products) )))))))
+    (. .) ))

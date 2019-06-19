@@ -1,0 +1,156 @@
+
+( (S 
+    (S 
+      (NP-SBJ-2 (CD Three) (JJ new) (NNS issues) )
+      (VP (VBP begin) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (VBG trading) 
+            (PP-LOC (IN on) 
+              (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))))
+        (NP-TMP (NN today) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-1 (CD one) )
+      (VP (VBD began) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG trading) 
+            (PP-LOC (IN on) 
+              (NP (DT the) (NNP Nasdaq\/National) (NNP Market) (NNP System) ))))
+        (NP-TMP (JJ last) (NN week) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN On) 
+      (NP (DT the) (NNP Big) (NNP Board) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNP Crawford) (CC &) (NNP Co.) )
+      (, ,) 
+      (NP-LOC (NNP Atlanta) )
+      (, ,) 
+      (PRN 
+        (-LRB- -LRB-)
+        (NP (NNP CFD) )
+        (-RRB- -RRB-) ))
+    (VP (VBZ begins) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG trading) ))
+      (NP-TMP (NN today) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Crawford) )
+    (VP 
+      (VP (VBZ evaluates) 
+        (NP (NN health) (NN care) (NNS plans) ))
+      (, ,) 
+      (VP (VBZ manages) 
+        (NP 
+          (NP 
+            (UCP (JJ medical) 
+              (CC and)
+              (NN disability) )
+            (NNS aspects) )
+          (PP (IN of) 
+            (NP 
+              (NP (NN worker) (POS 's) )
+              (NN compensation) (NNS injuries) ))))
+      (CC and) 
+      (VP (VBZ is) 
+        (VP (VBN involved) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN in) 
+            (NP 
+              (NP (NNS claims) (NNS adjustments) )
+              (PP (IN for) 
+                (NP (NN insurance) (NNS companies) )))))))
+    (. .) ))
+( (SINV 
+    (ADVP (RB Also) )
+    (VP-TPC-2 (VBG beginning) 
+      (S 
+        (NP-SBJ (-NONE- *-3) )
+        (VP (VBG trading) 
+          (PP-LOC (-NONE- *ICH*-1) )))
+      (NP-TMP (NN today) )
+      (PP-LOC-1 (IN on) 
+        (NP (DT the) (NNP Big) (NNP Board) )))
+    (VP (VBP are) 
+      (VP (-NONE- *T*-2) ))
+    (NP-SBJ-3 
+      (NP 
+        (NP (NNP El) (NNP Paso) (NNP Refinery) (NNP Limited) (NNP Partnership) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP El) (NNP Paso) )
+          (, ,) 
+          (NP (NNP Texas) ))
+        (, ,) 
+        (PRN 
+          (-LRB- -LRB-)
+          (NP (NNP ELP) )
+          (-RRB- -RRB-) ))
+      (CC and) 
+      (NP 
+        (NP (NNP Franklin) (NNP Multi-Income) (NNP Trust) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP San) (NNP Mateo) )
+          (, ,) 
+          (NP (NNP Calif.) ))
+        (, ,) 
+        (PRN 
+          (-LRB- -LRB-)
+          (NP (NNP FMI) )
+          (-RRB- -RRB-) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP El) (NNP Paso) )
+    (VP (VBZ owns) 
+      (CC and)
+      (VBZ operates) 
+      (NP (DT a) (NN petroleum) (NN refinery) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Franklin) )
+    (VP (VBZ is) 
+      (NP-PRD (DT a) (JJ closed-end) (NN management) (NN investment) (NN company) ))
+    (. .) ))
+( (S 
+    (PP-LOC (IN On) 
+      (NP (DT the) (NNP Nasdaq) (JJ over-the-counter) (NN system) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNP Allied) (NNP Capital) (NNP Corp.) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Washington) )
+        (, ,) 
+        (NP (NNP D.C.) ))
+      (, ,) 
+      (PRN 
+        (-LRB- -LRB-)
+        (NP (NNP ALII) )
+        (-RRB- -RRB-) ))
+    (VP (VBD began) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG trading) ))
+      (NP-TMP (JJ last) (NNP Thursday) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Allied) (NNP Capital) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (JJ closed-end) (NN management) (NN investment) (NN company) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (MD will) 
+              (VP (VB operate) 
+                (PP-CLR (IN as) 
+                  (NP (DT a) (NN business) (NN development) (NN concern) ))))))))
+    (. .) ))

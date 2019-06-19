@@ -1,0 +1,131 @@
+
+( (S 
+    (NP-SBJ (NNP Rymer) (NNP Foods) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN board) )
+          (VP (VBD authorized) 
+            (NP 
+              (NP (DT the) (NN purchase) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (QP (RB as) (JJ many) (IN as) (CD 500,000) ))
+                  (PP (IN of) 
+                    (NP (PRP$ its) (JJ common) (NN stock) (NN purchase) (NNS warrants) ))))
+              (PP (IN at) 
+                (NP 
+                  (NP (DT a) (NN price) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP ($ $) (CD 4) (-NONE- *U*) )
+                      (NP-ADV (DT a) (NN warrant) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN food) (NN company) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ has) 
+            (NP 
+              (NP 
+                (NP (CD 720,000) (NNS warrants) )
+                (CC and) 
+                (NP 
+                  (QP (RB about) (CD 2.9) (CD million) )
+                  (JJ common) (NNS shares) ))
+              (ADJP (JJ outstanding) )))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-3 (PRP it) )
+          (VP (MD may) 
+            (VP (VB increase) 
+              (NP (DT the) (NN offer) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (TO to) 
+                  (VP (VB purchase) 
+                    (NP 
+                      (NP (DT any) (CC or) (DT all) (NNS warrants) )
+                      (SBAR 
+                        (WHNP-2 (WDT that) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-2) )
+                          (VP (VBP are) 
+                            (VP 
+                              (ADVP-MNR (RB properly) )
+                              (VBN tendered) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NN warrant) )
+    (VP (VBZ permits) 
+      (S 
+        (NP-SBJ (DT a) (NN holder) )
+        (VP (TO to) 
+          (VP (VB acquire) 
+            (NP 
+              (NP (CD one) (NN share) )
+              (PP (IN of) 
+                (NP (JJ common) (NN stock) )))
+            (PP-CLR (IN for) 
+              (NP 
+                (NP ($ $) (CD 17.50) (-NONE- *U*) )
+                (NP-ADV (DT a) (NN share) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS warrants) )
+    (VP 
+      (VP (VBP expire) 
+        (PP-TMP-CLR (IN on) 
+          (NP (NNP Oct.) (CD 15) 
+            (, ,)
+            (CD 1992) )))
+      (, ,) 
+      (CC and)
+      (VP (MD may) 
+        (VP (VB be) 
+          (VP (VBN called) 
+            (NP (-NONE- *-1) )
+            (PP (IN by) 
+              (NP-LGS (DT the) (NN company) ))
+            (PP-CLR (IN at) 
+              (NP 
+                (NP (DT a) (NN price) )
+                (PP (IN of) 
+                  (NP ($ $) (CD 5.25) (-NONE- *U*) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN offer) )
+    (VP (VBZ is) 
+      (VP (VBN scheduled) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB expire) 
+              (PP-TMP-CLR (IN on) 
+                (NP (NNP Nov.) (CD 28) )))))
+        (, ,) 
+        (SBAR-ADV (IN unless) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBN extended) )))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (NNP Rymer) )
+    (VP (VBD closed) 
+      (NP-TMP (NN yesterday) )
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 10.875) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP (CD 12.5) (NNS cents) )))
+    (. .) ))

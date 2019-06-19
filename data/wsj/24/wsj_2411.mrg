@@ -1,0 +1,105 @@
+
+( (S 
+    (NP-SBJ (DT The) (JJ Canadian) (NN government) )
+    (VP (VBD announced) 
+      (NP 
+        (NP (DT a) (JJ new) 
+          (, ,)
+          (JJ 12-year) (NNP Canada) (NNP Savings) (NNP Bond) (NN issue) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (MD will) 
+              (VP (VB yield) 
+                (NP (NNS investors) )
+                (NP-EXT (CD 10.5) (NN %) )
+                (PP-TMP (IN in) 
+                  (NP (DT the) (JJ first) (NN year) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (JJ annual) (NN interest) (NN rate) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT each) )
+          (PP (IN of) 
+            (NP (DT the) (JJ next) (CD 11) (NNS years) )))))
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN set) 
+          (NP (-NONE- *-1) )
+          (NP-TMP-CLR 
+            (NP (DT each) (NN fall) )
+            (, ,) 
+            (SBAR 
+              (WHADVP-3 (WRB when) )
+              (S 
+                (NP-SBJ-2 
+                  (NP (NNS details) )
+                  (PP (IN of) 
+                    (NP (DT a) (JJ new) (NN series) )))
+                (VP (VBP are) 
+                  (VP (VBN released) 
+                    (NP (-NONE- *-2) )
+                    (ADVP-TMP (-NONE- *T*-3) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Canada) (NNP Savings) (NNP Bonds) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (JJ major) (NN government) (NNS instruments) )
+        (PP (IN for) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG meeting) 
+              (NP (PRP$ its) (JJ financial) (NNS requirements) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN government) )
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (NP 
+            (QP (IN about) (CD 41.4) (CD billion) )
+            (JJ Canadian) (NNS dollars) )
+          (PRN 
+            (-LRB- -LRB-)
+            (NP 
+              (QP ($ US$) (CD 35.2) (CD billion) )
+              (-NONE- *U*) )
+            (-RRB- -RRB-) )
+          (PP (IN of) 
+            (NP (JJ such) (NNS bonds) )))
+        (ADJP (RB currently) (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-3 (RB Only) (JJ Canadian) (NNS residents) )
+    (VP (VBP are) 
+      (VP (VBN permitted) 
+        (S 
+          (NP-SBJ (-NONE- *-3) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP 
+                (NP (NNP Canada) (NNP Savings) (NNP Bonds) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-2 (WDT which) )
+                  (S 
+                    (NP-SBJ-1 (-NONE- *T*-2) )
+                    (VP (MD may) 
+                      (VP (VB be) 
+                        (VP (VBN redeemed) 
+                          (NP (-NONE- *-1) )
+                          (NP-TMP-CLR (DT any) (NN time) )
+                          (PP-CLR (IN at) 
+                            (NP (NN face) (NN value) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS bonds) )
+    (VP (VBP go) 
+      (PP-CLR (IN on) 
+        (NP (NN sale) ))
+      (NP-TMP (NNP Oct.) (CD 19) ))
+    (. .) ))

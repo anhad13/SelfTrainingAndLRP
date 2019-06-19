@@ -1,0 +1,95 @@
+
+( (S (`` ``) 
+    (NP-SBJ 
+      (NP (NNP Lifestyles) )
+      (PP (IN of) 
+        (NP (DT the) (NNP Rich) 
+          (CC and)
+          (NNP Famous) )))
+    ('' '') 
+    (VP (MD may) 
+      (VP (VB be) 
+        (VP (VBG visiting) 
+          (NP (DT some) (JJ new) (NNS venues) )
+          (PP-TMP (IN in) 
+            (NP (DT the) (JJ near) (NN future) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Judge) (NNP Robert) 
+      (PRN 
+        (-LRB- -LRB-)
+        (`` ``) (NNP Maximum) (NNP Bob) ('' '') 
+        (-RRB- -RRB-)
+        )
+      (NNP Potter) )
+    (VP (VBN sentenced) 
+      (NP (NNP Jim) (NNP Bakker) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (CD 45) (NNS years) )
+          (PP-LOC (IN in) 
+            (NP (DT the) (JJ big) (NN house) ))))
+      (NP-TMP (NN yesterday) )
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ (DT a) (NNP Beverly) (NNP Hills) (NN judge) )
+          (VP (VBD tucked) 
+            (PRT (RP away) )
+            (NP (NNP Zsa) (NNP Zsa) (NNP Gabor) )
+            (PP-CLR (IN for) 
+              (NP 
+                (NP (CD three) (NNS days) )
+                (, ,) (CC plus) 
+                (NP 
+                  (NP (CD 120) (NNS hours) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NN work) )
+                      (PP (IN with) 
+                        (NP (JJ homeless) (NNS women) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Miss) (NNP Gabor) )
+    (VP (VBD recanted) 
+      (NP 
+        (NP (PRP$ her) (JJ earlier-expressed) (NN fear) )
+        (PP (IN of) 
+          (NP (NN jailhouse) (NNS lesbians) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Bakker) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD was) 
+            (ADJP-PRD (JJ guilty) 
+              (PP (IN of) 
+                (NP 
+                  (NP (NN sin) )
+                  (CC but) (RB not) 
+                  (NP (NN fraud) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP We) )
+    (VP (MD can) 
+      (ADVP (RB only) )
+      (VP (VB wonder) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (MD will) 
+              (VP (VB be) 
+                (NP-PRD 
+                  (NP (DT the) (JJ next) (JJ lost) (NN soul) )
+                  (VP (VBN chosen) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB be) 
+                          (NP-PRD 
+                            (NP (NNP America) (POS 's) )
+                            (NNP Celebrity) (NNP Convict) ))))))))))))
+    (. .) ))

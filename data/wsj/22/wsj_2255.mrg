@@ -1,0 +1,212 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Moody) (POS 's) )
+      (NNP Investors) (NNP Service) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reduced) 
+            (NP 
+              (NP (PRP$ its) (NN rating) )
+              (PP (IN on) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 281) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (JJ senior) 
+                        (CC and)
+                        (VBN subordinated) (NN debt) )
+                      (PP (IN of) 
+                        (NP (DT this) (NN thrift) (VBG holding) (NN company) )))))))
+            (, ,) 
+            (PP-DIR (TO to) 
+              (NP (NNP C) ))
+            (PP-DIR (IN from) 
+              (NP (NNP Ca) ))
+            (, ,) )))
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG saying) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (VBZ believes) 
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP-SBJ (NNS bondholders) )
+                    (VP (MD will) 
+                      (VP (VB recover) 
+                        (NP (RB only) (`` ``) (JJ negligible) (NN principal) )))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT The) (NN agency) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD confirmed) 
+            (NP 
+              (NP (NNP American) (NNP Continental) (POS 's) )
+              (VBN preferred) (NN stock) (NN rating) )
+            (PP (IN at) 
+              (NP (NNP C) ))))))
+    (. .) ))
+((S 
+    (S 
+      (NP-SBJ 
+        (NP 
+          (NP (NNP American) (NNP Continental) (POS 's) )
+          (NN thrift) (NN unit) )
+        (, ,) 
+        (NP 
+          (ADJP (NNP Los) (JJ Angeles-based) )
+          (NNP Lincoln) (NNP Savings) (CC &) (NNP Loan) (NNP Association) )
+        (, ,) )
+      (VP (VBZ is) 
+        (PP-PRD (IN in) 
+          (NP (NN receivership) ))))
+    (CC and) 
+    (S 
+      (NP-SBJ (DT the) (NN parent) (NN company) )
+      (VP (VBZ has) 
+        (VP (VBN filed) 
+          (PP-CLR (IN for) 
+            (NP 
+              (NP (NN protection) )
+              (PP (IN from) 
+                (NP (NN creditor) (NNS lawsuits) ))))
+          (PP-MNR (IN under) 
+            (NP 
+              (NP (NNP Chapter) (CD 11) )
+              (PP (IN of) 
+                (NP (DT the) (JJ federal) (NNP Bankruptcy) (NNP Code) )))))))
+    (. .) ))
+( (NP-HLN 
+    (NP (NNP CENTRUST) (NNP SAVINGS) (NNP BANK) )
+    (PRN 
+      (-LRB- -LRB-)
+      (NP-LOC (NNP Miami) )
+      (-RRB- -RRB-) )
+    (: --) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Moody) (POS 's) )
+      (NNP Investors) (NNP Service) (NNP Inc.) )
+    (VP (VBD downgraded) 
+      (NP 
+        (NP (PRP$ its) (NNS ratings) )
+        (PP (IN on) 
+          (NP 
+            (NP (DT the) (VBN subordinated) (NN debt) )
+            (PP (IN of) 
+              (NP (NNP CenTrust) )))))
+      (PP-DIR (TO to) 
+        (NP (NNP Caa) ))
+      (PP-DIR (IN from) 
+        (NP (NNP B-3) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN rating) (NN agency) )
+    (VP 
+      (VP 
+        (ADVP (RB also) )
+        (VBD reduced) 
+        (NP 
+          (NP (DT the) (NNS ratings) )
+          (PP-1 (IN for) 
+            (NP (JJ long-term) (NNS deposits) )))
+        (PP-DIR-2 (TO to) 
+          (NP (NNP B-3) ))
+        (PP-DIR-3 (IN from) 
+          (NP (CD Ba-3) )))
+      (CC and) 
+      (VP 
+        (PP=1 (IN for) 
+          (NP (VBN preferred) (NN stock) ))
+        (PP-DIR=2 (TO to) 
+          (NP (NNP Ca) ))
+        (PP-DIR=3 (IN from) 
+          (NP (NNP Caa) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN rating) (NN agency) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP 
+              (QP (RB about) ($ $) (CD 85) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN in) 
+              (NP (NNS securities) )))
+          (VP (VBD was) 
+            (VP (VBN affected) 
+              (NP (-NONE- *-1) ))))))
+    (. .) ))
+( (S-2 
+    (NP-SBJ-1 (DT The) (NNS downgrades) )
+    (VP (VBD were) 
+      (VP (VBN prompted) 
+        (NP (-NONE- *-1) )
+        (, ,) 
+        (PRN 
+          (S 
+            (NP-SBJ (NNP Moody) (POS 's) )
+            (VP (VBD said) 
+              (SBAR (-NONE- 0) 
+                (S (-NONE- *T*-2) )))))
+        (, ,) 
+        (PP (IN by) 
+          (NP-LGS 
+            (NP 
+              (NP (DT the) (VBG continuing) (NN turmoil) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (NN junk) (NN bond) (NN market) )))
+            (CC and) 
+            (NP 
+              (NP (DT the) (NN suspension) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNS dividends) )
+                  (PP (IN on) 
+                    (NP 
+                      (NP (NNP CenTrust) (POS 's) )
+                      (VBN preferred) (NN stock) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Moody) (POS 's) )
+    (VP 
+      (ADVP (RB also) )
+      (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD believed) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ 
+                  (NP (DT the) (VBN proposed) (NN sale) )
+                  (PP (IN of) 
+                    (NP (CD 63) (NNP CenTrust) (NNS branches) ))
+                  (PP (TO to) 
+                    (NP (JJ Great) (NNP Western) (NNP Bank) )))
+                (VP (MD could) 
+                  (PRN 
+                    (, ,)
+                    (SBAR-ADV (IN if) 
+                      (S 
+                        (NP-SBJ-1 (-NONE- *) )
+                        (VP (VBN completed) 
+                          (NP (-NONE- *-1) ))))
+                    (, ,) )
+                  (VP (VB endanger) 
+                    (NP 
+                      (NP (DT the) (NN thrift) (POS 's) )
+                      (NN funding) 
+                      (CC and)
+                      (NN market) (NN position) )))))))))
+    (. .) ))

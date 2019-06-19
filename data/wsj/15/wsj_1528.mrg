@@ -1,0 +1,326 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP Eagle) (NNP Financial) (NNP Corp.) )
+        (CC and) 
+        (NP (NNP Webster) (NNP Financial) (NNP Corp.) ))
+      (, ,) 
+      (NP (CD two) (NNP Connecticut) (NNS savings) (JJ bank-holding) (NNS companies) )
+      (, ,) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB merge) 
+            (PP-LOC (IN in) 
+              (NP (DT a) (JJ tax-free) (NN stock) (NN transaction) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ new) (VBG holding) (NN company) )
+      (, ,) 
+      (NP (NNP Webster\/Eagle) (NNP Bancorp) (NNP Inc.) )
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (NP 
+          (NP 
+            (NP 
+              (QP (RB about) ($ $) (CD 1.2) (CD billion) )
+              (-NONE- *U*) )
+            (PP (IN of) 
+              (NP (NNS assets) )))
+          (CC and) 
+          (NP 
+            (NP (CD 19) (NN banking) (NNS offices) )
+            (PP-LOC (IN in) 
+              (NP (NNP Connecticut) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Tangible) (NN capital) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (NP-PRD 
+          (QP (RB about) ($ $) (CD 115) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN merger) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ subject) 
+        (PP (TO to) 
+          (NP 
+            (NP (JJ regulatory) (NN clearance) )
+            (CC and) 
+            (NP (DT a) (JJ definitive) (NN agreement) )))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT the) (NN merger) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (DT each) (NN share) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Webster) )
+          (, ,) 
+          (VP (VBN based) 
+            (NP (-NONE- *) )
+            (PP-LOC-CLR (IN in) 
+              (NP (NNP Waterbury) )))
+          (, ,) )))
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN converted) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN into) 
+            (NP 
+              (NP (CD one) (NN share) )
+              (PP (IN of) 
+                (NP (DT the) (JJ new) (NN company) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT Each) (NN share) )
+        (PP (IN of) 
+          (NP (NNP Eagle) )))
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP (NNP Bristol) )))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB become) 
+        (NP-PRD 
+          (NP (CD 0.95) (NN share) )
+          (PP (IN of) 
+            (NP (NNP Webster\/Eagle) )))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP American) (NNP Stock) (NNP Exchange) (NN composite) (NN trading) ))
+    (NP-TMP (NNP Friday) )
+    (, ,) 
+    (NP-SBJ (NNP Eagle) (NNS shares) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 12.5) (NNS cents) )
+      (PP-DIR (TO to) 
+        (NP ($ $) (CD 11) (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ national) (JJ over-the-counter) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (NNP Webster) (NNS shares) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 25) (NNS cents) )
+      (PP-DIR (TO to) 
+        (NP ($ $) (CD 12.375) (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (NNP Webster) )
+      (VP (VBZ has) 
+        (NP 
+          (NP-2 
+            (QP (CD 3.5) (CD million) )
+            (NNS shares) )
+          (ADJP (JJ outstanding) ))))
+    (CC and) 
+    (S 
+      (NP-SBJ=1 (NNP Eagle) )
+      (NP=2 (CD 2.6) (CD million) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP$ Their) (VBN indicated) (NN market) (NNS values) )
+    (ADVP (RB thus) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (QP (RB about) ($ $) (CD 43.3) (CD million) 
+          (CC and)
+          ($ $) (CD 28.6) (CD million) )
+        (-NONE- *U*) )
+      (, ,) 
+      (ADVP (RB respectively) ))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNP Frank) (NNP J.) (NNP Pascale) )
+        (, ,) 
+        (NP 
+          (NP (NN chairman) )
+          (PP (IN of) 
+            (NP (NNP Eagle) )))
+        (, ,) )
+      (VP (MD will) 
+        (VP (VB be) 
+          (NP-PRD 
+            (NP (NN chairman) )
+            (PP (IN of) 
+              (NP (DT the) (JJ new) (NN firm) ))))))
+    (CC and) 
+    (S 
+      (NP-SBJ 
+        (NP (NNP James) (NNP C.) (NNP Smith) )
+        (, ,) 
+        (NP 
+          (NP 
+            (NP (NN president) )
+            (CC and) 
+            (NP (JJ chief) (JJ executive) (NN officer) ))
+          (PP (IN of) 
+            (NP (NNP Webster) )))
+        (, ,) )
+      (VP (MD will) 
+        (VP (VB take) 
+          (NP (DT those) (NNS posts) )
+          (PP-LOC (IN at) 
+            (NP (NNP Webster\/Eagle) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Harold) (NNP W.) (NNP Smith) (NNP Sr.) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (PP (IN of) 
+          (NP (NNP Webster) )))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB become) 
+        (NP-PRD 
+          (NP 
+            (NP (NN chairman) (NN emeritus) )
+            (CC and) 
+            (NP (DT a) (NN director) ))
+          (PP (IN of) 
+            (NP (DT the) (JJ new) (NN company) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Ralph) (NNP T.) (NNP Linsley) )
+      (, ,) 
+      (NP 
+        (NP (NN vice) (NN chairman) )
+        (PP (IN of) 
+          (NP (NNP Eagle) )))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB become) 
+        (NP-PRD 
+          (NP (NN vice) (NN chairman) )
+          (PP (IN of) 
+            (NP (NNP Webster\/Eagle) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN board) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN made) 
+          (PRT (RP up) )
+          (PP-CLR (IN of) 
+            (NP 
+              (NP (CD seven) (NNS directors) )
+              (PP (IN of) 
+                (NP (DT each) (VBG holding) (NN company) )))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT an) (NN interview) ))
+    (, ,) 
+    (NP-SBJ (NNP James) (NNP Smith) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NNS banks) (POS ') )
+              (`` ``) (NNS markets) )
+            (VP (VBP are) 
+              (ADJP-PRD (JJ contiguous) )))
+          (CC and) 
+          (S 
+            (NP-SBJ (PRP$ their) (NN business) (NNS philosophies) )
+            (VP (VBP are) 
+              (ADJP-PRD (JJ similar) 
+                (CC and)
+                (JJ conservative) ))))))
+    (. .) ('' '') ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (VBG Nonperforming) (NNS loans) )
+      (VP (MD will) 
+        (VP (VB make) 
+          (PRT (RP up) )
+          (NP 
+            (NP 
+              (QP (RB only) (RB about) (CD 0.5) )
+              (NN %) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (NP (DT the) (VBN combined) (NNS banks) (POS ') )
+                  (JJ total) (NNS loans) )
+                (ADJP (JJ outstanding) )))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP (NNP June) (CD 30) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Webster) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ owns) 
+            (NP 
+              (NP (NNP First) (NNP Federal) (NNP Savings) (CC &) (NNP Loan) (NNP Association) )
+              (PP (IN of) 
+                (NP (NNP Waterbury) ))))))
+      (, ,) )
+    (VP (VBD had) 
+      (NP 
+        (NP (NNS assets) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 699) (CD million) )
+            (-NONE- *U*) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Eagle) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ controls) 
+            (NP 
+              (NP (NNP Bristol) (NNP Federal) (NNP Savings) (NNP Bank) )
+              (CC and) 
+              (NP 
+                (NP (NNP First) (NNP Federal) (NNP Savings) (CC &) (NNP Loan) (NNP Association) )
+                (PP (IN of) 
+                  (NP (NNP Torrington) )))))))
+      (, ,) )
+    (VP (VBD had) 
+      (NP 
+        (NP (NNS assets) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 469.6) (CD million) )
+            (-NONE- *U*) )))
+      (PP-TMP (IN on) 
+        (NP (DT that) (NN date) )))
+    (. .) ))

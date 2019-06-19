@@ -1,0 +1,91 @@
+
+( (S 
+    (NP-SBJ (NNP Amcore) (NNP Financial) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB acquire) 
+                  (NP 
+                    (NAC (NNP Central) 
+                      (PP (IN of) 
+                        (NP (NNP Illinois) )))
+                    (NNP Inc.) )
+                  (PP-MNR (IN in) 
+                    (NP (DT a) (NN stock) (NN swap) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNS Shareholders) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Central) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NN bank) (VBG holding) (NN company) )
+              (VP (VBN based) 
+                (NP (-NONE- *) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (NNP Sterling) )
+                    (, ,) 
+                    (NP (NNP Ill.) )
+                    (, ,) )))))))
+      (VP (MD will) 
+        (VP (VB receive) 
+          (NP 
+            (NP (NNP Amcore) (NN stock) )
+            (ADJP (JJ equal) 
+              (PP (TO to) 
+                (NP 
+                  (QP (CD 10) (NNS times) )
+                  (NP (NNP Central) (POS 's) )
+                  (CD 1989) (NNS earnings) )))))))
+    (, ,) 
+    (NP-SBJ (NNP Amcore) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP 
+        (NP (DT the) (JJ first) (CD nine) (NNS months) )
+        (PP (IN of) 
+          (NP (CD 1989) ))))
+    (, ,) 
+    (NP-SBJ (NNP Central) )
+    (VP (VBD earned) 
+      (NP 
+        (QP ($ $) (CD 2) (CD million) )
+        (-NONE- *U*) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Amcore) )
+      (, ,) 
+      (ADVP (RB also) )
+      (NP (DT a) (NN bank) (VBG holding) (NN company) )
+      (, ,) )
+    (VP (VBZ has) 
+      (NP 
+        (NP (NNS assets) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 1.06) (CD billion) )
+            (-NONE- *U*) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Central) (POS 's) )
+      (NNS assets) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (QP ($ $) (CD 240) (CD million) )
+        (-NONE- *U*) ))
+    (. .) ))

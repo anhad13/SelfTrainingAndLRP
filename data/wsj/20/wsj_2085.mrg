@@ -1,0 +1,98 @@
+
+( (S 
+    (NP-SBJ-2 (NNP Paul) (NNP Tanner) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (NP-PRD 
+            (NP 
+              (NP (NN president) )
+              (PP (-NONE- *RNR*-1) ))
+            (, ,) 
+            (NP 
+              (NP (NN chief) (NN executive) (NN officer) )
+              (PP (-NONE- *RNR*-1) ))
+            (CC and) 
+            (NP 
+              (NP (NN chairman) )
+              (PP (-NONE- *RNR*-1) ))
+            (PP-1 (IN of) 
+              (NP (DT this) (NN oil) 
+                (CC and)
+                (JJ natural) (NN gas) (NN company) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP John) (NNP A.) (NNP Boudreau) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD resigned) 
+              (PP-PRP (IN for) 
+                (NP (JJ personal) (NNS reasons) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Tanner) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (NN president) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Penn) (NNP Pacific) (POS 's) )
+              (NNP National) (NNP Southwest) (NNP Capital) (NNP Group) (NN subsidiary) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Boudreau) )
+    (VP (MD will) 
+      (VP (VB remain) 
+        (PP-CLR (IN with) 
+          (NP (NNP Penn) (NNP Pacific) ))
+        (PP-CLR (IN as) 
+          (NP 
+            (NP (DT a) (NN director) )
+            (CC and) 
+            (NP 
+              (NP (DT a) (NN member) )
+              (PP (IN of) 
+                (NP (DT the) (JJ executive) (NN committee) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-4 
+      (NP-SBJ-2 (PRP He) )
+      (VP (VBZ has) 
+        (ADVP (RB also) )
+        (VP (VBN agreed) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB become) 
+                (NP-PRD 
+                  (NP (NN president) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT a) (JJ new) (NN subsidiary) )
+                      (SBAR 
+                        (WHNP-3 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ-1 (-NONE- *T*-3) )
+                          (VP (TO to) 
+                            (VP (VB be) 
+                              (VP (VBN formed) 
+                                (NP (-NONE- *-1) )
+                                (S-PRP 
+                                  (NP-SBJ (-NONE- *) )
+                                  (VP (TO to) 
+                                    (VP (VB make) 
+                                      (NP (JJ future) (NNS acquisitions) ))))))))))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-4) )))
+    (. .) ))

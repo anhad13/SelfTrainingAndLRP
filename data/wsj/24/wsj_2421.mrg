@@ -1,0 +1,116 @@
+
+( (S 
+    (NP-SBJ (JJ Mexican) (NN investor) (NNP Joel) (NNP Rocha) (NNP Garza) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD sold) 
+            (NP 
+              (NP (DT a) (NN block) )
+              (PP (IN of) 
+                (NP 
+                  (NP (CD 600,000) (NNS shares) )
+                  (PP (IN of) 
+                    (NP (NNP Smith) (NNPS Laboratories) (NNP Inc.) (JJ common) (NN stock) )))))
+            (PP-DTV (TO to) 
+              (NP 
+                (NP (NNS companies) )
+                (VP (VBN affiliated) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN with) 
+                    (NP (PRP him) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (DT a) (NN filing) )
+        (PP (IN with) 
+          (NP (DT the) (NNPS Securities) 
+            (CC and)
+            (NNP Exchange) (NNP Commission) ))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Rocha) (NNP Garza) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Biscayne) (NNP Syndicate) (NNP Inc.) )
+            (, ,) 
+            (NP (NNP Lahus) (NNP II) (NNP Inc.) )
+            (, ,) 
+            (CC and)
+            (NP (NNP Lahus) (NNP III) (NNP Inc.) ))
+          (VP (VBD bought) 
+            (NP (DT the) (CD 600,000) (NNS shares) )
+            (PP-TMP (IN on) 
+              (NP (NNP Oct.) (CD 11) ))
+            (PP-CLR (IN for) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 1.4) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP ($ $) (CD 2.375) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Rocha) (NNP Garza) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP he) )
+            (, ,) 
+            (NP (NNP Clarendon) (NNP Group) (NNP Ltd.) )
+            (, ,) 
+            (NP (NNP Biscayne) )
+            (, ,) 
+            (NP (NNP Lahus) (NNP II) )
+            (, ,) 
+            (CC and)
+            (NP (NNP Lahus) (NNP III) ))
+          (VP 
+            (VP (VBP are) 
+              (ADVP (RB all) )
+              (ADJP-PRD (VBN affiliated) ))
+            (CC and) 
+            (VP (VBP hold) 
+              (NP 
+                (NP (DT a) (VBN combined) (NN stake) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (CD 1,234,100) (NNS shares) )
+                    (, ,) (CC or) 
+                    (NP (CD 9.33) (NN %) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Rocha) (NNP Garza) )
+    (VP (VBZ has) 
+      (VP (VBN said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-1 (PRP he) )
+            (VP (VBZ wants) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB purchase) 
+                    (NP (JJR more) (NNS shares) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP San) (NNP Diego) ))
+    (, ,) 
+    (NP-SBJ (NNP Smith) (NNPS Laboratories) (NNP President) (NNP Timothy) (NNP Wollaeger) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN transfer) )
+            (PP (IN of) 
+              (NP (DT the) (NNS shares) )))
+          (VP (VBZ is) (RB n't) 
+            (ADJP-PRD (JJ significant) )))))
+    (. .) ))

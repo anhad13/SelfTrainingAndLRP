@@ -1,0 +1,35 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Kinder-Care) (NNP Inc.) )
+    (VP (VBD was) 
+      (VP (VBN dropped) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (DT the) (NN consumer) (NNS services) (NN industry) (NN group) )
+            (PP (IN of) 
+              (NP (DT the) (NNP Dow) (NNP Jones) (NNP Equity) (NNP Market) (NN index) ))))
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (DT the) (NN company) )
+            (VP (VBD split) 
+              (NP-ADV (PRP itself) )
+              (PP-LOC (IN in) 
+                (NP (DT a) (NN restructuring) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP It) )
+    (VP (VBD was) 
+      (VP (VBN succeeded) 
+        (NP (-NONE- *-1) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NN group) ))
+        (PP (IN by) 
+          (NP-LGS (NNP Fuqua) (NNPS Industries) (NNP Inc) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) (NNS moves) )
+    (VP (VBP are) 
+      (ADJP-PRD (JJ effective) )
+      (NP-TMP (NN today) ))
+    (. .) ))

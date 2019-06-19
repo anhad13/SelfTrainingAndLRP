@@ -1,0 +1,153 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Granges) (NNP Inc.) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG citing) 
+        (NP (JJ depressed) (NN gold) (NNS prices) )))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB suspend) 
+                  (NP (NNS operations) )
+                  (PP-TMP (IN for) 
+                    (NP (DT an) (JJ indefinite) (NN period) ))
+                  (PP-LOC (IN at) 
+                    (NP 
+                      (NP (PRP$ its) (NNP Tartan) (NN gold) (NN mine) )
+                      (PP-LOC (IN in) 
+                        (NP (NNP Manitoba) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Granges) )
+    (VP (VBD said) 
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NNP Vancouver) )
+          (, ,) 
+          (NP (NNP British) (NNP Columbia) )
+          (, ,) ))
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN production) (NN halt) )
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBN phased) 
+                (NP (-NONE- *-1) )
+                (ADVP-CLR (RB in) )
+                (PP-TMP (IN over) 
+                  (NP (DT a) (JJ 10-week) (NN period) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Tartan) )
+    (ADVP-TMP (RB currently) )
+    (VP (VBZ produces) 
+      (NP (NN gold) )
+      (PP (IN at) 
+        (NP 
+          (NP (DT a) (NN cash) (NN operating) (NN cost) )
+          (PP (IN of) 
+            (NP 
+              (NP 
+                (NP ($ $) (CD 393) (-NONE- *U*) )
+                (NP-ADV (DT an) (NN ounce) ))
+              (, ,) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP 
+                    (VP (VBZ is) 
+                      (ADJP-PRD-2 (JJ high) )
+                      (PP (IN by) 
+                        (NP (NN industry) (NNS standards) )))
+                    (CC and) 
+                    (VP 
+                      (PP-PRD=2 
+                        (NP ($ $) (CD 25) (-NONE- *U*) 
+                          (QP (CC or) (RB so) ))
+                        (IN above) 
+                        (NP (DT the) (JJ current) (NN spot) (NN price) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Granges) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (ADVP (RB also) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ third) (NN quarter) ))
+              (VP 
+                (VP (TO to) 
+                  (VP (VB write) 
+                    (PRT (RP down) )
+                    (NP 
+                      (NP (DT the) (NN carrying) (NN value) )
+                      (PP (IN of) 
+                        (NP (DT the) (NNP Tartan) (NN mine) )))
+                    (PP-EXT (IN by) 
+                      (NP 
+                        (NP 
+                          (QP (CD 2.5) (CD million) )
+                          (JJ Canadian) (NNS dollars) )
+                        (PRN 
+                          (-LRB- -LRB-)
+                          (NP 
+                            (QP ($ US$) (CD 2.12) (CD million) )
+                            (-NONE- *U*) )
+                          (-RRB- -RRB-) )))))
+                (, ,) 
+                (CC and)
+                (VP (TO to) 
+                  (VP (VB write) 
+                    (PRT (RP off) )
+                    (NP 
+                      (NP (JJS most) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT the) 
+                            (ADJP 
+                              (QP ($ C$) (CD 6.3) (CD million) )
+                              (-NONE- *U*) )
+                            (NN carrying) (NN value) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (PRP$ its) (NNP Windflower) (NN gold) (NN property) )
+                              (PP-LOC (IN in) 
+                                (NP (NNP British) (NNP Columbia) )))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNS Granges) )
+      (VP (VBD did) (RB n't) 
+        (VP (VB say) 
+          (SBAR 
+            (WHNP-1 (WDT what) (NN impact) )
+            (S 
+              (NP-SBJ (DT the) (NNS moves) )
+              (VP (MD would) 
+                (VP (VB have) 
+                  (NP (-NONE- *T*-1) )
+                  (PP (IN on) 
+                    (NP 
+                      (NP (JJ total) (NN gold) (NN output) )
+                      (CC or) 
+                      (NP (NNS earnings) ))))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (NN company) (NNS officials) )
+      (VP (VBD were) (RB n't) 
+        (ADJP-PRD (JJ available) )))
+    (. .) ))

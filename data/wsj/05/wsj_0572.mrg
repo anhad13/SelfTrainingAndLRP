@@ -1,0 +1,61 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Joseph) (NNP P.) (NNP Jordan) )
+      (, ,) 
+      (ADJP 
+        (NP-ADV (CD 52) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ becomes) 
+      (NP-PRD 
+        (NP 
+          (NP (NN president) )
+          (PP (-NONE- *RNR*-1) ))
+        (, ,) 
+        (NP 
+          (NP (NN chief) (NN executive) (NN officer) )
+          (PP (-NONE- *RNR*-1) ))
+        (CC and) 
+        (NP 
+          (NP (DT a) (NN director) )
+          (PP (-NONE- *RNR*-1) ))
+        (PP-1 (IN of) 
+          (NP (DT the) (NN bank) (NN company) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Jordan) )
+      (, ,) 
+      (NP 
+        (ADVP-TMP (RB formerly) )
+        (NP 
+          (NP (NN president) )
+          (PP (-NONE- *RNR*-2) ))
+        (CC and) 
+        (NP 
+          (NP (NN chief) (NN executive) )
+          (PP (-NONE- *RNR*-2) ))
+        (PP-2 (IN of) 
+          (NP 
+            (NP (NNP Fishkill) (NNP National) (NNP Bank) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NNP Beacon) )
+                (, ,) 
+                (NP (NNP N.Y.) ))))))
+      (, ,) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP Donald) (NNP Broderick) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD died) 
+              (PP (IN at) 
+                (NP (CD 52) ))
+              (PP-MNR (IN in) 
+                (NP (DT an) (NN automobile) (NN accident) )))))))
+    (. .) ))

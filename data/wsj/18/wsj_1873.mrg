@@ -1,0 +1,298 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP G.D.) (NNP Searle) (CC &) (NNP Co.) )
+      (, ,) 
+      (NP (DT a) (NNP Monsanto) (NNP Co.) (NN unit) )
+      (, ,) )
+    (VP (VBZ is) 
+      (VP (VBG launching) 
+        (NP 
+          (NP (DT a) (NN program) )
+          (SBAR 
+            (WHNP-2 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *T*-2) )
+              (VP (TO to) 
+                (VP (VB give) 
+                  (NP (NNS consumers) )
+                  (NP 
+                    (NP (JJR more) (NN information) )
+                    (PP (IN about) 
+                      (NP (PRP$ its) (NNS drugs) )))
+                  (SBAR-TMP 
+                    (WHADVP-1 (WRB when) )
+                    (S 
+                      (NP-SBJ (NNS doctors) )
+                      (VP (VBP prescribe) 
+                        (NP (PRP them) )
+                        (ADVP-TMP (-NONE- *T*-1) )))))))))))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ-1 (-NONE- *-3) )
+      (VP (VBN Called) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NNPS Patients) )
+            (PP (IN in) 
+              (NP (DT the) (NNP Know) ))))))
+    (, ,) 
+    (NP-SBJ-3 (DT the) (NN program) )
+    (VP (VBZ features) 
+      (NP 
+        (NP-SBJ-2 (NN fact) (NNS sheets) )
+        (VP (VBN designed) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (ADJP-PRD (JJ easy) 
+                  (SBAR 
+                    (WHNP-4 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB understand) 
+                          (NP (-NONE- *T*-4) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS sheets) )
+    (VP 
+      (VP (VBP tell) 
+        (SBAR 
+          (WHADVP-1 (WRB how) )
+          (S 
+            (NP-SBJ (DT the) (NN medicine) )
+            (VP (VBZ works) 
+              (ADVP-MNR (-NONE- *T*-1) )))))
+      (, ,) 
+      (VP (VBP describe) 
+        (SBAR 
+          (WHADVP-2 (WRB how) )
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB use) 
+                (NP (PRP it) )
+                (ADVP-MNR (-NONE- *T*-2) ))))))
+      (CC and) 
+      (VP (VBP list) 
+        (NP (PRP$ its) (JJ possible) (NN side) (NNS effects) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-3 (PRP They) )
+    (VP 
+      (VP (VBP are) 
+        (VP (VBN designed) 
+          (S 
+            (NP-SBJ-1 (-NONE- *-3) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (VP (VBN given) 
+                  (NP (-NONE- *-1) )
+                  (PP-CLR (TO to) 
+                    (NP (NNS patients) ))
+                  (PP (IN by) 
+                    (NP-LGS (PRP$ their) (NNS doctors) ))
+                  (SBAR-TMP 
+                    (WHADVP-4 (WRB when) )
+                    (S 
+                      (NP-SBJ-2 (DT the) (NNS medicines) )
+                      (VP (VBP are) 
+                        (VP (VBN prescribed) 
+                          (NP (-NONE- *-2) )
+                          (ADVP-TMP (-NONE- *T*-4) )))))))))))
+      (CC and) 
+      (VP (VBP include) 
+        (NP 
+          (NP (NN space) )
+          (SBAR 
+            (WHADVP-6 (-NONE- 0) )
+            (IN for) 
+            (S 
+              (NP-SBJ-5 (DT the) (NN doctor) )
+              (VP (TO to) 
+                (S 
+                  (NP-SBJ (-NONE- *-5) )
+                  (VP (VB write) 
+                    (NP (JJ special) (NNS instructions) )
+                    (ADVP-LOC (-NONE- *T*-6) )))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ (NNP Searle) )
+    (VP (MD will) 
+      (VP (VB give) 
+        (NP (NNS pharmacists) )
+        (NP 
+          (NP (NNS brochures) )
+          (PP (IN on) 
+            (NP 
+              (NP (DT the) (NN use) )
+              (PP (IN of) 
+                (NP (NN prescription) (NNS drugs) ))))
+          (PP (IN for) 
+            (NP 
+              (NP (NN distribution) )
+              (PP-LOC (IN in) 
+                (NP (PRP$ their) (NNS stores) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Consumer) (NNS groups) )
+    (VP (VBP have) 
+      (ADVP-TMP (RB long) )
+      (VP (VBN advocated) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (NN drug) (NNS companies) )
+              (CC and) 
+              (NP (NNS doctors) ))
+            (VP (VB make) 
+              (S 
+                (NP-SBJ (JJR more) (NN information) )
+                (ADJP-PRD (JJ available) 
+                  (PP (TO to) 
+                    (NP (NNS patients) )))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ (PRP We) )
+      (VP (VBP believe) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT every) (NN drug) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ-3 (-NONE- *T*-1) )
+                  (VP (VBZ 's) 
+                    (VP (VBN marketed) 
+                      (NP (-NONE- *-3) )
+                      (PP-CLR (TO to) 
+                        (NP (DT a) (NN consumer) )))))))
+            (VP (MD should) 
+              (VP (VB have) 
+                (NP (DT a) (NN consumer) (NN label) )))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP Douglas) (NNP Teich) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NNP Public) (NNP Citizen) (NNP Health) (NNP Research) (NNP Group) )
+          (, ,) 
+          (NP (DT a) (NNP Ralph) (NNP Nader) (NN affiliate) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Dr.) (NNP Teich) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Searle) )
+          (VP (VBZ is) (`` ``) 
+            (NP-PRD 
+              (NP (DT the) (JJ only) (NN company) )
+              (SBAR 
+                (WHNP-2 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (PRP I) )
+                  (VP (VBP know) 
+                    (NP (-NONE- *T*-2) ))))
+              (SBAR 
+                (WHNP-1 (DT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP 
+                    (ADVP-MNR (RB voluntarily) )
+                    ('' '') (MD will) 
+                    (VP (VB make) 
+                      (S 
+                        (NP-SBJ (NN consumer) (NN information) )
+                        (ADJP-PRD (JJ available) )))))))))))
+    (. .) ))
+( (S 
+    (PP (VBG According) 
+      (PP (TO to) 
+        (NP 
+          (NP (JJ federal) (NNS officials) )
+          (CC and) 
+          (NP (NN drug-industry) (NNS studies) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (RB nearly) (NN half) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) 
+            (ADJP (CD 1.6) (CD billion) )
+            (NNS prescriptions) )
+          (VP (VBN filled) 
+            (NP (-NONE- *) )
+            (NP-TMP (DT each) (NN year) )))))
+    (VP (VBP are) (RB n't) 
+      (VP (VBN used) 
+        (ADVP-MNR (RB properly) )
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG meaning) 
+            (SBAR (DT that) 
+              (S 
+                (S 
+                  (NP-SBJ-1 (NN money) )
+                  (VP (VBZ is) 
+                    (VP (VBN wasted) 
+                      (NP (-NONE- *-1) )
+                      (PP-CLR (IN on) 
+                        (NP (DT some) (NNS prescriptions) )))))
+                (CC and) 
+                (S 
+                  (NP-SBJ-2 (NNS patients) )
+                  (VP (VBP are) 
+                    (VP (VBN deprived) 
+                      (NP (-NONE- *-2) )
+                      (PP-CLR (IN of) 
+                        (NP 
+                          (NP (DT the) (NNS benefits) )
+                          (PP (IN of) 
+                            (NP (NN medication) )))))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-3 
+      (NP-SBJ (PRP We) )
+      (VP (VBP think) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ 
+              (NP (PRP it) )
+              (S (-NONE- *EXP*-1) ))
+            (VP (VBZ 's) 
+              (ADJP-PRD (RB very) (JJ important) )
+              (S-1 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB provide) 
+                    (NP 
+                      (NP (IN as) (JJ much) (NN information) )
+                      (PP (IN as) 
+                        (ADJP (JJ possible) ))
+                      (PP (IN on) 
+                        (NP 
+                          (NP (DT the) (NNS drugs) )
+                          (SBAR 
+                            (WHNP-2 (-NONE- 0) )
+                            (S 
+                              (NP-SBJ (NNS consumers) )
+                              (VP (VBP take) 
+                                (NP (-NONE- *T*-2) )))))))))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-3) ))
+    (NP-SBJ (NNP Searle) (NN Chairman) (NNP Sheldon) (NNP Gilgore) )
+    (. .) ))

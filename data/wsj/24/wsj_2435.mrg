@@ -1,0 +1,164 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Matsushita) (NNP Electric) (NNP Industrial) (NNP Co.) )
+        (PP-LOC (IN of) 
+          (NP (NNP Japan) )))
+      (CC and) 
+      (NP 
+        (NP (NNP Siemens) (NNP AG) )
+        (PP-LOC (IN of) 
+          (NP (NNP West) (NNP Germany) ))))
+    (VP (VBD announced) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP have) 
+            (VP (VBN completed) 
+              (NP (DT a) 
+                (ADJP (CD 100) (JJ million-mark) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (ADJP 
+                    (QP ($ $) (CD 52.2) (CD million) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) )
+                (JJ joint) (NN venture) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB produce) 
+                      (NP (NNS electronics) (NNS parts) ))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP 
+        (NP (DT the) (NN venture) (POS 's) )
+        (JJ first) (JJ fiscal) (NN year) ))
+    (, ,) 
+    (S 
+      (NP-SBJ-1 (NNP Siemens) )
+      (VP (MD will) 
+        (VP (VB hold) 
+          (NP-2 
+            (NP (CD 74.9) (NN %) )
+            (PP (IN of) 
+              (NP (DT the) (NN venture) ))))))
+    (CC and) 
+    (S 
+      (NP-SBJ=1 
+        (NP (DT a) (NNP Matsushita) (NN subsidiary) )
+        (, ,) 
+        (NP (NNP Matsushita) (NNP Electronic) (NNPS Components) (NNP Co.) )
+        (, ,) )
+      (NP=2 (CD 25.1) (NN %) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT A) (JJ basic) (NN agreement) )
+      (PP (IN between) 
+        (NP (DT the) (CD two) (NNS companies) )))
+    (VP (VBD was) 
+      (VP (VBN announced) 
+        (NP (-NONE- *-1) )
+        (PP-TMP (IN in) 
+          (NP (NNP June) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (DT The) (JJ new) (NN company) )
+    (VP (VBZ is) 
+      (S 
+        (NP-SBJ-1 (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB be) 
+            (VP (VBN called) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (NP-PRD (NNP Siemens) (NNP Matsushita) (NNPS Components) (NNP G.m.b) (. .) (NN H) (. .) )))))))))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (NP (PRP$ its) (NNS headquarters) )
+        (PP-LOC-CLR (IN in) 
+          (NP (NNP Munich) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Matsushita) (POS 's) )
+        (NN share) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NN venture) )))
+    (VP (MD will) 
+      (VP 
+        (VP (VB rise) 
+          (PP-DIR-1 (TO to) 
+            (NP (CD 35) (NN %) ))
+          (NP-TMP-2 (NNP Oct.) (CD 1) 
+            (, ,)
+            (CD 1990) ))
+        (, ,) 
+        (CC and)
+        (VP 
+          (PP-DIR=1 (TO to) 
+            (NP (CD 50) (NN %) ))
+          (NP-TMP=2 (DT the) (VBG following) (NNP Oct.) (CD 1) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Siemens) )
+    (VP (MD will) 
+      (VP (VB retain) 
+        (NP (NN majority) (VBG voting) (NNS rights) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN parent) (NNS companies) )
+      (VP (VBP forecast) 
+        (NP 
+          (NP (NNS sales) )
+          (PP (IN for) 
+            (NP (DT the) (NN venture) ))
+          (PP (IN of) 
+            (NP 
+              (QP (IN around) (CD 750) (CD million) )
+              (NNS marks) )))
+        (PP-TMP (IN for) 
+          (NP (PRP$ its) (JJ first) (JJ fiscal) (NN year) ))))
+    (, ,) 
+    (NP-SBJ (NNP Matsushita) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Sales) )
+    (VP (VBP are) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB rise) 
+              (PP-DIR (TO to) 
+                (NP 
+                  (QP (CD one) (CD billion) )
+                  (NNS marks) ))
+              (PP-TMP (IN after) 
+                (NP (CD four) (NNS years) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (NP (NN production) (NNS facilities) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP West) (NNP Germany) )
+            (, ,) 
+            (NP (NNP Austria) )
+            (, ,) 
+            (NP (NNP France) )
+            (CC and) 
+            (NP (NNP Spain) )))))
+    (. .) ))

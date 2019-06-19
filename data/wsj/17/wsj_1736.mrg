@@ -1,0 +1,151 @@
+
+( (S 
+    (NP-SBJ (NNP Philips) (NNPS Industries) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN board) )
+          (VP (VBD authorized) 
+            (NP 
+              (NP 
+                (NP (DT the) (NN redemption) )
+                (NP-TMP (NNP Dec.) (CD 6) )
+                (PP (IN of) 
+                  (NP-1 
+                    (NP (DT the) (NN company) (POS 's) )
+                    (ADJP ($ $) (CD 1) (-NONE- *U*) )
+                    (JJ cumulative) (JJ convertible) (JJ special) (VBN preferred) (NN stock) ))
+                (PP-2 (IN at) 
+                  (NP 
+                    (NP 
+                      (NP ($ $) (CD 37.50) (-NONE- *U*) )
+                      (NP-ADV (DT a) (NN share) ))
+                    (, ,) 
+                    (PP (RB not) (VBG including) 
+                      (NP 
+                        (NP (DT a) (CD 25) (NN cent) (NN dividend) )
+                        (PP (IN for) 
+                          (NP (DT the) (JJ current) (NN quarter) )))))))
+              (, ,) 
+              (CC and)
+              (NP 
+                (NP=1 (DT the) 
+                  (ADJP ($ $) (CD 3) (-NONE- *U*) )
+                  (JJ cumulative) (JJ convertible) (VBN preferred) (NN stock) )
+                (PP=2 (IN at) 
+                  (NP 
+                    (NP ($ $) (CD 75) (-NONE- *U*) )
+                    (, ,) 
+                    (PP (CC plus) 
+                      (NP 
+                        (NP (DT a) (CD 75) (NN cent) (NN dividend) )
+                        (PP (IN for) 
+                          (NP (DT the) (JJ current) (NN quarter) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) 
+        (NAC-LOC (NNP Dayton) 
+          (, ,)
+          (NNP Ohio) 
+          (, ,)
+          )
+        (NN maker) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNS parts) )
+          (PP (IN for) 
+            (NP (DT the) (NN building) 
+              (CC and)
+              (NN transportation) (NNS industries) )))))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS holders) )
+            (PP (IN of) 
+              (NP (DT the) (CD two) (NNS issues) )))
+          (VP (MD can) 
+            (VP (VB convert) 
+              (NP (PRP$ their) (NN stock) )
+              (PP-CLR (IN into) 
+                (NP (JJ common) (NNS shares) ))
+              (PP-TMP (IN through) 
+                (NP 
+                  (NP (DT the) (NN close) )
+                  (PP (IN of) 
+                    (NP (NN business) ))
+                  (NP-TMP (NNP Dec.) (CD 1) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (DT Each) 
+        (ADJP ($ $) (CD 1) (-NONE- *U*) )
+        (JJ cumulative) (NN share) )
+      (VP (MD can) 
+        (VP (VB be) 
+          (VP (VBN converted) 
+            (NP (-NONE- *-1) )
+            (PP-CLR (IN into) 
+              (NP (CD 4.92) (JJ common) (NNS shares) ))))))
+    (: ;) 
+    (S 
+      (NP-SBJ 
+        (NP (DT the) (NN ratio) )
+        (PP (IN on) 
+          (NP (DT the) 
+            (ADJP ($ $) (CD 3) (-NONE- *U*) )
+            (JJ cumulative) )))
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (CD eight) (JJ common) (NNS shares) )
+          (PP (IN for) 
+            (NP (DT each) 
+              (ADJP ($ $) (CD 3) (-NONE- *U*) )
+              (JJ cumulative) (VBN preferred) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Philips) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB indicate) 
+        (SBAR-NOM 
+          (WHNP-1 
+            (WHNP 
+              (WHADVP (WRB how) (JJ many) )
+              (NNS shares) )
+            (ADJP (JJ outstanding) )
+            (PP (-NONE- *ICH*-2) ))
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ has) 
+              (NP (-NONE- *T*-1) )))
+          (PP-2 (IN of) 
+            (NP (DT either) (NN issue) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NN Company) (NNS officials) )
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-1) ))))
+    (. .) ))
+( (S 
+    (NP-TMP (RBR Earlier) (DT this) (NN month) )
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN board) )
+          (VP (VBD approved) 
+            (NP 
+              (NP (DT a) (VBN proposed) (JJ management-led) (JJ leveraged) (NN buy-out) )
+              (PP (IN at) 
+                (NP 
+                  (NP 
+                    (NP ($ $) (CD 25.50) (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN share) ))
+                  (, ,) (CC or) 
+                  (NP 
+                    (QP ($ $) (CD 750) (CD million) )
+                    (-NONE- *U*) ))))))))
+    (. .) ))

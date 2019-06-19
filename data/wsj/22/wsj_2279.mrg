@@ -1,0 +1,51 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (JJ British) (JJ retail) (NNS sales) (NN volume) )
+      (VP 
+        (VP (VBD rose) 
+          (NP-EXT (DT a) (JJ provisional) (CD 0.4) (NN %) )
+          (PP-TMP (IN in) 
+            (NP (NNP September) ))
+          (PP-DIR (IN from) 
+            (NP-TMP (NNP August) )))
+        (CC and) 
+        (VP (VBD was) 
+          (ADVP-PRD (RB up) 
+            (NP (CD 2.2) (NN %) ))
+          (PP-DIR (IN from) 
+            (NP-TMP (NNP September) (CD 1988) )))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP Department) )
+      (PP (IN of) 
+        (NP (NNP Trade) 
+          (CC and)
+          (NNP Industry) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP 
+        (NP (DT the) (CD three) (NNS months) )
+        (VP (VBN ended) 
+          (PP-TMP-CLR (IN in) 
+            (NP (NNP September) )))))
+    (, ,) 
+    (NP-SBJ (JJ retail) (NNS sales) (NN volume) )
+    (VP (VBD was) 
+      (ADVP-PRD 
+        (ADVP (RB down) 
+          (NP (CD 0.5) (NN %) )
+          (PP-DIR (IN from) 
+            (NP-TMP (DT the) (JJ previous) (CD three) (NNS months) )))
+        (CC and) 
+        (ADVP (RB up) 
+          (NP (CD 1.2) (NN %) )
+          (PP-DIR (IN from) 
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RBR earlier) )))))
+    (. .) ))

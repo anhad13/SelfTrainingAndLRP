@@ -1,0 +1,227 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Exxon) (NNP Corp.) )
+    (VP (VBZ is) 
+      (VP (VBG resigning) 
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (DT the) (NNP National) (NNP Wildlife) (NNP Federation) (POS 's) )
+            (JJ corporate) (JJ advisory) (NN panel) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG saying) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (DT the) (NN conservation) (NN group) )
+                (VP (VBZ has) 
+                  (VP (VBN been) 
+                    (ADJP-PRD (RB unfairly) (JJ critical) 
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT the) (NNP Exxon) (NNP Valdez) (NN oil) (NN spill) )
+                          (PP-LOC (IN along) 
+                            (NP (DT the) (JJ Alaskan) (NN coast) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN federation) )
+    (VP 
+      (VP (VBD said) 
+        (NP-TMP (NNP Friday) )
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ regrets) 
+              (NP (DT the) (NN resignation) )))))
+      (, ,) (CC but) 
+      (VP (VBD issued) 
+        (NP 
+          (NP (DT a) (JJ stinging) (NN response) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD called) 
+                (S 
+                  (NP-SBJ (NNP Exxon) )
+                  (NP-PRD 
+                    (NP (DT a) (`` ``) (JJ corporate) (NN pariah) ('' '') )
+                    (SBAR 
+                      (WHNP-2 (WDT that) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-2) )
+                        (VP (MD should) 
+                          (VP (VB keep) 
+                            (NP (DT an) (JJ open) (NN dialogue) )
+                            (PP-CLR (IN with) 
+                              (NP (NNS environmentalists) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN federation) )
+    (, ,) 
+    (PP (IN with) 
+      (NP 
+        (NP 
+          (QP (CD 5.8) (CD million) )
+          (NNS members) )
+        (ADVP-LOC (JJ nationwide) )))
+    (, ,) 
+    (VP 
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (NP-PRD 
+            (NP (CD one) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (JJS sharpest) (NNS critics) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (NP (NNP Exxon) (POS 's) )
+                      (NN handling) )
+                    (PP (IN of) 
+                      (NP (DT the) 
+                        (ADJP 
+                          (QP (CD 11) (CD million) )
+                          (NN gallon) )
+                        (NN tanker) (NN spill) )))))))))
+      (CC and) 
+      (VP (VBZ has) 
+        (VP (VBN accused) 
+          (NP-1 (DT the) (NN company) )
+          (PP-CLR (IN of) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *-1) )
+              (ADVP-TMP (RB repeatedly) )
+              (VP (VBG ignoring) 
+                (NP (NNS requests) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB meet) 
+                        (CC and)
+                        (VB discuss) 
+                        (NP (PRP it) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP March) (CD 24) (NN oil) (VB spill) )
+    (VP 
+      (VP (VBD soiled) 
+        (NP 
+          (NP (NNS hundreds) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNS miles) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN shoreline) )
+                  (PP-LOC (IN along) 
+                    (NP 
+                      (NP (NNP Alaska) (POS 's) )
+                      (JJ southern) (NN coast) ))))))))
+      (CC and) 
+      (VP (VBD wreaked) 
+        (NP (NN havoc) )
+        (PP-CLR (IN with) 
+          (NP 
+            (NP (NN wildlife) )
+            (CC and) 
+            (NP (DT the) (NN fishing) (NN industry) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Exxon) (POS 's) )
+      (NNP Exxon) (NNP USA) (NN unit) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (CD one) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (JJ charter) (NNS members) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NNP Corporate) (NNP Conservation) (NNP Council) )
+                (, ,) 
+                (NP 
+                  (NP (DT a) (NN panel) )
+                  (PP (IN of) 
+                    (NP (NNS executives) ))
+                  (VP (VBN formed) 
+                    (NP-1 (-NONE- *) )
+                    (PP-TMP (IN in) 
+                      (NP (CD 1982) ))
+                    (PP (IN by) 
+                      (NP-LGS (DT the) (NNP National) (NNP Wildlife) (NNP Federation) ))
+                    (S-CLR 
+                      (NP-SBJ (-NONE- *-1) )
+                      (VP (TO to) 
+                        (VP (VB foster) 
+                          (NP (`` ``) 
+                            (NP (JJ frank) 
+                              (CC and)
+                              (JJ open) (NNS discussions) )
+                            ('' '') 
+                            (PP (IN between) 
+                              (NP 
+                                (NP (NN industry) )
+                                (CC and) 
+                                (NP 
+                                  (NP (DT the) (NN federation) (POS 's) )
+                                  (NNS leaders) )))))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (DT a) (NN letter) )
+        (PP (TO to) 
+          (NP (DT the) (NN federation) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Raymond) (NNP Campion) )
+      (, ,) 
+      (NP 
+        (NP (NNP Exxon) (POS 's) )
+        (JJ environmental) (NN coordinator) )
+      (, ,) )
+    (VP (VBD said) (: :) (`` ``) 
+      (S 
+        (NP-SBJ-1 
+          (NP (JJ Recent) (JJ public) (NNS actions) )
+          (PP (IN by) 
+            (NP (PRP you) ))
+          (VP (VBG regarding) 
+            (NP (DT the) (NNP Valdez) (NN oil) (NN spill) )))
+        (VP (VB have) 
+          (VP (VBN failed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB demonstrate) 
+                  (NP 
+                    (NP (DT any) (NN sense) )
+                    (PP (IN of) 
+                      (NP (NN objectivity) (CC or) (NN fairness) ))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT The) (NN federation) )
+    (VP (VBD was) 
+      (PP-LOC-PRD (IN among) 
+        (NP (DT the) (NNS plaintiffs) ))
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT a) (NN lawsuit) )
+          (VP (VBN filed) 
+            (NP (-NONE- *) )
+            (PP-TMP (IN in) 
+              (NP (NNP August) ))
+            (PP-CLR (IN against) 
+              (NP (NN Exxon) )))
+          (VP (VBG seeking) 
+            (NP 
+              (NP (JJ full) (NN payment) )
+              (PP (IN of) 
+                (NP 
+                  (NP (JJ environmental) (NN recovery) (NNS costs) )
+                  (PP (IN from) 
+                    (NP (DT the) (NN spill) )))))))))
+    (. .) ))

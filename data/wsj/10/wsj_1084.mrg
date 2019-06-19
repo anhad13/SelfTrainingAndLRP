@@ -1,0 +1,103 @@
+
+( (S 
+    (NP-SBJ (JJ French) (NN consumer) (NNS prices) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 0.2) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (NNP September) ))
+      (PP-DIR (IN from) 
+        (NP-TMP (NNP August) ))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (JJ provisional) (NNS estimates) )
+            (PP (IN by) 
+              (NP (DT the) (NNP National) (NNPS Statistics) (NNP Institute) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN agency) )
+    (VP (VBD noted) 
+      (SBAR (IN that) 
+        (S 
+          (PP-PRP (IN because) (IN of) 
+            (NP 
+              (NP (DT a) (NN strike) )
+              (PP (IN by) 
+                (NP (NNP Finance) (NNP Ministry) (NNS personnel) ))))
+          (NP-SBJ (DT the) (JJ provisional) (NN estimate) )
+          (VP (VBZ does) (RB n't) 
+            (VP (VB correspond) 
+              (ADVP-MNR (RB exactly) )
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP (DT the) (NN consumer) (NN price) (NN index) )
+                  (ADVP-TMP (RB usually) )
+                  (VP (VBN published) 
+                    (NP (-NONE- *) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN agency) )
+    (VP (VBD noted) 
+      (, ,)
+      (ADVP (RB however) )
+      (, ,) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN estimate) )
+          (VP (MD will) 
+            (ADVP (RB likely) )
+            (VP (VB be) 
+              (VP (VBN confirmed) 
+                (NP (-NONE- *-1) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NN institute) )
+      (VP (VBD did) (RB n't) 
+        (VP (VB estimate) 
+          (NP (JJ annual) (NN price) (NN growth) )
+          (PP-TMP (IN in) 
+            (NP (NNP September) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (DT a) 
+          (ADJP (CD 0.2) (NN %) )
+          (NN rise) )
+        (PP (IN by) 
+          (NP (DT the) (NN consumer) (NN price) (NN index) )))
+      (VP (MD would) 
+        (VP (VB put) 
+          (NP (NN growth) )
+          (PP-PUT (IN at) 
+            (NP 
+              (NP (CC either) (CD 178.8) (CC or) (CD 178.9) )
+              (, ,) 
+              (ADVP (RB up) 
+                (NP-EXT 
+                  (NP (CD 3.3) (NN %) )
+                  (CC or) 
+                  (NP (CD 3.4) (NN %) ))
+                (PP-DIR (IN from) 
+                  (NP 
+                    (NP (DT the) (JJ year-earlier) (NN level) )
+                    (PP (IN of) 
+                      (NP (CD 173.1) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN index) )
+    (VP 
+      (VP (VBD was) 
+        (NP-PRD (CD 178.5) )
+        (PP-TMP (IN in) 
+          (NP (NNP August) )))
+      (CC and) 
+      (VP (VBZ is) 
+        (VP (VBN based) 
+          (PP-CLR (IN on) 
+            (S-NOM 
+              (NP-SBJ (CD 1980) )
+              (VP (VBG equaling) 
+                (NP (CD 100) )))))))
+    (. .) ))

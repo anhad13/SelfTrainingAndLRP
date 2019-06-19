@@ -1,0 +1,159 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Harken) (NNP Energy) (NNP Corp.) )
+      (PP (IN of) 
+        (NP (NNP Dallas) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB drop) 
+              (NP 
+                (NP (PRP$ its) 
+                  (ADJP 
+                    (QP ($ $) (JJ 11.75-a-share) 
+                      (, ,)
+                      (CC or) ($ $) (CD 190) (CD million) )
+                    (-NONE- *U*) 
+                    (, ,)
+                    )
+                  (NN offer) )
+                (PP (IN for) 
+                  (NP (NNP Tesoro) (NNP Petroleum) (NNP Corp.) )))
+              (SBAR-ADV (IN if) 
+                (S 
+                  (NP-SBJ (DT the) (CD two) (NNS companies) )
+                  (VP (VBP do) (RB n't) 
+                    (VP (VB have) 
+                      (NP (DT an) (NN agreement) 
+                        (S 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (TO to) 
+                            (VP (VB merge) ))))
+                      (PP-TMP (IN by) 
+                        (NP (NNP Dec.) (CD 15) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Harken) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD made) 
+            (NP (PRP$ its) (NN offer) )
+            (PP-TMP (IN in) 
+              (NP (NNP August) )))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (ADVP (RB still) )
+          (VP (VBZ is) 
+            (VP (VBG awaiting) 
+              (NP 
+                (NP (DT a) (NN response) )
+                (PP (TO to) 
+                  (NP (PRP$ its) (NN offer) ))
+                (PP (IN from) 
+                  (NP 
+                    (NP (NNP Tesoro) (POS 's) )
+                    (NN board) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Harken) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ-1 
+            (NP (PRP$ its) (NN financing) )
+            (PP (IN from) 
+              (NP (NNPS Bankers) (NNP Trust) (NNP Co.) )))
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (VP (VBN extended) 
+                (NP (-NONE- *-1) )
+                (PP-TMP (IN until) 
+                  (NP (NNP Dec.) (CD 15) ))
+                (S-PRP 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB give) 
+                      (NP 
+                        (NP (NNP Tesoro) (POS 's) )
+                        (NN board) )
+                      (NP 
+                        (NP (NN time) )
+                        (SBAR 
+                          (WHADVP-2 (-NONE- 0) )
+                          (S 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (TO to) 
+                              (VP (VB consider) 
+                                (NP (DT the) (NN offer) )
+                                (PP-LOC (IN at) 
+                                  (NP 
+                                    (NP (DT a) (NNP Tesoro) (NN board) (NN meeting) )
+                                    (VP (VBN scheduled) 
+                                      (NP (-NONE- *) )
+                                      (PP-CLR (IN for) 
+                                        (NP (NNP mid-November) )))))
+                                (ADVP-TMP (-NONE- *T*-2) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Harken) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ owns) 
+            (NP 
+              (QP (IN about) (CD 800) )
+              (NN retail) (NN gas) (NNS stations) ))))
+      (, ,) )
+    (VP (VBZ has) 
+      (VP (VBN said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ is) 
+              (ADJP-PRD (RB particularly) (JJ interested) 
+                (PP (IN in) 
+                  (NP 
+                    (NP (NNP Tesoro) (POS 's) )
+                    (NN refinery) )))
+              (SBAR-PRP (IN because) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (MD would) 
+                    (VP (VB fill) 
+                      (NP 
+                        (NP (DT a) (NN gap) )
+                        (PP-LOC (IN in) 
+                          (NP (PRP$ its) (NN business) ))))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Tesoro) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-CLR-LOC (IN in) 
+          (NP (NNP Houston) )))
+      (, ,) )
+    (ADVP (RB already) )
+    (VP (VBZ has) 
+      (VP (VBN rejected) 
+        (NP (DT a) (NN suitor) )
+        (PP-TMP (IN in) 
+          (NP (DT the) (NN past) (NN year) ))))
+    (. .) ))

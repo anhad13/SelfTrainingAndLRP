@@ -1,0 +1,93 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NN Raw-steel) (NN production) )
+        (PP (IN by) 
+          (NP 
+            (NP (DT the) (NN nation) (POS 's) )
+            (NNS mills) )))
+      (VP (VBD decreased) 
+        (NP-EXT (CD 0.7) (NN %) )
+        (NP-TMP (JJ last) (NN week) )
+        (PP-DIR (TO to) 
+          (NP (CD 1,816,000) (NNS tons) ))
+        (PP-DIR (IN from) 
+          (NP (CD 1,828,000) (NNS tons) )
+          (NP-TMP (DT the) (JJ previous) (NN week) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP American) (NNP Iron) 
+      (CC and)
+      (NNP Steel) (NNP Institute) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Last) (NN week) (POS 's) )
+      (NN output) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 1.7) (NN %) )
+      (PP-DIR (IN from) 
+        (NP 
+          (NP (DT the) (CD 1,848,000) (NNS tons) )
+          (VP (VBD produced) 
+            (NP (-NONE- *) )
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RBR earlier) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN industry) )
+    (VP (VBD used) 
+      (NP 
+        (NP (CD 81.6) (NN %) )
+        (PP (IN of) 
+          (NP (PRP$ its) (NN capability) )))
+      (NP-TMP (JJ last) (NN week) )
+      (, ,) 
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP 
+              (NP (CD 82.2) (NN %) )
+              (NP-TMP (DT the) (JJ previous) (NN week) ))
+            (CC and) 
+            (NP 
+              (NP (CD 86.2) (NN %) )
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (IN ago) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP American) (NNP Iron) 
+      (CC and)
+      (NNP Steel) (NNP Institute) )
+    (VP (VBD reported) (: :) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT The) (NN capability) (NN utilization) (NN rate) )
+          (VP (VBZ is) 
+            (NP-PRD 
+              (NP (DT a) (NN calculation) )
+              (VP (VBN designed) 
+                (NP (-NONE- *) )
+                (S-PRP 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB indicate) 
+                      (SBAR 
+                        (WHPP-1 (IN at) 
+                          (WHNP 
+                            (WHNP (WDT what) (NN percent) )
+                            (PP (IN of) 
+                              (NP (PRP$ its) (NN production) (NN capability) ))))
+                        (S 
+                          (NP-SBJ (DT the) (NN industry) )
+                          (VP (VBZ is) 
+                            (VP (VBG operating) 
+                              (PP-TMP (IN in) 
+                                (NP (DT a) (VBN given) (NN week) ))
+                              (PP-LOC (-NONE- *T*-1) )))))))))))
+          (. .) )))))

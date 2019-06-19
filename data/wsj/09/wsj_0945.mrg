@@ -1,0 +1,44 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Hale) (NNP Milgrim) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 41) (NNS years) )
+        (JJ old) )
+      (, ,) 
+      (NP 
+        (NP (JJ senior) (NN vice) (NN president) )
+        (, ,) 
+        (NP (NN marketing) )
+        (PP-LOC (IN at) 
+          (NP (NNP Elecktra) (NNP Entertainment) (NNP Inc.) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN president) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Capitol) (NNPS Records) (NNP Inc.) )
+                (, ,) 
+                (NP 
+                  (NP (DT a) (NN unit) )
+                  (PP (IN of) 
+                    (NP (DT this) (NN entertainment) (NN concern) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Milgrim) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP David) (NNP Berman) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD resigned) 
+              (NP-TMP (JJ last) (NN month) ))))))
+    (. .) ))

@@ -1,0 +1,133 @@
+
+( (S 
+    (NP-SBJ (NNP Clinton) (NNP Gas) (NNPS Systems) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD received) 
+            (NP (DT a) (NN contract) 
+              (S (-NONE- *ICH*-1) ))
+            (PP-CLR (IN from) 
+              (NP 
+                (NP (NNP Timken) (NNP Co.) )
+                (, ,) 
+                (NP-LOC (NNP Canton) 
+                  (, ,)
+                  (NNP Ohio) )
+                (, ,) ))
+            (S-1 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB manage) 
+                  (NP (DT the) (JJ natural) (NN gas) (NN purchasing) 
+                    (, ,)
+                    (NN scheduling) 
+                    (CC and)
+                    (NN transportation) (NNS activities) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (NNP Timken) (POS 's) )
+                      (NX 
+                        (NX (CD seven) (NNP Ohio) 
+                          (NX (-NONE- *ICH*-2) ))
+                        (CC and) 
+                        (NX (CD two) (NNP Pennsylvania) 
+                          (NX (-NONE- *ICH*-2) ))
+                        (NX-2 (NNS plants) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Clinton) 
+      (CC and)
+      (NNP Timken) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (RB not) 
+        (VP (TO to) 
+          (VP (VB disclose) 
+            (NP 
+              (NP (DT the) (NN value) )
+              (PP (IN of) 
+                (NP (DT the) (NN contract) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Timken) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN producer) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS bearings) )
+            (CC and) 
+            (NP (NN specialty) (NN steel) ))))
+      (, ,) )
+    (ADVP-TMP (RB already) )
+    (VP (VBZ buys) 
+      (NP (NN gas) )
+      (PP-CLR (IN from) 
+        (NP (NNP Clinton) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Clinton) )
+    (VP (VBD said) 
+      (PP-LOC (IN in) 
+        (NP (NNP Columbus) 
+          (, ,)
+          (NNP Ohio) 
+          (, ,)
+          ))
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (PRP$ its) (NNP Clinton) (NNP Gas) (NNP Marketing) (NN unit) )
+          (VP (VBZ wants) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB line) 
+                  (PRT (RP up) )
+                  (NP 
+                    (NP (DT a) (NN number) )
+                    (PP (IN of) 
+                      (NP (JJ such) (NN gas) (NN management) (NNS contracts) ))))))))))
+    (. .) ))
+( (S-2 
+    (S 
+      (NP-SBJ (NNS Manufacturers) )
+      (ADVP-TMP (RB frequently) )
+      (VP (VBP do) (RB n't) 
+        (VP (VB have) 
+          (NP 
+            (NP (NN anyone) )
+            (SBAR 
+              (WHNP-1 (WP who) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ is) 
+                  (NP-PRD 
+                    (NP (DT a) (NN specialist) )
+                    (PP (IN in) 
+                      (NP (JJ natural) (NN gas) ))))))))))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (NNP Clinton) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-2) ))))
+      (, ,) )
+    (CC and) 
+    (S 
+      (NP-SBJ 
+        (NP (DT a) (NN specialist) )
+        (PP (JJ such) (IN as) 
+          (NP (NNP Clinton) )))
+      (VP (MD can) 
+        (VP (VB save) 
+          (NP (PRP them) )
+          (NP 
+            (NP (JJ substantial) (NNS amounts) )
+            (PP (IN of) 
+              (NP (NN money) ))))))
+    (. .) ))

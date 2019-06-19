@@ -1,0 +1,978 @@
+
+( (S-HLN 
+    (NP-SBJ (NN Hospital) (NN Regulation) )
+    (VP (VBZ Sparks) 
+      (NP (NNP Kentucky) (NN Feud) ))))
+( (SBARQ 
+    (WHNP-1 (WDT WHICH) )
+    (SQ 
+      (NP-SBJ (-NONE- *T*-1) )
+      (VP (VBZ IS) 
+        (NP-PRD 
+          (NP 
+            (NP (DT the) (JJS best) (NN medicine) )
+            (PP (IN for) 
+              (NP (JJ runaway) (NN health) (NNS costs) )))
+          (: :) 
+          (NP (NN competition) (CC or) (NN regulation) ))))
+    (. ?) ))
+( (S 
+    (NP-SBJ (DT The) (NN question) )
+    (VP (VBZ is) 
+      (PP-LOC-PRD (IN at) 
+        (NP 
+          (NP (DT the) (NN root) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT a) (NN brawl) )
+              (PP (IN between) 
+                (NP 
+                  (NP 
+                    (NP (NNP Humana) (NNP Inc.) )
+                    (, ,) 
+                    (NP (DT the) (JJ big) (JJ for-profit) (NN hospital) 
+                      (CC and)
+                      (NN insurance) (NN company) ))
+                  (, ,) 
+                  (CC and)
+                  (NP 
+                    (NP (PRP$ its) (JJ not-for-profit) (NNS brethren) )
+                    (PP-LOC (IN in) 
+                      (NP 
+                        (NP (PRP$ its) (NN home) (NN state) )
+                        (PP (IN of) 
+                          (NP (NNP Kentucky) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN battle) )
+    (VP (VBZ focuses) 
+      (PP-CLR (IN on) 
+        (NP 
+          (NP 
+            (NP (DT the) (NN state) (POS 's) )
+            (NN certificate-of-need) (NN law) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBZ regulates) 
+                (NP 
+                  (NP (NN investment) )
+                  (PP-LOC (IN in) 
+                    (NP (JJ new) (JJ medical) (NN technology) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN law) )
+    (VP (VBZ has) 
+      (VP (VBN prevented) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 216) (CD million) )
+            (-NONE- *U*) )
+          (PP (IN of) 
+            (NP (JJ unnecessary) (NNS expenditures) )))
+        (PP-TMP (IN since) 
+          (NP (CD 1986) ))
+        (, ,) 
+        (PP (VBG according) 
+          (PP (TO to) 
+            (NP 
+              (NP (NNP William) (NNP S.) (NNP Conn) )
+              (, ,) 
+              (NP 
+                (NP (NN president) )
+                (PP (IN of) 
+                  (NP (DT the) (NNP Kentucky) (NNP Hospital) (NNP Association) ))))))))
+    (. .) ))
+( (S (CC But) 
+    (PP (VBG according) 
+      (PP (TO to) 
+        (NP 
+          (NP (NNP David) (NNP Jones) )
+          (, ,) 
+          (NP 
+            (NP (NNP Humana) (POS 's) )
+            (JJ chief) (NN executive) ))))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP 
+      (VP (VBZ promotes) 
+        (NP (NN technology) (NNS monopolies) ))
+      (, ,) 
+      (VP (VBZ stifles) 
+        (NP (NN innovation) ))
+      (CC and) 
+      (VP (VBZ raises) 
+        (NP (NNS prices) )))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (DT the) (NNP Legislature) )
+        (VP (VBZ does) (RB n't) 
+          (VP (VB repeal) 
+            (NP 
+              (NP (DT the) (NN law) )
+              (, ,) 
+              (ADJP (JJ due) 
+                (PP (IN for) 
+                  (NP (NN revision) ))
+                (PP-TMP (IN in) 
+                  (NP (CD 1990) )))
+              (, ,) )))))
+    (NP-SBJ (NNP Mr.) (NNP Jones) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Humana) )
+          (VP (MD may) 
+            (VP (VB move) 
+              (NP 
+                (NP (PRP$ its) (NN insurance) (NNS operations) )
+                (, ,) 
+                (PP (VBG including) 
+                  (NP 
+                    (NP (CD 3,000) (NNS jobs) )
+                    (PP-LOC (IN in) 
+                      (NP (NNP Louisville) ))))
+                (, ,) )
+              (PP-DIR (TO to) 
+                (NP (DT another) (NN state) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBZ complains) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD paid) 
+            (NP 
+              (QP ($ $) (CD 10) (CD million) )
+              (-NONE- *U*) )
+            (PP-DTV (TO to) 
+              (NP (JJ non-Humana) (NNS hospitals) ))
+            (PP-TMP (IN in) 
+              (NP (PRP$ its) (JJS latest) (JJ fiscal) (NN year) ))
+            (PP-CLR (IN for) 
+              (NP 
+                (NP (NNS services) )
+                (VP (VBN provided) 
+                  (NP (-NONE- *) )
+                  (PP-DTV (TO to) 
+                    (NP (PRP$ its) (NN insurance) (NN plan) (NNS members) )))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (NNP Humana) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (JJ own) (NNS facilities) )
+          (VP (MD could) 
+            (VP (VB serve) 
+              (NP (PRP$ its) (VBN insured) )
+              (PP-CLR (IN for) 
+                (NP (JJR less) ))
+              (SBAR-ADV (IN if) 
+                (S 
+                  (NP-SBJ (PRP they) )
+                  (VP (VBD were) 
+                    (ADJP-PRD (RB properly) (VBN equipped) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Conn) )
+    (VP (VBZ charges) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Humana) (POS 's) )
+            (JJ own) (NNS actions) )
+          (VP (VBP undermine) 
+            (NP (PRP$ its) (NN argument) )))))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB When) )
+      (S 
+        (NP-SBJ 
+          (NP (DT a) (NN hospital) )
+          (PP-LOC (IN in) 
+            (NP (NNP Lexington) )))
+        (VP (VBD installed) 
+          (NP (DT a) (NN lithotripter) )
+          (NP-TMP (JJ last) (NN year) )
+          (ADVP-TMP (-NONE- *T*-1) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NN demand) )
+      (PP (IN for) 
+        (NP (DT a) (JJ similar) (NN kidney-stone) (NN smashing) (NN machine) ))
+      (PP-LOC (IN at) 
+        (NP 
+          (NP (DT a) (NNP Humana) (NN hospital) )
+          (PP-LOC (IN in) 
+            (NP (NNP Louisville) )))))
+    (VP (VBD fell) 
+      (NP-EXT (CD 34) (NN %) ))
+    (. .) ))
+( (S-2 
+    (NP-SBJ-3 (DT The) (NNP Humana) (NN hospital) )
+    (VP 
+      (VP (VBD responded) 
+        (PP-MNR (IN by) 
+          (S-NOM 
+            (NP-SBJ-4 (-NONE- *-3) )
+            (VP (VBG jacking) 
+              (PRT (RP up) )
+              (NP (NNS prices) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *-4) )
+                (VP (TO to) 
+                  (VP (VB make) 
+                    (PRT (RP up) )
+                    (PP-CLR (IN for) 
+                      (NP (VBN lost) (NN revenue) )))))))))
+      (PRN 
+        (, ,)
+        (S 
+          (NP-SBJ (NNP Mr.) (NNP Conn) )
+          (VP (VBZ says) 
+            (SBAR (-NONE- 0) 
+              (S (-NONE- *T*-2) ))))
+        (, ,) )
+      (CC and) 
+      (VP 
+        (ADVP-TMP (RB now) )
+        (VBZ charges) 
+        (NP 
+          (QP (RB as) (JJ much) (IN as) ($ $) (CD 8,000) )
+          (-NONE- *U*) )
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (DT the) (NN procedure) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ costs) 
+                  (ADVP (RB only) )
+                  (NP 
+                    (QP (RB about) ($ $) (CD 3,500) )
+                    (-NONE- *U*) )
+                  (PP-LOC (IN in) 
+                    (NP (NNP Lexington) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Humana) )
+    (VP (VBZ contends) 
+      (SBAR 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ ($ $) (CD 8,000) (-NONE- *U*) )
+            (VP (VBZ represents) 
+              (NP (DT an) (JJ extreme) (NN case) ))))
+        (CC and) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (PRP$ its) (JJ regular) (NN charge) )
+              (PP (IN for) 
+                (NP (NN lithotripsy) )))
+            (VP (VBZ is) 
+              (NP-PRD ($ $) (CD 4,900) (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Meanwhile) )
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (DT another) (NN hospital) (POS 's) )
+        (NN proposal) )
+      (PP (IN for) 
+        (NP (DT a) (NN new-generation) (NN lithotripter) )))
+    (VP (VBZ is) 
+      (ADJP-PRD (VBG pending) )
+      (PP-LOC (IN before) 
+        (NP 
+          (NP (DT the) (NN board) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBZ administers) 
+                (NP (DT the) (NN certificate-of-need) (NN law) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Humana) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ-3 (-NONE- *T*-1) )
+          (VP (VBZ wants) 
+            (S 
+              (NP-SBJ (-NONE- *-3) )
+              (VP (TO to) 
+                (VP (VB acquire) 
+                  (NP 
+                    (NP (CD one) )
+                    (PP (IN of) 
+                      (NP (DT the) (JJ new) (NNS machines) )))
+                  (NP-ADV (PRP itself) )))))))
+      (, ,) )
+    (VP (VBZ is) 
+      (PP-PRD (IN on) 
+        (NP (DT the) (NN record) ))
+      (PP (IN as) 
+        (ADJP (VBN opposed) 
+          (PP (TO to) 
+            (NP (DT the) (NN proposal) )))))
+    (. .) ))
+( (S-HLN 
+    (NP-SBJ (JJ Debt-Burdened) (NNS Doctors) )
+    (VP (VBP Seek) 
+      (NP (JJ Financial) (NN Security) ))))
+( (S 
+    (NP-SBJ (NN HEALTH-CARE) (NNS experts) )
+    (VP (VBP have) 
+      (ADVP-TMP (RB long) )
+      (VP (VBN worried) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (JJ young) (NNS doctors) )
+              (VP (VBG emerging) 
+                (PP-DIR (IN from) 
+                  (NP (JJ medical) (NN school) ))
+                (PP-MNR (IN with) 
+                  (NP 
+                    (NP (DT a) (NN mountain) )
+                    (PP (IN of) 
+                      (NP (NN debt) ))))))
+            (VP (MD will) 
+              (VP (VB choose) 
+                (NP 
+                  (NP (NNS careers) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (JJ high-paying) (NNS specialties) )
+                      (PP (RB instead) (IN of) 
+                        (NP 
+                          (NP (JJ primary) (NN care) )
+                          (, ,) 
+                          (SBAR 
+                            (WHADVP-2 (WRB where) )
+                            (S 
+                              (NP-SBJ-1 (JJR more) (NNS physicians) )
+                              (VP (VBP are) 
+                                (VP (VBN needed) 
+                                  (NP (-NONE- *-1) )
+                                  (ADVP (RBS most) )
+                                  (ADVP-LOC (-NONE- *T*-2) ))))))))))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Now) )
+    (NP-SBJ (EX there) )
+    (VP (VBZ 's) 
+      (NP-PRD 
+        (NP (DT a) (JJ new) (NN wrinkle) )
+        (S (-NONE- *ICH*-2) ))
+      (PP-LOC (IN in) 
+        (SBAR-NOM 
+          (WHNP-1 (WP what) )
+          (S 
+            (NP-SBJ (JJ young) (NNS doctors) )
+            (VP (VBP want) 
+              (NP (-NONE- *T*-1) )))))
+      (: :) 
+      (S-2 
+        (NP-SBJ 
+          (NP 
+            (QP (JJR More) (IN than) (NN half) ))
+          (PP (IN of) 
+            (NP (CD 300) (NNS residents) ))
+          (VP (VBG responding) 
+            (PP-CLR (TO to) 
+              (NP (JJ recent) (NN survey) ))))
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ (PRP they) )
+              (VP (MD 'd) 
+                (VP (VB prefer) 
+                  (NP (DT a) (VBN guaranteed) (NN salary) )
+                  (PP-CLR (IN over) 
+                    (NP (JJ traditional) (JJ fee-for-service) (NN compensation) ))
+                  (PP-LOC (IN in) 
+                    (NP (PRP$ their) (JJ first) (JJ professional) (NN position) )))))))))
+    (. .) ))
+( (S (CC And) 
+    (NP-SBJ (CD 81) (NN %) )
+    (VP (VBD preferred) 
+      (NP (DT a) (NN group) (NN practice) (CC or) (NN health) (NN maintenance) (NN organization) )
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ 
+            (QP (RB just) (CD 11) )
+            (NN %) )
+          (VP (VBD favored) 
+            (NP (NN solo) (NN practice) )))))
+    (. .) ))
+((SINV (`` ``) 
+    (S-TPC-2 
+      (ADVP-TMP 
+        (NP (CD Ten) (NNS years) )
+        (RB ago) )
+      (, ,) 
+      (NP-SBJ-3 (DT a) (NN physician) )
+      (VP (MD would) 
+        (VP 
+          (VP (VB go) 
+            (PP-DIR (TO to) 
+              (NP (DT a) (NN town) )))
+          (CC and) 
+          (VP (VB take) 
+            (PRT (RP out) )
+            (NP (DT a) (NN loan) )
+            (PRN 
+              (-LRB- -LRB-)
+              (S-PRP 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (TO to) 
+                  (VP (VB start) 
+                    (NP (DT a) (NN practice) ))))
+              (-RRB- -RRB-) )))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP James) (NNP Merritt) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Merritt) 
+              (, ,)
+              (NNP Hawkins) (CC &) (NNP Associates) )
+            (, ,) 
+            (NP 
+              (NP (DT an) 
+                (NAC-LOC (NNP Irvine) 
+                  (, ,)
+                  (NNP Calif.) 
+                  (, ,)
+                  )
+                (NN physician) (NN recruiter) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBD conducted) 
+                    (NP (DT the) (NN survey) )))))))))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (PRP They) )
+    (VP (MD wo) (RB n't) 
+      (VP (VB do) 
+        (NP (DT that) )
+        (ADVP-TMP (RB very) (RB often) )
+        (NP-TMP (NN today) )
+        (ADVP (IN at) (DT all) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBP 're) 
+      (VP (VBG looking) 
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (NN something) )
+            (SBAR 
+              (WHNP-1 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ 's) 
+                  (ADJP-PRD (RB very) (JJ safe) ))))))))
+    (. .) ('' '') ))
+( (FRAG 
+    (NP 
+      (NP (DT The) (NNS numbers) )
+      (PP-LOC (IN behind) 
+        (NP (JJ such) (NNS fears) )))
+    (: :) 
+    (SINV 
+      (S-TPC-1 
+        (NP-SBJ 
+          (NP (DT The) (JJ average) (NN debt) )
+          (PP (IN of) 
+            (NP 
+              (NP (JJ medical) (NN school) (NNS graduates) )
+              (SBAR 
+                (WHNP-3 (WP who) )
+                (S 
+                  (NP-SBJ-2 (-NONE- *T*-3) )
+                  (VP (VBD borrowed) 
+                    (S-PRP 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB pay) 
+                          (PP-CLR (IN for) 
+                            (NP (PRP$ their) (NN education) )))))))))))
+        (VP (VBD jumped) 
+          (NP-EXT (CD 10) (NN %) )
+          (PP-DIR (TO to) 
+            (NP ($ $) (CD 42,374) (-NONE- *U*) )
+            (NP-TMP (DT this) (NN year) ))
+          (PP-DIR (IN from) 
+            (NP ($ $) (CD 38,489) (-NONE- *U*) )
+            (PP-TMP (IN in) 
+              (NP (CD 1988) )))))
+      (, ,) 
+      (VP (VBZ says) 
+        (SBAR (-NONE- 0) 
+          (S (-NONE- *T*-1) )))
+      (NP-SBJ 
+        (NP (DT the) (NNP Association) )
+        (PP (IN of) 
+          (NP (NNP American) (NNP Medical) (NNP Colleges) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) )
+    (VP (VBZ 's) 
+      (ADJP-PRD 
+        (ADJP 
+          (NP-ADV (CD 115) (NN %) )
+          (JJR more) )
+        (PP (IN than) 
+          (PP-TMP (IN in) 
+            (NP (CD 1981) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Money) )
+    (VP (VBZ is) (RB n't) 
+      (NP-PRD 
+        (NP (DT the) (JJ only) (NN reason) )
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (NN shift) )
+            (PP-LOC (IN in) 
+              (NP (NN practice) (NNS preferences) ))))))
+    (. .) ))
+((SINV 
+    (S-3 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ reflects) 
+        (NP 
+          (NP (NNS values) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT a) (NN generation) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBZ wants) 
+                    (NP 
+                      (NP (JJR more) (NN time) )
+                      (PP (IN for) 
+                        (NP 
+                          (NP (NNS families) )
+                          (CC and) 
+                          (NP (JJ personal) (NNS interests) ))))))))))))
+    (, ,) 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-3) ))
+    (NP-SBJ 
+      (NP (NNP John) (NNP H.) (NNP Moxley) (NNP III) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBZ directs) 
+            (NP (JJ physician-executive) (NNS searches) )
+            (PP (IN for) 
+              (NP (NNP Korn\/Ferry) (NNP International) ))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT This) )
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (DT a) (NN change) )
+          (PP (IN in) 
+            (NP 
+              (NP (DT the) (JJ social) (NN fabric) )
+              (PP (IN of) 
+                (NP (NN medicine) )))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S-HLN 
+    (NP-SBJ (JJ Related) (NNS Roommates) )
+    (VP (VBP Trim) 
+      (NP (NN Hospital) (NNS Bills) ))))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB WHEN) )
+      (S 
+        (NP-SBJ (NNP Catherine) (NNP Bobar) )
+        (VP (VBD spent) 
+          (NP-TMP (JJ several) (NNS weeks) )
+          (PP-LOC (IN at) 
+            (NP 
+              (NP (DT the) (NNP Medical) (NNP Center) )
+              (PP (IN of) 
+                (NP (NNP Vermont) ))))
+          (ADVP-TMP (RB recently) )
+          (PP (IN with) 
+            (NP 
+              (NP (DT a) (NN bone) (NN infection) )
+              (PP (IN in) 
+                (NP (PRP$ her) (NN toe) ))))
+          (ADVP-TMP (-NONE- *T*-1) ))))
+    (, ,) 
+    (NP-SBJ (PRP she) )
+    (VP (VBD shared) 
+      (NP (DT a) (NN room) )
+      (PP (RB just) (IN like) 
+        (NP (JJS most) (NNS patients) )))
+    (. .) ))
+( (S (CC But) 
+    (PP (IN unlike) 
+      (NP (JJS most) (NNS patients) ))
+    (, ,) 
+    (NP-SBJ (PRP$ her) (NN roommate) )
+    (VP (VBD was) 
+      (NP-PRD (PRP$ her) (NN husband) ))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (PRP It) )
+        (S (-NONE- *EXP*-3) ))
+      (VP (VBD was) 
+        (ADVP (RB certainly) )
+        (ADJP-PRD (JJ good) )
+        (S-3 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB have) 
+              (S 
+                (NP-SBJ (PRP him) )
+                (ADJP-PRD (JJ handy) )))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mrs.) (NNP Bobar) )
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ 12-bed) (`` ``) (JJ cooperative) (NN care) ('' '') (NN unit) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (CD one) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP (RB about) (CD 18) ))
+            (ADVP-LOC (JJ nationwide) )
+            (SBAR 
+              (WHADVP-1 (WRB where) )
+              (S 
+                (NP-SBJ (DT a) (NN family) (NN member) (CC or) (NN friend) )
+                (VP (VBZ helps) 
+                  (VP (VB care) 
+                    (PP-CLR (IN for) 
+                      (NP 
+                        (NP (DT a) (NN patient) )
+                        (PP-LOC (IN in) 
+                          (NP (DT the) (NN hospital) ))))
+                    (ADVP-LOC (-NONE- *T*-1) )))))))))
+    (. .) ))
+((SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN philosophy) )
+      (VP (VBZ is) 
+        (S-PRD 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB make) 
+              (S 
+                (NP-SBJ 
+                  (NP (DT the) (NN patient) )
+                  (CC and) 
+                  (NP (DT the) (NN family) ))
+                (ADJP-PRD (RB very) (JJ responsible) 
+                  (PP (IN for) 
+                    (NP 
+                      (NP (DT a) (NN portion) )
+                      (PP (IN of) 
+                        (NP (PRP$ their) (JJ own) (NN care) )))))))))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Anthony) (NNP J.) (NNP Grieco) )
+      (, ,) 
+      (NP 
+        (NP (JJ medical) (NN director) )
+        (PP (IN of) 
+          (NP (JJ cooperative) (NN care) ))
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (NNP New) (NNP York) (NNP University) (NNP Medical) (NNP Center) )
+            (, ,) 
+            (SBAR 
+              (WHADVP-2 (WRB where) )
+              (S 
+                (NP-SBJ (DT the) (NN concept) )
+                (VP (VBD began) 
+                  (ADVP-TMP-CLR 
+                    (NP (CD 10) (NNS years) )
+                    (RB ago) )
+                  (ADVP-LOC (-NONE- *T*-2) ))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ helps) 
+        (NP 
+          (NP (PRP us) )
+          (, ,) 
+          (CC and)
+          (NP (PRP them) ))
+        (, ,) 
+        (SBAR-TMP (IN while) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBP 're) 
+              (ADVP-LOC-PRD (RB here) ))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (PRP it) )
+      (ADVP (RB certainly) )
+      (VP (VBZ makes) 
+        (S 
+          (NP-SBJ (PRP them) )
+          (NP-PRD (DT a) (JJR better) (NN health-care) (NN team) )
+          (SBAR-TMP 
+            (WHADVP-1 (WRB when) )
+            (S 
+              (NP-SBJ (PRP they) )
+              (VP (VBP get) 
+                (ADVP-LOC-CLR (NN home) )
+                (ADVP-TMP (-NONE- *T*-1) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP (RB also) )
+    (VP (VBZ saves) 
+      (NP (NN money) ))
+    (. .) ))
+( (S 
+    (SBAR-PRP (IN Because) 
+      (S 
+        (NP-SBJ (NNS patients) )
+        (VP (VBP require) 
+          (NP 
+            (NP (JJR less) (NN attention) )
+            (PP (IN from) 
+              (NP 
+                (NP (NNS nurses) )
+                (CC and) 
+                (NP (JJ other) (NN staff) )))))))
+    (, ,) 
+    (NP-SBJ (NN room) (NNS charges) )
+    (VP (VBP are) 
+      (ADJP-PRD 
+        (ADJP (JJR lower) )
+        (: --) 
+        (ADJP 
+          (ADJP 
+            (NP-ADV 
+              (QP (RB about) ($ $) (CD 100) )
+              (-NONE- *U*) )
+            (JJR less) 
+            (PP (IN per) 
+              (NP (NN day) )))
+          (PP (IN than) 
+            (NP 
+              (NP (DT a) (JJ regular) (NN room) )
+              (PP-LOC (IN at) 
+                (NP (DT the) (NNP Vermont) (NN hospital) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NN Cancer) (NNS patients) )
+        (VP (VBG needing) 
+          (NP (JJ prolonged) (NN radiation) (NN therapy) )))
+      (, ,) 
+      (NP 
+        (NP (NNS diabetics) )
+        (VP (VBG learning) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB manage) 
+                (NP (PRP$ their) (NN blood) (NN sugar) (NNS levels) ))))))
+      (, ,) 
+      (CC and)
+      (NP (JJ cardiac) (NN bypass) (NNS patients) ))
+    (VP (VBP are) 
+      (PP-LOC-PRD (IN among) 
+        (NP 
+          (NP (DT those) )
+          (SBAR 
+            (WHNP-1 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBP spend) 
+                (NP (NN time) )
+                (PP-CLR (IN on) 
+                  (NP (JJ cooperative-care) (NNS units) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN approach) )
+    (VP (VBZ has) 
+      (VP (VBN generated) 
+        (NP 
+          (NP 
+            (ADJP (RB so) (JJ much) )
+            (NN interest) )
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (NNP NYU) )
+              (VP (VBZ is) 
+                (NP-PRD 
+                  (NP (NN host) )
+                  (PP (TO to) 
+                    (NP 
+                      (NP (DT the) (JJ first) (NN conference) )
+                      (PP (IN on) 
+                        (NP (JJ cooperative) (NN care) ))
+                      (NP-TMP (NNP Nov.) (CD 30) ))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ 's) 
+        (ADVP (RB really) )
+        (NP-PRD 
+          (NP (NN part) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN hospital) )
+              (PP (IN of) 
+                (NP (DT the) (JJ 21st) (NN century) )))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Dr.) (NNP Grieco) )
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (NP-HLN (NNS Odds) 
+    (CC and)
+    (NNS Ends) ))
+( (S 
+    (S 
+      (NP-SBJ (DT THE) (JJ CHIEF) (NN NURSING) (NN officer) )
+      (VP (MD can) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ responsible) 
+            (PP (IN for) 
+              (NP 
+                (NP 
+                  (QP (JJR more) (IN than) (CD 1,000) )
+                  (NNS employees) )
+                (CC and) 
+                (NP 
+                  (NP 
+                    (QP (IN at) (JJS least) (JJ one-third) ))
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT a) (NN hospital) (POS 's) )
+                      (NN budget) )))))))))
+    (: ;) 
+    (S 
+      (NP-SBJ (DT a) (NN head) (NN nurse) )
+      (ADVP (RB typically) )
+      (VP (VBZ oversees) 
+        (NP 
+          (NP 
+            (QP (IN up) (TO to) (CD 80) )
+            (NNS employees) )
+          (CC and) 
+          (NP 
+            (QP ($ $) (CD 8) (CD million) )
+            (-NONE- *U*) ))))
+    (. .) ))
+( (SINV 
+    (ADVP-CLR-TPC-3 (RB So) )
+    (VP (VBZ says) 
+      (ADVP-CLR (-NONE- *T*-3) ))
+    (NP-SBJ 
+      (NP (DT the) (NNP Commonwealth) (NNP Fund) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NNP New) (NNP York) (NN philanthropist) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ 's) 
+              (VP (VBG sponsoring) 
+                (NP 
+                  (NP (DT a) 
+                    (ADJP 
+                      (QP ($ $) (CD 1) (CD million) )
+                      (-NONE- *U*) )
+                    (NN project) )
+                  (SBAR 
+                    (WHADVP-2 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB develop) 
+                          (NP 
+                            (NP (JJ joint) (NNS masters) )
+                            (PP-LOC (IN in) 
+                              (NP (NN business) 
+                                (CC and)
+                                (NN nursing) (NNS programs) )))
+                          (PP-LOC (IN at) 
+                            (NP (CD 10) (NNS universities) ))
+                          (ADVP (-NONE- *T*-2) ))))))))))))
+    (: ...) (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Meharry) (NNP Medical) (NNP College) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NNP Nashville) )
+          (, ,) 
+          (NP (NNP Tenn.) )
+          (, ,) )))
+    (VP (VBZ launches) 
+      (NP 
+        (NP (DT a) (JJ new) (NN research) (NN publication) )
+        (NP (-NONE- *ICH*-1) ))
+      (PP-TMP (IN in) 
+        (NP (DT the) (NN spring) ))
+      (: :) 
+      (NP-1 
+        (NP (DT the) (NNP Journal) )
+        (PP (IN on) 
+          (NP 
+            (NP (NNP Health) (NNP Care) )
+            (PP (IN for) 
+              (NP (DT the) 
+                (ADJP (NNP Poor) 
+                  (CC and)
+                  (NNP Underserved) )))))))
+    (. .) ))

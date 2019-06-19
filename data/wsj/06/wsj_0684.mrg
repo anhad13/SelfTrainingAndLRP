@@ -1,0 +1,78 @@
+
+( (S 
+    (NP-SBJ (NNP Telxon) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (S 
+            (NP-SBJ 
+              (NP (PRP$ its) (NN vice) (NN president) )
+              (PP (IN for) 
+                (NP (NN manufacturing) )))
+            (VP (VBD resigned) ))
+          (CC and) 
+          (S 
+            (NP-SBJ-1 (PRP$ its) (NNP Houston) (NN work) (NN force) )
+            (VP (VBZ has) 
+              (VP (VBN been) 
+                (VP (VBN trimmed) 
+                  (NP (-NONE- *-1) )
+                  (PP-EXT (IN by) 
+                    (NP 
+                      (NP (CD 40) (NNS people) )
+                      (, ,) (CC or) 
+                      (NP 
+                        (QP (RB about) (CD 15) )
+                        (NN %) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN maker) )
+      (PP (IN of) 
+        (NP (JJ hand-held) (NNS computers) 
+          (CC and)
+          (NN computer) (NNS systems) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NNS personnel) (NNS changes) )
+          (VP (VBD were) 
+            (VP (VBN needed) 
+              (NP (-NONE- *-1) )
+              (S-CLR 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB improve) 
+                    (NP 
+                      (NP (DT the) (NN efficiency) )
+                      (PP (IN of) 
+                        (NP (PRP$ its) (NN manufacturing) (NN operation) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) (RB n't) 
+            (VP (VBN named) 
+              (NP 
+                (NP (DT a) (NN successor) )
+                (PP (TO to) 
+                  (NP 
+                    (NP (NNP Ronald) (NNP Bufton) )
+                    (, ,) 
+                    (NP 
+                      (NP (DT the) (NN vice) (NN president) )
+                      (SBAR 
+                        (WHNP-1 (WP who) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-1) )
+                          (VP (VBD resigned) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP$ Its) (NNP Houston) (NN work) (NN force) )
+    (ADVP-TMP (RB now) )
+    (VP (VBZ totals) 
+      (NP (CD 230) ))
+    (. .) ))

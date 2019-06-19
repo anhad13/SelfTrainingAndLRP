@@ -1,0 +1,492 @@
+
+( (S 
+    (NP-SBJ (NNP HomeFed) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ third-quarter) (JJ net) (NN income) )
+          (VP (VBD slid) 
+            (NP-EXT (CD 14) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 23.9) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP ($ $) (CD 1.10) (-NONE- *U*) )
+                  (PP (IN per) 
+                    (NP 
+                      (ADJP (RB fully) (VBN diluted) )
+                      (NN share) )))))
+            (, ,) 
+            (PP-DIR (IN from) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 27.9) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP ($ $) (CD 1.21) (-NONE- *U*) )
+                  (NP-ADV (DT a) 
+                    (ADJP (RB fully) (VBN diluted) )
+                    (NN share) ))))
+            (, ,) 
+            (PP-PRP (IN because) (IN of) 
+              (NP 
+                (NP (JJ increased) (JJ bad) (NNS assets) )
+                (CC and) 
+                (NP 
+                  (NP (JJ unexpected) (NN trouble) )
+                  (PP (IN in) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG unloading) 
+                        (NP (JJ foreclosed) (NN property) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN decline) )
+    (VP 
+      (VP (VBD surprised) 
+        (NP (NNS analysts) ))
+      (CC and) 
+      (VP (VBD jolted) 
+        (NP 
+          (NP 
+            (NP (NNP HomeFed) (POS 's) )
+            (NN stock) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (NP-SBJ-2 (-NONE- *T*-1) )
+              (VP (VBD lost) 
+                (NP 
+                  (NP (CD 8.6) (NN %) )
+                  (PP (IN of) 
+                    (NP (PRP$ its) (NN value) )))
+                (, ,) 
+                (S-ADV 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (VBG closing) 
+                    (PP-CLR (IN at) 
+                      (NP ($ $) (CD 38.50) (-NONE- *U*) ))
+                    (PP-LOC (IN on) 
+                      (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))
+                    (, ,) 
+                    (ADVP-CLR (RB down) 
+                      (NP ($ $) (CD 3.625) (-NONE- *U*) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (VBN HomeFed) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (CD one) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN handful) )
+              (PP (IN of) 
+                (NP (JJ large) (NNP West) (NNP Coast) (NNS thrifts) ))
+              (SBAR 
+                (WHNP-1 (IN that) )
+                (S 
+                  (PP-TMP (IN in) 
+                    (NP (JJ recent) (NNS quarters) ))
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBD had) 
+                    (VP (VBN counteracted) 
+                      (NP 
+                        (NP (JJ interest-rate) (NNS problems) )
+                        (VP (VBG dogging) 
+                          (NP (DT the) (NN industry) )))
+                      (PP-MNR (IN by) 
+                        (S-NOM 
+                          (NP-SBJ (-NONE- *) )
+                          (VP 
+                            (VP (VBG keeping) 
+                              (NP-CLR (DT a) (NN lid) )
+                              (PP-CLR (IN on) 
+                                (NP (NN problem) (NNS assets) )))
+                            (CC and) 
+                            (VP (VBG lending) 
+                              (ADVP-MNR (RB heavily) )
+                              (PP-CLR (IN into) 
+                                (NP (DT the) (JJ furious) (NNP California) (NN housing) (NN market) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Analysts) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (VP (VBG projecting) 
+          (NP 
+            (NP (RB fully) (VBN diluted) (NNS earnings) )
+            (PP-TMP (IN in) 
+              (NP (DT the) (JJ third) (NN quarter) ))
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT the) (NN range) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (QP (RB about) ($ $) (CD 1.30) )
+                      (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN share) )))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP HomeFed) (POS 's) )
+      (NN loan) (NNS originations) 
+      (CC and)
+      (NNS purchases) )
+    (VP (VBD plunged) 
+      (NP-EXT (CD 26) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (NN quarter) ))
+      (, ,) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 1.4) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 1.9) (CD billion) )
+          (-NONE- *U*) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (RBR earlier) )))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Meanwhile) )
+    (, ,) 
+    (NP-SBJ (JJ non-performing) (NNS assets) )
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 593) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 518.7) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (QP (DT Some) ($ $) (CD 380) (CD million) )
+        (-NONE- *U*) )
+      (PP (IN of) 
+        (NP (DT the) (JJ troubled) (NNS assets) )))
+    (VP (VBZ is) 
+      (NP-PRD (JJ repossessed) (JJ real) (NN estate) )
+      (, ,) 
+      (NP-ADV 
+        (NP (DT a) 
+          (ADJP (CD 55.6) (NN %) )
+          (NN surge) )
+        (PP (IN from) 
+          (NP 
+            (NP (DT the) 
+              (QP ($ $) (CD 244.2) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN of) 
+              (NP 
+                (NP (JJ repossesed) (NN property) )
+                (SBAR 
+                  (WHNP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (NNP HomeFed) )
+                    (VP (VBD held) 
+                      (NP (-NONE- *T*-1) )
+                      (ADVP-TMP 
+                        (NP (DT a) (NN year) )
+                        (RB ago) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP HomeFed) )
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 17.9) (CD billion) )
+          (-NONE- *U*) )
+        (PP (IN of) 
+          (NP (NNS assets) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (VBN HomeFed) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (JJS most) )
+            (PP (IN of) 
+              (NP (DT the) (VBN troubled) (NNS assets) )))
+          (VP (VBP are) 
+            (NP-PRD 
+              (NP (NN apartment) (NNS complexes) )
+              (, ,) 
+              (NP (NN shopping) (NNS malls) )
+              (CC and) 
+              (NP (JJ other) (JJ commercial) (JJ real) (NN estate) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (RB about) (NN half) )
+          (VP (VBP are) 
+            (PP-LOC-PRD (IN in) 
+              (NP (NNP California) ))
+            (, ,) 
+            (PP (IN with) 
+              (NP 
+                (NP (DT the) (NN rest) )
+                (VP (VBN scattered) 
+                  (NP (-NONE- *) )
+                  (PP-LOC (IN across) 
+                    (NP (DT the) (NN country) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (S 
+            (NP-SBJ 
+              (NP (NNS sales) )
+              (PP (IN of) 
+                (NP (JJ such) (NNS properties) )))
+            (VP (VBD were) 
+              (ADJP-PRD 
+                (ADJP (JJR slower) )
+                (PP (IN than) 
+                  (S-NOM 
+                    (NP-SBJ-1 (-NONE- *) )
+                    (VP (VBN anticipated) 
+                      (NP (-NONE- *-1) )))))
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ third) (NN quarter) ))))
+          (, ,) (CC but) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ expects) 
+              (S 
+                (NP-SBJ (NNS sales) )
+                (VP (TO to) 
+                  (VP (VB pick) 
+                    (PRT (RP up) )
+                    (PP-TMP (IN in) 
+                      (NP 
+                        (NP (DT the) (NN rest) )
+                        (PP (IN of) 
+                          (NP (DT the) (NN year) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP HomeFed) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN slide) )
+            (PP-LOC (IN in) 
+              (NP (NN loan) (NNS originations) )))
+          (VP (VBD was) 
+            (NP-PRD 
+              (ADVP (RBR more) )
+              (NP 
+                (NP (DT a) (NN matter) )
+                (PP (IN of) 
+                  (NP (NN design) )))
+              (PP (IN than) 
+                (NP 
+                  (NP (DT a) (NN sign) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NN cooling) )
+                      (PP-LOC (IN in) 
+                        (NP (DT the) (NNP California) (NN market) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT Any) (JJ such) (NN downturn) )
+      (PP-LOC (IN in) 
+        (NP (NNP California) )))
+    (VP (MD would) 
+      (VP (VB be) 
+        (NP-PRD (JJ grim) (NN news) )
+        (PP (IN for) 
+          (NP 
+            (NP (NNP West) (NNP Coast) (NNS thrifts) )
+            (, ,) (RB particularly) 
+            (NP 
+              (NP (DT the) 
+                (ADJP (RBR less) (JJ healthy) )
+                (NNS ones) )
+              (, ,) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBP have) 
+                    (VP (VBN performed) 
+                      (ADVP-MNR (RB poorly) )
+                      (PP 
+                        (ADVP (RB even) )
+                        (IN with) 
+                        (NP (DT a) (JJ torrid) (NN market) )))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (NNP HomeFed) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (ADVP (RB purposely) )
+          (VP (VBD curbed) 
+            (NP (NN loan) (NNS originations) )
+            (PP-TMP (IN in) 
+              (NP (DT the) (NN quarter) ))
+            (PP-PRP (IN because) (IN of) 
+              (NP 
+                (NP (NN uncertainty) )
+                (PP (IN over) 
+                  (NP 
+                    (NP (DT the) (JJ new) 
+                      (NX 
+                        (NX (NN capital) (NNS requirements) )
+                        (CC and) 
+                        (NX (NNS regulations) )))
+                    (SBAR 
+                      (WHNP-1 (WDT that) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (MD will) 
+                          (VP (VB emerge) 
+                            (PP-DIR (IN from) 
+                              (NP 
+                                (NP (NNS negotiations) )
+                                (PP (IN over) 
+                                  (S-NOM 
+                                    (NP-SBJ (-NONE- *) )
+                                    (VP (VBG implementing) 
+                                      (NP 
+                                        (NP (DT the) (NN government) (POS 's) )
+                                        (JJ massive) (NN thrift) (NN bailout) (NN bill) ))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (JJ real-estate) (NNS operations) )
+          (VP (VBD earned) 
+            (NP 
+              (NP (DT a) (NN record) 
+                (QP ($ $) (CD 21.7) (CD million) )
+                (-NONE- *U*) )
+              (, ,) 
+              (NP 
+                (NP 
+                  (QP (JJR more) (IN than) (RB double) )
+                  (JJ year-earlier) (JJ real) (NN estate) (NN profit) )
+                (PP (IN of) 
+                  (NP 
+                    (QP ($ $) (CD 9) (CD million) )
+                    (-NONE- *U*) ))))))))
+    (. .) ))
+( (S (CC And) 
+    (NP-SBJ (NNS analysts) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP see) 
+            (NP 
+              (NP (DT no) (NNS signs) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT an) (JJ imminent) (NN swoon) )
+                  (PP-LOC (IN in) 
+                    (NP (NNP California) (JJ real) (NN estate) )))))
+            (, ,) 
+            (PP 
+              (ADVP (RB even) )
+              (IN with) 
+              (NP 
+                (NP (JJ last) (NN week) (POS 's) )
+                (NN earthquake) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN thrift) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NNS earnings) )
+          (ADVP (RB also) )
+          (VP (VBD were) 
+            (VP (VBN nicked) 
+              (NP (-NONE- *-1) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (NN quarter) ))
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT a) 
+                    (ADJP 
+                      (QP ($ $) (CD 4) (CD million) )
+                      (-NONE- *U*) )
+                    (NN provision) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (NNS losses) )
+                      (VP (VBN associated) 
+                        (NP (-NONE- *) )
+                        (PP-CLR (IN with) 
+                          (NP (PRP$ its) 
+                            (ADJP (RB previously) (VBN reported) )
+                            (NN plan) 
+                            (S 
+                              (NP-SBJ (-NONE- *) )
+                              (VP (TO to) 
+                                (VP (VB liquidate) 
+                                  (NP (DT a) (NN real-estate) (NN franchise) (NN network) ))))))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (NNP HomeFed) )
+    (VP (VBD earned) 
+      (NP 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 82.5) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 3.52) (-NONE- *U*) )
+            (NP-ADV (DT a) 
+              (ADJP (RB fully) (VBN diluted) )
+              (NN share) )))
+        (, ,) 
+        (NP 
+          (NP (DT a) 
+            (ADJP (CD 4.3) (NN %) )
+            (NN increase) )
+          (PP (IN from) 
+            (NP 
+              (NP (JJ year-earlier) (JJ net) (NN income) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 79.1) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP ($ $) (CD 3.43) (-NONE- *U*) )
+                    (NP-ADV (DT a) 
+                      (ADJP (RB fully) (VBN diluted) )
+                      (NN share) )))))))))
+    (. .) ))

@@ -1,0 +1,63 @@
+
+( (S 
+    (NP-SBJ (NNP CNW) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (DT the) (JJ final) (NN step) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT the) (NN acquisition) )
+                (PP (IN of) 
+                  (NP (DT the) (NN company) )))))
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (VP (VBN completed) 
+                (NP (-NONE- *-1) )
+                (PP (IN with) 
+                  (NP 
+                    (NP (DT the) (NN merger) )
+                    (PP (IN of) 
+                      (NP (NNP CNW) ))
+                    (PP (IN with) 
+                      (NP 
+                        (NP (DT a) (NN subsidiary) )
+                        (PP (IN of) 
+                          (NP (NNP Chicago) (CC &) (NNP North) (NNP Western) (NNP Holdings) (NNP Corp) ))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN As) 
+      (S 
+        (NP-SBJ-2 (-NONE- *) )
+        (VP (VBN reported) 
+          (NP (-NONE- *-2) ))))
+    (, ,) 
+    (NP-SBJ-3 (NNP CNW) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ-1 (-NONE- *-3) )
+        (VP (TO to) 
+          (VP (VB be) 
+            (VP (VBN acquired) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT a) (NN group) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNS investors) )
+                      (VP (VBN led) 
+                        (NP (-NONE- *) )
+                        (PP (IN by) 
+                          (NP-LGS (NNP Blackstone) (NNP Capital) (NNP Partners) (NNP Limited) (NNP Partnership) )))))))
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP 
+                    (NP ($ $) (CD 50) (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN share) ))
+                  (, ,) (CC or) 
+                  (NP 
+                    (QP (RB about) ($ $) (CD 950) (CD million) )
+                    (-NONE- *U*) ))))))))
+    (. .) ))

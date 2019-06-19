@@ -1,0 +1,102 @@
+
+( (S 
+    (NP-SBJ (NNP CRA) (NNP Ltd.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB sell) 
+                  (NP 
+                    (NP (DT a) 
+                      (ADJP (CD 40) (NN %) )
+                      (NN stake) )
+                    (PP (IN in) 
+                      (NP 
+                        (NP (PRP$ its) (NNP Howick) (NN coal) (NN mine) )
+                        (PP-LOC (IN in) 
+                          (NP 
+                            (NP (DT the) (NN state) )
+                            (PP (IN of) 
+                              (NP (NNP New) (NNP South) (NNP Wales) )))))))
+                  (PP-CLR (TO to) 
+                    (NP 
+                      (NP (NNP Mitsubishi) (NNP Development) (NNP Pty.) )
+                      (PP (IN of) 
+                        (NP (NNP Japan) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN price) )
+    (VP (VBD was) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN agreement) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ subject) 
+        (PP (TO to) 
+          (NP (NN government) (NN approval) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP RA) )
+    (VP (VBD acquired) 
+      (NP (DT the) (NNP Howick) (NN coal) (NN mine) )
+      (NP-TMP (NNP Oct.) (CD 20) )
+      (SBAR-TMP 
+        (WHADVP-1 (WRB when) )
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD bought) 
+            (NP 
+              (NP (NNP British) (NNP Petroleum) (NNP Co.) (POS 's) )
+              (JJ Australian) (NN coal) (NNS interests) )
+            (PP-CLR (IN for) 
+              (NP 
+                (QP ($ $) (CD 275) (CD million) )
+                (-NONE- *U*) ))
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP CRA) )
+    (VP (VBD said) 
+      (ADVP-TMP (RB then) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD was) 
+            (VP (VBG looking) 
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP (DT a) (NN partner) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (DT the) (NN mine) )
+                      (, ,) 
+                      (SBAR 
+                        (WHNP-1 (WDT which) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-1) )
+                          (VP (VBZ produces) 
+                            (NP 
+                              (NP 
+                                (NP 
+                                  (QP (JJR more) (IN than) (CD three) (CD million) )
+                                  (JJ metric) (NNS tons) )
+                                (PP (IN of) 
+                                  (NP (NN coal) )))
+                              (NP-ADV (DT a) (NN year) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP CRA) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ 49%-owned) 
+        (PP (IN by) 
+          (NP 
+            (NP (NNP RTZ) (NNP Corp.) )
+            (PP (IN of) 
+              (NP (NNP Britain) ))))))
+    (. .) ))

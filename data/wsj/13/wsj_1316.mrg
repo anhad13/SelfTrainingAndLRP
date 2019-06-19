@@ -1,0 +1,535 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Ingersoll) (NNP Publications) (NNP Co.) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB buy) 
+            (NP (DT the) (NNP New) (NNP Haven) (NNP Register) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT a) (NN transaction) )
+                (VP (VBN valued) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN at) 
+                    (NP 
+                      (QP ($ $) (CD 275) (CD million) )
+                      (-NONE- *U*) )))))
+            (PP-CLR (IN from) 
+              (NP (NNP Goodson) (NNP Newspaper) (NNP Group) (NNP Inc) ))))))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (NP 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP (DT the) (NN agreement) ))))
+    (, ,) 
+    (NP-SBJ-3 (NNP Goodson) )
+    (ADVP (RB also) )
+    (VP (VBD terminated) 
+      (NP 
+        (NP (DT the) (NN contract) )
+        (SBAR 
+          (WHPP-2 (IN under) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ (NNP Ingersoll) )
+            (VP (VBZ manages) 
+              (NP 
+                (NP (NNP Goodson) (POS 's) )
+                (CD 66) (NNS newspapers) )
+              (PP-LOC (-NONE- *T*-2) )))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-3) )
+        (VP (VBG ending) 
+          (NP 
+            (NP (DT a) (JJ long) (NN association) )
+            (PP (IN between) 
+              (NP (DT the) (CD two) (NNS companies) ))
+            (SBAR 
+              (WHNP-1 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ has) 
+                  (VP (VBN turned) 
+                    (ADJP-PRD (RB increasingly) (JJ bitter) )
+                    (ADVP-TMP (RB recently) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Goodson) )
+    (VP (VBZ has) 
+      (VP (VBN accused) 
+        (NP-1 (NNP Ingersoll) )
+        (PP-CLR (IN of) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP 
+              (VP (VBG paying) 
+                (NP-2 (JJR less) (NN attention) )
+                (PP-CLR-3 (TO to) 
+                  (NP (PRP$ its) (NNS properties) )))
+              (CC and) 
+              (VP 
+                (NP=2 (JJR more) )
+                (PP-CLR=3 (TO to) 
+                  (NP 
+                    (NP (JJ such) (NNS ventures) )
+                    (PP (IN as) 
+                      (NP 
+                        (NP (DT the) (JJ recent) (NN launch) )
+                        (PP (IN of) 
+                          (NP (DT the) (NNP St.) (NNP Louis) (NNP Sun) ))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP 
+        (NP (DT the) (NNS terms) )
+        (PP (IN of) 
+          (NP (DT the) (NN accord) ))))
+    (, ,) 
+    (NP-SBJ (NNP Ingersoll) )
+    (VP (MD will) 
+      (VP (VB pay) 
+        (NP 
+          (QP (RB about) ($ $) (CD 255) (CD million) )
+          (-NONE- *U*) )
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (DT the) (NNP Register) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NN daily) )
+              (SBAR 
+                (WHNP-1 (IN that) )
+                (S 
+                  (NP-SBJ (NNP Goodson) )
+                  (VP (VBN bought) 
+                    (NP (-NONE- *T*-1) )
+                    (PP-CLR (IN for) 
+                      (NP 
+                        (QP (RB about) ($ $) (CD 170) (CD million) )
+                        (-NONE- *U*) ))
+                    (PP-TMP (IN in) 
+                      (NP (CD 1986) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Goodson) )
+    (VP (MD will) 
+      (VP (VB pay) 
+        (NP (DT the) (JJ additional) 
+          (QP ($ $) (CD 20) (CD million) )
+          (-NONE- *U*) )
+        (PP (IN in) 
+          (NP 
+            (NP (NN settlement) )
+            (PP (IN of) 
+              (NP (DT the) (NN management) (NN contract) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Goodson) )
+    (ADVP (RB also) )
+    (VP (VBD announced) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD hired) 
+            (NP 
+              (NP 
+                (NP (DT the) (JJ former) 
+                  (NX 
+                    (NX (NN president) )
+                    (CC and) 
+                    (NX (JJ senior) (NN vice) (NN president) )))
+                (PP (IN of) 
+                  (NP (NNP Ingersoll) )))
+              (SBAR-PRP 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (TO to) 
+                    (VP (VB run) 
+                      (NP (DT the) (NNP Goodson) (NNS papers) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) (NNS executives) )
+    (VP (VBD left) 
+      (NP (DT the) (NN company) )
+      (PP-TMP (IN after) 
+        (NP 
+          (NP (NNS clashes) )
+          (PP (IN with) 
+            (NP (NNP Chairman) (NNP Ralph) (NNP Ingersoll) (NNP Jr) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-3 
+      (NP (NNP Goodson) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ-1 (-NONE- *T*-2) )
+          (VP (VBZ is) 
+            (VP (VBN based) 
+              (NP (-NONE- *-1) )
+              (ADVP-LOC (RB here) )))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB use) 
+        (NP 
+          (NP (NN part) )
+          (PP (IN of) 
+            (NP (DT the) (NNS proceeds) )))
+        (S-CLR 
+          (NP-SBJ (-NONE- *-3) )
+          (VP (TO to) 
+            (VP (VB pay) 
+              (PRT (RP down) )
+              (NP 
+                (NP (NN debt) )
+                (VP (VBN associated) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN with) 
+                    (NP 
+                      (NP (PRP$ its) (NN purchase) )
+                      (PP (IN of) 
+                        (NP (DT the) (NNP Morristown) (NNP Daily) (NNP Record) ))
+                      (PP (IN for) 
+                        (NP 
+                          (QP ($ $) (CD 155) (CD million) )
+                          (-NONE- *U*) ))
+                      (PP-TMP (IN in) 
+                        (NP (CD 1987) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NNP New) (NNP Jersey) (NN paper) )
+      (, ,) 
+      (PP (IN like) 
+        (NP (DT the) 
+          (NAC-LOC (NNP New) (NNP Haven) 
+            (, ,)
+            (NNP Conn.) 
+            (, ,)
+            )
+          (NN paper) ))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN purchased) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (NNP Ingersoll) ))
+        (PP (IN on) 
+          (NP 
+            (NP (NNP Goodson) (POS 's) )
+            (NN behalf) ))
+        (PP (IN as) 
+          (NP 
+            (NP (NN part) )
+            (PP (IN of) 
+              (NP (DT the) (NN management) (NN contract) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Industry) (NNS analysts) )
+    (VP (VBP have) 
+      (VP (VBN said) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NN purchase) (NN price) )
+              (PP (IN for) 
+                (NP (DT the) (NN paper) )))
+            (VP (VBD was) 
+              (ADJP-PRD (RB too) (JJ high) )
+              (, ,) 
+              (S-ADV 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG causing) 
+                  (NP 
+                    (NP (DT a) (NN strain) )
+                    (PP (IN on) 
+                      (NP 
+                        (NP (NNP Goodson) (POS 's) )
+                        (NNS finances) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Investment) (NNS bankers) )
+      (ADJP (JJ familiar) 
+        (PP (IN with) 
+          (NP (DT the) (NN company) ))))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NNP Goodson) )
+          (VP 
+            (VP (VBZ is) 
+              (VP (VBG seeking) 
+                (NP 
+                  (NP (DT a) (JJ new) (NN bank) (NN credit) (NN line) )
+                  (PP (IN of) 
+                    (NP 
+                      (QP ($ $) (CD 190) (CD million) )
+                      (-NONE- *U*) )))))
+            (CC and) 
+            (VP (MD may) 
+              (VP (VB have) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB sell) 
+                      (NP (JJ additional) (NNS newspapers) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP David) (NNP N.) (NNP Hurwitz) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (NN president) )
+          (CC and) 
+          (NP (NN chief) (NN operating) (NN officer) ))
+        (PP (IN of) 
+          (NP (NNP Goodson) )))
+      (, ,) )
+    (VP (VBD said) 
+      (PP-LOC (IN in) 
+        (NP (DT a) (NN telephone) (NN interview) ))
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP (VBZ does) (RB n't) 
+            (ADVP-TMP (RB currently) )
+            (VP (VB have) 
+              (NP (DT any) (NNS plans) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB sell) 
+                      (NP (JJ additional) (NNS newspapers) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Goodson) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP 
+              (NP (NNP David) (NNP Carr) )
+              (, ,) 
+              (NP 
+                (NP (JJ former) (NN president) )
+                (PP (IN of) 
+                  (NP (NNP Ingersoll) (NNP Publications) )))
+              (, ,) )
+            (CC and) 
+            (NP 
+              (NP (NNP Ray) (NNP Cockburn) )
+              (, ,) 
+              (NP (JJ former) (JJ senior) (NN vice) (NN president) )
+              (, ,) ))
+          (VP (MD would) 
+            (VP (VB head) 
+              (NP 
+                (NP (DT the) (JJ new) (JJ in-house) (NN management) (NN team) )
+                (PP-LOC (IN at) 
+                  (NP 
+                    (NP (NNP Goodson) )
+                    (, ,) 
+                    (SBAR 
+                      (WHNP-1 (WDT which) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (VBD had) 
+                          (NP 
+                            (NP (NN revenue) )
+                            (PP (IN of) 
+                              (NP 
+                                (QP ($ $) (CD 225) (CD million) )
+                                (-NONE- *U*) )))
+                          (PP-TMP (IN in) 
+                            (NP (CD 1988) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN association) )
+      (PP (IN between) 
+        (NP (DT the) (CD two) (NNS companies) )))
+    (VP (VBZ stretches) 
+      (ADVP (RB back) )
+      (NP-EXT (CD thirty) (NNS years) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT a) (NN friendship) )
+          (PP (IN between) 
+            (NP 
+              (NP (NN television) (NN producer) (NNP Mark) (NNP Goodson) )
+              (CC and) 
+              (NP (NNP Ingersoll) (NN founder) (NNP Ralph) (NNP Ingersoll) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT The) (NN latter) (POS 's) )
+        (NN son) )
+      (, ,) 
+      (NP (NNP Ralph) (NNP Ingersoll) (NNP Jr.) )
+      (, ,) )
+    (VP 
+      (VP (VBD took) 
+        (PRT (RP over) )
+        (NP (DT the) (NN company) ))
+      (CC and) 
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (VP 
+            (VP (VBG managing) 
+              (NP (DT the) (NNP Goodson) (NNS properties) ))
+            (CC and) 
+            (VP (VBG acting) 
+              (PP-CLR (IN as) 
+                (NP 
+                  (NP (DT an) (NN agent) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (DT the) (NN purchase) )
+                      (PP (IN of) 
+                        (NP (NNS newspapers) ))))))
+              (PP (IN for) 
+                (NP (NNP Goodson) )))))))
+    (. .) ))
+( (S (CC But) 
+    (PP-TMP (IN in) 
+      (NP (JJ recent) (NNS years) ))
+    (, ,) 
+    (NP-SBJ-1 (NNP Mr.) (NNP Ingersoll) )
+    (VP (VBD began) 
+      (S 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (VBG focusing) 
+          (ADVP (RBR more) )
+          (PP-CLR (IN on) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (VBG expanding) 
+                (NP (PRP$ his) (JJ own) (NN newspaper) (NN empire) )
+                (PP-MNR (IN in) 
+                  (NP 
+                    (NP (NN partnership) )
+                    (PP (IN with) 
+                      (NP (NN investment) (NN banking) (NN firm) (NNP Warburg) 
+                        (, ,)
+                        (NNP Pincus) (CC &) (NNP Co) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ingersoll) )
+    (VP (VBZ has) 
+      (NP 
+        (NP (CD 28) (NNS dailies) )
+        (CC and) 
+        (NP (CD 200) (JJ other) (JJ non-daily) (NNS papers) ))
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT the) (NNP U.S.) )
+          (CC and) 
+          (NP (NNP Europe) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN revenue) )
+          (VP (MD will) 
+            (VP (VB exceed) 
+              (NP 
+                (QP ($ $) (CD 750) (CD million) )
+                (-NONE- *U*) )
+              (NP-TMP (DT this) (NN year) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ingersoll) (NNP President) (NNP Robert) (NNP M.) (NNP Jelenic) )
+    (VP (VBD said) 
+      (PP-LOC (IN in) 
+        (NP (DT a) (NN statement) ))
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN company) )
+          (VP 
+            (VP (VBZ is) (`` ``) 
+              (ADJP-PRD (JJ delighted) 
+                (PP (IN by) 
+                  (NP 
+                    (NP (DT the) (NN conclusion) )
+                    (PP (IN of) 
+                      (NP (DT the) (NNP Goodson) (NN relationship) )))))
+              ('' '') )
+            (CC and) 
+            (VP (MD will) 
+              (VP (VB be) 
+                (ADJP-PRD (JJ able) 
+                  (S 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (TO to) 
+                      (VP (`` ``) (VB concentrate) 
+                        (NP (PDT all) (PRP$ our) (NNS energies) )
+                        ('' '') 
+                        (PP-CLR (IN on) 
+                          (NP 
+                            (NP (NNP Ingersoll) (POS 's) )
+                            (JJ own) (NNS papers) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNP Mr.) (NNP Goodson) )
+    (, ,) 
+    (PP-LOC (IN in) 
+      (NP (PRP$ his) (JJ own) (NN statement) ))
+    (, ,) 
+    (VP (VBD was) 
+      (ADJP-PRD (RBR less) (JJ upbeat) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (VBG saying) (`` ``) 
+          (S 
+            (ADVP (RB unfortunately) )
+            (PP-TMP (IN over) 
+              (NP (DT the) (JJ past) (JJ few) (NNS years) ))
+            (, ,) 
+            (NP-SBJ 
+              (NP (PRP it) )
+              (SBAR (-NONE- *EXP*-3) ))
+            (VP (VBZ has) 
+              (VP (VBN become) 
+                (ADJP-PRD (RB increasingly) (JJ clear) )
+                (SBAR-3 
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ 
+                        (NP (NNP Ralph) )
+                        (CC and) 
+                        (NP (PRP I) ))
+                      (VP (VBP have) 
+                        (NP (JJ different) (NNS agendas) ))))
+                  (, ,) ('' '') 
+                  (CC and)
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ (PRP he) )
+                      (VP (VBZ feels) (`` ``) 
+                        (ADJP-PRD (RBR more) (JJ comfortable) 
+                          (PP (IN with) 
+                            (NP 
+                              (NP (DT a) (NN management) (NN team) )
+                              (SBAR 
+                                (WHNP-1 (WP$ whose) (JJ sole) (NN interest) 
+                                  (CC and)
+                                  (NN responsibility) )
+                                (S 
+                                  (NP-SBJ (-NONE- *T*-1) )
+                                  (VP (VBZ is) 
+                                    (PP-LOC-PRD (IN in) 
+                                      (NP (DT the) (NNP Goodson) (NNS papers) ))))))))))))))))))
+    (. .) ))

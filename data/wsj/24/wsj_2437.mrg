@@ -1,0 +1,177 @@
+
+( (S 
+    (NP-SBJ (NNP Avions) (NNP Marcel) (NNP Dassault-Breguet) (NNP Aviation) (NNP S.A.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NN group) (NN profit) )
+            (PP-TMP (IN before) 
+              (NP 
+                (NP (NNS taxes) )
+                (CC and) 
+                (NP 
+                  (NP (NNS contributions) )
+                  (PP (TO to) 
+                    (NP (NN employee) (NNS profit-sharing) ))))))
+          (VP (VBD soared) 
+            (NP-EXT (CD 97) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP (CD 839) (CD million) (NNS francs) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP 
+                    (QP ($ $) (CD 129.6) (CD million) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) )
+                (PP-TMP (IN in) 
+                  (NP 
+                    (NP (DT the) (JJ first) (DT half) )
+                    (PP (IN of) 
+                      (NP (CD 1989) ))))))
+            (PP-DIR (IN from) 
+              (NP 
+                (NP (CD 425) (CD million) (NNS francs) )
+                (ADVP-TMP 
+                  (NP (DT a) (NN year) )
+                  (RBR earlier) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP French) (NN aircraft) (NN group) )
+    (VP (VBD pointed) 
+      (PRT (RP out) )
+      (, ,) 
+      (ADVP (RB however) )
+      (, ,) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (JJ financial) (NNS results) )
+            (PP (IN from) 
+              (NP 
+                (NP (PRP$ its) (NN sector) )
+                (PP (IN of) 
+                  (NP (NN industry) )))))
+          (VP (VBP are) 
+            (ADVP-TMP (RB frequently) )
+            (ADJP-PRD (JJ erratic) )
+            (PP-PRP (IN because) (IN of) 
+              (NP 
+                (NP (JJ irregular) (NN cash) (NN flow) )
+                (PP (IN from) 
+                  (NP (JJ large) (NNS contracts) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD noted) 
+      (, ,)
+      (PP (IN for) 
+        (NP (NN example) ))
+      (, ,) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NN group) (NN revenue) )
+            (PP (IN for) 
+              (NP (DT the) (JJ first) (DT half) )))
+          (VP (VBD was) 
+            (NP-PRD 
+              (QP (CD 8.734) (CD billion) )
+              (NNS francs) )
+            (, ,) 
+            (ADVP-CLR (RB down) 
+              (NP 
+                (QP (IN about) (CD 12) )
+                (NN %) )
+              (PP (IN from) 
+                (NP (CD 9.934) (CD billion) (NNS francs) )
+                (ADVP-TMP 
+                  (NP (DT a) (NN year) )
+                  (RBR earlier) )))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Still) )
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ 
+                (NP (NNS sales) )
+                (PP-TMP (IN for) 
+                  (NP 
+                    (NP (DT all) )
+                    (PP (IN of) 
+                      (NP (CD 1989) )))))
+              (VP (TO to) 
+                (VP (VB be) 
+                  (PP-PRD (IN on) 
+                    (NP 
+                      (NP (DT the) (NN order) )
+                      (PP (IN of) 
+                        (NP 
+                          (QP (CD 20) (CD billion) )
+                          (NNS francs) ))))
+                  (, ,) 
+                  (S-ADV 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG reflecting) 
+                      (NP 
+                        (NP (VBN anticipated) (NNS billings) )
+                        (PP (IN for) 
+                          (NP (CD two) (JJ large) (NNS contracts) ))
+                        (PP-TMP (IN in) 
+                          (NP 
+                            (NP (DT the) (JJ second) (DT half) )
+                            (PP (IN of) 
+                              (NP (DT the) (NN year) ))))))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP 
+        (NP (DT all) )
+        (PP (IN of) 
+          (NP (CD 1988) ))))
+    (, ,) 
+    (NP-SBJ (NNP Dassault) )
+    (VP (VBD had) 
+      (NP 
+        (NP (NN group) (NN profit) )
+        (PP (IN of) 
+          (NP 
+            (QP (CD 428) (CD million) )
+            (NNS francs) ))
+        (PP (IN on) 
+          (NP 
+            (NP (NN revenue) )
+            (PP (IN of) 
+              (NP 
+                (QP (CD 18.819) (CD billion) )
+                (NNS francs) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NN group) )
+      (VP (VBZ has) (RB n't) 
+        (ADVP-TMP (RB yet) )
+        (VP (VBN released) 
+          (NP 
+            (NP (NNS earnings) (NNS figures) )
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (JJ first) (DT half) )
+                (PP (IN of) 
+                  (NP (CD 1989) ))))))))
+    (, ,) (CC nor) 
+    (SINV (VBZ has) 
+      (NP-SBJ (PRP it) )
+      (VP (VBN made) 
+        (NP 
+          (NP (DT a) (VBN detailed) (NN forecast) )
+          (PP (IN of) 
+            (NP (PRP$ its) (JJ full-year) (NNS earnings) )))))
+    (. .) ))

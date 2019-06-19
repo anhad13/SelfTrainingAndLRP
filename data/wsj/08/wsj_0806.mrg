@@ -1,0 +1,129 @@
+((S 
+    (NP-SBJ 
+      (NP (NNP HEALTHDYNE) (NNP Inc.) )
+      (, ,) 
+      (NP-LOC (NNP Atlanta) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP$ its) (NN subsidiary) )
+            (, ,) 
+            (NP (NNP Home) (NNP Nutritional) (NNP Services) (NNP Inc.) )
+            (, ,) )
+          (VP (VBD registered) 
+            (PP-CLR (IN with) 
+              (NP (DT the) (NNP Securities) 
+                (CC and)
+                (NNP Exchange) (NNP Commission) ))
+            (NP 
+              (NP (DT an) (JJ initial) (JJ public) (NN offering) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (QP (CD four) (CD million) )
+                    (NNS shares) )
+                  (PP (IN of) 
+                    (NP (JJ common) )))))))))
+    (. .) ))
+((S 
+    (NP-SBJ (DT The) (JJ in-home) (NN health) (NN care) (NNS services) (NN provider) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB sell) 
+              (NP 
+                (NP 
+                  (QP (CD 1.8) (CD million) ))
+                (PP (IN of) 
+                  (NP (DT the) (JJ new) (NNS shares) )))
+              (, ,) 
+              (SBAR-ADV (IN while) 
+                (S 
+                  (NP-SBJ (NNP Home) (NNP Nutritional) (NNP Services) )
+                  (VP (MD will) 
+                    (VP (VB sell) 
+                      (NP (DT the) (VBG remaining) 
+                        (QP (CD 2.2) (CD million) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBZ estimates) 
+      (NP (DT the) (NN offering) (NN price) )
+      (PP-CLR (IN at) 
+        (NP 
+          (NP 
+            (QP (IN between) ($ $) (CD 14) 
+              (CC and)
+              ($ $) (CD 16) )
+            (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ-2 (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB use) 
+                  (NP (DT the) (NNS proceeds) )
+                  (UCP-CLR 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB repay) 
+                          (NP (JJ certain) (NN bank) (NN debt) ))))
+                    (CC and) 
+                    (PP (IN for) 
+                      (NP 
+                        (NP (JJ general) (JJ corporate) (NNS purposes) )
+                        (, ,) 
+                        (PP (VBG including) 
+                          (NP 
+                            (S-NOM 
+                              (NP-SBJ (-NONE- *) )
+                              (VP (VBG establishing) 
+                                (NP (JJ new) (NN operating) (NNS centers) )))
+                            (CC and) 
+                            (NP (JJ possible) (NNS acquisitions) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Home) (NNP Nutritional) )
+    (ADVP-TMP (RB currently) )
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (QP (CD 10) (CD million) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (NP 
+          (NP 
+            (QP (CD 11.8) (CD million) )
+            (NNS shares) )
+          (ADJP (JJ outstanding) ))
+        (PP-TMP (IN after) 
+          (NP (DT the) (NN offering) ))
+        (, ,) 
+        (PP (IN with) 
+          (S-NOM 
+            (NP-SBJ (NNP Healthdyne) )
+            (VP (VBG owning) 
+              (NP 
+                (NP 
+                  (QP (RB about) (CD 65) )
+                  (NN %) )
+                (PP (IN of) 
+                  (NP (DT the) (NN total) ))))))))
+    (. .) ))

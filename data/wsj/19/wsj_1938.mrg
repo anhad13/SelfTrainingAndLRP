@@ -1,0 +1,206 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Ciba-Geigy) (NNP Ltd.) )
+      (CC and) 
+      (NP (NNP Chiron) (NNP Corp.) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBD extended) 
+            (NP 
+              (NP (PRP$ their) (NN offer) )
+              (PP (IN for) 
+                (NP (NNP Connaught) (NNP BioSciences) (NNP Inc.) ))
+              (, ,) 
+              (VP (VBN valued) 
+                (NP (-NONE- *) )
+                (PP-CLR (IN at) 
+                  (NP 
+                    (NP 
+                      (QP (CD 866) (CD million) )
+                      (JJ Canadian) (NNS dollars) )
+                    (PRN 
+                      (-LRB- -LRB-)
+                      (NP 
+                        (QP ($ US$) (CD 736) (CD million) )
+                        (-NONE- *U*) )
+                      (-RRB- -RRB-) )))))
+            (PP-DIR (TO to) 
+              (NP (NNP Oct.) (CD 27) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS companies) )
+    (ADVP-TMP (RBR earlier) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP they) )
+          (VP (VBD did) (RB n't) 
+            (VP (VB want) 
+              (S 
+                (NP-SBJ-2 (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB raise) 
+                    (NP (PRP$ their) (NN offer) )
+                    (S-PRP 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB match) 
+                          (NP 
+                            (NP (DT a) (JJ rival) (NN bid) )
+                            (PP (IN by) 
+                              (NP (NNP Institut) (NNP Merieux) (NNP S.A.) ))
+                            (PP (IN of) 
+                              (NP 
+                                (NP 
+                                  (NP ($ C$) (CD 37) (-NONE- *U*) )
+                                  (NP-ADV (DT a) (NN share) ))
+                                (, ,) (CC or) 
+                                (NP 
+                                  (QP ($ C$) (CD 942) (CD million) )
+                                  (-NONE- *U*) )))))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (PRP they) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-3 
+            (NP (DT the) 
+              (ADJP ($ C$) (JJ 30-a-share) (-NONE- *U*) )
+              (NN bid) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ-2 (-NONE- *T*-1) )
+                (VP (VBD was) 
+                  (ADJP-PRD (JJ due) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB expire) 
+                          (NP-TMP (NNP Monday) ))))))))
+            (, ,) )
+          (VP (MD may) 
+            (ADVP-TMP (RB still) )
+            (VP (VB be) 
+              (VP (VBN extended) (CC or) (VBN varied) 
+                (NP (-NONE- *-3) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Merieux) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN vaccine) (NN manufacturer) )
+        (VP (VBN based) 
+          (NP (-NONE- *) )
+          (PP-LOC-CLR (IN in) 
+            (NP 
+              (NP (NNP Lyon) )
+              (, ,) 
+              (NP (NNP France) )
+              (, ,) )))))
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ 51%-held) 
+        (PP (IN by) 
+          (NP (JJ French) (JJ state-owned) (NNP Rhone-Poulenc) (NNP S.A) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ciba-Geigy) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (JJ major) (JJ pharmaceutical) (NN concern) )
+        (VP (VBN based) 
+          (NP (-NONE- *) )
+          (PP-LOC-CLR (IN in) 
+            (NP 
+              (NP (NNP Basel) )
+              (, ,) 
+              (NP (NNP Switzerland) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Chiron) )
+      (, ,) 
+      (NP (DT another) (JJ pharmaceutical) (NN concern) )
+      (, ,) )
+    (VP (VBZ is) 
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Emeryville) )
+            (, ,) 
+            (NP (NNP Calif) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Connaught) )
+    (VP (VBZ is) 
+      (NP-PRD (DT a) (NN biotechnology) (NN research) 
+        (CC and)
+        (NN vaccine) (NN manufacturing) (NN concern) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Institut) (NNP Merieux) (POS 's) )
+        (NN bid) )
+      (PP (IN for) 
+        (NP (JJ Toronto-based) (NNP Connaught) )))
+    (VP (VBZ has) 
+      (VP (VBN run) 
+        (PP-DIR (IN into) 
+          (NP 
+            (NP (NNS problems) )
+            (PP (IN with) 
+              (NP 
+                (NP (DT the) (JJ Canadian) (NN government) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-1 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBD told) 
+                      (NP (NNP Merieux) )
+                      (NP-TMP (JJ last) (NN week) )
+                      (SBAR (IN that) 
+                        (S 
+                          (NP-SBJ-2 (PRP it) )
+                          (VP (VBD was) (RB n't) 
+                            (VP (VBN convinced) 
+                              (NP (-NONE- *-2) )
+                              (SBAR (IN that) 
+                                (S 
+                                  (NP-SBJ (DT the) (JJ proposed) (NN acquisition) )
+                                  (VP (MD would) 
+                                    (VP (VB be) 
+                                      (PP-PRD (IN of) 
+                                        (NP (`` ``) 
+                                          (NP (JJ net) (NN benefit) )
+                                          ('' '') 
+                                          (PP (TO to) 
+                                            (NP (NNP Canada) )))))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Merieux) (NNS officials) )
+    (VP (VBP are) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ-2 (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB meet) 
+              (PP-CLR (IN with) 
+                (NP (JJ federal) (NNS officials) ))
+              (PP-LOC (IN in) 
+                (NP (NNP Ottawa) ))
+              (NP-TMP (NN today) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB discuss) 
+                    (NP (DT the) (NN decision) )))))))))
+    (. .) ))

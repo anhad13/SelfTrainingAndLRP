@@ -1,0 +1,1090 @@
+
+( (NP 
+    (NP (NN ARTICLE) (NN I) )
+    (, ,) 
+    (NP (NN SECTION) (CD 7) )
+    (, ,) 
+    (NP (NN CLAUSE) (CD 2) )
+    (: :) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT Every) (NN Bill) )
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (MD shall) 
+            (VP (VB have) 
+              (VP (VBN passed) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NNP House) )
+                    (PP (IN of) 
+                      (NP (NNPS Representatives) )))
+                  (CC and) 
+                  (NP (DT the) (NNP Senate) ))))))))
+    (, ,) 
+    (VP (MD shall) 
+      (, ,)
+      (SBAR-TMP (IN before) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ becomes) 
+            (NP-PRD (DT a) (NNP Law) ))))
+      (, ,) 
+      (VP (VB be) 
+        (VP (VBN presented) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (TO to) 
+            (NP 
+              (NP (DT the) (NNP President) )
+              (PP (IN of) 
+                (NP (DT the) (NNP United) (NNPS States) )))))))
+    (: ;) 
+    (S 
+      (S 
+        (SBAR-ADV (IN If) 
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (VB approve) )))
+        (NP-SBJ (PRP he) )
+        (VP (MD shall) 
+          (VP (VB sign) 
+            (NP (PRP it) ))))
+      (, ,) (CC but) 
+      (S 
+        (FRAG-ADV (IN if) (RB not) )
+        (NP-SBJ (PRP he) )
+        (VP (MD shall) 
+          (VP (VB return) 
+            (NP (PRP it) )
+            (, ,) 
+            (PP (IN with) 
+              (NP (PRP$ his) (NNS Objections) ))
+            (PP-CLR (TO to) 
+              (NP 
+                (NP (DT that) (NNP House) )
+                (SBAR 
+                  (WHPP-4 (IN in) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (MD shall) 
+                      (VP (VB have) 
+                        (VP (VBN originated) 
+                          (PP-LOC (-NONE- *T*-4) ))))))
+                (, ,) 
+                (SBAR 
+                  (WHNP-3 (WP who) )
+                  (S 
+                    (NP-SBJ-5 (-NONE- *T*-3) )
+                    (VP (MD shall) 
+                      (VP 
+                        (VP (VB enter) 
+                          (NP (DT the) (NNS Objections) )
+                          (PP (IN at) 
+                            (ADJP (JJ large) ))
+                          (PP-LOC (IN on) 
+                            (NP (PRP$ their) (NN Journal) )))
+                        (, ,) 
+                        (CC and)
+                        (VP (VB proceed) 
+                          (S 
+                            (NP-SBJ (-NONE- *-5) )
+                            (VP (TO to) 
+                              (VP (VB reconsider) 
+                                (NP (PRP it) )))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (SBAR-ADV (IN If) 
+        (S 
+          (PP-TMP (IN after) 
+            (NP (JJ such) (NN Reconsideration) ))
+          (NP-SBJ-3 
+            (NP (CD two) (NNS thirds) )
+            (PP (IN of) 
+              (NP (IN that) (NNP House) )))
+          (VP (MD shall) 
+            (VP (VB agree) 
+              (S 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (TO to) 
+                  (VP (VB pass) 
+                    (NP (DT the) (NN Bill) ))))))))
+      (, ,) 
+      (NP-SBJ-1 (PRP it) )
+      (VP (MD shall) 
+        (VP (VB be) 
+          (VP (VBN sent) 
+            (NP (-NONE- *-1) )
+            (, ,) 
+            (ADVP (RB together) 
+              (PP (IN with) 
+                (NP (DT the) (NNS Objections) )))
+            (, ,) 
+            (PP-DIR (TO to) 
+              (NP 
+                (NP (DT the) (JJ other) (NNP House) )
+                (, ,) 
+                (SBAR 
+                  (WHPP-4 (IN by) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP-SBJ-2 (PRP it) )
+                    (VP (MD shall) 
+                      (ADVP (RB likewise) )
+                      (VP (VB be) 
+                        (VP (VBN reconsidered) 
+                          (NP (-NONE- *-2) )
+                          (PP (-NONE- *T*-4) ))))))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (SBAR-ADV (IN if) 
+        (S 
+          (NP-SBJ-6 (-NONE- *-5) )
+          (VP (VBN approved) 
+            (NP (-NONE- *-6) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP (CD two) (NNS thirds) )
+                (PP (IN of) 
+                  (NP (DT that) (NNP House) )))))))
+      (, ,) 
+      (NP-SBJ-5 (PRP it) )
+      (VP (MD shall) 
+        (VP (VB become) 
+          (NP-PRD (DT a) (NN Law) ))))
+    (: ...) (. .) ))
+( (NP 
+    (NP (NN ARTICLE) (NN I) )
+    (, ,) 
+    (NP (NN SECTION) (CD 7) )
+    (, ,) 
+    (NP (NN CLAUSE) (CD 3) )
+    (: :) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT Every) (NN Order) 
+        (, ,)
+        (NN Resolution) 
+        (, ,)
+        (CC or) (NN Vote) )
+      (SBAR 
+        (WHPP-5 (TO to) 
+          (WHNP (WDT which) ))
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN Concurrence) )
+            (PP (IN of) 
+              (NP (DT the) 
+                (NX 
+                  (NX (NNP Senate) )
+                  (CC and) 
+                  (NX 
+                    (NX (NNP House) )
+                    (PP (IN of) 
+                      (NP (NNPS Representatives) )))))))
+          (VP (MD may) 
+            (VP (VB be) 
+              (ADJP-PRD (JJ necessary) 
+                (PP (-NONE- *T*-5) ))
+              (PRN 
+                (-LRB- -LRB-)
+                (PP (IN except) 
+                  (PP (IN on) 
+                    (NP 
+                      (NP (DT a) (NN question) )
+                      (PP (IN of) 
+                        (NP (NN Adjournment) )))))
+                (-RRB- -RRB-) ))))))
+    (VP 
+      (VP (MD shall) 
+        (VP (VB be) 
+          (VP (VBN presented) 
+            (NP (-NONE- *-1) )
+            (PP-CLR (TO to) 
+              (NP 
+                (NP (DT the) (NNP President) )
+                (PP (IN of) 
+                  (NP (DT the) (NNP United) (NNPS States) )))))))
+      (: ;) 
+      (CC and)
+      (VP 
+        (SBAR-TMP (IN before) 
+          (S 
+            (NP-SBJ (DT the) (JJ Same) )
+            (VP (MD shall) 
+              (VP (VB take) 
+                (NP-CLR (NN Effect) )))))
+        (, ,) 
+        (VP (MD shall) 
+          (VP (VB be) 
+            (VP (VBN approved) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS (PRP him) )))))
+        (, ,) (CC or) 
+        (VP 
+          (S-ADV 
+            (NP-SBJ-2 (-NONE- *-1) )
+            (VP (VBG being) 
+              (VP (VBN disapproved) 
+                (NP (-NONE- *-2) )
+                (PP (IN by) 
+                  (NP-LGS (PRP him) )))))
+          (, ,) (MD shall) 
+          (VP (VB be) 
+            (VP (VBN repassed) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (CD two) (NNS thirds) )
+                  (PP (IN of) 
+                    (NP (DT the) 
+                      (NX 
+                        (NX (NNP Senate) )
+                        (CC and) 
+                        (NX 
+                          (NX (NNP House) )
+                          (PP (IN of) 
+                            (NP (NNPS Representatives) ))))))))
+              (, ,) 
+              (PP (VBG according) 
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT the) (NNPS Rules) 
+                      (CC and)
+                      (NNPS Limitations) )
+                    (VP (VBN prescribed) 
+                      (NP (-NONE- *) )
+                      (PP (IN in) 
+                        (NP 
+                          (NP (DT the) (NN Case) )
+                          (PP (IN of) 
+                            (NP (DT a) (NN Bill) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP President) (NNP Bush) )
+    (VP (VBD told) 
+      (NP (NNS reporters) )
+      (ADVP-TMP 
+        (NP (DT a) (JJ few) (NNS months) )
+        (IN ago) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (PRP he) )
+          (VP (VBD was) 
+            (VP (VBG looking) 
+              (PP-CLR (IN for) 
+                (NP (DT the) (JJ right) (NN test) (NN case) ))
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB see) 
+                    (SBAR (IN whether) 
+                      (S 
+                        (NP-SBJ (PRP he) )
+                        (ADVP-TMP (RB already) )
+                        (VP (VBZ has) 
+                          (NP (DT the) (JJ line-item) (NN veto) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Vice) (NNP President) (NNP Quayle) )
+      (CC and) 
+      (NP (NNP Budget) (NNP Director) (NNP Darman) ))
+    (VP (VBD said) 
+      (ADVP-TMP (RB recently) )
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP 've) 
+            (VP (VBN joined) 
+              (NP (DT the) (NN search) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN On) 
+      (NP (NNP Tuesday) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN subject) )
+    (VP (VBD came) 
+      (PRT (RP up) )
+      (ADVP (RB again) )
+      (SBAR-TMP 
+        (WHADVP-1 (WRB when) )
+        (S 
+          (NP-SBJ (NNP Marlin) (NNP Fitzwater) )
+          (VP (VBD explained) 
+            (NP 
+              (NP (DT the) (JJ constitutional) (NN argument) )
+              (VP (VBN based) 
+                (NP (-NONE- *) )
+                (PP-CLR (IN on) 
+                  (NP 
+                    (NP (DT the) (NNS provisions) )
+                    (ADVP-LOC (IN above) )))))
+            (PP-CLR (TO to) 
+              (NP (DT the) (NNP White) (NNP House) (NN press) (NN corps) ))
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP President) (NNP Bush) )
+      (VP (VBZ does) (RB n't) 
+        (VP (VB have) 
+          (NP (DT any) (NN provision) )
+          (PP-LOC (IN in) 
+            (NP (NN mind) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (JJ line-item-veto) (NN bait) )
+      (VP (MD will) 
+        (VP (VB be) 
+          (PP-PRD (IN like) 
+            (NP 
+              (NP (NNS earthworms) )
+              (PP-TMP (IN at) 
+                (NP (NN midnight) ))))
+          (PP-LOC (IN in) 
+            (NP (DT the) (VBG coming) (NNP Continuing) (NNP Resolution) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJR harder) (NN question) )
+    (VP (VBZ is) 
+      (SBAR-PRD (IN whether) 
+        (S 
+          (NP-SBJ (NN anyone) )
+          (ADVP-TMP (RB yet) )
+          (VP (VBZ understands) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ 
+                  (NP 
+                    (NP (NNP Mr.) (NNP Bush) (POS 's) )
+                    (NN fight) )
+                  (PP (IN for) 
+                    (NP (PRP$ his) (JJ constitutional) (NNS prerogatives) )))
+                (VP (VBZ is) 
+                  (PP-PRD (IN about) 
+                    (NP (NNS politics) ))
+                  (ADVP 
+                    (ADVP (RB as) (RB much) )
+                    (SBAR (IN as) 
+                      (S 
+                        (NP-SBJ (PRP it) )
+                        (VP (VBZ is) 
+                          (PP-PRD (IN about) 
+                            (NP (NN law) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP We) )
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (VP (VBN persuaded) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (DT the) (JJ constitutional) (NN argument) )
+              (PP (IN for) 
+                (NP (DT the) (JJ inherent) (JJ line-item) (NN veto) ))))
+          (PP-TMP (IN since) 
+            (NP 
+              (NP (CD 1987) )
+              (, ,) 
+              (SBAR 
+                (WHADVP-2 (WRB when) )
+                (S 
+                  (NP-SBJ (NN lawyer) (NNP Stephen) (NNP Glazier) )
+                  (ADVP-TMP (RB first) )
+                  (VP (VBD made) 
+                    (NP (DT the) (NN case) )
+                    (PP-LOC (IN on) 
+                      (NP (DT this) (NN page) ))
+                    (ADVP (-NONE- *T*-2) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (CD 1974) (NN budget) (`` ``) (NN reform) )
+    (, ,) ('' '') 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBN passed) 
+        (PP-MNR (IN over) 
+          (NP 
+            (NP (NNP President) (NNP Nixon) (POS 's) )
+            (NN veto) ))))
+    (, ,) 
+    (VP (VBD took) 
+      (PRT (RP away) )
+      (NP (DT the) (JJ presidential) (NN impoundment) (NN power) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (ADVP (RB thereby) )
+        (VP 
+          (VP (VBG introducing) 
+            (NP (JJ monstrous) (NNS CRs) ))
+          (CC and) 
+          (VP (VBG eviscerating) 
+            (NP (DT the) (JJ presidential) (NN veto) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Glazier) )
+    (VP (VBD discovered) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NNS Founders) )
+          (VP (VBD had) 
+            (VP (VBN worried) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ (NNP Congress) )
+                  (VP (MD might) 
+                    (VP (VB take) 
+                      (NP (DT the) (NNP President) )
+                      (PP-CLR (IN out) 
+                        (PP (IN of) 
+                          (NP (DT the) (NN loop) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Article) (NN I) )
+      (, ,) 
+      (NP (NN Section) (CD 7) )
+      (, ,) 
+      (NP (NN Clause) (CD 3) ))
+    (VP (VBZ says) 
+      (SBAR (IN that) 
+        (S 
+          (SBAR-ADV (IN whether) 
+            (S 
+              (NP-SBJ-1 (PRP it) )
+              (VP (VBZ 's) 
+                (VP (VBN called) 
+                  (S 
+                    (NP-SBJ (-NONE- *-1) )
+                    (NP-PRD 
+                      (NP (DT an) (`` ``) (NN order) 
+                        (, ,)
+                        (NN resolution) (CC or) (NN vote) ('' '') )
+                      (CC or) 
+                      (NP (NN anything) (RB else) )))))))
+          (, ,) 
+          (NP-SBJ (NNS Presidents) )
+          (VP (MD must) 
+            (VP (VB have) 
+              (NP (DT the) (NN chance) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB veto) )))))))))
+    (. .) ))
+( (S 
+    (S-NOM-SBJ 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBG Labeling) 
+        (S 
+          (NP-SBJ (DT an) (JJ omnibus) (NN budget) )
+          (NP-PRD (DT a) (`` ``) (NN bill) ('' '') ))))
+    (VP (MD ca) (RB n't) 
+      (VP (VB deprive) 
+        (NP (DT the) (NNP President) )
+        (PP-CLR (IN of) 
+          (NP (PRP$ his) (NN power) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (NN veto) 
+                  (NP (NNS items) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (S-NOM-SBJ 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG Finding) 
+          (NP (DT a) (NN test) (NN case) )))
+      (VP (MD should) (RB n't) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ hard) ))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (EX there) )
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (NN something) )
+          (SBAR 
+            (WHNP-2 (-NONE- 0) )
+            (S 
+              (NP-SBJ-1 (-NONE- *T*-2) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (VP (VBD said) 
+                    (NP (-NONE- *-1) )
+                    (PP (IN for) 
+                      (S-NOM 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (VBG picking) 
+                          (NP 
+                            (NP (DT the) (JJS best) (CD one) )
+                            (ADJP (JJ possible) )))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NNP White) (NNP House) )
+      (VP (VBD had) 
+        (NP (DT the) (JJ perfect) (NN case) )))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (NNP Congress) )
+      (VP (VBD blinked) 
+        (SBAR-TMP (IN before) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (MD could) 
+              (VP (VB go) 
+                (PP-DIR (TO to) 
+                  (NP (NN court) ))))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP (IN After) 
+      (S 
+        (NP-SBJ (DT the) (NNP HUD) 
+          (CC and)
+          (NNP S&L) (NNS stories) )
+        (VP (VBD broke) )))
+    (, ,) 
+    (NP-SBJ-1 (DT some) (NNS Congressmen) )
+    (VP (VBD began) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB worry) 
+            (SBAR (DT that) 
+              (S 
+                (NP-SBJ 
+                  (NP (PRP$ their) (NN influence) (VBG peddling) )
+                  (PP-LOC (IN at) 
+                    (NP 
+                      (ADJP (JJ executive-branch) 
+                        (CC and)
+                        (JJ independent) )
+                      (NNS agencies) )))
+                (VP (MD might) 
+                  (NP-TMP (DT some) (NN day) )
+                  (VP (VB get) 
+                    (S 
+                      (NP-SBJ (PRP them) )
+                      (PP-PRD (IN in) 
+                        (NP (NN trouble) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBD worried) 
+      (PP-CLR (IN about) 
+        (NP (DT an) (NNP Interior) (NNP Department) (NN directive) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB log) 
+                (NP 
+                  (NP (DT all) (NNS communications) )
+                  (PP (IN with) 
+                    (NP 
+                      (NP (NNS Members) )
+                      (CC or) 
+                      (NP (PRP$ their) (NNS staffs) ))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Congress) )
+      (VP (VBD inserted) 
+        (NP (DT the) (NN following) )
+        (PP-LOC-CLR (IN into) 
+          (NP (DT the) (NNP Interior) (NN appropriation) ))))
+    (: :) (`` ``) 
+    (S 
+      (NP-SBJ-1 
+        (NP (NN None) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNS funds) )
+            (ADJP (JJ available) 
+              (PP (IN under) 
+                (NP (DT this) (NN title) ))))))
+      (VP (MD may) 
+        (VP (VB be) 
+          (VP (VBN used) 
+            (NP (-NONE- *-1) )
+            (S-CLR 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB prepare) 
+                  (NP 
+                    (NP (NNS reports) )
+                    (PP (IN on) 
+                      (NP 
+                        (NP (NNS contacts) )
+                        (PP (IN between) 
+                          (NP 
+                            (NP 
+                              (NP (NNS employees) )
+                              (PP (IN of) 
+                                (NP 
+                                  (NP (DT the) (NNP Dept.) )
+                                  (PP (IN of) 
+                                    (NP (DT the) (NNP Interior) )))))
+                            (CC and) 
+                            (NP 
+                              (NP 
+                                (NP (NNS Members) 
+                                  (CC and)
+                                  (NNS committees) )
+                                (PP (IN of) 
+                                  (NP (NNP Congress) )))
+                              (CC and) 
+                              (NP (PRP$ their) (NN staff) ))))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT The) (NNP White) (NNP House) )
+    (VP (VBD warned) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT this) )
+          (VP (MD would) 
+            (VP (VB be) 
+              (NP-PRD 
+                (NP (DT an) (JJ unconstitutional) (NN usurpation) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (NN power) ))))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB When) )
+      (S 
+        (NP-SBJ-2 (PRP it) )
+        (VP (VBD threatened) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB use) 
+                (NP (DT this) (NN provision) )
+                (PP-CLR (IN as) 
+                  (NP 
+                    (NP (DT the) (NN test) )
+                    (PP (IN for) 
+                      (NP (DT a) (JJ line-item) (NN veto) ))))
+                (ADVP-TMP (-NONE- *T*-1) )))))))
+    (, ,) 
+    (NP-SBJ (NNP Congress) )
+    (VP (VBD caved) )
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN fear) )
+      (SBAR 
+        (WHNP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (NNP Congress) )
+          (VP (VBZ has) 
+            (NP (-NONE- *T*-1) ))))
+      (PP (IN of) 
+        (NP (DT any) (JJ line-item-veto) (NN test) )))
+    (VP (VBD led) 
+      (S 
+        (NP-SBJ (NNS Members) )
+        (VP (TO to) 
+          (VP (VB add) 
+            (NP 
+              (NP 
+                (NP (DT the) 
+                  (ADJP (JJ single) (RBS most) (JJ contorted) 
+                    (CC and)
+                    (JJ ridiculous) )
+                  (NN provision) )
+                (NP-TMP (DT this) (NN year) ))
+              (, ,) (`` ``) 
+              (S-NOM 
+                (NP-SBJ (DT This) (NN section) )
+                (VP (MD shall) 
+                  (VP (VB be) 
+                    (ADJP-PRD (JJ effective) )
+                    (PP-TMP (RB only) (IN on) 
+                      (NP (NNP Oct.) (CD 1) 
+                        (, ,)
+                        (CD 1989) ))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT This) )
+    (VP (VBZ means) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (JJ Interior) (NNS contacts) )
+          (VP (MD can) (RB not) 
+            (VP (VB be) 
+              (VP (VBN logged) 
+                (NP (-NONE- *-1) )
+                (PP-TMP (RB only) (IN on) 
+                  (NP 
+                    (NP (CD one) (NN day) )
+                    (: --) 
+                    (NP 
+                      (NP (DT a) (NNP Sunday) )
+                      (SBAR 
+                        (WHNP-2 (WDT that) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-2) )
+                          (VP (VBD had) 
+                            (ADVP (RB already) )
+                            (VP (VBN passed) )))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (DT the) (NNP White) (NNP House) )
+        (VP (VBZ is) 
+          (VP (VBG looking) 
+            (PP-CLR (IN for) 
+              (NP (DT another) (JJ unconstitutional) (NN bill) ))))))
+    (, ,) 
+    (NP-SBJ-1 (NNP Rep.) (NNP John) (NNP Dingell) )
+    (VP (VBZ is) 
+      (VP (VBG trying) 
+        (ADVP (RB again) )
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB raise) 
+              (NP (DT the) (NNP Fairness) (NNP Doctrine) )
+              (PP-CLR (IN from) 
+                (NP (DT the) (JJ dead) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP President) (NNP Reagan) )
+    (VP (VBD vetoed) 
+      (NP (DT this) )
+      (PP-CLR (IN as) 
+        (NP (DT a) (NNP First) (NNP Amendment) (NN violation) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (`` ``) (NNP Fairness) ('' '') (NNP Doctrine) (POS 's) )
+      (NNS enthusiasts) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (NNS incumbents) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NNP House) ))
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBP know) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (DT the) (NNS rules) )
+                  (VP (VBP squelch) 
+                    (NP 
+                      (NP (JJ lively) (NNS discussions) )
+                      (PP (IN on) 
+                        (NP (NNS broadcasts) )))
+                    (, ,) 
+                    (S-ADV 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG deterring) 
+                        (NP (JJ feisty) (NNS challengers) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (EX There) )
+    (VP (VBP are) 
+      (ADVP (RB also) )
+      (NP-PRD 
+        (NP 
+          (NP (JJ other) (NNS provisions) )
+          (VP (VBG requiring) 
+            (S 
+              (NP-SBJ (NNS Congressmen) )
+              (VP (TO to) 
+                (VP (VB join) 
+                  (NP (JJ treaty-negotiating) (NNS teams) ))))))
+        (CC and) 
+        (NP 
+          (NP (JJ new) (NNS restrictions) )
+          (PP (IN on) 
+            (NP (NNP OMB) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (JJ Unconstitutional) (NNS bills) )
+      (VP (VBP make) 
+        (NP (JJ good) (JJ legal) (NNS targets) )))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-1 (DT the) (JJ line-item) (NN veto) )
+      (VP (VBZ is) 
+        (VP 
+          (ADVP 
+            (ADVP (RB better) )
+            (PP (-NONE- *ICH*-2) ))
+          (VBN understood) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN as) 
+            (NP (DT a) (JJ political) (NN opportunity) ))
+          (PP-2 (IN than) 
+            (PP (IN as) 
+              (NP 
+                (NP (JJ mere) (NN fodder) )
+                (PP (IN for) 
+                  (NP (NNS lawyers) ))))))))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG Commenting) 
+        (PP-CLR (IN on) 
+          (NP (DT the) (NN budget) (NN mess) ))
+        (NP-TMP (DT this) (NN week) )))
+    (, ,) 
+    (NP-SBJ-1 (NNP President) (NNP Bush) )
+    (VP (VBD said) (: :) (`` ``) 
+      (S 
+        (NP-SBJ 
+          (NP (DT The) (NN perception) )
+          (PP-LOC (IN out) 
+            (NP (RB there) )))
+        (VP (VBZ is) 
+          (SBAR-PRD (IN that) 
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (VBZ 's) 
+                (NP-PRD 
+                  (NP (DT the) (NN fault) )
+                  (PP (IN of) 
+                    (NP (NNP Congress) )))))))))
+    (. .) ))
+( (S (CC And) 
+    (NP-SBJ (PRP you) )
+    (VP (MD can) 
+      (VP 
+        (VP (VB look) 
+          (PP-CLR (TO to) 
+            (NP (DT the) (NN leadership) )))
+        (CC and) 
+        (VP (VB ask) 
+          (NP (PRP them) )
+          (SBAR 
+            (WHADVP-1 (WRB why) )
+            (S 
+              (NP-SBJ (DT that) )
+              (VP (VBZ is) 
+                (NP-PRD 
+                  (NP (DT the) (NN perception) )
+                  (PP (IN of) 
+                    (NP (DT the) (JJ American) (NNS people) )))
+                (ADVP-PRP (-NONE- *T*-1) )))))))
+    (. .) ('' '') ))
+( (ADJP (RB Exactly) (RB right) (. .) ))
+( (S 
+    (NP-SBJ (RB Now) )
+    (VP (VBZ 's) 
+      (NP-PRD 
+        (NP (DT the) (NN time) )
+        (SBAR 
+          (WHADVP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB make) 
+                (NP 
+                  (NP (DT the) (JJ political) (NN case) )
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ-2 (NNS Presidents) )
+                      (VP (VBP need) 
+                        (NP (DT the) (JJ line-item) (NN weapon) )
+                        (S-PRP-CLR 
+                          (NP-SBJ (-NONE- *-2) )
+                          (VP (TO to) 
+                            (VP (VB restore) 
+                              (NP (NN discipline) )
+                              (PP-CLR (TO to) 
+                                (NP (DT the) (NN budget) )))))))))
+                (ADVP-TMP (-NONE- *T*-1) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Congress) )
+    (VP (VBZ is) 
+      (PP-LOC-PRD (IN in) 
+        (NP 
+          (NP (DT no) (NN position) )
+          (SBAR 
+            (WHADVP-2 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB naysay) 
+                  (NP (NNP Mr.) (NNP Bush) )
+                  (ADVP-LOC (-NONE- *T*-2) )))))))
+      (ADVP-TMP (RB now) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP we) )
+            (VP (VBP 're) 
+              (PP-PRD (IN into) 
+                (NP 
+                  (NP (NNP Gramm-Rudman) (POS 's) )
+                  (NN sequestration) )))))))
+    (. .) ))
+( (S 
+    (NP-TMP (RB Just) (DT this) (NN week) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP House-Senate) (NN conference) )
+      (NP (-NONE- *ICH*-4) ))
+    (VP (VBD met) (: --) 
+      (NP-4 
+        (NP (CD 231) (NNS conferees) )
+        (, ,) 
+        (VP (VBN divided) 
+          (NP (-NONE- *) )
+          (PP-CLR (IN into) 
+            (NP (CD 26) (JJ different) (NNS subconferences) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Senator) (NNP Daniel) (NNP Inouye) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB close) 
+            (NP 
+              (NP (DT some) (NNS bases) )
+              (PP-LOC (IN in) 
+                (NP (NNP Hawaii) )))
+            (PP (IN in) 
+              (NP 
+                (NP (NN exchange) )
+                (PP (IN for) 
+                  (NP 
+                    (NP (JJ such) (NNS goodies) )
+                    (PP (IN as) 
+                      (NP 
+                        (NP 
+                          (QP ($ $) (CD 11) (CD million) )
+                          (-NONE- *U*) )
+                        (PP (IN for) 
+                          (NP 
+                            (NP (DT a) (NN parking) (NN lot) )
+                            (PP-LOC (IN at) 
+                              (NP (NNP Walter) (NNP Reed) (NNP Hospital) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Conference) (NN negotiator) (NNP Rep.) (NNP Bill) (NNP Hefner) )
+    (VP 
+      (VP (VBD pulled) 
+        (PRT (RP down) )
+        (NP 
+          (NP 
+            (QP ($ $) (CD 40) (CD million) )
+            (-NONE- *U*) )
+          (PP (IN in) 
+            (NP 
+              (NP (JJ military) (NNS bases) )
+              (PP (IN for) 
+                (NP (NNP North) (NNP Carolina) ))))))
+      (CC and) 
+      (VP 
+        (ADVP-MNR (RB graciously) )
+        (VBN allowed) 
+        (NP (NNP Senator) (NNP James) (NNP Sasser) )
+        (NP 
+          (NP 
+            (QP ($ $) (CD 70) (CD million) )
+            (-NONE- *U*) )
+          (PP (IN for) 
+            (NP 
+              (NP (NNS bases) )
+              (PP-LOC (IN in) 
+                (NP (NNP Tennessee) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP President) (NNP Bush) )
+    (VP (MD should) 
+      (VP 
+        (VP 
+          (VP (VB take) 
+            (NP-2 (DT the) (NNP Constitution) )
+            (PP-CLR-3 (IN in) 
+              (NP (CD one) (NN hand) )))
+          (CC and) 
+          (VP 
+            (NP=2 (DT a) (NN budget) (NN ax) )
+            (PP-CLR=3 (IN in) 
+              (NP (DT the) (JJ other) ))))
+        (CC and) 
+        (VP (VB get) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB work) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (MD should) 
+      (VP (VB chop) 
+        (PRT (RP out) )
+        (NP (DT both) 
+          (NP (JJ unconstitutional) (NNS provisions) )
+          (CC and) 
+          (NP (NN budget) (NN pork) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Congress) )
+      (VP (MD may) 
+        (VP (VB have) 
+          (VP (VBN lost) 
+            (NP 
+              (NP (DT any) (NN sense) )
+              (PP (IN of) 
+                (NP (NN discipline) )))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (IN that) )
+      (VP (VBZ does) (RB n't) 
+        (VP (VB mean) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ-1 (DT the) (NN country) )
+              (VP (MD must) 
+                (VP (VB learn) 
+                  (S 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (TO to) 
+                      (VP (VB live) 
+                        (ADVP-TMP (RB forever) )
+                        (PP-MNR (IN with) 
+                          (NP (DT this) (NN mess) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP President) (NNP Bush) )
+    (VP (VBZ has) 
+      (NP (DT the) (NN power) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB change) 
+              (SBAR-NOM 
+                (WHADVP-2 (WRB how) )
+                (S 
+                  (NP-SBJ (NNP Washington) )
+                  (VP (VBZ works) 
+                    (ADVP-MNR (-NONE- *T*-2) ))))))))
+      (, ,) 
+      (SBAR-ADV (IN if) (RB only) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (MD will) 
+            (VP (VB use) 
+              (NP (PRP it) ))))))
+    (. .) ))

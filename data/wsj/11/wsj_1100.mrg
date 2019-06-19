@@ -1,0 +1,42 @@
+
+( (S 
+    (NP-SBJ (NNP Westinghouse) (NNP Electric) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB buy) 
+              (NP (NNP Shaw-Walker) (NNP Co) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Shaw-Walker) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Muskegon) )
+            (, ,) 
+            (NP (NNP Mich.) ))))
+      (, ,) )
+    (VP (VBZ makes) 
+      (NP 
+        (NP 
+          (NP (NN metal) (NNS files) )
+          (CC and) 
+          (NP (NNS desks) ))
+        (, ,) 
+        (CC and)
+        (NP 
+          (NP (NN seating) )
+          (CC and) 
+          (NP (NN office) (NNS systems) (NN furniture) ))))
+    (. .) ))

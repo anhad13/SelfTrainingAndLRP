@@ -1,0 +1,54 @@
+
+( (NP-HLN (NNP WASHINGTON) (: --) ))
+( (S 
+    (NP-SBJ (NNP United) (NNPS Technologies) (NNP Corp.) )
+    (VP (VBD won) 
+      (NP 
+        (NP (DT an) 
+          (ADJP 
+            (QP ($ $) (CD 18) (CD million) )
+            (-NONE- *U*) )
+          (NNP Army) (NN contract) )
+        (PP (IN for) 
+          (NP 
+            (NP (NN helicopter) (NNS modifications) )
+            (CC and) 
+            (NP (JJ spare) (NNS parts) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (MD will) 
+      (VP (VB modify) 
+        (NP (CD one) (NNP UH-60A) (NNP Blackhawk) (NN transport) (NN helicopter) )
+        (PP-CLR (TO to) 
+          (NP (DT the) (NN prototype) (NN MH-60K) (NN configuration) ))
+        (PP-PRP (IN for) 
+          (NP 
+            (NP (NN use) )
+            (PP (IN by) 
+              (NP (JJ military) (JJ special) (NNS forces) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Ingalls) (NNP Shipbuilding) (NNP Inc.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN division) )
+        (PP (IN of) 
+          (NP (NNP Litton) (NNP Industries) (NNP Inc.) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN given) 
+        (NP (-NONE- *-1) )
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 15.5) (CD million) )
+              (-NONE- *U*) )
+            (NN extension) )
+          (PP (IN on) 
+            (NP 
+              (NP (DT a) (NN contract) )
+              (PP (IN for) 
+                (NP (NN shipyard) (NNS services) )))))))
+    (. .) ))

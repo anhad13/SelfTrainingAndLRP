@@ -1,0 +1,46 @@
+
+( (S 
+    (NP-SBJ (NNP H&R) (NNP BLOCK) (NNP Inc.) )
+    (VP (VBD had) 
+      (NP 
+        (NP (JJ net) (NN income) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 100.2) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP ($ $) (CD 1.90) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) )))
+      (PP-TMP (IN in) 
+        (NP 
+          (NP (DT the) (JJ fiscal) (NN year) )
+          (VP (VBN ended) 
+            (NP (-NONE- *) )
+            (NP-TMP-CLR (NNP April) (CD 30) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN figure) )
+    (VP (VBD was) 
+      (VP 
+        (ADVP (RB incorrectly) )
+        (VBN shown) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN as) 
+          (NP (DT a) (JJ net) (NN loss) ))
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT a) (NN chart) )
+            (VP (VBG accompanying) 
+              (NP 
+                (NP (NNP Friday) (POS 's) )
+                (S-TTL 
+                  (NP-SBJ-2 (-NONE- *) )
+                  (VP (VBN Heard) 
+                    (NP (-NONE- *-2) )
+                    (PP-LOC (IN on) 
+                      (NP (DT the) (NN Street) ))))
+                (NN column) ))))))
+    (. .) ))

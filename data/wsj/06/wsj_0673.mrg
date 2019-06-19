@@ -1,0 +1,169 @@
+
+( (S 
+    (NP-SBJ (NNP Lockheed) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB trim) 
+              (NP 
+                (NP (PRP$ its) (NNP Aeronautical) (NNP Systems) (NN work) (NN force) )
+                (PP-LOC (IN in) 
+                  (NP (NNP California) 
+                    (CC and)
+                    (NNP Georgia) )))
+              (PP-EXT (IN by) 
+                (NP (JJ several) (CD hundred) (NNS workers) ))
+              (, ,) 
+              (S-ADV 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG reflecting) 
+                  (NP 
+                    (NP (DT the) (NN defense) (NN industry) (POS 's) )
+                    (NN decline) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NNP Lockheed) (NN unit) )
+      (VP (VBZ has) 
+        (NP (CD 24,000) (NNS workers) )))
+    (: ;) 
+    (S 
+      (NP-SBJ-1 (PRP it) )
+      (VP (VBZ expects) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB make) 
+              (NP (DT the) (NNS cuts) )
+              (PP-MNR (IN through) 
+                (NP 
+                  (NP (DT a) (NN combination) )
+                  (PP (IN of) 
+                    (NP (NNS furloughs) 
+                      (, ,)
+                      (NN attrition) 
+                      (CC and)
+                      (NNS retirements) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ (DT The) (NNS reductions) )
+      (VP (MD should) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ complete) )
+          (PP-TMP (IN by) 
+            (NP 
+              (NP (DT the) (NN end) )
+              (PP (IN of) 
+                (NP (DT the) (NN year) )))))))
+    (, ,) 
+    (NP-SBJ-4 (DT a) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-4) )
+        (VP (VBG adding) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ-1 
+                (NP (DT the) (JJ exact) (NN number) )
+                (SBAR 
+                  (WHNP-5 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ-2 (-NONE- *T*-5) )
+                    (VP (TO to) 
+                      (VP (VB be) 
+                        (VP (VBN cut) 
+                          (NP (-NONE- *-2) )))))))
+              (VP (VBZ has) (RB n't) 
+                (VP (VBN been) 
+                  (VP (VBN determined) 
+                    (NP (-NONE- *-1) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Lockheed) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 32) (CD million) )
+            (-NONE- *U*) )
+          (JJ third-quarter) (JJ net) (NN loss) )
+        (, ,) 
+        (PP-PRP 
+          (ADVP (RB largely) )
+          (IN because) (IN of) 
+          (NP 
+            (NP (NN cost) (NNS overruns) )
+            (PP-LOC (IN on) 
+              (NP (JJ fixed-price) (JJ military) (NNS contracts) ))))))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG Noting) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (JJ other) (NN defense) (NNS contractors) )
+            (VP (VBP are) 
+              (VP (VBG complaining) 
+                (PP-CLR (IN of) 
+                  (NP 
+                    (NP (NNS losses) )
+                    (PP-LOC (IN on) 
+                      (NP (JJ such) (NNS contracts) ))))))))))
+    (, ,) 
+    (NP-SBJ-1 (NNS analysts) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNS taxpayers) )
+          (VP (VBP have) 
+            (VP (VBN been) 
+              (VP (VBG getting) 
+                (NP 
+                  (NP (JJ illusionary) (NNS bargains) )
+                  (PP-LOC (IN on) 
+                    (NP (NNS weapons) (NNS systems) )))
+                (PP-TMP (IN in) 
+                  (NP (JJ recent) (NNS years) ))))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-2 
+      (NP-SBJ-1 (NN Defense) (NNS contractors) )
+      (`` ``) 
+      (VP (MD can) (RB not) 
+        (VP (VB continue) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB get) 
+                (NP (NNS contracts) )
+                (PP (IN on) 
+                  (NP (DT that) (NN basis) ))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (NP-SBJ 
+      (NP (NNP Howard) (NNP Rubel) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN analyst) )
+        (PP (IN with) 
+          (NP 
+            (NP (NNP C.J.) (NNP Lawrence) 
+              (, ,)
+              (NNP Morgan) (NNP Grenfell) (NNP Inc.) )
+            (PP-LOC (IN in) 
+              (NP (NNP New) (NNP York) ))))))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (DT The) (NN pain) )
+    (VP (VBZ is) 
+      (ADJP-PRD (RB too) (JJ great) ))
+    (. .) ))

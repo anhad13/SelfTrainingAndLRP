@@ -1,0 +1,140 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Amstrad) (NNP PLC) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ British) (NN maker) )
+        (PP (IN of) 
+          (NP 
+            (NP (NN computer) (NN hardware) )
+            (CC and) 
+            (NP (NNS communications) (NN equipment) ))))
+      (, ,) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 52) (NN %) )
+          (NN plunge) )
+        (PP-LOC (IN in) 
+          (NP (NN pretax) (NN profit) ))
+        (PP-TMP (IN for) 
+          (NP (DT the) (JJS latest) (NN year) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (QP (# #) (CD 76.6) (CD million) )
+      (-NONE- *U*) 
+      (PRN 
+        (-LRB- -LRB-)
+        (NP 
+          (QP ($ $) (CD 120.6) (CD million) )
+          (-NONE- *U*) )
+        (-RRB- -RRB-) 
+        (PP (IN in) 
+          (NP 
+            (NP (NN pretax) (NN profit) )
+            (PP-TMP (IN for) 
+              (NP 
+                (NP (DT the) (CD 12) (NNS months) )
+                (PP (TO to) 
+                  (NP (NNP June) (CD 30) ))))))))
+    (VP (VBD was) 
+      (UCP-PRD 
+        (ADVP (IN down) 
+          (PP (IN from) 
+            (NP 
+              (NP 
+                (QP (# #) (CD 160) (CD million) )
+                (-NONE- *U*) )
+              (PRN 
+                (-LRB- -LRB-)
+                (NP 
+                  (QP ($ $) (CD 252) (CD million) )
+                  (-NONE- *U*) )
+                (-RRB- -RRB-) ))
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RBR earlier) )))
+        (CC and) 
+        (PP (IN below) 
+          (NP 
+            (NP (NN market) (NNS expectations) )
+            (PP (IN of) 
+              (NP 
+                (QP (# #) (CD 80) (CD million) 
+                  (CC and)
+                  (# #) (CD 90) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (DT The) (NN slump) )
+        (PP-LOC (IN in) 
+          (NP (NN profit) )))
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBD came) 
+            (PP (IN despite) 
+              (NP (JJ steady) (NNS sales) )))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN attributed) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP 
+              (NP (VBN increased) (NNS costs) )
+              (PP (IN for) 
+                (NP (NNS parts) )))
+            (CC and) 
+            (NP 
+              (NP (NNS problems) )
+              (PP (IN with) 
+                (NP (NN model) (NNS introductions) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Amstrad) (POS 's) )
+        (NN profit) )
+      (PP-TMP (IN after) 
+        (NP (NNS taxes) )))
+    (VP (VBD fell) 
+      (NP-EXT (DT a) 
+        (ADJP (RB similarly) (JJ steep) )
+        (CD 51) (NN %) )
+      (, ,) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (# #) (CD 51.1) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (# #) (CD 105) (CD million) )
+          (-NONE- *U*) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (RBR earlier) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBD edged) 
+      (ADVP-DIR (IN up) )
+      (ADVP (RB fractionally) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (# #) (CD 626.3) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (# #) (CD 625.4) (CD million) )
+          (-NONE- *U*) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (RBR earlier) )))
+    (. .) ))

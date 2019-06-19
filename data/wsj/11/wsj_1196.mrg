@@ -1,0 +1,178 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mercedes-Benz) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNP North) (NNP America) (NNP Inc.) )
+          (, ,) 
+          (NP-LOC 
+            (NP (NNP Grosse) (NNP Pointe) (NNP Shores) )
+            (, ,) 
+            (NP (NNP Mich.) ))
+          (, ,) )))
+    (VP (VBD estimated) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB sell) 
+              (NP 
+                (NP 
+                  (ADJP (RB about) (RB as) (JJ many) )
+                  (NNS cars) )
+                (PP (-NONE- *ICH*-3) ))
+              (PP-TMP (IN in) 
+                (NP (CD 1990) ))
+              (PP-3 (IN as) 
+                (NP 
+                  (NP (DT the) (CD 75,000) )
+                  (SBAR 
+                    (WHNP-2 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ-1 (PRP it) )
+                      (VP (VBZ expects) 
+                        (S 
+                          (NP-SBJ (-NONE- *-1) )
+                          (VP (TO to) 
+                            (VP (VB deliver) 
+                              (NP (-NONE- *T*-2) )
+                              (NP-TMP (DT this) (NN year) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mercedes) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP expect) 
+            (NP (JJ flat) (NNS sales) )
+            (NP-TMP (IN next) (NN year) )
+            (SBAR-ADV (RB even) (IN though) 
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (VBP see) 
+                  (S 
+                    (NP-SBJ (DT the) (NNP U.S.) (NN luxury-car) (NN market) )
+                    (VP (VBG expanding) 
+                      (ADVP-EXT (RB slightly) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Erich) (NNP Krampe) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNP U.S.) (NNS sales) (NN arm) )
+            (PP (IN of) 
+              (NP 
+                (ADJP (JJ West) (JJ German) )
+                (NN auto) (NN maker) (NNP Daimler) (NNP Benz) (NNP AG) )))))
+      (, ,) )
+    (VP (VBD predicted) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN luxury-car) (NNS sales) )
+          (VP (MD will) 
+            (VP (VB rise) 
+              (PP-DIR (TO to) 
+                (NP (CD 840,000) ))
+              (PP-TMP (IN in) 
+                (NP (CD 1990) ))
+              (PP-DIR (IN from) 
+                (NP (CD 830,000) )
+                (NP-TMP (DT this) (NN year) ))
+              (PP-PRP 
+                (ADVP (RB primarily) )
+                (IN because) (IN of) 
+                (NP (DT the) (JJ new) (JJ Japanese) (NNS makes) )))))))
+    (. .) ))
+( (S-1 
+    (NP-SBJ 
+      (NP (JJS Most) )
+      (PP (IN of) 
+        (NP (DT the) (NN growth) )))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB come) 
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT the) 
+              (ADJP ($ $) (CD 35,000-to-$50,000) (-NONE- *U*) )
+              (NN price) (NN range) )
+            (, ,) 
+            (SBAR 
+              (WHADVP-2 (WRB where) )
+              (S 
+                (NP-SBJ (NNP Mercedes) )
+                (VP (VBZ has) 
+                  (NP (DT a) 
+                    (ADJP (CD 35) (NN %) )
+                    (NNP U.S.) (NN market) (NN share) )
+                  (ADVP-LOC (-NONE- *T*-2) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mercedes) )
+    (VP (VBD sold) 
+      (NP (CD 82,348) (NNS cars) )
+      (PP-TMP (IN in) 
+        (NP (CD 1988) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Krampe) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (S 
+            (NP-SBJ-1 (NNP Mercedes) )
+            (VP (NNS plans) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB bring) 
+                    (PRT (RP out) )
+                    (NP (JJ new) (NNS models) )
+                    (NP-TMP (DT every) (NN year) )
+                    (PP-TMP (IN through) 
+                      (NP (DT the) (NNS mid-1990s) )))))))
+          (CC and) 
+          (S 
+            (NP-SBJ-2 (PRP it) )
+            (VP (MD will) 
+              (VP (VB shorten) 
+                (NP (PRP$ its) (NN product) (NN development) (NN cycle) )
+                (PP-CLR (TO to) 
+                  (NP (CD eight) (NNS years) ))
+                (PP-CLR (IN from) 
+                  (NP 
+                    (QP (CD 10) (CC or) (CD 12) )
+                    (NNS years) ))
+                (S-PRP 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB compete) 
+                      (ADVP-MNR (RBR more) (RB effectively) )
+                      (PP-CLR (IN with) 
+                        (NP 
+                          (NP 
+                            (NP (NNP Toyota) (NNP Motor) (NNP Corp.) (POS 's) )
+                            (NNP Lexus) )
+                          (, ,) 
+                          (NP 
+                            (NP (NNP Nissan) (NNP Motor) (NNP Co.) (POS 's) )
+                            (NNP Infiniti) )
+                          (CC and) 
+                          (NP 
+                            (NP (NNP Honda) (NNP Motor) (NNP Co.) (POS 's) )
+                            (NNP Acura) (NN luxury-car) (NNS divisions) ))))))))))))
+    (. .) ))

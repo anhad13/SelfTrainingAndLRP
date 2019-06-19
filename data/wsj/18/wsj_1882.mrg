@@ -1,0 +1,122 @@
+
+( (S 
+    (NP-SBJ (NNP Addington) (NNPS Resources) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD called) 
+            (PP-CLR (IN for) 
+              (NP (NN redemption) ))
+            (PP-TMP (IN on) 
+              (NP (NNP Nov.) (CD 21) ))
+            (NP 
+              (NP (PRP$ its) 
+                (QP ($ $) (CD 25.8) (CD million) )
+                (-NONE- *U*) )
+              (ADJP (JJ outstanding) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (ADJP (CD 8) (NN %) )
+                    (JJ convertible) (JJ subordinated) (NNS debentures) )
+                  (ADJP (JJ due) 
+                    (NP-TMP (CD 2013) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (NNS debentures) )
+      (VP (VBD were) 
+        (VP (VBN issued) 
+          (NP (-NONE- *-1) )
+          (PP (IN in) 
+            (NP 
+              (NP (DT the) (NN face) (NN amount) )
+              (PP (IN of) 
+                (NP 
+                  (QP ($ $) (CD 46) (CD million) )
+                  (-NONE- *U*) ))))
+          (PP-TMP (IN on) 
+            (NP (NNP July) (CD 11) 
+              (, ,)
+              (CD 1988) )))))
+    (, ,) 
+    (NP-SBJ (DT the) 
+      (NAC-LOC (NNP Ashland) 
+        (, ,)
+        (NNP Ky.) 
+        (, ,)
+        )
+      (NN coal) (NN mining) 
+      (, ,)
+      (NN water) (NN transportation) 
+      (CC and)
+      (NN construction) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN redemption) )
+          (VP (VBZ is) 
+            (VP (VBN permitted) 
+              (NP (-NONE- *-1) )
+              (SBAR-PRP (IN because) 
+                (S 
+                  (NP-SBJ 
+                    (NP (DT the) (NN price) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP Addington) (POS 's) )
+                        (NN stock) )))
+                  (VP (VBZ has) 
+                    (VP (VBN equaled) (CC or) (VBN exceeded) 
+                      (NP ($ $) (CD 19.60) (-NONE- *U*) )
+                      (PP-TMP (IN for) 
+                        (NP (CD 20) (JJ consecutive) (NN trading) (NNS days) ))
+                      (, ,) 
+                      (NP-ADV 
+                        (NP (DT a) (NN condition) )
+                        (VP (VBN set) 
+                          (NP (-NONE- *) )
+                          (PP-LOC (IN in) 
+                            (NP 
+                              (NP (DT the) (NNS terms) )
+                              (PP (IN of) 
+                                (NP (DT the) (NNS debentures) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NN Debenture) (NNS holders) )
+    (VP (VBP are) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB convert) 
+              (NP 
+                (NP (JJS most) )
+                (PP (IN of) 
+                  (NP (DT the) (NNS debentures) )))
+              (PP-CLR (IN into) 
+                (NP (JJ common) ))
+              (SBAR-PRP (IN because) 
+                (S 
+                  (NP-SBJ 
+                    (NP (DT the) (NN value) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (NN stock) )
+                        (VP (VBN received) 
+                          (NP (-NONE- *) )
+                          (PP-LOC (IN in) 
+                            (NP (DT a) (NN conversion) ))))))
+                  (VP (MD would) 
+                    (VP (VB exceed) 
+                      (NP (DT the) 
+                        (ADJP ($ $) (CD 1,103.11) (-NONE- *U*) )
+                        (NN redemption) (NN price) ))))))))))
+    (. .) ))

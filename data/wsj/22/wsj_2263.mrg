@@ -1,0 +1,154 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP United) (NNP Biscuits) 
+        (-LRB- -LRB-)
+        (NNP Holdings) 
+        (-RRB- -RRB-)
+        (NNP PLC) )
+      (, ,) 
+      (NP (DT a) (JJ British) (NN food) (NN producer) )
+      (, ,) )
+    (VP (VBD announced) 
+      (NP 
+        (NP (DT the) (NN creation) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT a) (JJ European) (NN group) )
+            (SBAR 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (TO to) 
+                  (VP (VB bring) 
+                    (ADVP-CLR (RB together) )
+                    (NP 
+                      (NP (PRP$ its) (NN trading) (NNS interests) )
+                      (PP-LOC (IN in) 
+                        (NP (DT the) (NN region) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ new) (NN group) )
+    (VP (MD will) 
+      (VP (VB comprise) 
+        (NP 
+          (NP (DT all) )
+          (PP (IN of) 
+            (NP 
+              (NP 
+                (NP (NNP United) (NNP Biscuit) (POS 's) )
+                (NN manufacturing) 
+                (CC and)
+                (NN marketing) (NNS operations) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (NN food) (NN sector) ))
+              (ADVP (RB apart) 
+                (PP (IN from) 
+                  (NP 
+                    (NP (DT those) )
+                    (VP (VBN based) 
+                      (NP (-NONE- *) )
+                      (PP-CLR-LOC (IN in) 
+                        (NP (DT the) (NNP U.S.) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP United) (NNP Biscuits) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (VBN combined) (NN group) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (MD will) 
+                  (VP (VB include) 
+                    (NP 
+                      (NP (NNS businesses) )
+                      (PP (JJ such) (IN as) 
+                        (NP 
+                          (NP (NNP McVities) (NNS biscuits) )
+                          (CC and) 
+                          (NP 
+                            (NP (NNP Terry) (POS 's) )
+                            (NN confectionery) ))))))))
+            (, ,) )
+          (VP (MD will) 
+            (VP (VB have) 
+              (NP 
+                (NP 
+                  (NP (JJ annual) (NNS sales) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (QP (JJR more) (IN than) (# #) (CD 1.5) (CD billion) )
+                        (-NONE- *U*) )
+                      (PRN 
+                        (-LRB- -LRB-)
+                        (NP 
+                          (QP ($ $) (CD 2.35) (CD billion) )
+                          (-NONE- *U*) )
+                        (-RRB- -RRB-) ))))
+                (CC and) 
+                (NP 
+                  (NP (NN trading) (NN profit) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (QP (JJR more) (IN than) (# #) (CD 160) (CD million) )
+                        (-NONE- *U*) )
+                      (PRN 
+                        (-LRB- -LRB-)
+                        (NP 
+                          (QP ($ $) (CD 251) (CD million) )
+                          (-NONE- *U*) )
+                        (-RRB- -RRB-) ))))))))))
+    (. .) ))
+((SINV 
+    (S-TPC-1 (`` ``) 
+      (NP-SBJ (DT The) (JJ new) (NN structure) )
+      (VP (MD will) 
+        (VP (VB enable) 
+          (S 
+            (NP-SBJ (NNP United) (NNP Biscuits) )
+            (VP (TO to) 
+              (VP (VB focus) 
+                (ADVP-MNR (RB clearly) )
+                (PP-CLR (IN upon) 
+                  (NP 
+                    (NP (NNS opportunities) )
+                    (PP (IN for) 
+                      (NP 
+                        (NP (VBN planned) (NN growth) )
+                        (PP-TMP (IN during) 
+                          (NP (DT the) (NNS 1990s) )))))))))))
+      (, ,) ('' '') )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Bob) (NNP Clarke) )
+      (, ,) 
+      (NP 
+        (NP (JJ deputy) (NN chairman) )
+        (CC and) 
+        (NP (NN group) (JJ chief) (NN executive) )))
+    (. .) ))
+( (S 
+    (NP-TMP (JJ Last) (NN month) )
+    (, ,) 
+    (NP-SBJ-1 (NNP United) (NNP Biscuits) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB sell) 
+            (NP (PRP$ its) (JJ entire) (NN restaurant) (NNS operations) )
+            (PP-DTV (TO to) 
+              (NP (NNP Grand) (NNP Metropolitan) (NNP PLC) ))
+            (PP-CLR (IN for) 
+              (NP 
+                (QP (# #) (CD 180) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))

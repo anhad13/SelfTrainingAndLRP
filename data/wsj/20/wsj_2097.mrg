@@ -1,0 +1,136 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Hachette) (NNP S.A.) )
+      (, ,) 
+      (NP (DT a) (JJ European) (NNS media) 
+        (CC and)
+        (NN publishing) (NN group) )
+      (, ,) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) (JJ small) (NN rise) )
+        (PP-LOC (IN in) 
+          (NP (PRP$ its) (JJ attributable) (JJ first-half) (NN group) (NN profit) ))
+        (, ,) 
+        (PP (VBG excluding) 
+          (NP (JJ exceptional) (NNS items) ))
+        (, ,) 
+        (PP-DIR (TO to) 
+          (NP 
+            (NP 
+              (QP (CD 133.8) (CD million) )
+              (NNS francs) )
+            (PRN 
+              (-LRB- -LRB-)
+              (NP ($ $) (CD 21.1) (CD million) (-NONE- *U*) )
+              (-RRB- -RRB-) )))
+        (PP-DIR (IN from) 
+          (NP 
+            (QP (CD 130.1) (CD million) )
+            (NNS francs) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ Paris-based) (NN group) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (JJR earlier) (NN projection) 
+            (PRN (: --) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ 
+                    (NP (NN group) (NN profit) )
+                    (PP (IN for) 
+                      (NP 
+                        (NP (DT all) )
+                        (PP (IN of) 
+                          (NP (CD 1989) )))))
+                  (VP (MD would) 
+                    (VP (VB be) 
+                      (ADJP-PRD (JJ close) 
+                        (PP (TO to) 
+                          (NP 
+                            (NP (DT the) 
+                              (QP (CD 322.7) (CD million) )
+                              (NNS francs) )
+                            (VP (VBN posted) 
+                              (NP (-NONE- *) )
+                              (PP-TMP (IN for) 
+                                (NP (CD 1988) ))))))))))
+              (: --) ))
+          (VP (VBZ remains) 
+            (ADJP-PRD (JJ valid) )))))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBG Taking) 
+        (PP-CLR (IN into) 
+          (NP (NN account) ))
+        (NP (VBG nonrecurring) (NNS gains) 
+          (CC and)
+          (NNS losses) )))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Hachette) (POS 's) )
+        (NN group) (NN net) (NN income) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) (JJ first) (CD six) (NNS months) )
+          (PP (IN of) 
+            (NP (DT this) (NN year) )))))
+    (VP (VBD totaled) 
+      (NP 
+        (NP (CD 246.6) (CD million) (NNS francs) )
+        (, ,) 
+        (NP 
+          (NP 
+            (ADVP (RB practically) (RB double) )
+            (DT the) (JJ year-earlier) (NN figure) )
+          (PP (IN of) 
+            (NP (CD 124.5) (CD million) (NNS francs) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Analysts) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP 
+              (NP (NNP Hachette) (POS 's) )
+              (NNS earnings) )
+            (PP-TMP (IN in) 
+              (NP (DT the) (JJ second) (DT half) )))
+          (VP (MD might) 
+            (VP (VB be) 
+              (VP (VBN boosted) 
+                (NP (-NONE- *-1) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (DT a) (NN capital) (NN gain) )
+                    (PP (IN from) 
+                      (NP 
+                        (NP (DT the) (NN sale) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (DT the) (NNP Paris) (NN headquarters) )
+                            (PP (IN of) 
+                              (NP 
+                                (NP (DT a) (NN newspaper-delivery) (NN company) )
+                                (SBAR 
+                                  (WHNP-3 (WDT that) )
+                                  (S 
+                                    (NP-SBJ-2 (-NONE- *T*-3) )
+                                    (VP (VBZ is) 
+                                      (VP 
+                                        (NP-ADV (CD 49) (NN %) )
+                                        (VBN owned) 
+                                        (NP (-NONE- *-2) )
+                                        (PP (IN by) 
+                                          (NP-LGS (NNP Hachette) ))))))))))))))))))))
+    (. .) ))

@@ -1,0 +1,748 @@
+
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (NN Lung-cancer) (NN mortality) (NNS rates) )
+        (PP (IN for) 
+          (NP 
+            (NP (NNS people) )
+            (PP (IN under) 
+              (NP 
+                (NP (CD 45) (NNS years) )
+                (PP (IN of) 
+                  (NP (NN age) )))))))
+      (VP (VBP have) 
+        (VP (VBN begun) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB decline) ))))))
+    (, ,) 
+    (NP-SBJ (JJ federal) (NNS researchers) )
+    (VP (VBP report) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN drop) )
+    (VP (VBZ is) 
+      (ADJP-PRD (RB particularly) (JJ large) 
+        (PP (IN for) 
+          (NP (JJ white) (NNS males) )))
+      (, ,) 
+      (SBAR-ADV (IN although) 
+        (S 
+          (NP-SBJ 
+            (NP (JJ black) (NNS males) )
+            (CC and) 
+            (NP (JJ white) 
+              (CC and)
+              (JJ black) (NNS women) ))
+          (ADVP (RB also) )
+          (VP (VBP show) 
+            (NP (JJR lower) (NN mortality) (NNS rates) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN report) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP 
+            (NP (DT this) (NN week) (POS 's) )
+            (NN issue) )
+          (PP (IN of) 
+            (NP-TTL 
+              (NP (DT the) (NNP Journal) )
+              (PP (IN of) 
+                (NP (DT the) (NNP National) (NNP Cancer) (NNP Institute) )))))))
+    (ADVP (RB also) )
+    (VP (VBZ projects) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 
+            (NP (JJ overall) (NNP U.S.) (NN mortality) (NNS rates) )
+            (PP (IN from) 
+              (NP 
+                (NP (NN lung) (NN cancer) )
+                (, ,) 
+                (NP 
+                  (NP (DT the) (VBG leading) (NN cause) )
+                  (PP (IN of) 
+                    (NP (NN cancer) (NN death) ))))))
+          (, ,) 
+          (VP (MD should) 
+            (VP (VB begin) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB drop) )))
+              (PP-TMP (IN in) 
+                (NP (JJ several) (NNS years) ))
+              (SBAR-ADV (IN if) 
+                (S 
+                  (NP-SBJ-2 (NN cigarette) (NN smoking) )
+                  (VP (VBZ continues) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB abate) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN report) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ comes) 
+            (SBAR-TMP 
+              (NP (CD 25) (NNS years) )
+              (IN after) 
+              (S 
+                (NP-SBJ (DT the) (NNP U.S.) (NNP Surgeon) (NNP General) )
+                (VP (VBD issued) 
+                  (NP 
+                    (NP (DT a) (NN report) )
+                    (VP (VBG warning) 
+                      (PP-CLR (IN against) 
+                        (NP 
+                          (NP (DT the) (NNS dangers) )
+                          (PP (IN of) 
+                            (NP (NN smoking) ))))))))))))
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (JJS strongest) (NN indication) )
+        (PP-TMP (TO to) 
+          (NP (NN date) ))
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NN reduction) )
+              (PP-LOC (IN in) 
+                (NP (NN smoking) )))
+            (VP (VBZ is) 
+              (VP (VBG leading) 
+                (PP-DIR (TO to) 
+                  (NP 
+                    (NP (JJR lower) (NN death) (NNS rates) )
+                    (PP (IN from) 
+                      (NP (NN lung) (NN cancer) ))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ 
+        (SBAR 
+          (WHNP-1 (WP What) )
+          (S 
+            (NP-SBJ (DT this) )
+            (VP (VBZ is) 
+              (VP (VBG saying) 
+                (NP (-NONE- *T*-1) ))))))
+      (VP (VBZ is) 
+        (SBAR-PRD (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NN surgeon) (NN general) (POS 's) )
+              (NN message) )
+            (VP (VBZ is) 
+              (VP (VBG having) 
+                (NP (DT an) (NN impact) )))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP Melvyn) (NNP Tockman) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN epidemiologist) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (DT the) (NNP Johns) (NNP Hopkins) (NNP School) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Hygiene) )
+                (CC and) 
+                (NP (NNP Public) (NNP Health) )))
+            (PP-LOC (IN in) 
+              (NP (NNP Baltimore) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP National) (NNP Cancer) (NNP Institute) (NN report) )
+    (VP (VBZ compares) 
+      (NP 
+        (NP (NN mortality) (NNS rates) )
+        (PP (IN of) 
+          (NP 
+            (NP (CD two) (NNS groups) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNS people) )
+                (PP (IN between) 
+                  (NP 
+                    (NP (DT the) (NNS ages) )
+                    (PP (IN of) 
+                      (NP (CD 35) 
+                        (CC and)
+                        (CD 44) ))))))
+            (ADJP 
+              (NP (DT a) (NN decade) )
+              (RB apart) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (DT The) (NN death) (NN rate) )
+        (PP (IN from) 
+          (NP 
+            (NP (NN lung) (NN cancer) )
+            (PP (IN of) 
+              (NP 
+                (NP (JJ white) (NNS males) )
+                (VP (VBN aged) 
+                  (NP (-NONE- *) )
+                  (NP 
+                    (NP (CD 35) )
+                    (PP (TO to) 
+                      (NP (CD 44) ))))))))
+        (PP-TMP (IN in) 
+          (NP (DT the) (CD mid-1970s) )))
+      (VP (VBD was) 
+        (NP-PRD 
+          (NP (CD 13.4) )
+          (PP (IN per) 
+            (NP (CD 100,000) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (DT the) (NN mortality) (NN rate) )
+        (PP (IN of) 
+          (NP (DT the) (JJ same) (NN age) (NN group) ))
+        (PP-TMP (IN in) 
+          (NP (DT the) (CD mid-1980s) )))
+      (VP (VBD was) 
+        (NP-PRD 
+          (NP (CD 9.6) )
+          (, ,) 
+          (NP 
+            (NP (DT a) (NN decline) )
+            (PP (IN of) 
+              (NP (CD 28.7) (NN %) ))))))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBN Measured) 
+        (NP (DT the) (JJ same) (NN way) )))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (DT the) (NN decline) )
+      (PP (IN for) 
+        (NP (JJ black) (NNS males) )))
+    (VP (VBD was) 
+      (NP-PRD (CD 14.2) (NN %) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN drop) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NN mortality) (NNS rates) )
+          (PP (IN for) 
+            (NP (NNS women) )))))
+    (VP (VBD was) 
+      (UCP-PRD 
+        (ADJP (RBR less) (JJ steep) )
+        (: --) 
+        (NP 
+          (NP 
+            (NP (CD 8.9) (NN %) )
+            (PP (IN for) 
+              (NP (NNS blacks) )))
+          (CC and) 
+          (NP 
+            (NP (CD 5.3) (NN %) )
+            (PP (IN for) 
+              (NP (NNS whites) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN study) )
+      (, ,) 
+      (PP (IN by) 
+        (NP 
+          (NP (NNP Susan) (NNP Devesa) )
+          (, ,) 
+          (NP (NNP William) (NNP Blot) )
+          (CC and) 
+          (NP (NNP Joseph) (NNP Fraumeni) )))
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NN institute) (POS 's) )
+          (NN staff) ))
+      (, ,) )
+    (ADVP (RB also) )
+    (VP (VBZ shows) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP 
+              (NP (DT the) (NN incidence) )
+              (PP (IN of) 
+                (NP (NN lung) (NN cancer) )))
+            (CONJP (RB as) (RB well) (IN as) )
+            (NP (DT the) (NN death) (NN rate) ))
+          (VP (VBD declined) 
+            (PP-TMP (IN over) 
+              (NP (DT the) (NN decade) ))
+            (PP (IN for) 
+              (NP 
+                (NP (DT all) (NNS groups) )
+                (PP-LOC (IN in) 
+                  (NP (DT the) (CD 35-44) (NN age) (NN bracket) ))
+                (, ,) 
+                (PP (IN except) 
+                  (NP (JJ black) (NNS men) ))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN Although) 
+      (S 
+        (NP-SBJ (NN lung-cancer) (NN mortality) (NNS rates) )
+        (VP (VBP are) 
+          (VP (VBG increasing) 
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (NN nation) )
+                (PP (IN as) 
+                  (NP (DT a) (NN whole) ))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN report) )
+    (VP (VBZ projects) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (NN death) (NNS rates) )
+          (VP (MD will) 
+            (VP (VB begin) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP 
+                    (VP (VB decline) 
+                      (PP-TMP-2 (IN in) 
+                        (NP (DT the) (CD 1990s) ))
+                      (PP-3 (IN for) 
+                        (NP (NNS men) )))
+                    (CC and) 
+                    (VP 
+                      (PP-TMP=2 (IN after) 
+                        (NP (DT the) (NN year) (CD 2000) ))
+                      (PP=3 (IN for) 
+                        (NP (NNS women) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NN Lung-cancer) (NN mortality) (NNS rates) )
+    (VP 
+      (VP (VBP increase) 
+        (PP (IN with) 
+          (NP (NN age) )))
+      (CC and) 
+      (VP (VBP are) 
+        (VP (VBG continuing) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB rise) 
+                (PP (IN for) 
+                  (NP 
+                    (NP (DT all) (NN age) (NNS groups) )
+                    (PP (IN over) 
+                      (NP (CD 55) ))))
+                (, ,) 
+                (PP (IN with) 
+                  (NP 
+                    (NP (JJ sharp) (NNS increases) )
+                    (PP (IN for) 
+                      (NP 
+                        (NP (NN everybody) )
+                        (CC but) 
+                        (NP (JJ white) (NNS men) )))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (NNP Dr.) (NNP Fraumeni) )
+      (, ,) 
+      (NP 
+        (NP (CD one) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNS authors) )
+            (PP (IN of) 
+              (NP (DT the) (NN report) )))))
+      (, ,) )
+    (VP (VBD said) (`` ``) 
+      (S 
+        (NP-TPC-1 
+          (NP (DT the) (VBG declining) (NNS rates) )
+          (SBAR 
+            (WHNP-3 (-NONE- 0) )
+            (S 
+              (NP-SBJ (PRP we) )
+              (VP (VBP 're) 
+                (VP (VBG seeing) 
+                  (NP (-NONE- *T*-3) )
+                  (PP (IN for) 
+                    (NP (JJR younger) (NNS people) )))))))
+        (NP-SBJ (PRP we) )
+        (VP (VBP believe) 
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (MD may) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (VB be) 
+                  (NP-PRD 
+                    (NP (DT a) (NN harbinger) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (VBG declining) (NN mortality) )
+                        (PP-TMP (IN in) 
+                          (NP (DT the) (NN future) ))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD stressed) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NN improvement) )
+          (VP (VBZ depends) 
+            (PP-LOC-CLR (IN on) 
+              (NP 
+                (NP (DT a) (VBN continued) (NN reduction) )
+                (PP-LOC (IN in) 
+                  (NP (NN smoking) ))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (SBAR-ADV 
+        (ADVP (RB Even) )
+        (IN though) 
+        (S 
+          (NP-SBJ 
+            (NP (DT these) (JJ favorable) (NNS trends) )
+            (PP-LOC (IN in) 
+              (NP (NN lung-cancer) (NN mortality) )))
+          (VP (VBP affect) 
+            (NP (DT all) (NN sex) 
+              (CC and)
+              (NN race) (NNS groups) ))))
+      (, ,) 
+      (NP-SBJ-1 (PRP they) )
+      (VP (MD ca) (RB n't) 
+        (VP (VB be) 
+          (VP (VBN taken) 
+            (NP (-NONE- *-1) )
+            (PP-CLR (IN for) 
+              (ADJP (VBN granted) ))))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT the) (NN report) )
+    (VP (VBZ says) 
+      (S (-NONE- *T*-2) ))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (NN Smoking) (NN prevention) (NNS programs) )
+    (VP (MD should) 
+      (VP (VB reach) 
+        (NP 
+          (NP 
+            (NP (JJR larger) (NNS segments) )
+            (PP (IN of) 
+              (NP (DT the) (NN population) )))
+          (, ,) 
+          (NP (RB especially) (NNS children) 
+            (, ,)
+            (NNS adolescents) 
+            (CC and)
+            (NNS minorities) ))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (DT An) (NN editorial) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NNP NCI) (NNP Journal) )))
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN report) )
+            (PP (IN of) 
+              (NP 
+                (NP (VBG declining) (NN lung-cancer) (NN mortality) (`` ``) )
+                (PP-LOC (IN among) 
+                  (NP 
+                    (NP (JJ young) (NNS men) 
+                      (CC and)
+                      (NNS women) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (NNP U.S.) )))))))
+          (VP (VBZ indicates) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ (PRP we) )
+                (ADVP (RB finally) )
+                (VP (MD may) 
+                  (VP (VB be) 
+                    (VP (VBG winning) 
+                      (NP (DT the) (NN battle) )
+                      (: --) 
+                      (FRAG 
+                        (NP (DT this) )
+                        (PP-LOC 
+                          (ADVP (RB even) )
+                          (IN in) 
+                          (NP 
+                            (NP (DT a) (NN country) )
+                            (SBAR 
+                              (WHADVP-1 (WRB where) )
+                              (S 
+                                (NP-SBJ (DT the) (NN tobacco) (NN industry) )
+                                (VP (VBZ spends) 
+                                  (NP 
+                                    (NP 
+                                      (QP (IN over) ($ $) (CD 2) (CD billion) )
+                                      (-NONE- *U*) )
+                                    (NP-ADV (DT a) (NN year) ))
+                                  (PP (IN for) 
+                                    (NP 
+                                      (NP (NN promotion) )
+                                      (PP (IN of) 
+                                        (NP 
+                                          (NP (DT the) (JJ addictive) (NN habit) )
+                                          (PP (IN of) 
+                                            (NP (NN smoking) ))))))
+                                  (ADVP-LOC (-NONE- *T*-1) ))))))))))))))))
+    (. .) ('' '') ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT the) (NN editorial) )
+      (, ,) 
+      (PP (IN by) 
+        (NP 
+          (NP (NNP Jan) (NNP Stjernsward) )
+          (PP (IN of) 
+            (NP (DT the) (NNP World) (NNP Health) (NNP Organization) ))))
+      (, ,) )
+    (VP (VBZ notes) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NN tobacco) (NN consumption) 
+            (CC and)
+            (NN lung-cancer) (NN mortality) (NNS rates) )
+          (VP (VBP are) 
+            (VP (VBG rising) 
+              (PP-LOC (IN in) 
+                (NP (VBG developing) (NNS countries) )))))))
+    (. .) ))
+( (S-3 (`` ``) 
+    (NP-SBJ-1 (NN Non-smoking) )
+    (VP (MD should) 
+      (VP (VB be) 
+        (VP (VBN established) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN as) 
+            (NP 
+              (NP (DT the) (NN norm) )
+              (PP (IN of) 
+                (NP (JJ social) (NN behavior) ))
+              ('' '') 
+              (PP-LOC (IN around) 
+                (NP (DT the) (NN world) )))))))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (DT the) (NN editorial) )
+        (VP (VBZ says) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-3) ))))
+      (, ,) )
+    (PP (IN through) 
+      (NP 
+        (NP (DT the) (NN enactment) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS laws) )
+            (SBAR 
+              (WHNP-2 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP 
+                  (VP (VBP limit) 
+                    (NP (NN advertising) ))
+                  (, ,) 
+                  (VP (VBP boost) 
+                    (NP (NN tobacco) (NNS prices) ))
+                  (CC and) 
+                  (VP (VBP promote) 
+                    (NP (JJ anti-smoking) (NN education) )))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (-NONE- *-2) )
+      (VP (VBN Asked) 
+        (NP (-NONE- *-1) )
+        (PP (IN for) 
+          (NP (NN comment) ))))
+    (, ,) 
+    (NP-SBJ-2 
+      (NP (NNP Walker) (NNP Merryman) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP (DT the) (NNP Tobacco) (NNP Institute) ))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ new) (NNS efforts) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB restrict) 
+                  (NP (NN tobacco) (NN advertising) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NNP U.S.) ))))))
+          (VP (MD could) 
+            (VP (VB violate) 
+              (NP 
+                (NP (DT the) (NNP First) (NNP Amendment) (NN protection) )
+                (PP (IN of) 
+                  (NP (JJ free) (NN speech) ))))))))
+    (. .) ))
+( (S 
+    (PP (VBG According) 
+      (PP (TO to) 
+        (NP (DT the) (NNP American) (NNP Cancer) (NNP Society) )))
+    (, ,) 
+    (NP-SBJ (NN smoking) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ responsible) 
+        (PP (IN for) 
+          (NP 
+            (NP 
+              (NP (CD 85) (NN %) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN lung-cancer) (NNS cases) )
+                  (PP (IN among) 
+                    (NP (NNS men) )))))
+            (CC and) 
+            (NP 
+              (NP (CD 75) (NN %) )
+              (PP (IN among) 
+                (NP (NNS women) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP NCI) (NN report) )
+    (VP (VBZ attributes) 
+      (NP 
+        (NP (DT the) (NNS differences) )
+        (PP-LOC (IN in) 
+          (NP (NN mortality) (NNS rates) ))
+        (PP (IN by) 
+          (NP (NN race) )))
+      (PP-CLR (TO to) 
+        (NP (JJ different) (NN smoking) (NNS patterns) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (JJR higher) (NN proportion) )
+      (PP (IN of) 
+        (NP (JJ black) (NNS men) ))
+      (PP (-NONE- *ICH*-3) ))
+    (VP (VBP smoke) 
+      (PP-3 (IN than) 
+        (NP (JJ white) (NNS men) )))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ 
+          (NP 
+            (ADJP (RB nearly) (JJ equal) )
+            (NNS percentages) )
+          (PP (IN of) 
+            (NP (JJ black) 
+              (CC and)
+              (JJ white) (NNS women) )))
+        (ADVP-TMP (RB currently) )
+        (VP (VBP smoke) )))
+    (, ,) 
+    (PP-LOC (IN in) 
+      (NP (DT both) (NNS sexes) ))
+    (NP-SBJ 
+      (NP (JJR more) (NNS whites) )
+      (PP (-NONE- *ICH*-4) ))
+    (VP (VBP have) 
+      (VP (VBN given) 
+        (PRT (RP up) )
+        (NP (NN smoking) )
+        (PP-4 (IN than) 
+          (NP (NNS blacks) ))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG comparing) 
+          (NP 
+            (NP (NNS changes) )
+            (PP-LOC (IN in) 
+              (NP (NN mortality) (NNS rates) ))
+            (PP-TMP (IN over) 
+              (NP (DT the) (NN past) (NN decade) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP NCI) (NN study) )
+    (VP (VBD looked) 
+      (ADVP (RB only) )
+      (PP-CLR (IN at) 
+        (NP (NNS blacks) 
+          (CC and)
+          (NNS whites) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-2 
+        (NP (NNPS Asians) )
+        (CC and) 
+        (NP (JJ native) (NNPS Americans) ))
+      (VP (VBD were) (RB n't) 
+        (VP (VBN studied) 
+          (NP (-NONE- *-2) ))))
+    (: ;) 
+    (S 
+      (NP-SBJ-1 (NNPS Hispanics) )
+      (VP (VBD were) 
+        (VP (VBN included) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN with) 
+            (NP (NNS whites) )))))
+    (. .) ))
+( (NP 
+    (NP (JJ Recent) (NNS changes) )
+    (PP-LOC (IN in) 
+      (NP 
+        (NP (JJ average) (JJ annual) (JJ age-specific) (NN lung-cancer) (NNS rates) )
+        (PP (IN per) 
+          (NP (CD 100,000) (NN population) ))
+        (PP (IN by) 
+          (NP (NN race) 
+            (CC and)
+            (NN sex) ))))
+    (. .) ))
+( (NP-HLN (NNP White) (NNPS Males) ))
+( (NP-HLN (NNP White) (NNPS Females) ))
+( (NP-HLN (NNP Black) (NNPS Males) ))
+( (NP-HLN (NNP Black) (NNPS Females) ))

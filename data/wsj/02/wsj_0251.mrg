@@ -1,0 +1,176 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Moody) (POS 's) )
+      (NNPS Investors) (NNP Service) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD lowered) 
+            (NP 
+              (NP (DT the) (NNS ratings) )
+              (PP (IN on) 
+                (NP 
+                  (NP 
+                    (QP (IN about) ($ $) (CD 3.2) (CD billion) )
+                    (-NONE- *U*) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Houston) (NNP Lighting) (CC &) (NNP Power) (NNP Co.) (POS 's) )
+                      (NNS securities) )))))
+            (PP-PRP (IN because) (IN of) 
+              (NP 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (JJ low) (NNS levels) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NN interest) (NN coverage) )
+                    (CC and) 
+                    (NP (JJ internal) (NN cash) (NN generation) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Houston) (NNP Lighting) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Houston) (NNPS Industries) (NNP Inc.) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NN utility) (VBG holding) (NN company) )
+              (PP-LOC (IN in) 
+                (NP (NNP Houston) )))))))
+    (. .) ))
+( (S 
+    (SINV 
+      (VP-TPC-3 (VBN Downgraded) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (NNP Moody) (POS 's) )))
+      (VP (VBD were) 
+        (VP (-NONE- *T*-3) ))
+      (NP-SBJ-1 
+        (NP (NNP Houston) (NNP Lighting) (POS 's) )
+        (NX 
+          (NX (JJ first-mortgage) (NNS bonds) )
+          (CC and) 
+          (NX (JJ secured) (JJ pollution-control) (NNS bonds) )))
+      (PP-DIR-2 (TO to) 
+        (NP (JJ single-A-3) ))
+      (PP-DIR-4 (IN from) 
+        (NP (JJ single-A-2) )))
+    (: ;) 
+    (SINV 
+      (NP-SBJ=1 (JJ unsecured) (NN pollution-control) (NNS bonds) )
+      (PP-DIR=2 (TO to) 
+        (NP (JJ Baa-1) ))
+      (PP-DIR=4 (IN from) 
+        (NP (JJ single-A-3) )))
+    (: ;) 
+    (SINV 
+      (NP-SBJ=1 (JJ preferred) (NN stock) )
+      (PP-DIR=2 (TO to) 
+        (NP (JJ single-A-3) ))
+      (PP-DIR=4 (IN from) 
+        (NP (JJ single-A-2) )))
+    (: ;) 
+    (SINV 
+      (NP-SBJ=1 
+        (NP (DT a) (NN shelf) (NN registration) )
+        (PP (IN for) 
+          (NP (JJ preferred) (NN stock) )))
+      (PP-DIR=2 (TO to) 
+        (NP 
+          (NP (DT a) (JJ preliminary) (NN rating) )
+          (PP (IN of) 
+            (NP (JJ single-A-3) ))))
+      (PP-DIR=4 (IN from) 
+        (NP 
+          (NP (DT a) (JJ preliminary) (NN rating) )
+          (PP (IN of) 
+            (NP (JJ single-A-2) )))))
+    (: ;) 
+    (SINV 
+      (NP-SBJ=1 
+        (NP (CD two) (NN shelf) (NNS registrations) )
+        (PP (IN for) 
+          (NP (JJ collateralized) (NN debt) (NNS securities) )))
+      (PP-DIR=2 (TO to) 
+        (NP 
+          (NP (DT a) (JJ preliminary) (NN rating) )
+          (PP (IN of) 
+            (NP (JJ single-A-3) ))))
+      (PP=4 (IN from) 
+        (NP 
+          (NP (DT a) (JJ preliminary) (NN rating) )
+          (PP (IN of) 
+            (NP (JJ single-A-2) )))))
+    (, ,) 
+    (CC and)
+    (SINV 
+      (NP-SBJ=1 
+        (NP 
+          (NP (DT the) (NN unit) (POS 's) )
+          (NN rating) )
+        (PP (IN for) 
+          (NP (JJ commercial) (NN paper) )))
+      (PP=2 (TO to) 
+        (NP (JJ Prime-2) ))
+      (PP=4 (IN from) 
+        (NP (JJ Prime-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Moody) (POS 's) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Houston) (NNP Lighting) (POS 's) )
+            (JJ current) (NN situation) )
+          (VP (VBZ has) 
+            (NP 
+              (NP (DT some) (JJ positive) (NNS aspects) )
+              (, ,) 
+              (PP (VBG including) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG managing) (`` ``) 
+                    (ADVP-MNR (RB very) (RB well) )
+                    ('' '') 
+                    (NP 
+                      (NP (DT the) (NN construction) 
+                        (CC and)
+                        (JJ commercial) (NN operation) (NNS risks) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNS Units) (CD 1) 
+                            (CC and)
+                            (CD 2) )
+                          (PP (IN of) 
+                            (NP (DT the) (NNP South) (NNP Texas) (NNP Project) (JJ nuclear) (NN power) (NN plant) )))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (NN Capital) (NNS requirements) )
+        (VP (MD will) 
+          (VP (VB be) 
+            (VP (VBG declining) ))))
+      (CC and) 
+      (S 
+        (NP-SBJ-90 (DT no) (JJ new) (VBG generating) (NNS facilities) )
+        (VP (MD will) 
+          (VP (VB be) 
+            (VP (VBN required) 
+              (NP (-NONE- *-90) )))))
+      (PP-TMP (IN for) 
+        (NP (JJ several) (NNS years) )))
+    (, ,) 
+    (NP-SBJ (NNP Moody) (POS 's) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

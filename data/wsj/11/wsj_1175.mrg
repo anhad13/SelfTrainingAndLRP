@@ -1,0 +1,90 @@
+
+( (S 
+    (NP-SBJ (NNP BUELL) (NNP INDUSTRIES) (NNP Inc.) )
+    (VP (VBD halved) 
+      (NP (PRP$ its) (JJ quarterly) (NN dividend) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP 
+            (NP (CD five) (NNS cents) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) 
+          (ADJP (JJ payable) 
+            (NP-TMP (NNP Nov.) (CD 17) )
+            (PP (TO to) 
+              (NP 
+                (NP (VB stock) )
+                (PP (IN of) 
+                  (NP (NN record) ))
+                (NP-TMP (NNP Nov.) (CD 3) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN company) (POS 's) )
+      (JJ quarterly) (NN dividend) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (CD 10) (NNS cents) )
+          (NP-ADV (DT a) (NN share) ))
+        (PP-TMP (IN since) 
+          (NP (NNP April) (CD 30) 
+            (, ,)
+            (CD 1988) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Buell) )
+    (ADVP-TMP (RB recently) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD would) 
+            (VP (VB incur) 
+              (NP 
+                (NP (DT an) (JJ aftertax) (NN charge) )
+                (PP (IN of) 
+                  (NP 
+                    (QP (RB about) ($ $) (CD 3.6) (CD million) )
+                    (-NONE- *U*) )))
+              (PP-TMP (IN in) 
+                (NP 
+                  (NP (PRP$ its) (JJ fourth) (NN quarter) )
+                  (VP (VBG ending) 
+                    (NP-TMP (NNP Tuesday) ))))
+              (, ,) 
+              (PP (IN in) 
+                (NP 
+                  (NP (NN connection) )
+                  (PP (IN with) 
+                    (NP 
+                      (NP (DT the) (NN sale) 
+                        (CC and)
+                        (NN discontinuance) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (JJ several) (NNS lines) )
+                          (PP-LOC (IN at) 
+                            (NP (DT a) (NN plant) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) 
+        (NP 
+          (NP (NNP Waterbury) )
+          (, ,) 
+          (NP (NNP Conn.) )
+          (, ,) )
+        (NN maker) )
+      (PP (IN of) 
+        (NP 
+          (NP (JJ industrial) (NNS fasteners) )
+          (CC and) 
+          (NP (NN metal) (NNS stampings) ))))
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (QP (CD 2.3) (CD million) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))

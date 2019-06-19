@@ -1,0 +1,79 @@
+
+( (S 
+    (NP-SBJ (NNP AEP) (NNPS INDUSTRIES) (NNP Inc.) (NNS directors) )
+    (VP (VBD authorized) 
+      (NP 
+        (NP (DT a) (JJ 3-for-2) (NN split) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (JJ common) )
+            (, ,) 
+            (ADVP (JJ payable) 
+              (NP-TMP (NNP Dec.) (CD 7) )
+              (PP-DIR (TO to) 
+                (NP 
+                  (NP (VB stock) )
+                  (PP (IN of) 
+                    (NP (NN record) ))
+                  (NP-TMP (NNP Nov.) (CD 22) ))))))))
+    (. .) ))
+( (SINV 
+    (S-2 
+      (NP-SBJ-1 (DT The) (NN split) )
+      (VP (VBD was) 
+        (VP (VBN aimed) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN at) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG boosting) 
+                (NP 
+                  (NP (DT the) (NN stock) (POS 's) )
+                  (NN liquidity) )))))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (NP-SBJ 
+      (NP (NNP Brendan) (NNP Barba) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) 
+              (NAC-LOC 
+                (NP (NNP Moonachie) )
+                (, ,) 
+                (NP (NNP N.J.) )
+                (, ,) )
+              (NN maker) )
+            (PP (IN of) 
+              (NP (NN plastic) (NN film) (NNS products) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN After) 
+      (NP (DT the) (NN split) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (NP 
+          (NP 
+            (QP (JJR more) (IN than) (CD 4.7) (CD million) )
+            (NNS shares) )
+          (ADJP (JJ outstanding) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ national) (JJ over-the-counter) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (NNP AEP) (NNS shares) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 21.25) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP (CD 50) (NNS cents) )))
+    (. .) ))

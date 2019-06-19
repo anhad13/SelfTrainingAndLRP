@@ -1,0 +1,155 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Montedison) (NNP S.p.A.) )
+    (VP 
+      (ADVP-MNR (RB definitively) )
+      (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB buy) 
+            (NP 
+              (NP (DT all) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) 
+                    (ADJP (RB publicly) (VBN held) )
+                    (NNS shares) )
+                  (PP (IN of) 
+                    (NP (NNP Erbamont) (NNP N.V.) )))))
+            (PP-CLR (IN for) 
+              (NP 
+                (NP ($ $) (CD 37) (-NONE- *U*) )
+                (NP-ADV (DT each) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Montedison) )
+    (ADVP-TMP (RB now) )
+    (VP (VBZ owns) 
+      (NP 
+        (NP 
+          (QP (RB about) (CD 72) )
+          (NN %) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (NNP Erbamont) (POS 's) )
+              (NNS shares) )
+            (ADJP (JJ outstanding) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS companies) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN accord) )
+          (VP (VBD was) 
+            (VP 
+              (ADVP-MNR (RB unanimously) )
+              (VBN approved) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT a) (JJ special) (NN committee) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Erbamont) (NNS directors) )
+                      (ADJP (JJ unaffiliated) 
+                        (PP (IN with) 
+                          (NP (NNP Montedison) ))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NN pact) ))
+    (, ,) 
+    (NP-SBJ (NN Montedision) )
+    (VP (MD will) 
+      (VP (VB make) 
+        (NP 
+          (NP (DT a) 
+            (ADJP ($ $) (JJ 37-a-share) (-NONE- *U*) )
+            (NN tender) (NN offer) )
+          (PP (IN for) 
+            (NP 
+              (NP (NNP Erbamont) (NN stock) )
+              (ADJP (JJ outstanding) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN tender) (NN offer) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN followed) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (DT the) (NN sale) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT all) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Erbamont) (POS 's) )
+                      (NNS assets) ))
+                  (, ,) 
+                  (ADJP (JJ subject) 
+                    (PP (TO to) 
+                      (NP 
+                        (NP (DT all) )
+                        (PP (IN of) 
+                          (NP (PRP$ its) (NNS liabilities) )))))))
+              (, ,) 
+              (PP (TO to) 
+                (NP (NNP Montedison) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Erbamont) )
+    (VP (MD will) 
+      (ADVP-TMP (RB then) )
+      (VP (VB be) 
+        (VP (VBN liquidated) 
+          (NP (-NONE- *-1) )
+          (, ,) 
+          (PP (IN with) 
+            (S-NOM 
+              (NP-SBJ (DT any) (VBG remaining) (NNP Erbamont) (NNS holders) )
+              (VP (VBG receiving) 
+                (NP 
+                  (NP (DT a) (NN distribution) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP ($ $) (CD 37) (-NONE- *U*) )
+                      (NP-ADV (DT a) (NN share) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS companies) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN transaction) )
+          (VP (VBZ is) 
+            (VP (VBG being) 
+              (VP (VBN structured) 
+                (NP (-NONE- *-1) )
+                (NP-MNR (DT this) (NN way) )
+                (SBAR-PRP (IN because) 
+                  (S 
+                    (NP-SBJ 
+                      (NP (DT the) (NNS laws) )
+                      (PP (IN of) 
+                        (NP (DT the) (NNPS Netherlands) (NNPS Antilles) ))
+                      (, ,) 
+                      (SBAR 
+                        (WHPP-3 (IN under) 
+                          (WHNP (WDT which) ))
+                        (S 
+                          (NP-SBJ-2 (NNP Erbamont) )
+                          (VP (VBZ is) 
+                            (VP (VBN organized) 
+                              (NP (-NONE- *-2) )
+                              (PP-LOC (-NONE- *T*-3) )))))
+                      (, ,) )
+                    (VP (VBP do) (RB n't) 
+                      (VP (VB provide) 
+                        (PP-CLR (IN for) 
+                          (NP (NN merger) (NNS transactions) ))))))))))))
+    (. .) ))

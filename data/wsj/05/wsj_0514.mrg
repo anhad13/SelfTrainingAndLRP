@@ -1,0 +1,45 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Charles) (NNP A.) (NNP Pearce) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 66) (NNS years) )
+        (JJ old) ))
+    (, ,) 
+    (VP (MD will) 
+      (VP (VB retire) 
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (PRP$ his) (NN post) )
+            (PP (IN as) 
+              (NP 
+                (NP (NN chief) (JJ executive) (NN officer) )
+                (PP (IN of) 
+                  (NP (DT this) (NN bank) (VBG holding) (NN company) ))))))
+        (ADJP-ADV (JJ effective) 
+          (NP-TMP (NNP Dec.) (CD 31) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (MD will) 
+      (VP (VB remain) 
+        (NP-PRD (NN chairman) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Charles) (NNP R.) (NNP Simpson) (NNP Jr.) )
+      (, ,) 
+      (NP (CD 46) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (CC and) 
+        (NP (NN chief) (VBG operating) (NN officer) )))
+    (, ,) 
+    (VP (MD will) 
+      (VP (VB assume) 
+        (NP 
+          (NP (DT the) (NN chief) (NN executive) (POS 's) )
+          (NN post) )))
+    (. .) ))

@@ -1,0 +1,269 @@
+
+( (S 
+    (NP-SBJ (NNP Memotec) (NNP Data) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD signed) 
+            (NP 
+              (NP (DT a) (JJ definitive) (NN merger) (NN agreement) )
+              (PP (IN with) 
+                (NP (NNP ISI) (NNP Systems) (NNP Inc.) ))
+              (SBAR 
+                (WHPP-1 (IN under) 
+                  (WHNP (WDT which) ))
+                (S 
+                  (NP-SBJ (NNP Memotec) )
+                  (VP (MD will) 
+                    (VP (VB acquire) 
+                      (NP (NNP ISI) )
+                      (PP-CLR (IN for) 
+                        (NP 
+                          (NP 
+                            (NP ($ $) (CD 20) (-NONE- *U*) 
+                              (PRN 
+                                (-LRB- -LRB-)
+                                (NNP U.S.) (. .) 
+                                (-RRB- -RRB-)
+                                ))
+                            (NP-ADV (DT a) (NN share) ))
+                          (, ,) (CC or) 
+                          (NP 
+                            (NP 
+                              (QP (RB about) ($ $) (CD 130) (CD million) )
+                              (-NONE- *U*) )
+                            (, ,) 
+                            (PP (IN in) 
+                              (NP (NN cash) 
+                                (CC and)
+                                (NNS securities) )))))
+                      (PP-LOC (-NONE- *T*-1) ))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP American) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (NNP ISI) )
+    (VP (VBD closed) 
+      (ADVP-CLR (RB up) 
+        (NP ($ $) (CD 3.125) (-NONE- *U*) ))
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 18.625) (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP Montreal) (NNP Exchange) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (NNP Memotec) )
+    (VP (VBD closed) 
+      (ADVP-MNR (JJ unchanged) )
+      (PP-CLR (IN at) 
+        (NP 
+          (NP (CD 10.625) (JJ Canadian) (NNS dollars) )
+          (PRN 
+            (-LRB- -LRB-)
+            (NP ($ US$) (CD 9.05) (-NONE- *U*) )
+            (-RRB- -RRB-) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Memotec) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (PP-LOC (IN under) 
+            (NP (DT the) (NN agreement) ))
+          (, ,) 
+          (NP-SBJ 
+            (NP (NNP ISI) )
+            (, ,) 
+            (NP 
+              (NP (DT a) 
+                (NAC-LOC (NNP Braintree) 
+                  (, ,)
+                  (NNP Mass.) 
+                  (, ,)
+                  )
+                (NN provider) )
+              (PP (IN of) 
+                (NP (NN computer) (NN software) 
+                  (CC and)
+                  (NNS services) ))
+              (PP (TO to) 
+                (NP (DT the) (NN insurance) (NN industry) )))
+            (, ,) )
+          (VP (MD will) 
+            (VP (VB merge) 
+              (PP-CLR (IN with) 
+                (NP 
+                  (NP (DT a) (NNP U.S.) (NN unit) )
+                  (PP (IN of) 
+                    (NP (NNP Memotec) ))
+                  (VP (VBN created) 
+                    (NP (-NONE- *) )
+                    (PP-PRP (IN for) 
+                      (NP (DT that) (NN purpose) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Memotec) )
+    (VP (VBZ is) 
+      (NP-PRD (DT a) 
+        (NX 
+          (NX 
+            (NX (JJ Montreal-based) (NN maker) )
+            (PP (IN of) 
+              (NP (NNS telecommunications) (NNS products) )))
+          (CC and) 
+          (NX 
+            (NX (NN provider) )
+            (PP (IN of) 
+              (NP (NNS telecommunications) 
+                (CC and)
+                (NN computer) (NNS services) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Memotec) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN agreement) )
+          (VP (VBZ calls) 
+            (SBAR (IN for) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (TO to) 
+                  (VP (VB make) 
+                    (NP 
+                      (NP (DT a) 
+                        (ADJP ($ $) (JJ 20-a-share) (-NONE- *U*) )
+                        (NN cash) (NN tender) (NN offer) )
+                      (PP (IN for) 
+                        (NP 
+                          (NP (DT all) (NNS shares) )
+                          (ADJP (JJ outstanding) )
+                          (PP (IN of) 
+                            (NP (NNP ISI) )))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (NNP Charles) (NNP Johnston) )
+            (, ,) 
+            (NP (NNP ISI) (NN chairman) 
+              (CC and)
+              (NN president) )
+            (, ,) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB sell) 
+                  (NP 
+                    (NP (PRP$ his) 
+                      (ADJP (CD 60) (NN %) )
+                      (NN stake) )
+                    (PP (IN in) 
+                      (NP (NNP ISI) )))
+                  (PP-DTV (TO to) 
+                    (NP (NNP Memotec) ))
+                  (PP-TMP (IN upon) 
+                    (NP 
+                      (NP (NN completion) )
+                      (PP (IN of) 
+                        (NP (DT the) (NN tender) (NN offer) ))))
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (NP (DT a) (NN combination) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NN cash) )
+                          (, ,) 
+                          (NP (NNP Memotec) (NN stock) )
+                          (CC and) 
+                          (NP (NNS debentures) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Memotec) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN tender) (NN offer) )
+          (VP (VBZ is) 
+            (VP (VBN conditioned) 
+              (NP (-NONE- *-1) )
+              (PP-CLR (IN on) 
+                (PRN 
+                  (, ,)
+                  (PP (IN among) 
+                    (NP (JJ other) (NNS things) ))
+                  (, ,) )
+                (NP 
+                  (NP (NNS holders) )
+                  (VP (VBG tendering) 
+                    (NP 
+                      (NP 
+                        (QP (IN at) (JJS least) (CD 15) )
+                        (NN %) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP 
+                            (NP (DT the) (NNS shares) )
+                            (ADJP (JJ outstanding) ))
+                          (, ,) 
+                          (ADJP 
+                            (ADJP (JJ other) )
+                            (PP (IN than) 
+                              (NP 
+                                (NP (DT the) (NNS shares) )
+                                (VP (VBN held) 
+                                  (NP (-NONE- *) )
+                                  (PP (IN by) 
+                                    (NP-LGS (NNP Mr.) (NNP Johnston) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP ISI) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN board) )
+          (VP (VBZ has) 
+            (VP (VBN instructed) 
+              (NP-1 (NN management) )
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB accept) 
+                    (NP 
+                      (NP (NNS inquiries) )
+                      (PP (IN from) 
+                        (NP 
+                          (NP (DT any) (NNS others) )
+                          (VP (VBN interested) 
+                            (NP-2 (-NONE- *) )
+                            (PP-CLR (IN in) 
+                              (S-NOM 
+                                (NP-SBJ (-NONE- *-2) )
+                                (VP (VBG making) 
+                                  (NP (DT a) (NN bid) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP ISI) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD can) 
+            (VP (VB withdraw) 
+              (PP-CLR (IN from) 
+                (NP 
+                  (NP (DT the) (NN merger) (NN agreement) )
+                  (PP (IN with) 
+                    (NP (NNP Memotec) ))))
+              (SBAR-ADV (IN if) 
+                (S 
+                  (NP-SBJ (DT a) (JJR better) (NN bid) )
+                  (VP (VBZ surfaces) ))))))))
+    (. .) ))

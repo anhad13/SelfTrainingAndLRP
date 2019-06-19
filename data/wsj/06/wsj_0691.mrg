@@ -1,0 +1,55 @@
+
+( (S 
+    (NP-SBJ (NNP SharesBase) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB reduce) 
+              (NP (PRP$ its) (JJ 221-person) (NN work) (NN force) )
+              (PP-EXT (IN by) 
+                (NP 
+                  (QP (RB about) (CD 25) )
+                  (NN %) ))
+              (, ,) 
+              (ADJP (JJ effective) 
+                (NP-TMP (NN tomorrow) ))
+              (, ,) 
+              (PP (IN in) 
+                (NP (DT an) (NN effort) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB stem) 
+                        (NP (VBG continuing) (NNS losses) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN company) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ makes) 
+            (NP (NN data) (NN base) (NNS systems) 
+              (CC and)
+              (NN software) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB report) 
+                  (NP (DT a) (NN loss) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (DT the) (JJ third) (NN quarter) )
+                      (VP (VBD ended) 
+                        (NP-TMP (NNP Sept.) (CD 30) )))))))))))
+    (. .) ))

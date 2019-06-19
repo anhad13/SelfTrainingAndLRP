@@ -1,0 +1,56 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Rhone-Poulenc) (NNP S.A.) )
+      (, ,) 
+      (NP-LOC (NNP Paris) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD completed) 
+            (NP 
+              (NP (DT the) (NN purchase) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN specialty) (NNS chemicals) (NN operation) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP RTZ) (NNP Corp.) )
+                      (, ,) 
+                      (NP (DT a) (JJ British) 
+                        (UCP (NN mining) 
+                          (CC and)
+                          (JJ industrial) )
+                        (NN group) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Rhone-Poulenc) )
+      (, ,) 
+      (NP (DT a) (NN chemical) 
+        (CC and)
+        (JJ pharmaceutical) (NN company) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP RTZ) (NNP Chemicals) )
+          (VP (VBZ has) 
+            (NP 
+              (NP (JJ annual) (NNS sales) )
+              (PP (IN of) 
+                (NP 
+                  (QP (RB about) ($ $) (CD 900) (CD million) )
+                  (-NONE- *U*) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB release) 
+        (NP 
+          (NP (NNS terms) )
+          (PP (IN of) 
+            (NP (DT the) (NN transaction) )))))
+    (. .) ))

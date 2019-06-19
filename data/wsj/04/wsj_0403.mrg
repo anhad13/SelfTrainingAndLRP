@@ -1,0 +1,82 @@
+
+( (NP-HLN (NNP Seasonal) (NNP Stackup) ))
+( (S 
+    (NP-SBJ-2 (NN Air-traffic) (NNS problems) )
+    (, ,) 
+    (SBAR-ADV (RB though) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (ADVP-TMP (RB often) )
+        (ADJP-PRD (RB quite) (JJ grim) )))
+    (, ,) 
+    (NP-TMP 
+      (NP (DT This) (NN time) )
+      (PP (IN of) 
+        (NP (NN year) )))
+    (VP (VBP leave) 
+      (NP (PRP us) )
+      (PP-CLR (IN in) 
+        (NP (NNS stitches) ))
+      (, ,) 
+      (SBAR 
+        (WHADVP-1 (WRB When) )
+        (S 
+          (NP-SBJ (PRP we) )
+          (VP (VBP notice) 
+            (PP-LOC (IN around) 
+              (NP (PRP$ our) (NN airport) ))
+            (NP 
+              (NP (DT A) (NN holding) (NN pattern) )
+              (PP (IN for) 
+                (NP (NNS witches) )))
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (. .) ))
+((NP (: --) (NNP Edward) (NNP F.) (NNP Dempsey) (. .) ))
+( (NP-HLN (NNP Double-Jointed) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP I) )
+      (VP (VBP am) 
+        (PP-LOC-PRD (RB beside) 
+          (NP (PRP myself) ))))
+    (, ,) ('' '') 
+    (NP-SBJ-2 (PRP I) )
+    (VP (VBP 've) 
+      (VP (VBD said) 
+        (S (-NONE- *T*-1) )
+        (PP-TMP (IN in) 
+          (NP 
+            (NP (NNS moments) )
+            (PP (IN of) 
+              (NP (NN heat) ))))
+        (, ,) 
+        (PP (IN Without) 
+          (S-NOM 
+            (NP-SBJ-3 (-NONE- *-2) )
+            (ADVP-TMP (RB ever) )
+            (VP (VBG bothering) 
+              (S 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (TO To) 
+                  (VP (VB marvel) 
+                    (PP-CLR (IN at) 
+                      (NP (DT the) (NN feat) ))))))))))
+    (. .) ))
+((NP (: --) (NNP Joshua) (NNP Adams) (. .) ))
+( (NP-HLN (NNP Humility) (NNP Helper) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ ultimate) (NN blow) )
+      (PP (TO to) 
+        (NP (DT the) (NN ego) )))
+    (VP (VBZ is) 
+      (VP (VBG learning) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (RB even) (PRP$ your) (NNS mistakes) )
+            (VP (VBP go) 
+              (S-CLR 
+                (NP-SBJ (-NONE- *-1) )
+                (ADJP-PRD (JJ unnoticed) )))))))
+    (. .) ))
+((NP (: --) (NNP Ivern) (NNP Ball) (. .) ))

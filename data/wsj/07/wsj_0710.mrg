@@ -1,0 +1,61 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (PRP$ Your) 
+        (ADJP (NNP Sept.) (CD 25) )
+        (NN criticism) )
+      (PP (IN of) 
+        (NP (NN credit-card) (NN foreign-exchange) (NNS charges) )))
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ unwarranted) ))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP I) )
+      (VP (VBP have) 
+        (VP 
+          (ADVP (RB just) )
+          (VBN returned) 
+          (PP-CLR (IN from) 
+            (NP (NNP France) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (DT the) (JJ net) (NN exchange) (NN rate) )
+        (VP (VBN charged) 
+          (NP (-NONE- *) )
+          (PP-CLR (IN on) 
+            (NP (PRP$ my) (NNP Visa) (NN account) ))))
+      (VP (VBD was) 
+        (ADJP-PRD 
+          (ADJP (RBR more) (JJ favorable) )
+          (SBAR (IN than) 
+            (S 
+              (NP-SBJ (PRP I) )
+              (VP (VBD obtained) 
+                (PP-CLR (IN for) 
+                  (NP 
+                    (NP (NN traveler) (POS 's) )
+                    (NNS checks) ))
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (DT any) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (JJ several) (NNS banks) )
+                        (SBAR 
+                          (WHADVP-1 (WRB where) )
+                          (S 
+                            (NP-SBJ (PRP I) )
+                            (VP (VBD converted) 
+                              (NP (PRP them) )
+                              (ADVP-LOC (-NONE- *T*-1) ))))))))))))))
+    (. .) ))
+( (NP 
+    (NP (NNP Vincent) (NNP Jolivet) )
+    (NP-LOC 
+      (NP (NNP Kenmore) )
+      (, ,) 
+      (NP (NNP Wash) ))
+    (. .) ))

@@ -1,0 +1,178 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP Federal) (NNP National) (NNP Mortgage) (NNP Association) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (CD 39) (NNS lenders) )
+            (PP-LOC (IN across) 
+              (NP (DT the) (NNP U.S.) )))
+          (VP (VBP have) 
+            (VP (VBN agreed) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB offer) 
+                    (NP (NN home) (NNS loans) )
+                    (PP-LOC (IN under) 
+                      (NP 
+                        (NP 
+                          (NP (NNP Fannie) (NNP Mae) (POS 's) )
+                          (NN pilot) (NN program) )
+                        (PP (IN for) 
+                          (NP (JJ elderly) (NNS people) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Fannie) (NNP Mae) )
+      (, ,) 
+      (NP (DT a) 
+        (ADJP 
+          (ADJP (RB federally) (JJ chartered) )
+          (CC and) 
+          (ADJP (JJ shareholder-owned) ))
+        (NN company) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS lenders) )
+          (VP (VBP include) 
+            (NP 
+              (NP (NNP Prudential) (NNP Home) (NNP Mortgage) (NNP Co.) )
+              (, ,) 
+              (NP 
+                (NP (DT a) (NN unit) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Prudential) (NNP Insurance) (NNP Co.) )
+                    (PP (IN of) 
+                      (NP (NNP America) ))))
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBZ operates) 
+                      (PP-LOC (IN in) 
+                        (NP (DT every) (NN state) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Prudential) (NNP Insurance) )
+    (VP (VBZ is) 
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Newark) )
+            (, ,) 
+            (NP (NNP N.J) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNP Fannie) (NNP Mae) )
+    (VP (VBZ has) 
+      (VP (VBN agreed) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP 
+                (NP 
+                  (QP (RB as) (RB much) (IN as) ($ $) (CD 100) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN of) 
+                  (NP (NNS loans) )))
+              (PP-LOC (IN under) 
+                (NP 
+                  (NP 
+                    (NP (PRP$ its) (NNS Seniors) (POS ') )
+                    (NNP Housing) (NNPS Opportunities) (NN pilot) (NN program) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-1 (WDT which) )
+                    (S 
+                      (NP-SBJ-3 (-NONE- *T*-1) )
+                      (VP (VBZ offers) 
+                        (NP 
+                          (NP (CD four) (NNS types) )
+                          (PP (IN of) 
+                            (NP (NNS loans) )))
+                        (PP-DTV (TO to) 
+                          (NP 
+                            (NP (NNS people) )
+                            (UCP 
+                              (NP 
+                                (NP (CD 62) (NNS years) )
+                                (PP (IN of) 
+                                  (NP (NN age) )))
+                              (CC or) 
+                              (ADJP (JJR older) ))))
+                        (S-PRP 
+                          (NP-SBJ (-NONE- *-3) )
+                          (VP (TO to) 
+                            (VP (VB help) 
+                              (S 
+                                (NP-SBJ (PRP them) )
+                                (VP 
+                                  (VP (VB maintain) 
+                                    (NP (PRP$ their) (NN home) ))
+                                  (CC or) 
+                                  (VP (VB obtain) 
+                                    (NP (NN housing) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS loans) )
+    (VP (MD can) 
+      (VP (VB be) 
+        (PP-PRD 
+          (PP (IN for) 
+            (NP (JJ accessory) (NNS apartments) ))
+          (, ,) 
+          (PP (IN for) 
+            (NP 
+              (NP (NNS cottages) )
+              (VP (VBN built) 
+                (NP (-NONE- *) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (DT a) (NN relative) (POS 's) )
+                    (NN yard) )))))
+          (, ,) 
+          (PP (IN for) 
+            (NP (NN home-sharing) ))
+          (CC or) 
+          (PP (IN for) 
+            (NP (JJ sale-lease-back) (NNS transactions) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Fannie) (NNP Mae) )
+    (VP (VBZ makes) 
+      (NP 
+        (NP (DT a) (JJ secondary) (NN market) )
+        (PP-LOC (IN in) 
+          (NP (NN home) (NNS loans) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP 
+      (VP (VBZ buys) 
+        (NP (NNS loans) )
+        (PP-CLR (IN from) 
+          (NP (NNS lenders) )))
+      (, ,) 
+      (VP (VBZ packages) 
+        (NP (DT some) )
+        (PP-CLR (IN into) 
+          (NP 
+            (NP (NNS securities) )
+            (PP (IN for) 
+              (NP 
+                (NP (NN sale) )
+                (PP (TO to) 
+                  (NP (NNS investors) )))))))
+      (CC and) 
+      (VP (VBZ holds) 
+        (NP (DT the) (NN remainder) )
+        (PP-LOC-CLR (IN in) 
+          (NP (DT a) (NN portfolio) ))))
+    (. .) ))

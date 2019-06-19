@@ -1,0 +1,166 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ recent) (NNS bids) )
+      (PP (IN for) 
+        (NP (NNP United) 
+          (CC and)
+          (NNP American) (NNPS Airlines) )))
+    (VP (VBP have) 
+      (VP (VBN led) 
+        (S 
+          (NP-SBJ-1 (NNP Congress) )
+          (VP (TO to) 
+            (VP (VB move) 
+              (PP-MNR (IN with) 
+                (NP (JJ supersonic) (NN speed) ))
+              (S-PRP-CLR 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB protect) 
+                    (NP (JJ incumbent) (NN airline) (NNS managements) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (DT The) (NNP House) )
+    (VP (VBZ is) 
+      (VP (VBN scheduled) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB vote) 
+              (NP-TMP (NN today) )
+              (PP-CLR (IN on) 
+                (NP 
+                  (NP (DT an) (JJ anti-airline-takeover) (NN bill) )
+                  (SBAR 
+                    (WHNP-1 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (MD would) 
+                        (VP (VB block) 
+                          (, ,)
+                          (PP-TMP (IN for) 
+                            (NP 
+                              (QP (IN up) (TO to) (CD 50) )
+                              (NNS days) ))
+                          (, ,) 
+                          (NP 
+                            (NP 
+                              (NP (DT any) (NN bid) )
+                              (PP (IN for) 
+                                (NP 
+                                  (NP 
+                                    (QP (CD 15) (NN %) (CC or) (JJR more) )
+                                    (-NONE- *U*) )
+                                  (PP (IN of) 
+                                    (NP (DT a) (NNP U.S.) (NN airline) )))))
+                            (, ,) 
+                            (NP (RB even) (DT a) (JJ straight) (NN cash) (NN purchase) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Transportation) (NNP Secretary) (NNP Sam) (NNP Skinner) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (ADVP-TMP (RBR earlier) )
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD fueled) 
+            (NP (DT the) (JJ anti-takeover) (NNS fires) )
+            (PP-MNR (IN with) 
+              (NP 
+                (NP (PRP$ his) (JJ quasi-xenophobic) (NNS attacks) )
+                (PP (IN on) 
+                  (NP 
+                    (NP (JJ foreign) (NN investment) )
+                    (PP (IN in) 
+                      (NP (NNP U.S.) (NNS carriers) )))))))))
+      (, ,) )
+    (ADVP-TMP (RB now) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN bill) )
+          (VP (MD would) 
+            (VP 
+              (ADVP (RB further) )
+              (VB disturb) 
+              (NP (DT the) (JJ jittery) (NN capital) (NNS markets) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Texas) (NNP Rep.) (NNP Steve) (NNP Bartlett) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ has) 
+            (NP (CD 40,000) (NNP American) (NNPS Airlines) (NNS workers) )
+            (PP-LOC (IN in) 
+              (NP (PRP$ his) (NN district) )))))
+      (, ,) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN bill) )
+          (VP (VBZ is) (`` ``) 
+            (NP-PRD 
+              (NP (JJ good) (NNS politics) )
+              (, ,) (CC but) 
+              (NP (JJ bad) (NN law) ))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (PRP It) )
+      (SBAR (-NONE- *EXP*-1) ))
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ ironic) )
+      (SBAR-1 (IN that) 
+        (S 
+          (PP-TMP (IN at) 
+            (NP 
+              (NP (DT a) (NN time) )
+              (SBAR 
+                (WHADVP-4 (WRB when) )
+                (S 
+                  (NP-SBJ-2 
+                    (NP (NNP America) (POS 's) )
+                    (JJ partial) (NN airline) (NN deregulation) )
+                  (VP (VBZ is) 
+                    (VP (VBG being) 
+                      (VP (VBN emulated) 
+                        (NP (-NONE- *-2) )
+                        (PP (IN by) 
+                          (NP-LGS 
+                            (NP (NNS governments) )
+                            (PP-LOC 
+                              (PP (IN from) 
+                                (NP (NNP New) (NNP Zealand) ))
+                              (PP (TO to) 
+                                (NP (NNP Ethiopia) )))))
+                        (ADVP-TMP (-NONE- *T*-4) ))))))))
+          (, ,) 
+          (NP-SBJ 
+            (NP (RB so) (JJ many) )
+            (PP-LOC (IN in) 
+              (NP (NNP Congress) )))
+          (VP (VBP favor) 
+            (NP 
+              (NP (DT an) (JJ incumbent-protection) (NN program) )
+              (PP (IN for) 
+                (NP (NNS airlines) ))
+              (SBAR 
+                (WHNP-3 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-3) )
+                  (VP (MD would) 
+                    (VP (VB be) 
+                      (ADJP-PRD (RBR more) (JJ appropriate) )
+                      (PP (IN for) 
+                        (NP 
+                          (NP (DT the) (JJ Soviet) (NN airline) )
+                          (, ,) 
+                          (NP (NNP Aeroflot) ))))))))))))
+    (. .) ))

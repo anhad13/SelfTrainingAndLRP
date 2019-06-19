@@ -1,0 +1,210 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Applied) (NNP Solar) (NNP Energy) (NNP Corp.) )
+      (PP (IN of) 
+        (NP 
+          (NP 
+            (NP (NNP City) )
+            (PP (IN of) 
+              (NP (NNP Industry) )))
+          (, ,) 
+          (NP-LOC (NNP Calif.) )
+          (, ,) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP it) )
+            (CC and) 
+            (NP 
+              (NP (PRP$ its) (NN majority) (NN shareholder) )
+              (, ,) 
+              (NP (NNP American) (NNP Cyanamid) (NNP Co.) )
+              (, ,) ))
+          (VP (VBD signed) 
+            (NP 
+              (NP (DT a) (JJ non-binding) (NN letter) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN intent) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (DT the) (NN acquisition) )
+                      (PP (IN of) 
+                        (NP (NNP Applied) (NNP Solar) ))
+                      (PP (IN by) 
+                        (NP (NNP McDonnell) (NNP Douglas) (NNP Corp.) ))
+                      (PP (IN for) 
+                        (NP 
+                          (QP (RB about) ($ $) (CD 38) (CD million) )
+                          (-NONE- *U*) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ proposed) (NN acquisition) )
+    (VP (VBZ provides) 
+      (PP-CLR (IN for) 
+        (NP 
+          (NP 
+            (NP (DT a) (NN cash) (NN payment) )
+            (PP (IN of) 
+              (NP 
+                (NP ($ $) (CD 10) (-NONE- *U*) )
+                (NP-ADV (DT a) (NN share) )))
+            (PP-TMP (IN at) 
+              (NP (NN closing) )))
+          (CC and) 
+          (NP 
+            (NP 
+              (NP (DT a) (JJ contingent) (NN payment) )
+              (PP (IN of) 
+                (NP 
+                  (NP (RB as) (JJ much) )
+                  (PP (IN as) 
+                    (NP 
+                      (NP (CD 80) (NNS cents) )
+                      (NP-ADV (DT a) (NN share) ))))))
+            (VP (VBN placed) 
+              (NP (-NONE- *) )
+              (PP-LOC-CLR (IN in) 
+                (NP (NN escrow) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (NNS Details) )
+        (PP (IN of) 
+          (NP (DT the) (NN escrow) (NN agreement) )))
+      (VP (VBP have) (RB n't) 
+        (VP (VBN been) 
+          (VP (VBN completed) 
+            (NP (-NONE- *-1) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS companies) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (EX There) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP 
+          (QP (CD 3.5) (CD million) )
+          (NNS shares) )
+        (PP (IN of) 
+          (NP (NNP Applied) (NNP Solar) ))
+        (, ,) 
+        (SBAR 
+          (WHPP-1 (IN of) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ (NNP American) (NNP Cyanamid) )
+            (VP (VBZ owns) 
+              (NP 
+                (NP (CD 2.7) (CD million) )
+                (PP (-NONE- *T*-1) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP American) (NNP Cyanamid) )
+    (VP (VBZ is) 
+      (NP-PRD (DT a) 
+        (NP 
+          (NP (NNP Wayne) )
+          (, ,) 
+          (NP (NNP N.J.) )
+          (, ,) )
+        (NNS chemicals) 
+        (, ,)
+        (NNS drugs) 
+        (CC and)
+        (NN fertilizer) (NN concern) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Completion) )
+      (PP (IN of) 
+        (NP (DT the) (NN acquisition) )))
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ subject) 
+        (PP (TO to) 
+          (NP 
+            (NP 
+              (NP (NN execution) )
+              (PP (IN of) 
+                (NP (DT a) (JJ definitive) (NN agreement) )))
+            (, ,) 
+            (NP 
+              (NP (NN approval) )
+              (PP (IN by) 
+                (NP 
+                  (NP (DT all) (CD three) (NNS companies) (POS ') )
+                  (NNS boards) )))
+            (CC and) 
+            (NP 
+              (NP (DT the) (NN approval) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP Applied) (NNP Solar) (POS 's) )
+                  (NNS shareholders) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT An) (NNP Applied) (NNP Solar) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NN completion) )
+          (VP (VBZ is) 
+            (VP (VBN expected) 
+              (NP (-NONE- *-1) )
+              (UCP-TMP 
+                (PP (IN at) 
+                  (NP 
+                    (NP (DT the) (NN end) )
+                    (PP (IN of) 
+                      (NP (DT the) (NN year) ))))
+                (CC or) 
+                (ADVP (RB early) 
+                  (NP (JJ next) (NN year) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN spokeswoman) )
+      (PP (IN for) 
+        (NP (DT the) (NNP St.) (NNP Louis) (NN aerospace) 
+          (CC and)
+          (NN defense) (NN concern) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD wanted) 
+            (NP (DT the) (NN acquistion) )
+            (SBAR-PRP (IN because) 
+              (S 
+                (S 
+                  (NP-SBJ-1 (NNP Applied) (NNP Solar) )
+                  (VP (VBZ is) 
+                    (VP (VBN involved) 
+                      (NP (-NONE- *-1) )
+                      (PP-CLR (IN in) 
+                        (NP 
+                          (NP (JJ solar) (NNS cells) )
+                          (CC and) 
+                          (NP (JJ solid-state) (NN laser) (NNS components) ))))))
+                (, ,) 
+                (CC and)
+                (S 
+                  (NP-SBJ (DT this) )
+                  (VP (VBZ fits) 
+                    (PP-CLR (IN with) 
+                      (NP 
+                        (NP 
+                          (NP (NNP McDonnell) (POS 's) )
+                          (NN business) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NN laser) (NNS applications) )
+                            (PP (IN for) 
+                              (NP (JJ military) (NN space) ))))))))))))))
+    (. .) ))

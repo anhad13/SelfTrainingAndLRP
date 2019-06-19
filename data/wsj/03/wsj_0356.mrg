@@ -1,0 +1,137 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Rally) (POS 's) )
+      (NN Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD adopted) 
+            (NP (DT a) (NNS shareholders) (NNS rights) (NN plan) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB protect) 
+                    (NP (NNS shareholders) )
+                    (PP-CLR (IN from) 
+                      (NP (DT an) 
+                        (ADJP (RB inadequately) (VBN priced) )
+                        (NN takeover) (NN offer) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN plan) )
+    (VP (VBZ provides) 
+      (PP-CLR (IN for) 
+        (NP 
+          (NP (DT the) (NN distribution) )
+          (PP (IN of) 
+            (NP (CD one) (JJ common) (JJ stock-purchase) (NN right) ))
+          (PP (IN as) 
+            (NP 
+              (NP (DT a) (NN dividend) )
+              (PP (IN for) 
+                (NP 
+                  (NP (DT each) (NN share) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (JJ common) )
+                      (ADJP (JJ outstanding) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Each) (NN right) )
+    (VP (VBZ entitles) 
+      (S 
+        (NP-SBJ (NNS shareholders) )
+        (VP (TO to) 
+          (VP (VB buy) 
+            (NP 
+              (NP (JJ one-half) (NN share) )
+              (PP (IN of) 
+                (NP (JJ common) )))
+            (PP-CLR (IN for) 
+              (NP ($ $) (CD 30) (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-TMP (RBR Earlier) (DT this) (NN month) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT a) (NN group) )
+      (VP (VBN led) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP 
+              (NP (CD three) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (NNS directors) )))
+            (, ,) 
+            (NP 
+              (NP (NNP Burt) (NNP Sugarman) )
+              (, ,) 
+              (NP (NNP James) (NNP M.) (NNP Trotter) (NNP III) )
+              (CC and) 
+              (NP (NNP Willam) (NNP E.) (NNP Trotter) (NNP II) ))
+            (, ,) ))))
+    (VP (VBD indicated) 
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD had) 
+              (NP 
+                (NP (DT a) 
+                  (ADJP (CD 45.2) (NN %) )
+                  (NN stake) )
+                (PP (IN in) 
+                  (NP (DT the) 
+                    (NAC-LOC (NNP Louisville) 
+                      (, ,)
+                      (NNP Ky.) 
+                      (, ,)
+                      )
+                    (NN fast-food) (NN company) ))))))
+        (CC and) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (PRP it) )
+            (VP (VBD planned) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB seek) 
+                    (NP 
+                      (NP (DT a) (NN majority) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNS seats) )
+                          (PP-LOC (IN on) 
+                            (NP 
+                              (NP (NNP Rally) (POS 's) )
+                              (JJ nine-member) (NN board) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD was) 
+            (VP (`` ``) (VBN concerned) 
+              (PP-CLR (IN about) 
+                (NP 
+                  (NP (DT the) (JJ announced) (NN intent) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB acquire) 
+                          (NP 
+                            (NP (NN control) )
+                            (PP (IN of) 
+                              (NP (DT the) (NN company) )))))))
+                  ('' '') 
+                  (PP (IN by) 
+                    (NP (DT a) (JJ Sugarman-led) (NN group) )))))))))
+    (. .) ))

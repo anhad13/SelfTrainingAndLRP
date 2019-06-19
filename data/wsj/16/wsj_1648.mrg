@@ -1,0 +1,104 @@
+
+( (S 
+    (NP-SBJ (NNP Lufthansa) (NNP AG) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN passenger) (NN volume) )
+          (VP (VBD climbed) 
+            (NP-EXT (CD 5.2) (NN %) )
+            (PP-TMP (IN for) 
+              (NP 
+                (NP (DT the) (JJ first) (CD nine) (NNS months) )
+                (PP (IN of) 
+                  (NP (CD 1989) ))))
+            (PP-DIR (TO to) 
+              (NP 
+                (QP (CD 15.3) (CD million) )
+                (NNS passengers) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (QP (CD 14.5) (CD million) )
+                (NNS passengers) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ year-earlier) (NN period) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (ADJP (JJ West) (JJ German) )
+      (JJ national) (NN air) (NN carrier) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN cargo) (NN volume) )
+          (VP (VBD jumped) 
+            (NP-EXT (CD 12) (NN %) )
+            (PP-DIR (TO to) 
+              (NP (CD 638,000) (JJ metric) (NNS tons) ))
+            (PP-DIR (IN from) 
+              (NP (CD 569,000) (NNS tons) )
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (RB ago) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Load) (NN factor) )
+      (, ,) (CC or) 
+      (NP 
+        (NP (NN percentage) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS seats) )
+            (VP (VBN filled) 
+              (NP (-NONE- *) )))))
+      (, ,) )
+    (VP (VBN climbed) 
+      (PP-DIR (TO to) 
+        (NP (CD 67.1) (NN %) ))
+      (PP-DIR (IN from) 
+        (NP (CD 66.6) (NN %) ))
+      (, ,) 
+      (SBAR-ADV (RB even) (IN though) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN number) )
+            (PP (IN of) 
+              (NP (NNS flights) )))
+          (VP (VBD rose) 
+            (NP-EXT (CD 6.9) (NN %) )
+            (PP-DIR (TO to) 
+              (NP (CD 215,845) ))
+            (PP-TMP (IN in) 
+              (NP (DT the) (JJ first-three) (NNS quarters) ))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (PP-TMP 
+        (PP (IN From) 
+          (NP (NNP January) ))
+        (PP (IN through) 
+          (NP (NNP September) )))
+      (, ,) 
+      (NP-SBJ 
+        (NP (DT the) (NN distance) )
+        (VP (VBN flown) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (NNP Lufthansa) (NNS airplanes) ))))
+      (VP (VBD rose) 
+        (NP-EXT (CD 5.6) (NN %) )
+        (PP-DIR (TO to) 
+          (NP 
+            (QP (CD 266.2) (CD million) )
+            (NNS kilometers) ))
+        (PP-DIR (IN from) 
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

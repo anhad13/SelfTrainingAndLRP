@@ -1,0 +1,111 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Lyphomed) (NNP Inc.) )
+        (, ,) 
+        (NP 
+          (NP (NNP Rosemont) )
+          (, ,) 
+          (NP (NNP Ill.) ))
+        (, ,) )
+      (CC and) 
+      (NP 
+        (NP (NNP Medco) (NNP Research) (NNP Inc.) )
+        (, ,) 
+        (NP (NNP Los) (NNP Angeles) )
+        (, ,) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNP Food) 
+            (CC and)
+            (NNP Drug) (NNP Administration) )
+          (VP (VBD granted) 
+            (NP 
+              (NP (JJ full) (NN marketing) (NN approval) )
+              (PP (IN for) 
+                (NP 
+                  (NP (DT a) (JJ new) (NN drug) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (DT the) (NN treatment) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT a) (NN condition) )
+                          (SBAR 
+                            (WHPP-1 (IN in) 
+                              (WHNP (WDT which) ))
+                            (S 
+                              (NP-SBJ (DT the) (NN heart) )
+                              (VP (VBZ beats) 
+                                (NP 
+                                  (NP 
+                                    (QP (IN between) (CD 150) 
+                                      (CC and)
+                                      (CD 200) )
+                                    (NNS beats) )
+                                  (NP-ADV (DT a) (NN minute) ))
+                                (PP-LOC (-NONE- *T*-1) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN condition) )
+      (, ,) 
+      (VP (VBN known) 
+        (NP (-NONE- *) )
+        (PP-CLR (IN as) 
+          (NP (JJ paroxysmal) (JJ supraventricular) (NN tachycardia) )))
+      (, ,) )
+    (VP (VBZ leads) 
+      (PP-CLR (TO to) 
+        (NP (NN dizziness) 
+          (CC and)
+          (NN fainting) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ typical) (JJ healthy) (NN heart) )
+    (VP (VBZ beats) 
+      (NP 
+        (NP (CD 70) (NNS times) )
+        (NP-ADV (DT a) (NN minute) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN drug) )
+      (, ,) 
+      (VP (VBN called) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (NP-PRD (NN adenocard) )))
+      (, ,) )
+    (VP (VBZ returns) 
+      (NP (DT the) (NN heart) )
+      (PP-CLR (TO to) 
+        (NP (DT a) (JJ normal) (NN rhythm) ))
+      (PP-TMP (IN within) 
+        (NP (NNS seconds) ))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP (NNP Lyphomed) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Medco) (NNP Research) )
+    (VP 
+      (VP (VBD developed) 
+        (NP (DT the) (NN drug) ))
+      (CC and) 
+      (VP (VBD licensed) 
+        (NP (PRP it) )
+        (PP-CLR (TO to) 
+          (NP (NNP Lyphomed) ))
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (NN sale) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT the) (NNP U.S.) )
+                (CC and) 
+                (NP (NNP Canada) )))))))
+    (. .) ))

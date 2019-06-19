@@ -1,0 +1,44 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Robert) (NNP L.) (NNP Wood) )
+      (, ,) 
+      (NP (JJ 37-year-old) (JJ chief) (JJ financial) (NN officer) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN chairman) )
+              (CC and) 
+              (NP (JJ chief) (NN executive) (NN officer) ))
+            (PP (IN of) 
+              (NP (DT this) (JJ independent) (NN power) (NN producer) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG succeeding) 
+            (NP 
+              (NP (NNP Raymond) (NNP L.) (NNP Hixson) )
+              (, ,) 
+              (NP (CD 63) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Hixson) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD resigned) 
+            (PP-TMP (JJ effective) 
+              (NP (NNP Jan.) (CD 1) ))
+            (PP-PRP (IN for) 
+              (NP (NN health) (NNS reasons) )))))
+      (, ,) )
+    (VP (VBZ remains) 
+      (NP-PRD (DT a) (NN director) ))
+    (. .) ))

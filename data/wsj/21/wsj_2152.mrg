@@ -1,0 +1,77 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Britain) (POS 's) )
+      (JJ industrial) (NN production) )
+    (VP 
+      (VP (VBD rose) 
+        (NP-EXT (CD 1.5) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (NNP August) ))
+        (PP-TMP (IN from) 
+          (NP (NNP July) )))
+      (CC and) 
+      (VP (VBD was) 
+        (ADVP-PRD (IN up) 
+          (NP (CD 0.9) (NN %) )
+          (PP-TMP (IN from) 
+            (NP 
+              (NP (NNP August) )
+              (NP (CD 1988) )))))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (JJ provisional) (NNS data) )
+            (PP (IN from) 
+              (NP (DT the) (NNP Central) (NNP Statistical) (NNP Office) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Output) )
+      (PP (IN in) 
+        (NP (DT the) (NN energy) (NN sector) ))
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (MD can) 
+            (VP (VB vary) 
+              (ADVP-MNR (RB greatly) )
+              (PP (IN with) 
+                (NP 
+                  (NP (NNS swings) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NN oil) (NN market) ))))))))
+      (, ,) )
+    (VP 
+      (VP (VBD rose) 
+        (NP-EXT (CD 3.8) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (NNP August) ))
+        (PP-TMP (IN from) 
+          (NP (NNP May) )))
+      (CC but) 
+      (VP (VBD was) 
+        (ADVP-PRD (RB down) 
+          (NP (CD 7.1) (NN %) )
+          (PP-TMP (IN from) 
+            (ADVP 
+              (NP (DT a) (NN year) )
+              (RB earlier) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJS latest) (NNS figures) )
+    (VP (VBP compare) 
+      (PP-CLR (IN with) 
+        (NP 
+          (NP 
+            (NP (NNP July) (POS 's) )
+            (ADJP (CD 4.5) (NN %) )
+            (JJ month-to-month) (NN rise) )
+          (CC and) 
+          (NP 
+            (ADJP (CD 11.3) (NN %) )
+            (JJ year-to-year) (NN fall) ))))
+    (. .) ))

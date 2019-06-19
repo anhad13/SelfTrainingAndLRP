@@ -1,0 +1,82 @@
+
+( (S 
+    (NP-SBJ-1 (DT The) (NNP U.S.) (NNP Export-Import) (NNP Bank) )
+    (VP 
+      (ADVP-MNR (RB tentatively) )
+      (VBD decided) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB guarantee) 
+            (NP 
+              (NP (JJ commercial) (NN bank) (NN financing) )
+              (PP (IN for) 
+                (NP 
+                  (NP (DT the) (NN purchase) )
+                  (PP (IN of) 
+                    (NP (CD two) (NNP Boeing) (NNP Co.) (CD 767) (NNS airliners) ))
+                  (PP (IN by) 
+                    (NP 
+                      (NP (NNP Avianca) )
+                      (, ,) 
+                      (NP 
+                        (NP (NNP Colombia) (POS 's) )
+                        (JJ international) (NN airline) )
+                      (, ,) ))
+                  (PP (IN at) 
+                    (NP 
+                      (NP (DT a) (NN cost) )
+                      (PP (IN of) 
+                        (NP 
+                          (QP (IN about) ($ $) (CD 150) (CD million) )
+                          (-NONE- *U*) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN loan) (NN guarantee) )
+    (VP (MD would) 
+      (VP (VB amount) 
+        (PP-CLR (TO to) 
+          (NP 
+            (NP 
+              (QP (IN about) ($ $) (CD 127.5) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 85) (NN %) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN cost) )
+                  (PP (IN of) 
+                    (NP (DT the) (NN aircraft) )))))))))
+    (. .) ))
+( (S 
+    (PP-PRP (IN Because) (IN of) 
+      (NP 
+        (NP (DT the) (NN size) )
+        (PP (IN of) 
+          (NP (DT the) (VBN proposed) (NN loan) (NN guarantee) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP Ex-Im) (NNP Bank) (POS 's) )
+      (JJ preliminary) (NN commitment) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ subject) 
+        (PP (TO to) 
+          (VP 
+            (NP (VB review) )
+            (PP (IN by) 
+              (NP-LGS (DT the) (NNP House) 
+                (CC and)
+                (NNP Senate) (NNP Banking) (NNS committees) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ex-Im) (NNP Bank) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT this) (NN review) (NN process) )
+          (ADVP-TMP (RB currently) )
+          (VP (VBZ is) 
+            (PP-PRD (IN under) 
+              (NP (NN way) ))))))
+    (. .) ))

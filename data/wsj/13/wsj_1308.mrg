@@ -1,0 +1,110 @@
+
+( (S 
+    (S 
+      (NP-SBJ (PRP We) )
+      (VP (VBP 've) 
+        (VP (VBN heard) 
+          (S 
+            (NP-SBJ 
+              (NP (NNP California) (POS 's) )
+              (JJ property-tax-cutting) (NNP Proposition) (CD 13) )
+            (VP (VBN blamed) 
+              (PP-CLR (IN for) 
+                (NP (DT a) (NN lot) ))))
+          (PP-TMP (IN over) 
+            (NP (DT the) (NNS years) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (NNP ABC) (POS 's) )
+        (NNP Ted) (NNP Koppel) )
+      (VP (VBD came) 
+        (PRT (RP up) )
+        (PP-CLR (IN with) 
+          (NP (DT a) (JJ new) (NN wrinkle) ))
+        (PP-LOC (IN in) 
+          (NP (PRP$ his) (NN earthquake) (NN coverage) ))
+        (NP-TMP (JJ last) (NN week) )
+        (SBAR-TMP 
+          (WHADVP-1 (WRB when) )
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (VBD asked) 
+              (NP (NNP Democratic) (NNP Assemblyman) (NNP Richard) (NNP Katz) )
+              (SBAR (IN if) 
+                (S 
+                  (NP-SBJ (NNP Prop.) (CD 13) )
+                  (VP (VBD had) 
+                    (VP (VBN withheld) 
+                      (NP 
+                        (NP (NN money) )
+                        (VP (VBN needed) 
+                          (NP (-NONE- *) )
+                          (PP (IN for) 
+                            (NP (NN road) (NN maintenance) ))))))))
+              (ADVP-TMP (-NONE- *T*-1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Mr.) (NNP Katz) )
+    (ADVP-MNR (RB happily) )
+    (VP (VBD agreed) 
+      (, ,)
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG sliding) 
+          (PP-CLR (IN over) 
+            (NP (DT the) (NN fact) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ-2 
+                    (NP (NNP California) (POS 's) )
+                    (NNS roads) 
+                    (CC and)
+                    (NNS bridges) )
+                  (VP (VBP are) (RB n't) 
+                    (VP (VBN funded) 
+                      (NP (-NONE- *-2) )
+                      (PP 
+                        (PP (IN by) 
+                          (NP-LGS (NN property) (NNS taxes) ))
+                        (CC but) 
+                        (PP (IN by) 
+                          (NP-LGS 
+                            (UCP (NN state) 
+                              (CC and)
+                              (JJ federal) )
+                            (NN gasoline) (NNS taxes) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT Both) )
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (VP (VBN raised) 
+          (NP (-NONE- *-1) )
+          (NP-EXT 
+            (QP (IN at) (JJS least) (CD 30) )
+            (NN %) )
+          (PP-TMP (IN in) 
+            (NP (JJ recent) (NNS years) ))
+          (, ,) 
+          (SBAR-TMP (RB even) (IN while) 
+            (S 
+              (NP-SBJ 
+                (NP (DT the) (NN price) )
+                (PP (IN of) 
+                  (NP (NN gasoline) )))
+              (VP (VBZ has) 
+                (VP (VBN fallen) )))))))
+    (. .) ))
+( (S 
+    (S-NOM-SBJ 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBG Dragging) 
+        (NP (NNP Prop.) (CD 13) )
+        (PP-CLR (IN into) 
+          (NP (DT this) (NN story) ))))
+    (VP (VBZ is) 
+      (NP-PRD (DT a) 
+        (ADJP (RB pretty) (JJ long) )
+        (NN stretch) ))
+    (. .) ))

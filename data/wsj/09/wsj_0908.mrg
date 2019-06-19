@@ -1,0 +1,50 @@
+
+( (S 
+    (NP-SBJ (NNP Calgon) (NNP Carbon) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB build) 
+              (NP 
+                (NP (DT a) 
+                  (ADJP 
+                    (QP ($ $) (CD 40) (CD million) )
+                    (-NONE- *U*) )
+                  (NN plant) )
+                (PP (IN for) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG producing) 
+                      (NP (JJ granular) (VBN activated) (NN carbon) ))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (DT The) (NN maker) )
+        (PP (IN of) 
+          (NP (JJ water-treatment) (NNS chemicals) 
+            (CC and)
+            (NN equipment) )))
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (MD will) 
+              (VP (VB select) 
+                (NP (DT the) (NN plant) (NN site) )
+                (NP-TMP (JJ early) (JJ next) (NN year) )))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-1 (NN production) )
+      (VP (VBZ is) 
+        (VP (VBN expected) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB begin) 
+                (PP-TMP-CLR (IN in) 
+                  (NP (CD 1991) ))))))))
+    (. .) ))

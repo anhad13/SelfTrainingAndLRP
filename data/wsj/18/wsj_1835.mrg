@@ -1,0 +1,60 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Denis) (NNP C.) (NNP Smith) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (JJ new) (NN post) )
+            (PP (IN of) 
+              (NP 
+                (NP (NN vice) (NN president) )
+                (PP (IN of) 
+                  (NP (JJ world-wide) (JJ advanced) (NNS materials) (NNS operations) ))
+                (PP (IN for) 
+                  (NP (DT this) (NNS chemicals) (NN concern) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Smith) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 50) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (ADVP-TMP (RB formerly) )
+      (ADJP-PRD (JJ responsible) 
+        (PP (IN for) 
+          (NP 
+            (NP (JJ advanced) (NNS materials) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBP include) 
+                  (NP 
+                    (NP (JJ plastic) (NNS composites) )
+                    (CC and) 
+                    (NP (NNS alloys) ))))))))
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NNP North) (NNP America) )
+          (ADVP (RB only) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Himont) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ 81%-owned) 
+        (PP (IN by) 
+          (NP 
+            (NP (NNP Montedison) (NNP S.p) (. .) (NNP A.) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Milan) )
+                (, ,) 
+                (NP (NNP Italy) )))))))
+    (. .) ))

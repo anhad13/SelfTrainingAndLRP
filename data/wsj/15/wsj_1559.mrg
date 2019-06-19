@@ -1,0 +1,69 @@
+
+( (S 
+    (NP-SBJ (NNP CalMat) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD completed) 
+            (NP 
+              (NP (DT a) 
+                (ADJP 
+                  (QP ($ $) (CD 32.8) (CD million) )
+                  (-NONE- *U*) )
+                (NN sale) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNS assets) )
+                  (PP (IN from) 
+                    (NP (PRP$ its) (NNP Los) (NNP Angeles) (NN area) (JJ real) (NN estate) (NN portfolio) )))))
+            (PP (IN for) 
+              (NP 
+                (NP (JJ net) (NN income) )
+                (PP (IN of) 
+                  (NP 
+                    (QP ($ $) (CD 12) (CD million) )
+                    (-NONE- *U*) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN CalMat) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN sale) )
+          (VP (VBZ is) 
+            (NP-PRD 
+              (NP (NN part) )
+              (PP (IN of) 
+                (NP (PRP$ its) 
+                  (ADJP (RB previously) (VBN announced) )
+                  (NN plan) 
+                  (S 
+                    (NP-SBJ-1 (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB sell) 
+                        (NP 
+                          (NP (JJ much) )
+                          (PP (IN of) 
+                            (NP (PRP$ its) (JJ real) (NN estate) (NNS holdings) )))
+                        (S-PRP 
+                          (NP-SBJ (-NONE- *-1) )
+                          (VP (TO to) 
+                            (VP (VB focus) 
+                              (PP-CLR (IN on) 
+                                (NP 
+                                  (NP (PRP$ its) (NN core) (NN business) )
+                                  (PP (IN of) 
+                                    (S-NOM 
+                                      (NP-SBJ (-NONE- *) )
+                                      (VP (VBG mining) 
+                                        (CC and)
+                                        (VBG producing) 
+                                        (NP (NN asphalt) 
+                                          (, ,)
+                                          (NN concrete) 
+                                          (, ,)
+                                          (NN rock) 
+                                          (CC and)
+                                          (NN sand) )))))))))))))))))))
+    (. .) ))

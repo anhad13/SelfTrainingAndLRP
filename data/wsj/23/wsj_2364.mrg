@@ -1,0 +1,214 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Inland) (NNP Steel) (NNP Industries) (NNP Inc.) )
+    (VP (VBZ expects) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB report) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ (JJ third-quarter) (NNS earnings) )
+                (VP (VBD dropped) 
+                  (NP-EXT 
+                    (QP (JJR more) (IN than) (CD 50) )
+                    (NN %) )
+                  (PP-DIR (IN from) 
+                    (NP (DT the) (JJ previous) (NN quarter) ))
+                  (PP-PRP (IN as) 
+                    (NP 
+                      (NP (DT a) (NN result) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (JJ reduced) (NNS sales) (NN volume) )
+                          (CC and) 
+                          (NP (JJ increased) (NNS costs) ))))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (JJ second) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN steelmaker) )
+    (VP (VBD had) 
+      (NP 
+        (NP (JJ net) (NN income) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 45.3) (CD million) )
+                (-NONE- *U*) )
+              (CC or) 
+              (NP 
+                (NP ($ $) (CD 1.25) (-NONE- *U*) )
+                (NP-ADV (DT a) (NN share) ))))))
+      (, ,) 
+      (PP (VBG including) 
+        (NP 
+          (NP (DT a) (JJ pretax) (NN charge) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 17) (CD million) )
+              (-NONE- *U*) ))
+          (ADJP (VBN related) 
+            (PP (TO to) 
+              (NP 
+                (NP (DT the) (NN settlement) )
+                (PP (IN of) 
+                  (NP (DT a) (NN suit) )))))))
+      (, ,) 
+      (PP (IN on) 
+        (NP 
+          (NP (NNS sales) )
+          (PP (IN of) 
+            (NP ($ $) (CD 1.11) (CD billion) (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (JJ normal) (JJ seasonal) (NN softness) )
+            (CC and) 
+            (NP 
+              (NP (JJ lost) (NNS orders) )
+              (VP (VBN caused) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS (JJ prolonged) (NN labor) (NNS talks) )))))
+          (VP (VBD reduced) 
+            (NP (NNS shipments) )
+            (PP-EXT (IN by) 
+              (NP (CD 200,000) (NNS tons) ))
+            (PP-TMP (IN in) 
+              (NP (DT the) (JJS latest) (NN quarter) ))
+            (, ,) 
+            (PP (VBN compared) 
+              (PP (IN with) 
+                (NP (DT the) (JJ second) (NN quarter) )))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP (DT the) (JJ same) (NN time) ))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NN integrated-steel) (NN business) )
+    (VP (VBD was) 
+      (VP (VBN hurt) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP 
+              (NP (JJ continued) (NNS increases) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (NNS materials) (NNS costs) )
+                  (CC and) 
+                  (NP (NN repair) 
+                    (CC and)
+                    (NN maintenance) (NNS expenses) ))))
+            (, ,) 
+            (CONJP (RB as) (RB well) (IN as) )
+            (NP 
+              (NP (JJR higher) (NN labor) (NNS costs) )
+              (PP-LOC (IN under) 
+                (NP (PRP$ its) (JJ new) (NN contract) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-3 (DT The) (NN service-center) (NN business) )
+    (VP (VBD was) 
+      (VP (VBN hurt) 
+        (NP (-NONE- *-3) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (JJ reduced) (NNS margins) )
+            (CC and) 
+            (NP 
+              (NP (JJ start-up) (NNS costs) )
+              (ADJP (VBN associated) 
+                (PP (IN with) 
+                  (NP (PRP$ its) (NNP Joseph) (NNP T.) (NNP Ryerson) (CC &) (NNP Son) (NN unit) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG beginning) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB see) 
+                    (NP 
+                      (NP (DT some) (JJ shipping-rate) (NNS improvements) )
+                      (SBAR (-NONE- *ICH*-3) ))
+                    (PP-LOC (IN in) 
+                      (NP (CC both) (DT the) (NN intergrated-steel) 
+                        (CC and)
+                        (NN steel-service-center) (NNS segments) ))
+                    (, ,) 
+                    (SBAR-3 
+                      (WHNP-1 (WDT which) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (MD should) 
+                          (VP (VB result) 
+                            (PP-CLR (IN in) 
+                              (NP 
+                                (NP (JJ improved) (NNS results) )
+                                (PP (IN for) 
+                                  (NP (DT the) (JJ fourth) (NN quarter) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Inland) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP$ its) (JJ third-quarter) (NNS results) )
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBN announced) 
+                (NP (-NONE- *-1) )
+                (NP-TMP (RB later) (DT this) (NN week) )))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP 
+        (NP (DT the) (JJ year-earlier) (JJ third) (NN quarter) )
+        (, ,) 
+        (SBAR 
+          (WHADVP-1 (WRB when) )
+          (S 
+            (NP-SBJ (DT the) (NN industry) )
+            (VP (VBD was) 
+              (PP-LOC-PRD (IN in) 
+                (NP 
+                  (NP (DT the) (NN midst) )
+                  (PP (IN of) 
+                    (NP (DT a) (NN boom) ))))
+              (ADVP-TMP (-NONE- *T*-1) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD had) 
+      (NP 
+        (NP (NN net) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 61) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP ($ $) (CD 1.70) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) )))
+      (PP (IN on) 
+        (NP 
+          (NP (NNS sales) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 1.02) (CD billion) )
+              (-NONE- *U*) )))))
+    (. .) ))

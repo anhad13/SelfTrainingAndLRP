@@ -1,0 +1,131 @@
+
+( (S 
+    (NP-SBJ (NNP DeSoto) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG dismissing) 
+              (NP (CD 200) (NNS employees) )
+              (PP-CLR (IN as) 
+                (NP 
+                  (NP (NN part) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT a) (NN restructuring) )
+                      (VP (VBN aimed) 
+                        (NP (-NONE- *) )
+                        (PP-CLR (IN at) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (VBG producing) 
+                              (NP 
+                                (NP (JJ pretax) (NNS savings) )
+                                (PP (IN of) 
+                                  (NP 
+                                    (NP 
+                                      (QP ($ $) (CD 10) (CD million) )
+                                      (-NONE- *U*) )
+                                    (ADVP (RB annually) )))))))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NN plan) ))
+    (, ,) 
+    (NP-SBJ (NN DeSoto) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB sell) 
+              (NP 
+                (NP (JJ certain) (NNS assets) 
+                  (CC and)
+                  (NNS businesses) )
+                (SBAR 
+                  (WHNP-50 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-50) )
+                    (VP (VBP do) (RB n't) 
+                      (VP (VB meet) 
+                        (NP 
+                          (UCP (JJ strategic) 
+                            (CC and)
+                            (NN profitability) )
+                          (NNS objectives) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) 
+        (NAC-LOC (NNP Des) (NNP Plaines) 
+          (, ,)
+          (NNP Ill.) 
+          (, ,)
+          )
+        (JJ chemical) (NNS coatings) (NN concern) )
+      (, ,) 
+      (SBAR 
+        (WHNP-51 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-51) )
+          (VP (VBZ has) 
+            (NP 
+              (QP (RB about) (CD 2,000) )
+              (NNS employees) )
+            (ADVP-LOC (RB world-wide) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB sell) 
+                  (NP 
+                    (NP (PRP$ its) 
+                      (UCP (JJ domestic) (JJ rigid) (NN container) (NN packaging) 
+                        (CC and)
+                        (JJ flexible) (NNS adhesives) )
+                      (NNS businesses) )
+                    (, ,) 
+                    (CC and)
+                    (NP (PRP$ its) 
+                      (NAC-LOC (NNP Chicago) (NNP Heights) 
+                        (, ,)
+                        (NNP Ill.) 
+                        (, ,)
+                        )
+                      (NN resin) (NN plant) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB use) 
+                  (NP-2 (DT the) (NN sale) (NNS proceeds) )
+                  (S-CLR 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (TO to) 
+                      (VP (VB invest) 
+                        (PP-CLR (IN in) 
+                          (NP 
+                            (NP (NN business) (NNS opportunities) )
+                            (VP 
+                              (ADVP (RBR more) (RB closely) )
+                              (VBN identified) 
+                              (NP (-NONE- *) )
+                              (PP-CLR (IN with) 
+                                (NP 
+                                  (NP (DT the) (NN company) (VBZ 's) )
+                                  (`` ``) (VBN refocused) (NN direction) )))))))))))))))
+    (. .) ))

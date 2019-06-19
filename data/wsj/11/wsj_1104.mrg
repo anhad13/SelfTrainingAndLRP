@@ -1,0 +1,80 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP Mexico) )
+      (VP (VBD exported) 
+        (NP 
+          (NP (DT an) (NN average) )
+          (PP (IN of) 
+            (NP 
+              (NP (CD 1,296,800) (NNS barrels) )
+              (PP (IN of) 
+                (NP (NN crude) (NN oil) ))
+              (NP-ADV (DT a) (NN day) ))))
+        (PP (IN at) 
+          (NP 
+            (NP (DT an) (NN average) )
+            (PP (IN of) 
+              (NP 
+                (NP ($ $) (CD 15.31) (-NONE- *U*) )
+                (NP-ADV (DT a) (NN barrel) )))))
+        (PP-TMP (IN during) 
+          (NP 
+            (NP (CD 1989) (POS 's) )
+            (JJ first) (CD eight) (NNS months) ))
+        (PP (IN for) 
+          (NP 
+            (NP (DT a) (NN total) )
+            (PP (IN of) 
+              (NP 
+                (QP ($ $) (CD 4.82) (CD billion) )
+                (-NONE- *U*) ))))))
+    (, ,) 
+    (NP-SBJ (NNP Petroleos) (NNP Mexicanos) (NNP S.A.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN state) (NN petroleum) (NN monopoly) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS sales) )
+            (PP-TMP (IN in) 
+              (NP (DT the) (NN period) )))
+          (VP (VBD gained) 
+            (NP 
+              (NP-ADV (CD 15) (NN %) )
+              (, ,) 
+              (CC and)
+              (ADJP 
+                (ADJP 
+                  (NP 
+                    (QP ($ $) (CD 262.4) (CD million) )
+                    (-NONE- *U*) )
+                  (JJR more) )
+                (PP (IN than) 
+                  (SBAR-NOM 
+                    (WHNP-1 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ-2 (-NONE- *T*-1) )
+                      (ADVP-TMP (RB originally) )
+                      (VP (VBN projected) 
+                        (NP (-NONE- *-2) )))))))
+            (PP (IN at) 
+              (NP 
+                (NP (DT an) (NN average) )
+                (PP (IN of) 
+                  (NP 
+                    (NP ($ $) (CD 10) (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN barrel) )))))
+            (PP (IN on) 
+              (NP 
+                (NP (DT an) (NN export) (NN platform) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (CD 1,250,000) (NNS barrels) )
+                    (NP-ADV (DT a) (NN day) )))))))))
+    (. .) ))

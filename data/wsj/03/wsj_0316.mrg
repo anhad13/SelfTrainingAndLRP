@@ -1,0 +1,151 @@
+
+( (S 
+    (NP-SBJ (NNP First) (NNP Security) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (ADVP-MNR (RB tentatively) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB acquire) 
+                  (NP (NNP Deseret) (NNP Bancorp.) )
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (NP (NN stock) )
+                      (VP (VBN valued) 
+                        (NP (-NONE- *) )
+                        (PP-CLR (IN at) 
+                          (NP 
+                            (QP (RB about) ($ $) (CD 18) (CD million) )
+                            (-NONE- *U*) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Terms) )
+    (VP (VBP call) 
+      (SBAR (IN for) 
+        (S 
+          (NP-SBJ (NNP First) (NNP Security) )
+          (VP (TO to) 
+            (VP (VB issue) 
+              (NP 
+                (NP 
+                  (NP 
+                    (QP (RB about) (CD 0.55) )
+                    (NN share) )
+                  (PP (IN of) 
+                    (NP (PRP$ its) (NN stock) ))
+                  (PP (IN for) 
+                    (NP 
+                      (NP (DT each) (NNP Deseret) (NN share) )
+                      (VP (VBN held) 
+                        (NP (-NONE- *) )))))
+                (, ,) (CC or) 
+                (NP 
+                  (NP (DT a) (NN total) )
+                  (PP (IN of) 
+                    (NP 
+                      (QP (RB about) (CD 550,000) )
+                      (NNP First) (NNP Security) (NNS shares) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (QP (RB about) (CD 12.3) (CD million) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Deseret) )
+      (, ,) 
+      (PP (IN with) 
+        (NP 
+          (NP 
+            (QP (RB about) ($ $) (CD 100) (CD million) )
+            (-NONE- *U*) )
+          (PP (IN in) 
+            (NP (NNS assets) ))))
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN parent) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNP Deseret) (NNP Bank) )
+            (, ,) 
+            (SBAR 
+              (WHNP-42 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-42) )
+                (VP (VBZ has) 
+                  (NP (CD six) (NNS offices) 
+                    (CC and)
+                    (NNS headquarters) )
+                  (PP-LOC (IN at) 
+                    (NP 
+                      (NP (NNP Pleasant) (NNP Grove) )
+                      (, ,) 
+                      (NP (NNP Utah) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN purchase) (NN price) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ equal) 
+        (PP (TO to) 
+          (NP 
+            (QP (RB about) (CD 1.65) (NNS times) )
+            (NP (NNP Deseret) (VBZ 's) )
+            (ADJP 
+              (QP (RB roughly) ($ $) (CD 10.7) (CD million) )
+              (-NONE- *U*) )
+            (NX 
+              (NX (NN book) (NN value) )
+              (, ,) (CC or) 
+              (NX 
+                (NP (NNS assets) )
+                (PP (CC less) 
+                  (NP (NNS liabilities) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (ADJP (NNP Salt) (NNP Lake) (JJ City-based) )
+        (NNP First) (NNP Security) )
+      (, ,) 
+      (PP (IN with) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 5.4) (CD billion) )
+            (-NONE- *U*) )
+          (PP (IN in) 
+            (NP (NNS assets) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) (NN agreement) )
+            (VP (VBZ is) 
+              (ADJP-PRD (JJ subject) 
+                (PP (TO to) 
+                  (NP (NN shareholder) 
+                    (CC and)
+                    (JJ regulatory) (NN approval) ))))))
+        (, ,) 
+        (CC and)
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (PRP it) )
+            (VP (VBZ hopes) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB complete) 
+                    (NP (DT the) (NN transaction) )
+                    (NP-TMP (RB early) (JJ next) (NN year) )))))))))
+    (. .) ))

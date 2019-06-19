@@ -1,0 +1,99 @@
+
+( (S 
+    (NP-SBJ (NNP General) (NNP Electric) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD signed) 
+            (NP 
+              (NP (DT a) (NN contract) )
+              (PP (-NONE- *ICH*-3) ))
+            (PP (IN with) 
+              (NP 
+                (NP (DT the) (NNS developers) )
+                (PP (IN of) 
+                  (NP (DT the) (NNP Ocean) (NNP State) (NNP Power) (NN project) ))))
+            (PP-3 (IN for) 
+              (NP 
+                (NP (DT the) (JJ second) (NN phase) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT an) (JJ independent) 
+                      (ADJP 
+                        (QP ($ $) (CD 400) (CD million) )
+                        (-NONE- *U*) )
+                      (NN power) (NN plant) )
+                    (, ,) 
+                    (SBAR 
+                      (WHNP-2 (WDT which) )
+                      (S 
+                        (NP-SBJ-1 (-NONE- *T*-2) )
+                        (VP (VBZ is) 
+                          (VP (VBG being) 
+                            (VP (VBN built) 
+                              (NP (-NONE- *-1) )
+                              (PP-LOC (IN in) 
+                                (NP 
+                                  (NP (NNP Burrillville) )
+                                  (, ,) 
+                                  (NP (NNP R.I) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP GE) )
+      (, ,) 
+      (ADVP (IN along) 
+        (PP (IN with) 
+          (NP 
+            (NP (DT a) (NN division) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Ebasco) )
+                (, ,) 
+                (NP 
+                  (NP (DT a) (NN subsidiary) )
+                  (PP (IN of) 
+                    (NP (NNP Enserch) (NNP Corp.) ))))))))
+      (, ,) )
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (VP (VBG building) 
+          (NP 
+            (NP (DT the) (JJ first) (JJ 250-megawatt) (NN phase) )
+            (PP (IN of) 
+              (NP (DT the) (NN project) ))
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (NP-SBJ-1 (PRP they) )
+                (VP (VBP expect) 
+                  (S 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (TO to) 
+                      (VP (VB complete) 
+                        (NP (-NONE- *T*-2) )
+                        (PP-TMP (IN in) 
+                          (NP (JJ late) (CD 1990) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ second) (NN portion) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN completed) 
+          (NP (-NONE- *-1) )
+          (NP-TMP (DT the) (JJ following) (NN year) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP GE) (POS 's) )
+      (NNP Power) (NNP Generation) (NN subsidiary) )
+    (VP (MD will) 
+      (VP (VB operate) 
+        (CC and)
+        (VB maintain) 
+        (NP (DT the) (NN plant) )
+        (PP-TMP (IN upon) 
+          (NP (PRP$ its) (NN completion) ))))
+    (. .) ))

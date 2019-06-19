@@ -1,0 +1,198 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Ratners) (NNP Group) (NNP PLC) (POS 's) )
+      (NNP U.S.) (NN subsidiary) )
+    (VP (VBZ has) 
+      (VP (VBN agreed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB acquire) 
+              (NP (NN jewelry) (NN retailer) 
+                (NP (NNP Weisfield) (POS 's) )
+                (NNP Inc.) )
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP 
+                    (NP ($ $) (CD 50) (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN share) ))
+                  (, ,) (CC or) 
+                  (NP 
+                    (QP (IN about) ($ $) (CD 55) (CD million) )
+                    (-NONE- *U*) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Weisfield) (POS 's) )
+      (NNS shares) )
+    (VP (VBD soared) 
+      (PP-PRP (IN on) 
+        (NP 
+          (NP (DT the) (NN announcement) )
+          (NP-TMP (NN yesterday) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (VBG closing) 
+          (ADVP (RB up) 
+            (NP ($ $) (CD 11) (-NONE- *U*) ))
+          (S-CLR 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB close) 
+                (PP-CLR (IN at) 
+                  (NP ($ $) (CD 50) (-NONE- *U*) )))))
+          (PP-LOC (IN in) 
+            (NP (JJ national) (JJ over-the-counter) (NN trading) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Ratners) )
+      (CC and) 
+      (NP (NNP Weisfield) (POS 's) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBD reached) 
+            (NP 
+              (NP (DT an) (NN agreement) )
+              (PP (IN in) 
+                (NP (NN principle) ))
+              (PP (IN for) 
+                (NP 
+                  (NP (DT the) (NN acquisition) )
+                  (PP (IN of) 
+                    (NP (NNP Weisfield) (POS 's) ))
+                  (PP (IN by) 
+                    (NP (NNP Sterling) (NNP Inc) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS companies) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN acquisition) )
+          (VP (VBZ is) 
+            (ADJP-PRD (JJ subject) 
+              (PP (TO to) 
+                (NP (DT a) (JJ definitive) (NN agreement) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP expect) 
+            (S 
+              (NP-SBJ-1 (DT the) (NN transaction) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (VP (VBN completed) 
+                    (NP (-NONE- *-1) )
+                    (PP-TMP (IN by) 
+                      (NP (NNP Dec.) (CD 15) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Weisfield) (POS 's) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Seattle) )
+            (, ,) 
+            (NP (NNP Wash.) ))))
+      (, ,) )
+    (ADVP-TMP (RB currently) )
+    (VP (VBZ operates) 
+      (NP 
+        (NP (CD 87) (NN specialty) (NN jewelry) (NNS stores) )
+        (PP-LOC (IN in) 
+          (NP (CD nine) (NNS states) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP 
+        (NP (DT the) (JJ fiscal) (NN year) )
+        (VP (VBD ended) 
+          (NP-TMP (NNP Jan.) (CD 31) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD reported) 
+      (NP 
+        (NP 
+          (NP (NNS sales) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 59.5) (CD million) )
+              (-NONE- *U*) )))
+        (CC and) 
+        (NP 
+          (NP (JJ pretax) (NN profit) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 2.9) (CD million) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Ratners) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ controls) 
+            (NP 
+              (NP (CD 25) (NN %) )
+              (PP (IN of) 
+                (NP (DT the) (JJ British) (NN jewelry) (NN market) )))))))
+    (, ,) 
+    (VP (MD would) 
+      (VP (VB increase) 
+        (NP 
+          (NP (DT the) (NN number) )
+          (PP (IN of) 
+            (NP (PRP$ its) (NNP U.S.) (NNS stores) )))
+        (PP-DIR (TO to) 
+          (NP 
+            (QP (IN about) (CD 450) )
+            (NNS stores) ))
+        (PP-DIR (IN from) 
+          (NP (CD 360) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ has) 
+        (VP (VBN said) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ-1 (PRP it) )
+              (VP (VBZ hopes) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB control) 
+                      (NP 
+                        (NP (CD 5) (NN %) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NN jewelry) (NN business) )
+                            (PP-LOC (IN in) 
+                              (NP (DT the) (NNP U.S.) )))))
+                      (PP-TMP (IN by) 
+                        (NP (CD 1992) )))))))))))
+    (: ;) 
+    (S 
+      (ADVP-TMP (RB currently) )
+      (NP-SBJ (PRP it) )
+      (VP (VBZ controls) 
+        (NP 
+          (QP (IN about) (CD 2) )
+          (NN %) )))
+    (. .) ))

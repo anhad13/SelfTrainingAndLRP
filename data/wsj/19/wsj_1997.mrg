@@ -1,0 +1,120 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Blinder) (NNP International) (NNP Enterprises) (NNP Inc.) )
+      (, ,) 
+      (NP 
+        (NP (DT the) (NN parent) )
+        (PP (IN of) 
+          (NP (JJ beleaguered) (NN penny-stockbroker) (NNP Blinder) 
+            (, ,)
+            (NNP Robinson) (CC &) (NNP Co.) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NNS shareholders) )
+          (VP (VBD approved) 
+            (NP 
+              (NP (DT a) 
+                (ADJP (RB previously) (VBN announced) )
+                (NN name) (NN change) )
+              (PP (TO to) 
+                (NP (NNP Intercontinental) (NNP Enterprises) (NNP Inc) )))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN parent) (NN company) )
+      (VP (VBZ is) 
+        (VP (VBG diversifying) 
+          (PP-DIR (IN into) 
+            (NP 
+              (NP (JJ other) (NNS industries) )
+              (ADVP-LOC (IN around) 
+                (NP (DT the) (NN world) )))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ-2 (NN president) (NNP Meyer) (NNP Blinder) )
+    (PP (IN in) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (VBG explaining) 
+          (NP (DT the) (NN name) (NN change) ))))
+    (. .) ))
+( (S (`` ``) 
+    (NP-TMP 
+      (NP (RB Everytime) )
+      (SBAR 
+        (WHADVP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (PRP we) )
+          (VP (VBD talked) 
+            (PP-CLR (IN about) 
+              (NP (NNP Blinder) (NNP International) ))
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (, ,) 
+    (NP-SBJ 
+      (PRN 
+        (-LRB- -LCB-)
+        (NNS people) 
+        (-RRB- -RCB-)
+        ))
+    (VP (VBD thought) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD was) 
+            (NP-PRD (DT the) (NN brokerage) (NN house) )))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Blinder) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN change) )
+          (VP (VBD was) (RB n't) 
+            (ADJP-PRD (VBN related) 
+              (PP (TO to) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NN brokerage) (POS 's) )
+                    (JJ recent) (NNS troubles) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-1 (WDT which) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBP have) 
+                        (VP (VBN included) 
+                          (NP 
+                            (NP 
+                              (NP (JJ sharp) (NNS declines) )
+                              (PP-LOC (IN in) 
+                                (NP (NNS earnings) )))
+                            (, ,) 
+                            (NP 
+                              (NP (NNS run-ins) )
+                              (PP (IN with) 
+                                (NP (DT the) (NNS securities) (NNS regulators) )))
+                            (CC and) 
+                            (NP 
+                              (NP (NNS lawsuits) )
+                              (PP (IN by) 
+                                (NP (JJ former) (NNS customers) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (DT the) (NN name) (NN change) )
+              (VP (TO to) 
+                (VP (VB take) 
+                  (NP (NN effect) )
+                  (PP-TMP (IN within) 
+                    (NP (DT a) (NN week) )))))))))
+    (. .) ))

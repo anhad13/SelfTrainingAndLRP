@@ -1,0 +1,185 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP France) (POS 's) )
+        (JJ industrial) (NN production) (NN index) )
+      (PP-TMP (IN for) 
+        (NP (NNP July) 
+          (CC and)
+          (NNP August) )))
+    (VP 
+      (VP (VBD rose) 
+        (NP-EXT (CD 1) (NN %) )
+        (PP-DIR (IN from) 
+          (NP-TMP (NNP June) )))
+      (CC and) 
+      (VP (VBD was) 
+        (ADVP-PRD (IN up) 
+          (NP (CD 4.6) (NN %) )
+          (PP-DIR (IN from) 
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (IN ago) ))))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP 
+              (ADJP (RB seasonally) (VBN adjusted) )
+              (NNS data) )
+            (PP (IN from) 
+              (NP (DT the) (NNP National) (NNP Statistics) (NNP Institute) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN state) (NN agency) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP 
+            (VP 
+              (ADVP (RB usually) )
+              (VBZ publishes) 
+              (NP (DT the) (NNS data) )
+              (PP-MNR (IN on) 
+                (NP (JJ monthly) (NN basis) )))
+            (, ,) (CC but) 
+            (VP 
+              (ADVP (RB traditionally) )
+              (VBZ combines) 
+              (NP 
+                (NP (DT the) (NN index) )
+                (PP (IN for) 
+                  (NP (DT the) (CD two) (JJ summer-holiday) (NNS months) )))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN advance) )
+          (VP (VBD was) 
+            (VP (VBN led) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP 
+                    (NP (NN output) )
+                    (PP (IN of) 
+                      (NP (NN consumer) (NNS goods) )))
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-3 (WDT which) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-3) )
+                      (VP 
+                        (VP (VBD rose) 
+                          (NP-EXT (CD 3.5) (NN %) )
+                          (PP-DIR (IN from) 
+                            (NP-TMP (NNP June) )))
+                        (CC and) 
+                        (VP (VBD was) 
+                          (ADVP-PRD (IN up) 
+                            (NP (CD 7.2) (NN %) )
+                            (PP-DIR (IN from) 
+                              (ADVP-TMP 
+                                (NP (DT a) (NN year) )
+                                (RBR earlier) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (VBN Semifinished) (NNS goods) )
+    (VP (VBD turned) 
+      (PRT (RP in) )
+      (NP (DT a) (JJ strong) (NN showing) )
+      (, ,) 
+      (PP (IN with) 
+        (NP 
+          (NP 
+            (NP (DT a) (JJ monthly) (NN rise) )
+            (PP (IN of) 
+              (NP (CD 2) (NN %) )))
+          (CC and) 
+          (NP 
+            (NP (DT a) (JJ year-on-year) (NN advance) )
+            (PP (IN of) 
+              (NP (CD 3) (NN %) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Food) (NN production) )
+    (VP (VBD was) 
+      (ADVP-PRD 
+        (ADVP (RB ahead) 
+          (NP-1 (CD 1.7) (NN %) )
+          (PP-DIR-2 (IN from) 
+            (NP-TMP (NNP June) )))
+        (CC and) 
+        (ADVP 
+          (NP=1 (CD 5.3) (NN %) )
+          (PP-DIR=2 (IN from) 
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RBR earlier) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Output) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NNS capital-goods) (NN sector) )))
+    (VP (VBD was) 
+      (ADVP-PRD 
+        (ADVP (RB ahead) 
+          (NP-1 (CD 0.9) (NN %) )
+          (PP-2 (IN on) 
+            (NP (DT a) (JJ monthly) (NN basis) )))
+        (CC and) 
+        (ADVP 
+          (NP=1 (CD 2.7) (NN %) )
+          (NP-ADV=2 
+            (NP (NN year) )
+            (PP (IN on) 
+              (NP (NN year) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT These) (NNS gains) )
+    (VP (VBD were) 
+      (VP 
+        (ADVP (RB partly) )
+        (VBN offset) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (NN output) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNS cars) )
+                (CC and) 
+                (NP (JJ other) (NN consumer) (NNS durables) )))
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (VBD eased) 
+                  (NP-EXT (CD 3.9) (NN %) )
+                  (PP-DIR (IN from) 
+                    (NP 
+                      (NP (NNP June) (POS 's) )
+                      (JJ high) (NN level) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN sector) )
+    (VP (VBD was) 
+      (ADVP-TMP (RB still) )
+      (PP-PRD 
+        (NP-ADV (CD 8.8) (NN %) )
+        (IN above) 
+        (NP 
+          (NP (PRP$ its) (NN output) (NNS levels) )
+          (PP-DIR (IN from) 
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RBR earlier) ))))
+      (, ,) 
+      (ADVP (RB however) ))
+    (. .) ))

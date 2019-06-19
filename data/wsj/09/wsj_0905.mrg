@@ -1,0 +1,57 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Wilson) (NNP H.) (NNP Taylor) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (NN president) )
+          (CC and) 
+          (NP (NN chief) (JJ executive) (NN officer) ))
+        (PP (IN of) 
+          (NP (DT this) (NN insurance) 
+            (CC and)
+            (JJ financial) (NNS services) (NN concern) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (JJ additional) (NN post) )
+            (PP (IN of) 
+              (NP (NN chairman) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Taylor) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 45) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP Robert) (NNP D.) (NNP Kilpatrick) )
+        (, ,) 
+        (NP (CD 64) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ is) 
+              (VP (VBG retiring) 
+                (, ,)
+                (SBAR-ADV (IN as) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBN reported) 
+                      (ADVP-TMP (RBR earlier) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Kilpatrick) )
+    (VP (MD will) 
+      (VP (VB remain) 
+        (NP-PRD (DT a) (NN director) )))
+    (. .) ))

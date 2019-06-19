@@ -1,0 +1,69 @@
+
+( (S 
+    (NP-SBJ (NNP Bob) (NNP Evans) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN board) )
+          (VP (VBD authorized) 
+            (NP 
+              (NP (DT the) (NN purchase) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (QP (RB as) (JJ many) (IN as) (CD 500,000) )
+                    (NNS shares) )
+                  (PP (IN of) 
+                    (NP (PRP$ its) (JJ common) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN stock) )
+      (, ,) 
+      (SBAR 
+        (WHNP-3 (-NONE- 0) )
+        (S 
+          (NP-SBJ-2 (-NONE- *T*-3) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (VP (VBN purchased) 
+                (NP (-NONE- *-2) )
+                (PP-MNR 
+                  (PP (IN on) 
+                    (NP (DT the) (JJ open) (NN market) ))
+                  (CC or) 
+                  (PP (IN through) 
+                    (NP 
+                      (ADJP (RB privately) (VBN negotiated) )
+                      (NNS transactions) ))))))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN held) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN as) 
+            (NP 
+              (NP (NN treasury) (NNS shares) )
+              (PP (IN for) 
+                (NP 
+                  (NP (NN stock) (NNS options) )
+                  (CC or) 
+                  (NP (JJ other) (JJ general) (JJ corporate) (NNS purposes) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN program) )
+    (VP (VBZ expires) 
+      (NP-TMP (NNP April) (CD 27) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN restaurant) (NN operator) )
+    (VP (VBD had) 
+      (NP 
+        (NP 
+          (QP (CD 32.2) (CD million) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) ))
+      (PP-TMP (IN as) 
+        (PP (IN of) 
+          (NP (NNP Sept.) (CD 29) ))))
+    (. .) ))

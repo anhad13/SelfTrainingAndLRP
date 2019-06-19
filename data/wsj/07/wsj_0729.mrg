@@ -1,0 +1,37 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Peter) (NNP W.) (NNP Likins) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Lehigh) (NNP University) )
+            (, ,) 
+            (NP-LOC 
+              (NP (NNP Bethlehem) )
+              (, ,) 
+              (NP (NNP Pa.) )))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT this) (NN maker) )
+                (PP (IN of) 
+                  (NP (JJ industrial) (NN motion-control) (NNS parts) 
+                    (CC and)
+                    (NNS systems) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP$ His) (NN appointment) )
+    (VP (VBZ expands) 
+      (NP (DT the) (NN board) )
+      (PP-CLR (TO to) 
+        (NP (CD 13) (NNS members) )))
+    (. .) ))

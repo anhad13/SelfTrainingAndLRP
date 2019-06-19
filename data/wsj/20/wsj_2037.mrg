@@ -1,0 +1,164 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP Consumer) (NNP News) 
+        (CC and)
+        (NNP Business) (NNP Channel) (NN cable) (NN network) )
+      (CC and) 
+      (NP (NNP U.S.) (NNP News) (CC &) (NNP World) (NNP Report) ))
+    (VP (VBP have) 
+      (VP (VBN formed) 
+        (NP (DT a) (JJ joint) (NN venture) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB produce) 
+                (NP 
+                  (NP (NN cable) (NN program) (NNS versions) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (JJ special) (NNS issues) )
+                      (PP (IN of) 
+                        (NP (DT the) (NN magazine) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS programs) )
+    (VP (MD will) 
+      (VP (VB run) 
+        (PP-LOC-CLR (IN on) 
+          (NP (DT the) (NN cable) (NN network) ))
+        (NP-TMP 
+          (NP (DT the) (NNP Sunday) (NN evening) )
+          (PP 
+            (ADVP (RB immediately) )
+            (RB prior) 
+            (PP (TO to) 
+              (NP 
+                (NP (DT the) (NN release) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (JJ special) (NN issue) )
+                    (PP (IN of) 
+                      (NP (NNP U.S.) (NNP News) (CC &) (NNP World) (NNP Report) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP CNBC) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (JJ joint) (NN venture) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (DT the) (NNP National) (NNP Broadcasting) (NNP Co.) )
+              (, ,) 
+              (NP 
+                (NP (DT a) (NN unit) )
+                (PP (IN of) 
+                  (NP (NNP General) (NNP Electric) (NNP Co.) ))))
+            (, ,) 
+            (CC and)
+            (NP (NNP Cablevision) (NNP System) (NNP Corp) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Advertisers) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN offered) 
+          (NP (-NONE- *-1) )
+          (NP 
+            (NP (DT an) (NN advertising) (NN package) )
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (PP (IN for) 
+                  (NP (DT a) (JJ single) (NN price) ))
+                (, ,) 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (MD will) 
+                  (VP (VB include) 
+                    (NP 
+                      (NP 
+                        (NP (NN time) )
+                        (PP-LOC (IN on) 
+                          (NP (DT the) (NNP CNBC) (NN program) )))
+                      (CC and) 
+                      (NP 
+                        (NP (NN ad) (NNS pages) )
+                        (PP-LOC (IN in) 
+                          (NP (DT the) (JJ special) (NNS guides) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP CNBC) )
+    (VP (MD will) 
+      (VP (VB produce) 
+        (NP (CD six) 
+          (, ,)
+          (JJ one-hour) (NNS programs) ))
+      (, ,) 
+      (S-TMP 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG beginning) 
+          (PP-TMP-CLR (IN in) 
+            (NP (NNP April) (CD 1990) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ first) (NN program) )
+      (VP (VBN scheduled) 
+        (NP (-NONE- *) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (JJ joint) (NN venture) ))))
+    (VP (VBZ is) (`` ``) 
+      (NP-TTL-PRD (NNP The) (CD 1990) 
+        (NP (NNP Homeowner) (POS 's) )
+        (NNP Guide) ))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ-1 (JJ Other) (NNS programs) 
+      (CC and)
+      (JJ special) (NNS issues) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN based) 
+          (NP (-NONE- *-1) )
+          (PP-LOC-CLR (IN on) 
+            (NP 
+              (NP (NNS themes) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN health) )
+                  (, ,) 
+                  (NP (NNS jobs) )
+                  (, ,) 
+                  (NP (JJ personal) (NN finance) )
+                  (, ,) 
+                  (NP (DT the) (JJS best) (NNS colleges) )
+                  (, ,) 
+                  (CC and)
+                  (NP (NNS investments) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS programs) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN written) 
+          (CC and)
+          (VBN produced) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS (NNP CNBC) ))
+          (, ,) 
+          (SBAR (IN with) 
+            (S 
+              (NP-SBJ (NN background) 
+                (CC and)
+                (NN research) )
+              (VP (VBN provided) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (NN staff) )
+                    (PP (IN from) 
+                      (NP (NNP U.S.) (NNP News) (CC &) (NNP World) (NNP Report) ))))))))))
+    (. .) ))

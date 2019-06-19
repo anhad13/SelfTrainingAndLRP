@@ -1,0 +1,211 @@
+
+( (S 
+    (NP-SBJ (NNP First) (NNP Executive) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP 
+              (QP (RB about) (CD 96) )
+              (NN %) )
+            (PP (IN of) 
+              (NP (DT the) (NNS rights) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB purchase) 
+                      (NP (PRP$ its) (JJ depositary) (NNS shares) 
+                        (CC and)
+                        (NNS warrants) )))))))
+          (VP (VBP have) 
+            (VP (VBN been) 
+              (VP (VBN exercised) 
+                (NP (-NONE- *-1) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (PP-TPC-2 (IN Of) 
+        (NP 
+          (NP (DT the) 
+            (QP (CD 17.6) (CD million) )
+            (NNS rights) (NNS units) )
+          (VP (VBN issued) 
+            (NP (-NONE- *) ))))
+      (, ,) 
+      (NP-SBJ-1 
+        (NP 
+          (QP (RB just) (IN under) (CD 17) (CD million) ))
+        (PP (-NONE- *T*-2) ))
+      (VP (VBD were) 
+        (VP (VBN exercised) 
+          (NP (-NONE- *-1) )
+          (PP-TMP (IN before) 
+            (NP 
+              (NP (DT the) (NNP Oct.) (CD 10) (NN expiration) )
+              (PP (IN of) 
+                (NP (DT the) (NN offering) )))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN insurance) (NN holding) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (VBG Remaining) (NNS units) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN sold) 
+          (NP (-NONE- *-1) )
+          (PP-DTV (TO to) 
+            (NP 
+              (NP (DT the) (NNS underwriters) )
+              (, ,) 
+              (NP 
+                (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.) )
+                (CC and) 
+                (NP (NNP Kidder) 
+                  (, ,)
+                  (NNP Peabody) (CC &) (NNP Co.) ))
+              (, ,) 
+              (SBAR 
+                (WHNP-2 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-2) )
+                  (VP (MD will) 
+                    (ADVP (RB also) )
+                    (VP (VB purchase) 
+                      (NP 
+                        (NP (DT an) (NN over-allotment) )
+                        (PP (IN of) 
+                          (NP 
+                            (QP (CD 2.3) (CD million) )
+                            (JJ additional) (NNS units) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP First) (NNP Executive) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN offering) )
+          (VP (MD will) 
+            (VP (VB raise) 
+              (NP 
+                (NP 
+                  (QP (RB about) ($ $) (CD 299) (CD million) )
+                  (-NONE- *U*) )
+                (PRN (: --) 
+                  (PP (CC minus) 
+                    (NP 
+                      (NP (NN underwriting) (NNS fees) )
+                      (CC and) 
+                      (NP (JJ other) (NNS expenses) )))
+                  (: --) )
+                (SBAR 
+                  (WHNP-1 (IN that) )
+                  (S 
+                    (NP-SBJ-2 (DT the) (NN company) )
+                    (VP (VBZ plans) 
+                      (S 
+                        (NP-SBJ-3 (-NONE- *-2) )
+                        (VP (TO to) 
+                          (VP (VB use) 
+                            (NP (-NONE- *T*-1) )
+                            (S-CLR 
+                              (NP-SBJ (-NONE- *-3) )
+                              (VP (TO to) 
+                                (VP (VB write) 
+                                  (NP (JJ new) (NN life) (NN insurance) 
+                                    (CC and)
+                                    (NN annuity) (NN business) ))))))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ (NNS analysts) )
+    (VP (VBP have) 
+      (VP (VBN viewed) 
+        (NP (DT the) (NNS rights) (NN offering) )
+        (PP-CLR (IN as) 
+          (NP 
+            (NP (DT a) (NN takeover) (NN defense) )
+            (SBAR 
+              (WHNP-1 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (ADVP (RB prospectively) )
+                (VP (VBZ balloons) 
+                  (NP 
+                    (NP (DT the) (NN number) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNS shares) )
+                        (ADJP (JJ outstanding) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT Each) )
+      (PP (IN of) 
+        (NP (DT the) (NNS units) )))
+    (VP (VBZ consists) 
+      (PP-CLR (IN of) 
+        (NP 
+          (NP 
+            (NP (CD two) (NNS warrants) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 
+                (NP (DT each) )
+                (WHPP (IN of) 
+                  (WHNP (WDT which) )))
+              (S 
+                (NP-SBJ-2 (-NONE- *T*-1) )
+                (VP (MD could) 
+                  (VP (VB be) 
+                    (VP (VBN used) 
+                      (NP (-NONE- *-2) )
+                      (S-CLR 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB purchase) 
+                            (NP 
+                              (NP (DT a) (NN half-share) )
+                              (PP (IN of) 
+                                (NP (JJ common) (NN stock) )))))))))))
+            (, ,) )
+          (CC and) 
+          (NP (CD one) (JJ depositary) (NN preference) (NN share) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Depositary) (NNS shares) )
+    (VP (VBP are) 
+      (ADJP-PRD (JJ convertible) 
+        (PP (IN into) 
+          (NP (JJ common) (NN stock) ))
+        (PP (IN on) 
+          (NP (DT a) (JJ 1-to-1) (NN basis) ))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Currently) )
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (QP (RB about) (CD 88.1) (CD million) )
+          (JJ common) (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ over-the-counter) (NN trading) ))
+    (NP-TMP (NNP Monday) )
+    (, ,) 
+    (NP-SBJ (DT the) (NN stock) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 10.625) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (RB off) 
+        (NP (CD 37.5) (NNS cents) )))
+    (. .) ))

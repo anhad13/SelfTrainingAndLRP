@@ -1,0 +1,405 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Eagle) (NNPS Clothes) (NNP Inc.) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ is) 
+            (VP (VBG operating) 
+              (PP-LOC (IN under) 
+                (NP 
+                  (NP (NN Chapter) (CD 11) )
+                  (PP (IN of) 
+                    (NP (DT the) (JJ federal) (NNP Bankruptcy) (NNP Code) ))))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reached) 
+            (NP 
+              (NP (DT an) (NN agreement) )
+              (PP (IN with) 
+                (NP (PRP$ its) (NNS creditors) )))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NN accord) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Albert) (NNP Roth) )
+        (, ,) 
+        (NP 
+          (NP (NN chairman) )
+          (CC and) 
+          (NP (NN chief) (NN executive) (NN officer) )))
+      (, ,) 
+      (CC and)
+      (NP 
+        (NP (NNP Arthur) (NNP Chase) )
+        (, ,) 
+        (NP (NNP Sam) (NNP Beigel) )
+        (, ,) 
+        (CC and)
+        (NP (NNP Louis) (NNP Polsky) )))
+    (VP (MD will) 
+      (VP (VB resign) 
+        (PP-CLR (IN as) 
+          (NP 
+            (NP (NNS officers) 
+              (CC and)
+              (NNS directors) )
+            (PP (IN of) 
+              (NP (DT the) (NN menswear) (NN retailer) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Mr.) (NNP Roth) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (PP-PRD (IN on) 
+                (NP 
+                  (NP (NN leave) )
+                  (PP (IN from) 
+                    (NP (PRP$ his) (NNS posts) ))))))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN succeeded) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NNP Geoffrie) (NNP D.) (NNP Lurie) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP GDL) (NNP Management) (NNP Inc.) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-3 (WDT which) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-3) )
+                      (VP (VBZ is) 
+                        (NP-PRD 
+                          (NP (NNP Eagle) (POS 's) )
+                          (NN crisis) (NN manager) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Lurie) )
+    (VP (VBZ is) 
+      (ADVP-TMP (RB currently) )
+      (NP-PRD (NN co-chief) (NN executive) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Arnold) (NNP Levine) )
+      (, ,) 
+      (NP (VBG acting) (NN co-chief) (NN executive) )
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB continue) 
+        (PP-CLR (RB as) 
+          (NP 
+            (NP (JJ senior) (NN vice) (NN president) )
+            (CC and) 
+            (NP (DT a) (NN board) (NN member) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Eagle) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD received) 
+            (NP 
+              (NP (DT a) (NN commitment) )
+              (PP (IN for) 
+                (NP 
+                  (NP 
+                    (QP (RB as) (JJ much) (IN as) ($ $) (CD 8) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN in) 
+                    (NP (NN financing) ))))
+              (PP (IN from) 
+                (NP (NNP Norfolk) (NNP Capital) (NNP Group) (NNP Inc) )))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT a) (NNP Norfolk) (NN affiliate) )
+      (, ,) 
+      (NP (NNP York) (NNP Capital) (NNP Inc.) )
+      (, ,) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB purchase) 
+          (NP 
+            (NP 
+              (NP (DT all) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NNS interests) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Eagle) (POS 's) )
+                      (VBN secured) (NNS lenders) )))))
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBP total) 
+                  (NP 
+                    (QP ($ $) (CD 11.5) (CD million) )
+                    (-NONE- *U*) ))))
+            (, ,) ))
+        (CC and) 
+        (VP (VBP guarantee) 
+          (NP 
+            (NP 
+              (QP (RB as) (RB much) (IN as) ($ $) (CD 8.2) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN in) 
+              (NP 
+                (NP (NNS payments) )
+                (PP (TO to) 
+                  (NP 
+                    (NP (NNP Eagle) (POS 's) )
+                    (JJ unsecured) (NNS creditors) ))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (DT A) (NN committee) )
+        (VP (VBG representing) 
+          (NP (DT the) (JJ unsecured) (NNS creditors) )))
+      (VP (VBD agreed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB accept) 
+              (NP 
+                (NP (CD 24) (NNS cents) )
+                (PP (IN on) 
+                  (NP (DT the) (NN dollar) ))))))))
+    (, ,) 
+    (NP-SBJ (NNP Eagle) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN plan) )
+    (VP (MD would) 
+      (VP (VB extend) 
+        (NP 
+          (NP (DT the) (NN period) )
+          (SBAR 
+            (WHPP-2 (IN under) 
+              (WHNP (WDT which) ))
+            (S 
+              (NP-SBJ (NNP Eagle) )
+              (VP (VBZ has) 
+                (NP 
+                  (NP (DT the) (JJ exclusive) (NN right) )
+                  (SBAR 
+                    (WHNP-1 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (TO to) 
+                        (VP (VB file) 
+                          (NP (DT a) (NN reorganization) (NN plan) ))))))
+                (PP-TMP (-NONE- *T*-2) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (MD would) 
+      (VP 
+        (VP (VB extinguish) 
+          (NP 
+            (NP (DT all) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Eagle) (POS 's) )
+                (VBG existing) (NN capital) (NN stock) ))))
+        (CC and) 
+        (VP (VB issue) 
+          (NP (JJ new) (NN stock) )
+          (PP-CLR (TO to) 
+            (NP 
+              (NP (NNP York) )
+              (PP (IN as) 
+                (NP (JJ sole) (NN holder) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (DT A) (NN bankruptcy) (NN court) (NN hearing) )
+      (PP (-NONE- *ICH*-1) ))
+    (VP (VBZ is) 
+      (VP (VBN set) 
+        (NP (-NONE- *-2) )
+        (PP-TMP (IN for) 
+          (NP (NNP Nov.) (CD 3) ))
+        (PP-1 (IN on) 
+          (NP (DT these) (NNS accords) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (PRP$ its) (NN bankruptcy-law) (NN petition) )
+        (, ,) 
+        (VP (VBN filed) 
+          (NP (-NONE- *) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (NNP U.S.) (NNP Bankruptcy) (NNP Court) )
+              (PP-LOC (IN in) 
+                (NP (NNP Manhattan) )))))))
+    (, ,) 
+    (NP-SBJ (NNP Eagle) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NNS problems) )
+          (VP (VBD began) 
+            (PP-TMP (IN in) 
+              (NP 
+                (NP 
+                  (NP (CD 1987) )
+                  (CC and) 
+                  (NP (RB early) (CD 1988) ))
+                (SBAR 
+                  (WHADVP (WRB when) )
+                  (S 
+                    (NP-SBJ 
+                      (NP (PRP$ its) (JJ then-senior) (NN lender) )
+                      (, ,) 
+                      (NP (NNPS Bankers) (NNP Trust) (NNP Co.) )
+                      (, ,) )
+                    (VP (VBD reduced) 
+                      (NP (PRP$ its) (NN credit) (NN line) ))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP September) (CD 1988) ))
+    (, ,) 
+    (NP-SBJ (NNP Eagle) )
+    (VP (VBD acquired) 
+      (NP 
+        (NP (NNP Biny) (NNP Clothing) (NNP Inc.) )
+        (, ,) 
+        (NP 
+          (NP (DT a) 
+            (ADJP (RB closely) (VBN held) )
+            (NNP New) (NNP York) (NN chain) )
+          (VP (VBN operated) 
+            (NP (-NONE- *) )
+            (PP-LOC (IN under) 
+              (NP (DT the) (NNP Bonds) (NN name) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNP Eagle) (POS 's) )
+        (NN management) )
+      (VP (VBD retired) ))
+    (CC and) 
+    (S 
+      (NP-SBJ 
+        (NP (NNP Biny) (POS 's) )
+        (NN management) )
+      (VP (VBD took) 
+        (NP 
+          (NP (NN control) )
+          (PP (IN of) 
+            (NP (DT the) (NN company) )))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP (DT the) (NN time) ))
+    (, ,) 
+    (NP-SBJ (NNP Eagle) )
+    (VP (VBD reached) 
+      (NP 
+        (NP 
+          (NP (DT a) (JJ new) (NN credit) (NN agreement) )
+          (PP 
+            (PP (IN with) 
+              (NP (NNPS Bankers) (NNP Trust) ))
+            (CC and) 
+            (PP (IN with) 
+              (NP 
+                (NP (NNP Bank) (NNP Leumi) (NNP Trust) (NNP Co.) )
+                (PP (IN of) 
+                  (NP (NNP New) (NNP York) )))))
+          (PP (IN for) 
+            (NP 
+              (QP ($ $) (CD 8) (CD million) )
+              (-NONE- *U*) )))
+        (, ,) 
+        (CC and)
+        (NP 
+          (NP (DT a) (JJ new) (VBN subordinated) (NN debt) (NN accord) )
+          (PP (IN with) 
+            (NP 
+              (NP (NNP First) (NNP Century) (NNPS Partners) )
+              (CC and) 
+              (NP (NNP Biny) (NN management) )))
+          (PP (IN for) 
+            (NP 
+              (QP ($ $) (CD 2) (CD million) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (NNP Eagle) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (S 
+            (NP-SBJ (DT the) (NN financing) )
+            (VP (VBD was) 
+              (ADJP-PRD (JJ insufficient) )))
+          (CC and) 
+          (S 
+            (NP-SBJ 
+              (NP (NNS sales) )
+              (PP-TMP (IN during) 
+                (NP (DT the) (JJ past) (JJ fiscal) (NN year) )))
+            (VP (VBD sagged) )))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (NN Chapter) (CD 11) ))
+    (, ,) 
+    (NP-SBJ (DT a) (NN company) )
+    (VP (VBZ operates) 
+      (PP-LOC (IN under) 
+        (NP 
+          (NP (NN protection) )
+          (PP (IN from) 
+            (NP 
+              (NP (NNS creditors) (POS ') )
+              (NNS lawsuits) ))))
+      (SBAR-TMP (IN while) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ works) 
+            (PRT (RP out) )
+            (NP (DT a) (NN plan) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB pay) 
+                    (NP (NNS debts) )))))))))
+    (. .) ))

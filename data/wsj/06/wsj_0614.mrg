@@ -1,0 +1,32 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP QUANTUM) (NNP CHEMICAL) (NNP Corp.) (POS 's) )
+        (NN plant) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NNP Morris) )
+          (, ,) 
+          (NP (NNP Ill.) )
+          (, ,) )))
+    (VP (VBZ is) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB resume) 
+              (NP (NN production) )
+              (PP-TMP (IN in) 
+                (NP (JJ early) (CD 1990) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN year) )
+    (VP (VBD was) 
+      (VP (VBN misstated) 
+        (NP (-NONE- *-1) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP Friday) (POS 's) )
+            (NNS editions) ))))
+    (. .) ))

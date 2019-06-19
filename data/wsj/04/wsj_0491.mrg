@@ -1,0 +1,105 @@
+
+( (S 
+    (NP-SBJ (NNP Fluor) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD was) 
+            (VP (VBN awarded) 
+              (NP (-NONE- *-1) )
+              (NP (DT a) 
+                (ADJP 
+                  (QP ($ $) (CD 300) (CD million) )
+                  (-NONE- *U*) )
+                (NN contract) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB provide) 
+                      (NP 
+                        (UCP (NN engineering) 
+                          (CC and)
+                          (JJ construction-management) )
+                        (NNS services) )
+                      (PP-LOC (IN at) 
+                        (NP 
+                          (NP (DT a) (NN copper) (NN mine) )
+                          (PP-LOC (IN in) 
+                            (NP 
+                              (NP (NNP Irian) (NNP Jaya) )
+                              (, ,) 
+                              (NP (NNP Indonesia) )
+                              (, ,) ))))
+                      (PP-BNF (IN for) 
+                        (NP 
+                          (NP (DT a) (NN unit) )
+                          (PP (IN of) 
+                            (NP (NNP Freeport-McMoRan) (NNP Copper) (NNP Co) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Fluor) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Irvine) )
+            (, ,) 
+            (NP (NNP Calif.) ))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB direct) 
+        (NP 
+          (NP (NN expansion) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN mine) (POS 's) )
+              (NN capacity) ))
+          (PP (TO to) 
+            (NP 
+              (NP (CD 52,000) (JJ metric) (NNS tons) )
+              (NP-ADV (DT a) (NN day) )))
+          (PP (IN from) 
+            (NP 
+              (NP (CD 32,000) (JJ metric) (NNS tons) )
+              (NP-ADV (DT a) (NN day) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1993 
+      (NP (NN Completion) )
+      (PP (IN of) 
+        (NP (DT the) (NN project) )))
+    (VP (VBZ is) 
+      (VP (VBN expected) 
+        (NP (-NONE- *-1993) )
+        (PP-TMP-CLR (IN by) 
+          (NP (NN mid-1992) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (CD 1988) ))
+    (, ,) 
+    (NP-SBJ (NNP Fluor) )
+    (VP (VBD had) 
+      (NP 
+        (NP 
+          (NP (NN revenue) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 5.1) (CD billion) )
+              (-NONE- *U*) )))
+        (CC and) 
+        (NP 
+          (NP (NNS earnings) )
+          (PP (IN of) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 56.4) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP (CD 71) (NNS cents) )
+                (NP-ADV (DT a) (NN share) )))))))
+    (. .) ))

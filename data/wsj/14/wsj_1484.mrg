@@ -1,0 +1,152 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN group) )
+      (PP (VBG including) 
+        (NP 
+          (NP 
+            (NP (NNP ESL) (NNPS Partners) (NNP Ltd.) )
+            (, ,) 
+            (NP (DT a) 
+              (NAC-LOC (NNP Fort) (NNP Worth) 
+                (, ,)
+                (NNP Texas) 
+                (, ,)
+                )
+              (NN investment) (NN partnership) )
+            (, ,) )
+          (CC and) 
+          (NP 
+            (NP (NNP Richard) (NNP E.) (NNP Rainwater) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (JJ former) (NN adviser) )
+              (PP (TO to) 
+                (NP (DT the) (NNP Fort) (NNP Worth) (NNP Bass) (NN family) ))))
+          (, ,) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reduced) 
+            (NP 
+              (NP (PRP$ its) (NN stake) )
+              (PP-LOC (IN in) 
+                (NP (NNP Anacomp) (NNP Inc.) )))
+            (PP-CLR (TO to) 
+              (NP 
+                (NP (CD 3.6) (NN %) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (JJ common) (NNS shares) )
+                    (ADJP (JJ outstanding) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (DT a) (NN filing) )
+        (PP (IN with) 
+          (NP (DT the) (NNPS Securities) 
+            (CC and)
+            (NNP Exchange) (NNP Commission) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN group) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD sold) 
+            (NP (CD 1,325,900) (NNP Anacomp) (JJ common) (NNS shares) )
+            (PP-TMP 
+              (PP (IN from) 
+                (NP (NNP Aug.) (CD 31) ))
+              (PP (TO to) 
+                (NP (JJ last) (NNP Wednesday) )))
+            (PP-CLR (IN for) 
+              (NP 
+                (NP ($ $) (CD 4.48) (-NONE- *U*) )
+                (PP (TO to) 
+                  (NP 
+                    (NP ($ $) (CD 5.84) (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN share) )))))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG resulting) 
+                (PP-CLR (IN in) 
+                  (NP 
+                    (NP (DT a) (NN drop) )
+                    (PP-LOC (IN in) 
+                      (NP (PRP$ its) (NNS holdings) ))
+                    (PP (TO to) 
+                      (NP (CD 1,351,662) (NNS shares) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT No) (NN reason) )
+    (VP (VBD was) 
+      (VP (VBN given) 
+        (NP (-NONE- *-1) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NN filing) ))
+        (PP (IN for) 
+          (NP (DT the) (NNS sales) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT An) (NNP Anacomp) (NN official) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNP Indianapolis) (NNS computer-services) (NN concern) )
+          (VP (VBD had) 
+            (NP 
+              (NP (DT no) (NN comment) )
+              (PP (IN on) 
+                (NP 
+                  (NP (DT the) (NN group) (POS 's) )
+                  (NN share) (NNS sales) )))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP March) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN group) )
+    (VP (VBD disclosed) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD held) 
+            (NP 
+              (NP (DT a) (CD 7.2) (NN %) (NN stake) )
+              (PP-LOC (IN in) 
+                (NP (NNP Anacomp) )))
+            (PP-PRP (IN for) 
+              (NP (NN investment) (NNS purposes) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (ADVP-TMP (RB then) )
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-3 (PRP it) )
+          (VP 
+            (VP (VBD had) 
+              (VP (VBN had) 
+                (NP (-NONE- *RNR*-1) )))
+            (CC and) 
+            (VP (MD would) 
+              (VP (VB continue) 
+                (S 
+                  (NP-SBJ (-NONE- *-3) )
+                  (VP (TO to) 
+                    (VP (VB have) 
+                      (NP (-NONE- *RNR*-1) ))))))
+            (NP-1 
+              (NP (NNS discussions) )
+              (PP (IN with) 
+                (NP 
+                  (NP (NNP Anacomp) (POS 's) )
+                  (NN management) ))
+              (PP (VBG concerning) 
+                (NP (PRP$ its) (NN investment) )))))))
+    (. .) ))

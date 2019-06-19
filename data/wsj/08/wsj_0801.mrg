@@ -1,0 +1,68 @@
+
+( (SBAR-HLN 
+    (WHNP-1 (WP WHO) )
+    (S 
+      (NP-SBJ (-NONE- *T*-1) )
+      (VP (VBZ 'S) 
+        (NP-PRD (NN NEWS) )))
+    (: :) ))
+((S 
+    (NP-SBJ (NNP Arthur) (NNP Price) )
+    (VP (VBD resigned) 
+      (PP-CLR (IN as) 
+        (NP 
+          (NP 
+            (NP (NN president) )
+            (CC and) 
+            (NP (JJ chief) (JJ executive) (NN officer) ))
+          (PP (IN of) 
+            (NP 
+              (NP (NNP MTM) (NNP Enterprises) (NNP Inc.) )
+              (, ,) 
+              (NP (DT a) 
+                (NAC-LOC (NNP Studio-City) 
+                  (, ,)
+                  (NNP Calif.) 
+                  (, ,)
+                  )
+                (NN entertainment) (NN concern) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD co-founded) 
+      (NP (DT the) (NN company) )
+      (PP (IN with) 
+        (NP 
+          (NP (NNP Grant) (NNP Tinker) )
+          (CC and) 
+          (NP (NNP Mary) (NNP Tyler) (NNP Moore) )))
+      (PP-TMP (IN in) 
+        (NP (CD 1969) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP MTM) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ British-based) (NNP TVS) (NNP Entertainment) (NNP PLC) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 
+                (WHNP (WP$ whose) (JJ chief) (JJ executive) (NN officer) )
+                (, ,) 
+                (NP (NNP James) (NNP Gatward) )
+                (, ,) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (MD will) 
+                  (VP (VB oversee) 
+                    (NP (DT the) (NN company) )
+                    (SBAR-TMP (IN until) 
+                      (S 
+                        (NP-SBJ-2 (DT a) (NN successor) )
+                        (VP (VBZ is) 
+                          (VP (VBN named) 
+                            (NP (-NONE- *-2) )))))))))))))
+    (. .) ))

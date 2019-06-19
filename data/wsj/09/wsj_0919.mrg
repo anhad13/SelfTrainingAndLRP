@@ -1,0 +1,33 @@
+
+( (S 
+    (NP-SBJ-1 (NNP American) (NNP Medical) (NNP International) (NNP Inc.) )
+    (VP (VBD was) 
+      (VP (VBN dropped) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (DT the) (NN health) (NN care) (NNS providers) (NN industry) (NN group) )
+            (PP (IN of) 
+              (NP (DT the) (NNP Dow) (NNP Jones) (NNP Equity) (NNP Market) (NNP Index) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN company) )
+    (VP (VBZ is) 
+      (VP (VBG being) 
+        (VP (VBN acquired) 
+          (NP (-NONE- *-1) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP U.S.) (NNP Healthcare) (NNP Inc.) )
+    (VP (VBD was) 
+      (VP (VBN added) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP (DT the) (NN health) (NN care) (NNS providers) (NN group) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) (NNS moves) )
+    (VP (VBP are) 
+      (ADJP-PRD (JJ effective) )
+      (NP-TMP (NN today) ))
+    (. .) ))

@@ -1,0 +1,94 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP BSB) (NNP BANCORP) (NNP Inc.) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Binghamton) )
+        (, ,) 
+        (NP (NNP N.Y.) ))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD increased) 
+            (NP (PRP$ its) (JJ regular) (JJ quarterly) (NN dividend) )
+            (NP-EXT (CD 50) (NN %) )
+            (, ,) 
+            (PP-DIR (TO to) 
+              (NP 
+                (NP (CD 15) (NNS cents) )
+                (NP-ADV (DT a) (NN share) )))
+            (PP-DIR (IN from) 
+              (NP (CD 10) (NNS cents) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ payable) 
+        (NP-TMP (NNP Dec.) (CD 10) )
+        (PP (TO to) 
+          (NP 
+            (NP (VB stock) )
+            (PP (IN of) 
+              (NP (NN record) ))
+            (NP-TMP (NNP Nov.) (CD 24) )))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (NN move) )
+      (VP (VBD was) 
+        (VP (VBN made) 
+          (NP (-NONE- *-1) )
+          (PP-PRP (IN because) (IN of) 
+            (NP 
+              (NP (DT the) (JJ bank-holding) (NN company) (POS 's) )
+              (VBN increased) (NN profitability) )))))
+    (, ,) 
+    (NP-SBJ (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (JJ third) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (NNP BSB) )
+    (VP (VBD earned) 
+      (NP 
+        (QP ($ $) (CD 2) (CD million) )
+        (-NONE- *U*) )
+      (, ,) 
+      (ADVP (IN up) 
+        (PP (IN from) 
+          (NP 
+            (QP ($ $) (CD 1.8) (CD million) )
+            (-NONE- *U*) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ national) (NN over-the-counter) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (NNP BSB) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 17.50) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (IN up) 
+        (NP (CD 12.5) (NNS cents) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP BSB) )
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (QP (CD 3.1) (CD million) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))

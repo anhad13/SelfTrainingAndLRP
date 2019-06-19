@@ -1,0 +1,341 @@
+
+( (S 
+    (NP-SBJ (NNP American) (NNP Telephone) (CC &) (NNP Telegraph) (NNP Co.) )
+    (VP (VBD unveiled) 
+      (NP 
+        (NP (JJ new) (JJ optical) (NN transmission) (NNS systems) )
+        (PP (IN for) 
+          (NP (NN data) 
+            (, ,)
+            (NN video) 
+            (CC and)
+            (NN voice) (NNS communications) ))))
+    (. .) ))
+( (S-3 
+    (S 
+      (NP-SBJ 
+        (NP (CD Two) (NNS products) )
+        (PP-LOC (IN in) 
+          (SBAR-NOM 
+            (WHNP-2 (WP what) )
+            (S 
+              (NP-SBJ (DT the) (NN telecommunications) (NN giant) )
+              (VP (VBD called) 
+                (S 
+                  (NP-SBJ (-NONE- *T*-2) )
+                  (NP-PRD 
+                    (NP (DT a) (JJ new) (NN generation) )
+                    (PP (IN of) 
+                      (NP (JJ such) (NN equipment) )))))))))
+      (VP (VBP are) 
+        (ADJP-PRD (JJ available) )
+        (ADVP-TMP (RB now) )))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (NNP AT&T) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-3) ))))
+      (, ,) )
+    (CC and) 
+    (S 
+      (NP-SBJ-1 (CD three) (NNS others) )
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN introduced) 
+            (NP (-NONE- *-1) )
+            (PP-TMP (IN in) 
+              (NP (CD 1990) 
+                (CC and)
+                (CD 1991) ))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (NNS products) )
+      (VP (VBP are) 
+        (VP (VBN aimed) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN at) 
+            (NP 
+              (NP (DT a) (NN market) )
+              (VP (VBN expected) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB total) 
+                      (NP 
+                        (NP 
+                          (QP (JJR more) (IN than) ($ $) (CD 1) (CD billion) )
+                          (-NONE- *U*) )
+                        (NP-ADV (DT a) (NN year) )
+                        (PP (IN in) 
+                          (NP (NNS sales) )))
+                      (PP-TMP (IN by) 
+                        (NP (CD 1995) )))))))))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (NP-SBJ 
+      (NP (NNP Morgan) (NNP Buchner) (NNP Jr.) )
+      (, ,) 
+      (NP 
+        (NP (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP (NN transmission) (NNS systems) ))
+        (PP (IN for) 
+          (NP (NNP AT&T) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS products) )
+      (ADJP (RB already) (JJ available) ))
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (JJ cross-connect) (NNS systems) )
+        (, ,) 
+        (VP (VBN used) 
+          (NP (-NONE- *) )
+          (PP (RB instead) (IN of) 
+            (NP 
+              (NP (NNS mazes) )
+              (PP (IN of) 
+                (NP (NN wiring) ))))
+          (S-CLR 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB interconnect) 
+                (NP (JJ other) (NN telecommunications) (NN equipment) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT This) )
+      (VP (VBZ cuts) 
+        (PRT (RP down) )
+        (ADVP-EXT (RB greatly) )
+        (PP-CLR (IN on) 
+          (NP (NN labor) ))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Buchner) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (SINV 
+    (S-TPC-5 
+      (NP-SBJ-1 (-NONE- *-6) )
+      (VP (TO To) 
+        (VP (VB be) 
+          (VP (VBN introduced) 
+            (NP (-NONE- *-1) )
+            (ADVP-TMP (RB later) )))))
+    (VP (VBP are) 
+      (S (-NONE- *T*-5) ))
+    (NP-SBJ-6 
+      (NP 
+        (NP (DT a) (NN multiplexer) )
+        (, ,) 
+        (SBAR 
+          (WHNP-2 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-2) )
+            (VP (MD will) 
+              (VP (VB allow) 
+                (S 
+                  (NP-SBJ (JJ several) (NNS signals) )
+                  (VP (TO to) 
+                    (VP (VB travel) 
+                      (PP-DIR (IN along) 
+                        (NP (DT a) (JJ single) (JJ optical) (NN line) ))))))))))
+      (: ;) 
+      (NP 
+        (NP (DT a) (NN light-wave) (NN system) )
+        (, ,) 
+        (SBAR 
+          (WHNP-3 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-3) )
+            (VP (VBZ carries) 
+              (NP (NN voice) (NNS channels) )))))
+      (: ;) 
+      (CC and)
+      (NP 
+        (NP (DT a) (NN network) (NN controller) )
+        (, ,) 
+        (SBAR 
+          (WHNP-4 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-4) )
+            (VP (VBZ directs) 
+              (NP (NN data) (NN flow) )
+              (PP-DIR (IN through) 
+                (NP (JJ cross-connect) (NNS systems) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP AT&T) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS products) )
+          (, ,) 
+          (PP (IN unlike) 
+            (NP (JJ previous) (NNS generations) ))
+          (, ,) 
+          (VP (MD will) 
+            (VP (VB meet) 
+              (NP 
+                (NP (JJ so-called) (NNP Sonet) (NN compatability) (NNS standards) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-1 (WDT which) )
+                  (S 
+                    (NP-SBJ (NNP AT&T) )
+                    (VP (VBZ expects) 
+                      (S 
+                        (NP-SBJ-2 (-NONE- *T*-1) )
+                        (VP (TO to) 
+                          (VP (VB be) 
+                            (VP 
+                              (ADVP (RB broadly) )
+                              (VBN adopted) 
+                              (NP (-NONE- *-2) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Sonet) )
+        (, ,) (CC or) 
+        (NP (JJ synchronous) (JJ optical) (NN network) )
+        (, ,) )
+      (NNS products) )
+    (VP (VBP have) 
+      (NP 
+        (NP (JJR more) (NN capacity) )
+        (PP (IN than) 
+          (NP (JJR earlier) (NNS models) ))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT These) (NNS products) )
+      (VP (VBP are) 
+        (NP-PRD 
+          (NP (DT the) (NN heart) )
+          (PP (IN of) 
+            (NP (PRP$ our) (NN transmission-product) (NN line) )))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Buchner) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (PRP He) )
+    (VP 
+      (VP (VBD declined) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB disclose) 
+              (NP (JJ specific) (NNS prices) )))))
+      (, ,) (CC but) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT each) (NN product) )
+            (VP (VBZ costs) 
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NNS tens) )
+                    (PP (IN of) 
+                      (NP (NNS thousands) ))
+                    (PP (-NONE- *RNR*-1) ))
+                  (, ,) (CC or) (RB even) 
+                  (NP 
+                    (NP (NNS hundreds) )
+                    (PP (IN of) 
+                      (NP (NNS thousands) ))
+                    (PP (-NONE- *RNR*-1) ))
+                  (, ,) 
+                  (PP-1 (IN of) 
+                    (NP (NNS dollars) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN AT&T) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB beat) 
+                  (PP-DIR (TO to) 
+                    (NP (DT the) (NN marketplace) ))
+                  (NP 
+                    (NP (CD two) (NNS rivals) )
+                    (, ,) 
+                    (NP 
+                      (NP 
+                        (NP (NNP Northern) (NNP Telecom) (NNP Ltd.) )
+                        (PP (IN of) 
+                          (NP (NNP Canada) )))
+                      (CC and) 
+                      (NP 
+                        (NP 
+                          (NP (NNP France) (POS 's) )
+                          (NNP Alcatel) (NNP N.V.) )
+                        (, ,) 
+                        (SBAR 
+                          (WHNP-1 (WDT which) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-1) )
+                            (ADVP (RB also) )
+                            (VP (VBP have) 
+                              (VP (VBN announced) 
+                                (NP (JJ Sonet-based) (NNS products) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP AT&T) )
+    (VP (VBD predicted) 
+      (NP 
+        (NP (JJ strong) (NN growth) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NN demand) )
+            (PP (IN for) 
+              (NP (JJ such) (NNS products) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD noted) 
+      (SBAR (IN that) 
+        (S 
+          (NP-TMP (JJ last) (NNP July) )
+          (, ,) 
+          (NP-SBJ 
+            (NP (NNP Nippon) (NNP Telegraph) (CC &) (NNP Telephone) (NNP Corp.) )
+            (PP (IN of) 
+              (NP (NNP Japan) )))
+          (VP (VBD selected) 
+            (NP 
+              (NP (NNP AT&T) )
+              (SBAR-PRP 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (TO to) 
+                    (VP (VB supply) 
+                      (NP 
+                        (NP 
+                          (QP ($ $) (CD 154) (CD million) )
+                          (-NONE- *U*) )
+                        (PP (IN of) 
+                          (NP (JJ such) (NN equipment) )))
+                      (PP-TMP (IN over) 
+                        (NP 
+                          (NP (DT a) (JJ four-year) (NN period) )
+                          (VP (VBG starting) 
+                            (NP-TMP (JJ next) (NN year) )))))))))))))
+    (. .) ))

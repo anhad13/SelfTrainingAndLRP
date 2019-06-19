@@ -1,0 +1,129 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP General) (NNP Electric) (NNP Capital) (NNP Corp.) (POS 's) )
+      (NNP Monogram) (NNP Bank) (NNP USA) )
+    (VP (VBD acquired) 
+      (NP (DT a) (NNP Visa) 
+        (CC and)
+        (NNP MasterCard) (NN portfolio) )
+      (PP-CLR (IN from) 
+        (NP 
+          (NP (NNP Commercial) (NNP Federal) (NNP Savings) (CC &) (NNP Loan) (NNP Association) )
+          (, ,) 
+          (NP 
+            (NP (DT an) 
+              (NAC-LOC (NNP Omaha) 
+                (, ,)
+                (NNP Neb.) 
+                (, ,)
+                )
+              (NN unit) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Commercial) (NNP Federal) (NNP Corp.) )
+                (PP (IN of) 
+                  (NP (NNP Omaha) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN portfolio) )
+      (ADVP-TMP (RB currently) )
+      (VP (VBZ includes) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 95) (CD million) )
+            (-NONE- *U*) )
+          (PP (IN in) 
+            (NP (NNS receivables) )))))
+    (, ,) 
+    (NP-SBJ (NNP GE) (NNP Capital) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP GE) (NNP Capital) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (JJ financial) (NNS services) (NN subsidiary) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP General) (NNP Electric) (NNP Co.) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Fairfield) )
+                (, ,) 
+                (NP (NNP Conn.) )
+                (, ,) ))
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (ADVP (RB also) )
+                (VP (VBZ has) 
+                  (NP 
+                    (UCP (NN broadcasting) 
+                      (CC and)
+                      (NNS electrical-products) )
+                    (NNS businesses) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP GE) (NNP Capital) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NNP Commercial) (NNP Federal) (NNP Savings) )
+          (VP (MD will) 
+            (VP (VB continue) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB market) 
+                    (NP (NNP Visa) 
+                      (CC and)
+                      (NNP MasterCard) (NNS programs) ))))
+              (SBAR-ADV (IN while) 
+                (S 
+                  (NP-SBJ (NNP Monogram) )
+                  (VP 
+                    (VP (VBZ provides) (`` ``) 
+                      (NP (JJ operational) 
+                        (CC and)
+                        (NN marketing) (NN support) )
+                      ('' '') )
+                    (CC and) 
+                    (VP 
+                      (ADVP (RB actually) )
+                      (VBZ owns) 
+                      (NP (DT the) (NNS accounts) ))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (PP (IN With) 
+        (NP (DT the) (NN acquisition) ))
+      (, ,) 
+      (NP-SBJ 
+        (NP (NNP Monogram) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Blue) (NNP Ash) )
+          (, ,) 
+          (NP (NNP Ohio) )
+          (, ,) ))
+      (VP (VBZ has) 
+        (NP 
+          (QP (JJR more) (IN than) (CD 2.4) (CD million) )
+          (JJ total) (NNS accounts) )))
+    (, ,) 
+    (NP-SBJ (NNP GE) (NNP Capital) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

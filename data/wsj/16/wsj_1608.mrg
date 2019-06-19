@@ -1,0 +1,97 @@
+
+( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (NNP Switzerland) (POS 's) )
+        (JJ wholesale) (NN price) (NN index) )
+      (VP 
+        (VP (VBD increased) 
+          (NP-EXT (CD 0.3) (NN %) )
+          (PP-TMP (IN in) 
+            (NP (NNP September) ))
+          (PP-DIR (IN from) 
+            (NP-TMP (NNP August) )))
+        (, ,) 
+        (CC and)
+        (VP (VBD was) 
+          (PP-PRD (IN up) 
+            (NP (CD 3.9) (NN %) )
+            (PP (IN from) 
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (RB ago) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG marking) 
+            (NP 
+              (NP (DT the) (JJ first) (NN time) )
+              (NP (DT this) (NN year) )
+              (SBAR 
+                (WHADVP-1 (IN that) )
+                (S 
+                  (NP-SBJ (DT the) (NN index) )
+                  (VP (VBZ has) 
+                    (VP (VBN fallen) 
+                      (PP-DIR (IN below) 
+                        (NP (CD 4) (NN %) ))
+                      (PP (IN on) 
+                        (NP (DT a) (JJ year-to-year) (NN basis) ))
+                      (ADVP-TMP (-NONE- *T*-1) ))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN government) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN government) )
+    (VP (VBD attributed) 
+      (NP 
+        (NP (DT the) 
+          (ADJP (CD 0.3) (NN %) )
+          (JJ month-to-month) (NN rise) )
+        (PP (IN in) 
+          (NP (DT the) (NN index) )))
+      (PP-CLR 
+        (ADVP (RB largely) )
+        (TO to) 
+        (NP (JJR higher) (NN energy) (NNS prices) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP August) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN index) )
+    (VP 
+      (VP (VBD was) 
+        (ADVP-PRD (RB up) 
+          (NP (CD 0.2) (NN %) )
+          (PP (IN from) 
+            (NP-TMP (DT the) (JJ previous) (NN month) ))))
+      (, ,) 
+      (CC and)
+      (VP (VBD was) 
+        (ADVP-PRD (RB up) 
+          (NP (CD 4.5) (NN %) )
+          (PP (IN on) 
+            (NP (DT a) (JJ year-to-year) (NN basis) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ wholesale) (NN price) (NN index) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-CLR (IN on) 
+          (NP 
+            (NP (CD 1963) )
+            (PP (IN as) 
+              (NP (CD 100) ))))))
+    (, ,) 
+    (VP (VBD was) 
+      (NP-PRD (CD 180.9) )
+      (PP-TMP (IN in) 
+        (NP (NNP September) )))
+    (. .) ))

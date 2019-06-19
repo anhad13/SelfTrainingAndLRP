@@ -1,0 +1,177 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP 
+          (NP (NNP Hong) (NNP Kong) (POS 's) )
+          (JJ main) (NN measure) )
+        (PP (IN of) 
+          (NP (NN consumer) (NNS prices) )))
+      (VP (VBD rose) 
+        (NP-EXT (CD 10) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))
+        (PP-TMP (IN from) 
+          (NP 
+            (NP (DT a) (NN year) )
+            (ADVP-TMP (RB earlier) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN government) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP Consumer) (NNP Price) (NNP Index) (`` ``) (NNP A) ('' '') )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ measures) 
+            (NP (NN price) (NNS changes) )
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (CD 50) (NN %) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (JJ urban) (NNS households) )
+                    (SBAR 
+                      (WHNP-2 (WDT that) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-2) )
+                        (VP (VBP spend) 
+                          (NP 
+                            (NP 
+                              (QP (IN between) (CD 2,000) (NNP Hong) (NNP Kong) (NNS dollars) 
+                                (PRN 
+                                  (-LRB- -LRB-)
+                                  (NP ($ US$) (CD 256.18) (-NONE- *U*) )
+                                  (-RRB- -RRB-) )
+                                (CC and) ($ HK$) (CD 6,499) )
+                              (-NONE- *U*) )
+                            (NP-ADV (DT a) (NN month) ))))))))))))
+      (, ,) )
+    (VP (VBD edged) 
+      (ADVP-CLR (RB up) )
+      (NP-EXT (CD 1.5) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (NNP September) ))
+      (PP-TMP (IN from) 
+        (NP (NNP August) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Index) (`` ``) (NNP B) ('' '') )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ monitors) 
+            (NP 
+              (NP (NN price) (NNS changes) )
+              (PP (IN for) 
+                (NP 
+                  (NP (DT the) (CD 30) (NN %) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (JJ urban) (NNS households) )
+                      (SBAR 
+                        (WHNP-2 (WDT that) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-2) )
+                          (VP (VBP spend) 
+                            (NP 
+                              (NP 
+                                (QP (IN between) ($ HK$) (CD 6,500) 
+                                  (CC and)
+                                  ($ HK$) (CD 9,999) )
+                                (-NONE- *U*) )
+                              (NP-ADV (DT a) (NN month) )))))))))))))
+      (, ,) )
+    (VP 
+      (VP (VBD rose) 
+        (NP-EXT (CD 9.9) (NN %) )
+        (NP-TMP (JJ last) (NN month) )
+        (PP-TMP (IN from) 
+          (NP 
+            (NP (DT a) (NN year) )
+            (ADVP-TMP (RB earlier) ))))
+      (CC and) 
+      (VP (VBD was) 
+        (ADVP-PRD (RB up) 
+          (NP-ADV (CD 1.3) (NN %) ))
+        (PP-TMP (IN from) 
+          (NP (DT the) (VBG preceding) (NN month) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP September) (POS 's) )
+        (NNP Hang) (NNP Seng) (NNP Consumer) (NNP Price) (NNP Index) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ measures) 
+            (NP 
+              (NP (NN price) (NNS changes) )
+              (PP (IN for) 
+                (NP 
+                  (NP (DT the) (CD 10) (NN %) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (JJ urban) (NNS households) )
+                      (VP (VBG spending) 
+                        (NP 
+                          (NP 
+                            (NP ($ HK$) (CD 10,000) (-NONE- *U*) )
+                            (CC and) 
+                            (NP ($ HK$) (CD 24,999) (-NONE- *U*) ))
+                          (NP-ADV (DT a) (NN month) ))))))))))))
+    (, ,) 
+    (VP 
+      (VP (VBD was) 
+        (ADVP-PRD-2 (RB up) 
+          (NP-ADV (CD 11) (NN %) ))
+        (PP-TMP-4 (IN from) 
+          (NP (DT a) (NN year) (RB ago) )))
+      (CC and) 
+      (VP 
+        (ADVP-PRD=2 (RB up) 
+          (NP-ADV (CD 1.3) (NN %) ))
+        (PP-TMP=4 (IN from) 
+          (NP (NNP August) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ main) (NNS factors) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) (NNP September) (NN increase) )
+          (PP (IN from) 
+            (NP (DT the) (JJ previous) (NN month) )))))
+    (VP (VBD were) 
+      (NP-PRD 
+        (NP (JJR higher) (NNS prices) )
+        (PP (IN for) 
+          (NP (NNS services) 
+            (, ,)
+            (NN food) 
+            (CC and)
+            (NN housing) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Prices) )
+      (PP (-NONE- *ICH*-1) ))
+    (VP (VBD fell) 
+      (ADVP (RB marginally) )
+      (PP-1 (IN for) 
+        (NP (NN fuel) 
+          (CC and)
+          (NN electricity) )))
+    (. .) ))

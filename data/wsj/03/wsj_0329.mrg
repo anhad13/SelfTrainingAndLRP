@@ -1,0 +1,171 @@
+
+( (S 
+    (NP-SBJ (NNP Coda) (NNP Energy) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD arranged) 
+            (NP (DT a) 
+              (ADJP 
+                (QP ($ $) (CD 50) (CD million) )
+                (-NONE- *U*) )
+              (NN credit) (NN facility) )
+            (PP-CLR (IN with) 
+              (NP 
+                (NP (NNP NCNB) (NNP Texas) (NNP National) (NNP Bank) )
+                (, ,) 
+                (NP 
+                  (NP (DT a) (NN unit) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP NCNB) (NNP Corp.) )
+                      (, ,) 
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNP Charlotte) )
+                          (, ,) 
+                          (NP (NNP N.C) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Dallas) (NN oil) 
+      (CC and)
+      (NN gas) (NN concern) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 
+            (NP 
+              (QP ($ $) (CD 10) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN of) 
+              (NP (DT the) (NN facility) )))
+          (VP (MD would) 
+            (VP (VB be) 
+              (VP (VBN used) 
+                (NP-3 (-NONE- *-1) )
+                (S-CLR 
+                  (NP-SBJ (-NONE- *-3) )
+                  (VP 
+                    (VP (TO to) 
+                      (VP (VB consolidate) 
+                        (NP 
+                          (NP 
+                            (NP (DT the) (NN company) (POS 's) )
+                            (QP ($ $) (CD 8.1) (CD million) )
+                            (-NONE- *U*) )
+                          (PP (IN of) 
+                            (NP (VBG existing) (NN bank) (NN debt) )))))
+                    (, ,) 
+                    (VP (TO to) 
+                      (VP (VB repurchase) 
+                        (NP 
+                          (NP 
+                            (QP (CD 4) (CD million) ))
+                          (PP (IN of) 
+                            (NP 
+                              (NP (PRP$ its) 
+                                (QP (CD 4.9) (CD million) )
+                                (NNS shares) )
+                              (ADJP (JJ outstanding) )
+                              (PP (IN of) 
+                                (NP (NNP Series) (NNP D) (JJ convertible) (JJ preferred) (NN stock) )))))))
+                    (, ,) 
+                    (CC and)
+                    (VP (TO to) 
+                      (VP (VB purchase) 
+                        (NP 
+                          (NP (DT a) 
+                            (ADJP (CD 10) (NN %) )
+                            (JJ net-profits) (NN interest) )
+                          (PP (IN in) 
+                            (NP (JJ certain) (NN oil) 
+                              (CC and)
+                              (NN gas) (NNS properties) )))
+                        (PP-CLR (IN from) 
+                          (NP 
+                            (NP 
+                              (NP (CD one) )
+                              (PP (IN of) 
+                                (NP (PRP$ its) (VBG existing) (NNS lenders) )))
+                            (, ,) 
+                            (NP (NNP National) (NNP Canada) (NNP Corp) )))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (VBG remaining) 
+        (QP ($ $) (CD 40) (CD million) )
+        (-NONE- *U*) )
+      (VP (MD can) 
+        (VP (VB be) 
+          (VP (VBN used) 
+            (NP (-NONE- *-1) )
+            (PP-TMP (IN over) 
+              (NP (CD three) (NNS years) ))
+            (PP (IN for) 
+              (NP (NN oil) 
+                (CC and)
+                (NN gas) (NNS acquisitions) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Ted) (NNP Eubank) )
+      (, ,) 
+      (NP 
+        (NP (NNP Coda) (POS 's) )
+        (NN president) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN loan) )
+          (VP (VBZ carries) 
+            (NP 
+              (NP (DT an) (NN interest) (NN rate) )
+              (PP (IN of) 
+                (NP 
+                  (NP (JJ prime) )
+                  (CC plus) 
+                  (NP (CD one) (NN percentage) (NN point) ))))
+            (, ,) 
+            (SBAR-ADV (IN with) 
+              (S 
+                (NP-SBJ 
+                  (NP (CD 85) (NN %) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (NP (DT the) (NN company) (POS 's) )
+                        (JJ net) (NN oil) 
+                        (CC and)
+                        (NN gas) (NN revenue) )
+                      (NP-TMP (DT each) (NN month) ))))
+                (VP (VBN dedicated) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (TO to) 
+                    (NP (NN repayment) ))))))))
+      (. .) )))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN company) )
+      (VP (VBD put) 
+        (PRT (RP up) )
+        (NP 
+          (NP (`` ``) (RB virtually) (DT all) ('' '') )
+          (PP (IN of) 
+            (NP (PRP$ its) (NN oil) 
+              (CC and)
+              (NN gas) (NNS properties) )))
+        (PP-CLR (IN as) 
+          (NP (NN collateral) ))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

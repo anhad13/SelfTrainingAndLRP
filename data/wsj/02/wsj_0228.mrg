@@ -1,0 +1,55 @@
+
+( (S 
+    (NP-SBJ-48 
+      (NP (NNP Robert) (NNP Q.) (NNP Marston) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (NN president) (NN emeritus) )
+          (, ,) 
+          (NP 
+            (NP (NNP University) )
+            (PP (IN of) 
+              (NP (NNP Florida) )))
+          (, ,) )
+        (CC and) 
+        (NP 
+          (NP (DT a) (NN director) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT this) (NN maker) )
+              (PP (IN of) 
+                (NP (JJ medical) (NNS devices) ))))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-48) )
+          (NP-PRD (NN chairman) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Dr.) (NNP Marston) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 66) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP Alexander) (NNP T.) (NNP Daignault) )
+        (, ,) 
+        (NP (CD 72) )
+        (, ,) 
+        (SBAR 
+          (WHNP-73 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-73) )
+            (VP (VBD did) (RB n't) 
+              (VP (VB stand) 
+                (PP-CLR (IN for) 
+                  (NP (NN re-election) ))
+                (ADVP-PRP (JJ due) 
+                  (PP (TO to) 
+                    (NP (JJ mandatory) (NN board) (NN retirement) (NN policy) )))))))))
+    (. .) ))

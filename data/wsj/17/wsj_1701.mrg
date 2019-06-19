@@ -1,0 +1,104 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Michael) (NNP F.) (NNP Harris) )
+      (, ,) 
+      (NP (CD 53) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (JJ executive) (NN vice) (NN president) )
+            (, ,) 
+            (NP-LOC (NNP North) (NNP America) )
+            (, ,) 
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (NNP Financial) (NNPS Times) )
+                (, ,) 
+                (NP 
+                  (NP (DT the) (NN business) (NN newspaper) )
+                  (VP (VBN published) 
+                    (NP (-NONE- *) )
+                    (PP (IN by) 
+                      (NP-LGS 
+                        (NP (DT this) (NN company) )
+                        (SBAR 
+                          (WHNP-2 (WDT that) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-2) )
+                            (ADVP (RB also) )
+                            (VP (VBZ has) 
+                              (NP 
+                                (NP (NNS interests) )
+                                (PP (IN in) 
+                                  (NP 
+                                    (NP (NN book) (NN publishing) )
+                                    (, ,) 
+                                    (NP (JJ fine) (NN china) )
+                                    (, ,) 
+                                    (NP (NN oil) (NNS services) )
+                                    (CC and) 
+                                    (NP (NN investment) (NN banking) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Harris) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (NN vice) (NN president) )
+          (PP (IN for) 
+            (NP 
+              (NP 
+                (NP (DT the) (NN newspaper) (POS 's) )
+                (NN advertising) )
+              (PP-LOC (IN in) 
+                (NP (NNP New) (NNP York) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ takes) 
+      (NP 
+        (NP (JJ additional) (NN responsibility) )
+        (PP (IN for) 
+          (NP 
+            (NP 
+              (NP (NN newspaper) (NNS sales) )
+              (CC and) 
+              (NP 
+                (NP (NN distribution) )
+                (PP (IN of) 
+                  (NP (DT the) (NNP Financial) (NNPS Times) ))))
+            (PP-LOC (IN in) 
+              (NP (NNP North) (NNP America) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (NNP Laurance) (NNP V.) (NNP Allen) )
+      (, ,) 
+      (NP (CD 44) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD had) 
+            (VP (VBN been) 
+              (NP-PRD 
+                (NP (NN director) )
+                (PP (IN for) 
+                  (NP (NNP North) (NNP America) )))))))
+      (, ,) )
+    (VP (VBD resigned) 
+      (S-PRP 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP 
+            (VP (VB pursue) 
+              (NP (JJ other) (NN business) (NNS interests) ))
+            (CC and) 
+            (VP (VB do) 
+              (NP (DT some) (NN consulting) ))))))
+    (. .) ))

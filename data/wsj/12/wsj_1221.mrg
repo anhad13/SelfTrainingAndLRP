@@ -1,0 +1,201 @@
+
+( (S 
+    (NP-SBJ (NNP Computer) (NNPS Associates) (NNP International) (NNP Inc.) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS earnings) )
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (JJ second) (NN quarter) )
+                (, ,) 
+                (VP (VBD ended) 
+                  (NP-TMP (NNP Sept.) (CD 30) ))
+                (, ,) )))
+          (VP (VBD plummeted) 
+            (NP-EXT (CD 66) (NN %) )
+            (, ,) 
+            (PP-PRP 
+              (ADVP (RB primarily) )
+              (IN because) (IN of) 
+              (NP 
+                (NP (DT the) (NN acquisition) )
+                (PP (IN of) 
+                  (NP (NNP Cullinet) (NNP Software) (NNP Inc) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN nation) (POS 's) )
+      (JJS largest) (NN software) (NN company) )
+    (VP (VBD earned) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 9.6) (CD million) )
+          (-NONE- *U*) )
+        (, ,) (CC or) 
+        (NP 
+          (NP (CD five) (NNS cents) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 28) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 16) (NNS cents) )
+              (NP-ADV (DT a) (NN share) )
+              (, ,) 
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (RBR earlier) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 5) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 282) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 268.3) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 
+        (NP (DT The) (NN drop) )
+        (PP (IN in) 
+          (NP (NNS earnings) )))
+      (VP (VBD had) 
+        (VP (VBN been) 
+          (VP (VBN anticipated) 
+            (NP (-NONE- *-1) )
+            (PP (IN by) 
+              (NP-LGS (JJS most) (NNP Wall) (NNP Street) (NNS analysts) ))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-2 (DT the) (NNS results) )
+      (VP (VBD were) 
+        (VP (VBN reported) 
+          (NP (-NONE- *-2) )
+          (SBAR-TMP (IN after) 
+            (S 
+              (NP-SBJ (DT the) (NN market) )
+              (VP (VBD closed) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Computer) (NNPS Associates) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 13.625) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (IN down) 
+        (NP (CD 25) (NNS cents) ))
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (JJ composite) (NN trading) )
+          (PP-LOC (IN on) 
+            (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Anthony) (NNP Wang) )
+      (, ,) 
+      (NP (NN president) )
+      (, ,) )
+    (VP (VBD attributed) 
+      (NP (DT the) (NN drop) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT the) (NN disruption) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN company) (POS 's) )
+              (NN business) ))
+          (VP (VBG resulting) 
+            (PP-CLR (IN from) 
+              (NP 
+                (NP (DT the) (VBN prolonged) (NN process) )
+                (PP (IN of) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG acquiring) 
+                      (NP (NNP Cullinet) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN acquisition) )
+    (VP (VBD was) 
+      (VP (VBN completed) 
+        (NP (-NONE- *-1) )
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP August) ))
+    (, ,) 
+    (S 
+      (NP-SBJ (DT the) (NN company) )
+      (VP (VBD warned) 
+        (NP (NNS investors) )
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (DT the) (NN acquisition) )
+            (VP (VBD was) 
+              (VP (VBG being) 
+                (VP (VBN delayed) 
+                  (NP (-NONE- *-1) ))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (JJ many) (NNS customers) )
+      (VP (VBD were) 
+        (VP (VBG holding) 
+          (PRT (RP off) )
+          (PP-CLR (IN on) 
+            (NP (NN purchase) (NNS decisions) ))
+          (SBAR-TMP (IN until) 
+            (S 
+              (NP-SBJ-2 (DT the) (NN takeover) )
+              (VP (VBD was) 
+                (VP (VBN completed) 
+                  (NP (-NONE- *-2) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS delays) )
+    (VP 
+      (ADVP (RB mainly) )
+      (VBD affected) 
+      (NP 
+        (NP (NNS sales) )
+        (PP (IN of) 
+          (NP 
+            (NP (NN data) (NN base) (NN management) (NNS products) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NN core) (NN area) )
+              (PP (IN for) 
+                (NP (DT both) 
+                  (NP (NNP Computer) (NNPS Associates) )
+                  (CC and) 
+                  (NP (NNP Cullinet) ))))
+            (, ,) ))
+        (ADVP (RB as) (RB well) 
+          (PP (IN as) 
+            (NP 
+              (NP (NNS sales) )
+              (PP (IN of) 
+                (NP (JJ other) (NNS products) ))
+              (PP (IN as) 
+                (NP 
+                  (NP (NN part) )
+                  (PP (IN of) 
+                    (NP (NN package) (NNS sales) )))))))))
+    (. .) ))

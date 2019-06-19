@@ -1,0 +1,124 @@
+
+( (S 
+    (NP-SBJ (NNP WEIRTON) (NNP STEEL) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD completed) 
+            (NP 
+              (NP 
+                (NP (DT a) 
+                  (ADJP 
+                    (QP ($ $) (CD 300) (CD million) )
+                    (-NONE- *U*) )
+                  (NN sale) )
+                (PP (IN of) 
+                  (NP (JJ 10-year) (NNS notes) )))
+              (, ,) 
+              (NP 
+                (NP (DT the) (JJ final) (NN step) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (DT the) (CD 1984) (NN buy-out) )
+                    (PP (IN of) 
+                      (NP (DT the) (NN company) ))
+                    (PP (IN from) 
+                      (NP (NNP National) (NNP Steel) (NNP Corp) ))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ-1 (DT The) 
+        (ADJP 
+          (QP (CD 10) (CD 7\/8) )
+          (NN %) )
+        (NNS notes) )
+      (VP (VBD were) 
+        (VP (VBN priced) 
+          (NP-2 (-NONE- *-1) )
+          (PP-CLR (IN at) 
+            (NP (CD 99.5) (NN %) ))
+          (S-CLR 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB yield) 
+                (NP (CD 10.958) (NN %) ))))
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (DT an) (NN offering) )
+              (VP (VBD managed) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (NNP Bear) 
+                      (, ,)
+                      (NNP Stearns) (CC &) (NNP Co.) )
+                    (, ,) 
+                    (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc.) )
+                    (CC and) 
+                    (NP (NNP Lazard) (NNP Freres) (CC &) (NNP Co.) )))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Weirton) )
+      (, ,) 
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Weirton) )
+          (, ,) 
+          (NP (NNP W.) (NNP Va.) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP 
+              (QP ($ $) (CD 60.3) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN of) 
+              (NP (DT the) (NNS proceeds) )))
+          (VP (VBD were) 
+            (VP (VBN used) 
+              (NP-2 (-NONE- *-1) )
+              (S-CLR 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB prepay) 
+                    (NP 
+                      (NP (DT the) (JJ remaining) (NNS amounts) )
+                      (PP (IN on) 
+                        (NP 
+                          (NP (DT the) (NN note) )
+                          (ADJP (JJ outstanding) ))))
+                    (PP-DTV (TO to) 
+                      (NP 
+                        (NP (NNP National) (NNP Intergroup) (NNP Inc.) )
+                        (, ,) 
+                        (NP 
+                          (NP (DT the) (NN parent) )
+                          (PP (IN of) 
+                            (NP (NNP National) (NNP Steel) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (JJ Remaining) (NNS proceeds) )
+    (VP (VBD were) 
+      (VP (VBN used) 
+        (NP-2 (-NONE- *-1) )
+        (S-CLR 
+          (NP-SBJ (-NONE- *-2) )
+          (VP 
+            (VP (TO to) 
+              (VP (VB pay) 
+                (NP (JJ other) (NN debt) )))
+            (CC and) 
+            (VP (TO to) 
+              (VP (VB finance) 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (NN capital) (NN spending) (NN program) )))))))
+    (. .) ))

@@ -1,0 +1,94 @@
+
+( (SINV 
+    (VP-TPC-1 (VBG Following) )
+    (VP (VBZ is) 
+      (VP (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP 
+        (NP (DT a) (JJ weekly) (NN listing) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ unadited) (JJ net) (NN asset) (NNS values) )
+            (PP (IN of) 
+              (NP (RB publicly) (JJ traded) (NN investment) (NN fund) (NNS shares) )))))
+      (, ,) 
+      (VP (VBN reported) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS (DT the) (NNS companies) ))
+        (PP-TMP (IN as) 
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Friday) (POS 's) )
+              (NN close) )))))
+    (. .) ))
+( (SINV 
+    (VP-TPC-2 
+      (ADVP (RB Also) )
+      (VBN shown) )
+    (VP (VBZ is) 
+      (VP (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP 
+        (NP 
+          (NP (DT the) (NN closing) (JJ listed) (NN market) (NN price) )
+          (PP (-NONE- *RNR*-1) ))
+        (CC or) 
+        (NP 
+          (NP (DT a) (JJ dealer-to-dealer) (JJ asked) (NN price) )
+          (PP (-NONE- *RNR*-1) )))
+      (PP-1 (IN of) 
+        (NP 
+          (NP (DT each) (NN fund) (POS 's) )
+          (NNS shares) ))
+      (, ,) 
+      (PP (IN with) 
+        (NP 
+          (NP (DT the) (NN percentage) )
+          (PP (IN of) 
+            (NP (NN difference) )))))
+    (. .) ))
+( (NP-HLN (NNP Closed) (NNP End) (NNP Bond) (NNPS Funds) ))
+( (NP-HLN (NNP Flexible) (NNP Portfolio) (NNPS Funds) ))
+( (NP-HLN 
+    (NP (NNP Specialized) (NNP Equity) )
+    (CC and) 
+    (NP (NNP Convertible) (NNPS Funds) )))
+( (NP 
+    (X (SYM a) )
+    (: -) 
+    (NP (NN Ex-dividend) )
+    (. .) ))
+( (PP-TMP 
+    (X (SYM b) )
+    (: -) 
+    (PP (IN As) 
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Thursday) (POS 's) )
+          (NN close) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (-NONE- *) )
+    (VP 
+      (X (SYM c) )
+      (: -) 
+      (VP (VBN Translated) 
+        (PP-CLR (IN at) 
+          (NP (NNP Commercial) (NNP Rand) (NN exchange) (NN rate) ))))
+    (. .) ))
+( (PP 
+    (X (SYM e) )
+    (: -) 
+    (PP (IN In) 
+      (NP (JJ Canadian) (NNS dollars) ))
+    (. .) ))
+( (PP-TMP 
+    (X (SYM f) )
+    (: -) 
+    (PP (IN As) 
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Wednesday) (POS 's) )
+          (NN close) )))
+    (. .) ))

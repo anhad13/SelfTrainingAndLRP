@@ -1,0 +1,48 @@
+
+( (NP 
+    (NP (VBN Annualized) (NN interest) (NNS rates) )
+    (PP (IN on) 
+      (NP (JJ certain) (NNS investments) ))
+    (SBAR-ADV (IN as) 
+      (S 
+        (NP-SBJ-1 (-NONE- *) )
+        (VP (VBN reported) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS (DT the) (NNP Federal) (NNP Reserve) (NNP Board) ))
+          (PP-MNR (IN on) 
+            (NP (DT a) (JJ weekly-average) (NN basis) )))))
+    (: :) ))
+( (FRAG 
+    (X (SYM a) )
+    (: -) 
+    (NP (VBN Discounted) (NN rate) )
+    (. .) ))
+( (FRAG 
+    (X (SYM b) )
+    (: -) 
+    (NP 
+      (NP (NN Week) )
+      (VP (VBN ended) 
+        (NP-TMP 
+          (NP (NNP Wednesday) 
+            (, ,)
+            (NNP October) (CD 25) 
+            (, ,)
+            (CD 1989) )
+          (CC and) 
+          (NP (NNP Wednesday) (NNP October) (CD 18) 
+            (, ,)
+            (CD 1989) ))))
+    (. .) ))
+( (FRAG 
+    (X (SYM c) )
+    (: -) 
+    (NP 
+      (NP (NNS Yields) )
+      (, ,) 
+      (VP (VBN adjusted) 
+        (NP (-NONE- *) )
+        (PP-CLR (IN for) 
+          (NP (JJ constant) (NN maturity) ))))
+    (. .) ))

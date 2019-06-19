@@ -1,0 +1,81 @@
+
+( (S 
+    (NP-SBJ-1 (NNP David) (NNP D.) (NNP Lung) )
+    (VP (VBD was) 
+      (VP (VBN appointed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN president) 
+              (CC and)
+              (NN chief) (VBG operating) (NN officer) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT this) (NN maker) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NN building) (NNS materials) )
+                    (PP (IN for) 
+                      (NP 
+                        (NP (JJ manufactured) (NNS homes) )
+                        (CC and) 
+                        (NP (JJ recreational) (NNS vehicles) )))))))))))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (NP (NN president) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Lung) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 42) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (PRP$ his) (NN father) )
+        (, ,) 
+        (NP (NNP Mervin) (NNP D.) (NNP Lung) )
+        (, ,) 
+        (NP (CD 66) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD founded) 
+              (NP (DT the) (NN company) )
+              (PP-TMP (IN in) 
+                (NP (CD 1959) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mervin) (NNP Lung) )
+    (VP (VBZ remains) 
+      (NP-PRD (NN chairman) 
+        (CC and)
+        (JJ chief) (NN executive) (NN officer) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP David) (NNP Lung) )
+    (VP 
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (PP-PRD (IN with) 
+            (NP (NNP Patrick) ))
+          (PP-TMP (IN since) 
+            (NP (CD 1970) ))))
+      (, ,) 
+      (CC and)
+      (VP (VBZ has) 
+        (VP (VBN served) 
+          (PP-CLR (IN as) 
+            (NP 
+              (NP (NN vice) (NN president) )
+              (PP (IN for) 
+                (NP (NN administration) 
+                  (CC and)
+                  (NN purchasing) ))))
+          (PP-TMP (IN since) 
+            (NP (CD 1987) )))))
+    (. .) ))

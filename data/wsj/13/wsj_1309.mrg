@@ -1,0 +1,437 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN series) )
+      (PP (IN of) 
+        (NP (NNS explosions) )))
+    (VP (VBD tore) 
+      (PP (IN through) 
+        (NP 
+          (NP (DT the) (JJ huge) (NNP Phillips) (NNP Petroleum) (NNP Co.) (NNS plastics) (NN plant) )
+          (PP-LOC (IN near) 
+            (NP (RB here) ))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP 
+          (VP (VBG injuring) 
+            (NP 
+              (NP (JJR more) )
+              (PP (IN than) 
+                (NP (DT a) (CD hundred) ))))
+          (CC and) 
+          (VP (VBG closing) 
+            (NP 
+              (NP (NNS parts) )
+              (PP (IN of) 
+                (NP (DT the) (NNP Houston) (NNP Ship) (NNP Channel) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (EX There) )
+      (VP (VBD were) 
+        (NP-PRD 
+          (NP (DT no) (JJ immediate) (NNS reports) )
+          (PP (IN of) 
+            (NP (NNS deaths) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (NNS officials) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ 
+              (NP (DT a) (NN number) )
+              (PP (IN of) 
+                (NP (NNS workers) )))
+            (VP (VBD were) 
+              (ADVP (RB still) )
+              (ADJP-PRD (JJ unaccounted) 
+                (PRT (IN for) ))
+              (NP-TMP (JJ last) (NN night) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (NAC-LOC (NNP Bartlesville) 
+        (, ,)
+        (NNP Okla.) 
+        (, ,)
+        )
+      (NN oil) (NN company) )
+    (ADVP-TMP (RB late) (NN yesterday) )
+    (ADVP (RB still) )
+    (VP (VBD had) (RB n't) 
+      (VP (VBN said) 
+        (ADVP-MNR (RB officially) )
+        (SBAR 
+          (WHNP-1 (WP what) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD caused) 
+              (NP 
+                (NP (DT the) (NNS explosions) 
+                  (CC and)
+                  (NNS fires) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-2 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-2) )
+                    (VP (VBD sent) 
+                      (S 
+                        (NP-SBJ 
+                          (NP (NNS columns) )
+                          (PP (IN of) 
+                            (NP (JJ heavy) (JJ black) (NN smoke) )))
+                        (VP (VBG billowing) 
+                          (ADVP-DIR (RB high) 
+                            (PP (IN into) 
+                              (NP (DT the) (NN air) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (CD One) (JJ local) (NNP Phillips) (NN manager) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT a) (NN seal) )
+            (PP-LOC (-NONE- *PPA*-1) ))
+          (VP (VBD blew) 
+            (PP-LOC-1 (IN in) 
+              (NP 
+                (NP (CD one) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN plant) (POS 's) )
+                    (NNS reactors) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP Glenn) (NNP Cox) )
+        (, ,) 
+        (NP 
+          (NP (NNP Phillips) (POS ') )
+          (NX 
+            (NX (NN president) )
+            (CC and) 
+            (NX (NN chief) (VBG operating) (NN officer) )))
+        (, ,) )
+      (CC and) 
+      (NP (JJ other) (NNP Phillips) (NNS officials) ))
+    (VP (VBD flew) 
+      (PP-DIR (IN from) 
+        (NP (NNP Bartlesville) ))
+      (S-PRP 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP 
+            (VP (VB assess) 
+              (NP (DT the) (NN damage) ))
+            (CC and) 
+            (VP (VB determine) 
+              (NP 
+                (NP (DT the) (NN cause) )
+                (PP (IN of) 
+                  (NP (DT the) (NN afternoon) (NNS explosions) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (JJ composite) (NN trading) )
+        (PP-LOC (IN on) 
+          (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))))
+    (, ,) 
+    (NP-SBJ (NNP Phillips) (NNP Petroleum) (NNS shares) )
+    (VP (VBD fell) 
+      (NP-EXT ($ $) (CD 1.125) (-NONE- *U*) )
+      (PP-DIR (TO to) 
+        (NP ($ $) (CD 23.125) (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS plastics) (NN plant) )
+    (VP (VBZ is) 
+      (VP (VBN located) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN on) 
+          (NP 
+            (NP (DT an) (JJ 800-acre) (NN tract) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT the) (NN heart) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN petrochemical) (NN corridor) )
+                    (SBAR 
+                      (WHNP-2 (WDT that) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-2) )
+                        (VP (VBZ reaches) 
+                          (PP-CLR (IN along) 
+                            (NP (DT the) (NNP U.S.) (NNP Gulf) (NNP Coast) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP U.S.) (NNP Coast) (NNP Guard) )
+    (VP (VBD closed) 
+      (NP 
+        (NP (CD six) (NNS miles) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNP Houston) (NNP Ship) (NNP Channel) )
+            (, ,) 
+            (SBAR 
+              (WHADVP-1 (WRB where) )
+              (S 
+                (NP-SBJ (RB about) (CD 150) (NNS companies) )
+                (VP (VBP have) 
+                  (NP (NNS operations) )
+                  (ADVP-LOC (-NONE- *T*-1) ))))
+            (, ,) )))
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ (DT the) (JJ thick) 
+            (, ,)
+            (JJ black) (NN smoke) )
+          (VP (VBD obscured) 
+            (NP (DT the) (NN area) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP Port) )
+      (PP (IN of) 
+        (NP (NNP Houston) )))
+    (VP (VBD closed) 
+      (NP 
+        (NP (PRP$ its) (NN terminal) )
+        (PP (IN for) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG handling) 
+              (NP (JJ bulk) (NN cargo) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (JJ Broken) (NN water) (NNS lines) )
+        (CC and) 
+        (NP (NN gas) (NNS leaks) ))
+      (VP (VBD hindered) 
+        (NP 
+          (NP (NNS firefighters) (POS ') )
+          (NNS efforts) )))
+    (, ,) (CC but) 
+    (S 
+      (PP-TMP (IN by) 
+        (NP (RB late) (NN yesterday) ))
+      (NP-SBJ (NNS authorities) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBD had) 
+              (S 
+                (NP-SBJ (DT the) (NN fire) )
+                (PP-PRD (IN under) 
+                  (NP (NN control) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS blasts) )
+    (VP 
+      (VP (VBD blew) 
+        (ADVP-DIR (RP out) )
+        (NP (NNS windows) ))
+      (, ,) 
+      (VP (VBD spewed) 
+        (NP (NN debris) )
+        (PP (IN for) 
+          (NP (NNS miles) )))
+      (CC and) 
+      (VP (VBD crumpled) 
+        (NP (DT the) (NN ceiling) )
+        (PP-LOC (IN in) 
+          (NP (DT an) (NN area) (JJ elementary) (NN school) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ initial) (NN fireball) )
+    (VP (VBD was) 
+      (VP (VBN caught) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (NNS cameras) )
+            (PP (IN in) 
+              (NP 
+                (NP (JJ downtown) (NNP Houston) )
+                (, ,) 
+                (ADVP-LOC 
+                  (NP 
+                    (QP (RB about) (CD 10) )
+                    (NNS miles) )
+                  (RB away) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NAC-LOC (JJ Nearby) (NNP Pasadena) 
+          (, ,)
+          (NNP Texas) 
+          (, ,)
+          )
+        (NN police) )
+      (VP (VBD reported) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (CD 104) (NNS people) )
+            (VP (VBD had) 
+              (VP (VBN been) 
+                (VP (VBN taken) 
+                  (NP (-NONE- *-1) )
+                  (PP-DIR (TO to) 
+                    (NP (NN area) (NNS hospitals) )))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (DT a) (NN spokeswoman) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT that) (NN toll) )
+            (VP (MD could) 
+              (VP (VB rise) ))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (DT The) (JJ injured) )
+        (, ,) 
+        (PP (VBG including) 
+          (NP 
+            (NP (CD three) )
+            (PP (IN in) 
+              (NP (JJ critical) (NN condition) ))))
+        (, ,) )
+      (VP (VBD were) 
+        (VP (VBN treated) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN for) 
+            (NP 
+              (NP (NNS burns) )
+              (, ,) 
+              (NP (NN breathing) (NNS problems) )
+              (CC and) 
+              (NP 
+                (NP (NNS cuts) )
+                (PP (IN from) 
+                  (NP (VBG flying) (NN glass) ))))))))
+    (, ,) 
+    (NP-SBJ (NN hospital) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN plant) )
+    (VP (VBZ employs) 
+      (NP 
+        (QP (IN between) (CD 800) 
+          (CC and)
+          (CD 900) ))
+      (PP-LOC-CLR (IN on) 
+        (NP (CD three) (NNS shifts) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN number) )
+      (VP (VBG working) 
+        (PP-TMP (IN at) 
+          (NP 
+            (NP (DT the) (NN time) )
+            (PP (IN of) 
+              (NP (DT the) (NN blast) ))))))
+    (VP (VBD was) (RB n't) 
+      (ADJP-PRD (VBN known) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Yesterday) (POS 's) )
+      (NNS explosions) )
+    (VP (VBD were) 
+      (NP-PRD 
+        (NP (DT the) (JJ second) (NN round) )
+        (PP-TMP (IN in) 
+          (NP (CD two) (NNS months) ))
+        (PP-LOC (IN at) 
+          (NP (DT the) (NNS plastics) (NN plant) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (JJ late) (NNP August) ))
+    (, ,) 
+    (S 
+      (NP-SBJ-1 (CD four) (NN contract) (NNS workers) )
+      (VP (VBD were) 
+        (VP (VBN injured) 
+          (NP (-NONE- *-1) ))))
+    (CC and) 
+    (S 
+      (NP-SBJ (CD one) (NNS Phillips) (NN employee) )
+      (VP (VBD died) ))
+    (PP-TMP (IN after) 
+      (NP 
+        (NP (DT an) (NN explosion) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (DT a) (NN fuel) (NN supply) (NN line) )
+            (PP-LOC (IN near) 
+              (NP 
+                (NP (DT the) (NN facility) (POS 's) )
+                (NN boiler) (NN house) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Phillips) (NN facility) )
+    (VP (VBZ manufactures) 
+      (NP 
+        (NP (NN polyethylene) 
+          (, ,)
+          (NN polypropylene) 
+          (CC and)
+          (NN K-resin) )
+        (, ,) 
+        (NP 
+          (NP (NNS plastics) )
+          (VP (VBN used) 
+            (NP (-NONE- *) )
+            (PP-CLR (IN in) 
+              (NP 
+                (NP (DT a) (JJ wide) (NN array) )
+                (PP (IN of) 
+                  (NP (NNS applications) ))
+                (, ,) 
+                (PP (VBG including) 
+                  (NP 
+                    (NP (NN milk) (NNS jugs) )
+                    (CC and) 
+                    (NP (NNS toys) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Plastics) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (DT the) (NN cornerstone) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (NNP Phillips) (POS ') )
+              (NNS chemicals) (NNS operations) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ is) 
+                  (NP-PRD 
+                    (NP (DT the) (JJS biggest) (JJ single) (NN contributor) )
+                    (PP (TO to) 
+                      (NP 
+                        (NP (DT the) (NN company) (POS 's) )
+                        (NNS profits) ))))))))))
+    (. .) ))

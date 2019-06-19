@@ -1,0 +1,155 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP Italy) (POS 's) )
+        (NN trade) (NN deficit) )
+      (VP (VBD narrowed) 
+        (PP-DIR (TO to) 
+          (NP 
+            (NP 
+              (QP (CD 2.007) (CD trillion) )
+              (NNS lire) )
+            (PRN 
+              (-LRB- -LRB-)
+              (NP 
+                (QP ($ $) (CD 1.49) (CD billion) )
+                (-NONE- *U*) )
+              (-RRB- -RRB-) ))
+          (PP-TMP (IN in) 
+            (NP (NNP September) )))
+        (PP-CLR (IN from) 
+          (NP 
+            (QP (CD 2.616) (CD trillion) )
+            (NNS lire) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN state) (JJ statistical) (NN office) (NNP Istat) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN deficit) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (QP (CD 466) (CD billion) )
+        (NNS lire) )
+      (PP-TMP (IN in) 
+        (NP (NNP August) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (DT the) (JJ first) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN trade) (NN deficit) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (QP (CD 14.933) (CD trillion) )
+        (NNS lire) )
+      (, ,) 
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP 
+              (QP (CD 10.485) (CD trillion) )
+              (NNS lire) )
+            (PP-TMP (IN in) 
+              (NP (DT the) (JJ year-earlier) (NN period) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Istat) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NNS statistics) )
+          (VP 
+            (VP (VBP are) 
+              (ADJP-PRD (JJ provisional) ))
+            (CC and) 
+            (VP (VBP are) (RB n't) 
+              (ADVP-PRD (RB seasonally) )
+              (VBN adjusted) 
+              (NP (-NONE- *-1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Imports) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 11) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 18.443) (CD trillion) )
+          (NNS lire) )
+        (PP-TMP (IN in) 
+          (NP (NNP September) )))
+      (PP-DIR (IN from) 
+        (NP-TMP (DT a) (NN year) (RBR earlier) ))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ (NNS exports) )
+          (VP (VBD rose) 
+            (NP-EXT (CD 17) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (QP (CD 16.436) (CD trillion) )
+                (NNS lire) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (NNS imports) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 20) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 155.039) (CD trillion) )
+          (NNS lire) ))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ (NNS exports) )
+          (VP (VBD grew) 
+            (NP-EXT (CD 18) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (QP (CD 140.106) (CD trillion) )
+                (NNS lire) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NN Import) (NNS values) )
+    (VP (VBP are) 
+      (VP (VBN calculated) 
+        (NP (-NONE- *-1) )
+        (PP (IN on) 
+          (NP (DT a) (NN cost) 
+            (, ,)
+            (NN insurance) 
+            (CC and)
+            (NN freight) 
+            (PRN 
+              (-LRB- -LRB-)
+              (JJ c.i.f) (. .) 
+              (-RRB- -RRB-)
+              )
+            (NN basis) ))
+        (, ,) 
+        (SBAR-ADV (IN while) 
+          (S 
+            (NP-SBJ-2 (NNS exports) )
+            (VP (VBP are) 
+              (VP (VBN accounted) 
+                (PP-CLR (IN for) 
+                  (NP (-NONE- *-2) ))
+                (PP (IN on) 
+                  (NP (DT a) (JJ free-on-board) 
+                    (PRN 
+                      (-LRB- -LRB-)
+                      (JJ f.o.b) (. .) 
+                      (-RRB- -RRB-)
+                      )
+                    (NN basis) ))))))))
+    (. .) ))

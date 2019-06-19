@@ -1,0 +1,561 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP McDonald) (POS 's) )
+      (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (S 
+            (NP-SBJ (JJ third-quarter) (NNS earnings) )
+            (VP (VBD rose) 
+              (NP-EXT (CD 14) (NN %) )
+              (PP (IN on) 
+                (NP (DT a) (JJ hefty) (NNS sales) (NN gain) ))))
+          (, ,) (CC but) 
+          (S 
+            (NP-SBJ (JJ domestic) (NNS franchisees) )
+            (ADVP (RB apparently) )
+            (VP (VBD did) (RB n't) 
+              (VP (VB partake) 
+                (PP-CLR (IN of) 
+                  (NP (DT the) (NN improvement) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN world) (POS 's) )
+      (JJS largest) (NN fast-food) (NN chain) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ net) (NN income) )
+          (VP (VBD rose) 
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 217.9) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD 59) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))))
+            (, ,) 
+            (PP-DIR (IN from) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 191.3) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD 51) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) )))
+              (, ,) 
+              (NP-TMP (DT a) (NN year) (IN ago) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (JJS latest) (NN period) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD had) 
+      (NP 
+        (NP 
+          (NP (DT an) (NN average) )
+          (PP (IN of) 
+            (NP 
+              (QP (CD 370.8) (CD million) )
+              (NNS shares) )))
+        (, ,) 
+        (PP 
+          (NP-ADV 
+            (QP (CD 5.6) (CD million) )
+            (NNS shares) )
+          (IN below) 
+          (NP 
+            (NP (JJ last) (NN year) (POS 's) )
+            (NN level) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 12) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 1.63) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 1.46) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Systemwide) (NNS sales) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBP include) 
+            (NP (NNS sales) 
+              (PP-LOC (IN at) 
+                (NP 
+                  (ADJP (NN franchisee) 
+                    (CONJP (RB as) (RB well) (IN as) )
+                    (JJ company-owned) )
+                  (NNS stores) ))))))
+      (, ,) )
+    (VP (VBD totaled) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 4.59) (CD billion) )
+          (-NONE- *U*) )
+        (PP (VBN compared) 
+          (PP (IN with) 
+            (NP 
+              (QP ($ $) (CD 4.2) (CD billion) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (NNS sales) )
+      (PP (IN for) 
+        (NP (NNP U.S.) (NNS franchisees) )))
+    (VP (VBD were) 
+      (ADJP-PRD (JJ flat) 
+        (PP (-NONE- *ICH*-1) ))
+      (ADVP (IN at) (RB best) )
+      (PP-1 (IN on) 
+        (NP (DT a) (JJ per-store) (NN basis) ))
+      (PP (IN despite) 
+        (NP (JJ weak) (CD 1988) (NNS figures) )))
+    (. .) ))
+( (S 
+    (PP (VBN Compared) 
+      (PP (IN with) 
+        (NP 
+          (NP (DT the) (JJ first) (CD nine) (NNS months) )
+          (PP (IN of) 
+            (NP (JJ last) (NN year) )))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (JJ average) (NN franchisee) (NN store) (NNS sales) )
+      (NP-TMP (DT this) (NN year) ))
+    (VP (VBD were) 
+      (PP-PRD (IN down) 
+        (NP 
+          (QP (RB nearly) ($ $) (CD 3,200) )
+          (-NONE- *U*) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG reflecting) 
+          (NP 
+            (NP (DT a) (JJ fierce) (VBG discounting) (NN war) )
+            (PP-LOC (IN among) 
+              (NP (NN fast-food) (NNS chains) ))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN Since) 
+      (S 
+        (NP-SBJ 
+          (NP (NNP McDonald) (POS 's) )
+          (NN menu) (NNS prices) )
+        (VP (VBD rose) 
+          (NP-TMP (DT this) (NN year) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (JJ actual) (NN decline) )
+    (VP (MD may) 
+      (VP (VB have) 
+        (VP (VBN been) 
+          (ADJP-PRD (JJR more) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP McDonald) (POS 's) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 31.375) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (IN up) 
+        (NP ($ $) (CD 1) (-NONE- *U*) ))
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN composite) (NN trading) ))
+      (NP-TMP (NN yesterday) ))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ-1 (NNS franchisees) )
+        (VP (VBD were) 
+          (VP (VBG having) 
+            (NP 
+              (NP (DT a) (JJ tough) (NN time) )
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG holding) 
+                  (NP (NNS sales) ))))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NN McDonald) (POS 's) )
+      (JJ company-operated) (NNS stores) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (JJ hefty) (NNS gains) )
+        (PP-TMP (IN for) 
+          (NP (DT the) (CD nine) (NNS months) )))
+      (, ,) 
+      (PP (IN with) 
+        (S-NOM 
+          (NP-SBJ 
+            (NP (NNS sales) )
+            (PP (IN per) 
+              (NP (JJ company-operated) (NN unit) )))
+          (VP (VBG rising) 
+            (NP-EXT ($ $) (CD 20,000) (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (CD One) (NN analyst) )
+    (VP (VBD noted) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (ADVP (RB often) )
+          (VP (VBZ has) 
+            (NP 
+              (NP (JJR better) (NN store) (NNS locations) )
+              (SBAR (IN than) 
+                (SINV (VBP do) 
+                  (NP-SBJ (PRP$ its) (NNS franchisees) )
+                  (VP (-NONE- *?*) ))))
+            (, ,) 
+            (ADVP (RB thus) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG aiding) 
+                  (NP (JJ promotional) (NNS efforts) ))))))))
+    (. .) ))
+( (S 
+    (PP (IN On) 
+      (NP (NN average) ))
+    (PP-TMP (IN in) 
+      (NP (DT the) (JJS latest) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (JJ company-operated) (NNS units) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NNP U.S.) )))
+    (VP (VBD had) 
+      (NP 
+        (NP ($ $) (CD 90,552) (-NONE- *U*) (RBR more) )
+        (PP (IN in) 
+          (NP (NNS sales) ))
+        (SBAR (IN than) 
+          (SINV (VBD did) 
+            (NP-SBJ (VBN franchised) (NNS outlets) )
+            (VP (-NONE- *?*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (EX There) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP 
+          (QP (RBR more) (IN than) (CD three) (NNS times) (IN as) (JJ many) )
+          (VBN franchised) (JJ domestic) (NNS outlets) )
+        (SBAR (IN as) 
+          (S 
+            (NP-SBJ (EX there) )
+            (VP (VBP are) 
+              (NP-PRD (NN company) (NNS stores) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Profit) (NNS margins) )
+      (PP-LOC (IN at) 
+        (NP (NNP U.S.) (JJ company-owned) (NNS stores) ))
+      (PP-TMP (IN in) 
+        (NP (DT the) (NN quarter) )))
+    (VP 
+      (VP (VBD were) 
+        (ADVP-PRD (IN up) 
+          (NP 
+            (QP (RB nearly) (CD 1) )
+            (NN %) )))
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP (VBD attributed) 
+            (NP (-NONE- *T*-1) )
+            (PP (IN in) 
+              (NP (NN part) ))
+            (PP-CLR (TO to) 
+              (NP (JJR lower) (NN food) (NNS costs) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Prudential-Bache) (NNPS Securities) (NN analyst) (NNP Leslie) (NNP Steppel) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (VBN reduced) (NN labor) (NNS costs) )
+          (VP (VBD helped) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (NN boost) 
+                (NP (NNS margins) )))
+            (, ,) 
+            (SBAR-ADV (IN although) 
+              (S 
+                (NP-SBJ (PRP she) )
+                (VP (VBD doubted) (`` ``) 
+                  (SBAR (-NONE- 0) 
+                    (S 
+                      (NP-SBJ 
+                        (NP (DT that) (NN kind) )
+                        (PP (IN of) 
+                          (NP (NN performance) )))
+                      (VP (VBZ is) 
+                        (ADJP-PRD (JJ sustainable) )))))))))))
+    (. .) ('' '') ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG Calling) 
+        (S 
+          (NP-SBJ (NNS sales) )
+          (`` ``) 
+          (ADJP-PRD (RB still) (RB relatively) (JJ soft) ))))
+    (, ,) ('' '') 
+    (NP-SBJ-1 (NNP Ms.) (NNP Steppel) )
+    (VP (VBZ believes) 
+      (SBAR (IN that) 
+        (S 
+          (PP (IN in) 
+            (NP (JJ real) (NNS terms) ))
+          (, ,) 
+          (NP-SBJ (NNP U.S.) (NNS sales) )
+          (VP (VBD slipped) 
+            (NP-EXT 
+              (QP (CD 3) (CD 1\/2) )
+              (NN %) )
+            (PP-DIR (TO to) 
+              (NP (CD 4) (NN %) ))
+            (PP-LOC (IN at) 
+              (NP (JJ company-operated) (NNS stores) ))
+            (PP-TMP (IN in) 
+              (NP (DT the) (NN quarter) ))))))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-2) )
+      (ADVP (RB Apparently) )
+      (VP (VBG acknowledging) 
+        (NP 
+          (NP (JJR weaker) (NNP U.S.) (NNS sales) )
+          (ADVP-LOC (JJ systemwide) ))))
+    (, ,) 
+    (NP-SBJ-2 (NNP McDonald) (POS 's) )
+    (VP (VBD vowed) (`` ``) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB use) 
+            (NP-3 (PRP$ our) (NN size) 
+              (CC and)
+              (NN muscle) )
+            (S-CLR 
+              (NP-SBJ (-NONE- *-3) )
+              (VP (TO to) 
+                (VP (VB do) 
+                  (NP 
+                    (NP (PDT all) )
+                    (SBAR 
+                      (WHNP-1 (DT that) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (VBZ is) 
+                          (ADJP-PRD (JJ necessary) )
+                          (S-PRP 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (TO to) 
+                              (VP (VB build) 
+                                (NP (DT the) (NN brand) )))))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (ADVP-LOC (RB Overseas) )
+    (, ,) 
+    (NP-SBJ (DT both) 
+      (NP (NNS franchisees) )
+      (CC and) 
+      (NP (DT the) (NN company) ))
+    (VP (VBD performed) 
+      (ADVP-MNR 
+        (ADVP (RB substantially) (RB better) )
+        (PP (IN than) 
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (IN ago) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (JJ Third-quarter) (NNS sales) )
+      (PP-LOC (IN in) 
+        (NP (NNP Europe) )))
+    (VP (VBD were) 
+      (ADJP-PRD (RB exceptionally) (JJ strong) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (VBN boosted) 
+          (NP (-NONE- *-2) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (JJ promotional) (NNS programs) )
+              (CC and) 
+              (NP (JJ new) (NNS products) )))))
+      (: --) 
+      (SBAR-ADV (IN although) 
+        (S 
+          (NP-SBJ (JJR weaker) (JJ foreign) (NNS currencies) )
+          (VP (VBD reduced) 
+            (NP 
+              (NP (DT the) (NN company) (POS 's) )
+              (NNS earnings) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP McDonald) (POS 's) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (JJ systemwide) (NNS sales) )
+          (VP (MD would) 
+            (VP (VB have) 
+              (VP (VBN been) 
+                (ADJP-PRD 
+                  (NP-ADV 
+                    (QP ($ $) (CD 115) (CD million) )
+                    (-NONE- *U*) )
+                  (JJR greater) )
+                (SBAR-ADV 
+                  (SINV (VBD had) 
+                    (NP-SBJ (CD 1988) (NN exchange) (NNS rates) )
+                    (VP (VBD remained) 
+                      (PP-CLR (IN in) 
+                        (NP (NN effect) )))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (S-TMP 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG Going) 
+          (PP-CLR (IN into) 
+            (NP (DT the) (JJ fourth) (NN quarter) ))))
+      (NP-SBJ (DT the) (NNS sales) (NN comparison) )
+      (VP (MD will) 
+        (VP (VB be) 
+          (ADJP-PRD (RBR more) (JJ difficult) ))))
+    (, ,) ('' '') 
+    (VP (VBN predicted) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NN restaurant) (NN analyst) (NNP Howard) (NNP Hansen) )
+      (PP (IN of) 
+        (NP (NNP Kidder) 
+          (, ,)
+          (NNP Peabody) (CC &) (NNP Co) )))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG Reflecting) 
+        (NP 
+          (NP (JJR better) (NN growth) (NNS prospects) )
+          (ADVP-LOC (RB abroad) ))))
+    (, ,) 
+    (NP-SBJ-1 (NNP McDonald) (POS 's) )
+    (VP (VBD noted) 
+      (SBAR (IN that) 
+        (S 
+          (PP-TMP (IN as) 
+            (PP (IN of) 
+              (NP (NNP Sept.) (CD 30) )))
+          (NP-SBJ 
+            (NP (JJR more) (NNS stores) )
+            (PP (-NONE- *ICH*-2) ))
+          (VP (VBD were) 
+            (PP-PRD (IN under) 
+              (NP (NN construction) ))
+            (ADVP-LOC (RB overseas) )
+            (PP-2 (IN than) 
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (IN ago) ))
+            (, ,) 
+            (SBAR-ADV (IN while) 
+              (S 
+                (NP-SBJ (DT the) (NN opposite) )
+                (VP (VBD was) 
+                  (ADJP-PRD (JJ true) )
+                  (PP (IN for) 
+                    (NP (JJ domestic) (NN expansion) )))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP 
+        (NP (DT the) (NN end) )
+        (PP (IN of) 
+          (NP (DT the) (JJ third) (NN quarter) ))))
+    (NP-SBJ-1 (NNP McDonald) (POS 's) )
+    (VP (VBD had) 
+      (S 
+        (NP-SBJ (CD 10,873) (NNS units) )
+        (VP (VBG operating) 
+          (S-LOC 
+            (NP-SBJ (-NONE- *-1) )
+            (ADJP-PRD (JJ world-wide) )))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (NNS earnings) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 12) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 555.6) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 1.49) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 494.4) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 1.31) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) )))
+        (, ,) 
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (RBR earlier) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 11) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 4.56) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 4.12) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))

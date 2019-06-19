@@ -1,0 +1,67 @@
+
+( (S 
+    (NP-SBJ (NNP Consolidated) (NNP Papers) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB spend) 
+                  (NP 
+                    (QP ($ $) (CD 495) (CD million) )
+                    (-NONE- *U*) )
+                  (PP-CLR (IN on) 
+                    (NP (JJ new) (JJ paper-manufacturing) (NN equipment) 
+                      (CC and)
+                      (NNS facilities) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN producer) )
+      (PP (IN of) 
+        (NP 
+          (NP (NN paper) )
+          (VP (VBN used) 
+            (NP (-NONE- *) )
+            (PP 
+              (PP-LOC (IN in) 
+                (NP (NNS magazines) ))
+              (CC and) 
+              (PP (IN by) 
+                (NP-LGS (JJ commercial) (NNS printers) )))))))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (VBG spending) )
+            (PP (IN on) 
+              (NP (DT the) (NN expansion) )))
+          (VP (VBZ is) 
+            (VP (VBN planned) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB begin) 
+                    (PP-TMP (IN in) 
+                      (NP 
+                        (NP (DT the) (JJ first) (NN quarter) )
+                        (PP (IN of) 
+                          (NP (CD 1990) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN expansion) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ subject) 
+        (PP (TO to) 
+          (NP 
+            (NP (NN approval) )
+            (PP (IN by) 
+              (NP 
+                (UCP (JJ federal) 
+                  (CC and)
+                  (NNP Wisconsin) )
+                (JJ environmental) (NNS regulators) ))))))
+    (. .) ))

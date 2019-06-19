@@ -1,0 +1,92 @@
+
+( (S 
+    (NP-SBJ (NNP American) (NNPS Physicians) (NNP Service) (NNP Group) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD purchased) 
+            (NP 
+              (NP 
+                (QP (IN about) (CD 42) )
+                (NN %) )
+              (PP (IN of) 
+                (NP (NNP Prime) (NNP Medical) (NNPS Services) (NNP Inc.) )))
+            (PP-CLR (IN for) 
+              (NP 
+                (QP (IN about) ($ $) (CD 5) (CD million) )
+                (-NONE- *U*) ))
+            (PP-CLR (IN from) 
+              (NP (NNP Texas) (NNP American) (NNP Energy) (NNP Corp) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP American) (NNPS Physicians) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (ADVP (RB also) )
+          (VP (VBD replaced) 
+            (NP 
+              (NP (CD four) (NNP Texas) (NNP American) (NNS representatives) )
+              (PP-LOC (IN on) 
+                (NP 
+                  (NP (NNP Prime) (POS 's) )
+                  (JJ five-member) (NN board) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP American) )
+    (VP (VBZ provides) 
+      (NP 
+        (NP (DT a) (NN variety) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ financial) (NNS services) )
+            (PP (TO to) 
+              (NP (NNS doctors) 
+                (CC and)
+                (NNS hospitals) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Prime) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Bedminster) )
+            (, ,) 
+            (NP (NNP N.J.) )
+            (, ,) ))))
+    (VP (VBZ provides) 
+      (NP (NN management) (NNS services) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (JJ cardiac) (NN rehabilitation) (NNS clinics) )
+          (CC and) 
+          (NP (JJ diagnostic) (NN imaging) (NNS centers) ))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP 
+        (NP (DT the) (NN year) )
+        (VP (VBD ended) 
+          (NP-TMP-CLR (NNP June) (CD 30) ))))
+    (, ,) 
+    (NP-SBJ (NNP Prime) )
+    (VP (VBD had) 
+      (NP 
+        (NP (DT a) (JJ net) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 3) (CD million) )
+            (-NONE- *U*) ))
+        (PP (IN on) 
+          (NP 
+            (NP (NNS sales) )
+            (PP (IN of) 
+              (NP 
+                (QP ($ $) (CD 13.8) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))

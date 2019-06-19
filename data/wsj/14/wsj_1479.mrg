@@ -1,0 +1,129 @@
+
+( (S 
+    (NP-SBJ (NNP Arizona) (NNP Instrument) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB post) 
+                  (NP 
+                    (NP (DT a) (JJ third-quarter) (JJ net) (NN loss) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP 
+                          (QP (IN about) ($ $) (CD 600,000) )
+                          (-NONE- *U*) )
+                        (, ,) (CC or) 
+                        (NP 
+                          (NP 
+                            (QP (CD 25) (NNS cents) (TO to) (CD 27) )
+                            (NNS cents) )
+                          (NP-ADV (DT a) (NN share) ))))
+                    (, ,) 
+                    (PP (VBN compared) 
+                      (PP (IN with) 
+                        (NP 
+                          (NP (JJ net) (NN income) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP 
+                                (NP ($ $) (CD 214,000) (-NONE- *U*) )
+                                (, ,) (CC or) 
+                                (NP 
+                                  (NP (CD 10) (NNS cents) )
+                                  (NP (DT a) (NN share) ))
+                                (, ,) )
+                              (ADVP-TMP 
+                                (NP (DT a) (NN year) )
+                                (RB earlier) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) 
+        (NAC-LOC (NNP Tempe) 
+          (, ,)
+          (NNP Ariz.) 
+          (, ,)
+          )
+        (NN maker) )
+      (PP (IN of) 
+        (NP (JJ underground) (NN fuel-storage) (NNS systems) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (RBS most) (JJ recent) (NN period) )
+          (VP (VBD was) 
+            (VP (VBN affected) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP 
+                    (NP (NNS customers) (POS ') )
+                    (NNS problems) )
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG complying) 
+                      (PP-CLR (IN with) 
+                        (NP (JJ recent) (NNP Environmental) (NNP Protection) (NNP Agency) (NNS regulations) )))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NN company) )
+    (VP (VBZ expects) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB post) 
+            (NP 
+              (NP (DT a) (JJ net) (NN loss) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (QP (IN about) ($ $) (CD 879,000) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP 
+                      (QP (CD 35) (NNS cents) (TO to) (CD 40) )
+                      (NNS cents) )
+                    (NP-ADV (DT a) (NN share) ))))
+              (, ,) 
+              (PP (IN on) 
+                (NP 
+                  (NP (NN revenue) )
+                  (PP (IN of) 
+                    (NP 
+                      (QP ($ $) (CD 6.5) (CD million) )
+                      (-NONE- *U*) )))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP 
+      (NP (DT A) (NN year) )
+      (RB earlier) )
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD had) 
+      (NP 
+        (NP (DT a) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (NP ($ $) (CD 199,203) (-NONE- *U*) )
+            (CC or) 
+            (NP 
+              (NP (CD nine) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) ))
+        (PP (IN on) 
+          (NP 
+            (NP (NN revenue) )
+            (PP (IN of) 
+              (NP ($ $) 
+                (QP (CD 7.6) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))

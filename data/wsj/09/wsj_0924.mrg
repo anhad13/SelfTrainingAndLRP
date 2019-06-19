@@ -1,0 +1,148 @@
+
+( (S 
+    (NP-SBJ (NNP Dominion) (NNP Textile) (NNP Inc.) (NNS holders) )
+    (VP (VBD adopted) 
+      (NP (DT a) (JJ shareholder-rights) (NN plan) )
+      (PP-LOC (IN at) 
+        (NP (DT the) (JJ annual) (NN meeting) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ so-called) (NN poison) (NN pill) )
+    (VP (VBD took) 
+      (NP-CLR (NN effect) )
+      (NP-TMP (NNP Aug.) (CD 9) )
+      (PP (VBG pending) 
+        (NP 
+          (NP (NN ratification) )
+          (PP (IN by) 
+            (NP-LGS (NNS holders) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Rights) )
+      (VP (VBN attached) 
+        (NP (-NONE- *) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (NN company) (POS 's) )
+            (JJ common) (NNS shares) )))
+      (SBAR (-NONE- *ICH*-4) ))
+    (VP (VBD were) 
+      (VP (VBN issued) 
+        (NP (-NONE- *-1) )
+        (SBAR-4 
+          (WHNP-3 (WDT that) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-3) )
+            (VP (VBP are) 
+              (VP (VBN triggered) 
+                (NP (-NONE- *-2) )
+                (SBAR-ADV (IN if) 
+                  (S 
+                    (NP-SBJ (DT a) (JJ hostile) (NN bidder) )
+                    (VP (VBZ acquires) 
+                      (NP 
+                        (NP 
+                          (QP (JJR more) (IN than) (CD 20) )
+                          (NN %) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (DT the) (NNS shares) )
+                            (ADJP (JJ outstanding) )))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP (RB Once) 
+      (S 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (VBN triggered) 
+          (NP (-NONE- *-2) ))))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NNS rights) )
+    (VP (VBP allow) 
+      (S 
+        (NP-SBJ (NNS holders) )
+        (VP 
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP (JJ additional) (NNS shares) )
+              (PP-CLR (IN at) 
+                (NP 
+                  (NP (CD 50) (NN %) )
+                  (PP (IN of) 
+                    (NP (DT the) 
+                      (ADJP (RB then) (JJ current) )
+                      (NN market) (NN price) ))))))
+          (CC or) 
+          (, ,)
+          (VP 
+            (PP (IN at) 
+              (NP 
+                (NP (DT the) (NN board) (POS 's) )
+                (NN discretion) ))
+            (, ,) (TO to) 
+            (VP (VB receive) 
+              (NP (NNS securities) (CC or) (NNS assets) ))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Separately) )
+    (, ,) 
+    (NP-SBJ (NNP Dominion) (NNP Textile) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (JJ net) (NN income) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP 
+                (QP (CD 4.7) (CD million) )
+                (JJ Canadian) (NNS dollars) )
+              (PRN 
+                (-LRB- -LRB-)
+                (NP 
+                  (QP ($ $) (CD 4) (CD million) )
+                  (-NONE- *U*) )
+                (-RRB- -RRB-) ))
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 12) (JJ Canadian) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) ))
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (JJ fiscal-first) (NN quarter) )
+            (VP (VBD ended) 
+              (NP-TMP (NNP Sept.) (CD 30) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD had) 
+      (NP 
+        (NP (DT a) (JJ net) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ C$) (CD 2.3) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 14) (JJ Canadian) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) )))
+      (ADVP-TMP 
+        (NP (DT a) (NN year) )
+        (IN ago) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBD were) 
+      (NP-PRD 
+        (QP ($ C$) (CD 348.2) (CD million) )
+        (-NONE- *U*) )
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP ($ C$) (CD 307.2) (-NONE- *U*) )
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RBR earlier) )))))
+    (. .) ))

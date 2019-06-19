@@ -1,0 +1,90 @@
+
+( (S 
+    (NP-SBJ (NNPS Citizens) (CC &) (NNP Southern) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD signed) 
+            (NP (DT a) (JJ definitive) (NN agreement) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB acquire) 
+                    (NP 
+                      (NP (NNP Security) (NNP Pacific) (NNP Corp.) (POS 's) )
+                      (NNP New) (JJ York-based) (NN factoring) (NN unit) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Terms) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NN bank) (NN holding) (NNS companies) (POS ') )
+          (NN agreement) )))
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Factoring) )
+    (VP (VBZ involves) 
+      (NP 
+        (NP (DT the) (NN purchase) 
+          (CC and)
+          (NN collection) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT another) (NN company) (POS 's) )
+            (NN receivables) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNPS Citizens) )
+        (, ,) 
+        (VP (VBN based) 
+          (NP (-NONE- *) )
+          (PP-LOC (IN in) 
+            (NP (NNP Atlanta) )))
+        (, ,) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ has) 
+              (NP 
+                (NP 
+                  (QP (IN about) ($ $) (CD 4.6) (CD billion) )
+                  (-NONE- *U*) )
+                (PP (IN in) 
+                  (NP (JJ factored) (NNS sales) )))
+              (ADVP-TMP (RB annually) ))))))
+    (: ;) 
+    (S 
+      (NP-SBJ (DT the) (NNP Security) (NNP Pacific) (NN unit) )
+      (VP (VBZ has) 
+        (NP 
+          (QP (IN about) ($ $) (CD 1.8) (CD billion) )
+          (-NONE- *U*) )
+        (ADVP-TMP (RB annually) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Security) (NNP Pacific) (POS 's) )
+      (NN factoring) (NN business) )
+    (VP (VBZ works) 
+      (PP-CLR (IN with) 
+        (NP 
+          (NP (NNS companies) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (DT the) (NN apparel) 
+                (, ,)
+                (NN textile) 
+                (CC and)
+                (NN food) (NNS industries) )
+              (, ,) 
+              (PP (IN among) 
+                (NP (NNS others) )))))))
+    (. .) ))

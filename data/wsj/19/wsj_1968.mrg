@@ -1,0 +1,46 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Steven) (NNP C.) (NNP Walker) )
+      (, ,) 
+      (NP 
+        (NP (JJ senior) (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP (DT this) (NN bank) (NN holding) (NN company) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN president) )
+              (, ,) 
+              (NP (JJ chief) (JJ executive) (NN officer) )
+              (CC and) 
+              (NP (DT a) (NN director) ))
+            (PP (IN of) 
+              (NP (CC both) 
+                (NP (NNP Commercial) (NNP National) )
+                (CC and) 
+                (NP (NNP Commercial) (NNP National) (NNP Bank) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP James) (NNP E.) (NNP Burt) (NNP III) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-1) )
+            (VP (VBD resigned) 
+              (PP-CLR (IN from) 
+                (NP (DT all) (CD three) (NNS posts) ))
+              (S-PRP 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB pursue) 
+                    (NP (JJ other) (NNS interests) )))))))))
+    (. .) ))

@@ -1,0 +1,85 @@
+
+( (S 
+    (NP-SBJ-2 
+      (NP (NNP Michael) (NNP A.) (NNP Gaskin) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 55) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (NP-PRD 
+            (NP 
+              (NP (NN president) )
+              (PP (-NONE- *RNR*-1) ))
+            (CC and) 
+            (NP 
+              (NP (NN chief) (JJ executive) (NN officer) )
+              (PP (-NONE- *RNR*-1) ))
+            (PP-1 (IN of) 
+              (NP 
+                (NP (DT this) (NN manufacturer) )
+                (PP (IN of) 
+                  (NP (JJ industrial) (NNS robots) ))))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (VBG succeeding) 
+            (NP (NNP Walter) (NNP K.) (NNP Weisel) )))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP Mr.) (NNP Weisel) )
+        (, ,) 
+        (NP (CD 49) )
+        (, ,) )
+      (VP 
+        (VP (VBD resigned) 
+          (PP-CLR (IN as) 
+            (NP 
+              (NP (NN president) )
+              (CC and) 
+              (NP (NN chief) (NN executive) ))))
+        (CC and) 
+        (VP (MD will) 
+          (VP (VB work) 
+            (PP-CLR (IN on) 
+              (NP (JJ special) (NNS projects) ))))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (NNP John) (NNP J.) (NNP Wallace) )
+      (, ,) 
+      (NP (NN chairman) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Gaskin) )
+    (VP 
+      (VP 
+        (ADVP-TMP (RB formerly) )
+        (VBD was) 
+        (NP-PRD 
+          (NP 
+            (NP (NN president) )
+            (PP (-NONE- *RNR*-2) ))
+          (CC and) 
+          (NP 
+            (NP (NN chief) (NN executive) )
+            (PP (-NONE- *RNR*-2) ))
+          (PP-2 (IN of) 
+            (NP (NNP Taylor) (CC &) (NNP Gaskin) (NNP Inc.) ))))
+      (CC and) 
+      (VP (VBD was) 
+        (NP-PRD 
+          (NP (DT a) (NN director) )
+          (PP (IN of) 
+            (NP (NNP Prab) (NNP Robots) )))
+        (PP-TMP (IN since) 
+          (NP (CD 1985) ))))
+    (. .) ))

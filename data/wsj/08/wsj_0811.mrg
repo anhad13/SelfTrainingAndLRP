@@ -1,0 +1,163 @@
+
+( (S 
+    (NP-SBJ (NNP BLOCKBUSTER) (NNP ENTERTAINMENT) (NNP CORP.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD raised) 
+            (NP 
+              (QP ($ $) (CD 92) (CD million) )
+              (-NONE- *U*) )
+            (PP-CLR (IN from) 
+              (NP 
+                (NP (DT an) (NN offering) )
+                (PP (IN of) 
+                  (NP (JJ liquid) (NN yield) (NN option) (NNS notes) ))))))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ-2 
+        (NP (DT The) (JJ gross) (NNS proceeds) )
+        (PP (IN from) 
+          (NP 
+            (NP (DT the) (NN sale) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NNS notes) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-1 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (MD will) 
+                      (VP (VB be) 
+                        (ADJP-PRD (JJ due) 
+                          (PP-TMP (IN on) 
+                            (NP (NNP Nov.) (CD 1) 
+                              (, ,)
+                              (CD 2004) )))))))
+                (, ,) )))))
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN used) 
+            (NP (-NONE- *-2) )
+            (UCP-CLR 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB reduce) 
+                    (NP (VBG existing) (NN debt) ))))
+              (CC and) 
+              (PP (IN for) 
+                (NP (JJ general) (JJ corporate) (NNS purposes) )))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN debt) (NN reduction) )
+    (VP (VBZ is) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB save) 
+              (NP (DT the) 
+                (NAC-LOC (NNP Fort) (NNP Lauderdale) 
+                  (, ,)
+                  (NNP Fla.) )
+                (NN home) (NN video) (NN concern) )
+              (NP 
+                (NP 
+                  (QP (RB about) ($ $) (CD 2) (CD million) )
+                  (-NONE- *U*) )
+                (NP-ADV (DT a) (NN year) )
+                (PP (IN in) 
+                  (NP (NN interest) (NN expense) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ zero-coupon) (JJ subordinated) (NNS notes) )
+    (VP (VBP have) 
+      (NP (DT no) (JJ periodic) (NN interest) (NNS payments) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT Each) (NN note) )
+    (VP (VBZ is) 
+      (VP (VBG being) 
+        (VP (VBN offered) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN at) 
+            (NP 
+              (NP ($ $) (CD 308.32) (-NONE- *U*) )
+              (PP (IN per) 
+                (NP 
+                  (ADJP ($ $) (CD 1,000) (-NONE- *U*) )
+                  (NN principal) (NN amount) ))
+              (PP (IN at) 
+                (NP (NN maturity) ))))
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG representing) 
+              (NP 
+                (NP (DT an) (CD 8) (NN %) (NN yield) )
+                (PP (TO to) 
+                  (NP (NN maturity) ))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ-1 (DT each) (NN note) )
+    (VP (MD can) 
+      (VP (VB be) 
+        (VP (VBN converted) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN into) 
+            (NP (NNP Blockbuster) (NNP Entertainment) (JJ common) (NN stock) ))
+          (PP-CLR (IN at) 
+            (NP 
+              (NP (DT a) (NN rate) )
+              (PP (IN of) 
+                (NP 
+                  (NP (CD 13.851) (NNS shares) )
+                  (PP (IN per) 
+                    (NP (NN note) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets) (NNP Inc.) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (JJ sole) (NN underwriter) )
+        (PP (IN for) 
+          (NP (DT the) (NN offering) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS notes) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (NP 
+          (NP (DT a) (NN principal) (NN amount) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 300) (CD million) )
+              (-NONE- *U*) )))
+        (PP-TMP (IN at) 
+          (NP (NN maturity) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Blockbuster) (NNS shares) )
+    (VP (VBD closed) 
+      (NP-TMP (NN yesterday) )
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 18.75) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (IN down) 
+        (NP ($ $) (CD 1.125) (-NONE- *U*) ))
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN trading) )))
+    (. .) ))

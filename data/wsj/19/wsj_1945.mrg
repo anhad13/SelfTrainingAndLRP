@@ -1,0 +1,49 @@
+
+( (S 
+    (NP-SBJ (NNP T.) (NNP Rowe) (NNP Price) (NNP Associates) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNS directors) )
+          (VP (VBD recommended) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (NNS stockholders) )
+                (VP (VB approve) 
+                  (NP 
+                    (NP (DT a) (JJ 2-for-1) (NN stock) (NN split) )
+                    (CC and) 
+                    (NP 
+                      (NP (DT an) (NN increase) )
+                      (PP-LOC (IN in) 
+                        (NP (JJ authorized) (NNS shares) ))
+                      (PP (TO to) 
+                        (NP 
+                          (QP (CD 25) (CD million) )))
+                      (PP (IN from) 
+                        (NP 
+                          (QP (CD 10) (CD million) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Stockholders) )
+    (VP (MD will) 
+      (VP (VB vote) 
+        (PP-CLR (IN on) 
+          (NP (DT the) (NN proposal) ))
+        (PP-LOC (IN at) 
+          (NP (DT a) (NN meeting) ))
+        (NP-TMP (NNP Dec.) (CD 13) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP T.) (NNP Rowe) (NNP Price) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT an) (NN investment) (NN adviser) )
+        (PP (TO to) 
+          (NP 
+            (NP (JJ mutual) (NNS funds) )
+            (, ,) 
+            (NP (NNS institutions) )
+            (CC and) 
+            (NP (NNS individuals) )))))
+    (. .) ))

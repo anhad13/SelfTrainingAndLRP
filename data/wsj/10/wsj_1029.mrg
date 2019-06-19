@@ -1,0 +1,157 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Bay) (NNP Financial) (NNP Corp.) )
+      (, ,) 
+      (NP-LOC (NNP Boston) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (VP 
+                (VP (VBG reporting) 
+                  (NP (JJ big) (NNS losses) ))
+                (CC and) 
+                (VP (VBG warning) 
+                  (PP-CLR (IN of) 
+                    (NP (DT a) (JJ possible) (NN bankruptcy-law) (NN filing) ))))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD was) 
+            (VP (VBN sued) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS (DT a) (NN holder) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ real) (NN estate) (NN investment) (NN trust) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (`` ``) (JJ purported) (NN class) (NN action) (NN suit) )
+          (, ,) ('' '') 
+          (VP (VBZ seeks) (`` ``) 
+            (NP 
+              (NP (NNS damages) )
+              (CC and) 
+              (NP (JJ other) (NNS remedies) ))
+            (PP-LOC (IN under) 
+              (NP 
+                (NP (JJ federal) (NNS securities) (NN law) )
+                (CC and) 
+                (NP (NN state) (NN law) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Gerald) (NNP E.) (NNP Wilson) )
+      (, ,) 
+      (NP 
+        (NP (JJ corporate) (NN secretary) )
+        (CC and) 
+        (NP (JJ legal) (NN counsel) ))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP (MD would) (RB n't) 
+            (VP (VB disclose) 
+              (NP (JJR further) (NNS details) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (PRP He) )
+    (VP (VBD declined) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB name) 
+            (NP 
+              (NP (DT the) (NN shareholder) )
+              (, ,) 
+              (NP 
+                (NP (DT the) (NN plaintiff) (POS 's) )
+                (NN lawyer) )
+              (CC or) 
+              (NP 
+                (NP (DT the) (NN court) )
+                (SBAR 
+                  (WHADVP-3 (WRB where) )
+                  (S 
+                    (NP-SBJ-1 (DT the) (NN lawsuit) )
+                    (VP (VBD was) 
+                      (VP (VBN filed) 
+                        (NP (-NONE- *-1) )
+                        (ADVP-LOC-CLR (-NONE- *T*-3) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Bay) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ has) 
+            (NP 
+              (NP (JJ substantial) (NNS investments) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (VBG floundering) (NNP Massachusetts) (NN market) ))))))
+      (, ,) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 62) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP ($ $) (CD 15.97) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) ))
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (JJ fiscal) (NN year) )
+            (VP (VBN ended) 
+              (NP (-NONE- *) )
+              (NP-TMP-CLR (NNP June) (CD 30) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ has) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (MD might) 
+              (VP (VB seek) 
+                (NP 
+                  (NP (NN bankruptcy-court) (NN protection) )
+                  (PP (IN from) 
+                    (NP (NN creditor) (NNS lawsuits) )))
+                (SBAR-ADV (IN if) 
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (MD ca) (RB n't) 
+                      (VP (VB renegotiate) 
+                        (NP (PRP$ its) (NNS borrowings) )))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (NNP Bay) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 2.625) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP (CD 25) (NNS cents) )))
+    (. .) ))

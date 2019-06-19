@@ -1,0 +1,222 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Lomas) (NNP Financial) (NNP Corp.) )
+      (, ,) 
+      (NP (NNP Dallas) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB ask) 
+              (NP-1 (DT a) (NNP U.S.) (NN bankruptcy) (NN court) )
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB allow) 
+                    (NP-SBJ (PRP it) )
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB hire) 
+                          (NP 
+                            (NP (NNP Lazard) (NNP Freres) )
+                            (CC &) 
+                            (NP (NNP Co.) ))
+                          (S-CLR 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (TO to) 
+                              (VP (VB help) 
+                                (S 
+                                  (NP-SBJ (PRP it) )
+                                  (VP (VB sell) 
+                                    (NP (PRP$ its) (NN leasing) (NN unit) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Lomas) )
+      (, ,) 
+      (VP (VBN assisted) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS (NNP Merrill) (NNP Lynch) (NNP Capital) (NNPS Markets) )))
+      (, ,) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (VP (VBG trying) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB sell) 
+                (NP (PRP$ its) (NNP Equitable) (NNP Lomas) (NNP Leasing) (NNP Co.) ))))
+          (PP-TMP (IN for) 
+            (NP (JJ several) (NNS months) ))
+          (, ,) 
+          (PP 
+            (ADVP (RB apparently) )
+            (IN without) 
+            (NP (NN success) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ real) (NN estate) 
+      (CC and)
+      (NN mortgage) (NN banking) (NN concern) )
+    (VP (VBD had) 
+      (VP (VBN hoped) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB use) 
+              (NP 
+                (NP (NNS proceeds) )
+                (PP (IN from) 
+                  (NP (DT the) (NN sale) )))
+              (S-CLR 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB reduce) 
+                    (NP (PRP$ its) (NN debt) )))))))))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-2) )
+      (UCP-PRD 
+        (PP (IN Without) 
+          (NP 
+            (NP (NN cash) )
+            (PP (IN from) 
+              (NP (NN asset) (NNS sales) ))))
+        (CC and) 
+        (ADJP (JJ unable) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB reach) 
+                (NP (DT a) (JJ new) (NN bank-credit) (NN agreement) )))))))
+    (, ,) 
+    (NP-SBJ-2 (NNP Lomas) )
+    (VP (VBD defaulted) 
+      (PP-LOC-CLR (IN on) 
+        (NP 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 145) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN in) 
+              (NP (NNS notes) )))
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD became) 
+                (ADJP-PRD (JJ due) )
+                (NP-TMP (NNP Sept.) (CD 1) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD filed) 
+      (PP-CLR (IN for) 
+        (NP 
+          (NP (NN protection) )
+          (PP (IN from) 
+            (NP (NNS creditors) ))))
+      (PP-LOC (IN under) 
+        (NP 
+          (NP (NN Chapter) (CD 11) )
+          (PP (IN of) 
+            (NP (DT the) (JJ federal) (NNP Bankruptcy) (NNP Code) ))))
+      (NP-TMP (NNP Sept.) (CD 24) )
+      (S-PRP 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB give) 
+            (NP (PRP it) )
+            (NP 
+              (NP (JJ additional) (NN time) )
+              (SBAR 
+                (WHADVP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB work) 
+                      (PP-LOC-CLR (IN on) 
+                        (NP (DT a) (NN plan) 
+                          (S 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (TO to) 
+                              (VP (VB restructure) 
+                                (NP 
+                                  (NP (PRP$ its) 
+                                    (QP ($ $) (CD 1.45) (CD billion) )
+                                    (-NONE- *U*) )
+                                  (PP (IN in) 
+                                    (NP (JJ senior) (NN debt) )))))
+                            (ADVP-TMP (-NONE- *T*-1) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Lomas) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Merrill) (NNP Lynch) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ owns) 
+                  (NP 
+                    (NP (NNS bonds) 
+                      (CC and)
+                      (NN equity) )
+                    (PP-LOC (IN in) 
+                      (NP (NNP Lomas) ))))))
+            (, ,) )
+          (VP (MD could) (RB n't) 
+            (VP (VB continue) 
+              (PP-CLR (IN as) 
+                (NP 
+                  (NP (NNP Lomas) (POS 's) )
+                  (NN investment) (NN banker) ))
+              (SBAR-PRP (IN because) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBZ is) 
+                    (ADVP (RB also) )
+                    (NP-PRD (DT a) (NN creditor) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD chose) 
+            (NP (NNP Lazard) )
+            (PP (IN in) 
+              (NP (NN part) ))
+            (PP-PRP (IN because) (IN of) 
+              (NP 
+                (NP 
+                  (NP (NNP Lazard) (POS 's) )
+                  (NNS offices) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (NNP Europe) 
+                      (CC and)
+                      (NNP Japan) )
+                    (, ,) 
+                    (SBAR 
+                      (WHADVP-1 (WRB where) )
+                      (S 
+                        (NP-SBJ (NNS investors) )
+                        (VP (MD might) 
+                          (VP (VB be) 
+                            (ADJP-PRD (JJ interested) 
+                              (PP (IN in) 
+                                (NP (DT a) (NNP U.S.) (NN leasing) (NN company) )))
+                            (ADVP-LOC (-NONE- *T*-1) )))))))))))))
+    (. .) ))

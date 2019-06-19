@@ -1,0 +1,225 @@
+
+( (S 
+    (NP-SBJ (NNP Dun) (CC &) (NNP Bradstreet) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN business) (NNS failures) )
+          (VP (VBD fell) 
+            (NP-ADV (CD 17.8) (NN %) )
+            (PP-DIR (TO to) 
+              (NP (CD 11,586) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ third) (NN quarter) )))
+            (PP-DIR (IN from) 
+              (NP (CD 14,099) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ year-earlier) (NN period) )))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP 
+        (NP (DT the) (JJ first) (CD nine) (NNS months) )
+        (PP (IN of) 
+          (NP (DT this) (NN year) ))))
+    (, ,) 
+    (NP-SBJ (NN business) (NNS failures) )
+    (VP (VBD dropped) 
+      (NP-ADV (CD 15.6) (NN %) )
+      (PP-DIR (TO to) 
+        (NP (CD 37,820) ))
+      (PP-DIR (IN from) 
+        (NP (CD 44,796) )))
+    (. .) ))
+( (S 
+    (PP (IN Except) 
+      (PP (IN for) 
+        (NP 
+          (NP (DT a) (JJ few) (NNS spots) )
+          (, ,) 
+          (ADVP (RB notably) )
+          (NP (NNP Georgia) 
+            (, ,)
+            (NNP Virginia) 
+            (CC and)
+            (NNP Michigan) )
+          (, ,) )))
+    (NP-SBJ (NNS failures) )
+    (VP (VBD declined) 
+      (PP-LOC 
+        (ADVP (RB almost) )
+        (IN across) 
+        (NP (DT the) (NN board) ))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP (DT the) (NN business) (NN information) (NNS services) (NN company) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN D&B) )
+    (VP (VBZ defines) 
+      (NP (DT a) (NN business) (NN failure) )
+      (PP-CLR (IN as) 
+        (NP 
+          (NP (DT a) (NN company) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBZ closes) 
+                (PP-MNR (IN with) 
+                  (NP 
+                    (NP (NNS losses) )
+                    (PP (TO to) 
+                      (NP (NNS creditors) ))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (JJ current) (NN decline) )
+        (PP-LOC (IN in) 
+          (NP (NNS failures) )))
+      (VP (VBZ continues) 
+        (NP 
+          (NP (DT a) (NN trend) )
+          (VP (VBN begun) 
+            (NP (-NONE- *) )
+            (PP-TMP (IN in) 
+              (NP (JJ late) (CD 1987) ))))))
+    (, ,) 
+    (NP-SBJ (NNP D&B) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN drop) )
+      (VP (VBD accelerated) 
+        (PP-TMP (IN in) 
+          (NP 
+            (NP (DT this) (NN year) (POS 's) )
+            (JJ third) (NN quarter) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG underscoring) 
+            (NP 
+              (NP (DT an) (JJ overall) (NN lack) )
+              (PP (IN of) 
+                (NP (NN stress) ))
+              (PP-LOC (IN in) 
+                (NP (DT the) (NNP U.S.) (NN economy) )))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Failures) )
+      (PP (IN in) 
+        (NP 
+          (QP (CD seven) (IN of) (CD nine) )
+          (JJ regional) (NNS areas) )))
+    (VP (VBD fell) 
+      (NP-ADV 
+        (QP (JJR more) (IN than) (CD 10) )
+        (NN %) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (CD nine) (NNS months) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP South) (NNP Atlantic) (NNPS States) )
+    (VP (VBD were) 
+      (NP-PRD 
+        (NP (DT the) (JJ only) (NN region) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB report) 
+                (NP 
+                  (NP (DT an) (NN increase) )
+                  (PP-LOC (IN in) 
+                    (NP (NNS bankruptcies) )))
+                (, ,) 
+                (ADVP (RB up) 
+                  (NP (CD 5.3) (NN %) )
+                  (PP-DIR (TO to) 
+                    (NP (CD 5,791) ))
+                  (PP-DIR (IN from) 
+                    (NP (CD 5,502) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT This) )
+    (VP (VBD occurred) 
+      (PP-PRP 
+        (ADVP (RB partly) )
+        (IN because) (IN of) 
+        (NP (JJR more) (NN competition) ))
+      (SBAR-ADV (IN as) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN number) )
+            (PP (IN of) 
+              (NP (JJ new) (NNS businesses) )))
+          (VP (VBD surged) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ only) (NN industry) (NN sector) )
+      (SBAR 
+        (WHNP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (TO to) 
+            (VP (VB report) 
+              (NP 
+                (NP (JJR more) (NN business) (NNS failures) )
+                (PP-TMP (IN for) 
+                  (NP (DT the) (CD nine) (NNS months) ))))))))
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT the) 
+          (UCP (NN finance) 
+            (, ,)
+            (NN insurance) 
+            (CC and)
+            (NN real-estate) )
+          (NN sector) )
+        (, ,) 
+        (SBAR 
+          (WHADVP-2 (WRB where) )
+          (S 
+            (NP-SBJ (NNS bankruptcies) )
+            (VP (VBD grew) 
+              (NP-ADV (CD 8.1) (NN %) )
+              (PP-DIR (TO to) 
+                (NP (CD 2,046) ))
+              (PP-DIR (IN from) 
+                (NP (CD 1,892) ))
+              (ADVP-LOC (-NONE- *T*-2) ))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (JJ troubled) (NN savings-and-loan) (NN industry) )
+        (CC and) 
+        (NP 
+          (NP (JJ subsequent) (NN stress) )
+          (PP-LOC (IN in) 
+            (NP (NN real-estate) (NNS businesses) ))))
+      (VP (VBD fueled) 
+        (NP 
+          (NP (NNS bankruptcies) )
+          (PP-LOC (IN in) 
+            (NP (DT this) (NN sector) )))))
+    (, ,) 
+    (NP-SBJ (NNP D&B) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

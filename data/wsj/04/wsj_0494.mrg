@@ -1,0 +1,141 @@
+
+( (S 
+    (NP-SBJ (NNP Pacific) (NNP Telesis) (NNP Group) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NNP Pacific) (NNP Bell) (NN unit) )
+          (VP (VBD sustained) 
+            (NP 
+              (NP (NN property) (NN damage) )
+              (PP (IN of) 
+                (NP 
+                  (QP (RB about) ($ $) (CD 45) (CD million) (TO to) ($ $) (CD 50) (CD million) )
+                  (-NONE- *U*) ))
+              (PP (IN from) 
+                (NP 
+                  (NP (DT the) (NNP California) (NN earthquake) )
+                  (NP-TMP (RBR earlier) (DT this) (NN month) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (ADJP (NNP San) (JJ Francisco-based) )
+      (NNS telecommunications) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ carries) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 150) (CD million) )
+                (-NONE- *U*) )
+              (PP (IN of) 
+                (NP (NN earthquake) (NN insurance) ))
+              (PP (IN with) 
+                (NP (DT a) 
+                  (ADJP 
+                    (QP ($ $) (CD 10) (CD million) )
+                    (-NONE- *U*) )
+                  (JJ deductible) (NN provision) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Sam) (NNP Ginn) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (CC and) 
+        (NP (JJ chief) (NN executive) (NN officer) ))
+      (, ,) )
+    (VP (VBD told) 
+      (NP 
+        (NP (NNS securities) (NNS analysts) )
+        (PP-LOC (IN in) 
+          (NP (NNP New) (NNP York) )))
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP (VBZ expects) 
+            (NP 
+              (ADJP (RB somewhat) (JJR slower) )
+              (JJ per-share) (NNS earnings) (NN growth) )
+            (PP-TMP (IN in) 
+              (NP (CD 1990) ))
+            (, ,) 
+            (SBAR-ADV (IN although) 
+              (S 
+                (NP-SBJ (JJ annual) (NN growth) )
+                (VP (MD should) 
+                  (VP (VB return) 
+                    (PP-DIR (TO to) 
+                      (NP 
+                        (NP (DT the) (JJ traditional) (NN figure) )
+                        (PP (IN of) 
+                          (NP 
+                            (QP (RB about) (CD 7) )
+                            (NN %) ))))
+                    (ADVP-TMP (RB thereafter) )))))))))
+    (. .) ))
+( (S 
+    (PP-CLR-TPC-2 (IN As) 
+      (NP 
+        (NP (NNS factors) )
+        (VP (VBG contributing) 
+          (PP-CLR (TO to) 
+            (NP (DT the) (JJ temporary) (NN slowdown) )))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD cited) 
+      (NP 
+        (NP (JJ one-time) (NN rate) (NNS reductions) )
+        (VP (VBN prescribed) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (NNP California) (NNS regulators) ))
+          (PP (IN as) 
+            (NP 
+              (NP (DT a) (NN prelude) )
+              (PP (TO to) 
+                (NP 
+                  (NP (DT a) (JJ new) (NN framework) )
+                  (SBAR 
+                    (WHNP-1 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBZ removes) 
+                        (NP (NN profit) (NNS constraints) ))))))))))
+      (PP-CLR (-NONE- *T*-2) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (ADVP (RB also) )
+    (VP (VBD mentioned) 
+      (NP 
+        (NP (VBN increased) (NN capital) (NN investment) )
+        (PP (IN by) 
+          (NP (NNP Pacific) (NNP Bell) ))
+        (PP (IN for) 
+          (NP (NN network) (NNS improvements) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Ginn) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN company) (POS 's) )
+            (JJ cellular) (NNS operations) )
+          (ADVP-TMP (RB now) )
+          (VP (VBP serve) 
+            (NP 
+              (QP (RB about) (CD 341,000) )
+              (NNS customers) )
+            (, ,) 
+            (ADVP (RB up) 
+              (NP (CD 46) (NN %) )
+              (PP (IN from) 
+                (ADVP-TMP 
+                  (NP (DT a) (NN year) )
+                  (RB ago) )))))))
+    (. .) ))

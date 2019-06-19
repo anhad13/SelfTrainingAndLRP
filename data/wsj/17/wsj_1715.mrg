@@ -1,0 +1,134 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP W.R.) (NNP Grace) (CC &) (NNP Co.) )
+      (, ,) 
+      (NP-LOC (NNP New) (NNP York) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP$ its) (NNS earnings) )
+            (PP (IN for) 
+              (NP (DT the) (JJ third) (NN quarter) )))
+          (VP 
+            (ADVP (RB nearly) )
+            (VBD doubled) 
+            (PP-PRP (IN as) 
+              (NP 
+                (NP (DT a) (NN result) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT a) 
+                      (ADJP 
+                        (QP ($ $) (CD 114.4) (CD million) )
+                        (-NONE- *U*) )
+                      (JJ pre-tax) (NN gain) )
+                    (PP (IN from) 
+                      (NP 
+                        (S-NOM 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (VBG restructuring) 
+                            (NP (PRP$ its) (NN energy) (NNS operations) )))
+                        (CC and) 
+                        (NP (JJ other) (NNS adjustments) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Net) (NN income) )
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 97.9) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 1.15) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 50.5) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP (CD 60) (NNS cents) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (RBR earlier) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBD increased) 
+      (NP-EXT (CD 7) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 1.49) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 1.39) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN gain) )
+    (VP (VBD resulted) 
+      (PP-CLR (IN from) 
+        (NP 
+          (NP 
+            (NP (DT the) (NN sale) )
+            (PP (IN of) 
+              (NP (NNP Grace) (NNP Equipment) (NNP Co.) )))
+          (, ,) 
+          (NP 
+            (NP (DT the) (JJ initial) (JJ public) (NN offering) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT a) (JJ one-sixth) (NN interest) )
+                (PP-LOC (IN in) 
+                  (NP (NNP Grace) (NNP Energy) (NNP Corp.) )))))
+          (CC and) 
+          (NP 
+            (NP (DT an) (NN adjustment) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT the) (VBG carrying) (NN value) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (JJ certain) (JJ natural) (NN resource) (NNS assets) )
+                    (NP 
+                      (NP (RB not) (NN part) )
+                      (PP (IN of) 
+                        (NP (NNP Grace) (NNP Energy) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (JJ international) (NN specialty) (NN chemical) (NN company) (POS 's) )
+      (NNS earnings) )
+    (VP (VBD were) 
+      (VP (VBN hurt) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT an) (NN accrual) )
+            (PP (IN for) 
+              (NP (NN stock-appreciation) (NNS rights) ))
+            (SBAR 
+              (WHNP-2 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (VBD reflected) 
+                  (NP 
+                    (NP 
+                      (NP (DT a) 
+                        (ADJP (CD 19) (NN %) (NN increase) ))
+                      (PP-LOC (IN in) 
+                        (NP (DT the) (NN stock) (NN price) )))
+                    (, ,) 
+                    (CC and)
+                    (NP (JJR higher) (NN interest) (NNS expenses) )))))))))
+    (. .) ))

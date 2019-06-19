@@ -1,0 +1,27 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Philip) (NNP L.) (NNP Hall) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP J.) (NNP Lawrence) (NNP Hall) (NNP Co.) )
+            (, ,) 
+            (NP-LOC (NNP Nashua) ))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (NN thrift) (VBG holding) (NN company) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG filling) 
+            (NP (DT a) (NN vacancy) )))))
+    (. .) ))

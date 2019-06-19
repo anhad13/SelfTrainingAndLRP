@@ -1,0 +1,80 @@
+
+( (S 
+    (NP-SBJ (NNP CONTINENTAL) (NNP MORTGAGE) (CC &) (NNP EQUITY) (NNP TRUST) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB resume) 
+              (NP (NN dividend) (NNS payments) )
+              (PP-MNR (IN with) 
+                (NP 
+                  (NP (DT a) (JJ 10-cent-a-share) (NN payout) )
+                  (PP-TMP (IN on) 
+                    (NP (NNP Nov.) (CD 6) ))
+                  (PP (TO to) 
+                    (NP 
+                      (NP 
+                        (NP (NNS shares) )
+                        (PP (IN of) 
+                          (NP (NN record) )))
+                      (NP-TMP (NNP Oct.) (CD 25) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Dallas) (JJ real) (NN estate) (NN investment) (NN trust) )
+    (ADVP (RB last) )
+    (VP (VBD paid) 
+      (NP (DT a) (NN dividend) )
+      (PP-TMP (IN on) 
+        (NP 
+          (NP 
+            (NP (NNP Dec.) (CD 31) )
+            (, ,) 
+            (NP (CD 1987) )
+            (, ,) )
+          (SBAR 
+            (WHADVP-1 (WRB when) )
+            (S 
+              (NP-SBJ (NNS shareholders) )
+              (VP (VBD received) 
+                (NP 
+                  (NP ($ $) (CD 1) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) ))
+                (ADVP-TMP (-NONE- *T*-1) )))))))
+    (. .) ))
+( (S 
+    (PP (IN Despite) 
+      (NP 
+        (NP (VBG continuing) (NNS troubles) )
+        (PP (IN with) 
+          (NP 
+            (NP (NN problem) (NNS assets) )
+            (CC and) 
+            (NP (VBG nonperforming) (NNS loans) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN trust) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ-2 (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (ADJP-PRD (JJ able) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB maintain) (CC or) (VB increase) 
+                          (NP 
+                            (NP (DT the) (NN rate) )
+                            (PP (IN of) 
+                              (NP (NNS distributions) )))
+                          (PP-PRP (IN because) (IN of) 
+                            (NP 
+                              (NP (NNS operations) )
+                              (PP (IN of) 
+                                (NP (NN joint-venture) (NNS properties) )))))))))))))))
+    (. .) ))

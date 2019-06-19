@@ -1,0 +1,392 @@
+
+( (S 
+    (NP-SBJ (JJ Federal) (NNS investigators) )
+    (VP (VBP have) 
+      (VP (VBN identified) 
+        (NP 
+          (NP 
+            (NP (DT the) (NN problem) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP 
+                  (NP (JJ last) (NNP July) (POS 's) )
+                  (NN crash) )
+                (PP (IN of) 
+                  (NP (DT a) (NNP United) (NNP Airlines) (NN flight) ))
+                (PP-LOC (IN in) 
+                  (NP (NNP Iowa) )))))
+          (: :) 
+          (NP 
+            (NP (DT a) (JJ structural) (NN flaw) )
+            (SBAR 
+              (WHNP-1 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBD developed) 
+                  (PP-TMP (IN during) 
+                    (NP 
+                      (NP (DT the) (NN making) )
+                      (PP (IN of) 
+                        (NP (DT a) (NN titanium) (NN engine) (NN disk) )))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (JJ several) (NNS months) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNS officials) )
+      (PP-LOC (IN at) 
+        (NP 
+          (NP (DT the) (NNP Federal) (NNP Aviation) (NNP Administration) )
+          (CC and) 
+          (NP (DT the) (NNP National) (NNP Transportation) (NNP Safety) (NNP Board) ))))
+    (VP (VBP have) 
+      (VP (VBN suspected) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT a) (JJ metallurgical) (NN flaw) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (NN disk) )))
+            (VP (VBD led) 
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP (DT a) (NN crack) )
+                  (SBAR 
+                    (WHNP-1 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (ADVP-TMP (RB ultimately) )
+                      (VP (VBD caused) 
+                        (S 
+                          (NP-SBJ (DT the) (NN tail) (NN engine) )
+                          (VP (TO to) 
+                            (VP (VB break) 
+                              (ADVP-CLR (RB apart) )
+                              (PP-TMP (IN in) 
+                                (NP (NN flight) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN explosion) )
+    (VP 
+      (VP (VBD sent) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS shards) )
+            (PP (IN of) 
+              (NP (NN metal) )))
+          (VP (VBG flying) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG severing) 
+            (NP 
+              (NP (DT the) (NNP DC-10) (VBZ 's) )
+              (UCP (JJ hydraulic) (CC or) (NN control) )
+              (NNS systems) ))))
+      (, ,) 
+      (CC and)
+      (VP (VBD led) 
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (NN crash) )
+            (SBAR 
+              (WHNP-11 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-11) )
+                (VP (VBD killed) 
+                  (NP (CD 112) (NNS people) ))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (NNS investigators) )
+    (VP (MD could) 
+      (VP (VB confirm) 
+        (NP (PRP$ their) (NN theory) )
+        (PP-TMP 
+          (ADVP (RB only) )
+          (IN after) 
+          (NP 
+            (NP (DT the) (JJ recent) (NN retrieval) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT a) (JJ big) (NN chunk) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Flight) (CD 232) (POS 's) )
+                    (NN tail) (NN engine) ))))
+            (PP (IN from) 
+              (NP 
+                (NP (DT a) (NN cornfield) )
+                (PP-LOC (IN near) 
+                  (NP 
+                    (NP (DT the) (NNP Sioux) (NNP City) (NNP Airport) )
+                    (PP-LOC (IN in) 
+                      (NP (NNP Iowa) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN safety) (NN board) )
+    (VP (MD will) 
+      (VP (VB begin) 
+        (NP 
+          (NP (CD four) (NNS days) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNS hearings) )
+              (PP (IN on) 
+                (NP (DT the) (NN accident) )))))
+        (NP-TMP (NN tomorrow) )
+        (PP-LOC (IN in) 
+          (NP (NNP Sioux) (NNP City) ))))
+    (. .) ))
+( (SINV 
+    (PP-LOC-PRD-TPC-2 (IN Among) 
+      (NP 
+        (NP (DT the) (NNS issues) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (DT the) (NN board) )
+            (VP (MD will) 
+              (VP (VB examine) 
+                (NP (-NONE- *T*-1) )))))))
+    (VP (VBZ is) 
+      (PP-LOC-PRD (-NONE- *T*-2) ))
+    (SBAR-SBJ (IN whether) 
+      (S 
+        (NP-SBJ-3 
+          (NP (NNP United) (NNP Airlines) )
+          (, ,) 
+          (NP 
+            (NP (DT a) (NN unit) )
+            (PP (IN of) 
+              (NP (NNP UAL) (NNP Corp.) )))
+          (, ,) )
+        (VP (MD should) 
+          (VP (VB have) 
+            (VP (VBN been) 
+              (ADJP-PRD (JJ able) 
+                (S 
+                  (NP-SBJ (-NONE- *-3) )
+                  (VP (TO to) 
+                    (VP (VB detect) 
+                      (NP (DT the) (NNS cracks) )
+                      (PP-MNR (IN through) 
+                        (NP (NN maintenance) (NNS checks) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN engine) )
+      (VP (VBN involved) 
+        (NP (-NONE- *) )))
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT a) (NNP CF6-6) )
+        (VP (VBN made) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (NNP General) (NNP Electric) (NNP Co) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Anthony) (NNP Broderick) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (DT the) (NNP FAA) (POS 's) )
+          (JJ acting) (NN executive) (NN director) )
+        (PP (IN for) 
+          (NP 
+            (NP (JJ regulatory) (NNS standards) )
+            (CC and) 
+            (NP (NN compliance) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (JJ recent) (NNS tests) )
+            (PP (IN of) 
+              (NP (DT the) (JJ failed) (NN engine) (NN disk) )))
+          (VP (VBP indicate) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ 
+                  (NP (DT a) (NN flaw) )
+                  (PRN (: --) 
+                    (VP (VBN known) 
+                      (NP (-NONE- *) )
+                      (PP-CLR (IN as) (`` ``) 
+                        (ADJP (JJ hard) (NN alpha) )
+                        ('' '') ))
+                    (: --) ))
+                (VP (VBD occurred) 
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NN titanium) ))
+                  (PP-TMP (IN during) 
+                    (NP (PRP$ its) (NN production) ))
+                  (ADVP-TMP 
+                    (NP 
+                      (QP (RB almost) (CD 20) )
+                      (NNS years) )
+                    (RB ago) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (EX there) )
+            (VP (VBD was) (RB n't) 
+              (NP-PRD 
+                (NP (DT any) (NN way) )
+                (SBAR 
+                  (WHADVP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB detect) 
+                        (NP (DT the) (NN flaw) )
+                        (PP-TMP (IN at) 
+                          (NP (DT that) (NN time) ))
+                        (ADVP-MNR (-NONE- *T*-1) )))))))))
+        (, ,) 
+        (CC and)
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-2 (DT the) (NN process) )
+            (VP (VBZ has) 
+              (ADVP-TMP (IN since) )
+              (VP (VBN been) 
+                (VP (VBN changed) 
+                  (NP (-NONE- *-2) )
+                  (S-PRP 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB decrease) 
+                        (NP (DT the) (NN chance) 
+                          (SBAR (IN that) 
+                            (S 
+                              (NP-SBJ (JJ such) (NNS flaws) )
+                              (VP (MD would) 
+                                (VP (VB occur) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP FAA) )
+    (ADVP-TMP (RB already) )
+    (VP (VBZ has) 
+      (VP (VBN ordered) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 
+              (NP (DT all) (CD 232) (NNS disks) )
+              (VP (VBN made) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS (DT the) (JJ old) (NN process) ))))
+            (VP (VB be) 
+              (VP 
+                (VP (VBN removed) 
+                  (NP (-NONE- *-1) )
+                  (PP-CLR (IN from) 
+                    (NP (DT the) (NNS planes) )))
+                (CC and) 
+                (VP (VBN subjected) 
+                  (NP (-NONE- *-1) )
+                  (PP-CLR (TO to) 
+                    (NP (DT an) (JJ ultrasonic) (NN test) ))
+                  (PP-LOC (IN in) 
+                    (NP (DT a) (JJ water-submersion) (NN chamber) )))))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 
+      (NP-SBJ (JJ Such) (NNS tests) )
+      (VP (VBP make) 
+        (S 
+          (NP-SBJ (DT the) (NNP FAA) )
+          (ADJP-PRD (JJ confident) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ (DT a) (NNP Sioux) (JJ City-type) (NN accident) )
+                (`` ``) 
+                (VP (MD wo) (RB n't) 
+                  (VP (VB happen) 
+                    (ADVP-TMP (RB again) )))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ (NNP Mr.) (NNP Broderick) )
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN spokesman) )
+      (PP (IN for) 
+        (NP (NNP GE) )))
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (VP 
+                (VP (VBG working) 
+                  (PP-CLR (IN with) 
+                    (NP (DT the) (NNP FAA) ))
+                  (ADVP-TMP (RB all) (RB along) )
+                  (PP-CLR (IN on) 
+                    (NP (DT this) (NN issue) )))
+                (CC and) (`` ``) 
+                (VP (MD will) 
+                  (VP (VB comply) 
+                    (ADVP-MNR (RB fully) )
+                    (PP-CLR (IN with) 
+                      (NP (DT the) (JJ required) (NNS inspections) ))))))))))
+    (. .) ('' '') ))
+( (S (CC But) 
+    (NP-SBJ (PRP he) )
+    (ADVP (RB also) )
+    (VP (VBD pointed) 
+      (PRT (RP out) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NNS recalls) )
+          (VP (MD will) 
+            (VP (VB have) 
+              (NP 
+                (NP (DT no) (NN impact) )
+                (PP (IN on) 
+                  (NP 
+                    (NP (NNP GE) (POS 's) )
+                    (NN engine) (NN production) ))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ-11 (DT The) (NNP CF6-6) (NN series) (NNS engines) )
+        (VP (VBP are) (RB n't) 
+          (VP (VBG being) 
+            (VP (VBN manufactured) 
+              (NP (-NONE- *-11) )
+              (ADVP-TMP (DT any) (RBR more) )))))
+      (: ;) 
+      (S 
+        (NP-SBJ-12 (PRP they) )
+        (VP (VBP are) 
+          (ADVP (RB only) )
+          (VP (VBG being) 
+            (VP (VBN used) 
+              (NP (-NONE- *-12) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (DT the) (NNP DC-10) (NNP Series) (CD 10) (NNS planes) )
+                  (PP 
+                    (ADVP-TMP (RB currently) )
+                    (IN in) 
+                    (NP (NN service) )))))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

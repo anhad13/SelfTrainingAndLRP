@@ -1,0 +1,131 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Whittle) (NNP Communications) (NNP Limited) (NNP Partnership) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Knoxville) )
+        (, ,) 
+        (NP (NNP Tenn.) ))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB launch) 
+        (NP 
+          (NP (PRP$ its) (JJ first) (NN media) (NN property) )
+          (VP (VBG targeting) 
+            (NP (JJ Hispanic) (NNS women) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (`` ``) 
+      (NP-TTL (NNP La) (NNP Familia) (IN de) (NNP Hoy) )
+      (, ,) ('' '') (CC or) (`` ``) 
+      (NP-TTL 
+        (NP (NNP Today) (POS 's) )
+        (NNP Family) ))
+    (, ,) ('' '') 
+    (VP 
+      (VP (MD will) 
+        (VP (VB debut) 
+          (NP-TMP (DT this) (NN spring) )))
+      (CC and) 
+      (VP (MD will) 
+        (VP (VB combine) 
+          (NP 
+            (NP (DT a) (JJ national) (JJ bimonthly) (NN magazine) )
+            (CC and) 
+            (NP (NN TV) (NN programming) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN television) (NN element) )
+      (PP (IN of) (`` ``) 
+        (NP-TTL (NNP La) (NNP Familia) )
+        ('' '') ))
+    (VP (VBZ includes) 
+      (NP 
+        (NP (DT a) (NN series) )
+        (PP (IN of) 
+          (NP (JJ two-minute) (JJ informational) (NNS features) ))
+        (SBAR 
+          (WHNP-2 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-2) )
+            (VP (TO to) 
+              (VP (NN air) 
+                (NP-TMP 
+                  (NP (CD seven) (NNS days) )
+                  (NP-ADV (DT a) (NN week) ))
+                (PP-LOC (IN on) 
+                  (NP 
+                    (NP (DT the) (JJ Spanish-language) (NNP Univision) (NN network) )
+                    (, ,) 
+                    (NP 
+                      (NP (DT a) (NN unit) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNP Univision) (NNP Holdings) (NNP Inc.) )
+                          (, ,) 
+                          (SBAR 
+                            (WHNP-1 (WDT which) )
+                            (S 
+                              (NP-SBJ (-NONE- *T*-1) )
+                              (VP (VBZ is) 
+                                (ADJP-PRD (CD 80%-owned) 
+                                  (PP (IN by) 
+                                    (NP (NNP Hallmark) (NNP Cards) (NNP Inc) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS features) )
+    (VP 
+      (VP (MD will) 
+        (VP (VB focus) 
+          (PP-CLR (IN on) (`` ``) 
+            (NP 
+              (NP (NN parenting) )
+              (, ,) 
+              (NP (NN family) (NN health) 
+                (CC and)
+                (NN nutrition) )
+              (, ,) 
+              (CC and)
+              (NP (JJ financial) (NN management) )))))
+      (, ,) ('' '') 
+      (CC and)
+      (VP (MD will) 
+        (VP (VB carry) 
+          (NP 
+            (NP (CD 30) (NNS seconds) )
+            (PP (IN of) 
+              (NP (NN advertising) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NNS magazines) )
+      (, ,) (RB also) 
+      (ADJP (JJ ad-supported) )
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN distributed) 
+          (NP (-NONE- *-1) )
+          (PP-LOC-CLR (IN in) 
+            (NP 
+              (NP 
+                (QP (JJR more) (IN than) (CD 10,000) )
+                (NX 
+                  (NX 
+                    (NP (NNS doctors) (POS ') )
+                    (NNS offices) )
+                  (, ,) 
+                  (NX (NNS clinics) )
+                  (, ,) 
+                  (CC and)
+                  (NX (NN health) (NNS centers) )))
+              (PP-LOC (IN in) 
+                (NP 
+                  (ADJP 
+                    (ADJP (JJ Hispanic) )
+                    (CC and) 
+                    (ADJP (RB largely) (JJ Hispanic) ))
+                  (NNS communities) )))))))
+    (. .) ))

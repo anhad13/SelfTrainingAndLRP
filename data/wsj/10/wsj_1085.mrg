@@ -1,0 +1,67 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP International) (NNP Technology) (NNP Corp.) )
+      (CC and) 
+      (NP 
+        (NP (NNP Davy) (NNP McKee) (NNP Corp.) )
+        (, ,) 
+        (NP 
+          (NP (DT a) (NN unit) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP London) (POS 's) )
+              (NNP Davy) (NNP Corp.) )))
+        (, ,) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP they) )
+          (VP (VBD were) 
+            (VP (VBN awarded) 
+              (NP (-NONE- *-1) )
+              (NP (DT a) 
+                (ADJP 
+                  (QP ($ $) (CD 55) (CD million) )
+                  (-NONE- *U*) )
+                (NN contract) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT the) (NNP U.S.) (NNP Army) (NNP Corps) )
+                  (PP (IN of) 
+                    (NP (NNPS Engineers) ))))
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP (DT the) (NN closure) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (NNP Helen) (NNP Kramer) (NNP Landfill) (NNP Superfund) (NN site) )
+                      (PP-LOC (IN in) 
+                        (NP 
+                          (NP (NNP Mantua) (NNP Township) )
+                          (, ,) 
+                          (NP (NNP N.J) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP International) (NNP Technology) )
+      (, ,) 
+      (NP (DT an) (JJ environmental) (NN management) (NN concern) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN contract) )
+          (VP (VBZ includes) 
+            (NP 
+              (NP (NN construction) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN slurry) (NNS walls) )
+                  (, ,) 
+                  (NP (NN gas) (NN collection) (NNS systems) )
+                  (, ,) 
+                  (NP (DT a) (JJ multilayer) (NN cap) )
+                  (CC and) 
+                  (NP (NN water) (NN treatment) (NN plant) ))))))))
+    (. .) ))

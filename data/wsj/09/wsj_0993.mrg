@@ -1,0 +1,84 @@
+
+( (S 
+    (NP-SBJ (NNP Parker) (NNP Hannifin) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB sell) 
+                  (NP (PRP$ its) (CD three) (JJ automotive) (NNS parts) (NNS divisions) )
+                  (PP-DTV (TO to) 
+                    (NP (DT a) (JJ management-led) (NN investor) (NN group) ))
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (QP ($ $) (CD 80) (CD million) )
+                      (-NONE- *U*) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ buy-out) (NN group) )
+    (VP 
+      (VP (VBZ is) 
+        (VP (VBN headed) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NNP Paul) (NNP R.) (NNP Lederer) )
+              (, ,) 
+              (NP 
+                (NP (NN president) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Parker) (POS 's) )
+                    (JJ automotive) (NN group) )))))))
+      (, ,) 
+      (CC and)
+      (VP (VBZ includes) 
+        (NP 
+          (NP (JJ several) (JJ other) (NNS executives) )
+          (PP (IN of) 
+            (NP (DT the) (CD three) (NNS divisions) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS units) )
+    (VP (VBP are) 
+      (NP-PRD (DT the) (NNP Edelmann) 
+        (, ,)
+        (NNP Ideal) 
+        (CC and)
+        (NNP Plews) (NNS divisions) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Net) (NNS sales) )
+      (PP (IN for) 
+        (NP (DT the) (NNS units) ))
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) (JJ fiscal) (NN year) )
+          (VP (VBD ended) 
+            (NP-TMP (NNP June) (CD 30) )))))
+    (VP (VBD were) 
+      (NP-PRD 
+        (QP ($ $) (CD 135.6) (CD million) )
+        (-NONE- *U*) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Parker) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN company) )
+          (VP (VBZ is) 
+            (VP (VBG selling) 
+              (NP (DT the) (NNS units) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB focus) 
+                    (PP-CLR (IN on) 
+                      (NP (PRP$ its) (JJ other) (NNS businesses) ))))))))))
+    (. .) ))

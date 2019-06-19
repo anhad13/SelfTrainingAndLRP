@@ -1,0 +1,145 @@
+
+( (S 
+    (NP-SBJ (NNP Lawrence) (NNP Insurance) (NNP Group) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD acquired) 
+            (NP 
+              (NP (NNP United) (NNP Republic) (NNP Reinsurance) (NNP Co.) )
+              (, ,) 
+              (NP (DT a) (NNP Houston) (NN property) 
+                (CC and)
+                (NN casualty) (NN reinsurance) (NN company) )
+              (, ,) )
+            (PP-CLR (IN from) 
+              (NP 
+                (NP (NNP United) (NNPS Savings) (NNP Association) )
+                (PP (IN of) 
+                  (NP (NNP Texas) ))))
+            (PP-CLR (IN for) 
+              (NP 
+                (QP ($ $) (CD 28) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Lawrence) (NNP Insurance) )
+    (ADVP (RB also) )
+    (VP (VBD sold) 
+      (NP 
+        (NP 
+          (QP (CD 3.2) (CD million) ))
+        (PP (IN of) 
+          (NP (PRP$ its) (NNS shares) )))
+      (PP-CLR (IN for) 
+        (NP 
+          (NP ($ $) (CD 7.125) (-NONE- *U*) )
+          (NP-ADV (DT each) )))
+      (PP-DTV (TO to) 
+        (NP 
+          (NP (PRP$ its) (NN parent) )
+          (, ,) 
+          (NP (NNP Lawrence) (NNP Group) (NNP Inc) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Lawrence) (NNP Insurance) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC (IN in) 
+          (NP (NNP Albany) 
+            (, ,)
+            (NNP N.Y.) 
+            (, ,)
+            ))))
+    (VP (VBZ plans) 
+      (S 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB use) 
+            (NP 
+              (NP (DT the) 
+                (QP ($ $) (CD 22.5) (CD million) )
+                (-NONE- *U*) )
+              (PP (IN in) 
+                (NP (NNS proceeds) )))
+            (S-CLR 
+              (NP-SBJ-3 (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB help) 
+                  (S 
+                    (NP-SBJ (-NONE- *-3) )
+                    (VP (VB finance) 
+                      (NP 
+                        (NP (DT the) (NN acquisition) )
+                        (PP (IN of) 
+                          (NP (NNP United) (NNP Republic) ))))))))))))
+    (. .) ))
+( (S 
+    (PP-MNR (IN By) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG acquiring) 
+          (NP (DT the) (NNS shares) ))))
+    (, ,) 
+    (NP-SBJ-1 (NNP Lawrence) (NNP Group) )
+    (VP (VBD increased) 
+      (NP 
+        (NP (PRP$ its) (NN stake) )
+        (PP (IN in) 
+          (NP (NNP Lawrence) (NNP Insurance) )))
+      (PP-DIR (TO to) 
+        (NP (CD 93.2) (NN %) ))
+      (PP-DIR (IN from) 
+        (NP (CD 91.2) (NN %) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP Lawrence) (NNP Insurance) )
+      (VP (VBZ underwrites) 
+        (ADVP (RB mostly) )
+        (NP (JJ primary) (NN insurance) )))
+    (, ,) 
+    (NP-SBJ (DT a) (NN company) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NN reinsurance) (NN company) )
+    (ADVP (RB effectively) )
+    (VP (VBZ insures) 
+      (NP 
+        (NP (NN insurance) (NNS companies) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-1) )
+            (VP (VBP wish) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB spread) 
+                    (NP 
+                      (NP (DT the) (NN risk) )
+                      (PP (IN of) 
+                        (NP (DT a) (JJ particular) (NN policy) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Lawrence) (NNP Group) )
+    (ADVP (RB also) )
+    (VP (VBZ owns) 
+      (NP 
+        (NP 
+          (NP (NNP Lawrence) (NNP Agency) (NNP Corp.) )
+          (, ,) 
+          (NP-LOC (NNP Schenectady) 
+            (, ,)
+            (NNP N.Y.) ))
+        (, ,) 
+        (NP (DT an) (NN insurance) (NN agency) 
+          (CC and)
+          (NN brokerage) )))
+    (. .) ))

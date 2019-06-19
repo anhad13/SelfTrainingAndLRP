@@ -1,0 +1,41 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP PARKER) (NNP HANNIFIN) (NNP Corp.) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ is) 
+            (VP (VBG selling) 
+              (NP (CD three) (JJ automotive) (NN replacement) (NNS parts) (NNS divisions) )))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB retain) 
+              (NP (PRP$ its) (NNP Automotive) (NNPS Connectors) 
+                (CC and)
+                (NNP Cliff) (NNP Impact) (NNS divisions) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (DT The) (NNS divisions) )
+      (SBAR 
+        (WHNP-1 (WDT that) )
+        (S 
+          (NP-SBJ (NNP Parker) (NNP Hannifin) )
+          (VP (VBZ is) 
+            (VP (VBG retaining) 
+              (NP (-NONE- *T*-1) ))))))
+    (VP (VBD were) (RB n't) 
+      (VP (VBN mentioned) 
+        (NP (-NONE- *-2) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP Thursday) (POS 's) )
+            (NN edition) ))))
+    (. .) ))

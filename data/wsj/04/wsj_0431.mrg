@@ -1,0 +1,46 @@
+
+( (S 
+    (NP-SBJ (NNP Edison) (NNP Brothers) (NNP Stores) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB buy) 
+                  (NP (CD 229) (NNP Foxmoor) 
+                    (NP (NNS women) (POS 's) )
+                    (NN apparel) (NNS stores) )
+                  (PP-CLR (IN from) 
+                    (NP 
+                      (NP (NNP Foxmoor) (NNP Specialty) (NNP Stores) (NNP Corp.) )
+                      (, ,) 
+                      (NP 
+                        (NP (DT a) (NN unit) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NNP Dylex) (NNP Ltd.) )
+                            (PP (IN of) 
+                              (NP (NNP Toronto) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Edison) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (VBN acquired) (NNS stores) )
+          (VP (MD would) 
+            (VP (VB be) 
+              (VP (VBN integrated) 
+                (NP (-NONE- *-1) )
+                (PP-CLR (IN into) 
+                  (NP (PRP$ its) (JJ current) (NNS operations) ))))))))
+    (. .) ))

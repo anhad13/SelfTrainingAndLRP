@@ -1,0 +1,179 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Moody) (POS 's) )
+      (NNPS Investors) (NNP Service) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD lowered) 
+            (NP 
+              (NP (DT the) (NNS ratings) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT some) 
+                    (QP ($ $) (CD 145) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN of) 
+                    (NP (NNP Pinnacle) (NN debt) )))))
+            (PP-PRP (IN because) (IN of) 
+              (NP (`` ``) 
+                (NP (VBG accelerating) (NN deficiency) )
+                (PP (IN in) 
+                  (NP (NN liquidity) ))
+                (, ,) ('' '') 
+                (SBAR 
+                  (WHNP-2 (WDT which) )
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBD said) 
+                      (SBAR (-NONE- 0) 
+                        (S 
+                          (NP-SBJ-1 (-NONE- *T*-2) )
+                          (VP (VBD was) 
+                            (VP (VBN evidenced) 
+                              (NP (-NONE- *-1) )
+                              (PP (IN by) 
+                                (NP-LGS 
+                                  (NP 
+                                    (NP (NNP Pinnacle) (POS 's) )
+                                    (NN elimination) )
+                                  (PP (IN of) 
+                                    (NP (NN dividend) (NNS payments) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Henry) (NNP Sargent) (NNP Jr.) )
+      (, ,) 
+      (NP (NNP Pinnacle) (NN executive) (NN vice) (NN president) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN action) )
+          (`` ``) 
+          (VP (MD wo) (RB n't) 
+            (ADVP (RB really) )
+            (VP (VB have) 
+              (NP (DT any) (NN effect) )
+              (PP-CLR (IN on) 
+                (NP (PRP us) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP We) )
+      (VP (VBP are) (RB n't) 
+        (VP (VBG selling) 
+          (NP (NNS bonds) )
+          (ADVP-TMP (RB right) (RB now) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (PRP I) )
+      (VP (VBP do) (RB n't) 
+        (VP (VB think) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (MD will) 
+                (VP (VB affect) 
+                  (NP 
+                    (NP (DT the) (NN value) )
+                    (PP (IN of) 
+                      (NP (PRP$ our) (VBG existing) (NNS bonds) ))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT The) (NN rating) (NN agency) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD lowered) 
+            (NP 
+              (NP (DT the) (NNS ratings) )
+              (PP (IN on) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 75) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (VBG holding) (NN company) (POS 's) )
+                      (JJ convertible) (JJ subordinated) (NNS Eurodebentures) )))))
+            (PP-DIR (TO to) 
+              (ADJP (JJ B-3) ))
+            (PP-DIR (IN from) 
+              (ADJP (JJ B-1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Moody) (POS 's) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (ADVP (RB also) )
+          (VP 
+            (VP (VBD lowered) 
+              (NP 
+                (NP (DT the) (NNS ratings) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (QP ($ $) (CD 70) (CD million) )
+                      (-NONE- *U*) )
+                    (PP-3 (IN of) 
+                      (NP 
+                        (NP (NNP Pinnacle) (POS 's) )
+                        (NNP MeraBank) (NN thrift) (NN unit) (JJ long-term) (NNS deposits) )))))
+              (PP-DIR-1 (TO to) 
+                (ADJP (JJ B-3) ))
+              (PP-DIR-2 (IN from) 
+                (ADJP (JJ B-2) )))
+            (, ,) 
+            (CC and)
+            (VP 
+              (PP=3 (IN on) 
+                (NP (PRP$ its) (JJ subordinated) (NN debt) ))
+              (PP-DIR=1 (TO to) 
+                (ADJP (JJ Ca) ))
+              (PP-DIR=2 (IN from) 
+                (ADJP (JJ Caa) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP MeraBank) (POS 's) )
+        (NN rating) )
+      (PP (IN for) 
+        (NP (JJ short-term) (NNS deposits) )))
+    (VP (VBZ remains) 
+      (ADJP-PRD (RB Not) (JJ Prime) ))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNS Securities) )
+        (PP (IN of) 
+          (NP (NNP MeraBank) )))
+      (VP 
+        (VP (VBD were) 
+          (VP (VBN placed) 
+            (PP-LOC-CLR (IN under) 
+              (NP (NN review) ))
+            (NP-TMP (JJ last) (MD May) )))
+        (, ,) 
+        (CC and)
+        (VP (MD will) 
+          (VP (VB remain) 
+            (PP-PRD (IN under) 
+              (NP (NN review) ))
+            (PP (IN for) 
+              (NP (NN downgrade) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN agency) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

@@ -1,0 +1,103 @@
+
+( (S 
+    (NP-SBJ (DT This) (NNP Toronto) (JJ closed-end) (NN fund) )
+    (VP (VBD cut) 
+      (NP 
+        (NP (DT the) (JJ annual) (NN dividend) )
+        (PP (IN on) 
+          (NP (PRP$ its) (NN Class) (NNP A) (JJ common) (NNS shares) )))
+      (PP-DIR (TO to) 
+        (NP (CD one) (JJ Canadian) (NN cent) ))
+      (PP-DIR (IN from) 
+        (NP (CD 10) (JJ Canadian) (NNS cents) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN fund) )
+    (VP (VBZ invests) 
+      (ADVP (RB mainly) )
+      (PP-LOC (IN in) 
+        (NP (NN gold) 
+          (CC and)
+          (NN silver) (NN bullion) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (VBN reduced) (NN dividend) )
+          (VP (VBZ reflects) 
+            (NP 
+              (NP (DT the) (JJ low) (NN price) )
+              (PP (IN for) 
+                (NP (JJ precious) (NNS metals) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Greg) (NNP Davies) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (NNP Central) (NNP Fund) (POS 's) )
+          (NN vice) (NN president) )
+        (, ,) 
+        (NP (NN finance) )
+        (, ,) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS losses) )
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (JJ fiscal) (NN year) )
+                (VP (VBG ending) 
+                  (NP-TMP-CLR (NNP Oct.) (CD 31) )))))
+          (VP (MD could) 
+            (VP (VB be) 
+              (ADJP-PRD 
+                (ADJP (RB as) (JJ high) )
+                (PP (IN as) 
+                  (NP 
+                    (NP 
+                      (QP (CD one) (CD million) )
+                      (JJ Canadian) (NNS dollars) )
+                    (PRN 
+                      (-LRB- -LRB-)
+                      (NP ($ US$) (CD 852,000) (-NONE- *U*) )
+                      (-RRB- -RRB-) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN fund) )
+    (ADVP-TMP (RB last) )
+    (VP (VBD had) 
+      (NP (DT a) (NN profit) )
+      (PP-TMP (IN in) 
+        (NP (CD 1985) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ new) (NN dividend) (NN rate) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ payable) 
+        (NP-TMP (NNP Nov.) (CD 15) )
+        (PP (TO to) 
+          (NP 
+            (NP (NNS holders) )
+            (PP (IN of) 
+              (NP 
+                (NP (NN record) )
+                (NP-TMP (NNP Oct.) (CD 31) )))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP American) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (NP-TMP (NNP Friday) )
+    (, ,) 
+    (NP-SBJ (NNP Central) (NNP Fund) )
+    (VP (VBD was) 
+      (ADJP-PRD (JJ unchanged) )
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 4.6875) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) ))))
+    (. .) ))

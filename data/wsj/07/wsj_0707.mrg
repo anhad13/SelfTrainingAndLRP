@@ -1,0 +1,81 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP South) (NNP Africa) (POS 's) )
+        (JJ current) (NN account) (NN surplus) )
+      (VP (VBD swelled) 
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT a) 
+              (ADJP 
+                (ADVP (RB seasonally) )
+                (VBN adjusted) )
+              (JJ annual) (NN rate) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (QP (IN between) (CD five) (CD billion) 
+                    (CC and)
+                    (CD six) (CD billion) )
+                  (NNS rand) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP 
+                    (QP ($ $) (CD 1.9) (CD billion) 
+                      (CC and)
+                      ($ $) (CD 2.28) (CD billion) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) )))))
+        (PP-TMP (IN in) 
+          (NP (DT the) (JJ third) (NN quarter) ))))
+    (, ,) 
+    (NP-SBJ (NNP Reserve) (NNP Bank) (NNP Governor) (NNP Chris) (NNP Stals) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN surplus) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP 
+          (NP 
+            (QP (CD two) (CD billion) )
+            (NNS rand) )
+          (PP-TMP (IN in) 
+            (NP (DT the) (JJ second) (NN quarter) )))
+        (CC and) 
+        (NP 
+          (NP 
+            (QP (CD 2.7) (CD billion) )
+            (NNS rand) )
+          (PP-TMP (IN in) 
+            (NP (DT the) (JJ first) (NN quarter) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT this) (NN improvement) )
+          (VP (VBZ means) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (VBZ is) 
+                  (ADVP-TMP (RB still) )
+                  (ADJP-PRD (JJ possible) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB reach) 
+                          (NP 
+                            (NP (DT the) (JJ targeted) (JJ current) (NN account) (NN surplus) )
+                            (PP (IN of) 
+                              (NP 
+                                (QP (CD four) (CD billion) )
+                                (NNS rand) ))
+                            (PP-TMP (IN for) 
+                              (NP (CD 1989) ))))))))))))))
+    (. .) ))

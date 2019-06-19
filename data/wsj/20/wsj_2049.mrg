@@ -1,0 +1,155 @@
+
+( (S 
+    (NP-SBJ (NNP Banc) (CD One) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NNP Frank) (NNP E.) (NNP McKinney) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB retire) 
+                  (PP-CLR (IN as) 
+                    (NP 
+                      (NP (DT the) (NN bank) (VBG holding) (NN company) (POS 's) )
+                      (NN president) ))
+                  (PP-TMP (JJ effective) 
+                    (NP (NNP Jan.) (CD 12) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Banc) (CD One) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) (`` ``) 
+        (S 
+          (NP-SBJ-2 
+            (NP (PRP it) )
+            (SBAR (-NONE- *EXP*-1) ))
+          (VP (VBZ is) 
+            (VP (VBN contemplated) 
+              (NP (-NONE- *-2) )
+              ('' '') 
+              (SBAR-1 (IN that) 
+                (S 
+                  (NP-SBJ 
+                    (NP (NNP John) (NNP B.) (NNP McCoy) )
+                    (, ,) 
+                    (NP 
+                      (NP (NN chairman) )
+                      (CC and) 
+                      (NP (NN chief) (NN executive) (NN officer) ))
+                    (, ,) )
+                  (VP (MD will) 
+                    (VP (VB assume) 
+                      (NP 
+                        (NP (DT the) (JJ additional) (NN position) )
+                        (PP (IN of) 
+                          (NP (NN president) )))
+                      (PP-TMP (IN upon) 
+                        (NP 
+                          (NP (NNP Mr.) (NNP McKinney) (POS 's) )
+                          (NN retirement) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP McKinney) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 50) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP 
+          (NP (NN chairman) )
+          (PP (-NONE- *RNR*-2) ))
+        (CC and) 
+        (NP 
+          (NP (NN chief) (NN executive) )
+          (PP (-NONE- *RNR*-2) ))
+        (PP-2 (IN of) 
+          (NP 
+            (NP (NNP American) (NNP Fletcher) (NNP Corp.) )
+            (, ,) 
+            (NP (NNP Indianapolis) ))))
+      (, ,) 
+      (SBAR-TMP 
+        (WHADVP-1 (WRB when) )
+        (S 
+          (NP-SBJ (DT that) (NN bank) (VBG holding) (NN company) )
+          (VP (VBD merged) 
+            (PP-CLR (IN into) 
+              (NP (NNP Banc) (CD One) ))
+            (PP-TMP (IN in) 
+              (NP (NNP January) (CD 1987) ))
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (NNP Mr.) (NNP McKinney) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB retire) 
+                  (SBAR-PRP (IN because) 
+                    (S 
+                      (NP-SBJ-1 
+                        (NP (DT the) (NN process) )
+                        (PP (IN of) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (VBG affiliating) 
+                              (NP (NNP American) (NNP Fletcher) )
+                              (PP-CLR (IN into) 
+                                (NP (NNP Banc) (CD One) ))))))
+                      (`` ``) 
+                      (VP (VBZ is) 
+                        (VP (VBN considered) 
+                          (S 
+                            (NP-SBJ (-NONE- *-1) )
+                            (ADJP-PRD (VBN completed) )))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP McKinney) )
+    (VP 
+      (VP (MD will) 
+        (VP (VB continue) 
+          (PP-CLR (IN as) 
+            (NP 
+              (NP 
+                (NP (NN chairman) )
+                (PP (IN of) 
+                  (NP (DT the) (NN board) )))
+              (CC and) 
+              (NP 
+                (NP (NN chairman) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (JJ executive) (NN committee) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP Banc) (CD One) (NNP Indiana) (NNP Corp.) )
+                        (, ,) 
+                        (NP 
+                          (NP (DT the) (NN successor) (NN company) )
+                          (PP (TO to) 
+                            (NP (NNP American) (NNP Fletcher) (NNP Corp.) ))))))))))))
+      (, ,) (CC but) 
+      (VP (MD will) 
+        (ADVP (RB no) (RB longer) )
+        (VP (VB be) 
+          (ADJP-PRD (JJ active) )
+          (PP-LOC (IN in) 
+            (NP (JJ day-to-day) (NN management) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (MD will) 
+      (VP (VB remain) 
+        (PP-LOC-CLR (IN on) 
+          (NP (DT the) (NNP Banc) (CD One) (NN board) ))))
+    (. .) ))

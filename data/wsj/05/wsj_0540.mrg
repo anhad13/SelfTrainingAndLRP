@@ -1,0 +1,158 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP General) (NNP Electric) (NNP Co.) (POS 's) )
+        (NN rail-car) (NN leasing) (NN unit) )
+      (VP (VBD completed) 
+        (NP 
+          (NP (DT the) 
+            (ADJP 
+              (QP ($ $) (CD 178.5) (CD million) )
+              (-NONE- *U*) )
+            (NN purchase) )
+          (PP (IN of) 
+            (NP (JJ similar) (NNS businesses) ))
+          (PP (IN from) 
+            (NP 
+              (NP (NNP Leucadia) (NNP National) (NNP Corp.) )
+              (CC and) 
+              (NP 
+                (NP (NNP Brae) (NNP Corp.) )
+                (, ,) 
+                (ADJP (JJ 74%-owned) 
+                  (PP (IN by) 
+                    (NP (NNP Leucadia) )))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS sellers) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN buyer) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (NNP GE) (NNP Capital) (NNP Railcar) (NNPS Services) )
+        (, ,) 
+        (NP-LOC (NNP Chicago) )
+        (, ,) 
+        (NP 
+          (NP 
+            (NP (DT a) (JJ major) (NN owner) )
+            (PP (IN of) 
+              (NP (NN railway) (NN equipment) )))
+          (CC and) 
+          (NP 
+            (NP (NN part) )
+            (PP (IN of) 
+              (NP (DT the) (NNP GE) (NNP Capital) (NNS operations) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Leucadia) )
+      (, ,) 
+      (NP-LOC (NNP New) (NNP York) )
+      (, ,) )
+    (VP (VBD estimated) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD had) 
+            (NP 
+              (NP 
+                (NP (DT a) (JJ pre-tax) (NN gain) )
+                (PP (IN on) 
+                  (NP (DT the) (NN transaction) ))
+                (PP (IN of) 
+                  (NP 
+                    (QP ($ $) (CD 57) (CD million) )
+                    (-NONE- *U*) )))
+              (, ,) 
+              (PP (VBG including) 
+                (NP 
+                  (NP (PRP$ its) (NN part) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Brae) (POS 's) )
+                      (NN gain) )))))))))
+    (. .) ))
+( (S 
+    (PP-PRP (IN Because) (IN of) 
+      (NP (NN tax-loss) (NN carry-forward) ))
+    (, ,) 
+    (NP-SBJ (NNP Leucadia) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB escape) 
+                  (NP 
+                    (NP (NNS taxes) )
+                    (PP (IN on) (`` ``) 
+                      (NP 
+                        (NP (DT a) (JJ substantial) (NN portion) )
+                        (PP (IN of) 
+                          (NP (DT the) (NN gain) ))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (VBN estimated) (NN gain) )
+        (PP (IN for) 
+          (NP (NNP Brae) )))
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP 
+            (QP ($ $) (CD 15) (CD million) )
+            (-NONE- *U*) )
+          (, ,) 
+          (PP (VBG including) 
+            (NP 
+              (NP (DT a) (NN tax) (NN credit) )
+              (PP (IN of) 
+                (NP 
+                  (QP ($ $) (CD 7) (CD million) )
+                  (-NONE- *U*) )))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS sellers) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (NN credit) )
+        (PP (IN for) 
+          (NP (NN income) (NNS taxes) )))
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (DT a) (NN result) )
+          (PP (IN of) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG having) 
+                (VP (VBN provided) 
+                  (NP 
+                    (NP (JJ deferred) (NN income) (NNS taxes) )
+                    (ADJP (JJ applicable) 
+                      (PP (TO to) 
+                        (NP (DT the) (VBN sold) (NNS assets) ))))
+                  (PP-CLR (IN at) 
+                    (NP 
+                      (NP (DT the) (JJR higher) (NN income) (NN tax) (NNS rates) )
+                      (PP (IN in) 
+                        (NP (NN effect) ))
+                      (PP-TMP (IN in) 
+                        (NP (JJ prior) (NNS years) )))))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT the) (NNS sellers) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

@@ -1,0 +1,109 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Terry) (NNP L.) (NNP Haines) )
+      (, ,) (RB formerly) 
+      (NP 
+        (NP (JJ general) (NN manager) )
+        (PP (IN of) 
+          (NP (JJ Canadian) (NNS operations) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (JJ new) (NN position) )
+            (PP (IN of) 
+              (NP 
+                (NP (NN vice) (NN president) )
+                (, ,) 
+                (NP (JJ North) (JJ American) (NNS sales) )
+                (, ,) 
+                (PP (IN of) 
+                  (NP (DT this) (NNS plastics) (NN concern) ))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Also) )
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNP Larry) (NNP A.) (NNP Kushkin) )
+      (, ,) 
+      (NP 
+        (NP (JJ executive) (NN vice) (NN president) )
+        (, ,) 
+        (NP (JJ North) (JJ American) (NNS operations) ))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN head) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (JJ international) (JJ automotive) (NNS operations) )))
+            (, ,) 
+            (NP (DT another) (JJ new) (NN position) )))))
+    (. .) ))
+( (S-1 
+    (S 
+      (NP-SBJ (PRP He) )
+      (VP (VBZ remains) 
+        (NP-PRD (DT an) (JJ executive) (NN vice) (NN president) )))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (DT the) (NN company) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (CC and) 
+    (S 
+      (NP-SBJ (PRP$ his) (JJ new) (NN position) )
+      (VP (VBZ reflects) (`` ``) 
+        (NP 
+          (NP (DT the) (VBG growing) (NN importance) )
+          (PP (IN of) 
+            (NP (DT the) (NN world) (JJ automotive) (NN market) ))
+          (PP (IN as) 
+            (NP 
+              (NP (DT a) (NN market) )
+              (PP (IN for) 
+                (NP 
+                  (NP (NNP A.) (NNP Schulman) (POS 's) )
+                  (JJ high) (NN performance) (NN plastic) (NNS materials) )))))))
+    (. .) ('' '') ))
+( (S 
+    (S-TPC-2 
+      (S 
+        (NP-SBJ (NNP Gordon) (NNP Trimmer) )
+        (VP (MD will) 
+          (VP (VB succeed) 
+            (NP (NNP Mr.) (NNP Haines) )
+            (PP-CLR (IN as) 
+              (NP 
+                (NP (NN manager) )
+                (PP (IN of) 
+                  (NP (NNP Canadian) (NNS operations) )))))))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP-SBJ-1 
+          (NP (NNP Mr.) (NNP Kushkin) (POS 's) )
+          (JJ former) (NN position) )
+        (VP (VBZ is) (RB n't) 
+          (VP (VBG being) 
+            (VP (VBN filled) 
+              (NP (-NONE- *-1) )
+              (PP-TMP (IN at) 
+                (NP (DT this) (NN time) )))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))

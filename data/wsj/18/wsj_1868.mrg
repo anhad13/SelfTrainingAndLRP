@@ -1,0 +1,329 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP John) (NNP V.) (NNP Holmes) )
+        (, ,) 
+        (NP (DT an) (NN investment-newsletter) (NN publisher) )
+        (, ,) )
+      (CC and) 
+      (NP 
+        (NP (CD three) (NN venture-capital) (NNS firms) )
+        (SBAR 
+          (WHNP-2 (-NONE- 0) )
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (VBD organized) 
+              (NP (-NONE- *T*-2) ))))))
+    (VP (VBD were) 
+      (VP (VBN enjoined) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN from) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG violating) 
+              (NP 
+                (NP (DT the) (NN registration) (NNS provisions) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NNS securities) (NNS laws) )
+                    (VP (VBG governing) 
+                      (NP (NN investment) (NNS companies) ))))))))))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (NP 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT an) (NN agreement) )
+            (SBAR 
+              (WHNP-1 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBD settled) 
+                  (NP 
+                    (NP (NNS charges) )
+                    (VP (VBN brought) 
+                      (NP (-NONE- *) )
+                      (PP (IN by) 
+                        (NP-LGS (DT the) (NNPS Securities) 
+                          (CC and)
+                          (NNP Exchange) (NNP Commission) )))))))))))
+    (, ,) 
+    (NP-SBJ-2 (DT a) (NN receiver) )
+    (VP (VBD was) 
+      (ADVP (RB also) )
+      (VP (VBN appointed) 
+        (NP (-NONE- *-2) )
+        (PP (IN for) 
+          (NP (DT the) (CD three) (NN venture-capital) (NNS firms) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Holmes) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT the) (NN subject) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT a) (NN page) (CD one) (NN profile) )
+            (PP-LOC (IN in) 
+              (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal) )))))
+      (PP-TMP (IN in) 
+        (NP (CD 1984) ))
+      (, ,) 
+      (SBAR-TMP (IN after) 
+        (S 
+          (NP-SBJ (DT the) (NNP SEC) )
+          (VP (VBD questioned) 
+            (NP (PRP him) )
+            (PP-CLR (IN about) 
+              (NP 
+                (NP (NNS ties) )
+                (PP (IN between) 
+                  (NP 
+                    (NP (PRP him) )
+                    (CC and) 
+                    (NP 
+                      (NP (NNS companies) )
+                      (SBAR 
+                        (WHNP-1 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (PRP he) )
+                          (VP (VBD touted) 
+                            (NP (-NONE- *T*-1) )
+                            (PP-LOC (IN in) 
+                              (NP (DT a) (NN newsletter) ))))))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (CD 1986) ))
+    (, ,) 
+    (PP-LOC (IN in) 
+      (NP 
+        (NP (DT another) (NN consent) (NN agreement) )
+        (PP (IN with) 
+          (NP (DT the) (NNP SEC) ))))
+    (, ,) 
+    (NP-SBJ-1 (NNP Mr.) (NNP Holmes) )
+    (VP (VBD was) 
+      (VP (VBN enjoined) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN from) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG violating) 
+              (NP 
+                (NP (DT the) 
+                  (ADJP (NN stock-registration) 
+                    (CC and)
+                    (JJ anti-fraud) )
+                  (NNS provisions) )
+                (PP (IN of) 
+                  (NP (DT the) (NNS securities) (NNS laws) ))))))))
+    (. .) ))
+( (S 
+    (PP (IN Without) 
+      (NP 
+        (NP (DT any) (NN admission) (CC or) (NN denial) )
+        (PP (IN of) 
+          (NP (NN guilt) ))
+        (PP (IN by) 
+          (NP (NNP Mr.) (NNP Holmes) ))))
+    (, ,) 
+    (NP-SBJ (DT that) (NN agreement) )
+    (VP (VBD settled) 
+      (NP (NNP SEC) (NNS charges) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (NNP Mr.) (NNP Holmes) )
+            (VP 
+              (VP (VBD sold) 
+                (NP (JJ unregistered) (NNS securities) ))
+              (CC and) 
+              (VP (VBD misled) 
+                (NP (NNS investors) )))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (NNS charges) )
+        (VP (VBN filed) 
+          (NP (-NONE- *) )
+          (NP-TMP (JJ last) (NN week) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (JJ federal) (NN district) (NN court) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (NNP Charlotte) )
+                  (, ,) 
+                  (NP (NNP N.C.) )
+                  (, ,) )))))))
+    (NP-SBJ (DT the) (NNP SEC) )
+    (VP (VBD alleged) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 
+            (NP 
+              (NP (NNP Venture) (NNPS Capitalists) (NNP Inc.) )
+              (, ,) 
+              (NP (NNP Venture) (NNP Finance) (NNP Corp.) )
+              (CC and) 
+              (NP (NNP New) (NNPS Ventures) (NNP Fund) (NNP Inc.) ))
+            (, ,) 
+            (NP 
+              (NP (DT all) )
+              (PP (IN of) 
+                (NP (NNP Charlotte) )))
+            (, ,) )
+          (VP (VBD failed) 
+            (ADVP (RB repeatedly) )
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB file) 
+                  (NP (JJ proper) (NNS documents) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP SEC) )
+    (ADVP (RB also) )
+    (VP (VBD charged) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNP Mr.) (NNP Holmes) )
+          (VP (VBD acted) 
+            (PP-CLR (IN as) 
+              (NP 
+                (NP (DT an) (NN officer) (CC or) (NN director) )
+                (PP (IN of) 
+                  (NP (NNP New) (NNP Ventures) ))))
+            (, ,) 
+            (PP (IN in) 
+              (NP 
+                (NP (NN violation) )
+                (PP (IN of) 
+                  (NP (PRP$ his) (JJ previous) (NN consent) (NN agreement) ))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ (DT Some) (NNS companies) )
+      (VP (VBD were) 
+        (ADJP-PRD (JJ delinquent) )
+        (PP (IN in) 
+          (NP 
+            (NP 
+              (NP (NNS filings) )
+              (CC and) 
+              (NP (JJ other) (NNS actions) ))
+            (, ,) 
+            (SBAR 
+              (WHNP-1 
+                (NP (DT all) )
+                (WHPP (IN of) 
+                  (WHNP (WDT which) )))
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBP cost) 
+                  (NP (NN money) ))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Holmes) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (CD Two) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Mr.) (NNP Holmes) (POS 's) )
+            (NN business) (NNS associates) ))
+        (SBAR 
+          (WHNP-2 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-2) )
+            (VP (VBD worked) 
+              (PP-CLR (IN for) 
+                (NP (NNP Venture) (NNPS Capitalists) ))))))
+      (, ,) 
+      (NP 
+        (NP (NNP Kimberly) (NNP Ann) (NNP Smith) )
+        (CC and) 
+        (NP (NNP Frederick) (NNP Byrum) ))
+      (, ,) )
+    (ADVP (RB also) )
+    (VP (VBD consented) 
+      (S 
+        (NP-SBJ-1 (-NONE- *) )
+        (VP (TO to) 
+          (VP (VBG being) 
+            (VP (VBN enjoined) 
+              (NP (-NONE- *-1) )
+              (PP-CLR (IN from) 
+                (NP 
+                  (NP (NNS violations) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NN registration) (NNS provisions) )
+                      (PP (IN of) 
+                        (NP (DT the) (NNS securities) (NNS laws) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ms.) (NNP Smith) )
+    (ADVP (RB also) )
+    (VP (VBD agreed) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT a) (JJ permanent) (NN injunction) )
+          (VP (VBG barring) 
+            (NP-1 (PRP her) )
+            (PP-CLR (IN from) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG acting) 
+                  (PP-CLR (IN as) 
+                    (NP 
+                      (NP (DT an) 
+                        (NX 
+                          (NX (NN officer) )
+                          (, ,) 
+                          (NX (NN director) )
+                          (CC or) 
+                          (NX (NN investment) (NN adviser) )))
+                      (PP (IN of) 
+                        (NP (DT any) 
+                          (NX 
+                            (NX (JJ mutual) (NN fund) )
+                            (, ,) 
+                            (NX (NN unit) (NN investment) (NN trust) )
+                            (CC or) 
+                            (NX (JJ face-amount) (NN certificate) (NN company) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Mr.) (NNP Byrum) )
+      (CC and) 
+      (NP (NNP Ms.) (NNP Smith) ))
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-1) )
+          (PP (IN for) 
+            (NP (NN comment) )))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG consenting) 
+          (PP-CLR (TO to) 
+            (NP (DT the) (NNS injunctions) )))))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NN none) )
+      (PP (IN of) 
+        (NP (DT the) (NNS individuals) (CC or) (NNS companies) )))
+    (VP (VBD admitted) (CC or) (VBD denied) 
+      (NP (DT the) (NNS allegations) ))
+    (. .) ))

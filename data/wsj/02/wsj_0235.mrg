@@ -1,0 +1,89 @@
+
+( (S 
+    (NP-SBJ-1 (JJ South) (JJ Korean) (NN consumer) (NNS prices) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 5) (NN %) )
+      (PP-TMP (IN in) 
+        (NP 
+          (NP (DT the) (JJ first) (CD 10) (NNS months) )
+          (PP (IN of) 
+            (NP (DT this) (NN year) ))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG matching) 
+          (NP 
+            (NP 
+              (NP (DT the) (NN government) (POS 's) )
+              (NN target) )
+            (PP (IN for) 
+              (NP (DT the) (JJ entire) (NN year) )))))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP 
+              (NP (DT the) (NNP Bank) )
+              (PP (IN of) 
+                (NP (NNP Korea) )))
+            (CC and) 
+            (NP (DT the) (NNP Economic) (NNP Planning) (NNP Board) )))))
+    (. .) ))
+( (S 
+    (PP (VBG According) 
+      (PP (TO to) 
+        (NP 
+          (NP (NNS reports) )
+          (VP (VBN released) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS (DT the) (CD two) (NN government) (NNS agencies) ))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (JJ domestic) 
+        (UCP (NN consumer) 
+          (CC and)
+          (JJ wholesale) )
+        (NNS prices) ))
+    (DT each) 
+    (VP (VBD rose) 
+      (PP-EXT (IN by) 
+        (NP (CD 0.2) (NN %) ))
+      (PP-TMP (IN in) 
+        (NP (NNP October) ))
+      (PP-TMP (IN from) 
+        (NP (DT the) (JJ previous) (NN month) )))
+    (. .) ))
+( (S 
+    (PP-PRP (IN As) 
+      (NP (DT a) (NN result) ))
+    (, ,) 
+    (S 
+      (NP-SBJ-1 
+        (NP (NN consumer) (NNS prices) )
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (JJ first) (CD 10) (NNS months) )
+            (PP (IN of) 
+              (NP (CD 1989) )))))
+      (VP (VBD surged) 
+        (PP-EXT-2 (IN by) 
+          (NP (CD 5) (NN %) ))))
+    (CC and) 
+    (S 
+      (NP-SBJ=1 (JJ wholesale) (NNS prices) )
+      (PP-EXT=2 (IN by) 
+        (NP (CD 1.3) (NN %) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ South) (JJ Korean) (NN government) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (VP (VBG projecting) 
+          (NP 
+            (NP (DT a) 
+              (ADJP (CD 5) (NN %) )
+              (NN consumer) (NN price) (NN increase) )
+            (PP (IN for) 
+              (NP (DT the) (JJ entire) (NN year) ))))))
+    (. .) ))

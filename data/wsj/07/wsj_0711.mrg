@@ -1,0 +1,77 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ state-controlled) (JJ French) (NNS metals) (NN group) )
+      (NP-LOC (NNP Pechiney) (NNP S.A.) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) 
+            (VP (VBN signed) 
+              (NP (DT a) (JJ preliminary) (NN accord) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB sell) 
+                      (NP (PRP$ its) (NNP Paris) (NN headquarters) )
+                      (PP-DTV (TO to) 
+                        (NP 
+                          (NP (NNP Groupement) (NNP Foncier) (NNP Francais) )
+                          (CC and) 
+                          (NP (NNP Nouveaux) (NNP Constructeurs) )))
+                      (PP-CLR (IN for) 
+                        (NP 
+                          (NP 
+                            (QP (CD 2.76) (CD billion) )
+                            (NNS francs) )
+                          (NP 
+                            (-LRB- -LRB-)
+                            (QP ($ $) (CD 443) (CD million) )
+                            (-NONE- *U*) 
+                            (-RRB- -RRB-)
+                            ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-4 
+      (NP (DT The) (NN sale) )
+      (, ,) 
+      (SBAR 
+        (WHNP-3 (WDT which) )
+        (S 
+          (NP-SBJ-2 (NNP Pechiney) )
+          (VP (VBD had) 
+            (VP (VBN been) 
+              (ADJP-PRD (JJ eager) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB make) 
+                      (NP (-NONE- *T*-3) )))))
+              (PP-TMP (IN for) 
+                (NP (JJ several) (NNS months) ))))))
+      (, ,) )
+    (VP 
+      (VP (VBZ is) 
+        (ADVP-TMP (RB still) )
+        (ADJP-PRD (JJ subject) 
+          (PP (TO to) 
+            (NP (JJ certain) (JJ unspecified) (NNS conditions) ))))
+      (CC and) 
+      (VP (VBZ is) 
+        (VP (VBN expected) 
+          (S 
+            (NP-SBJ-1 (-NONE- *-4) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (VP (VBN completed) 
+                  (NP (-NONE- *-1) )
+                  (PP-TMP (IN during) 
+                    (NP 
+                      (NP (DT the) (JJ first) (NN quarter) )
+                      (PP (IN of) 
+                        (NP (CD 1990) )))))))))))
+    (, ,) 
+    (X 
+      (NP (DT the) (NN group) ))
+    (. .) ))

@@ -1,0 +1,56 @@
+
+( (S 
+    (NP-SBJ (NNP Apogee) (NNP Robotics) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN board) )
+          (VP (VBD extended) 
+            (PP-TMP-CLR (IN until) 
+              (NP (NNP Feb.) (CD 1) ))
+            (NP 
+              (NP (DT the) (NN exercise) (NN period) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (NP (NNP Apogee) (POS 's) )
+                    (JJ existing) (NN stock) (NN purchase) (NNS warrants) )
+                  (ADJP (JJ outstanding) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN expiration) (NN date) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD (NNP Nov.) (CD 3) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT Each) )
+      (PP (IN of) 
+        (NP (DT the) (CD 1,075,000) (NNS warrants) )))
+    (VP (VBP entitle) 
+      (S 
+        (NP-SBJ (DT the) (NNS holders) )
+        (VP (TO to) 
+          (VP (VB purchase) 
+            (NP 
+              (NP (CD one) (NN share) )
+              (PP (IN of) 
+                (NP (NNP Apogee) (JJ common) (NN stock) )))
+            (PP-CLR (IN for) 
+              (NP ($ $) (CD 2.25) (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Apogee) )
+    (VP (VBD was) 
+      (VP (VBN quoted) 
+        (NP (-NONE- *-1) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (JJ over-the-counter) (NN market) ))
+        (NP-TMP (NN yesterday) )
+        (PP-CLR (IN at) 
+          (NP 
+            (NP ($ $) (CD 2) (-NONE- *U*) )
+            (VP (NN bid) 
+              (NP (-NONE- *) ))))))
+    (. .) ))

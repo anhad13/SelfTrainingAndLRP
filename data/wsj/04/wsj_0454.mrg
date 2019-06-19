@@ -1,0 +1,30 @@
+
+( (NP-HLN (NN RADIO) (: :) ))
+( (S 
+    (NP-SBJ-1 (NNP Viacom) (NNP Broadcasting) (NNP Inc.) )
+    (VP 
+      (ADVP (RB definitively) )
+      (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB acquire) 
+            (NP 
+              (NP 
+                (NP 
+                  (NP (NNP KOFY) )
+                  (PRN 
+                    (-LRB- -LRB-)
+                    (NP (VBP AM) )
+                    (-RRB- -RRB-) ))
+                (CC and) 
+                (NP (NNP KOFY-FM) ))
+              (PP-LOC (IN in) 
+                (NP (NNP San) (NNP Francisco) )))
+            (PP-CLR (IN for) 
+              (NP 
+                (QP (RB about) ($ $) (CD 19.5) (CD million) )
+                (-NONE- *U*) ))
+            (PP-CLR (IN from) 
+              (NP (NNP Pacific) (NNP FM) (NNP Inc) ))))))
+    (. .) ))

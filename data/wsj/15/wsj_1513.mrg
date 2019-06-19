@@ -1,0 +1,66 @@
+
+( (S 
+    (NP-SBJ (NNP HASTINGS) (NNP MANUFACTURING) (NNP Co.) )
+    (VP (VBD declared) 
+      (NP 
+        (NP 
+          (NP 
+            (NP (DT a) (JJ regular) (JJ quarterly) (NN dividend) )
+            (PP (IN of) 
+              (NP 
+                (NP (CD 10) (NNS cents) )
+                (NP-ADV (DT a) (NN share) ))))
+          (CC and) 
+          (NP 
+            (NP (DT an) (JJ extra) (NN dividend) )
+            (PP (IN of) 
+              (NP 
+                (NP (CD five) (NNS cents) )
+                (NP-ADV (DT a) (NN share) )))))
+        (PP (IN on) 
+          (NP (PRP$ its) (JJ common) (NN stock) ))
+        (, ,) 
+        (ADJP (JJ payable) 
+          (NP-TMP (NNP Dec.) (CD 15) )
+          (PP (TO to) 
+            (NP 
+              (NP (NNS shares) )
+              (PP (IN of) 
+                (NP (NN record) ))
+              (NP-TMP (NNP Nov.) (CD 17) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT This) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (JJ 11th) (JJ consecutive) (NN quarter) )
+        (SBAR 
+          (WHPP-1 (IN in) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ (DT the) (NN company) )
+            (VP (VBZ has) 
+              (VP (VBN paid) 
+                (NP (NNS shareholders) )
+                (NP 
+                  (NP (DT an) (JJ extra) (NN dividend) )
+                  (PP (IN of) 
+                    (NP (CD five) (NNS cents) )))
+                (PP-TMP (-NONE- *T*-1) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (NAC-LOC (NNP Hastings) 
+        (, ,)
+        (NNP Mich.) 
+        (, ,)
+        )
+      (NN concern) )
+    (VP (VBZ makes) 
+      (NP 
+        (NP (NN piston) (NNS rings) )
+        (, ,) 
+        (NP (NNS filters) )
+        (CC and) 
+        (NP (NN fuel) (NNS pumps) )))
+    (. .) ))

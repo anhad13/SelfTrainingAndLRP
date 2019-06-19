@@ -1,0 +1,95 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (JJ average) (NN unemployment) (NN rate) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (CD 15) (JJS biggest) (VBN industrialized) (NNS democracies) )))
+      (VP (VBD was) 
+        (ADJP-PRD (JJ steady) )
+        (PP-TMP (IN in) 
+          (NP (NNP August) ))
+        (PP (IN at) 
+          (NP 
+            (NP (DT the) 
+              (ADJP (CD 6.1) (NN %) )
+              (NN rate) )
+            (PP (IN of) 
+              (NP (DT the) (CD two) (JJ previous) (NNS months) ))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (DT the) (NNP Organization) )
+        (PP (IN for) 
+          (NP (NNP Economic) (NNP Cooperation) 
+            (CC and)
+            (NNP Development) )))
+      (PRN 
+        (-LRB- -LRB-)
+        (NP (NNP OECD) )
+        (-RRB- -RRB-) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP August) (NN rate) )
+    (VP (VBD was) 
+      (ADJP-PRD 
+        (ADJP 
+          (NP-ADV (CD 0.6) (NN percentage) (NN point) )
+          (JJR lower) )
+        (PP (IN than) 
+          (PP-TMP (IN in) 
+            (NP 
+              (NP (DT the) (JJ like) (NN month) )
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (RBR earlier) )))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG reflecting) 
+          (NP 
+            (NP (DT the) (NN pickup) )
+            (PP (IN of) 
+              (NP (NN activity) ))
+            (PP-LOC (IN in) 
+              (NP (DT the) (CD 15) (NNS countries) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NNP OECD) )
+      (VP (VBD said) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (JJS most) )
+              (PP (IN of) 
+                (NP (DT the) (NN improvement) )))
+            (VP (VBD occurred) 
+              (PP-TMP (IN in) 
+                (NP 
+                  (NP (DT the) (JJ second) (NN half) )
+                  (PP (IN of) 
+                    (NP (JJ last) (NN year) )))))))))
+    (: ;) 
+    (S 
+      (PP-TMP (IN since) 
+        (NP 
+          (NP (NNP February) )
+          (PP (IN of) 
+            (NP (DT this) (NN year) ))))
+      (, ,) 
+      (NP-SBJ (NN unemployment) )
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (ADJP-PRD (JJ steady) )
+          (PP (IN at) 
+            (NP 
+              (NP 
+                (QP (IN around) (CD 6.2) )
+                (NN %) )
+              (PP (IN of) 
+                (NP (DT the) (NN labor) (NN force) )))))))
+    (. .) ))

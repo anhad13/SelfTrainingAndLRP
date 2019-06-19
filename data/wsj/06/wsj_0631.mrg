@@ -1,0 +1,152 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Finnair) )
+      (, ,) 
+      (NP 
+        (NP (NNP Finland) (POS 's) )
+        (JJ state-owned) (NN airline) )
+      (, ,) )
+    (VP 
+      (VP (VBD joined) 
+        (NP 
+          (NP (DT the) (NN wave) )
+          (PP (IN of) 
+            (NP (JJ global) (NN airline) (NNS alliances) ))))
+      (CC and) 
+      (VP (VBD signed) 
+        (NP (DT a) (JJ wide-ranging) (NN cooperation) (NN agreement) )
+        (PP-CLR (IN with) 
+          (NP (JJ archrival) (NNP Scandinavian) (NNP Airlines) (NNP System) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NN accord) ))
+    (, ,) 
+    (NP-SBJ-1 (NNP Finnair) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB coordinate) 
+            (NP 
+              (NP (NNS flights) )
+              (, ,) 
+              (NP (NN marketing) )
+              (CC and) 
+              (NP (JJ other) (NNS functions) ))
+            (PP-CLR (IN with) 
+              (NP 
+                (NP (NNP SAS) )
+                (, ,) 
+                (NP 
+                  (NP (DT the) (JJ 50%-state-owned) (NN airline) )
+                  (PP (IN of) 
+                    (NP (NNP Denmark) 
+                      (, ,)
+                      (NNP Norway) 
+                      (CC and)
+                      (NNP Sweden) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN pact) )
+    (ADVP (RB also) )
+    (VP (VBZ calls) 
+      (PP-CLR (IN for) 
+        (NP 
+          (NP (NN coordination) )
+          (PP (IN between) 
+            (NP 
+              (NP (NNP Finnair) )
+              (CC and) 
+              (NP 
+                (NP 
+                  (NP (NNP Switzerland) (POS 's) )
+                  (JJ national) (NN carrier) )
+                (, ,) 
+                (NP (NNP Swissair) )
+                (, ,) 
+                (SBAR 
+                  (WHPP-1 (IN with) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP-SBJ (NNP SAS) )
+                    (VP (VBD entered) 
+                      (NP (DT a) (JJ similar) (NN alliance) )
+                      (NP-TMP (JJ last) (NN month) )
+                      (PP-CLR (-NONE- *T*-1) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Finnair) 
+      (CC and)
+      (NNP SAS) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP they) )
+          (VP (VBP plan) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB swap) 
+                  (NP 
+                    (NP (NNS stakes) )
+                    (PP (IN in) 
+                      (NP (DT each) (JJ other) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Neither) )
+    (VP (VBD disclosed) 
+      (NP (NNS details) )
+      (PP (VBG pending) 
+        (NP 
+          (NP (NN board) (NNS meetings) )
+          (NP-TMP (IN next) (NN month) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Officials) )
+    (VP (VBD hinted) 
+      (, ,)
+      (ADVP (RB however) )
+      (, ,) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNP SAS) )
+          (VP (MD would) 
+            (VP (VB take) 
+              (NP 
+                (NP 
+                  (NP (DT a) (NN stake) )
+                  (PP (IN of) 
+                    (NP 
+                      (QP (IN at) (JJS least) (CD 6) )
+                      (NN %) ))
+                  (PP (IN in) 
+                    (NP (NNP Finnair) )))
+                (, ,) 
+                (VP (VBN valued) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN at) 
+                    (NP 
+                      (QP (RB about) ($ $) (CD 40) (CD million) )
+                      (-NONE- *U*) ))
+                  (PP (IN at) 
+                    (NP (JJ current) (NN market) (NNS prices) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP Finnair) )
+      (VP (MD would) 
+        (VP (VB receive) 
+          (NP 
+            (NP (NNP SAS) (NNS shares) )
+            (VP (VBN valued) 
+              (NP (-NONE- *) )
+              (PP-CLR (IN at) 
+                (NP (DT the) (JJ same) (NN amount) )))))))
+    (, ,) 
+    (NP-SBJ (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

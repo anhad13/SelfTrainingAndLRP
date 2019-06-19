@@ -1,0 +1,214 @@
+
+( (S 
+    (NP-SBJ (NNP Leaseway) (NNP Transportation) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (MD will) 
+            (VP (VB restructure) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 192.5) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN of) 
+                  (NP (JJ certain) (JJ subordinated) (NNS debentures) )))
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB reduce) 
+                    (NP (PRP$ its) 
+                      (NX 
+                        (NX (NN debt) (NNS obligations) )
+                        (CC and) 
+                        (NX (NN interest) (NN expense) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) 
+        (ADJP (CD 13.25) (NN %) )
+        (JJ subordinated) (NNS debentures) )
+      (ADJP (JJ due) 
+        (NP-TMP (CD 2002) )))
+    (VP (VBD were) 
+      (VP (VBN issued) 
+        (NP (-NONE- *-1) )
+        (PP-TMP (IN in) 
+          (NP (NNP August) (CD 1987) ))
+        (PP-CLR (IN as) 
+          (NP 
+            (NP (NN part) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) 
+                  (ADJP 
+                    (QP ($ $) (CD 690) (CD million) )
+                    (-NONE- *U*) )
+                  (NN financing) )
+                (PP (IN for) 
+                  (NP 
+                    (NP (DT a) (JJ leveraged) (NN buy-out) )
+                    (PP (IN of) 
+                      (NP (DT the) (NN company) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Leaseway) )
+    (VP (VBZ provides) 
+      (NP (NN transportation) (NNS services) )
+      (PP-CLR (IN for) 
+        (NP (NNS manufacturers) 
+          (, ,)
+          (NNS distributors) 
+          (CC and)
+          (NNS retailers) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Leaseway) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) 
+            (VP (VBN begun) 
+              (NP 
+                (NP (NNS discussions) )
+                (PP (IN with) 
+                  (NP (JJ certain) (JJ institutional) (NN debt) (NNS holders) ))
+                (SBAR 
+                  (WHADVP-2 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB review) 
+                        (NP 
+                          (NP (DT the) (JJ proposed) (JJ private) (NN placement) (NN transaction) )
+                          (, ,) 
+                          (SBAR 
+                            (WHNP-1 (WDT which) )
+                            (S 
+                              (NP-SBJ (-NONE- *T*-1) )
+                              (VP (MD would) 
+                                (VP (VB exchange) 
+                                  (NP (DT the) (NN debt) )
+                                  (PP-CLR (IN for) 
+                                    (NP (JJ new) (JJ subordinated) 
+                                      (NX 
+                                        (NX (NN debt) (NNS instruments) )
+                                        (CC and) 
+                                        (NX (NN equity) (NNS securities) )))))))))
+                        (ADVP-LOC (-NONE- *T*-2) )))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (JJ Specific) (NNS terms) )
+      (VP (VBP are) 
+        (ADJP-PRD (JJ subject) 
+          (PP (TO to) 
+            (NP 
+              (NP (VB review) )
+              (CC and) 
+              (NP 
+                (NP (DT a) (JJ final) (NN agreement) )
+                (PP (IN with) 
+                  (NP (NN debt) (NNS holders) ))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT the) (JJ proposed) (NN transaction) )
+    (VP (VBZ calls) 
+      (PP-CLR (IN for) 
+        (NP 
+          (NP (DT an) (NN exchange) )
+          (PP (IN of) 
+            (NP (DT the) (NN debt) ))
+          (PP (IN for) 
+            (NP 
+              (NP (JJ new) (NNS debentures) )
+              (PP (IN of) 
+                (NP 
+                  (NP (JJR lower) (NN face) (NN value) )
+                  (CC and) 
+                  (NP (JJ reduced) (NN cash) (NN interest) ))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Also) )
+    (, ,) 
+    (NP-SBJ-2 (NN debt) (NNS holders) )
+    (VP (MD would) 
+      (VP (VB be) 
+        (VP (VBN offered) 
+          (NP (-NONE- *-2) )
+          (NP 
+            (NP (DT an) (NN equity) (NN position) )
+            (PP-LOC (IN in) 
+              (NP (NNP Leaseway) ))
+            (, ,) 
+            (SBAR-1 
+              (WHNP-3 (WDT which) )
+              (S 
+                (PP (IN in) 
+                  (NP (NN total) ))
+                (NP-SBJ (-NONE- *T*-3) )
+                (VP (MD would) 
+                  (VP (VB represent) 
+                    (NP 
+                      (NP (DT a) (VBG controlling) (NN interest) )
+                      (PP-LOC (IN in) 
+                        (NP (DT the) (NN company) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.) )
+    (VP (VBZ is) 
+      (NP-PRD (DT the) (NN adviser) )
+      (PP (IN on) 
+        (NP (DT the) (NN transaction) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Company) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (NNP Leaseway) )
+            (VP (VBD fulfilled) 
+              (NP 
+                (NP (NN payment) (NNS requirements) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (NN debt) (NNS obligations) )))
+              (PP-TMP (IN since) 
+                (NP (DT the) (JJ leveraged) (NN buy-out) )))))
+        (, ,) (CC but) 
+        (SBAR (-NONE- 0) (`` ``) 
+          (S 
+            (NP-SBJ (PRP$ our) (NN performance) )
+            (PP-TMP (IN since) 
+              (NP (DT the) 
+                (-LRB- -LCB-)
+                (NN buy-out) 
+                (-RRB- -RCB-)
+                ))
+            (VP (VBZ makes) 
+              (S 
+                (NP-SBJ 
+                  (NP (PRP it) )
+                  (S (-NONE- *EXP*-2) ))
+                (ADJP-PRD (JJ imperative) )
+                (S-2 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB implement) 
+                      (NP 
+                        (NP (NNS actions) )
+                        (SBAR 
+                          (WHNP-1 (WDT that) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-1) )
+                            (VP (MD will) 
+                              (ADVP (RB further) )
+                              (VP (VB improve) 
+                                (NP (PRP$ our) (NN cash) (NN flow) )))))))))))))))
+    (. .) ))

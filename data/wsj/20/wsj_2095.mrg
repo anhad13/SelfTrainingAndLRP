@@ -1,0 +1,167 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP BroadBeach) (NNPS Associates) (NNP Inc.) )
+      (, ,) 
+      (NP 
+        (NP (DT the) (NNP Los) (NNP Angeles) (NN investment) (NN partnership) )
+        (SBAR 
+          (WHNP-2 
+            (NP (WP$ whose) 
+              (ADJP ($ $) (JJ 62-a-share) (-NONE- *U*) )
+              (NN bid) )
+            (PP (IN for) 
+              (NP (NNP McGill) (NNP Manufacturing) (NNP Co.) )))
+          (S 
+            (NP-SBJ-1 (-NONE- *T*-2) )
+            (VP (VBD was) 
+              (VP (VBN topped) 
+                (NP (-NONE- *-1) )
+                (ADVP-TMP (RB recently) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (DT a) (VBG competing) (NN offer) )
+                    (PP (IN from) 
+                      (NP (DT a) (JJ Swedish) (NN concern) )))))))))
+      (, ,) )
+    (VP (VBD disclosed) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD sold) 
+            (NP (PRP$ its) (JJ entire) 
+              (ADJP (CD 7) (NN %) )
+              (NNP McGill) (NN stake) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP McGill) )
+      (, ,) 
+      (NP (DT a) 
+        (NAC-LOC (NNP Valparaiso) 
+          (, ,)
+          (NNP Ind.) 
+          (, ,)
+          )
+        (NN ball-bearing) (NN manufacturer) )
+      (, ,) )
+    (VP (VBD had) 
+      (VP (VBN rebuffed) 
+        (NP 
+          (NP (NNP BroadBeach) (POS 's) )
+          (NN proposal) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ has) 
+      (ADVP-TMP (IN since) )
+      (VP (VBN asked) 
+        (NP-1 (NNS holders) )
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (RB not) 
+          (VP (TO to) 
+            (ADVP-TMP (RB immediately) )
+            (VP (VB tender) 
+              (NP (PRP$ their) (NNS shares) )
+              (PP-LOC (IN under) 
+                (NP 
+                  (NP (DT a) (JJ recent) 
+                    (ADJP 
+                      (ADJP ($ $) (JJ 72-a-share) (-NONE- *U*) )
+                      (, ,) (CC or) 
+                      (ADJP ($ $) (CD 104) (CD million) (-NONE- *U*) )
+                      (, ,) )
+                    (NN bid) )
+                  (PP (IN from) 
+                    (NP 
+                      (NP (NNP AB) (NNP SKF) )
+                      (PP (IN of) 
+                        (NP (NNP Sweden) ))))))
+              (, ,) 
+              (SBAR-TMP (IN until) 
+                (S 
+                  (NP-SBJ (NNP McGill) (NNS directors) )
+                  (VP (VBP have) 
+                    (VP (VBN completed) 
+                      (NP (PRP$ their) (NN evaluation) ))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) 
+        (NP (NNPS Securities) 
+          (CC and)
+          (NNP Exchange) (NNP Commission) )
+        (NN filing) ))
+    (, ,) 
+    (NP-SBJ (NNP BroadBeach) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD sold) 
+            (NP (DT the) (CD 101,000) (NNP McGill) (NNS shares) )
+            (PP-CLR (IN for) 
+              (NP 
+                (QP ($ $) (CD 7.3) (CD million) )
+                (-NONE- *U*) ))
+            (PP-LOC (IN in) 
+              (NP (DT a) (JJ private) (NN transaction) ))
+            (PP-TMP (IN on) 
+              (NP (NNP Oct.) (CD 12) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP BroadBeach) )
+      (VP (VBD did) (RB n't) 
+        (VP (VB identify) 
+          (NP 
+            (NP (DT the) (NN buyer) )
+            (PP (IN of) 
+              (NP (DT the) (NNS shares) ))))))
+    (, ,) (CC but) 
+    (S 
+      (S 
+        (NP-SBJ 
+          (NP (DT the) (NN date) )
+          (PP (IN of) 
+            (NP (DT the) (NN selloff) )))
+        (VP (VBN followed) 
+          (PP-CLR (IN by) 
+            (NP (CD one) (NN day) ))
+          (NP 
+            (NP (DT the) (JJ Swedish) (NN concern) (POS 's) )
+            (NN tender) (NN offer) )))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP-SBJ 
+          (NP (DT the) (VBN indicated) (NN price) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NNS shares) )
+              (VP (VBN sold) 
+                (NP (-NONE- *) )))))
+        (VP (VBZ equals) 
+          (NP 
+            (NP (NNP SKF) (POS 's) )
+            (ADJP ($ $) (JJ 72-a-share) (-NONE- *U*) )
+            (NN tender) (NN offer) (NN price) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NNP BroadBeach) (NN spokeswoman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP 
+            (VP (VBD sold) 
+              (NP (DT the) (NN stock) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (JJ open) (NN market) )))
+            (CC and) 
+            (ADVP (RB thus) )
+            (VP (MD could) (RB n't) 
+              (VP (VB identify) 
+                (NP (DT the) (NN buyer) (CC or) (NNS buyers) )))))))
+    (. .) ))

@@ -1,0 +1,73 @@
+
+( (S 
+    (NP-SBJ (NNP Basf) (NNP AG) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP 
+            (VP (VBD moved) 
+              (NP-1 
+                (NP (PRP$ its) (NN headquarters) )
+                (PP (IN for) 
+                  (NP (NNP Latin) (NNP America) )))
+              (PP-DIR-2 (TO to) 
+                (NP (NNP Mexico) )))
+            (CC and) 
+            (VP 
+              (NP=1 
+                (NP (DT the) (NN headquarters) )
+                (PP (IN for) 
+                  (NP (DT the) (JJ Asia\/Australia) (JJ regional) (NN division) )))
+              (PP-DIR=2 (TO to) 
+                (NP (NNP Singapore) )))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *) )
+              (ADJP-PRD (NN effective) )
+              (NP-TMP (NNP Oct) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN central) (NNS offices) )
+      (PP (IN for) 
+        (NP (DT both) (NNS regions) )))
+    (VP (VBD were) 
+      (ADVP-TMP (RB previously) )
+      (VP (VBN located) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Ludwigshafen) )
+            (, ,) 
+            (NP (NNP Basf) (NN headquarters) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (ADJP (NNP West) (NNP German) )
+      (NN chemical) (NN concern) )
+    (VP (VBD called) 
+      (S 
+        (NP-SBJ (DT the) (VBZ moves) )
+        (NP-PRD 
+          (NP (DT a) (JJ further) (NN step) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (DT the) (NN internationalization) )
+              (PP (IN of) 
+                (NP (PRP$ its) (NN business) (NNS activities) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT Both) (NNS regions) )
+      (VP (VBP are) 
+        (NP-PRD 
+          (NP (DT the) (JJ fastest-growing) (NNS areas) )
+          (PP (IN for) 
+            (NP (NNP Basf) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

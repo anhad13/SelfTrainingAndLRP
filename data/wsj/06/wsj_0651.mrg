@@ -1,0 +1,162 @@
+
+( (S 
+    (NP-SBJ (NNP Nelson) (NNPS Holdings) (NNP International) (NNP Ltd.) (NNS shareholders) )
+    (VP (VBD approved) 
+      (NP 
+        (NP (DT a) (JJ 1-for-10) (NN consolidation) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN company) (POS 's) )
+            (JJ common) (NN stock) )))
+      (PP-LOC (IN at) 
+        (NP (DT a) (JJ special) (NN meeting) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP (DT the) (JJ same) (NN time) ))
+    (, ,) 
+    (NP-SBJ (NNS shareholders) )
+    (VP (VBD approved) 
+      (NP 
+        (NP (DT the) (NN adoption) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT a) (NNS rights) (NN plan) )
+            (CC and) 
+            (NP (DT a) (JJ super-majority) (NN voting) (NN approval) (NN requirement) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (ADVP (RB also) )
+    (VP (VBD approved) 
+      (NP 
+        (NP 
+          (NP (DT the) (NN relocation) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN company) (POS 's) )
+              (JJ registered) (NN office) ))
+          (PP (TO to) 
+            (NP (NNP Toronto) ))
+          (PP (IN from) 
+            (NP (NNP Vancouver) )))
+        (CC and) 
+        (NP 
+          (NP (DT a) (NN name) (NN change) )
+          (PP (TO to) 
+            (NP (NNP NHI) (NNP Nelson) (NNPS Holdings) (NNP International) (NNP Ltd) )))))
+    (. .) ))
+( (S 
+    (PP-TMP (VBG Following) 
+      (NP (DT the) (NN consolidation) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN entertainment) (NN company) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ has) 
+            (NP (NN film) 
+              (CC and)
+              (NN television) (NNS operations) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NNP Beverly) (NNP Hills) )
+                (, ,) 
+                (NP (NNP Calif.) )
+                (, ,) ))))))
+    (VP (MD will) 
+      (VP (VB have) 
+        (NP 
+          (NP 
+            (QP (RB about) (CD 4.1) (CD million) )
+            (NNS shares) )
+          (ADJP (JJ outstanding) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN number) )
+      (PP (IN of) 
+        (NP (JJ authorized) (JJ common) (NNS shares) )))
+    (VP (MD will) 
+      (VP (VB remain) 
+        (PP-CLR (IN at) 
+          (NP (CD 100) (CD million) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NNS rights) (NN plan) ))
+    (, ,) 
+    (NP-SBJ (NNS holders) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (NP (CD one) (NN right) )
+        (PP (IN for) 
+          (NP 
+            (NP (DT each) (JJ common) (NN share) )
+            (VP (VBN held) 
+              (NP (-NONE- *) ))))
+        (, ,) 
+        (PP (IN with) 
+          (S-NOM 
+            (NP-SBJ (DT each) (NN right) )
+            (VP (VBG entitling) 
+              (NP 
+                (NP (DT the) (NN purchase) )
+                (PP (IN of) 
+                  (NP (CD one) (JJ common) (NN share) ))
+                (PP (IN for) 
+                  (NP (CD 100) (JJ Canadian) (NNS dollars) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS rights) (NN plan) )
+    (VP (MD would) 
+      (VP (VB be) 
+        (VP (VBN triggered) 
+          (NP (-NONE- *-1) )
+          (SBAR-ADV (IN if) 
+            (S 
+              (NP-SBJ-2 (DT a) (NN person) (CC or) (NN group) )
+              (VP (VBZ acquires) 
+                (NP 
+                  (NP (CD 20) (NN %) 
+                    (QP (CC or) (JJR more) ))
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (JJ common) (NNS shares) )
+                      (ADJP (JJ outstanding) ))))
+                (PP (IN without) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (VBG making) 
+                      (NP (DT an) (NN offer) )
+                      (PP-CLR (TO to) 
+                        (NP (DT all) (NNS shareholders) )))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (JJ super-majority) (NN amendment) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (JJ certain) (NNS mergers) )
+      (CC and) 
+      (NP (JJ other) (NNS transactions) ))
+    (VP (MD would) 
+      (VP (VB require) 
+        (NP 
+          (NP (NN approval) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNS holders) )
+              (PP (IN of) 
+                (NP 
+                  (NP (CD 80) (NN %) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (NP (DT the) (NN company) (POS 's) )
+                        (JJ common) (NNS shares) )
+                      (ADJP (JJ outstanding) ))))))))))
+    (. .) ))

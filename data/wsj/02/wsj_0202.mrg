@@ -1,0 +1,46 @@
+
+( (S 
+    (NP-SBJ (NNP BELL) (NNP INDUSTRIES) (NNP Inc.) )
+    (VP (VBD increased) 
+      (NP (PRP$ its) (NN quarterly) )
+      (PP-DIR (TO to) 
+        (NP (CD 10) (NNS cents) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (NP (CD seven) (NNS cents) )
+          (NP-ADV (DT a) (NN share) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ new) (NN rate) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (ADJP-PRD (JJ payable) 
+          (NP-TMP (NNP Feb.) (CD 15) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT A) (NN record) (NN date) )
+    (VP (VBZ has) (RB n't) 
+      (VP (VBN been) 
+        (VP (VBN set) 
+          (NP (-NONE- *-1) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Bell) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP (NNP Los) (NNP Angeles) )))
+      (, ,) )
+    (VP (VBZ makes) 
+      (CC and)
+      (VBZ distributes) 
+      (NP 
+        (UCP (JJ electronic) 
+          (, ,)
+          (NN computer) 
+          (CC and)
+          (NN building) )
+        (NNS products) ))
+    (. .) ))

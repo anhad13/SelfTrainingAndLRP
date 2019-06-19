@@ -1,0 +1,122 @@
+
+( (S 
+    (NP-SBJ (DT The) (JJ Philippine) (NN merchandise) (NN trade) (NN deficit) )
+    (VP (VBD widened) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 1.71) (CD billion) )
+          (-NONE- *U*) )
+        (PP-TMP (IN during) 
+          (NP 
+            (NP (DT the) (JJ first) (CD eight) (NNS months) )
+            (PP (IN of) 
+              (NP (CD 1989) )))))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 807) (CD million) )
+          (-NONE- *U*) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (RBR earlier) )))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (NNS Imports) )
+      (VP (VBD continued) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB outpace) 
+              (NP (JJ Philippine) (NNS exports) ))))
+        (, ,) 
+        (PP (IN despite) 
+          (NP 
+            (NP (NNS gains) )
+            (PP-LOC (IN in) 
+              (NP (NNS shipments) (RB abroad) ))))
+        (, ,) ))
+    (NP-SBJ (DT the) (NN government) (NNP National) (NNP Statistics) (NNP Office) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Exports) )
+    (VP (VBD reached) 
+      (NP 
+        (QP ($ $) (CD 5.12) (CD billion) )
+        (-NONE- *U*) )
+      (, ,) 
+      (ADVP (IN up) 
+        (PP (IN from) 
+          (NP 
+            (QP ($ $) (CD 4.52) (CD billion) )
+            (-NONE- *U*) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) )))
+      (, ,) 
+      (SBAR-TMP (IN while) 
+        (S 
+          (NP-SBJ (NNS imports) )
+          (VP (VBD rose) 
+            (PP-DIR (TO to) 
+              (NP 
+                (QP ($ $) (CD 6.81) (CD billion) )
+                (-NONE- *U*) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (QP ($ $) (CD 5.33) (CD billion) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN trade) (NN deficit) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJ first) (CD eight) (NNS months) )))
+    (VP (VBZ is) 
+      (ADVP (RB already) )
+      (ADJP-PRD (JJR wider) 
+        (PP (IN than) 
+          (NP 
+            (NP (DT the) (NN trade) (NN gap) )
+            (PP (IN of) 
+              (NP 
+                (QP ($ $) (CD 1.09) (CD billion) )
+                (-NONE- *U*) ))
+            (PP-TMP (IN for) 
+              (NP 
+                (NP (DT all) )
+                (PP (IN of) 
+                  (NP (CD 1988) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Analysts) )
+    (VP (VBP expect) 
+      (S 
+        (NP-SBJ 
+          (NP (DT the) (NN trade) (NN gap) )
+          (PP-TMP (IN for) 
+            (NP (DT the) (NN year) )))
+        (VP (TO to) 
+          (VP (VB surpass) 
+            (NP 
+              (QP ($ $) (CD 2) (CD billion) )
+              (-NONE- *U*) ))))
+      (SBAR-ADV (IN as) 
+        (S 
+          (NP-SBJ-1 
+            (NP (NN demand) )
+            (PP (IN for) 
+              (NP 
+                (NP (NN capital) (NN equipment) )
+                (CC and) 
+                (NP (JJ raw) (NNS materials) ))))
+          (VP (VBZ continues) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB push) 
+                  (NP (NNS imports) )
+                  (ADJP-ADV (JJR higher) ))))))))
+    (. .) ))

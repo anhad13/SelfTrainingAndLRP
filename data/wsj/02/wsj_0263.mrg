@@ -1,0 +1,136 @@
+
+( (S 
+    (NP-SBJ (NNP UNIFIRST) (NNP Corp.) )
+    (VP (VBD declared) 
+      (NP (DT a) (JJ 2-for-1) (NN stock) (NN split) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (NAC-LOC (NNP Wilmington) 
+        (, ,)
+        (NNP Mass.) 
+        (, ,)
+        )
+      (NN garment) (NN service) (NN company) )
+    (ADVP (RB also) )
+    (VP (VBD boosted) 
+      (NP (PRP$ its) (JJ quarterly) (NN dividend) )
+      (NP-ADV (CD 20) (NN %) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP 
+            (NP (CD three) (NNS cents) )
+            (NP-ADV (DT a) (NN share) ))
+          (VP (VBN adjusted) 
+            (NP (-NONE- *) )
+            (PP-CLR (IN for) 
+              (NP (DT the) (NN split) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN dividend) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (CD five) (NNS cents) )
+          (NP-ADV (DT a) (NN share) ))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) 
+        (NX 
+          (NX (NN split) )
+          (CC and) 
+          (NX (JJ quarterly) (NN dividend) )))
+      (VP (MD will) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ payable) 
+            (NP-TMP (NNP Jan.) (CD 3) )
+            (PP (TO to) 
+              (NP 
+                (NP (NN stock) )
+                (PP (IN of) 
+                  (NP (NN record) ))
+                (NP-TMP (NNP Nov.) (CD 16) )))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN split) )
+    (VP (MD will) 
+      (VP (VB raise) 
+        (NP 
+          (NP (DT the) (NN number) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNS shares) )
+              (ADJP (JJ outstanding) ))))
+        (PP-DIR (TO to) 
+          (NP (IN about) (CD 10.2) (CD million) ))))
+    (. .) ))
+( (S 
+    (ADVP (RB Separately) )
+    (, ,) 
+    (NP-SBJ (NNP UniFirst) )
+    (VP (VBD reported) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (JJ net) (NN income) )
+          (VP (VBD rose) 
+            (NP-ADV (CD 21) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 3) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP 
+                    (NP (CD 29) (NNS cents) )
+                    (NP-ADV (DT a) (NN share) ))
+                  (VP (VBN adjusted) 
+                    (NP (-NONE- *) )
+                    (PP-CLR (IN for) 
+                      (NP (DT the) (NN split) )))))))))
+      (, ,) 
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) (JJ fourth) (NN quarter) )
+          (VP (VBN ended) 
+            (NP (-NONE- *) )
+            (NP-TMP (NNP Aug.) (CD 26) )))))
+    (. .) ))
+( (S 
+    (ADVP-TMP 
+      (NP (DT A) (NN year) )
+      (RB earlier) )
+    (NP-SBJ (NNP UniFirst) )
+    (VP (VBD earned) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 2.4) (CD million) )
+          (-NONE- *U*) )
+        (, ,) (CC or) 
+        (NP 
+          (NP 
+            (NP (CD 24) (NNS cents) )
+            (NP-ADV (DT a) (NN share) ))
+          (VP (VBN adjusted) 
+            (NP (-NONE- *) )
+            (PP-CLR (IN for) 
+              (NP (DT the) (NN split) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 52.4) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 50.1) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))

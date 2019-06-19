@@ -1,0 +1,124 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Meson) (NNP Investment) (NNP Ltd.) )
+      (, ,) 
+      (NP (DT a) 
+        (ADJP (NNP Vancouver) 
+          (, ,)
+          (JJ B.C.-based) )
+        (NN investment) (NN firm) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD raised) 
+            (NP 
+              (NP (PRP$ its) (NN stake) )
+              (PP-LOC (IN in) 
+                (NP (NNP Verit) (NNP Industries) )))
+            (PP-DIR (TO to) 
+              (NP 
+                (NP (CD 8.9) (NN %) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (JJ common) (NNS shares) )
+                    (ADJP (JJ outstanding) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (NNP Securities) 
+        (CC and)
+        (NNP Exchange) (NNP Commission) (NN filing) ))
+    (, ,) 
+    (NP-SBJ (NNP Meson) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ holds) 
+            (NP 
+              (NP (CD 67,400) (NNP Verit) (JJ common) (NNS shares) )
+              (, ,) 
+              (PP (VBG including) 
+                (NP 
+                  (NP (JJ net) (NNS purchases) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (CD 8,100) (NNS shares) )
+                      (VP (VBN bought) 
+                        (NP (-NONE- *) )
+                        (PP-TMP 
+                          (PP (IN from) 
+                            (NP (NNP Oct.) (CD 10) 
+                              (, ,)
+                              (CD 1988) ))
+                          (, ,) 
+                          (PP (TO to) 
+                            (NP (NNP Oct.) (CD 11) 
+                              (, ,)
+                              (CD 1989) )))
+                        (, ,) 
+                        (PP-CLR (IN for) 
+                          (NP 
+                            (NP 
+                              (QP ($ $) (CD 3.875) (TO to) ($ $) (CD 7) )
+                              (-NONE- *U*) )
+                            (NP-ADV (DT each) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Meson) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (JJ personal) (NN holding) (NN company) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Steven) (NNP Morfey) )
+            (, ,) 
+            (NP (DT a) (NNP Vancouver) (NNS securities) (NN dealer) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN transaction) )
+          (VP (VBD was) 
+            (VP (VBN made) 
+              (NP (-NONE- *-1) )
+              (PP-PRP (IN for) 
+                (NP (NN investment) (NNS purposes) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Officials) )
+      (PP (IN for) 
+        (NP 
+          (ADJP (NNP Sun) (NNP Valley) 
+            (, ,)
+            (JJ Calif.-based) )
+          (NNP Verit) )))
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN for) 
+            (NP (NN comment) )))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (JJ composite) (NN trading) )
+        (PP-LOC (IN on) 
+          (NP (DT the) (NNP American) (NNP Stock) (NNP Exchange) ))))
+    (, ,) 
+    (NP-SBJ (NNP Verit) )
+    (VP (VBD closed) 
+      (ADJP-CLR (JJ unchanged) )
+      (NP-TMP (NN yesterday) )
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 3.875) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) ))))
+    (. .) ))

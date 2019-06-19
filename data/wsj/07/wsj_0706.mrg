@@ -1,0 +1,138 @@
+
+( (S 
+    (NP-SBJ (NNP Security) (NNP Pacific) (NNP Corp.) )
+    (VP (VBZ has) 
+      (VP (VBN set) 
+        (NP (PRP$ its) (NNS sights) )
+        (PP-CLR (IN on) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG buying) 
+              (NP (PRP$ its) (JJ second) (NN bank) (VBG holding) (NN company) )
+              (NP-TMP (DT this) (NN year) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Security) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD signed) 
+            (NP 
+              (NP (DT a) (NN letter) )
+              (PP (IN of) 
+                (NP (NN intent) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB purchase) 
+                        (NP (NNP La) (NNP Jolla) (NNP Bancorp) )))))))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ-1 (-NONE- *) )
+              (VP (VBG agreeing) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB pay) 
+                      (NP 
+                        (NP ($ $) (CD 15) (-NONE- *U*) )
+                        (PP (IN of) 
+                          (NP (PRP$ its) (JJ own) (NN stock) )))
+                      (PP-CLR (IN for) 
+                        (NP 
+                          (NP (DT each) (NN share) )
+                          (PP (IN of) 
+                            (NP (NNP La) (NNP Jolla) )))))))))))))
+    (. .) ))
+( (S 
+    (PP (VBN Based) 
+      (PP (IN on) 
+        (NP 
+          (NP (DT the) (JJ current) (NN number) )
+          (PP (IN of) 
+            (NP (NNP La) (NNP Jolla) (NNS shares) )))))
+    (, ,) 
+    (NP-SBJ (WDT that) )
+    (VP (VBZ gives) 
+      (NP (DT the) (NN transaction) )
+      (NP 
+        (NP (DT a) (NN value) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 104) (CD million) )
+            (-NONE- *U*) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP La) (NNP Jolla) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN parent) (NN company) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP La) (NNP Jolla) (NNP Bank) (CC &) (NNP Trust) (NNP Co.) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ has) 
+                  (NP 
+                    (NP (CD 12) (NNS branches) )
+                    (PP-LOC (IN in) 
+                      (NP (NNP San) (NNP Diego) (NNP County) ))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (PP-TMP (IN As) 
+        (PP (IN of) 
+          (NP (NNP Sept.) (CD 30) )))
+      (, ,) 
+      (NP-SBJ (DT the) (NN bank) )
+      (VP (VBD had) 
+        (NP 
+          (NP 
+            (NP (NNS assets) )
+            (PP (IN of) 
+              (NP 
+                (QP ($ $) (CD 511) (CD million) )
+                (-NONE- *U*) )))
+          (CC and) 
+          (NP 
+            (NP (NNS deposits) )
+            (PP (IN of) 
+              (NP 
+                (QP ($ $) (CD 469) (CD million) )
+                (-NONE- *U*) ))))))
+    (, ,) 
+    (NP-SBJ (NNP Security) (NNP Pacific) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RBR Earlier) 
+      (NP (DT this) (NN month) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Security) (NNP Pacific) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ is) 
+            (PP-LOC-PRD (IN among) 
+              (NP 
+                (NP (DT the) (CD 10) (JJS largest) (NN bank) (VBG holding) (NNS companies) )
+                (PP-LOC (IN in) 
+                  (NP (DT the) (NNP U.S.) )))))))
+      (, ,) )
+    (VP (VBD completed) 
+      (NP 
+        (NP (DT the) (NN acquisition) )
+        (PP (IN of) 
+          (NP 
+            (ADJP (NNP San) (JJ Diego-based) )
+            (NNP Southwest) (NNP Bancorp) ))))
+    (. .) ))

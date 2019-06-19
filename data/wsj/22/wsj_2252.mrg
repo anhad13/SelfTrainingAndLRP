@@ -1,0 +1,118 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Agip) (NNP S.p) (. .) (NNP A.) )
+        (CC and) 
+        (NP (NNP Societe) (NNP National) (NNP Elf) (NNP Aquitaine) ))
+      (, ,) 
+      (NP 
+        (NP (DT the) (NN state) (NN oil) (NNS companies) )
+        (PP (IN of) 
+          (NP (NNP Italy) 
+            (CC and)
+            (NNP France) ))
+        (, ,) 
+        (ADVP (RB respectively) ))
+      (, ,) )
+    (VP (VBD submitted) 
+      (NP (DT an) (NN offer) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP (NNP Gatoil) (NNP Suisse) (NNP S.A) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN price) )
+    (VP (VBD was) (RB n't) 
+      (VP (VBD disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN spokesman) )
+      (PP (IN for) 
+        (NP (NNP Gatoil) )))
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NNP Swiss) (NN oil) (NN concern) )
+          (VP (VBD was) 
+            (VP (VBG examining) 
+              (NP 
+                (NP (DT the) (NN offer) )
+                (PRN 
+                  (, ,)
+                  (VP (VBD submitted) 
+                    (NP (-NONE- *) )
+                    (NP-TMP (JJ last) (NNP Friday) ))
+                  (, ,) )
+                (PP (IN along) 
+                  (PP (IN with) 
+                    (NP 
+                      (NP (CD two) (JJ other) (NNS offers) )
+                      (, ,) 
+                      (VP 
+                        (ADVP (RB also) )
+                        (VBN submitted) 
+                        (NP (-NONE- *) )
+                        (NP-TMP (JJ last) (NN week) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT Those) (CD two) (NNS offers) )
+      (VP (VBD were) 
+        (ADJP-PRD (JJ private) )))
+    (CC and) 
+    (S 
+      (NP-SBJ-1 (DT the) (NN spokesman) )
+      (VP (VBD refused) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB identify) 
+              (NP (DT the) (VBG bidding) (NNS companies) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN spokesman) )
+    (VP 
+      (ADVP (RBR further) )
+      (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 
+            (NP 
+              (QP (IN at) (JJS least) (CD two) (JJR more) )
+              (NNS offers) )
+            (PP (-NONE- *ICH*-2) ))
+          (VP (VBP are) 
+            (VP (VBN expected) 
+              (NP (-NONE- *-1) )
+              (PP-2 (IN from) 
+                (NP (JJ other) (NNS companies) ))
+              (PP-TMP (IN within) 
+                (NP (CD two) (NNS weeks) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Gatoil) (NNP Suisse) )
+    (VP (VBZ owns) 
+      (NP 
+        (NP (DT an) (NN oil) (NN refinery) )
+        (PP-LOC (IN in) 
+          (NP (NNP Switzerland) ))
+        (PP (IN with) 
+          (NP 
+            (NP (DT a) (NN capacity) )
+            (PP (IN of) 
+              (NP 
+                (NP (CD 70,000) (NNS barrels) )
+                (NP-ADV (DT a) (NN day) ))))))
+      (, ,) 
+      (PP (IN along) 
+        (PP (IN with) 
+          (NP 
+            (NP (DT a) (NN network) )
+            (PP (IN of) 
+              (NP (NN gasoline) (VBG retailing) (NNS outlets) ))))))
+    (. .) ))

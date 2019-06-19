@@ -1,0 +1,188 @@
+
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (NN Trading) )
+        (PP-LOC (IN in) 
+          (NP (NNP Cineplex) (NNP Odeon) (NNP Corp.) (NNS shares) )))
+      (VP (VBD was) 
+        (VP (VBN halted) 
+          (NP (-NONE- *-1) )
+          (PP-LOC (IN on) 
+            (NP (DT the) (NNP New) (NNP York) 
+              (CC and)
+              (NNP Toronto) (NN stock) (NNS exchanges) ))
+          (NP-LOC (RB late) (NN yesterday) (NN afternoon) )
+          (PP (IN at) 
+            (NP 
+              (NP (DT the) (NN company) (POS 's) )
+              (NN request) )))))
+    (, ,) 
+    (NP-SBJ (NNP Toronto) (NNP Stock) (NNP Exchange) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Brian) (NNP Hemming) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN spokesman) )
+        (PP (IN for) 
+          (NP 
+            (NP 
+              (NP (DT the) (NN company) (POS 's) )
+              (NN committee) )
+            (PP (IN of) 
+              (NP (JJ independent) (NNS directors) ))
+            (, ,) 
+            (VP (VBN established) 
+              (PP-TMP (IN in) 
+                (NP (NNP May) ))
+              (S-PRP 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB solicit) 
+                    (CC and)
+                    (VB evaluate) 
+                    (NP 
+                      (NP (NNS offers) )
+                      (PP (IN for) 
+                        (NP (DT the) (NN company) ))))))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD was) 
+            (VP (VBN expected) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB make) 
+                    (NP (DT an) (NN announcement) )
+                    (NP-TMP (RB early) (DT this) (NN morning) )))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (NNP Mr.) (NNP Hemming) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD was) (RB n't) 
+            (ADJP-PRD (JJ aware) 
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN nature) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (NNS talks) )
+                      (PP (IN under) 
+                        (NP (NN way) ))
+                      (PP (IN between) 
+                        (NP 
+                          (NP (NN committee) (NNS members) )
+                          (CC and) 
+                          (NP (PRP$ their) (NNS advisers) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Cineplex) )
+    (VP (VBD traded) 
+      (PP-LOC (IN on) 
+        (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))
+      (PP-CLR (IN at) 
+        (NP 
+          (NP 
+            (NP ($ $) (CD 11.25) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) 
+          (ADVP (RB up) 
+            (NP ($ $) (CD 1.125) (-NONE- *U*) ))))
+      (, ,) 
+      (SBAR-TMP (IN before) 
+        (S 
+          (NP-SBJ-1 (NN trading) )
+          (VP (VBD was) 
+            (VP (VBN halted) 
+              (NP (-NONE- *-1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Analysts) )
+    (VP (VBP have) 
+      (VP (VBN speculated) 
+        (PP-TMP (IN in) 
+          (NP (JJ recent) (NNS days) ))
+        (SBAR 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ 
+                (NP (DT the) (NN value) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNS offers) )
+                    (VP (VBN received) 
+                      (NP (-NONE- *) )
+                      (PP (IN by) 
+                        (NP-LGS (DT the) (NN committee) ))))))
+              (VP (VBD fell) 
+                (ADVP-CLR (RB well) (RB short) 
+                  (PP (IN of) 
+                    (SBAR-NOM 
+                      (WHNP (WP what) )
+                      (S 
+                        (NP-SBJ (PRP they) )
+                        (VP (VBD had) 
+                          (VP (VBN hoped) 
+                            (SBAR (-NONE- 0) 
+                              (S (-NONE- *?*) )))))))))))
+          (, ,) (CC or) 
+          (ADVP (RB even) )
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (NX 
+                    (NX (NN chairman) )
+                    (, ,) 
+                    (NX (NN president) )
+                    (CC and) 
+                    (NX (JJ chief) (JJ executive) (NN officer) )))
+                (, ,) 
+                (NP (NNP Garth) (NNP Drabinsky) )
+                (, ,) )
+              (VP (VBZ is) 
+                (NP-PRD 
+                  (NP (DT the) (JJ only) (NN bidder) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (DT the) (NN company) )
+                      (PP (IN as) 
+                        (NP (DT a) (NN whole) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ current) (NN effort) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB auction) 
+            (PRT (RP off) )
+            (NP (DT the) (NN company) )))))
+    (VP (VBD was) 
+      (VP (VBN triggered) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT a) (NN dispute) )
+            (PP (IN between) 
+              (NP 
+                (NP (NNP Mr.) (NNP Drabinsky) )
+                (CC and) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (JJ Toronto-based) (NN movie) (NN chain) (POS 's) )
+                    (JJ major) (NN shareholder) )
+                  (, ,) 
+                  (NP (NNP MCA) (NNP Inc) ))))))))
+    (. .) ))

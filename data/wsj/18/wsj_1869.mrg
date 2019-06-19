@@ -1,0 +1,594 @@
+
+( (S 
+    (NP-SBJ (NNP Senate) (NNPS Republicans) )
+    (VP (VBP have) 
+      (VP (VBN settled) 
+        (PP-CLR (IN on) 
+          (NP 
+            (NP (DT a) (NN proposal) )
+            (SBAR 
+              (WHNP-1 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (MD would) 
+                  (VP (VB cut) 
+                    (NP 
+                      (NP (DT the) (NNS capital-gains) (NN tax) )
+                      (PP (IN for) 
+                        (NP (NNS individuals) 
+                          (CC and)
+                          (NNS corporations) )))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP (DT the) (JJ same) (NN time) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT a) (JJ small) (NN group) )
+      (PP (IN of) 
+        (NP (NNP Senate) (NNPS Democrats) )))
+    (VP 
+      (VP (VBP are) 
+        (VP (VBG working) 
+          (PP-CLR (IN on) 
+            (NP (DT a) (JJ similar) (NN plan) ))))
+      (CC and) 
+      (VP (MD may) 
+        (VP (VB introduce) 
+          (NP (PRP it) )
+          (ADVP-TMP (RB soon) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Sen.) (NNP Bob) (NNP Packwood) )
+        (PRN 
+          (-LRB- -LRB-)
+          (NP (NNP R.) )
+          (, ,) 
+          (NP-LOC (NNP Ore.) )
+          (-RRB- -RRB-) ))
+      (, ,) 
+      (NP 
+        (NP (DT the) (JJ lead) (NN sponsor) )
+        (PP (IN of) 
+          (NP (DT the) (NNP GOP) (NN proposal) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP he) )
+          (VP (VBZ intends) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP 
+                (VP (TO to) 
+                  (VP (VB unveil) 
+                    (NP (DT the) (NN plan) )
+                    (NP-TMP (NN today) )))
+                (CC and) 
+                (VP (TO to) 
+                  (VP (VB offer) 
+                    (NP (PRP it) )
+                    (PP-CLR (IN as) 
+                      (NP 
+                        (NP (DT an) (NN amendment) )
+                        (PP (TO to) 
+                          (NP 
+                            (SBAR-NOM 
+                              (WHNP-1 (WDT whatever) (NN legislation) )
+                              (S 
+                                (NP-SBJ (-NONE- *T*-1) )
+                                (VP (VBZ comes) 
+                                  (ADVP-CLR (RB along) ))))
+                            (, ,) 
+                            (ADVP (RB particularly) )
+                            (NP 
+                              (NP 
+                                (NP (DT this) (NN month) (POS 's) )
+                                (NN bill) )
+                              (SBAR 
+                                (WHNP-3 (-NONE- 0) )
+                                (S 
+                                  (NP-SBJ (-NONE- *T*-3) )
+                                  (VP (TO to) 
+                                    (VP (VB raise) 
+                                      (NP (DT the) (JJ federal) (NN borrowing) (NN limit) ))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD gave) 
+      (NP (JJ 10-to-1) (NNS odds) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-2 
+              (NP (DT a) (NNS capital-gains) (NN tax) (NN cut) )
+              (PP (IN of) 
+                (NP (DT some) (NN sort) )))
+            (VP (MD would) 
+              (VP (VB be) 
+                (VP (VBN approved) 
+                  (NP (-NONE- *-2) )
+                  (NP-TMP (DT this) (NN year) )
+                  (, ,) 
+                  (SBAR-ADV (IN though) 
+                    (S 
+                      (NP-SBJ-3 (PRP it) )
+                      (ADVP (RB probably) )
+                      (VP (MD wo) (RB n't) 
+                        (VP (VB be) 
+                          (VP (VBN included) 
+                            (NP (-NONE- *-3) )
+                            (PP-LOC-CLR (IN in) 
+                              (NP (DT the) (VBG pending) (NN deficit-reduction) (NN bill) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD added) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-2 (PRP he) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB talk) 
+                  (PP-CLR (TO to) 
+                    (NP 
+                      (NP (DT the) (NNPS Democrats) )
+                      (SBAR 
+                        (WHNP-1 (WP who) )
+                        (S 
+                          (NP-SBJ-3 (-NONE- *T*-1) )
+                          (ADVP (RB also) )
+                          (VP (VBD wanted) 
+                            (S 
+                              (NP-SBJ-4 (-NONE- *-3) )
+                              (VP (TO to) 
+                                (S 
+                                  (NP-SBJ (-NONE- *-4) )
+                                  (VP (VB cut) 
+                                    (NP (DT the) (NNS gains) (NN tax) ))))))))))
+                  (PP (IN about) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG drafting) 
+                        (NP (DT a) (JJ joint) (NN proposal) )))))))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (NNS individuals) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Packwood) (NN plan) )
+    (VP (MD would) 
+      (VP (VB exclude) 
+        (PP-CLR (IN from) 
+          (NP (NN income) ))
+        (NP 
+          (NP (CD 5) (NN %) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN gain) )
+              (PP (IN from) 
+                (NP 
+                  (NP (DT the) (NN sale) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT a) (NN capital) (NN asset) )
+                      (VP (VBN held) 
+                        (NP (-NONE- *) )
+                        (PP-TMP (IN for) 
+                          (NP 
+                            (QP (JJR more) (IN than) (CD one) )
+                            (NN year) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN exclusion) )
+    (VP (MD would) 
+      (VP (VB rise) 
+        (NP-EXT (CD five) (NN percentage) (NNS points) )
+        (PP (IN for) 
+          (NP 
+            (NP (DT each) (NN year) )
+            (SBAR 
+              (WHADVP-2 (-NONE- 0) )
+              (S 
+                (NP-SBJ-1 (DT the) (NN asset) )
+                (VP (VBD was) 
+                  (VP (VBN held) 
+                    (NP (-NONE- *-1) )
+                    (ADVP-TMP (-NONE- *T*-2) )))))))
+        (SBAR-TMP (IN until) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD reached) 
+              (NP 
+                (NP (DT a) (NN maximum) )
+                (PP (IN of) 
+                  (NP (CD 35) (NN %) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN exclusion) )
+    (VP (MD would) 
+      (VP (VB apply) 
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (NNS assets) )
+            (VP (VBN sold) 
+              (NP (-NONE- *) )
+              (PP-TMP (IN after) 
+                (NP (NNP Oct.) (CD 1) 
+                  (, ,)
+                  (CD 1989) )))))))
+    (. .) ))
+( (S-2 
+    (PP (IN As) 
+      (NP (DT an) (NN alternative) ))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-2) ))))
+      (, ,) )
+    (NP-SBJ-1 (NNS taxpayers) )
+    (VP (MD could) 
+      (VP (VBD chose) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB reduce) 
+              (NP (PRP$ their) (NNS gains) )
+              (PP-EXT (IN by) 
+                (NP (DT an) (NN inflation) (NN index) )))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (NNS corporations) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (DT the) (JJ top) (NN tax) (NN rate) )
+      (PP (IN on) 
+        (NP 
+          (NP (DT the) (NN sale) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNS assets) )
+              (VP (VBN held) 
+                (NP (-NONE- *) )
+                (PP-TMP (IN for) 
+                  (NP 
+                    (QP (JJR more) (IN than) (CD three) )
+                    (NNS years) ))))))))
+    (VP (MD would) 
+      (VP (VB be) 
+        (VP (VBN cut) 
+          (NP (-NONE- *-1) )
+          (PP-DIR (TO to) 
+            (NP (CD 33) (NN %) ))
+          (PP-DIR (IN from) 
+            (NP 
+              (NP (DT the) (JJ current) (NN top) (NN rate) )
+              (PP (IN of) 
+                (NP (CD 34) (NN %) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) (NN rate) )
+    (VP (MD would) 
+      (VP 
+        (ADVP-MNR (RB gradually) )
+        (VB decline) 
+        (PP-DIR (TO to) 
+          (NP 
+            (QP (RB as) (JJ little) (IN as) (CD 29) )
+            (NN %) ))
+        (PP (IN for) 
+          (NP 
+            (NP (JJ corporate) (NNS assets) )
+            (VP (VBN held) 
+              (NP (-NONE- *) )
+              (PP-TMP (IN for) 
+                (NP (CD 15) (NNS years) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Packwood) (NN plan) )
+    (VP (MD would) 
+      (ADVP (RB also) )
+      (VP (VB include) 
+        (NP 
+          (NP (DT a) (NN proposal) )
+          (, ,) 
+          (VP (VBN designed) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP (NNP Sen.) (NNP William) (NNP Roth) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP (NNP R.) )
+                  (, ,) 
+                  (NP-LOC (NNP Del.) )
+                  (-RRB- -RRB-) ))))
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (MD would) 
+                (VP (VB expand) 
+                  (CC and)
+                  (VB alter) 
+                  (NP 
+                    (NP (DT the) (NN deduction) )
+                    (PP (IN for) 
+                      (NP (JJ individual) (NN retirement) (NNS accounts) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Roth) (NN plan) )
+    (VP (MD would) 
+      (VP (VB create) 
+        (NP 
+          (NP (DT a) (JJ new) 
+            (, ,)
+            (JJ non-deductible) (NNP IRA) )
+          (SBAR 
+            (WHPP-2 (IN from) 
+              (WHNP (WDT which) ))
+            (S 
+              (NP-SBJ-1 (NN money) )
+              (VP (MD could) 
+                (VP (VB be) 
+                  (VP (VBN withdrawn) 
+                    (NP (-NONE- *-1) )
+                    (ADVP-MNR (JJ tax-free) )
+                    (UCP 
+                      (PP 
+                        (CONJP (RB not) (JJ only) )
+                        (PP (IN for) 
+                          (NP (NN retirement) ))
+                        (, ,) 
+                        (CONJP (CC but) (RB also) )
+                        (PP (IN for) 
+                          (NP 
+                            (NP (DT the) (NN purchase) )
+                            (PP (IN of) 
+                              (NP (DT a) (JJ first) (NN home) )))))
+                      (CC and) 
+                      (S-PRP 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB pay) 
+                            (NP 
+                              (UCP (NN education) 
+                                (CC and)
+                                (JJ medical) )
+                              (NNS expenses) )))))
+                    (PP-DIR (-NONE- *T*-2) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Current) (NNS IRAs) )
+    (VP 
+      (VP (MD could) 
+        (VP (VB be) 
+          (VP (VBN rolled) 
+            (ADVP-CLR (RB over) )
+            (PP-CLR (IN into) 
+              (NP (DT the) (JJ new) (NNS IRAs) )))))
+      (CC but) 
+      (VP (MD would) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ subject) 
+            (PP (TO to) 
+              (NP (VB tax) ))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (PRP$ their) (NN part) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN group) )
+      (PP (IN of) 
+        (NP (NNPS Democrats) )))
+    (VP (VBP are) 
+      (VP (VBG working) 
+        (PP-CLR (IN on) 
+          (NP 
+            (NP (DT a) (NN plan) )
+            (SBAR 
+              (WHNP-2 (IN that) )
+              (, ,) 
+              (S 
+                (PP (IN like) 
+                  (NP (DT the) (NNP Packwood) (NN proposal) ))
+                (, ,) 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (MD would) 
+                  (VP (VB grant) 
+                    (NP (JJR larger) (NNS exclusions) )
+                    (PP-DTV (TO to) 
+                      (NP (NNS assets) ))
+                    (ADVP (DT the) (RB longer) 
+                      (SBAR (-NONE- 0) 
+                        (S 
+                          (NP-SBJ-1 (PRP they) )
+                          (VP (VBD were) 
+                            (VP (VBN held) 
+                              (NP (-NONE- *-1) )
+                              (PP (IN by) 
+                                (NP-LGS (NNS individuals) 
+                                  (CC and)
+                                  (NNS companies) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (ADJP (RB Newly) (JJ acquired) )
+      (NNS assets) )
+    (VP (MD would) 
+      (VP (VB get) 
+        (NP 
+          (NP (DT a) (JJR bigger) (NN break) )
+          (PP (IN than) 
+            (NP 
+              (NP (DT those) )
+              (VP 
+                (ADVP-TMP (RB currently) )
+                (VBN held) 
+                (NP (-NONE- *) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT An) (JJ extra) (NN exclusion) )
+    (VP (MD would) 
+      (VP (VB be) 
+        (VP (VBN given) 
+          (NP (-NONE- *-1) )
+          (PP-DTV (TO to) 
+            (NP 
+              (NP (JJ long-held) (NN stock) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP 
+                    (ADJP (JJ small) 
+                      (CC and)
+                      (JJ medium-size) )
+                    (NNS corporations) )
+                  (VP 
+                    (ADVP (RB just) )
+                    (VBG starting) 
+                    (PRT (RB up) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT No) (NN one) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NNP Senate) )))
+    (VP (VBZ is) 
+      (VP (VBG considering) 
+        (NP 
+          (NP (DT the) (NNS capital-gains) (NN plan) )
+          (VP (VBN passed) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS (DT the) (NNP House) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) (NN plan) )
+    (VP (MD would) 
+      (VP (VB provide) 
+        (NP (DT a) 
+          (ADJP (CD 30) (NN %) )
+          (NN exclusion) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (NNS assets) )
+            (VP (VBN sold) 
+              (NP (-NONE- *) )
+              (PP-TMP (IN over) 
+                (NP 
+                  (NP (DT a) 
+                    (ADJP (CD 2) (JJ 1\/2-year) )
+                    (NN period) )
+                  (VP (VBG ending) 
+                    (NP (NNP Dec.) (CD 31) 
+                      (, ,)
+                      (CD 1991) )))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN After) 
+      (NP (RB then) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP House) (NN measure) )
+    (VP (MD would) 
+      (VP 
+        (VP (VB boost) 
+          (NP (DT the) (NN tax) (NN rate) )
+          (PP-DIR (TO to) 
+            (NP (CD 28) (NN %) )))
+        (CC and) 
+        (VP (VB exclude) 
+          (PP-CLR (IN from) 
+            (NP (NN tax) ))
+          (NP 
+            (NP (DT the) (NN gain) )
+            (ADJP (JJ attributable) 
+              (PP (TO to) 
+                (NP (NN inflation) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Senators) )
+    (VP (VBP are) 
+      (VP (VBG focusing) 
+        (PP-CLR (IN on) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG making) 
+              (S 
+                (NP-SBJ (DT a) (NNS capital-gains) (NN differential) )
+                (ADJP-PRD (JJ permanent) )))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Separately) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Chairman) (NNP Dan) (NNP Rostenkowski) )
+      (PRN 
+        (-LRB- -LRB-)
+        (NP (NNP D.) )
+        (, ,) 
+        (NP-LOC (NNP Ill) )
+        (. .) 
+        (-RRB- -RRB-)
+        )
+      (PP (IN of) 
+        (NP (DT the) (NNP House) (NNPS Ways) 
+          (CC and)
+          (NNP Means) (NNP Committee) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD did) (RB n't) 
+            (VP (VB want) 
+              (S 
+                (NP-SBJ 
+                  (NP (DT the) (NNS capital-gains) (NN tax) (NN cut) )
+                  (CC or) 
+                  (NP 
+                    (NP (DT any) (JJ other) (NNS amendments) )
+                    (VP (VBN attached) 
+                      (NP (-NONE- *) )
+                      (PP-CLR (TO to) 
+                        (NP (DT the) (VBG pending) (NN bill) )))))
+                (VP (VBG raising) 
+                  (NP (DT the) (JJ federal) (NN borrowing) (NN limit) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ current) (NN debt) (NN limit) )
+    (VP (VBZ expires) 
+      (NP-TMP (NNP Oct.) (CD 31) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (ADVP (RB also) )
+    (VP (VBD urged) 
+      (NP-2 (NNP House) 
+        (CC and)
+        (NNP Senate) (NNS negotiators) )
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB rid) 
+            (NP (DT the) (NN deficit-reduction) (NN bill) )
+            (PP-CLR (IN of) 
+              (NP 
+                (NP (DT all) (NNS provisions) )
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBP increase) 
+                      (NP (DT the) (NN budget) (NN deficit) ))))
+                (, ,) 
+                (PP (VBG including) 
+                  (NP (DT the) (JJ House-passed) (NNS capital-gains) (NN provision) ))))))))
+    (. .) ))

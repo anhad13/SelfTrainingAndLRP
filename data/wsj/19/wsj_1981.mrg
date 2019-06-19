@@ -1,0 +1,138 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP General) (NNP Motors) (NNP Corp.) (POS 's) )
+      (NNP Chevrolet) (NN division) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG reacting) 
+        (PP-CLR (TO to) 
+          (NP (JJ slow) (NNS sales) ))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB offer) 
+              (NP 
+                (NP 
+                  (ADJP ($ $) (CD 800) (-NONE- *U*) )
+                  (NNS rebates) )
+                (PP (IN on) 
+                  (NP 
+                    (NP (PRP$ its) (CD 1990) (NNP Beretta) )
+                    (, ,) 
+                    (NP 
+                      (NP (DT the) (JJ two-door) (NN version) )
+                      (PP (IN of) 
+                        (NP (PRP$ its) (JJ core) (NN compact-car) (NN line) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Sluggish) (NNS sales) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NNP Beretta) )
+          (, ,) 
+          (CC and)
+          (NP 
+            (NP (PRP$ its) (JJ four-door) (JJ sister) (NN car) )
+            (, ,) 
+            (NP (DT the) (NNP Corsica) )
+            (, ,) ))))
+    (VP (VBD prompted) 
+      (S 
+        (NP-SBJ (NNP GM) )
+        (VP (TO to) 
+          (VP (VB idle) 
+            (NP 
+              (NP (DT the) (CD two) (NNS plants) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBP build) 
+                    (NP (DT the) (NNS automobiles) )))))
+            (PP-TMP (IN for) 
+              (NP 
+                (QP (DT a) (NN total) (IN of) (CD three) )
+                (NNS weeks) ))
+            (NP-TMP (DT this) (NN month) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NNP Corsica) 
+        (CC and)
+        (NNP Beretta) )
+      (VP (VBP make) 
+        (PRT (RP up) )
+        (NP 
+          (NP (DT the) (JJ highest-volume) (NN car) (NN line) )
+          (PP-LOC (IN at) 
+            (NP (NN Chevrolet) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (NNS sales) )
+        (PP (IN of) 
+          (NP (DT the) (NNS vehicles) )))
+      (VP 
+        (VP (VBP are) 
+          (ADVP-PRD (RB off) 
+            (NP (CD 9.6) (NN %) ))
+          (PP (IN for) 
+            (NP (DT the) (NN year) )))
+        (, ,) 
+        (CC and)
+        (VP (VBD fell) 
+          (NP-EXT (DT a) (JJ steep) (CD 34) (NN %) )
+          (PP-TMP (IN during) 
+            (NP (JJ early) (NNP October) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Chevrolet) )
+    (ADVP-TMP (RB already) )
+    (VP (VBZ is) 
+      (VP (VBG offering) 
+        (NP 
+          (NP (DT an) 
+            (ADJP ($ $) (CD 800) (-NONE- *U*) )
+            (NN rebate) )
+          (PP (IN on) 
+            (NP (DT the) (NN 1990-model) (NNP Corsica) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJS latest) (NN rebate) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ good) 
+        (PP (IN for) 
+          (NP (DT all) (NNP Beretta) (NNS models) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Chevrolet) (NNS buyers) )
+    (VP (MD can) 
+      (VP 
+        (VP (VB take) 
+          (NP (DT the) (NN rebate) ))
+        (, ,) (CC or) 
+        (VP (VB get) 
+          (NP 
+            (NP (NN discount) (NN financing) )
+            (PP (IN at) 
+              (NP 
+                (NP (NNS rates) )
+                (VP (VBG ranging) 
+                  (PP-DIR 
+                    (PP (IN from) 
+                      (NP 
+                        (NP (CD 6.9) (NN %) )
+                        (PP (IN on) 
+                          (NP (JJ 24-month) (NNS loans) ))))
+                    (PP (TO to) 
+                      (NP 
+                        (NP (CD 10.9) (NN %) )
+                        (PP (IN on) 
+                          (NP (JJ 60-month) (NNS loans) ))))))))))))
+    (. .) ))

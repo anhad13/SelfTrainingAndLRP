@@ -1,0 +1,92 @@
+
+( (S 
+    (NP-SBJ (NNP Panhandle) (NNP Eastern) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD applied) 
+            (, ,)
+            (PP (IN on) 
+              (NP 
+                (NP (NN behalf) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (CD two) )
+                    (PP (IN of) 
+                      (NP (PRP$ its) (NNS subsidiaries) ))))))
+            (, ,) 
+            (PP-CLR (TO to) 
+              (NP (DT the) (NNP Federal) (NNP Energy) (NNP Regulatory) (NNP Commission) ))
+            (PP-PRP (IN for) 
+              (NP (NN permission) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB build) 
+                      (NP 
+                        (NP (DT a) (JJ 352-mile) 
+                          (, ,)
+                          (ADJP 
+                            (QP ($ $) (CD 273) (CD million) )
+                            (-NONE- *U*) )
+                          (NN pipeline) (NN system) )
+                        (PP 
+                          (PP (IN from) 
+                            (NP 
+                              (NP (NNP Pittsburg) (NNP County) )
+                              (, ,) 
+                              (NP (NNP Okla.) )
+                              (, ,) ))
+                          (PP (TO to) 
+                            (NP 
+                              (NP (NNP Independence) )
+                              (, ,) 
+                              (NP (NNP Miss) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ natural) (NN gas) (NN pipeline) (NN concern) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-111 (DT the) 
+            (NAC 
+              (NP 
+                (QP (CD 500) (CD million) )
+                (JJ cubic) (NNS feet) )
+              (NP-ADV (DT a) (NN day) ))
+            (NN capacity) (NN pipeline) )
+          (VP (MD would) 
+            (VP (VB be) 
+              (VP (VBN built) 
+                (NP (-NONE- *-111) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (DT a) (VBN proposed) (NN joint) (NN venture) )
+                    (PP (IN between) 
+                      (NP 
+                        (NP (CD two) (NNP Panhandle) (NNP Eastern) (NNS units) )
+                        (: -) 
+                        (NP (NNP Texas) (NNP Eastern) (NNP Transmission) (NNP Corp.) 
+                          (CC and)
+                          (NNP Trunkline) (NNP Gas) (NNP Co) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Texas) (NNP Eastern) (NNP Transmission) )
+    (VP (MD will) 
+      (VP (VB build) 
+        (CC and)
+        (VB operate) 
+        (NP 
+          (NP (DT the) (NN system) )
+          (, ,) 
+          (SBAR 
+            (WHNP-142 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-142) )
+              (VP (MD will) 
+                (VP (VB connect) 
+                  (NP (DT the) (NNP Arkoma) (NNP Basin) )
+                  (PP-CLR (IN with) 
+                    (NP (JJ several) (JJ interstate) (NNS pipelines) )))))))))
+    (. .) ))

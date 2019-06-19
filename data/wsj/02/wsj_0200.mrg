@@ -1,0 +1,50 @@
+
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (DT an) (NNP Oct.) (CD 19) (NN review) )
+        (PP (IN of) 
+          (NP (`` ``) 
+            (NP-TTL (DT The) (NN Misanthrope) )
+            ('' '') 
+            (PP-LOC (IN at) 
+              (NP 
+                (NP (NNP Chicago) (POS 's) )
+                (NNP Goodman) (NNP Theatre) ))))
+        (PRN 
+          (-LRB- -LRB-)
+          (`` ``) 
+          (S-HLN 
+            (NP-SBJ (VBN Revitalized) (NNS Classics) )
+            (VP (VBP Take) 
+              (NP (DT the) (NN Stage) )
+              (PP-LOC (IN in) 
+                (NP (NNP Windy) (NNP City) ))))
+          (, ,) ('' '') 
+          (NP-TMP (NN Leisure) (CC &) (NNS Arts) )
+          (-RRB- -RRB-) )))
+    (, ,) 
+    (NP-SBJ-2 
+      (NP 
+        (NP (DT the) (NN role) )
+        (PP (IN of) 
+          (NP (NNP Celimene) )))
+      (, ,) 
+      (VP (VBN played) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS (NNP Kim) (NNP Cattrall) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP 
+        (ADVP-MNR (RB mistakenly) )
+        (VBN attributed) 
+        (NP (-NONE- *-2) )
+        (PP-CLR (TO to) 
+          (NP (NNP Christina) (NNP Haag) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ms.) (NNP Haag) )
+    (VP (VBZ plays) 
+      (NP (NNP Elianti) ))
+    (. .) ))

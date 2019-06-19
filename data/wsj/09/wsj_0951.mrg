@@ -1,0 +1,25 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP William) (NNP C.) (NNP Ballard) (NNP Jr.) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 48) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (VBN distilled) (NNS beverages) (NN concern) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG expanding) 
+            (NP (DT the) (NN board) )
+            (PP-DIR (TO to) 
+              (NP (CD 11) (NNS members) ))))))
+    (. .) ))

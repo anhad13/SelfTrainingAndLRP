@@ -1,0 +1,74 @@
+
+( (NP-HLN 
+    (NP (NNP COCA-COLA) (NNP Co) (. .) )
+    (PRN 
+      (-LRB- -LRB-)
+      (NP-LOC (NNP Atlanta) )
+      (-RRB- -RRB-) )
+    (: --) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Anton) (NNP Amon) )
+      (CC and) 
+      (NP (NNP George) (NNP Gourlay) ))
+    (VP (VBD were) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN vice) (NNS presidents) )
+            (PP (IN of) 
+              (NP (DT this) (NN soft-drink) (NN company) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNP Mr.) (NNP Amon) )
+        (, ,) 
+        (ADJP 
+          (NP (CD 46) (NNS years) )
+          (JJ old) )
+        (, ,) )
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP 
+            (NP (DT the) (NN company) (POS 's) )
+            (NN director) )
+          (PP (IN of) 
+            (NP (NN quality) (NN assurance) )))))
+    (: ;) 
+    (S 
+      (ADVP-TMP (RBS most) (RB recently) )
+      (, ,) 
+      (NP-SBJ (PRP he) )
+      (VP (VBD served) 
+        (PP-CLR (IN as) 
+          (NP 
+            (NP (NN vice) (NN president) )
+            (, ,) 
+            (NP (NNS operations) )))
+        (, ,) 
+        (PP (IN for) 
+          (NP (NNP Coca-Cola) (NNP Enterprises) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNP Mr.) (NNP Gourlay) )
+        (, ,) 
+        (NP (CD 48) )
+        (, ,) )
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (NN manager) )
+          (PP (IN for) 
+            (NP (JJ corporate) (NN manufacturing) (NNS operations) )))))
+    (: ;) 
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP (VBD was) 
+        (NP-PRD 
+          (NP (JJ assistant) (NN vice) (NN president) )
+          (PP-LOC (IN at) 
+            (NP (DT the) (NN company) )))))
+    (. .) ))

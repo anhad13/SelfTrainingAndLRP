@@ -1,0 +1,329 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NNP University) )
+      (PP (IN of) 
+        (NP (NNP Toronto) )))
+    (VP (VBD stepped) 
+      (ADVP (RBR deeper) )
+      (PP-DIR (IN into) 
+        (NP 
+          (NP (DT the) (NN contest) )
+          (PP (IN for) 
+            (NP (NNP Connaught) (NNP BioSciences) (NNP Inc.) ))))
+      (PP-MNR (IN by) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG reaching) 
+            (NP (DT an) (JJ unusual) (NN agreement) )
+            (PP-CLR (IN with) 
+              (NP 
+                (NP (NNP Ciba-Geigy) (NNP Ltd.) )
+                (CC and) 
+                (NP (NNP Chiron) (NNP Corp) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP University) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (CD two) (NNS companies) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB spend) 
+                  (NP 
+                    (NP 
+                      (QP (CD 25) (CD million) )
+                      (JJ Canadian) (NNS dollars) )
+                    (-LRB- -LRB-) 
+                    (NP 
+                      (QP ($ $) (CD 21.3) (CD million) )
+                      (-NONE- *U*) )
+                    (-RRB- -RRB-) )
+                  (PP-TMP (IN over) 
+                    (NP (CD 10) (NNS years) ))
+                  (PP-CLR (IN on) 
+                    (NP 
+                      (NP (NN research) )
+                      (PP-LOC (IN at) 
+                        (NP (JJ Canadian) (NNS universities) )))))))
+            (SBAR-ADV (IN if) 
+              (S 
+                (NP-SBJ-2 (PRP they) )
+                (VP (VBP are) 
+                  (ADJP-PRD (JJ successful) )
+                  (PP-LOC (IN in) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (VBG acquiring) 
+                        (NP (DT the) (NN vaccine) (NN maker) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (QP ($ $) (CD 10) (CD million) )
+            (-NONE- *U*) )
+          (VP (MD would) 
+            (VP (VB go) 
+              (PP-DIR (TO to) 
+                (NP 
+                  (NP (DT the) (NNP University) )
+                  (PP (IN of) 
+                    (NP (NNP Toronto) )))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNP Ciba-Geigy) )
+        (CC and) 
+        (NP (NNP Chiron) ))
+      (VP (VBP have) 
+        (VP (VBN made) 
+          (NP 
+            (NP (DT a) (JJ joint) (NN bid) )
+            (PP (IN of) 
+              (NP 
+                (QP ($ C$) (CD 866) (CD million) )
+                (-NONE- *U*) ))
+            (PP (IN for) 
+              (NP (NNP Connaught) ))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (NNP Institut) (NNP Merieux) (NNP S.A.) )
+        (PP (IN of) 
+          (NP (NNP France) )))
+      (VP (VBZ has) 
+        (VP (VBN made) 
+          (NP 
+            (NP (DT a) (JJ rival) (NN bid) )
+            (PP (IN of) 
+              (NP 
+                (QP ($ C$) (CD 942) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (DT The) (NNP University) )
+    (VP (VBZ is) 
+      (VP (VBG seeking) 
+        (NP 
+          (NP (DT an) (NN injunction) )
+          (PP (IN against) 
+            (NP (DT the) (NNP Merieux) (NN bid) )))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (VBG arguing) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ 
+                  (NP (NNP Connaught) (POS 's) )
+                  (NN predecessor) (NN company) )
+                (VP (VBD agreed) 
+                  (PP-TMP (IN in) 
+                    (NP (CD 1972) ))
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ-1 
+                        (NP (NNP Connaught) (POS 's) )
+                        (NN ownership) )
+                      (VP (MD would) (RB n't) 
+                        (VP (VB be) 
+                          (VP (VBN transferred) 
+                            (NP (-NONE- *-1) )
+                            (PP-DTV (TO to) 
+                              (NP (NNS foreigners) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN university) )
+    (VP (VBD implied) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD would) 
+            (VP (VB drop) 
+              (NP 
+                (NP (PRP$ its) (NN opposition) )
+                (PP (TO to) 
+                  (NP (JJ foreign) (NN ownership) )))
+              (SBAR-ADV (IN if) 
+                (S 
+                  (NP-SBJ 
+                    (NP (NNP Ciba-Geigy) )
+                    (CC and) 
+                    (NP (NNP Chiron) ))
+                  (VP (VBP are) 
+                    (ADJP-PRD (JJ successful) 
+                      (PP (IN with) 
+                        (NP (PRP$ their) (JJR lower) (NN bid) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ new) (NN agreement) )
+          (VP (MD would) 
+            (VP (`` ``) (VB replace) ('' '') 
+              (NP 
+                (NP (DT the) (JJ old) (CD one) )
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBZ forms) 
+                      (NP 
+                        (NP (DT the) (NN basis) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (PRP$ its) (NN suit) )
+                            (PP (IN against) 
+                              (NP (DT the) (NNP Merieux) (NN takeover) ))))))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (PP (IN Notwithstanding) 
+        (NP 
+          (NP (JJ foreign) (NN ownership) )
+          (PP (IN of) 
+            (NP (NNP Connaught) ))))
+      (, ,) 
+      (NP-SBJ (DT this) (NN accord) )
+      (VP (MD would) 
+        (VP (VB enhance) 
+          (NP 
+            (NP (NN research) 
+              (CC and)
+              (NN development) )
+            (PP-LOC (IN in) 
+              (NP (NNP Canada) ))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP James) (NNP Keffer) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (DT the) (NN university) (POS 's) )
+          (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP (NN research) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Ciba-Geigy) )
+      (VP (VBZ is) 
+        (NP-PRD (DT a) (JJ Swiss) (JJ pharmaceutical) (NN company) )))
+    (CC and) 
+    (S 
+      (NP-SBJ-1 (NNP Chiron) )
+      (VP (VBZ is) 
+        (VP (VBN based) 
+          (NP (-NONE- *-1) )
+          (PP-LOC-CLR (IN in) 
+            (NP 
+              (NP (NNP Emeryville) )
+              (, ,) 
+              (NP (NNP Calif) ))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (NN statement) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Jacques-Francois) (NNP Martin) )
+      (, ,) 
+      (NP 
+        (NP (NN director) (NN general) )
+        (PP (IN of) 
+          (NP (NNP Merieux) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (JJ French) (NN company) )
+          (VP (VBZ is) 
+            (ADVP (RB still) )
+            (ADJP-PRD (VBN determined) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB acquire) 
+                    (NP (NNP Connaught) )))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBD did) (RB n't) 
+          (VP (NN comment) 
+            (ADVP-MNR (RB directly) )
+            (PP-CLR (IN on) 
+              (NP 
+                (NP (DT the) (NN pact) )
+                (PP (IN between) 
+                  (NP 
+                    (NP (NNP Ciba-Geigy) )
+                    (CC and) 
+                    (NP (DT the) (NN university) )))))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Merieux) )
+          (VP (MD can) 
+            (VP (VB transfer) 
+              (NP (JJ new) (NNS products) 
+                (CC and)
+                (NNS technologies) )
+              (PP-CLR (TO to) 
+                (NP (NNP Connaught) ))
+              (ADVP-MNR 
+                (ADVP (RBR more) (RB rapidly) )
+                (PP (IN than) 
+                  (NP 
+                    (NP (JJ other) (NNS companies) )
+                    (`` ``) 
+                    (VP (RB not) 
+                      (ADVP-TMP (RB currently) )
+                      (VBG producing) 
+                      (CC and)
+                      (VBG marketing) 
+                      (NP (NNS vaccines) ))
+                    (SBAR 
+                      (-LRB- -LCB-)
+                      (WHNP-2 (WP who) )
+                      (-RRB- -RCB-) 
+                      (S 
+                        (NP-SBJ (-NONE- *T*-2) )
+                        (VP (MD can) 
+                          (ADVP (RB only) )
+                          (VP (VB promise) 
+                            (NP (DT this) )
+                            (PP-CLR (IN for) 
+                              (NP 
+                                (NP (DT some) (: ...) (NNS years) )
+                                (PP-TMP (IN in) 
+                                  (NP (DT the) (NN future) ))))))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ national) (JJ over-the-counter) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (NNP Connaught) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 28.625) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (IN up) 
+        (NP ($ $) (CD 1.25) (-NONE- *U*) )))
+    (. .) ))

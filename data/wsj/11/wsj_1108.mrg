@@ -1,0 +1,121 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Italy) (POS 's) )
+      (NN unemployment) (NN rate) )
+    (VP 
+      (VP (VBD rose) 
+        (PP-DIR (TO to) 
+          (NP 
+            (NP (CD 12) (NN %) )
+            (PP (IN of) 
+              (NP (DT the) (NN labor) (NN force) ))))
+        (PP-TMP (IN in) 
+          (NP (NNP July) ))
+        (PP (IN from) 
+          (NP (CD 11.9) (NN %) )
+          (PP-TMP (IN in) 
+            (NP (NNP April) ))))
+      (, ,) 
+      (CC and)
+      (VP (VBD was) 
+        (ADVP-PRD (RB up) 
+          (PP (IN from) 
+            (NP (CD 11.7) (NN %) )
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RBR earlier) ))))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (JJ quarterly) (NNS figures) )
+            (PP (IN from) 
+              (NP (DT the) (NN state) (JJ statistical) (NN institute) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Istat) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT a) (JJ national) (NN survey) )
+            (PP-TMP (IN during) 
+              (NP 
+                (NP (DT the) (JJ first) (NN week) )
+                (PP (IN of) 
+                  (NP (NNP July) )))))
+          (VP (VBD showed) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ 
+                  (NP (DT the) (NN number) )
+                  (PP (IN of) 
+                    (NP (NN job) (NNS seekers) )))
+                (VP (VBD was) 
+                  (NP-PRD 
+                    (NP (CD 2,888,000) )
+                    (ADVP (RB up) 
+                      (PP 
+                        (PP (IN from) 
+                          (NP (CD 2,822,000) )
+                          (PP-TMP (IN in) 
+                            (NP (NNP April) )))
+                        (, ,) 
+                        (CC and)
+                        (PP (IN from) 
+                          (NP (CD 2,853,000) )
+                          (ADVP-TMP 
+                            (NP (DT a) (NN year) )
+                            (RB ago) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN unemployment) (NN rate) )
+    (VP (VBD was) 
+      (PP (IN by) 
+        (ADVP (RB far) ))
+      (NP-PRD 
+        (NP (DT the) (JJS highest) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (JJ southern) 
+            (, ,)
+            (JJ so-called) (NNP Mezzogiorno) (NN region) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ southern) (NN unemployment) (NN rate) )
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP (CD 21.3) (NN %) ))
+      (PP-TMP (IN in) 
+        (NP (NNP July) ))
+      (PP 
+        (PP (IN from) 
+          (NP (CD 21.2) (NN %) )
+          (PP-TMP (IN in) 
+            (NP (NNP April) )))
+        (CC and) 
+        (PP (IN from) 
+          (NP (CD 20.6) (NN %) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Istat) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP 
+              (QP (CD 369,000) (JJR more) )
+              (NNS people) )
+            (PP (-NONE- *ICH*-2) ))
+          (VP (VBD were) 
+            (VP (VBN employed) 
+              (NP (-NONE- *-1) )
+              (PP-TMP (IN in) 
+                (NP (NNP July) ))
+              (PP-2 (IN than) 
+                (PP-TMP (IN in) 
+                  (NP (NNP April) ))))))))
+    (. .) ))

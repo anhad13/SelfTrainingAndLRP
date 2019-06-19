@@ -1,0 +1,358 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Fireman) (POS 's) )
+      (NNP Fund) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ third-quarter) (NN net) (NN income) )
+          (VP (VBD plunged) 
+            (NP-EXT (CD 85) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (QP ($ $) (CD 7.2) (CD million) )
+                (-NONE- *U*) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (NP 
+                  (NP (JJ last) (NN year) (POS 's) )
+                  (QP ($ $) (CD 49.1) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD 99) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) ))
+            (PP-PRP (IN because) (IN of) 
+              (NP 
+                (NP 
+                  (NP (NNS ravages) )
+                  (PP (IN of) 
+                    (NP (NNP Hurricane) (NNP Hugo) )))
+                (CC and) 
+                (NP 
+                  (NP (VBN increased) (NNS reserves) )
+                  (PP (IN for) 
+                    (NP (JJ legal) (NNS expenses) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Payout) )
+      (PP (IN of) 
+        (NP (VBN preferred) (NNS dividends) )))
+    (VP (VBD resulted) 
+      (PP-CLR (IN in) 
+        (NP 
+          (NP (DT a) (JJ net) (NN loss) )
+          (PP (IN of) 
+            (NP 
+              (NP (CD five) (NNS cents) )
+              (NP-ADV (DT a) (NN share) )))))
+      (PP-TMP (IN in) 
+        (NP (DT the) 
+          (ADJP (RBS most) (JJ recent) )
+          (NN quarter) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD edged) 
+      (PRT (RP up) )
+      (NP-EXT (CD 3.4) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 904) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 874) (CD million) )
+          (-NONE- *U*) ))
+      (PP-TMP (IN in) 
+        (NP 
+          (NP (JJ last) (NN year) (POS 's) )
+          (JJ third) (NN quarter) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (NNP Fireman) (POS 's) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 35.50) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (ADVP (IN down) 
+        (NP (CD 50) (NNS cents) )))
+    (. .) ))
+( (S 
+    (S-TPC-4 
+      (NP-SBJ-3 
+        (NP (NN Impact) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNP Oct.) (CD 17) (NNP San) (NNP Francisco) (NN earthquake) )
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (NP-SBJ-1 (-NONE- *T*-2) )
+                (VP (MD will) 
+                  (VP (VB be) 
+                    (VP (VBN recorded) 
+                      (NP (-NONE- *-1) )
+                      (PP-TMP (IN in) 
+                        (NP (DT the) (JJ fourth) (NN quarter) )))))))
+            (, ,) )))
+      (VP (VBZ is) (RB n't) 
+        (VP (VBN expected) 
+          (S 
+            (NP-SBJ (-NONE- *-3) )
+            (VP (TO to) 
+              (VP (VB exceed) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 50) (CD million) )
+                    (-NONE- *U*) )
+                  (PP-TMP (IN after) 
+                    (NP (NNS taxes) )))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-4) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN insurance) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN net) )
+          (VP (VBD fell) 
+            (NP-EXT (CD 46) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 88.8) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP ($ $) (CD 1.54) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) ))))
+            (, ,) 
+            (PP-DIR (IN from) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 164) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP ($ $) (CD 3.16) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) )
+              (NP-TMP (DT the) (JJ previous) (NN year) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD slid) 
+      (NP-EXT (CD 7) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 2.6) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 2.8) (CD billion) )
+            (-NONE- *U*) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Fireman) (POS 's) )
+      (NNP Fund) (NN property-liability) (NNS subsidiaries) )
+    (VP (VBD reported) 
+      (NP (DT a) 
+        (ADJP (CD 120.7) (NN %) )
+        (VBN combined) (NN underwriting) (NN ratio) )
+      (PP-TMP (IN for) 
+        (NP (DT the) (CD nine) (NNS months) ))
+      (, ,) 
+      (ADVP (IN up) 
+        (PP (IN from) 
+          (NP (CD 108.4) (NN %) )
+          (PP-TMP (IN for) 
+            (NP (DT the) (JJ year-ago) (NN period) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Hurricane) (NNP Hugo) )
+    (VP (VBD accounted) 
+      (PP-CLR (IN for) 
+        (NP 
+          (NP 
+            (NP 
+              (QP (IN about) ($ $) (CD 36) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN in) 
+              (NP (JJ pretax) (JJ third-quarter) (NNS losses) )))
+          (, ,) 
+          (NP 
+            (NP (NN net) )
+            (PP (IN of) 
+              (NP (NN reinsurance) (NNS recoveries) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (EX there) )
+          (VP (VBD was) 
+            (NP-PRD 
+              (NP 
+                (NP (DT an) (JJ additional) (NN increase) )
+                (PP (IN in) 
+                  (NP 
+                    (NP (NN loss) )
+                    (CC and) 
+                    (NP (JJ loss-expense) (NNS reserves) )))
+                (PP (IN of) 
+                  (NP 
+                    (QP ($ $) (CD 71) (CD million) )
+                    (-NONE- *U*) )))
+              (VP (VBG reflecting) 
+                (NP 
+                  (NP (`` ``) 
+                    (ADJP (JJR higher) (IN than) (VBN expected) )
+                    ('' '') (NN development) )
+                  (PP-LOC (IN in) 
+                    (NP (NNS claims) )
+                    (X (JJ legal) (NNS expenses) (IN from) (TO to) (JJ prior) (NNS periods) )))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (DT the) (JJ third) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (NN net) (NNS premiums) )
+    (VP (VBD were) 
+      (NP-PRD 
+        (QP ($ $) (CD 742) (CD million) )
+        (-NONE- *U*) )
+      (, ,) 
+      (ADVP (IN up) 
+        (NP (CD 9.6) (NN %) )
+        (PP (IN from) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 677) (CD million) )
+              (-NONE- *U*) )
+            (PP-TMP (IN in) 
+              (NP 
+                (NP (JJ last) (NN year) (POS 's) )
+                (NN quarter) )))))
+      (, ,) 
+      (PP-PRP (IN because) (IN of) 
+        (NP 
+          (NP (DT the) (NN expiration) )
+          (PP (IN of) 
+            (NP (DT the) (NNP National) (NNP Indemnity) (NN quota) (NN share) (NN reinsurance) (NN agreement) )))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (JJ Net) (NNS premiums) )
+        (VP (VBN written) 
+          (NP (-NONE- *) )
+          (PP-TMP (IN through) 
+            (NP (NNP Sept.) (CD 30) ))))
+      (VP (VBD fell) 
+        (NP-EXT (CD 5) (NN %) )
+        (PP-DIR (TO to) 
+          (NP 
+            (QP ($ $) (CD 2.1) (CD billion) )
+            (-NONE- *U*) ))
+        (PP-DIR (IN from) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 2.2) (CD billion) )
+              (-NONE- *U*) )
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (IN ago) )))
+        (, ,) 
+        (PP-PRP (IN because) (IN of) 
+          (NP 
+            (NP (DT the) (NN writing) )
+            (PP (IN of) 
+              (NP (JJR fewer) (NNS policies) ))
+            (PP (IN at) 
+              (NP (JJ flat) (NNS prices) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Third-quarter) 
+      (CC and)
+      (JJ nine-month) (NNS results) )
+    (VP (VBP do) (RB n't) 
+      (VP (VB include) 
+        (NP 
+          (NP (DT any) (NN provision) )
+          (PP (IN for) 
+            (NP 
+              (NP (NN premium) (NNS returns) )
+              (SBAR 
+                (WHNP-2 (WDT that) )
+                (S 
+                  (NP-SBJ-1 (-NONE- *T*-2) )
+                  (VP (MD could) 
+                    (VP (VB be) 
+                      (VP (VBN ordered) 
+                        (NP (-NONE- *-1) )
+                        (PP (IN by) 
+                          (NP-LGS 
+                            (NP (DT the) (NNP California) (NNP Department) )
+                            (PP (IN of) 
+                              (NP (NNP Insurance) ))))
+                        (PP-LOC (IN under) 
+                          (NP (NN Proposition) (CD 103) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Fireman) (POS 's) )
+      (NNP Fund) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP 
+            (VP (VBZ has) 
+              (VP (VBN applied) 
+                (PP-CLR (IN for) 
+                  (NP 
+                    (NP (DT an) (NN exemption) )
+                    (PP (IN from) 
+                      (NP (DT these) (NN rate) (NNS rollbacks) ))))))
+            (, ,) 
+            (CC and)
+            (VP (VBZ plans) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB defend) 
+                    (NP (PRP$ its) (NN filing) )
+                    (PP-LOC (IN in) 
+                      (NP 
+                        (NP (NNS hearings) )
+                        (PP-LOC (IN before) 
+                          (NP (DT the) (NN department) ))))))))))))
+    (. .) ))

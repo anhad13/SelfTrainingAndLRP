@@ -1,0 +1,109 @@
+
+( (NP-HLN (JJ Well-Seasoned) (NN Reasoning) ))
+( (S 
+    (-LRB- -LRB-)
+    (`` ``) 
+    (NP-SBJ-2 (NN Food) (NN manufacturer) )
+    (VP (VBZ changes) 
+      (NP 
+        (NP (NN spelling) )
+        (PP (IN of) (`` `) 
+          (NP (NN catsup) )
+          ('' ') ))
+      (PP-CLR (TO to) (`` `) 
+        (NP (NN ketchup) ))
+      (, ,) ('' ') 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (VBG saying) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ (DT that) )
+              (VP (VBZ 's) 
+                (NP-PRD 
+                  (NP (DT the) (NN spelling) )
+                  (SBAR 
+                    (WHNP-1 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (NNS people) )
+                      (VP 
+                        (ADVP-TMP (RB now) )
+                        (VBP prefer) 
+                        (NP (-NONE- *T*-1) )))))))))))
+    (. .) ('' '') ))
+( (NP (: --) (NNP WSJ) (NNP Business) (NNP Bulletin) 
+    (-RRB- -RRB-)
+    ))
+( (S 
+    (S 
+      (NP-SBJ (JJ Public) (NN preference) )
+      (VP (VBZ is) 
+        (ADJP-PRD (JJ important) )))
+    (, ,) (IN So) 
+    (S 
+      (NP-SBJ (NN product) (NNS names) )
+      (VP (MD should) 
+        (VP (VB match) 
+          (PRT (IN up) ))))
+    (, ,) (CC And) 
+    (S 
+      (NP-SBJ 
+        (NP (NNS firms) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBP find) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (PRP they) )
+                  (VP (VBP 're) 
+                    (VP (VBG lagging) 
+                      (ADVP-LOC (IN behind) )))))))))
+      (VP (MD Should) 
+        (ADVP-TMP (RB now) )
+        (VP (VB take) 
+          (NP 
+            (NP (NNS steps) )
+            (SBAR 
+              (WHNP-2 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (TO to) 
+                  (VP (VB ketchup) ))))))))
+    (. !) ))
+( (NP (: --) (NNP George) (NNP O.) (NNP Ludcke) (. .) ))
+( (S-HLN 
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Judge) (RB Not) )))
+( (S 
+    (ADJP-PRD-TPC-2 (WRB How) (JJ easy) )
+    (NP-SBJ 
+      (NP (PRP it) )
+      (S (-NONE- *EXP*-1) ))
+    (VP (VBZ is) 
+      (ADJP-PRD (-NONE- *T*-2) )
+      (S-1 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO To) 
+          (VP (VB attack) 
+            (NP 
+              (NP (NNS others) (POS ') )
+              (NNS views) )
+            (PP-MNR (IN Without) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (ADVP (RB ever) )
+                (VP (VBG setting) 
+                  (NP (DT A) (NN foot) )
+                  (PP-CLR (IN in) 
+                    (NP (PRP$ their) (NNS shoes) )))))))))
+    (. !) ))
+( (NP (: --) (NNP G.) (NNP Sterling) (NNP Leiby) (. .) ))
+( (NP-HLN (NN Daffynition) ))
+( (NP 
+    (NP (JJ Money-making) (NN course) )
+    (: :) 
+    (NP (NN wad-working) )
+    (. .) ))
+( (NP (: --) (NNP Thomas) (NNP Henry) (. .) ))

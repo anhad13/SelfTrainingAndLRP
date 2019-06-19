@@ -1,0 +1,196 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP Justice) (NNP Department) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD filed) 
+            (NP 
+              (NP (DT a) (NN lawsuit) )
+              (VP (VBG seeking) 
+                (NP 
+                  (QP (RBR more) (IN than) ($ $) (CD 7.7) (CD million) )
+                  (-NONE- *U*) )
+                (PP-CLR (IN from) 
+                  (NP (DT a) (NNP Meredith) (NNP Corp.) (NN unit) ))
+                (PP (IN on) 
+                  (NP (NNS charges) 
+                    (SBAR (IN that) 
+                      (S 
+                        (NP-SBJ (DT the) (NN company) )
+                        (VP (VBD defrauded) 
+                          (NP (DT the) (NN government) )
+                          (PP-CLR (IN on) 
+                            (NP (DT a) (NN contract) 
+                              (S 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (TO to) 
+                                  (VP (VB provide) 
+                                    (NP (NN relocation) (NNS services) )
+                                    (PP-CLR (IN for) 
+                                      (NP (JJ federal) (NNS employees) ))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN suit) )
+      (, ,) 
+      (VP (VBN filed) 
+        (NP (-NONE- *) )
+        (PP-LOC (IN in) 
+          (NP (JJ federal) (NN trial) (NN court) ))
+        (PP-LOC (IN in) 
+          (NP 
+            (NP 
+              (NP (NNP Des) (NNP Moines) )
+              (, ,) 
+              (NP (NNP Iowa) )
+              (, ,) )
+            (SBAR 
+              (WHADVP (WRB where) )
+              (S 
+                (NP-SBJ-1 (NNP Meredith) )
+                (VP (VBZ is) 
+                  (VP (VBN based) 
+                    (NP (-NONE- *-1) ))))))))
+      (, ,) )
+    (VP (VBZ alleges) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-2 
+            (NP (DT the) (VBN diversified) (NNS media) (NN company) (POS 's) )
+            (NN relocation) (NN unit) )
+          (VP (VBD cheated) 
+            (NP (DT the) (NN government) )
+            (PP-MNR (IN by) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (VBG misrepresenting) 
+                  (NP 
+                    (NP (DT the) (NN value) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NN government) (NNS employees) (POS ') )
+                        (NNS homes) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN government) (NN contract) )
+    (VP (VBD required) 
+      (S 
+        (NP-SBJ (NNP Meredith) (NNP Relocation) (NNP Corp.) )
+        (VP (TO to) 
+          (VP (VB purchase) 
+            (NP 
+              (NP (NNS employees) (POS ') )
+              (NNS homes) )
+            (PP-MNR (VBN based) 
+              (PP (IN on) 
+                (NP (JJ independent) (NNS appraisals) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Justice) (NNP Department) )
+    (VP (VBZ alleges) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN company) )
+          (`` ``) 
+          (VP (VBD engaged) 
+            (PP-CLR (IN in) 
+              (NP 
+                (NP (JJ various) (NNS forms) )
+                (PP (IN of) 
+                  (NP (NN misrepresentation) ))))
+            ('' '') 
+            (PP (IN with) 
+              (NP 
+                (NP (DT the) (NN goal) )
+                (PP (IN of) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (VBG reducing) 
+                      (NP 
+                        (NP (DT the) (VBN appraised) (NN value) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NNS employees) (POS ') )
+                            (NNS homes) ))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT the) (NN suit) ))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NN department) )
+    (VP (VBZ seeks) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB recover) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 7.7) (CD million) )
+                (-NONE- *U*) )
+              (PP (IN in) 
+                (NP 
+                  (NP (NNS costs) )
+                  (VP (VBN incurred) 
+                    (NP (-NONE- *) )
+                    (SBAR-TMP 
+                      (WHADVP-3 (WRB when) )
+                      (S 
+                        (NP-SBJ (DT the) (NN government) )
+                        (VP 
+                          (VP (VBD terminated) 
+                            (NP 
+                              (NP (PRP$ its) (NN contract) )
+                              (PP (IN with) 
+                                (NP (NNP Meredith) (NNP Relocation) ))))
+                          (CC and) 
+                          (VP (VBD sought) 
+                            (NP 
+                              (NP (JJ other) (NNS contracts) )
+                              (SBAR 
+                                (WHNP-2 (-NONE- 0) )
+                                (S 
+                                  (NP-SBJ (-NONE- *T*-2) )
+                                  (VP (TO to) 
+                                    (VP (VB replace) 
+                                      (NP (PRP it) )))))))
+                          (ADVP-TMP (-NONE- *T*-3) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN department) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ seeks) (`` ``) 
+            (NP 
+              (NP 
+                (QP (CD three) (NNS times) )
+                (NP (DT the) (NN government) (POS 's) )
+                (NNS damages) )
+              (, ,) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBP are) 
+                    (ADVP-TMP (RB presently) )
+                    (ADJP-PRD (JJ undetermined) ))))
+              (, ,) 
+              (PP (CC plus) 
+                (NP (NNS penalties) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Officials) )
+      (PP (IN with) 
+        (NP (NNP Meredith) )))
+    (VP (VBD did) (RB n't) 
+      (VP (VB have) 
+        (NP 
+          (NP (DT any) (JJ immediate) (NN comment) )
+          (PP (IN on) 
+            (NP (DT the) (NN suit) )))))
+    (. .) ))

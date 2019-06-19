@@ -1,0 +1,67 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Norimasa) (NNP Furuta) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Japan) (POS 's) )
+            (NNP Mazda) (NNP Motor) (NNP Corp.) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ Japanese) (NN car) (NN maker) )
+          (VP (VBZ is) 
+            (VP (VBG planning) 
+              (NP 
+                (NP (JJ joint) (NN production) )
+                (PP (IN with) 
+                  (NP (NNP Ford) (NNP Motor) (NNP Co.) ))
+                (PP-LOC (IN in) 
+                  (NP (NNP Europe) ))
+                (ADVP-TMP (RB ahead) 
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (NNP European) (NNP Community) (POS 's) )
+                      (CD 1992) (NN integration) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Furuta) )
+    (VP 
+      (VP (VBD did) (RB n't) 
+        (VP (VB disclose) 
+          (NP 
+            (NP (JJ further) (NNS details) )
+            (PP (IN of) 
+              (NP (DT the) (NN arrangement) )))
+          (PP-LOC (IN at) 
+            (NP (DT a) (NN news) (NN conference) ))))
+      (, ,) (CC but) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-1 (DT the) (NN project) )
+            (VP (MD would) 
+              (VP (VB be) 
+                (VP (VBN undertaken) 
+                  (NP (-NONE- *-1) )
+                  (PP (IN with) 
+                    (NP 
+                      (NP (NNP Ford) (POS 's) )
+                      (JJ European) (NN subsidiary) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NNP Ford) (NN official) )
+    (VP (VBD confirmed) 
+      (PP-LOC (IN in) 
+        (NP (NNP Tokyo) ))
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NNP U.S.) (NN motor) (NN vehicle) (NN maker) )
+          (VP (VBZ is) 
+            (VP (VBG studying) 
+              (NP (PDT such) (DT an) (NN arrangement) ))))))
+    (. .) ))

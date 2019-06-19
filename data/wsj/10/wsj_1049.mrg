@@ -1,0 +1,30 @@
+
+( (S 
+    (NP-SBJ (NNP NICHOLS) (NNP INSTITUTE) )
+    (VP (VBD declared) 
+      (NP 
+        (NP (DT a) (JJ 2-for-1) (NN split) )
+        (PP (IN of) 
+          (NP (PRP$ its) (JJ common) (NN stock) ))
+        (, ,) 
+        (ADJP (JJ payable) 
+          (NP-TMP (NNP Nov.) (CD 27) )
+          (PP (TO to) 
+            (NP 
+              (NP (VB stock) )
+              (RRC 
+                (PP (IN of) 
+                  (NP (NN record) ))
+                (NP-TMP (NNP Nov.) (CD 10) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ clinical) (NN testing) (NNS services) (VBG holding) (NN company) )
+    (VP (VBZ is) 
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP San) (NNP Juan) (NNP Capistrano) )
+            (, ,) 
+            (NP (NNP Calif) )))))
+    (. .) ))

@@ -1,0 +1,118 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Procter) (CC &) (NNP Gamble) (NNP Co.) )
+      (CC and) 
+      (NP (NNP Noxell) (NNP Corp.) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBD received) 
+            (NP 
+              (NP (JJ early) (NN termination) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN waiting) (NN period) )
+                  (PP-LOC (IN under) 
+                    (NP (DT the) (NNP Hart-Scott-Rodino) (NNP Act) ))
+                  (PP (VBG regarding) 
+                    (NP 
+                      (NP (DT the) (VBN proposed) 
+                        (ADJP 
+                          (QP ($ $) (CD 1.4) (CD billion) )
+                          (-NONE- *U*) )
+                        (NN merger) )
+                      (PP (IN of) 
+                        (NP (NNP Noxell) ))
+                      (PP (IN into) 
+                        (NP (NNP P&G) )))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNS Shareholders) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Noxell) )
+            (, ,) 
+            (PP (IN of) 
+              (NP-LOC 
+                (NP (NNP Hunt) (NNP Valley) )
+                (, ,) 
+                (NP (NNP Md.) )
+                (, ,) )))))
+      (VP (MD will) 
+        (VP (VB vote) 
+          (PP-CLR (IN on) 
+            (NP (DT the) (NN merger) ))
+          (PP-LOC (IN at) 
+            (NP (DT a) (JJ special) (NN meeting) ))
+          (PP-TMP (IN on) 
+            (NP (NNP Nov.) (CD 30) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS companies) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (NNP P&G) )
+      (, ,) 
+      (NP-LOC (NNP Cincinnati) )
+      (, ,) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB exchange) 
+            (NP 
+              (NP 
+                (NP (CD 0.272) (NN share) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (JJ common) (NN stock) )))
+              (NP (-NONE- *ICH*-1) ))
+            (PP-CLR (IN for) 
+              (NP 
+                (NP (DT each) (NN share) )
+                (PP (IN of) 
+                  (NP (NNP Noxell) 
+                    (UCP (JJ common) 
+                      (CC and)
+                      (NNP Class) (NNP B) )
+                    (NN stock) ))))
+            (, ,) 
+            (NP-1 
+              (NP (DT a) (NN total) )
+              (PP (IN of) 
+                (NP 
+                  (QP (RB about) (CD 11) (CD million) )
+                  (NNP P&G) (NNS shares) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN transaction) )
+    (VP (MD would) 
+      (VP (VB mark) 
+        (NP 
+          (NP (DT the) (NN entry) )
+          (PP (IN of) 
+            (NP (NNP P&G) ))
+          (PP (IN into) 
+            (NP (NNS cosmetics) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (ADVP-TMP (RB already) )
+    (VP (VBZ markets) 
+      (NP 
+        (NP (DT a) (JJ wide) (NN range) )
+        (PP (IN of) 
+          (NP (NNS detergents) 
+            (, ,)
+            (NN food) 
+            (, ,)
+            (NN household) 
+            (CC and)
+            (NN health-care) (NNS products) ))))
+    (. .) ))

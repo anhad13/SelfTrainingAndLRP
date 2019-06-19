@@ -1,0 +1,67 @@
+
+( (S 
+    (NP-SBJ-1 (NNP David) (NNP Shaffer) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (JJ new) (NN post) )
+            (PP (IN of) 
+              (NP 
+                (NP (JJ executive) (NN vice) (NN president) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NNP Maxwell) (NNP Macmillan) (NN group) )
+                    (PP (IN of) 
+                      (NP (DT this) (NN communications) (NN giant) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Shaffer) )
+    (VP (VBZ takes) 
+      (NP 
+        (NP (JJ primary) (NN responsibility) )
+        (PP (IN for) 
+          (NP (DT the) 
+            (UCP (JJ electronic) 
+              (CC and)
+              (NNS technical-services) )
+            (NN group) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (NN group) (NN vice) (NN president) )
+          (PP (IN of) 
+            (NP (DT the) (JJ electronic-publishing) (NN group) )))))
+    (. .) ))
+( (S 
+    (ADVP (RB Also) )
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNP Sheldon) (NNP Aboff) )
+      (, ,) 
+      (ADVP-TMP (RB formerly) )
+      (NP 
+        (NP (DT a) (NN vice) (NN president) )
+        (PP-LOC (IN at) 
+          (NP (NNP Maxwell) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN group) (NN vice) (NN president) )
+            (PP (IN with) 
+              (NP 
+                (NP (NN responsibility) )
+                (PP (IN for) 
+                  (NP (JJ various) 
+                    (UCP (JJ electronic) 
+                      (CC and)
+                      (JJ publishing-group) )
+                    (NNS companies) ))))))))
+    (. .) ))

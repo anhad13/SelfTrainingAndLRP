@@ -1,0 +1,120 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Vitro) (NNP S.A.) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Monterrey) )
+          (, ,) 
+          (NP (NNP Mexico) )
+          (, ,) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NNP THR) (NNP Corp.) (NN subsidiary) )
+          (VP (VBZ has) 
+            (VP (VBN entered) 
+              (PP-CLR (IN into) 
+                (NP (JJ definitive) (NN loan) (NNS agreements) ))
+              (PP (IN in) 
+                (NP 
+                  (NP (NN connection) )
+                  (PP (IN with) 
+                    (NP 
+                      (NP 
+                        (NP (NNP Vitro) (POS 's) )
+                        (ADJP ($ $) (JJ 21.25-a-share) (-NONE- *U*) )
+                        (NN tender) (NN offer) )
+                      (PP (IN for) 
+                        (NP (NNP Anchor) (NNP Glass) (NNP Container) (NNP Corp) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS agreements) )
+    (VP (VBP are) 
+      (PP-PRD (IN with) 
+        (NP 
+          (NP (NNP Security) (NNP Pacific) (NNP National) (NNP Bank) )
+          (CC and) 
+          (NP 
+            (NP (DT an) (NN affiliate) )
+            (PP (IN of) 
+              (NP (NNP Donaldson) 
+                (, ,)
+                (NNP Lufkin) (CC &) (NNP Jenrette) (NNP Securities) (NNP Corp) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Proceeds) )
+      (PP (IN of) 
+        (NP (DT the) (NN loan) (NN agreement) )))
+    (, ,) 
+    (ADVP (RB together) 
+      (PP (IN with) 
+        (NP 
+          (NP (NNS funds) )
+          (PP (IN from) 
+            (NP (NNP Vitro) )))))
+    (, ,) 
+    (VP (MD will) 
+      (VP (VB permit) 
+        (NP 
+          (NP 
+            (NP (DT the) (NN purchase) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT all) (NNS shares) )
+                (ADJP (JJ outstanding) )
+                (PP (IN of) 
+                  (NP (NNP Anchor) )))))
+          (CC and) 
+          (NP 
+            (NP (DT the) (NN payment) )
+            (PP (IN of) 
+              (NP (DT all) (VBN related) (NNS costs) 
+                (CC and)
+                (NNS expenses) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Vitro) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ definitive) (NNS agreements) )
+          (VP (VBP require) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ (NNP Anchor) )
+                (VP (VB obtain) 
+                  (NP (DT a) (NN waiver) )
+                  (PP-CLR (IN from) 
+                    (NP 
+                      (NP (PRP$ its) (NN bank) (NNS lenders) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (VBG existing) (NN covenant) (NNS defaults) )
+                          (PP (IN under) 
+                            (NP (PRP$ its) (NN bank) (NNS facilities) )))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-PRP (IN Since) 
+      (S 
+        (NP-SBJ (NNP Anchor) )
+        (VP (VBZ is) 
+          (ADVP (RB still) )
+          (VP (VBG seeking) 
+            (NP (DT this) (NN waiver) )))))
+    (, ,) 
+    (NP-SBJ (NNP Vitro) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN tender) (NN offer) )
+          (VP (VBZ is) 
+            (VP (VBG being) 
+              (VP (VBN extended) 
+                (NP (-NONE- *-1) )
+                (PP-TMP (IN until) 
+                  (NP 
+                    (NP (CD 5) (NN p.m.) (NNP EST) )
+                    (NP (NN tomorrow) )))))))))
+    (. .) ))

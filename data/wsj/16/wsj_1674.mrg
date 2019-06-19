@@ -1,0 +1,80 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP MARK) (NNP RESOURCES) (NNP INC.) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Calgary) )
+        (, ,) 
+        (NP (NNP Alberta) )
+        (, ,) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB sell) 
+                  (NP 
+                    (NP 
+                      (QP (CD 75) (CD million) )
+                      (JJ Canadian) (NNS dollars) )
+                    (PRN 
+                      (-LRB- -LRB-)
+                      (NP 
+                        (QP ($ US$) (CD 63.9) (CD million) )
+                        (-NONE- *U*) )
+                      (-RRB- -RRB-) )
+                    (PP (IN of) 
+                      (NP 
+                        (ADJP (CD 8) (NN %) )
+                        (JJ convertible) (NNS debentures) )))
+                  (PP-DTV (TO to) 
+                    (NP 
+                      (NP (DT a) (NN group) )
+                      (PP (IN of) 
+                        (NP (NNS securities) (NNS dealers) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mark) )
+      (, ,) 
+      (NP (DT an) (NN oil) 
+        (CC and)
+        (NN gas) (NN concern) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (JJ 15-year) (NNS debentures) )
+          (VP 
+            (VP (VBP are) 
+              (ADJP-PRD (JJ convertible) 
+                (PP-TMP (IN before) 
+                  (NP (NN maturity) ))
+                (PP (IN at) 
+                  (NP 
+                    (NP ($ C$) (CD 12.50) (-NONE- *U*) )
+                    (PP (IN for) 
+                      (NP (DT each) (NNP Mark) (JJ common) (NN share) ))))))
+            (, ,) 
+            (CC and)
+            (VP (MD can) 
+              (VP (VB be) 
+                (VP (VBN redeemed) 
+                  (NP (-NONE- *-1) )
+                  (PP (IN at) 
+                    (NP 
+                      (NP (DT the) (NN company) (POS 's) )
+                      (NN option) ))
+                  (, ,) 
+                  (PP-LOC (IN under) 
+                    (NP (JJ certain) (NNS conditions) ))
+                  (, ,) 
+                  (PP-TMP (IN after) 
+                    (NP (NNP Nov.) (CD 30) 
+                      (, ,)
+                      (CD 1992) )))))))))
+    (. .) ))

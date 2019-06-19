@@ -1,0 +1,207 @@
+
+( (S 
+    (S-TPC-3 
+      (NP-SBJ-2 
+        (NP (DT The) (NN earthquake) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD hit) 
+              (NP (DT the) (NNP San) (NNP Francisco) (NNP Bay) (NN area) )))))
+      (VP (VBZ is) (RB n't) 
+        (ADJP-PRD (JJ likely) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB result) 
+                (PP-CLR (IN in) 
+                  (NP 
+                    (NP (JJ wholesale) (NN downgrading) )
+                    (PP (IN of) 
+                      (NP (NN bond) (NNS ratings) ))))))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNS officials) )
+      (PP-LOC (IN at) 
+        (NP (DT the) (CD two) (JJ major) (NN rating) (NNS agencies) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ 
+          (NP (NNP Standard) (CC &) (NNP Poor) (POS 's) )
+          (NNP Corp.) )
+        (VP (VBZ is) 
+          (VP (VBG reviewing) 
+            (NP 
+              (NP (NN debt) )
+              (VP (VBN issued) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS (CD 12) (NNP California) (NNS counties) )))))))
+      (, ,) 
+      (CC and)
+      (`` ``) 
+      (S 
+        (NP-SBJ (EX there) )
+        (VP (VBP are) 
+          (NP-PRD (JJ potential) (VBN isolated) (NNS problems) ))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (NNP Hyman) (NNP Grossman) )
+      (, ,) 
+      (NP (DT a) (VBG managing) (NN director) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN agency) )
+    (VP (VBZ is) 
+      (VP (VBG preparing) 
+        (NP 
+          (NP (DT a) (NN report) )
+          (, ,) 
+          (SBAR 
+            (WHNP-2 (-NONE- 0) )
+            (S 
+              (NP-SBJ-1 (-NONE- *T*-2) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (VP (VBN issued) 
+                    (NP (-NONE- *-1) )
+                    (NP-TMP (NN today) ))))))
+          (, ,) 
+          (PP (IN on) 
+            (NP 
+              (NP 
+                (NP (DT the) (NN earthquake) (POS 's) )
+                (NN impact) )
+              (PP (IN on) 
+                (NP (DT the) 
+                  (ADJP (NN property-) 
+                    (CC and)
+                    (JJ casualty-insurance) )
+                  (NN industry) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ only) (NNS securities) )
+      (SBAR 
+        (WHNP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ-2 (-NONE- *T*-1) )
+          (ADVP-TMP (RB so) (RB far) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (VP (VBN singled) 
+                (PRT (RP out) )
+                (NP (-NONE- *-2) )))))))
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (DT those) )
+        (VP (VBN issued) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (NNP Bay) (NNP View) (NNP Federal) (NNP Savings) (CC &) (NNP Loan) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Moody) (POS 's) )
+      (NNP Investors) (NNP Service) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG reviewing) 
+              (, ,)
+              (PP (IN with) 
+                (NP 
+                  (NP (DT an) (NN eye) )
+                  (PP (IN toward) 
+                    (NP (DT a) (JJ possible) (NN downgrade) ))))
+              (, ,) 
+              (NP 
+                (NP (DT the) (NNS ratings) )
+                (PP (IN on) 
+                  (NP 
+                    (NP (NNP Bay) (NNP View) (NNP Federal) (NNS bonds) )
+                    (, ,) 
+                    (NP (JJ long-term) (NNS deposits) )
+                    (CC and) 
+                    (NP 
+                      (NP (DT the) (JJ preferred-stock) (NN rating) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (PRP$ its) (NN parent) (NN company) )
+                          (, ,) 
+                          (NP (NNP Bay) (NNP View) (NNP Capital) (NNP Corp) ))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (PP (IN for) 
+        (NP (NN property) 
+          (CC and)
+          (NN casualty) (NNS insurers) )))
+    (, ,) 
+    (NP-SBJ (NNP Moody) (POS 's) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (`` ``) 
+          (S 
+            (NP-SBJ (JJ preliminary) (NNS estimates) )
+            (VP (VBP suggest) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ (NNS losses) )
+                  (VP (MD should) (RB not) 
+                    (VP (VB have) 
+                      (NP 
+                        (NP (DT a) (JJ significant) (NN impact) )
+                        (PP (IN on) 
+                          (NP 
+                            (NP (JJS most) (NNS insurers) (POS ') )
+                            (JJ financial) (NN condition) )))))))))
+          (, ,) ('' '') (CC but) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (`` ``) 
+            (VP (VBZ raises) 
+              (NP 
+                (NP (NNS concerns) )
+                (PP (IN about) 
+                  (NP 
+                    (ADJP (RB potentially) (JJ substantial) )
+                    (NNS risks) ))
+                ('' '') 
+                (ADJP (JJ longer-term) )))))))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ-1 
+      (NP (NNS Losses) )
+      (PP (IN from) 
+        (NP (DT the) (NN earthquake) )))
+    (VP (VBP are) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (PP-PRD (IN of) 
+                (NP 
+                  (NP (JJ similar) (NN magnitude) )
+                  (PP (TO to) 
+                    (NP 
+                      (NP (DT those) )
+                      (PP (IN of) 
+                        (NP (NNP Hurricane) (NNP Hugo) )))))))))
+        (, ,) ('' '') 
+        (PP (VBG according) 
+          (PP (TO to) 
+            (NP (NNP Moody) (POS 's) )))))
+    (. .) ))

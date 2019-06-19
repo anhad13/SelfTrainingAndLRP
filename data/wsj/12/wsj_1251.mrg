@@ -1,0 +1,232 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNS Fatalities) )
+        (PP-LOC (IN on) 
+          (NP (JJ rural) (NNS interstates) )))
+      (VP (VBD rose) 
+        (NP-EXT (CD 33) (NN %) )
+        (PP-TMP (IN between) 
+          (NP 
+            (NP (CD 1986) )
+            (CC and) 
+            (NP (JJ last) (NN year) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP National) (NNP Highway) (NNP Traffic) (NNP Safety) (NNP Administration) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) ))
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT a) (NN report) )
+          (PP (IN on) 
+            (NP 
+              (NP (DT the) (NN impact) )
+              (PP (IN of) 
+                (NP (DT the) 
+                  (ADJP (CD 65) (JJ miles-per-hour) )
+                  (NN speed) (NN limit) ))
+              (PP (IN on) 
+                (NP (DT those) (NNS roads) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN report) )
+      (PP (TO to) 
+        (NP (NNP Congress) )))
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNS fatalities) )
+          (VP 
+            (VP (VBD rose) 
+              (NP-EXT-1 (CD 18) (NN %) )
+              (PP-TMP-2 (IN in) 
+                (NP (CD 1987) )))
+            (CC and) 
+            (VP 
+              (NP-EXT=1 (CD 13) (NN %) )
+              (PP-TMP=2 (IN in) 
+                (NP (CD 1988) )))
+            (PP-LOC (IN on) 
+              (NP (JJ rural) (NNS interstates) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (CD 1987) (NN highway) (NN bill) )
+    (VP (VBD permitted) 
+      (S 
+        (NP-SBJ (NNS states) )
+        (VP (TO to) 
+          (VP (VB raise) 
+            (NP (DT the) (NN speed) (NN limit) )
+            (PP-DIR (TO to) 
+              (NP (CD 65) (NN mph) ))
+            (PP-DIR (IN from) 
+              (NP (CD 55) (NN mph) ))
+            (PP-LOC (IN on) 
+              (NP 
+                (NP (JJ interstate) (NNS roads) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-2 (WDT which) )
+                  (S 
+                    (NP-SBJ-1 (-NONE- *T*-2) )
+                    (VP (VBP are) 
+                      (VP (VBN defined) 
+                        (NP (-NONE- *-1) )
+                        (PP-CLR (IN as) 
+                          (NP 
+                            (NP (NNS highways) )
+                            (SBAR 
+                              (WHNP-3 (WDT that) )
+                              (S 
+                                (NP-SBJ (-NONE- *T*-3) )
+                                (VP (VBP pass) 
+                                  (PP-CLR (IN through) 
+                                    (NP 
+                                      (NP (NNS areas) )
+                                      (PP (IN with) 
+                                        (NP 
+                                          (QP (JJR fewer) (IN than) (CD 50,000) )
+                                          (NNS people) )))))))))))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN Since) 
+      (NP (CD 1987) ))
+    (, ,) 
+    (NP-SBJ (CD 40) (NNS states) )
+    (VP (VBP have) 
+      (VP (VBN increased) 
+        (NP 
+          (NP (DT the) (NN speed) (NN limit) )
+          (PP-LOC (IN on) 
+            (NP (JJ rural) (NNS interstates) )))))
+    (. .) ))
+( (S (`` ``) 
+    (S 
+      (NP-SBJ-1 
+        (QP (IN About) (NN one-third) )
+        (IN of) 
+        (NP (DT the) (NN fatality) (NN increase) ))
+      (VP (VBZ is) 
+        (VP (VBN attributed) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (TO to) 
+            (NP (JJR greater) (NN travel) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-2 
+        (QP (IN about) (NNS two-thirds) ))
+      (VP (VBZ is) 
+        (VP (VBN attributed) 
+          (NP (-NONE- *-2) )
+          (PP-CLR 
+            (PP (TO to) 
+              (NP (JJ other) (NNS factors) ))
+            (-LRB- -LCB-) 
+            (PP 
+              (ADVP (RB primarily) )
+              (TO to) 
+              (NP (JJR greater) (NN speed) ))
+            (-RRB- -RCB-) ))))
+    (, ,) ('' '') 
+    (PP (VBG according) 
+      (PP (TO to) 
+        (NP (NNP NHTSA) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN report) )
+    (VP (VBD showed) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS deaths) )
+            (PP-LOC (IN on) 
+              (NP (JJ urban) (JJ interstate) (NNS highways) )))
+          (VP (VBD rose) 
+            (NP-EXT (CD 7) (NN %) )
+            (PP-TMP (IN between) 
+              (NP 
+                (NP (CD 1986) )
+                (CC and) 
+                (NP (JJ last) (NN year) )))
+            (, ,) 
+            (SBAR-ADV (IN while) 
+              (S 
+                (NP-SBJ 
+                  (NP (NNS fatalities) )
+                  (PP-LOC (IN on) 
+                    (NP (JJ non-interstate) (NNS roads) )))
+                (VP (VBD were) 
+                  (ADJP-PRD (IN about) (DT the) (JJ same) 
+                    (PP-TMP (IN in) 
+                      (NP (CD 1988) ))
+                    (PP (IN as) 
+                      (PP-TMP (IN in) 
+                        (NP (CD 1986) )))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (NNS states) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD raised) 
+              (NP 
+                (NP (DT the) (NN speed) (NN limit) )
+                (PP-LOC (IN on) 
+                  (NP (JJ rural) (NNS interstates) ))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN fatality) (NN rate) )
+    (VP (VBD rose) 
+      (NP-EXT 
+        (QP (IN about) (CD 18) )
+        (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (CD 1.7) (NNS deaths) )
+          (PP (IN per) 
+            (NP 
+              (NP 
+                (QP (CD 100) (CD million) )
+                (NNS miles) )
+              (VP (VBN traveled) 
+                (NP (-NONE- *) ))))))
+      (PP-TMP (IN between) 
+        (NP 
+          (NP (CD 1986) )
+          (CC and) 
+          (NP (CD 1988) ))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN contrast) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN fatality) (NN rate) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT the) (NNS states) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD retained) 
+                (NP (DT the) 
+                  (ADJP (CD 55) (NN mph) )
+                  (NN limit) )))))))
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (CD 0.9) )
+        (ADJP (-NONE- *ICH*-2) ))
+      (NP-TMP (JJ last) (NN year) )
+      (, ,) 
+      (ADJP-2 (DT the) (JJ same) 
+        (PP (IN as) 
+          (PP (IN in) 
+            (NP (CD 1986) )))))
+    (. .) ))

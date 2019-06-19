@@ -1,0 +1,121 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP September) (NNS sales) )
+        (PP-LOC (IN at) 
+          (NP (JJ major) (JJ Japanese) (NN retail) (NNS stores) )))
+      (VP (VBD rose) 
+        (NP-EXT (CD 9.4) (NN %) )
+        (PP-TMP (IN from) 
+          (NP 
+            (NP (DT a) (NN year) )
+            (ADVP-TMP (RB earlier) )))
+        (PP-DIR (TO to) 
+          (NP 
+            (NP 
+              (QP (CD 1.388) (CD trillion) )
+              (NNS yen) )
+            (PRN 
+              (-LRB- -LRB-)
+              (NP 
+                (QP ($ $) (CD 9.81) (CD billion) )
+                (-NONE- *U*) )
+              (-RRB- -RRB-) )))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG marking) 
+            (NP (DT the) (JJ fifth-consecutive) (JJ monthly) (NN increase) )))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP Ministry) )
+      (PP (IN of) 
+        (NP (NNP International) (NNP Trade) 
+          (CC and)
+          (NNP Industry) )))
+    (VP (VBD announced) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP (VBG According) 
+      (PP (TO to) 
+        (NP (DT the) (NN ministry) )))
+    (, ,) 
+    (NP-SBJ 
+      (NP (JJ retail) (NNS sales) )
+      (PP-LOC (IN at) 
+        (NP (JJ major) (NN department) (NNS stores) )))
+    (VP (VBD were) 
+      (ADVP-PRD (RB up) 
+        (NP-ADV (CD 12) (NN %) )
+        (PP (TO to) 
+          (NP 
+            (QP (CD 745.7) (CD billion) )
+            (NNS yen) )))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS sales) )
+            (PP-LOC (IN at) 
+              (NP (NNS supermarkets) )))
+          (VP (VBD rose) 
+            (NP-EXT (CD 6.7) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (QP (CD 642) (CD billion) )
+                (NNS yen) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP September) (POS 's) )
+      (NN growth) )
+    (VP (VBD followed) 
+      (NP 
+        (NP 
+          (NP (DT a) 
+            (ADJP (CD 8.7) (NN %) )
+            (NN rise) )
+          (PP-TMP (IN in) 
+            (NP (NNP July) )))
+        (CC and) 
+        (NP 
+          (NP (DT an) 
+            (ADJP (CD 8) (NN %) )
+            (NN increase) )
+          (PP-TMP (IN in) 
+            (NP (NNP August) ))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG showing) 
+          (NP 
+            (NP (JJ continued) (NN expansion) )
+            (PP (IN at) 
+              (NP (JJ high) (JJ year-on-year) (NNS levels) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NN ministry) (NN official) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN growth) )
+          (VP (VBZ leads) 
+            (PP-DIR (TO to) 
+              (NP (DT the) (NN conclusion) 
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP-SBJ 
+                      (NP (DT the) (JJ adverse) (NNS effects) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT a) (NN consumption) (NN tax) )
+                          (VP (VBN introduced) 
+                            (NP (-NONE- *) )
+                            (PP-TMP (IN in) 
+                              (NP (NNP April) ))))))
+                    (VP (VBP have) 
+                      (VP (VBN diminished) ))))))))))
+    (. .) ))

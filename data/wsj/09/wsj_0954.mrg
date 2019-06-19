@@ -1,0 +1,71 @@
+
+( (S 
+    (NP-SBJ (NNP C.) (NNP Hyde) (NNP Tucker) )
+    (VP (MD will) 
+      (VP (VB become) 
+        (NP-PRD 
+          (NP 
+            (NP (NN president) )
+            (CC and) 
+            (NP (NN chief) (JJ executive) (NN officer) ))
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Bell) (NNP Atlantic) (NNP International) (NNP Inc.) )
+              (, ,) 
+              (NP 
+                (NP (DT a) (NN unit) )
+                (PP (IN of) 
+                  (NP (DT this) (NNS telecommunications) (NN concern) )))
+              (, ,) )))
+        (ADJP-ADV (JJ effective) 
+          (NP-TMP (NNP Jan.) (CD 1) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Tucker) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 56) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ is) 
+      (ADVP-TMP (RB currently) )
+      (NP-PRD 
+        (NP 
+          (NP (NN vice) (NN president) )
+          (CC and) 
+          (NP (NN chief) (VBG operating) (NN officer) ))
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Bell) (NNP Atlantic) (POS 's) )
+            (NNP C&P) (NNP Telephone) (NN unit) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Tucker) )
+    (VP (MD will) 
+      (VP (VB succeed) 
+        (NP 
+          (NP (NNP Salvatore) (NNP J.) (NNP Barbera) )
+          (, ,) 
+          (NP (CD 64) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (MD will) 
+                (VP (VB hold) 
+                  (NP 
+                    (NP (DT the) 
+                      (ADJP (RB newly) (VBN created) )
+                      (NN position) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NN chairman) )
+                        (PP (IN of) 
+                          (NP (DT the) (JJ international) (NN unit) )))))
+                  (PP-TMP (IN until) 
+                    (NP 
+                      (NP (PRP$ his) (NN retirement) )
+                      (NP-TMP (NNP April) (CD 1) ))))))))))
+    (. .) ))

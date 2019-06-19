@@ -1,0 +1,86 @@
+
+( (S 
+    (NP-SBJ (NNP MCI) (NNPS COMMUNICATIONS) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD filed) 
+            (NP (DT a) (NN shelf) (NN registration) )
+            (PP-CLR (IN with) 
+              (NP (DT the) (NNPS Securities) 
+                (CC and)
+                (NNP Exchange) (NNP Commission) ))
+            (PP-CLR (IN for) 
+              (NP 
+                (NP (NN issuance) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (QP (RB as) (JJ much) (IN as) ($ $) (CD 750) (CD million) )
+                      (-NONE- *U*) )
+                    (PP (IN of) 
+                      (NP (NN debt) (NNS securities) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN debt) )
+    (VP (MD will) 
+      (VP (VB include) 
+        (NP 
+          (NP (JJ medium-term) (NNS notes) )
+          (VP (VBN sold) 
+            (NP (-NONE- *) )
+            (PP (IN through) 
+              (NP 
+                (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNPS Markets) )
+                (: ;) 
+                (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.) )
+                (: ;) 
+                (NP (NNP Goldman) 
+                  (, ,)
+                  (NNP Sachs) (CC &) (NNP Co.) )
+                (CC and) 
+                (NP (NNP Salomon) (NNPS Brothers) (NNP Inc) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS funds) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN used) 
+          (NP (-NONE- *-1) )
+          (PP-CLR 
+            (PP (IN for) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG refinancing) 
+                  (NP 
+                    (NP (VBG existing) (NN debt) )
+                    (PP (IN of) 
+                      (NP (DT the) 
+                        (NAC-LOC (NNP Washington) 
+                          (, ,)
+                          (NNP D.C.) 
+                          (, ,)
+                          )
+                        (NN concern) )))
+                  (PP-CLR (IN at) 
+                    (NP (JJR lower) (NN interest) (NNS rates) )))))
+            (CC and) 
+            (PP (IN for) 
+              (NP (JJ other) (JJ general) (NNS purposes) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (DT The) (JJ effective) (NN date) )
+      (PP (IN of) 
+        (NP (DT the) (NN registration) )))
+    (VP (VBZ is) 
+      (S 
+        (NP-SBJ-1 (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB be) 
+            (VP (VBN determined) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS (DT the) (NNP SEC) )))))))
+    (. .) ))

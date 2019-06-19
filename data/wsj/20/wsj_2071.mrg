@@ -1,0 +1,165 @@
+
+( (S 
+    (NP-SBJ (NNP National) (NNP Semiconductor) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD settled) 
+            (NP 
+              (NP (DT a) (JJ four-year-old) (NN patent) (NN infringement) (NN case) )
+              (PP (IN against) 
+                (NP (NNP Linear) (NNP Technology) (NNP Corp.) )))
+            (PP-MNR (IN by) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG accepting) 
+                  (NP (DT a) 
+                    (ADJP 
+                      (QP ($ $) (CD 3) (CD million) )
+                      (-NONE- *U*) )
+                    (NN payment) )
+                  (PP (IN from) 
+                    (NP (NNP Linear) ))
+                  (PP (IN in) 
+                    (NP 
+                      (NP (NN exchange) )
+                      (PP (IN for) 
+                        (S-NOM 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (VBG granting) 
+                            (NP (NNP Linear) )
+                            (NP 
+                              (NP (JJ irrevocable) (NNS licenses) )
+                              (PP (IN for) 
+                                (NP 
+                                  (NP (DT all) (NNS products) )
+                                  (VP (VBN involved) 
+                                    (NP (-NONE- *) )))))))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (CD two) (NNS companies) )
+      (ADVP (RB also) )
+      (VP (VBD agreed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB settle) 
+              (NP 
+                (NP (DT any) (JJ future) (NN property) (NNS rights) (NNS issues) )
+                (PP-TMP (IN over) 
+                  (NP (DT the) (JJ next) (CD 10) (NNS years) )))
+              (PP-MNR (IN through) 
+                (NP (VBG binding) (NN arbitration) )))))))
+    (, ,) 
+    (NP-SBJ (DT both) (NNS companies) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS products) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (JJ so-called) (JJ analog) (VBN integrated) (NNS circuits) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBP have) 
+              (NP 
+                (NP (NNS applications) )
+                (PP-LOC (IN in) 
+                  (NP (DT the) (NN consumer) (NNS electronics) 
+                    (, ,)
+                    (NN automobile) 
+                    (CC and)
+                    (JJ electronic) (NN instrumentation) (NNS markets) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Linear) (NNP Technology) )
+      (, ,) 
+      (NP 
+        (NP (NNP Milpitas) )
+        (, ,) 
+        (NP (NNP Calif.) )
+        (, ,) ))
+    (VP (VBD called) 
+      (S 
+        (NP-SBJ (DT the) (NN settlement) )
+        (`` ``) 
+        (ADJP-PRD (JJ positive) ))
+      (, ,) ('' '') 
+      (SBAR-PRP (IN since) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS products) )
+            (VP (VBN covered) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS (DT the) (VBN disputed) (NNS patents) ))))
+          (VP (VBP account) 
+            (PP-CLR (IN for) 
+              (NP 
+                (NP 
+                  (QP (IN about) (CD 20) )
+                  (NN %) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (JJ annual) (NNS sales) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS electronics) (NN concern) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (ADVP (RB already) )
+          (VP 
+            (VP (VBZ has) 
+              (VP (VBN paid) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 2) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN of) 
+                    (NP (DT the) (NN settlement) )))
+                (PP-DTV (TO to) 
+                  (NP 
+                    (NP (NNP National) (NNP Semiconductor) )
+                    (, ,) 
+                    (NP 
+                      (NP (NNP Santa) (NNP Clara) )
+                      (, ,) 
+                      (NP (NNP Calif.) ))))))
+            (, ,) 
+            (CC and)
+            (VP (MD will) 
+              (VP (VB pay) 
+                (NP (DT the) (VBG remaining) 
+                  (QP ($ $) (CD 1) (CD million) )
+                  (-NONE- *U*) )
+                (PP-MNR (IN in) 
+                  (NP (JJ equal) (NNS installments) ))
+                (PP-TMP (IN over) 
+                  (NP (DT the) (JJ next) (CD eight) (NNS quarters) ))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (NNS payments) )
+      (VP (VBP are) (RB n't) 
+        (VP (VBN expected) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB have) 
+                (NP (DT an) (NN impact) )
+                (PP-LOC-CLR (IN on) 
+                  (NP (VBG coming) (VBG operating) (NNS results) ))))))))
+    (, ,) 
+    (NP-SBJ (NNP Linear) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))

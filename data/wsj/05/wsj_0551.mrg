@@ -1,0 +1,74 @@
+
+( (S 
+    (S-TPC-4 
+      (NP-SBJ (NNP Trustcorp) (NNP Inc.) )
+      (VP (MD will) 
+        (VP (VB become) 
+          (NP-PRD (NNP Society) (NNP Bank) (CC &) (NNP Trust) )
+          (SBAR-TMP 
+            (WHADVP-3 (WRB when) )
+            (S 
+              (NP-SBJ-1 
+                (NP (PRP$ its) (NN merger) )
+                (PP (-NONE- *ICH*-2) ))
+              (VP (VBZ is) 
+                (VP (VBN completed) 
+                  (NP (-NONE- *-1) )
+                  (PP-2 (IN with) 
+                    (NP 
+                      (NP (NNP Society) (NNP Corp.) )
+                      (PP (IN of) 
+                        (NP (NNP Cleveland) ))))
+                  (ADVP-TMP (-NONE- *T*-3) ))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN bank) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-4) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (NNP Society) (NNP Corp.) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ is) 
+            (ADVP (RB also) )
+            (NP-PRD (DT a) (NN bank) ))))
+      (, ,) )
+    (VP (VBN agreed) 
+      (PP-TMP (IN in) 
+        (NP (NNP June) ))
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB buy) 
+            (NP (NNP Trustcorp) )
+            (PP-CLR (IN for) 
+              (NP 
+                (NP 
+                  (QP (CD 12.4) (CD million) )
+                  (NNS shares) )
+                (PP (IN of) 
+                  (NP (NN stock) ))
+                (PP (IN with) 
+                  (NP 
+                    (NP (DT a) (NN market) (NN value) )
+                    (PP (IN of) 
+                      (NP 
+                        (QP (IN about) ($ $) (CD 450) (CD million) )
+                        (-NONE- *U*) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN transaction) )
+    (VP (VBZ is) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB close) 
+              (PP-TMP (IN around) 
+                (NP (NN year) (NN end) )))))))
+    (. .) ))

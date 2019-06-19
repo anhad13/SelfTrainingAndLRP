@@ -1,0 +1,45 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Barbara) (NNP Hackman) (NNP Franklin) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP (NNP Franklin) (NNPS Associates) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (NN building) (NNS products) (NN maker) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Ms.) (NNP Franklin) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 49) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ fills) 
+      (NP 
+        (NP (DT the) (NN position) )
+        (VP (VBN vacated) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NNP Naomi) (NNP G.) (NNP Albanese) )
+              (, ,) 
+              (SBAR 
+                (WHNP-211 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-211) )
+                  (VP (VBD retired) 
+                    (NP-TMP (RBR earlier) (DT this) (NN year) )
+                    (PP (IN at) 
+                      (NP (NN age) (CD 72) ))))))))))
+    (. .) ))

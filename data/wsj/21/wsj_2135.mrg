@@ -1,0 +1,64 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Selwyn) (NNP B.) (NNP Kossuth) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN executive) (NN director) )
+            (PP (IN of) 
+              (NP (DT the) (NN commission) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (ADJP-PRD (JJ effective) 
+            (NP-TMP (JJ early) (NNP November) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Kossuth) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 52) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP Ermanno) (NNP Pascutto) )
+        (, ,) 
+        (NP (CD 36) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-1) )
+            (VP (VBD resigned) 
+              (S-PRP 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB join) 
+                    (NP 
+                      (NP (NNP Hong) (NNP Kong) (POS 's) )
+                      (NNPS Securities) 
+                      (CC and)
+                      (NNPS Futures) (NNP Commission) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Kossuth) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP 
+          (NP 
+            (NP (NN vice) (NN president) )
+            (CC and) 
+            (NP (NN director) ))
+          (, ,) 
+          (NP (JJ corporate) (NN finance) )
+          (, ,) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Nesbitt) (NNP Thomson) (NNP Deacon) (NNP Inc.) )
+            (, ,) 
+            (NP (DT a) (NNP Toronto) (NN investment) (NN dealer) )))))
+    (. .) ))

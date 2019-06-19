@@ -1,0 +1,73 @@
+
+( (S 
+    (NP-SBJ (NNP MACMILLAN) (NNP BLOEDEL) (NNP Ltd.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD borrowed) 
+            (NP 
+              (NP 
+                (QP (CD 215) (CD million) )
+                (JJ Dutch) (NNS guilders) )
+              (PRN 
+                (-LRB- -LRB-)
+                (NP 
+                  (QP ($ US$) (CD 102) (CD million) )
+                  (-NONE- *U*) )
+                (-RRB- -RRB-) ))
+            (PP-CLR (IN from) 
+              (NP 
+                (NP (DT a) (NN group) )
+                (PP (IN of) 
+                  (NP (JJ Dutch) (JJ institutional) (NNS investors) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP MacMillan) (NNP Bloedel) )
+      (, ,) 
+      (NP (DT a) 
+        (NAC-LOC (NNP Vancouver) 
+          (, ,)
+          (NNP British) (NNP Columbia) 
+          (, ,)
+          )
+        (NN forest) (NNS products) (NN concern) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) 
+            (ADJP (CD 8.1) (NN %) )
+            (NN loan) )
+          (VP (VBZ is) 
+            (ADJP-PRD (JJ due) 
+              (NP-TMP (NNP Oct.) (CD 16) 
+                (, ,)
+                (CD 1996) ))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (NNS Funds) )
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN used) 
+            (NP-3 (-NONE- *-1) )
+            (S-CLR 
+              (S 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (TO to) 
+                  (VP (VB repay) 
+                    (NP (VBG existing) (JJ short-term) (NN debt) ))))
+              (CC and) 
+              (S 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (TO to) 
+                  (VP (VB finance) 
+                    (NP (NN capital) (NN spending) )))))))))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))

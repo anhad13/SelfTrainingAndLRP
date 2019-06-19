@@ -1,0 +1,61 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Paul) (NNP Ely) )
+      (, ,) 
+      (NP 
+        (NP (JJ general) (NN partner) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Alpha) (NNPS Partners) )
+            (, ,) 
+            (NP (DT a) (JJ venture-capital) (NN firm) )
+            (VP (VBN based) 
+              (NP (-NONE- *) )
+              (PP-LOC-CLR (IN in) 
+                (NP 
+                  (NP (NNP Menlo) (NNP Park) )
+                  (, ,) 
+                  (NP (NNP Calif.) )))))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (NN computer) (NN company) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Ely) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 57) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (ADVP-TMP (RB temporarily) )
+    (VP (VBZ increases) 
+      (NP (DT the) (NN board) )
+      (PP-DIR (TO to) 
+        (NP (CD seven) (NNS members) )))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ (NN director) (NNP Thomas) (NNP O'Rourke) )
+    (VP (VBZ has) 
+      (VP (VBN said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (MD wo) (RB n't) 
+              (VP (VB seek) 
+                (NP (NN re-election) )
+                (PP-LOC (IN at) 
+                  (NP 
+                    (NP (DT the) (NN company) (POS 's) )
+                    (JJ annual) (NN meeting) ))
+                (NP-TMP (IN next) (NN month) )))))))
+    (. .) ))

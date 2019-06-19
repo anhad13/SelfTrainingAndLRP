@@ -1,0 +1,196 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Lockheed) (NNP Aeronautical) (NNPS Systems) (NNP Co.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP (NNP Lockheed) (NNP Corp.) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB join) 
+                  (PP-CLR (IN with) 
+                    (NP 
+                      (NP (NNP Aermacchi) (NNP S.p) (. .) (NNP A.) )
+                      (PP-LOC (IN of) 
+                        (NP 
+                          (NP (NNP Varese) )
+                          (, ,) 
+                          (NP (NNP Italy) )
+                          (, ,) ))))
+                  (S-PRP 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB propose) 
+                        (NP 
+                          (NP (DT a) (JJ new) (NN generation) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (NN jet) (NNS trainers) )
+                              (PP (IN for) 
+                                (NP (DT the) (NNP U.S.) (NNP Air) (NNP Force) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNP Air) (NNP Force) )
+    (VP (VBZ is) 
+      (VP (VBG looking) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP 
+                (NP (CD 540) (JJ new) (JJ primary) (NN jet) (NNS trainers) )
+                (, ,) 
+                (PP (IN with) 
+                  (NP 
+                    (NP (DT a) (JJ total) (NN value) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP 
+                          (QP ($ $) (CD 1.5) (CD billion) )
+                          (-NONE- *U*) )
+                        (PP (TO to) 
+                          (NP 
+                            (QP ($ $) (CD 2) (CD billion) )
+                            (-NONE- *U*) ))))))
+                (, ,) )
+              (PP-TMP (IN between) 
+                (NP (CD 1994) 
+                  (CC and)
+                  (CD 2004) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN aircraft) )
+    (VP (MD would) 
+      (VP (VB replace) 
+        (NP 
+          (NP (DT the) (NN T-37) )
+          (, ,) 
+          (VP (VBN made) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP (DT the) (NNP Cessna) (NNP Aircraft) (NNP Co.) (NN unit) )
+                (PP (IN of) 
+                  (NP (NNP General) (NNPS Dynamics) (NNP Corp.) )))))
+          (, ,) 
+          (SBAR 
+            (WHNP-38 (WDT which) )
+            (S 
+              (NP-SBJ (DT the) (NNP Air) (NNP Force) )
+              (VP (VBZ uses) 
+                (NP-1 (-NONE- *T*-38) )
+                (S-CLR 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB train) 
+                      (NP (NN jet) (NNS pilots) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Lockheed) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNP U.S.) (NNP Navy) )
+          (VP (MD may) 
+            (ADVP (RB also) )
+            (VP (VB buy) 
+              (NP 
+                (NP (DT an) (JJ additional) (CD 340) (NN trainer) (NN aircraft) )
+                (SBAR 
+                  (WHNP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (TO to) 
+                      (VP (VB replace) 
+                        (NP 
+                          (NP (PRP$ its) (CD T34C) (NNS trainers) )
+                          (VP (VBN made) 
+                            (NP (-NONE- *) )
+                            (PP (IN by) 
+                              (NP-LGS 
+                                (NP (DT the) (NNP Beech) (NNP Aircraft) (NNP Corp.) (NN unit) )
+                                (PP (IN of) 
+                                  (NP (NNP Raytheon) (NNP Corp) ))))))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP 
+        (NP (DT the) (NN agreement) )
+        (PP (IN with) 
+          (NP (NNP Lockheed) ))))
+    (, ,) 
+    (NP-SBJ (NNP Aermacchi) )
+    (VP 
+      (VP (MD will) 
+        (VP (VB license) 
+          (S 
+            (NP-SBJ (NNP Lockheed) )
+            (VP (TO to) 
+              (VP (VB build) 
+                (NP (DT the) (NNP Aermacchi) (NNP MB-339) (NN jet) (NN tandem-trainer) ))))))
+      (CC and) 
+      (VP (MD will) 
+        (VP (VB supply) 
+          (NP (JJ certain) (NNS structures) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Lockheed) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB build) 
+          (NP (JJ additional) (NNS structures) ))
+        (CC and) 
+        (VP (VB perform) 
+          (NP 
+            (NP (JJ final) (NN assembly) )
+            (PP (IN of) 
+              (NP (DT the) (JJ tandem-seat) (NN trainer) ))))
+        (PP-LOC (IN at) 
+          (NP (PRP$ its) 
+            (NAC-LOC (NNP Marietta) 
+              (, ,)
+              (NNP Ga.) 
+              (, ,)
+              )
+            (NN plant) ))
+        (SBAR-ADV 
+          (SINV (MD should) 
+            (NP-SBJ (DT the) (NNP Air) (NNP Force) )
+            (VP (VB order) 
+              (NP (DT the) (NN craft) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NNP Lockheed) (NN spokesman) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NNP Burbank) )
+          (, ,) 
+          (NP (NNP Calif.) )
+          (, ,) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD was) (RB n't) 
+            (ADJP-PRD (JJ aware) 
+              (PP (IN of) 
+                (SBAR 
+                  (WHNP-1 (WDT which) (JJ other) (NNS companies) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (MD would) 
+                      (VP (VB be) 
+                        (VP (VBG competing) 
+                          (PP-CLR (IN for) 
+                            (NP (DT the) (NNP Air) (NNP Force) (NN contract) )))))))))))))
+    (. .) ))

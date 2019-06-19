@@ -1,0 +1,107 @@
+
+( (S 
+    (NP-SBJ (NNP Weirton) (NNP Steel) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reached) 
+            (NP 
+              (NP 
+                (NP (DT a) (JJ tentative) (NN agreement) )
+                (PP (IN on) 
+                  (NP (DT a) (JJ 48-month) (NN labor) (NN contract) ))
+                (PP (IN with) 
+                  (NP (DT the) (NNP Independent) (NNPS Steelworkers) (NNP Union) )))
+              (VP (VBG covering) 
+                (NP (NN production) 
+                  (CC and)
+                  (NN maintenance) (NNS employees) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN agreement) )
+      (, ,) 
+      (ADJP (NN subject) 
+        (PP (TO to) 
+          (NP 
+            (NP (NN approval) )
+            (PP (IN of) 
+              (NP (NN union) (NNS members) )))))
+      (, ,) )
+    (VP (MD would) 
+      (VP (VB cover) 
+        (NP 
+          (QP (IN about) (CD 6,000) )
+          (NNS workers) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ tentative) (NN agreement) )
+    (VP (VBZ provides) 
+      (PP-CLR 
+        (PP (IN for) 
+          (NP 
+            (NP 
+              (NP (NN wage) (NNS increases) )
+              (PP (IN of) 
+                (NP 
+                  (NP (CD 85) (NNS cents) )
+                  (NP-ADV (DT an) (NN hour) ))))
+            (ADJP (JJ retroactive) 
+              (PP (TO to) 
+                (NP (NNP Sept.) (CD 25) 
+                  (, ,)
+                  (CD 1989) 
+                  (, ,)
+                  )))))
+        (CC and) 
+        (PP (IN for) 
+          (NP 
+            (NP 
+              (NP (NNS increases) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (NP (CD 19) (NNS cents) )
+                    (, ,) 
+                    (NP (CD 70) (NNS cents) )
+                    (CC and) 
+                    (NP (CD 35) (NNS cents) ))
+                  (NP-ADV (DT an) (NN hour) ))))
+            (ADJP (JJ effective) 
+              (NP-TMP 
+                (NP (NNP Jan.) (CD 1) 
+                  (, ,)
+                  (CD 1991) 
+                  (, ,)
+                  (CD 1992) 
+                  (CC and)
+                  (CD 1993) )
+                (, ,) 
+                (ADJP (RB respectively) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP (RB also) )
+    (VP (VBZ provides) 
+      (PP-CLR (IN for) 
+        (NP 
+          (NP 
+            (NP (NN benefit) (NNS adjustments) )
+            (, ,) 
+            (PP (VBG including) 
+              (NP 
+                (NP (DT a) (JJ partial) (NN restoration) )
+                (PP (IN of) 
+                  (NP (NNS vacations) 
+                    (CC and)
+                    (NNS holidays) ))))
+            (, ,) )
+          (CONJP (RB as) (RB well) (IN as) )
+          (NP (NN work-rule) (NNS changes) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB increase) 
+                  (NP (NN productivity) ))))))))
+    (. .) ))

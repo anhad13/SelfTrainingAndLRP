@@ -1,0 +1,133 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNS Shareholders) )
+      (PP (IN of) 
+        (NP (NNP Messerschmitt-Boelkow-Blohm) (NNP G.m.b) (. .) (NNP H.) )))
+    (VP (VBD postponed) 
+      (NP 
+        (NP (PRP$ their) (JJ formal) (NN endorsement) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT a) (NN merger) )
+            (PP (IN with) 
+              (NP (NNP Daimler-Benz) (NNP AG) )))))
+      (PP-TMP (IN until) 
+        (NP 
+          (NP (DT another) (NN meeting) )
+          (PP-TMP (IN on) 
+            (NP (NNP Nov.) (CD 17) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (DT The) (NNS owners) )
+      (PP (IN of) 
+        (NP (DT the) (NN defense) 
+          (CC and)
+          (NN aerospace) (NN concern) ))
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBP include) 
+            (NP 
+              (NP (CD three) (JJ regional) (NNS states) )
+              (, ,) 
+              (NP (JJ several) (JJ industrial) (NNS companies) )
+              (CC and) 
+              (NP (NNS banks) )))))
+      (, ,) )
+    (VP (VBD met) 
+      (NP-TMP (NNP Friday) )
+      (S-PRP 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB discuss) 
+            (NP 
+              (NP (DT the) (JJ final) (NNS terms) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN transaction) )
+                  (, ,) 
+                  (SBAR 
+                    (WHPP-3 (IN in) 
+                      (WHNP (WDT which) ))
+                    (S 
+                      (NP-SBJ (NNP Daimler-Benz) )
+                      (VP (MD will) 
+                        (VP (VB acquire) 
+                          (NP 
+                            (NP (CD 50.01) (NN %) )
+                            (FRAG 
+                              (PP (IN of) )))
+                          (PP-LOC (-NONE- *T*-3) ))))))))))))))
+( (S (CC But) 
+    (NP-SBJ-1 (NN agreement) )
+    (ADVP (RB aparently) )
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-1) )
+          (PP-PRP (RB because) (IN of) 
+            (NP 
+              (NP (NN opposition) )
+              (PP (IN from) 
+                (NP 
+                  (NP (DT the) (NNS states) )
+                  (PP (IN of) 
+                    (NP (NNP Hamburg) 
+                      (CC and)
+                      (NNP Bremen) ))
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-2 (WDT which) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-2) )
+                      (VP (VBP are) 
+                        (VP (VBG demanding) 
+                          (NP 
+                            (NP 
+                              (NP (JJR more) (NN influence) )
+                              (PP (IN over) 
+                                (NP (DT the) (NNP German) (NNP Airbus) (NNS operations) )))
+                            (CC and) 
+                            (NP 
+                              (NP (DT a) (JJR better) (NN guarantee) )
+                              (PP (IN against) 
+                                (NP 
+                                  (NP (NN job) (NNS losses) )
+                                  (PP-LOC (IN in) 
+                                    (NP (DT the) (JJ troubled) (JJ Northern) (JJ German) (NN region) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (CD two) (NNS states) )
+      (CC and) 
+      (NP 
+        (NP (DT the) (NN state) )
+        (PP (IN of) 
+          (NP (NNP Bavaria) ))))
+    (ADVP-TMP (RB still) )
+    (VP (VBP hold) 
+      (NP (DT a) (NN majority) )
+      (PP-LOC (IN in) 
+        (NP (NNP MBB) )))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP$ their) (NN stake) )
+      (VP (MD will) 
+        (VP (VB fall) 
+          (PP-DIR (TO to) 
+            (NP 
+              (QP (RB around) (CD 30) )
+              (NN %) ))
+          (SBAR-TMP (IN after) 
+            (S 
+              (NP-SBJ (NNP Daimler-Benz) )
+              (VP (VBZ acquires) 
+                (NP 
+                  (NP (PRP$ its) (NN stake) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NN concern) )))))))))
+    (. .) ))

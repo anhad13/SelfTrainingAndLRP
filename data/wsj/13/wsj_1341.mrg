@@ -1,0 +1,102 @@
+
+( (NP-HLN 
+    (NP (NNP BRISTOL-MYERS) (NNP SQUIBB) (NNP Co) (. .) )
+    (PRN 
+      (-LRB- -LRB-)
+      (NP-LOC (NNP New) (NNP York) )
+      (-RRB- -RRB-) )
+    (: --) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Gerald) (NNP C.) (NNP Beddall) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 47) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN president) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NNP Clairol) (NN division) )
+                (PP (IN of) 
+                  (NP (DT this) 
+                    (UCP (NNS pharmaceuticals) 
+                      (CC and)
+                      (NN health-care) )
+                    (NN company) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP C.) (NNP Benjamin) (NNP Brooks) (NNP Jr.) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (MD will) 
+              (VP (VB retire) 
+                (NP-TMP (NNP Nov.) (CD 1) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (NNP Mr.) (NNP Brooks) )
+      (VP (VBD declined) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB give) 
+              (NP (PRP$ his) (NN age) ))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP$ his) (NN leaving) )
+            (VP (VBZ is) 
+              (NP-PRD (DT a) (JJ normal) (NN retirement) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Beddall) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (JJ executive) (NN vice) (NN president) )
+          (PP (IN of) 
+            (NP (DT the) (NN division) )))
+        (PP-TMP (IN since) 
+          (NP (NNP April) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Clairol) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ makes) 
+            (NP (NN hair) 
+              (CC and)
+              (NN skin) (NNS products) ))))
+      (, ,) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT a) (NN division) )
+        (PP (IN of) 
+          (NP (NNP Bristol-Myers) (NNP Co.) )))
+      (PP-TMP (IN before) 
+        (NP 
+          (NP 
+            (NP (DT that) (NN company) (POS 's) )
+            (NN merger) )
+          (PP (IN with) 
+            (NP (NNP Squibb) (NNP Corp) )))))
+    (. .) ))

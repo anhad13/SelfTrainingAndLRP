@@ -1,0 +1,77 @@
+
+( (S 
+    (NP-SBJ (NNP Trinity) (NNPS Industries) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reached) 
+            (NP (DT a) (JJ preliminary) (NN agreement) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB manufacture) 
+                    (NP (CD 1,000) (NN coal) (NN rail) (NNS cars) )
+                    (PP (IN for) 
+                      (NP (NNP Norfolk) (NNP Southern) (NNP Corp) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Trinity) )
+    (VP (VBD estimated) 
+      (NP 
+        (NP (DT the) (NN value) )
+        (PP (IN of) 
+          (NP (DT the) (NN pact) )))
+      (PP-CLR (IN at) 
+        (NP 
+          (QP (RBR more) (IN than) ($ $) (CD 40) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Trinity) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB begin) 
+                  (NP 
+                    (NP (NN delivery) )
+                    (PP (IN of) 
+                      (NP (DT the) (NN rail) (NNS cars) )))
+                  (PP-TMP (IN in) 
+                    (NP 
+                      (NP (DT the) (JJ first) (NN quarter) )
+                      (PP (IN of) 
+                        (NP (CD 1990) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (CD 1,000) (NN rail) (NNS cars) )
+          (VP (VBP are) 
+            (PP-PRD (IN in) 
+              (NP 
+                (NP (NN addition) )
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT the) (CD 1,450) (NN coal) (NN rail) (NNS cars) )
+                    (VP 
+                      (ADVP-TMP (RB presently) )
+                      (VBG being) 
+                      (VP (VBN produced) 
+                        (PP-CLR (IN for) 
+                          (NP 
+                            (NP (NNP Norfolk) (NNP Southern) )
+                            (, ,) 
+                            (NP (DT a) 
+                              (ADJP (NNP Norfolk) 
+                                (, ,)
+                                (JJ Va.-based) )
+                              (NN railroad) (NN concern) )))))))))))))
+    (. .) ))

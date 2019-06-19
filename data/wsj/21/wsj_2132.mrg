@@ -1,0 +1,64 @@
+
+( (S 
+    (NP-SBJ (NNP Dow) (NNP Jones) (CC &) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD acquired) 
+            (NP 
+              (NP (DT a) 
+                (ADJP (CD 15) (NN %) )
+                (NN interest) )
+              (PP (IN in) 
+                (NP 
+                  (NP (NNP DataTimes) (NNP Corp.) )
+                  (, ,) 
+                  (NP 
+                    (NP (DT a) (NN subsidiary) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP Oklahoma) (NNP Publishing) (NNP Co.) )
+                        (, ,) 
+                        (NP-LOC (NNP Oklahoma) (NNP City) )
+                        (, ,) ))
+                    (SBAR 
+                      (WHNP-1 (WDT that) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (VBZ provides) 
+                          (NP (JJ electronic) (NN research) (NNS services) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Customers) )
+      (PP (IN of) 
+        (NP (DT either) 
+          (NP (NNP DataTimes) )
+          (CC or) 
+          (NP (NNP Dow) (NNP Jones) (NNP News\/Retrieval) ))))
+    (VP (VBP are) 
+      (ADJP-PRD (JJ able) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB access) 
+              (NP 
+                (NP (DT the) (NN information) )
+                (PP-LOC (IN on) 
+                  (NP (DT both) (NNS services) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Dow) (NNP Jones) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN publisher) )
+        (PP (IN of) 
+          (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal) ))))
+    (. .) ))

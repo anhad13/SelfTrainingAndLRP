@@ -1,0 +1,74 @@
+
+( (S 
+    (NP-SBJ (NNP CONTROL) (NNP DATA) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-3 (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG offering) 
+              (S 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (TO to) 
+                  (VP (VB purchase) 
+                    (NP 
+                      (NP (DT the) 
+                        (ADJP 
+                          (QP ($ $) (CD 154.2) (CD million) )
+                          (-NONE- *U*) )
+                        (NN amount) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (PRP$ its) 
+                            (ADJP 
+                              (QP (CD 12) (CD 3\/4) )
+                              (NN %) )
+                            (JJ senior) (NNS notes) )
+                          (ADJP (JJ due) 
+                            (NP-TMP (NNP June) (CD 15) 
+                              (, ,)
+                              (CD 1991) ))))
+                      (PP (-NONE- *ICH*-2) ))
+                    (, ,) 
+                    (PP-MNR (IN at) 
+                      (NP (NN par) ))
+                    (, ,) 
+                    (PP-2 (CC plus) 
+                      (NP 
+                        (NP 
+                          (ADJP (VBN accrued) 
+                            (PP (-NONE- *ICH*-1) ))
+                          (NN interest) )
+                        (PP-1 (TO to) 
+                          (NP (DT the) (NNP Dec.) (CD 8) (NN purchase) (NN date) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Minneapolis) (NN computer) (NNS systems) 
+      (CC and)
+      (NNS services) (NN concern) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN offer) )
+          (VP (VBZ is) 
+            (VP (VBN required) 
+              (NP (-NONE- *-1) )
+              (PP-LOC (IN under) 
+                (NP (DT the) (JJ senior) (NN note) (NN indenture) ))
+              (PP-PRP (IN as) 
+                (NP 
+                  (NP (DT a) (NN result) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (NP (NNP Control) (NNP Data) (POS 's) )
+                        (JJ recent) (NN sale) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (PRP$ its) (NN disk) (NN drive) (NN subsidiary) )
+                          (, ,) 
+                          (NP (NNP Imprimis) )
+                          (, ,) ))
+                      (PP (TO to) 
+                        (NP (NNP Seagate) (NNP Technology) (NNP Inc) )))))))))))
+    (. .) ))

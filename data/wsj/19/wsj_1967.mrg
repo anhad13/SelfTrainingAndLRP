@@ -1,0 +1,113 @@
+
+( (S 
+    (NP-SBJ (NNP Northgate) (NNP Exploration) (NNP Ltd.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG proposing) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB amalgamate) 
+                    (NP 
+                      (NP (CD four) )
+                      (PP (IN of) 
+                        (NP (PRP$ its) (JJ associated) (NNS companies) )))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP 
+        (NP (DT a) (VBN proposed) (JJ two-step) (NN amalgamation) )
+        (VP (VBG involving) 
+          (NP (NN share) (NNS swaps) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP ABM) (NNP Gold) (NNP Corp.) )
+      (, ,) 
+      (NP (DT a) (JJ gold) (NN exploration) 
+        (CC and)
+        (NN management) (NN company) )
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB merge) 
+        (PP-CLR (IN with) 
+          (NP 
+            (NP (NNP Neptune) (NNP Resources) (NNP Corp.) )
+            (, ,) 
+            (NP (NNP United) (NNP Gold) (NNP Corp.) )
+            (CC and) 
+            (NP (NNP Inca) (NNP Resources) (NNP Inc) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP ABM) )
+    (VP (MD will) 
+      (ADVP (RB also) )
+      (VP (VB increase) 
+        (NP 
+          (NP (PRP$ its) (NN stake) )
+          (PP-LOC (IN in) 
+            (NP (NNP Sonora) (NNP Gold) (NNP Corp.) )))
+        (PP-DIR (TO to) 
+          (NP (CD 42) (NN %) ))
+        (PP-DIR (IN from) 
+          (NP (CD 26) (NN %) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Northgate) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB own) 
+              (NP 
+                (NP 
+                  (NP 
+                    (QP (RB about) (CD 50) )
+                    (NN %) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (NN equity) )
+                      (PP (-NONE- *RNR*-1) ))))
+                (CC and) 
+                (NP 
+                  (NP (CD 81) (NN %) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (NNS votes) )
+                      (PP (-NONE- *RNR*-1) ))))
+                (PP-1 (IN of) 
+                  (NP (NNP ABM) )))
+              (PP-TMP (IN after) 
+                (NP (DT the) (NN amalgamation) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS amalgamations) )
+    (VP 
+      (VP (VBP are) 
+        (ADJP-PRD (JJ subject) 
+          (PP (TO to) 
+            (NP (JJ regulatory) (NN approval) ))))
+      (CC and) 
+      (VP (VBP require) 
+        (NP 
+          (NP (NN approval) )
+          (PP (IN by) 
+            (NP 
+              (NP (NNS shareholders) )
+              (PP (IN of) 
+                (NP (NNP ABM) 
+                  (, ,)
+                  (NNP Inca) 
+                  (, ,)
+                  (NNP United) 
+                  (CC and)
+                  (NNP Neptune) ))))
+          (PP-LOC (IN at) 
+            (NP 
+              (NP (JJ special) (NNS meetings) )
+              (PP-TMP (IN on) 
+                (NP (NNP Nov.) (CD 10) )))))))
+    (. .) ))

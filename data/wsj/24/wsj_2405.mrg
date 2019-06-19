@@ -1,0 +1,83 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Antonio) (NNP L.) (NNP Savoca) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 66) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN president) )
+              (CC and) 
+              (NP (NN chief) (JJ executive) (NN officer) ))
+            (PP (IN of) 
+              (NP (DT the) (NNP Atlantic) (NNP Research) (NNP Corp.) (NN subsidiary) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Savoca) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (DT a) (NN consultant) )
+          (PP (TO to) 
+            (NP 
+              (NP (DT the) (NN subsidiary) (POS 's) )
+              (NN rocket-propulsion) (NNS operations) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Savoca) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP William) (NNP H.) (NNP Borten) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-1) )
+            (VP (VBD resigned) 
+              (S-PRP 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB pursue) 
+                    (NP (JJ personal) (NNS interests) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Sequa) )
+    (VP (VBZ makes) 
+      (CC and)
+      (VBZ repairs) 
+      (NP (NN jet) (NNS engines) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP (RB also) )
+    (VP (VBZ has) 
+      (NP 
+        (NP (NNS interests) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (JJ military) (NNS electronics) )
+            (CC and) 
+            (NP 
+              (NP (NNS electro-optics) ))
+            (, ,) 
+            (NP (JJ marine) (NN transportation) )
+            (CC and) 
+            (NP 
+              (NP (NN machinery) )
+              (VP (VBN used) 
+                (NP (-NONE- *) )
+                (S-CLR 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB make) 
+                      (NP (NN food) 
+                        (CC and)
+                        (NN beverage) (NNS cans) ))))))))))
+    (. .) ))

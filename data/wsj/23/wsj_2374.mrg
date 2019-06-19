@@ -1,0 +1,23 @@
+
+( (S 
+    (NP-SBJ (NNP BULL) (NNP HN) (NNP INFORMATION) (NNP SYSTEMS) (NNP Inc.) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NNP U.S.) (JJ majority-owned) (NN unit) )
+        (PP (IN of) 
+          (NP (NNP Cie.) (NNP des) (NNP Machines) (NNP Bull) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (NNP Friday) (POS 's) )
+        (NN edition) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (DT the) (NN name) )
+      (PP (IN of) 
+        (NP (DT the) (NN unit) )))
+    (VP (VBD was) 
+      (VP (VBN misstated) 
+        (NP (-NONE- *-1) )))
+    (. .) ))

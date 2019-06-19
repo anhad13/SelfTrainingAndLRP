@@ -1,0 +1,118 @@
+
+( (S 
+    (NP-SBJ (NNP Clarcor) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT a) (NN plan) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB sell) 
+                  (NP (PRP$ its) (NNP J.L.) (NNP Clark) (NNP Inc.) (NN subsidiary) )
+                  (PP-DTV (TO to) 
+                    (NP 
+                      (NP (DT a) (NN group) )
+                      (VP (VBN headed) 
+                        (NP (-NONE- *) )
+                        (PP (IN by) 
+                          (NP-LGS (NNP Anderson) (NNPS Industries) (NNP Inc.) )))))
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (QP ($ $) (CD 70.3) (CD million) )
+                      (-NONE- *U*) ))))))
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (VP (VBN terminated) 
+                (NP (-NONE- *-1) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Clarcor) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN maker) )
+        (PP (IN of) 
+          (NP (NN packaging) 
+            (CC and)
+            (NN filtration) (NNS products) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (CD two) (NNS companies) )
+          (VP (MD could) (RB n't) 
+            (VP (VB agree) 
+              (PP-CLR (IN on) 
+                (NP 
+                  (NP (NNS terms) )
+                  (PP (IN of) 
+                    (NP (DT a) (JJ definitive) (NN agreement) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN sale) (NN price) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NN unit) )
+          (, ,) 
+          (SBAR 
+            (WHNP-162 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-162) )
+              (VP (VBZ makes) 
+                (NP (NN packaging) (NNS products) ))))
+          (, ,) )))
+    (VP (VBD was) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB consist) 
+            (PP-CLR (IN of) 
+              (NP 
+                (NP (NN cash) )
+                (, ,) 
+                (NP (NNS notes) )
+                (CC and) 
+                (NP 
+                  (NP (DT an) (NN amount) )
+                  (SBAR 
+                    (WHNP-2 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ-3 (-NONE- *T*-2) )
+                      (VP (TO to) 
+                        (VP (VB be) 
+                          (VP (VBN determined) 
+                            (NP (-NONE- *-3) )
+                            (PP (IN by) 
+                              (NP-LGS 
+                                (NP (DT the) (NN unit) (POS 's) )
+                                (JJ future) (NN performance) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Clarcor) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG inviting) 
+              (NP 
+                (NP (NNS proposals) )
+                (PP (IN from) 
+                  (NP 
+                    (NP (JJ other) (JJ prospective) (NNS purchasers) )
+                    (PP (IN of) 
+                      (NP (DT the) (NN unit) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) (NNP Clarcor) 
+      (CC and)
+      (NNP Anderson) )
+    (VP (VBP are) 
+      (VP (VBN based) 
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Rockford) )
+            (, ,) 
+            (NP (NNP Ill) (. .) )))))))

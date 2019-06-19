@@ -1,0 +1,87 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (JJ Raw-steel) (NN production) )
+        (PP (IN by) 
+          (NP 
+            (NP (DT the) (NN nation) (POS 's) )
+            (NNS mills) )))
+      (VP (VBD decreased) 
+        (NP-EXT (CD 0.8) (NN %) )
+        (NP-TMP (JJ last) (NN week) )
+        (PP-DIR (TO to) 
+          (NP (CD 1,828,000) (NNS tons) ))
+        (PP-DIR (IN from) 
+          (NP (CD 1,843,000) (NNS tons) )
+          (NP-TMP (DT the) (JJ previous) (NN week) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP American) (NNP Iron) 
+      (CC and)
+      (NNP Steel) (NNP Institute) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Last) (NN week) (POS 's) )
+      (NN output) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 1.4) (NN %) )
+      (PP-DIR (IN from) 
+        (NP 
+          (NP (DT the) (CD 1,802,000) (NNS tons) )
+          (VP (VBD produced) 
+            (NP (-NONE- *) )
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RB earlier) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN industry) )
+    (VP (VBN used) 
+      (NP 
+        (NP (CD 82.2) (NN %) )
+        (PP (IN of) 
+          (NP (PRP$ its) (NN capability) )))
+      (NP-TMP (JJ last) (NN week) )
+      (, ,) 
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP 
+              (NP (CD 82.8) (NN %) )
+              (NP-TMP (DT the) (JJ previous) (NN week) ))
+            (CC and) 
+            (NP 
+              (NP (CD 84) (NN %) )
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (RB ago) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN capability) (NN utilization) (NN rate) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN calculation) )
+        (VP (VBN designed) 
+          (NP-1 (-NONE- *) )
+          (S-PRP-CLR 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB indicate) 
+                (SBAR 
+                  (WHPP-2 (IN at) 
+                    (WHNP 
+                      (WHNP (WP what) (NN percent) )
+                      (PP (IN of) 
+                        (NP (PRP$ its) (NN production) (NN capability) ))))
+                  (S 
+                    (NP-SBJ (DT the) (NN industry) )
+                    (VP (VBZ is) 
+                      (VP (VBG operating) 
+                        (PP-CLR (-NONE- *T*-2) )
+                        (PP-TMP (IN in) 
+                          (NP (DT a) (VBN given) (NN week) ))))))))))))
+    (. .) ))

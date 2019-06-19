@@ -1,0 +1,144 @@
+
+( (S 
+    (NP-SBJ (NNP NEC) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (ADVP (RBR more) (IN than) )
+                (VP (VB double) 
+                  (NP 
+                    (NP 
+                      (NP (PRP$ its) (NNP British) (NN subsidiary) (POS 's) )
+                      (NN capacity) )
+                    (PP (IN for) 
+                      (NP 
+                        (NP (DT the) (NN production) )
+                        (PP (IN of) 
+                          (NP (NN semiconductor) (NNS wafers) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Officials) )
+      (PP-LOC (IN at) 
+        (NP (DT the) (JJ Japanese) (NN semiconductor) (NN maker) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN company) )
+          (VP (VBZ intends) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB increase) 
+                  (NP 
+                    (NP (NN investment) )
+                    (PP-LOC (IN in) 
+                      (NP (NN plant) 
+                        (CC and)
+                        (NN equipment) )))
+                  (PP-EXT (IN by) 
+                    (NP 
+                      (NP 
+                        (QP (CD 10) (CD billion) )
+                        (NNS yen) )
+                      (PRN 
+                        (-LRB- -LRB-)
+                        (NP ($ $) 
+                          (QP (CD 70.6) (CD million) )
+                          (-NONE- *U*) )
+                        (-RRB- -RRB-) )))
+                  (, ,) 
+                  (PP-DIR (TO to) 
+                    (NP 
+                      (QP (CD 90) (CD billion) )
+                      (NNS yen) ))
+                  (, ,) 
+                  (PP-TMP (IN in) 
+                    (NP 
+                      (NP (DT the) (NN year) )
+                      (VP (VBG ending) 
+                        (NP-TMP (NNP March) (CD 31) ))))
+                  (, ,) 
+                  (PP (IN with) 
+                    (NP 
+                      (NP (DT the) (JJ extra) (NNS funds) )
+                      (VP (VBN used) 
+                        (S-CLR 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (TO to) 
+                            (VP (VB increase) 
+                              (NP (NN production) )
+                              (ADVP-LOC (RB overseas) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Officials) )
+    (VP 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBD were) (RB n't) 
+              (ADJP-PRD (JJ sure) 
+                (SBAR 
+                  (WHADVP-2 (WRB how) )
+                  (S 
+                    (NP-SBJ-1 (DT the) (NN money) )
+                    (VP (MD will) 
+                      (VP (VB be) 
+                        (VP (VBN distributed) 
+                          (NP (-NONE- *-1) )
+                          (PP-LOC-CLR (IN among) 
+                            (NP (JJ overseas) (NNS units) ))
+                          (ADVP-MNR (-NONE- *T*-2) ))))))))))
+        (, ,) )
+      (CC but) 
+      (VP (VBD added) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (NNP NEC) (NNP Semiconductors) (NNP U.K.) (NNP Ltd.) )
+            (VP (MD will) 
+              (VP (VB receive) 
+                (NP (NN priority) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Officials) )
+    (ADVP (RB also) )
+    (VP (VBD disclosed) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP it) )
+            (SBAR (-NONE- *EXP*-1) ))
+          (VP (VBZ 's) 
+            (ADJP-PRD (JJ possible) )
+            (SBAR-1 (IN that) 
+              (S 
+                (NP-SBJ (NNP NEC) )
+                (VP (MD may) 
+                  (VP (VB reduce) 
+                    (NP 
+                      (NP (JJ domestic) (NN production) )
+                      (PP (IN of) 
+                        (NP (JJ one-megabit) (NNS chips) )))
+                    (PP-DIR (TO to) 
+                      (NP 
+                        (NP 
+                          (QP (CD five) (CD million) ))
+                        (NP-ADV (DT a) (NN month) )))
+                    (PP-DIR (IN from) 
+                      (NP 
+                        (QP (CD six) (CD million) )))
+                    (, ,) 
+                    (S-ADV 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG beginning) 
+                        (NP-TMP (NNP January) )))
+                    (, ,) 
+                    (PP-PRP (IN because) (IN of) 
+                      (NP (VBG deteriorating) (NN market) (NNS prices) ))))))))))
+    (. .) ))

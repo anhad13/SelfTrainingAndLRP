@@ -1,0 +1,53 @@
+
+( (S 
+    (NP-SBJ (NNP Birmingham) (NNP Steel) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (PRP$ its) (NNP Emeryville) 
+            (, ,)
+            (NNP Calif.) 
+            (, ,)
+            (NN minimill) )
+          (VP (VBD sustained) 
+            (NP 
+              (NP (RB only) (JJ minor) (NN damage) )
+              (PP (IN from) 
+                (NP 
+                  (NP (JJ last) (NN week) (POS 's) )
+                  (NN earthquake) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NN Steelmaking) )
+      (VP (VBD resumed) 
+        (NP-TMP (NNP Oct.) (CD 18) )))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (DT the) (NN company) )
+      (VP (VBZ expects) 
+        (S 
+          (NP-SBJ-1 (NN production) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (VP (VBN hampered) 
+                (NP (-NONE- *-1) )
+                (PP-TMP (IN in) 
+                  (NP (DT the) (JJ next) (JJ few) (NNS months) ))
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP 
+                      (NP (NN traffic) (NNS disruptions) )
+                      (PP (IN around) 
+                        (NP (DT the) (NN plant) )))
+                    (CC and) 
+                    (NP 
+                      (NP (NNS outages) )
+                      (PP (IN for) 
+                        (NP 
+                          (NP (NN repair) )
+                          (PP (TO to) 
+                            (NP (NN gas) 
+                              (CC and)
+                              (JJ electric) (NN power) (NNS systems) )))))))))))))
+    (. .) ))

@@ -1,0 +1,824 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP National) (NNP Aeronautics) 
+      (CC and)
+      (NNP Space) (NNP Administration) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT a) (NN computer) (NN virus) )
+          (VP 
+            (VP (VBZ has) 
+              (VP (VBN infected) 
+                (NP 
+                  (NP (CD one) )
+                  (PP (IN of) 
+                    (NP (PRP$ its) (NNS networks) )))))
+            (CC and) 
+            (VP (VBZ is) 
+              (VP (VBG spreading) 
+                (NP 
+                  (NP (JJ anti-nuclear) (NNS messages) )
+                  (VP (VBN related) 
+                    (NP (-NONE- *) )
+                    (PP-CLR (TO to) 
+                      (NP 
+                        (NP (PRP$ its) (NNP Galileo) (NN space) (NN probe) )
+                        (, ,) 
+                        (SBAR 
+                          (WHNP-2 (WDT which) )
+                          (S 
+                            (NP-SBJ-3 (-NONE- *T*-2) )
+                            (VP (VBZ is) 
+                              (S 
+                                (NP-SBJ-1 (-NONE- *-3) )
+                                (VP (TO to) 
+                                  (VP (VB be) 
+                                    (VP (VBN launched) 
+                                      (NP (-NONE- *-1) )
+                                      (NP-TMP (NN today) ))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Charles) (NNP Redmond) )
+      (, ,) 
+      (NP (DT a) (NNP NASA) (NN spokesman) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN agency) )
+          (VP 
+            (VP (VBD discovered) 
+              (NP (DT the) (NN virus) )
+              (PP-TMP (IN on) 
+                (NP (NNP Monday) ))
+              (PP-LOC-CLR (IN on) 
+                (NP 
+                  (NP (DT the) (NN collection) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NN computer) (NNS networks) )
+                      (VP 
+                        (ADVP-MNR (RB collectively) )
+                        (VBN called) 
+                        (S 
+                          (NP-SBJ (-NONE- *) )
+                          (NP-PRD (NN Internet) ))))))))
+            (CC and) 
+            (VP (VBD expected) 
+              (S 
+                (NP-SBJ-1 (CD 100) (NN university) (NNS centers) )
+                (VP (TO to) 
+                  (VP (VB be) 
+                    (VP (VBN infected) 
+                      (NP (-NONE- *-1) )
+                      (PP-TMP (IN by) 
+                        (NP (NN today) )))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN Although) 
+      (S 
+        (NP-SBJ (DT the) (NN network) )
+        (VP (VBZ is) (RB n't) 
+          (VP (VBN connected) 
+            (PP-CLR (TO to) 
+              (NP 
+                (NP (DT the) (NN computer) (NNS systems) )
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBP operate) 
+                      (NP (DT either) 
+                        (NP 
+                          (NP (NNP Galileo) )
+                          (CC or) 
+                          (NP (DT the) (NN shuttle) ))))))))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NN part) )
+      (PP (IN of) 
+        (NP (DT the) (NN network) )))
+    (VP (MD will) 
+      (VP (VB carry) 
+        (NP 
+          (NP (NNS analyses) )
+          (PP (IN of) 
+            (NP (NNP Galileo) (NNS data) )))
+        (SBAR-TMP (IN once) 
+          (S 
+            (NP-SBJ (DT the) (NN craft) )
+            (VP (VBZ gets) 
+              (ADJP-PRD (JJ spaceborn) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Redmond) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (S 
+            (NP-SBJ (DT the) (NN intruder) )
+            (VP (VBD had) (RB n't) 
+              (ADVP-TMP (RB yet) )
+              (VP (VBN done) 
+                (NP (DT any) (NN harm) ))))
+          (CC but) 
+          (S 
+            (NP-SBJ (DT the) (NN agency) )
+            (VP (VBD feared) 
+              (SBAR (-NONE- 0) (`` ``) 
+                (S 
+                  (NP-SBJ-1 (NN garbage) (NNS data) )
+                  (VP (MD could) 
+                    (VP (VB be) 
+                      (VP (VBN substituted) 
+                        (NP (-NONE- *-1) )
+                        (PP-CLR (IN for) 
+                          (NP (JJ real) (NNS data) ))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD estimated) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP it) )
+            (SBAR (-NONE- *EXP*-1) ))
+          (VP (MD could) 
+            (VP (VB take) 
+              (NP-TMP-CLR (DT a) (NN day) )
+              (SBAR-1 (IN for) 
+                (S 
+                  (NP-SBJ (DT a) (NN computer) (NN security) (NN manager) )
+                  (VP (TO to) 
+                    (VP (VB expunge) 
+                      (NP (DT the) (NN virus) )
+                      (PP-CLR (IN from) 
+                        (NP (DT a) (NN computer) (NN system) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-3 
+      (NP (DT The) (NN intruder) )
+      (, ,) 
+      (PP-LOC (IN among) 
+        (NP 
+          (NP (DT the) (JJS broadest) (RB yet) )
+          (SBAR 
+            (WHNP-2 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *T*-2) )
+              (VP (TO to) 
+                (VP (VB hit) 
+                  (NP (DT a) (NN research) (NN network) )))))))
+      (, ,) )
+    (VP (VBD appeared) 
+      (S 
+        (NP-SBJ (-NONE- *-3) )
+        (VP (TO to) 
+          (VP (VB affect) 
+            (NP 
+              (NP (JJ only) (NNP Digital) (NNP Equipment) (NNP Corp.) (NN hardware) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBZ uses) 
+                    (NP 
+                      (NP (NNP Digital) (POS 's) )
+                      (NNP VAX\/VMS) (VBG operating) (NN system) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ unrelated) 
+        (PP (TO to) 
+          (NP 
+            (NP (DT the) (JJ much-publicized) (NN virus) )
+            (SBAR 
+              (WHNP-1 (IN that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (NP-TMP (JJ last) (NN year) )
+                (VP (VBD infected) 
+                  (NP 
+                    (NP (NNP Arpanet) )
+                    (, ,) 
+                    (NP 
+                      (NP (DT a) 
+                        (ADJP (RB much) (JJR larger) )
+                        (NN network) )
+                      (VP (VBN used) 
+                        (NP (-NONE- *) )
+                        (PP (IN by) 
+                          (NP-LGS 
+                            (NP (NNS researchers) )
+                            (PP-LOC (IN at) 
+                              (NP 
+                                (NP 
+                                  (NP (NNS universities) )
+                                  (, ,) 
+                                  (NP (NNS laboratories) )
+                                  (CC and) 
+                                  (NP (NN government) (NNS agencies) ))
+                                (PP-LOC (IN around) 
+                                  (NP (DT the) (NN world) ))))))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (PP (IN In) 
+        (NP 
+          (NP (DT the) (NN lingo) )
+          (PP (IN of) 
+            (NP (NN computer) (NN security) ))))
+      (, ,) 
+      (NP-SBJ (DT the) (NNP NASA) (NN intruder) )
+      (VP (VBZ is) 
+        (ADVP (RB technically) )
+        (NP-PRD (DT a) (NN computer) (NN worm) )))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Redmond) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NN worm) )
+    (VP 
+      (VP (VBZ resides) 
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (DT the) (VBG operating) (NN system) )
+            (PP (IN of) 
+              (NP (DT a) (NN computer) )))))
+      (CC and) 
+      (VP (VBZ spreads) 
+        (PP-MNR (IN by) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG boring) 
+              (PP (IN into) 
+                (NP 
+                  (NP (JJ other) (NNS computers) )
+                  (VP (VBN contacted) 
+                    (NP (-NONE- *) )
+                    (PP-MNR (IN through) 
+                      (NP (NNS networks) ))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (NNP Galileo) (NN worm) )
+      (ADVP (RB apparently) )
+      (VP (VBD was) 
+        (VP (VBN hatched) 
+          (NP (-NONE- *-1) )
+          (PP-LOC (IN on) 
+            (NP 
+              (NP 
+                (NP (DT a) (NN computer) )
+                (PP-LOC (IN in) 
+                  (NP (NNP France) )))
+              (VP (VBD hooked) 
+                (PRT (RP up) )
+                (PP (TO to) 
+                  (NP 
+                    (NP (NNP NASA) (POS 's) )
+                    (NNP Space) (NNP Physics) (NNP Analysis) (NNP Network) ))))))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Redmond) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP NASA) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNP Galileo) (NN worm) )
+          (VP (VBD had) (RB n't) 
+            (VP (VBN affected) 
+              (NP 
+                (NP (PRP$ its) (NNS computers) )
+                (CC or) 
+                (NP 
+                  (NP (DT the) (NNS computers) )
+                  (PP (IN of) 
+                    (NP (JJ other) (NN government) (NNS agencies) ))))
+              (SBAR-PRP (IN because) 
+                (S 
+                  (NP-SBJ (PRP they) )
+                  (VP (VBD had) 
+                    (VP (VBN modified) 
+                      (NP-1 (PRP$ their) (NNS systems) )
+                      (S-CLR 
+                        (NP-SBJ (-NONE- *-1) )
+                        (VP (TO to) 
+                          (VP (VB reject) 
+                            (NP (NNS worms) )))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (NNP Mr.) (NNP Redmond) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN worm) )
+          (VP (VBD hit) 
+            (NP 
+              (NP (NNS universities) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ-2 (-NONE- *T*-1) )
+                  (VP (VBD had) (RB n't) 
+                    (VP (VBN elected) 
+                      (S 
+                        (NP-SBJ (-NONE- *-2) )
+                        (VP (TO to) 
+                          (VP (VB make) 
+                            (NP (DT the) (NNS changes) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Michael) (NNP Alexander) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ senior) (NN editor) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (NNP Computerworld) )
+            (, ,) 
+            (NP (DT a) (NN trade) (NN publication) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP he) )
+          (VP (VBD was) 
+            (VP (VBN told) 
+              (NP (-NONE- *-1) )
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ (DT the) (NN worm) )
+                  (VP (VBZ gets) 
+                    (PP-CLR (IN into) 
+                      (NP (DT a) (NN computer) (NN center) ))
+                    (PP-MNR (IN by) 
+                      (S-NOM 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (VBG looking) 
+                          (PP-CLR (IN for) 
+                            (NP 
+                              (NP (JJ obvious) (NNS passwords) )
+                              (: --) 
+                              (PP (JJ such) (IN as) 
+                                (NP 
+                                  (NP (NNS ones) )
+                                  (SBAR 
+                                    (WHNP-2 (WDT that) )
+                                    (S 
+                                      (NP-SBJ (-NONE- *T*-2) )
+                                      (VP (VBP are) 
+                                        (NP-PRD (DT the) 
+                                          (ADJP (JJ same) 
+                                            (PP (IN as) 
+                                              (NP 
+                                                (NP (DT the) (NN user) (POS 's) )
+                                                (NN name) ))))))))))))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP 
+          (VP (VBZ finds) 
+            (NP (CD one) ))
+          (CC and) 
+          (VP (VBZ gets) 
+            (PP-CLR (IN into) 
+              (NP (DT the) (NN system) ))))))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (MD will) 
+      (VP (VB display) 
+        (NP 
+          (NP (DT a) (NN screen) )
+          (SBAR (-NONE- *ICH*-1) ))
+        (SBAR-TMP 
+          (WHADVP-3 (WRB when) )
+          (S 
+            (NP-SBJ (DT a) (NN user) )
+            (VP (VBZ logs) 
+              (PRT (RP on) )
+              (ADVP-TMP (-NONE- *T*-3) ))))
+        (SBAR-1 
+          (WHNP-2 (DT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-2) )
+            (VP (VBZ says) 
+              (, ,)
+              (`` ``) 
+              (NP 
+                (NP (NNPS Worms) )
+                (PP (NNP Against) 
+                  (NP (NNP Nuclear) (NNPS Killers) ))))))))
+    (: ...) (. .) ))
+( (S 
+    (NP-SBJ (PRP You) )
+    (VP 
+      (VP (VBP talk) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNS times) )
+            (PP (IN of) 
+              (NP 
+                (NP (NN peace) )
+                (PP (IN for) 
+                  (NP (DT all) )))))))
+      (, ,) 
+      (CC and)
+      (ADVP (RB then) )
+      (VP (VBP prepare) 
+        (PP-CLR (IN for) 
+          (NP (NN war) ))))
+    (. .) ('' '') ))
+( (S-1 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (PRN 
+      (, ,)
+      (NP-SBJ (NNP Mr.) (NNP Alexander) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S (-NONE- *T*-1) )))
+      (, ,) )
+    (NP-SBJ (DT the) (NN worm) )
+    (VP (VBZ sends) 
+      (NP 
+        (NP (JJ strange) (NNS messages) )
+        (PP (-NONE- *ICH*-2) ))
+      (PP-DTV (TO to) 
+        (NP 
+          (NP (JJ other) (NNS machines) )
+          (PP (IN at) 
+            (NP (DT the) (NN center) ))))
+      (: --) 
+      (PP-2 (JJ such) (IN as) 
+        (, ,)
+        (`` ``) 
+        (S 
+          (S 
+            (NP-SBJ (NNP George) (NNP Orwell) )
+            (VP (VBD was) 
+              (NP-PRD (DT an) (NN optimist) )))
+          (, ,) ('' '') (CC or) (`` ``) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (VB Do) (RB n't) 
+              (VP (VB feed) 
+                (NP (DT the) (NNS bats) )
+                (NP-TMP (RB tonight) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT The) (NN worm) )
+    (ADVP (RB also) )
+    (VP (VBZ looks) 
+      (PP-CLR (IN for) 
+        (NP 
+          (NP (JJ elementary) (NNS passwords) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBP confer) 
+                (NP (JJR more) (NNS privileges) )
+                (PP-LOC-CLR (IN on) 
+                  (NP (DT the) (NN user) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-4 (DT The) (NNS passwords) )
+    (VP 
+      (VP (VBP are) 
+        (VP (VBN included) 
+          (PP-LOC-CLR (IN in) 
+            (NP (DT the) (NN system) (NN software) ))
+          (SBAR-TMP 
+            (WHADVP-3 (WRB when) )
+            (S 
+              (NP-SBJ-1 (PRP it) )
+              (VP (VBZ is) 
+                (VP (VBN installed) 
+                  (NP (-NONE- *-1) )
+                  (ADVP-TMP (-NONE- *T*-3) )))))))
+      (CC but) 
+      (VP (VBP are) 
+        (VP (VBN supposed) 
+          (S 
+            (NP-SBJ-2 (-NONE- *-4) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (VP (VBN replaced) 
+                  (NP (-NONE- *-2) )
+                  (ADVP-TMP 
+                    (ADVP (RB as) (RB soon) )
+                    (SBAR (IN as) 
+                      (S 
+                        (NP-SBJ (DT the) (NN system) )
+                        (VP (VBZ is) 
+                          (UCP-PRD 
+                            (ADJP-PRD (IN up) )
+                            (CC and) 
+                            (VP (VBG running) )))))))))))))
+    (. .) ))
+( (S-1 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP (VBZ finds) 
+          (NP 
+            (NP (CD one) )
+            (PP (IN of) 
+              (NP (DT those) (NNS passwords) ))))))
+    (PRN 
+      (, ,)
+      (NP-SBJ (NNP Mr.) (NNP Alexander) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S (-NONE- *T*-1) )))
+      (, ,) )
+    (NP-SBJ-2 (DT the) (NN worm) )
+    (VP (MD will) 
+      (VP (VB do) 
+        (NP 
+          (NP (JJ such) (NNS things) )
+          (PP (IN as) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (NN change) 
+                (NP 
+                  (NP (NNS users) (POS ') )
+                  (NNS passwords) )
+                (PP-CLR (TO to) 
+                  (NP 
+                    (NP (DT a) (NN series) )
+                    (PP (IN of) 
+                      (NP (JJ random) (NNS numbers) ))))
+                (, ,) 
+                (S-ADV 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG preventing) 
+                    (NP (PRP them) )
+                    (PP-CLR (IN from) 
+                      (S-NOM 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (VBG signing) 
+                          (PRT (RP on) )
+                          (PP (TO to) 
+                            (NP (DT the) (NN network) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP NASA) )
+    (VP (VBD estimated) 
+      (SBAR (IN that) 
+        (, ,)
+        (S 
+          (PP-TMP (IN on) 
+            (NP (NNP Monday) ))
+          (, ,) 
+          (NP-SBJ-1 (IN about) (CD four) (NN computer) (NNS centers) )
+          (VP (VBD were) 
+            (VP (VBN affected) 
+              (NP (-NONE- *-1) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-TMP (NN Yesterday) )
+      (, ,) 
+      (NP-SBJ (DT the) (NN number) )
+      (VP (VBD grew) 
+        (PP-DIR (TO to) 
+          (NP (CD 40) ))))
+    (: ;) 
+    (S 
+      (NP-TMP (NN today) )
+      (NP-SBJ-1 (DT the) (NN number) )
+      (VP (VBZ is) 
+        (VP (VBN expected) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB grow) 
+                (PP-DIR (TO to) 
+                  (NP (CD 100) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP NASA) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB take) 
+              (NP (IN about) (DT a) (NN week) )
+              (SBAR-TMP (IN before) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBZ knows) 
+                    (NP 
+                      (NP 
+                        (SBAR 
+                          (WHNP-2 
+                            (NP (RB exactly) (WRB how) (JJ many) (NNS centers) )
+                            (PP (IN of) 
+                              (NP 
+                                (NP (DT the) (CD 6,000) )
+                                (VP (VBN connected) 
+                                  (NP (-NONE- *) )
+                                  (PP-CLR (TO to) 
+                                    (NP (NNP Internet) ))))))
+                          (S 
+                            (NP-SBJ-1 (-NONE- *T*-2) )
+                            (VP (VBD were) 
+                              (VP (VBN affected) 
+                                (NP (-NONE- *-1) ))))))
+                      (CC and) 
+                      (NP 
+                        (NP (DT the) (NN extent) )
+                        (PP (IN of) 
+                          (NP (DT the) (NN damage) ))
+                        (, ,) 
+                        (SBAR (IN if) 
+                          (FRAG 
+                            (NP (DT any) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Anti-nuclear) (NNS activists) )
+    (VP (VBP have) 
+      (VP (VBN protested) 
+        (NP 
+          (NP (DT the) (NN launch) )
+          (PP (IN of) 
+            (NP (DT the) (NNP Galileo) (NN space) (NN probe) ))
+          (PP (TO to) 
+            (NP (NNP Jupiter) )))
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ uses) 
+              (NP (NN plutonium) )
+              (S-CLR 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB generate) 
+                    (NP 
+                      (NP (DT the) (NN electricity) )
+                      (VP (VBN needed) 
+                        (S 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (TO to) 
+                            (VP (VB run) 
+                              (NP (DT the) (NN craft) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Activists) )
+    (VP (VBP fear) 
+      (SBAR (IN that) 
+        (S 
+          (SBAR-ADV 
+            (SBAR (IN if) 
+              (S 
+                (NP-SBJ 
+                  (NP (DT the) (NN shuttle) )
+                  (VP (VBG carrying) 
+                    (NP (NNP Galileo) )
+                    (PP-DIR (IN into) 
+                      (NP (NN orbit) ))))
+                (VP (MD should) 
+                  (VP (VB explode) ))))
+            (, ,) (CC or) 
+            (SBAR (IN if) 
+              (S 
+                (NP-SBJ (NNP Galileo) (PRP itself) )
+                (VP (VBZ crashes) 
+                  (PP-DIR (IN into) 
+                    (NP (DT the) (NN Earth) ))
+                  (PP-TMP (IN during) 
+                    (NP 
+                      (NP (DT the) (CD two) (NNS times) )
+                      (SBAR (-NONE- 0) 
+                        (S 
+                          (NP-SBJ (PRP it) )
+                          (VP (VBZ flies) 
+                            (ADVP (RB close) 
+                              (PP (TO to) 
+                                (NP (DT the) (NN planet) ))))))))))))
+          (, ,) 
+          (NP-SBJ-1 
+            (NP (JJ fatal) (NNS levels) )
+            (PP (IN of) 
+              (NP (NN plutonium) )))
+          (VP (MD would) 
+            (VP (VB be) 
+              (VP (VBN released) 
+                (NP (-NONE- *-1) )
+                (PP-DIR (IN into) 
+                  (NP (DT the) (NN atmosphere) ))))))))
+    (. .) ))
+( (S 
+    (ADVP (IN So) (RB far) )
+    (NP-SBJ-1 (NNP Galileo) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (VP 
+          (VP (VBN delayed) 
+            (NP (-NONE- *-1) )
+            (ADVP-TMP (RB twice) )
+            (, ,) 
+            (ADVP-TMP-3 (RB once) )
+            (PP-PRP-2 (IN because) (IN of) 
+              (NP 
+                (NP (DT a) (NN computer) (NN malfunction) )
+                (VP (VBN connected) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN with) 
+                    (NP (DT a) (NN space-shuttle) (NN engine) ))))))
+          (, ,) 
+          (CC and)
+          (VP 
+            (NP-TMP=3 (NN yesterday) )
+            (PP-PRP=2 (IN because) (IN of) 
+              (NP (DT the) (NN weather) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP NASA) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNP Galileo) (NN worm) )
+          (VP (VBD had) 
+            (NP 
+              (NP (NN nothing) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB do) 
+                      (NP (-NONE- *T*-1) )
+                      (PP-CLR (IN with) 
+                        (NP (DT either) (NN delay) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Alexander) )
+      (PP (IN of) 
+        (NP (NNP Computerworld) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNS hackers) )
+          (VP (VBP have) 
+            (VP (VBN gone) 
+              (PP-DIR (IN after) 
+                (NP (NNP SPAN) ))
+              (ADVP-TMP (IN before) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (DT the) (NNP Chaos) (NNP Computer) (NNP Club) )
+            (, ,) 
+            (PP (IN of) 
+              (NP (NNP West) (NNP Germany) ))
+            (, ,) )
+          (ADVP-TMP (RB once) )
+          (VP (VBD managed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP 
+                  (VP (VB invade) 
+                    (NP (NNP SPAN) ))
+                  (CC and) 
+                  (VP (VB do) 
+                    (NP 
+                      (NP (JJ such) (NNS things) )
+                      (PP (IN as) 
+                        (SBAR (-NONE- 0) 
+                          (S 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (VB change) 
+                              (NP 
+                                (NP (DT the) (NN value) )
+                                (PP (IN of) 
+                                  (NP (NN pi) )))
+                              (, ,) 
+                              (S-ADV 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (VBG messing) 
+                                  (PRT (RP up) )
+                                  (NP (DT some) (NNS calculations) ))))))))))))))))
+    (. .) ))

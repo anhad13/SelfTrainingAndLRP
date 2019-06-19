@@ -1,0 +1,129 @@
+
+( (S 
+    (NP-SBJ (NNP Information) (NNP International) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD was) 
+            (VP (VBN sued) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT a) (NN buyer) )
+                  (PP (IN of) 
+                    (NP (PRP$ its) (JJ computerized) (JJ newspaper-publishing) (NN system) ))
+                  (, ,) 
+                  (VP (VBG alleging) 
+                    (SBAR (IN that) 
+                      (S 
+                        (NP-SBJ-2 (DT the) (NN company) )
+                        (VP (VBD failed) 
+                          (S 
+                            (NP-SBJ (-NONE- *-2) )
+                            (VP (TO to) 
+                              (VP (VB correct) 
+                                (NP 
+                                  (NP (NNS deficiencies) )
+                                  (PP-LOC (IN in) 
+                                    (NP (DT the) (NN system) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN spokesman) )
+      (PP (IN for) 
+        (NP (NNP Information) (NNP International) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN lawsuit) )
+            (PP (IN by) 
+              (NP 
+                (NP (CD two) (NNS units) )
+                (PP (IN of) 
+                  (NP (NNP Morris) (NNP Communications) (NNP Corp.) )))))
+          (VP (VBZ seeks) 
+            (NP 
+              (NP 
+                (NP (NN restitution) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN system) (VBZ 's) )
+                    (ADJP 
+                      (QP (RB about) ($ $) (CD 3) (CD million) )
+                      (-NONE- *U*) )
+                    (NN purchase) (NN price) )))
+              (CC and) 
+              (NP 
+                (NP (NN cancellation) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT a) (NN software) (NN license) )
+                    (VP (VBN provided) 
+                      (NP (-NONE- *) )
+                      (PP (IN by) 
+                        (NP-LGS (DT the) (NNP Morris) (NNS units) ))
+                      (PP-CLR (TO to) 
+                        (NP (NNP Information) (NNP International) )))))))
+            (PP-PRP (IN for) 
+              (NP (JJ alleged) (NN failure) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB pay) 
+                      (NP (NNS royalties) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Information) (NNP International) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ believes) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ-1 (DT the) (NNS complaints) )
+                (, ,) 
+                (S-ADV 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (VBN filed) 
+                    (NP (-NONE- *) )
+                    (PP-LOC (IN in) 
+                      (NP 
+                        (NP (JJ federal) (NN court) )
+                        (PP-LOC (IN in) 
+                          (NP (NNP Georgia) ))))))
+                (, ,) 
+                (VP (VBP are) 
+                  (PP-PRD (IN without) 
+                    (NP (NN merit) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (ADJP (RB Closely) (VBN held) )
+      (NNP Morris) (NNP Communications) )
+    (VP (VBZ is) 
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Augusta) )
+            (, ,) 
+            (NP (NNP Ga) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS units) )
+      (SBAR 
+        (WHNP-1 (WDT that) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD filed) 
+            (NP (DT the) (NN suit) )))))
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (NNP Southeastern) (NNP Newspapers) (NNP Corp.) )
+        (CC and) 
+        (NP (NNP Florida) (NNP Publishing) (NNP Co) )))
+    (. .) ))

@@ -1,0 +1,147 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP Arizona) (NNP Corporations) (NNP Commission) )
+    (VP (VBD authorized) 
+      (NP 
+        (NP (DT an) 
+          (ADJP (CD 11.5) )
+          (NN %) (NN rate) (NN increase) )
+        (PP-LOC (IN at) 
+          (NP (NNP Tucson) (NNP Electric) (NNP Power) (NNP Co.) ))
+        (, ,) 
+        (UCP 
+          (ADJP 
+            (ADJP (RB substantially) (JJR lower) )
+            (SBAR (IN than) 
+              (S 
+                (NP-SBJ-1 (-NONE- *) )
+                (VP (VBN recommended) 
+                  (NP (-NONE- *-1) )
+                  (NP-TMP (JJ last) (NN month) )
+                  (PP (IN by) 
+                    (NP-LGS (DT a) (NN commission) (NN hearing) (NN officer) ))))))
+          (CC and) 
+          (NP 
+            (NP 
+              (QP (RB barely) (PDT half) )
+              (DT the) (NN rise) )
+            (VP (VBN sought) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS (DT the) (NN utility) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN ruling) )
+    (VP (VBZ follows) 
+      (NP 
+        (NP (DT a) (NN host) )
+        (PP (IN of) 
+          (NP (NNS problems) ))
+        (PP-LOC (IN at) 
+          (NP (NNP Tucson) (NNP Electric) ))
+        (, ,) 
+        (PP (VBG including) 
+          (NP 
+            (NP (JJ major) (NNS write-downs) )
+            (, ,) 
+            (NP 
+              (NP (DT a) 
+                (ADJP (CD 60) (NN %) )
+                (NN slash) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (JJ common) (NN stock) (NN dividend) )))
+            (CC and) 
+            (NP 
+              (NP (DT the) (NN departure) )
+              (PP (IN of) 
+                (NP (JJ former) (NNP Chairman) (NNP Einar) (NNP Greve) ))
+              (PP-TMP (IN during) 
+                (NP 
+                  (NP (DT a) (NN company) (NN investigation) )
+                  (PP (IN of) 
+                    (NP (PRP$ his) (NN stock) (NNS sales) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Arizona) (JJ regulatory) (NN ruling) )
+    (VP (VBZ calls) 
+      (PP-CLR (IN for) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 42) (CD million) )
+            (-NONE- *U*) )
+          (PP-LOC (IN in) 
+            (NP (JJ added) (NN revenue) ))
+          (ADVP-TMP (RB yearly) )
+          (, ,) 
+          (PP (VBN compared) 
+            (PP (IN with) 
+              (NP 
+                (NP (DT a) 
+                  (ADJP 
+                    (QP ($ $) (CD 57) (CD million) )
+                    (-NONE- *U*) )
+                  (NN boost) )
+                (VP (VBN proposed) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS (DT the) (NN commission) (NN hearing) (NN officer) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD had) 
+      (VP (VBN sought) 
+        (NP 
+          (NP (NNS increases) )
+          (VP (VBG totaling) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 80.3) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP (CD 22) (NN %) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN decision) )
+    (VP (VBD was) 
+      (VP (VBN announced) 
+        (NP (-NONE- *-1) )
+        (SBAR-TMP (IN after) 
+          (S 
+            (NP-SBJ (NN trading) )
+            (VP (VBD ended) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Tucson) (NNP Electric) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 20.875) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP (CD 25) (NNS cents) ))
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NNP Tucson) (NNP Electric) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN utility) )
+          (VP (VBD was) 
+            (ADJP-PRD 
+              (ADJP (VBN disappointed) 
+                (PP (IN by) 
+                  (NP 
+                    (NP (DT the) (NN commission) (POS 's) )
+                    (NN decision) )))
+              (CC and) (`` ``) 
+              (ADJP (JJ concerned) 
+                (PP (IN about) 
+                  (NP 
+                    (NP (DT the) (JJ financial) (NN integrity) )
+                    (PP (IN of) 
+                      (NP (DT the) (NN company) ))))))))))
+    (. .) ))

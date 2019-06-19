@@ -1,0 +1,83 @@
+
+( (S 
+    (NP-SBJ (NNP OPPENHEIMER) (NNP CAPITAL) (NNP LIMITED) (NNP PARTNERSHIP) )
+    (VP (VBD increased) 
+      (NP (DT the) (JJ quarterly) (NN distribution) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (CD 40) (NNS cents) )
+          (NP-ADV (DT a) (JJ limited) (NN partnership) (NN unit) )))
+      (PP-DIR (IN from) 
+        (NP (CD 36.25) (NNS cents) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN distribution) )
+    (VP (VBZ represents) 
+      (NP 
+        (NP (JJ available) (NN cash) (NN flow) )
+        (PP (IN from) 
+          (NP (DT the) (NN partnership) ))
+        (PP-TMP (IN between) 
+          (NP 
+            (NP (NNP Aug.) (CD 1) )
+            (CC and) 
+            (NP (NNP Oct.) (CD 31) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ payable) 
+        (NP-TMP (NNP Nov.) (CD 30) )
+        (PP (TO to) 
+          (NP 
+            (NP (NNS units) )
+            (PP (IN of) 
+              (NP (NN record) ))
+            (NP-TMP (NNP Oct.) (CD 31) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN money) (NN manager) )
+    (VP (VBZ is) 
+      (VP (VBN controlled) 
+        (NP (-NONE- *-1) )
+        (NP-EXT (CD 67.7) (NN %) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (PRP$ its) (JJ top) (NNS officers) )
+            (CC and) 
+            (NP 
+              (NP (JJ top) (NNS officers) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP Oppenheimer) (CC &) (NNP Co.) )
+                  (, ,) 
+                  (NP (DT a) (NNS securities) (NN firm) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) (NNS firms) )
+    (VP (VBP are) 
+      (PP-LOC-PRD (IN in) 
+        (NP (NNP New) (NNP York) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Oppenheimer) (NNP Capital) )
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (QP (RB about) (CD 7.9) (CD million) )
+          (JJ limited) (NN partnership) (NNS units) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (DT the) (NNS units) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 15.125) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP-CLR (RB up) 
+        (NP (CD 12.5) (NNS cents) )))
+    (. .) ))

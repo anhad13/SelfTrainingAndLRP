@@ -1,0 +1,27 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP VIACOM) (NNP Inc.) (POS 's) )
+      (NN loss) )
+    (VP (VBN narrowed) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 21.7) (CD million) )
+          (-NONE- *U*) ))
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJ third) (NN quarter) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 56.9) (CD million) )
+          (-NONE- *U*) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (IN ago) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Thursday) (POS 's) )
+      (NN edition) )
+    (VP (VBD misstated) 
+      (NP (DT the) (NN narrowing) ))
+    (. .) ))

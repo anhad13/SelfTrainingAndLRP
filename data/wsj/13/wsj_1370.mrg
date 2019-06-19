@@ -1,0 +1,79 @@
+
+( (S 
+    (NP-SBJ (NNP Cray) (NNP Research) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD sold) 
+            (NP 
+              (NP (CD one) )
+              (PP (IN of) 
+                (NP 
+                  (NP (PRP$ its) 
+                    (ADJP (JJS newest) 
+                      (CC and)
+                      (JJS largest) )
+                    (NN computer) (NNS systems) )
+                  (, ,) 
+                  (NP (DT the) (NNP Cray) (NNP Y-MP\/832) )
+                  (, ,) )))
+            (PP-DTV (TO to) 
+              (NP (DT the) (NNP United) (NNP Kingdom) (NNP Meteorological) (NNP Office) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN system) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (JJ first) )
+        (SBAR 
+          (WHNP-2 (-NONE- 0) )
+          (S 
+            (NP-SBJ-1 (-NONE- *T*-2) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (VP (VBN sold) 
+                  (NP (-NONE- *-1) )
+                  (PP-MNR (IN through) 
+                    (NP 
+                      (NP (DT the) (JJ joint) (NN marketing) (NN agreement) )
+                      (PP (IN between) 
+                        (NP 
+                          (NP (NNP Cray) )
+                          (CC and) 
+                          (NP (NNP Control) (NNP Data) (NNP Corp) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN supercomputer) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBZ lists) 
+            (PP-CLR (IN for) 
+              (NP 
+                (QP ($ $) (CD 18.5) (CD million) )
+                (-NONE- *U*) )))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN installed) 
+          (NP (-NONE- *-1) )
+          (PP-TMP (IN in) 
+            (NP 
+              (NP (DT the) (JJ first) (NN quarter) )
+              (PP (IN of) 
+                (NP (CD 1990) ))))
+          (PP-LOC (IN in) 
+            (NP 
+              (NP 
+                (NP (DT the) (JJ meteorological) (NN office) (POS 's) )
+                (NN headquarters) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (NNP Bracknell) )
+                  (, ,) 
+                  (NP (NNP England) ))))))))
+    (. .) ))

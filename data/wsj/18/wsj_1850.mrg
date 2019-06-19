@@ -1,0 +1,631 @@
+
+( (S 
+    (NP-SBJ-2 
+      (NP (NNP Japan) (NNP Air) (NNPS Lines) )
+      (, ,) 
+      (NP (NNP Lufthansa) (NNP German) (NNPS Airlines) )
+      (CC and) 
+      (NP (NNP Air) (NNP France) ))
+    (ADVP (RB reportedly) )
+    (VP 
+      (VP (VBP plan) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB form) 
+              (NP (DT an) (JJ international) (NN air-freight) (NN company) )
+              (NP-TMP (DT this) (NN year) )))))
+      (, ,) 
+      (NP-ADV 
+        (NP (DT a) (NN move) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (MD could) 
+              (VP 
+                (ADVP (RBR further) )
+                (VB consolidate) 
+                (NP (DT the) (NN industry) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Japanese) (NN newspaper) (NNP Nihon) (NNP Keizai) (NNP Shimbun) )
+    (VP (VBD reported) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (DT the) (CD three) (NNS giants) )
+          (VP (VBP plan) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB integrate) 
+                  (NP 
+                    (NP (PRP$ their) (NN cargo) (NNS computers) )
+                    (CC and) 
+                    (NP 
+                      (ADJP (NN ground-cargo) 
+                        (CC and)
+                        (NN air-cargo) )
+                      (NNS systems) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (ADVP (RB reportedly) )
+    (VP (MD will) 
+      (VP (VB invest) 
+        (NP 
+          (NP (DT a) (NN total) )
+          (PP (IN of) 
+            (NP 
+              (NP 
+                (QP (CD 20) (CD billion) )
+                (NNS yen) )
+              (PRN 
+                (-LRB- -LRB-)
+                (NP 
+                  (QP ($ $) (CD 140) (CD million) )
+                  (-NONE- *U*) )
+                (-RRB- -RRB-) ))))
+        (PP-CLR (IN in) 
+          (NP 
+            (NP (DT the) (NN venture) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WP$ whose) (NN headquarters) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (MD would) 
+                  (VP (VB be) 
+                    (PP-LOC-PRD (IN in) 
+                      (NP 
+                        (NP (NNP France) )
+                        (CC or) 
+                        (NP (NNP West) (NNP Germany) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN action) )
+    (VP (VBZ follows) 
+      (NP 
+        (NP 
+          (NP (NNP Federal) (NNP Express) (NNP Corp.) (POS 's) )
+          (NN acquisition) )
+        (PP (IN of) 
+          (NP (NNP Flying) (NNP Tiger) (NNP Line) (NNP Inc.) ))
+        (PP-TMP (IN in) 
+          (NP (NNP August) ))))
+    (. .) ))
+( (SINV 
+    (S-TPC-2 
+      (PP-TMP (IN After) 
+        (NP (DT that) ))
+      (, ,) (`` ``) 
+      (NP-SBJ 
+        (NP (PRP it) )
+        (SBAR (-NONE- *EXP*-1) ))
+      (VP (MD would) 
+        (VP (VB make) 
+          (NP (NN sense) )
+          (SBAR-1 (IN for) 
+            (S 
+              (NP-SBJ-3 (NNS airlines) )
+              (VP (TO to) 
+                (VP (VB talk) 
+                  (PP-CLR (IN about) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *-3) )
+                      (VP (VBG doing) 
+                        (NP (NNS things) )
+                        (ADVP-MNR (RB jointly) ))))))))))
+      (, ,) ('' '') )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (NP-SBJ 
+      (NP (NNP Cotton) (NNP Daly) )
+      (, ,) 
+      (NP 
+        (NP (NN director) )
+        (PP (IN of) 
+          (NP (NN cargo) (NNS services) ))
+        (PP (IN for) 
+          (NP (NNP New) (NNP York) (NN consulting) (NN firm) (NNP Simat) 
+            (, ,)
+            (NNP Helliesen) (CC &) (NNP Eichner) (NNP Inc) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Daly) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (JJ such) (NNS discussions) )
+          (VP (VBP are) 
+            (VP (VBN motivated) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT the) (JJ competitive) (NN threat) )
+                  (VP (VBN posed) 
+                    (NP (-NONE- *) )
+                    (PP (IN by) 
+                      (NP-LGS 
+                        (NP (NNP Federal) (NNP Express) )
+                        (, ,) 
+                        (NP 
+                          (NP (NNP United) (NNP Parcel) (NNP Service) )
+                          (PP (IN of) 
+                            (NP (NNP America) (NNP Inc.) )))
+                        (CC and) 
+                        (NP (JJ other) (JJ fast-growing) (NN air-freight) (NNS companies) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (JJ Many) (NNS airlines) )
+      (VP (VBP are) 
+        (VP (VBG talking) 
+          (PP-CLR (IN about) 
+            (NP (NN cargo) (NNS ventures) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (EX there) )
+      (VP (VBP have) 
+        (VP (VBN been) 
+          (NP-PRD 
+            (NP (NNS rumors) )
+            (PP (IN about) 
+              (NP 
+                (NP (JJ such) (DT a) (NN tie) )
+                (PP (IN between) 
+                  (NP 
+                    (NP (NNP JAL) )
+                    (CC and) 
+                    (NP (JJ European) (NNS airlines) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP Tokyo) ))
+    (, ,) 
+    (NP-SBJ (DT a) (NNP JAL) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (MD could) (RB n't) 
+            (VP (VB confirm) (CC or) (VB deny) 
+              (NP (DT the) (JJS latest) (JJ Japanese) (NN report) ))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP JAL) )
+          (VP (VBZ is) 
+            (VP (VBG talking) 
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP (NNP Lufthansa) )
+                  (CC and) 
+                  (NP (NNP Air) (NNP France) )))
+              (PP (IN about) 
+                (NP 
+                  (NP (DT some) (NN sort) )
+                  (PP (IN of) 
+                    (NP (NN cargo) (NN venture) )))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (RB just) (CD one) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT a) (NN number) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNS strategies) )
+                  (SBAR 
+                    (WHNP-2 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ-3 (NNP JAL) )
+                      (VP (VBZ has) 
+                        (VP (VBN embarked) 
+                          (PP-CLR (IN upon) 
+                            (NP (-NONE- *T*-2) ))
+                          (S-PRP 
+                            (NP-SBJ (-NONE- *-3) )
+                            (VP (TO to) 
+                              (VP (VB come) 
+                                (PP-CLR (TO to) 
+                                  (NP (NNS terms) ))
+                                (PP-CLR (IN with) 
+                                  (NP 
+                                    (NP (DT the) (NN situation) )
+                                    (PP-LOC (IN in) 
+                                      (NP (NNP Europe) ))
+                                    (PP-TMP (IN after) 
+                                      (NP 
+                                        (NP (CD 1992) )
+                                        (, ,) ('' '') 
+                                        (NP 
+                                          (NP (DT the) (NN deadline) )
+                                          (PP (IN for) 
+                                            (S-NOM 
+                                              (NP-SBJ (-NONE- *) )
+                                              (VP (VBG ending) 
+                                                (NP 
+                                                  (NP (NN trade) (NNS barriers) )
+                                                  (PP-LOC (IN in) 
+                                                    (NP (DT the) (NNP EC) )))))))))))))))))))))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP Frankfurt) ))
+    (, ,) 
+    (NP-SBJ-1 (DT a) (NNP Lufthansa) (NN spokesman) )
+    (VP 
+      (VP (VBD confirmed) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (NNS talks) )
+            (VP (VBP are) 
+              (PP-PRD (IN under) 
+                (NP (NN way) ))))))
+      (, ,) (CC but) 
+      (VP (VBD declined) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB comment) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NNP Lufthansa) (NN spokeswoman) )
+    (PP-LOC (IN in) 
+      (NP (NNP Tokyo) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN head) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Lufthansa) (POS 's) )
+                (NN cargo) (NNS operations) )))
+          (VP (VBD had) 
+            (VP (VBN been) 
+              (PP-LOC-PRD (IN in) 
+                (NP (NNP Toyko) ))
+              (NP-TMP (JJ last) (NN week) )
+              (PP-PRP (IN for) 
+                (NP 
+                  (NP (NNS talks) )
+                  (PP (IN with) 
+                    (NP (NNP JAL) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP Paris) ))
+    (, ,) 
+    (NP-SBJ-1 (NNP Air) (NNP France) )
+    (VP (VBD declined) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB comment) ))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ-1 (NN Nothing) )
+      (VP (VBZ is) 
+        (VP (VBN defined) (CC or) (VBN signed) 
+          (NP (-NONE- *-1) )
+          (PP-TMP (IN at) 
+            (NP (DT this) (NN point) )))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Daly) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) )
+      (PP-CLR (IN of) 
+        (NP (DT the) (NNS talks) )))
+    (. .) ))
+( (S-2 
+    (SBAR-ADV 
+      (WHNP-1 (WDT Whatever) (NN accord) )
+      (S 
+        (NP-SBJ (DT the) (CD three) (NNS carriers) )
+        (VP (VBP reach) 
+          (NP (-NONE- *T*-1) ))))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-2) )))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ skeptical) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (MD would) 
+              (VP (VB create) 
+                (NP (DT a) (JJ separate) (NN airline) )))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (DT the) (CD three) (NNS companies) )
+        (VP (VBP pool) 
+          (NP (PRP$ their) (NN air-freight) (NNS businesses) ))))
+    (, ,) 
+    (NP-SBJ (PRP$ their) (NN clout) )
+    (VP (MD would) 
+      (VP (VB be) 
+        (ADJP-PRD (JJ considerable) )))
+    (. .) ))
+( (S 
+    (PP (VBG According) 
+      (PP (TO to) 
+        (NP 
+          (NP (NNS figures) )
+          (PP (IN from) 
+            (NP (DT the) (NNP International) (NNP Air) (NNP Transport) (NNP Association) )))))
+    (, ,) 
+    (NP-SBJ (PRP they) )
+    (VP (VBD carried) 
+      (NP 
+        (NP (DT a) (VBN combined) 
+          (QP (CD 1.8) (CD million) )
+          (NNS tons) )
+        (PP (IN of) 
+          (NP (NN freight) )))
+      (NP-TMP (JJ last) (NN year) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Federal) (NNP Express) )
+      (CC and) 
+      (NP (NNP Flying) (NNP Tiger) ))
+    (, ,) 
+    (PP (IN as) 
+      (NP (JJ separate) (NNS companies) ))
+    (, ,) 
+    (VP (VBD carried) 
+      (NP (DT a) (VBN combined) 
+        (QP (CD 2.6) (CD million) )
+        (NNS tons) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Air) (NNP France) )
+      (CC and) 
+      (NP (NNP Lufthansa) ))
+    (NP-TMP (JJ last) (NN month) )
+    (VP (VBD concluded) 
+      (NP 
+        (NP (DT a) (JJ far-reaching) (NN cooperation) (NN accord) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ includes) 
+              (NP (NN air-freight) (NNS activities) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP They) )
+    (VP (VBP plan) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP 
+            (VP (VB increase) 
+              (NP 
+                (NP (NN cooperation) )
+                (PP-LOC (IN in) 
+                  (NP (NN freight) (NNS ground-handling) ))))
+            (CC and) 
+            (VP (VB create) 
+              (NP 
+                (NP (DT a) (JJ world-wide) (NN computer) (NN system) )
+                (SBAR 
+                  (WHNP-2 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-2) )
+                    (VP (TO to) 
+                      (VP (VB process) 
+                        (NP (NN cargo) )))))))))))
+    (. .) ))
+( (S-1 
+    (S 
+      (NP-SBJ (JJ Other) (NNS airlines) )
+      (VP (MD would) 
+        (VP (VB have) 
+          (NP 
+            (NP (NN access) )
+            (PP (TO to) 
+              (NP (DT the) (NN system) ))))))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP they) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (CC and) 
+    (S 
+      (NP-SBJ 
+        (NP (NNS negotiations) )
+        (PP (IN with) 
+          (NP (NNS partners) )))
+      (VP (VBD were) 
+        (ADVP-TMP (RB already) )
+        (PP-PRD (IN under) 
+          (NP (NN way) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) (JJ European) (NNS airlines) )
+    (VP (VBP operate) 
+      (NP 
+        (NP (JJ extensive) (NNS fleets) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Boeing) (CD 747) (NNS freighters) )
+            (CC and) 
+            (NP 
+              (NP (CD 747) (NNPS Combis) )
+              (, ,) 
+              (NP 
+                (NP (NNS aircraft) )
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBP carry) 
+                      (NP (DT both) (NN freight) 
+                        (CC and)
+                        (NNS passengers) )
+                      (PP-LOC (IN on) 
+                        (NP (DT the) (JJ main) (NN deck) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (ADVP-TMP (RB currently) )
+    (VP (VBP have) 
+      (NP 
+        (NP (JJ large) (NNS orders) )
+        (PP (IN for) 
+          (NP (NN cargo) (NNS planes) ))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ-2 
+        (NP (JJ Several) (NNS airlines) )
+        (, ,) 
+        (PP (VBG including) 
+          (NP 
+            (NP (NNP Lufthansa) )
+            (, ,) 
+            (NP (NNP JAL) )
+            (CC and) 
+            (NP (NNP Cathay) (NNP Pacific) (NNPS Airways) )))
+        (, ,) )
+      (VP 
+        (VP (VBP are) 
+          (VP (VBG working) 
+            (PP-CLR (IN on) 
+              (NP (DT a) (JJ so-called) (JJ global) (NN cargo) (NN system) ))))
+        (CC and) 
+        (VP (VBP are) 
+          (VP (VBG trying) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB attract) 
+                  (S 
+                    (NP-SBJ (JJ other) (NNS carriers) )
+                    (VP (TO to) 
+                      (VP (VB join) ))))))))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Daly) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP JAL) )
+    (ADVP (RB also) )
+    (VP (VBZ has) 
+      (VP (VBN signaled) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ is) 
+              (VP (VBG looking) 
+                (PP-CLR (IN for) 
+                  (NP 
+                    (NP (NNS toeholds) )
+                    (PP-LOC (IN in) 
+                      (NP (NNP Europe) ))
+                    (PP-TMP (IN before) 
+                      (NP 
+                        (NP (DT the) (NN end) )
+                        (PP (IN of) 
+                          (NP (CD 1992) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-TMP (JJ Last) (NN month) )
+    (, ,) 
+    (NP-SBJ (DT the) (NN carrier) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD wanted) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB lease) 
+                  (NP (NNS crews) 
+                    (CC and)
+                    (NNS planes) )
+                  (PP-CLR (IN from) 
+                    (NP (NNP British) (NNPS Airways) )))))
+            (SBAR-PRP (IN so) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (MD could) 
+                  (VP (VB funnel) 
+                    (NP (PRP$ its) (NNS passengers) )
+                    (PP-DIR (IN from) 
+                      (NP (NNP London) ))
+                    (PP-DIR (TO to) 
+                      (NP (JJ other) (JJ European) (NNS destinations) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP British) (NNPS Airways) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) (RB n't) 
+            (VP (VBD received) 
+              (NP (DT a) (NN proposal) )
+              (PP-DIR (IN from) 
+                (NP (NNP JAL) )))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-TMP (JJ last) (NN week) )
+    (NP-SBJ (EX there) )
+    (VP (VBD were) 
+      (NP-PRD 
+        (NP 
+          (NP (NN air-traffic) (NNS negotiations) )
+          (PP (IN between) 
+            (NP 
+              (NP (DT the) (NNP U.K.) )
+              (CC and) 
+              (NP (NNP Japan) ))))
+        (, ,) 
+        (NP 
+          (NP (DT a) (JJ likely) (JJ first) (NN step) )
+          (PP (TO to) 
+            (NP 
+              (NP (DT any) (JJ commercial) (NN agreement) )
+              (PP (IN between) 
+                (NP 
+                  (NP (NNP JAL) )
+                  (CC and) 
+                  (NP 
+                    (NP (NNP British) (NNPS Airways) )
+                    (CC or) 
+                    (NP (DT another) (NNP U.K.) (NN carrier) )))))))))
+    (. .) ))

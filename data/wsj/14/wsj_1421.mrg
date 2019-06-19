@@ -1,0 +1,822 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Japan) (POS 's) )
+      (NNP Finance) (NNP Ministry) )
+    (ADVP-MNR (RB strongly) )
+    (VP (VBD denied) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG playing) 
+          (NP 
+            (NP (DT any) (NN role) )
+            (PP-LOC (IN in) 
+              (NP (DT the) (NNP New) (NNP York) (JJ stock-price) (JJ free) (NN fall) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Makoto) (NNP Utsumi) )
+      (, ,) 
+      (NP 
+        (NP (NN vice) (NN minister) )
+        (PP (IN for) 
+          (NP (JJ international) (NNS affairs) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN ministry) )
+          (VP (VBD did) (RB n't) 
+            (PP (IN in) 
+              (NP (DT any) (NN way) ))
+            (VP (VB suggest) 
+              (PP-CLR (TO to) 
+                (NP (JJ Japanese) (NNS banks) ))
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ (PRP they) )
+                  (VP (VB stay) 
+                    (PP-CLR (RB out) 
+                      (PP (IN of) 
+                        (NP (DT the) (NNP UAL) (NNP Corp.) (JJ leveraged) (NN buy-out) )))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN ministry) )
+      (VP (VBZ has) 
+        (ADVP-TMP (RB never) )
+        (ADVP (RB even) )
+        (VP (VBN suggested) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (JJ Japanese) (NNS banks) )
+              (VP (VB be) 
+                (ADJP-PRD (JJ cautious) 
+                  (PP (IN about) 
+                    (NP (JJ leveraged) (NNS buy-outs) ))
+                  (PP (IN in) 
+                    (ADJP (JJ general) )))))))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Utsumi) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ (EX There) )
+      (VP (VBP are) 
+        (NP-PRD (DT no) (NNS facts) 
+          (PRN 
+            (-LRB- -LCB-)
+            (PP (IN behind) 
+              (NP (DT the) (NNS assertions) ))
+            (-RRB- -RCB-) )
+          (SBAR-1 (IN that) 
+            (S 
+              (NP-SBJ (PRP we) )
+              (VP (VBD sent) 
+                (NP 
+                  (NP (DT any) (NN kind) )
+                  (PP (IN of) 
+                    (NP (NN signal) )))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD declared) 
+      (S (-NONE- *T*-2) )
+      (PP-LOC (IN in) 
+        (NP (DT an) (NN interview) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS comments) )
+    (VP 
+      (VP (VBD were) 
+        (NP-PRD 
+          (NP 
+            (NP (DT the) (NN ministry) (POS 's) )
+            (RB first) (JJ detailed) (JJ public) (NN statement) )
+          (PP (IN on) 
+            (NP (DT the) (NN subject) ))))
+      (, ,) 
+      (CC and)
+      (VP (VBP reflect) 
+        (NP 
+          (NP (DT the) (NN ministry) (POS 's) )
+          (NN concern) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (NNS foreigners) )
+              (VP (MD will) 
+                (VP (VB think) 
+                  (SBAR (-NONE- 0) 
+                    (S 
+                      (NP-SBJ (NNP Japan) )
+                      (VP (VBZ is) 
+                        (VP (VBG using) 
+                          (NP (PRP$ its) (JJ tremendous) (JJ financial) (NN power) )
+                          (S-PRP 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (TO to) 
+                              (VP (VB control) 
+                                (NP 
+                                  (NP (NNS events) )
+                                  (PP-LOC (IN in) 
+                                    (NP (JJ foreign) (NNS markets) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN number) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNS accounts) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NNS events) )
+              (VP (VBG leading) 
+                (PP-CLR (TO to) 
+                  (NP 
+                    (NP (DT the) (CD 190) (NN point) (NN drop) )
+                    (PP-LOC (IN in) 
+                      (NP (NNP New) (NNP York) (NN stock) (NNS prices) ))
+                    (PP-TMP (IN on) 
+                      (NP (NNP Oct.) (CD 13) ))))))))))
+    (VP (VBD accused) 
+      (NP 
+        (NP (DT the) (NN ministry) )
+        (PP (IN of) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG pulling) 
+              (NP (DT the) (NN plug) )
+              (PP-CLR (IN on) 
+                (NP (DT the) (NNP UAL) (NN deal) ))
+              (PP-PRP (IN for) 
+                (NP 
+                  (NP (CD one) (NN reason) )
+                  (CC or) 
+                  (NP (DT another) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Utsumi) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (JJS most) )
+            (SBAR 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (DT the) (NN ministry) )
+                (VP (VBD had) 
+                  (ADVP-TMP (RB ever) )
+                  (VP (VBN done) 
+                    (NP (-NONE- *T*-1) ))))))
+          (VP (VBD was) 
+            (S-PRD 
+              (NP-SBJ (-NONE- *) )
+              (VP (VB ask) 
+                (NP (JJ Japanese) (NNS banks) )
+                (PP-CLR (IN about) (`` ``) 
+                  (NP 
+                    (NP (DT the) (NN status) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (PRP$ their) (NN participation) )
+                        ('' '') 
+                        (PP-LOC (IN in) 
+                          (NP (CD one) (JJ previous) (NNP U.S.) (JJ leveraged) (NN buy-out) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN ministry) )
+    (VP (VBD inquired) 
+      (PP-CLR (IN about) 
+        (NP 
+          (NP (DT that) (NN deal) )
+          (PRN (: --) 
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (NP-SBJ-3 (NNP Mr.) (NNP Utsumi) )
+                (VP (VBD declined) 
+                  (S 
+                    (NP-SBJ (-NONE- *-3) )
+                    (VP (TO to) 
+                      (VP (VB identify) 
+                        (NP (-NONE- *T*-2) )))))))
+            (: --) )))
+      (SBAR-PRP (IN because) 
+        (S 
+          (S 
+            (NP-SBJ-1 
+              (NP (DT the) (JJ large) (NN presence) )
+              (PP (IN of) 
+                (NP (JJ Japanese) (NNS banks) ))
+              (PP-LOC (IN in) 
+                (NP (DT the) (NN deal) )))
+            (VP (VBD was) (`` ``) 
+              (VP (VBG being) 
+                (VP 
+                  (ADVP-MNR (RB strongly) )
+                  (VBN criticized) 
+                  (NP (-NONE- *-1) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NNP U.S.) (NNP Congress) ))))
+              ('' '') ))
+          (CC and) 
+          (S 
+            (NP-SBJ 
+              (NP (PRP it) )
+              (SBAR (-NONE- *EXP*-4) ))
+            (VP (VBD was) (`` ``) 
+              (ADJP-PRD (JJ necessary) )
+              (SBAR-4 (IN for) 
+                (S 
+                  (NP-SBJ (PRP us) )
+                  (VP (TO to) 
+                    (VP (VB grasp) 
+                      (NP (DT the) (NN situation) ))))))))))
+    (. .) ('' '') ))
+( (S 
+    (S 
+      (NP-SBJ (PRP He) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) (NN inquiry) )
+            (VP (VBD was) (RB n't) 
+              (VP (VBN made) 
+                (PP-MNR (IN in) 
+                  (NP 
+                    (NP (DT a) (NN way) )
+                    (SBAR 
+                      (WHNP-2 (IN that) )
+                      (S 
+                        (NP-SBJ (DT the) (NNS banks) )
+                        (VP (MD could) 
+                          (VP (VB have) 
+                            (VP (VBN interpreted) 
+                              (NP-1 (-NONE- *T*-2) )
+                              (PP-CLR (IN as) 
+                                (S-NOM 
+                                  (NP-SBJ (-NONE- *-1) )
+                                  (VP (DT either) (JJ encouraging) (CC or) (JJ discouraging) 
+                                    (NP (NN participation) )))))))))))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP (VBD added) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (NN none) )
+              (PP (IN of) 
+                (NP (DT the) (JJ Japanese) (NNS banks) )))
+            (VP (VBD changed) 
+              (NP 
+                (NP (PRP$ their) (NN posture) )
+                (PP (IN on) 
+                  (NP (DT the) (NN deal) )))
+              (PP (IN as) 
+                (NP 
+                  (NP (DT a) (NN result) )
+                  (PP (IN of) 
+                    (NP (DT the) (NN inquiry) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Utsumi) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (DT some) (JJ Japanese) (NNS banks) )
+          (VP 
+            (VP (VBD were) 
+              (ADJP-PRD (JJ willing) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB participate) 
+                      (PP-LOC (IN in) 
+                        (NP (DT the) (NNP UAL) (NN financing) ))
+                      (PP-TMP (IN up) 
+                        (PP (TO to) 
+                          (NP (DT the) (JJ very) (NN end) ))))))))
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (MD would) 
+                  (VP (VB suggest) 
+                    (PP (IN at) 
+                      (NP (DT the) (RB very) (JJS least) ))
+                    (SBAR (IN that) 
+                      (S 
+                        (NP-SBJ (PRP they) )
+                        (VP (VBD were) (RB n't) 
+                          (PP-PRD (IN under) 
+                            (NP (NNS orders) 
+                              (S 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (TO to) 
+                                  (VP (VB back) 
+                                    (PRT (RB out) )))))))))))))))))
+    (. .) ))
+( (S-1 
+    (PP (IN In) 
+      (ADJP (JJ general) ))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (NNP Mr.) (NNP Utsumi) )
+        (VP (VBD said) 
+          (S (-NONE- *T*-1) )))
+      (, ,) )
+    (NP-SBJ (JJ Japanese) (NNS banks) )
+    (VP (VBP are) 
+      (VP (VBG becoming) 
+        (ADJP-PRD (RBR more) (`` ``) (JJ independent) ('' '') )
+        (PP (IN in) 
+          (NP 
+            (NP (PRP$ their) (NN approach) )
+            (PP (TO to) 
+              (NP (JJ overseas) (NNS deals) ))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT Each) (JJ Japanese) (NN bank) )
+      (VP (VBZ has) 
+        (NP (PRP$ its) (JJ own) (NN judgment) )
+        (PP (IN on) 
+          (NP 
+            (NP (DT the) (NNS profits) 
+              (CC and)
+              (NNS risks) )
+            (PP-LOC (IN in) 
+              (NP (DT that) 
+                (-LRB- -LCB-)
+                (NNP UAL) 
+                (-RRB- -RCB-)
+                (NN deal) ))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (PRP They) )
+    (VP (VBP are) 
+      (VP (VBG becoming) 
+        (ADJP-PRD (RBR more) (JJ independent) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ 's) 
+      (NP-PRD (DT a) (JJ sound) (NN phenomenon) ))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNP Sanwa) (NNP Bank) (NNP Ltd.) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (CD one) (JJ Japanese) (NN bank) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD decided) 
+              (S (RB not) 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB participate) 
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (JJ first) (NNP UAL) (NN proposal) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NNP Sanwa) (NNP Bank) (NN spokesman) )
+    (VP (VBD denied) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NN finance) (NN ministry) )
+          (VP (VBD played) 
+            (NP 
+              (NP (DT any) (NN part) )
+              (PP (IN in) 
+                (NP 
+                  (NP (DT the) (NN bank) (POS 's) )
+                  (NN decision) )))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP We) )
+      (VP (VBD made) 
+        (NP (PRP$ our) (JJ own) (NN decision) )))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (ADVP (RB Still) )
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Utsumi) )
+    (VP (MD may) 
+      (VP (VB have) 
+        (S 
+          (NP-SBJ (DT a) (JJ hard) (NN time) )
+          (VP (VBG convincing) 
+            (NP 
+              (NP (NN market) (NNS analysts) )
+              (SBAR 
+                (WHNP-1 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBP have) 
+                    (ADVP (RB rightly) (CC or) (RB wrongly) )
+                    (VP (VBN believed) 
+                      (SBAR (IN that) 
+                        (S 
+                          (NP-SBJ (DT the) (NN ministry) )
+                          (VP (VBD played) 
+                            (NP 
+                              (NP (DT a) (NN role) )
+                              (PP-LOC (IN in) 
+                                (S-NOM 
+                                  (NP-SBJ (-NONE- *) )
+                                  (VP (VBG orchestrating) 
+                                    (NP 
+                                      (NP (JJ recent) (NNS moves) )
+                                      (PP (IN by) 
+                                        (NP (JJ Japanese) (NNS banks) )))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-TMP (DT All) (NN week) )
+    (NP-SBJ (EX there) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (JJ much) (NN speculation) )
+          (PP (-NONE- *ICH*-1) ))
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (JJ financial) (NNS circles) )
+            (UCP-LOC 
+              (PP (IN in) 
+                (NP (NNP Tokyo) ))
+              (CC and) 
+              (ADVP (RB abroad) ))))
+        (PP-1 (IN about) 
+          (NP 
+            (NP (DT the) (NN ministry) (POS 's) )
+            (JJ real) (NN position) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Bank) (NNS analysts) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN ministry) (NNS officials) )
+          (VP (VBP have) 
+            (VP (VBN been) 
+              (VP (VBG growing) 
+                (ADJP-PRD (RB increasingly) (JJ concerned) 
+                  (PP (-NONE- *ICH*-1) ))
+                (PP-TMP (IN during) 
+                  (NP (DT the) (JJ past) (JJ few) (NNS months) ))
+                (PP-1 (IN about) 
+                  (S-NOM 
+                    (NP-SBJ (JJ Japanese) (NNS banks) )
+                    (VP (VBG getting) 
+                      (PRT (RP in) )
+                      (PP-CLR (IN over) 
+                        (NP (PRP$ their) (NNS heads) )))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-4 
+      (NP-SBJ (DT The) 
+        (-LRB- -LCB-)
+        (NN ministry) 
+        (-RRB- -RCB-)
+        )
+      (VP (VBZ thinks) 
+        (SBAR 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ (DT the) (NNS banks) )
+              (VP (VBP do) (RB n't) 
+                (VP (VB know) 
+                  (SBAR 
+                    (WHNP-2 (WP what) )
+                    (S 
+                      (NP-SBJ (PRP they) )
+                      (VP (VBP are) 
+                        (VP (VBG doing) 
+                          (NP (-NONE- *T*-2) )))))))))
+          (, ,) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (PRP they) )
+              (VP (VBP have) 
+                (NP 
+                  (NP (RB very) (JJ little) (NN idea) )
+                  (SBAR 
+                    (WHADVP-3 (WRB how) )
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB cope) 
+                          (PP-CLR (IN with) 
+                            (NP (NN risk) ))
+                          (ADVP-MNR (-NONE- *T*-3) )))))))))))
+      (, ,) ('' '') )
+    (VP (VBD said) 
+      (S (-NONE- *T*-4) ))
+    (NP-SBJ 
+      (NP (CD one) (JJ foreign) (NN bank) (NN analyst) )
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ-5 (-NONE- *T*-1) )
+          (VP (VBD asked) 
+            (S 
+              (NP-SBJ-6 (-NONE- *-5) )
+              (RB not) 
+              (VP (TO to) 
+                (VP (VB be) 
+                  (VP (VBN identified) 
+                    (NP (-NONE- *-6) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 (`` ``) 
+      (NP-SBJ-2 (DT The) 
+        (-LRB- -LCB-)
+        (NN ministry) 
+        (-RRB- -RCB-)
+        )
+      (VP (VBZ wants) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB see) 
+              (S 
+                (NP-SBJ (DT the) (JJ Japanese) (NNS banks) )
+                (VP (VB pull) 
+                  (PRT (RP in) )
+                  (NP (PRP$ their) (NNS horns) )
+                  ('' '') 
+                  (PP (IN on) 
+                    (NP (JJ leveraged) (NNS buy-outs) )))))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN Although) 
+      (S 
+        (NP-SBJ 
+          (NP (DT some) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (JJ Japanese) (NNS banks) )
+              (ADJP (JJ involved) 
+                (PP (IN in) 
+                  (NP 
+                    (NP (DT the) (JJ first) (VBN proposed) (NN bid) )
+                    (PP (IN for) 
+                      (NP (NNP UAL) ))))))))
+        (VP (VBD bowed) 
+          (ADVP (RB out) )
+          (SBAR-PRP (IN because) 
+            (S 
+              (NP-SBJ (PRP they) )
+              (VP (VBD found) 
+                (S 
+                  (NP-SBJ (DT the) (NNS terms) )
+                  (ADJP-PRD (JJ unattractive) ))))))))
+    (, ,) 
+    (NP-SBJ (NNS observers) )
+    (NP-LOC (RB here) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP they) )
+          (VP (VBP have) 
+            (NP 
+              (NP (DT a) (JJ hard) (NN time) )
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG believing) 
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ (JJ commercial) (NNS considerations) )
+                      (VP (VBD were) 
+                        (NP-PRD (DT the) (JJ only) (NN reason) )))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (JJ Japanese) (NNS banks) )
+      (VP (VBP are) 
+        (PP-PRD (IN under) (`` ``) 
+          (NP (JJ political) (NN pressure) )
+          ('' '') )
+        (PP (IN as) (RB well) )))
+    (, ,) 
+    (NP-SBJ (DT the) (NN analyst) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (ADVP (RB Moreover) )
+    (, ,) 
+    (NP-SBJ (NNS analysts) )
+    (VP (VBP point) 
+      (PRT (RP out) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-2 (JJ Japanese) (NNS banks) )
+          (VP (VBP have) 
+            (NP 
+              (NP (DT a) (NN reputation) )
+              (PP (IN for) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (VBG doing) 
+                    (NP 
+                      (NP (NNS deals) )
+                      (SBAR 
+                        (WHNP-1 (WDT that) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-1) )
+                          (VP (VBP are) (RB n't) 
+                            (ADJP-PRD (RB extremely) (JJ profitable) )))))))))
+            (SBAR-ADV (IN if) 
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (VBP offer) 
+                  (NP (DT the) (NN chance) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP 
+                          (VP (VB build) 
+                            (NP (NN market) (NN share) ))
+                          (, ,) 
+                          (VP (VB cement) 
+                            (NP (DT an) (JJ important) (NN business) (NN relationship) ))
+                          (CC or) 
+                          (VP (VB curry) 
+                            (NP (NN favor) )
+                            (PP-CLR (IN with) 
+                              (NP (JJ powerful) (NNS bureaucrats) ))))))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Clearly) )
+    (, ,) 
+    (NP-SBJ (DT some) (JJ financial) (NNS authorities) )
+    (VP (VBP are) 
+      (ADJP-PRD (JJ concerned) 
+        (PP (IN about) 
+          (NP 
+            (NP (DT the) (JJ Japanese) (NNS banks) (NN role) )
+            (PP-LOC (IN in) 
+              (NP (JJ leveraged) (NNS buy-outs) ))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN At) 
+      (NP (DT a) (NN news) (NN conference) ))
+    (NP-TMP (DT this) (NN week) )
+    (, ,) 
+    (NP-SBJ 
+      (NAC (NNP Bank) 
+        (PP (IN of) 
+          (NP (NNP Japan) )))
+      (NNP Gov.) (NNP Satoshi) (NNP Sumita) )
+    (VP (VBD cautioned) 
+      (S 
+        (NP-SBJ (NNS banks) )
+        (VP (TO to) 
+          (VP (VB take) 
+            (NP (DT a) (`` ``) (JJ prudent) ('' '') (NN stance) )
+            (PP (VBG regarding) 
+              (NP (RB highly) (JJ leveraged) (NNS deals) ))))))
+    (. .) ))
+( (S-CLF 
+    (PP (IN Despite) 
+      (NP 
+        (NP (NNP Mr.) (NNP Sumita) (POS 's) )
+        (NNS statements) ))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP 
+          (NP (DT the) (NNP Finance) (NNP Ministry) )
+          (, ,) (RB not) 
+          (NP (DT the) (JJ central) (NN bank) )
+          (, ,) ))
+      (SBAR 
+        (WHNP-1 (WDT that) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ makes) 
+            (NP (NN policy) (NNS decisions) )))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (JJ recent) (NNS events) )
+        (VP (MD may) 
+          (VP (VB cool) 
+            (NP 
+              (NP (DT some) )
+              (PP (IN of) 
+                (NP (DT the) (JJ leveraged) (NN buy-out) (NN fever) )))))))
+    (, ,) 
+    (NP-SBJ-1 (JJ Japanese) (NNS banks) )
+    (VP (VBP are) (RB n't) 
+      (ADJP-PRD (JJ likely) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB walk) 
+              (ADVP-CLR (RB away) )
+              (PP-DIR (IN from) 
+                (NP (DT the) (NN game) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (PP (IN Despite) 
+        (NP (DT the) (NNS risks) ))
+      (, ,) 
+      (NP-SBJ (DT the) (NNS deals) )
+      (VP (MD can) 
+        (VP (VB be) 
+          (NP-PRD (DT an) (JJ attractive) (NN way) 
+            (SBAR (IN for) 
+              (S 
+                (NP-SBJ (JJ Japanese) (NNS banks) )
+                (VP (TO to) 
+                  (VP (VB increase) 
+                    (NP (PRP$ their) (NN presence) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (NNP U.S.) (NN market) ))))))))))
+    (, ,) 
+    (NP-SBJ (NN bank) (NNS analysts) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-2) )
+      (UCP-PRD 
+        (ADJP (JJ Flush) 
+          (PP (IN with) 
+            (NP (NN cash) ))
+          (PP-LOC (IN at) 
+            (NP (NN home) )))
+        (, ,) (CC but) 
+        (PP (IN with) 
+          (S-NOM 
+            (NP-SBJ-1 (JJR fewer) (NNS customers) )
+            (VP (TO to) 
+              (VP (VB lend) 
+                (PP-DTV (TO to) 
+                  (NP (-NONE- *-1) ))))))))
+    (, ,) 
+    (NP-SBJ-2 (VBG leading) (NNS banks) )
+    (VP (VBP are) 
+      (ADJP-PRD (JJ eager) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB expand) 
+              (ADVP-LOC (RB overseas) ))))))
+    (. .) ))
+( (S 
+    (S-NOM-SBJ 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBG Jumping) 
+        (ADVP-DIR (RB in) )
+        (PP (IN on) 
+          (NP (JJ big) (NNS deals) ))))
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (RB high) (JJ profile) (NN way) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB leapfrog) 
+                (NP 
+                  (NP (DT the) (NN problem) )
+                  (PP (IN of) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (RB not) (VBG having) 
+                        (NP (DT a) (JJ strong) (JJ retail-banking) (NN network) )))))))))))
+    (. .) ))

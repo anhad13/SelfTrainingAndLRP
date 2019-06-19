@@ -1,0 +1,76 @@
+
+( (S 
+    (NP-SBJ (NNP Cetus) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN government) )
+            (PP (IN of) 
+              (NP (NNP Spain) )))
+          (VP (VBD approved) 
+            (NP 
+              (NP (DT the) (NN marketing) )
+              (PP (IN of) 
+                (NP 
+                  (NP (PRP$ its) (NNP Proleukin) (NN interleukin-2) (NN drug) )
+                  (SBAR 
+                    (WHNP-1 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (TO to) 
+                        (VP (VB treat) 
+                          (NP (NN kidney) (NN cancer) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN biotechnology) (NN concern) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (JJ Spanish) (NNS authorities) )
+            (VP (MD must) 
+              (ADVP (RB still) )
+              (VP (VB clear) 
+                (NP 
+                  (NP (DT the) (NN price) )
+                  (PP (IN for) 
+                    (NP (DT the) (NN treatment) )))))))
+        (, ,) (CC but) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (PRP it) )
+            (VP (VBZ expects) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB receive) 
+                    (NP (JJ such) (NN approval) )
+                    (PP-TMP (IN by) 
+                      (NP (NN year) (NN end) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (CD Four) (JJ other) (NNS countries) )
+      (PP-LOC (IN in) 
+        (NP (NNP Europe) )))
+    (VP (VBP have) 
+      (VP (VBN approved) 
+        (NP (NNP Proleukin) )
+        (PP-TMP (IN in) 
+          (NP (JJ recent) (NNS months) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Cetus) )
+    (VP (VBZ is) 
+      (ADVP-TMP (RB currently) )
+      (VP (VBG trying) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB obtain) 
+              (NP 
+                (NP (JJ federal) (JJ regulatory) (NN clearance) )
+                (PP (IN for) 
+                  (NP (NNP U.S.) (NN distribution) ))))))))
+    (. .) ))

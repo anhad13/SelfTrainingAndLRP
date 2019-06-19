@@ -1,0 +1,99 @@
+
+( (S 
+    (NP-SBJ (NNP Deere) (CC &) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reached) 
+            (NP 
+              (NP (DT a) (JJ tentative) (NN agreement) )
+              (PP (IN with) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NNS machinists) (POS ') )
+                    (NN union) )
+                  (PP-LOC (IN at) 
+                    (NP (PRP$ its) 
+                      (NAC-LOC (NNP Horicon) 
+                        (, ,)
+                        (NNP Wis.) 
+                        (, ,)
+                        )
+                      (NN plant) )))))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG ending) 
+                (NP 
+                  (NP (DT a) (JJ month-old) (NN strike) )
+                  (PP (IN by) 
+                    (NP 
+                      (NP (NNS workers) )
+                      (PP-LOC (-NONE- *PPA*-1) )))
+                  (PP-LOC-1 (IN at) 
+                    (NP (DT the) (NN facility) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN maker) )
+      (PP (IN of) 
+        (NP (NN farm) (NN equipment) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (JJ three-year) (NN labor) (NN agreement) )
+            (PP (IN with) 
+              (NP 
+                (NP (DT the) (NNP International) (NNP Association) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Machinists) )
+                    (CC and) 
+                    (NP (NNP Aerospace) (NNP Workers) )))
+                (PP-LOC (IN at) 
+                  (NP 
+                    (NP (NNP John) (NNP Deere) (NNP Horicon) (NNP Works) )
+                    (, ,) 
+                    (NP 
+                      (NP 
+                        (NP (NNP Deere) (POS 's) )
+                        (JJ primary) (NN facility) )
+                      (PP (IN for) 
+                        (S-NOM 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (VBG producing) 
+                            (NP 
+                              (ADJP (NN lawn) 
+                                (CC and)
+                                (JJ grounds-care) )
+                              (NN equipment) )))))
+                    (, ,) )))))
+          (VP 
+            (VP (VBZ takes) 
+              (NP-CLR (NN effect) )
+              (ADVP-TMP (RB immediately) ))
+            (CC and) 
+            (VP (VBZ extends) 
+              (PP-TMP-CLR (IN through) 
+                (NP (NNP Oct.) (CD 1) 
+                  (, ,)
+                  (CD 1992) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (QP (RB About) (CD 1,150) )
+        (NNS employees) )
+      (VP (VBP are) 
+        (VP (VBN covered) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS (DT the) (JJ new) (NN agreement) )))))
+    (, ,) 
+    (NP-SBJ (NNP Deere) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))

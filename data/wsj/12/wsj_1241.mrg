@@ -1,0 +1,146 @@
+
+( (S 
+    (S-TPC-1 
+      (PP (IN With) 
+        (NP 
+          (NP (VBN reduced) (NNS exports) )
+          (CC and) 
+          (NP (VBG rising) (NNS imports) )))
+      (, ,) 
+      (NP-SBJ 
+        (NP 
+          (NP (NNP South) (NNP Korea) (POS 's) )
+          (NN trade) (NNS surpluses) )
+        (PP (IN with) 
+          (NP 
+            (NP (DT the) (NNP U.S.) )
+            (CC and) 
+            (NP (NNP Europe) )))
+        (PP-TMP (IN between) 
+          (NP (NNP January) 
+            (CC and)
+            (NNP September) )))
+      (VP (VBD fell) 
+        (ADVP-MNR (RB sharply) )
+        (PP-DIR (IN from) 
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (IN ago) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Customs) (NNP Administration) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP 
+              (NP (NNP South) (NNP Korea) (POS 's) )
+              (NN trade) (NN surplus) )
+            (PP (IN with) 
+              (NP (DT the) (NNP U.S.) ))
+            (PP-TMP (IN for) 
+              (NP 
+                (NP (DT the) (JJ first) (CD nine) (NNS months) )
+                (PP (IN of) 
+                  (NP (DT the) (NN year) )))))
+          (VP (VBD totaled) 
+            (NP 
+              (QP ($ $) (CD 3.49) (CD billion) )
+              (-NONE- *U*) )
+            (, ,) 
+            (ADVP (IN down) 
+              (NP (CD 43) (NN %) )
+              (PP-DIR (IN from) 
+                (NP 
+                  (NP (DT the) (JJ same) (NN period) )
+                  (NP-TMP (JJ last) (NN year) )))
+              (PP (IN on) 
+                (NP (DT a) (NN customs-clearance) (NN basis) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP South) (NNP Korean) (NNS exports) )
+      (PP (TO to) 
+        (NP (DT the) (NNP U.S.) ))
+      (PP-TMP (IN during) 
+        (NP (DT the) (NN period) )))
+    (VP (VBD fell) 
+      (NP-EXT (CD 1.6) (NN %) )
+      (PP-DIR (IN from) 
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (IN ago) ))
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 15.06) (CD billion) )
+          (-NONE- *U*) ))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS imports) )
+            (PP (IN from) 
+              (NP (DT the) (NNP U.S.) )))
+          (VP (VBD soared) 
+            (NP-EXT (CD 26) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (QP ($ $) (CD 11.56) (CD billion) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN trade) (NN surplus) )
+      (PP (IN with) 
+        (NP (NNP Europe) )))
+    (VP (VBD was) 
+      (VP (VBN pegged) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN at) 
+          (NP 
+            (QP ($ $) (CD 414) (CD million) )
+            (-NONE- *U*) ))
+        (, ,) 
+        (ADVP (IN down) 
+          (NP (CD 57) (NN %) )
+          (PP-DIR (IN from) 
+            (NP-TMP 
+              (NP (DT a) (NN year) )
+              (IN ago) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP 
+              (ADJP (JJ South) (JJ Korean) )
+              (NNS exports) )
+            (PP (TO to) 
+              (NP (NNP Europe) )))
+          (VP (VBD dropped) 
+            (NP-EXT (CD 5.3) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (QP ($ $) (CD 3.02) (CD billion) )
+                (-NONE- *U*) )))))
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS imports) )
+            (PP (IN from) 
+              (NP-LOC (RB there) )))
+          (VP (VBD went) 
+            (ADVP (IN up) 
+              (NP (CD 17) (NN %) )
+              (PP-DIR (TO to) 
+                (NP 
+                  (QP ($ $) (CD 2.61) (CD billion) )
+                  (-NONE- *U*) )))))))
+    (. .) ))

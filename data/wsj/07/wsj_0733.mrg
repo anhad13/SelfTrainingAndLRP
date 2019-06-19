@@ -1,0 +1,74 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Isaac) (NNP Hersly) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 41) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN president) )
+              (CC and) 
+              (NP (JJ chief) (VBG operating) (NN officer) ))
+            (PP (IN of) 
+              (NP 
+                (NP (DT this) (NN designer) 
+                  (CC and)
+                  (NN marketer) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNS graphics) )
+                    (, ,) 
+                    (NP (NN video) )
+                    (, ,) 
+                    (NP (NN cable) )
+                    (CC and) 
+                    (NP (JJ other) (JJ television-related) (NN equipment) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP Alfred) (NNP O.P.) (NNP Leubert) )
+        (, ,) 
+        (NP (CD 66) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ continues) 
+              (PP-CLR (IN as) 
+                (NP 
+                  (NP (NN chairman) )
+                  (CC and) 
+                  (NP (JJ chief) (NN executive) (NN officer) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Hersly) )
+    (ADVP-TMP (RB formerly) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP 
+          (NP (NN group) (NN vice) (NN president) )
+          (PP (IN of) 
+            (NP 
+              (NP (NN marketing) )
+              (CC and) 
+              (NP (NN product) (NN planning) )))
+          (PP (IN for) 
+            (NP (NNP Chyron) )))
+        (CC and) 
+        (NP 
+          (NP (NN president) )
+          (PP (IN of) 
+            (NP (DT the) (NNS telesystems) 
+              (CC and)
+              (NN video) (NNS products) (NN division) )))))
+    (. .) ))

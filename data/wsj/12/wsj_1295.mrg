@@ -1,0 +1,483 @@
+
+( (S 
+    (NP-SBJ (NNP Union) (NNP Carbide) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ third-quarter) (NN net) (NN income) )
+          (VP (VBD plunged) 
+            (NP-EXT (CD 35) (NN %) )
+            (PP-TMP (IN from) 
+              (NP (DT a) (NN year) (RBR earlier) ))
+            (PP (IN on) 
+              (NP 
+                (NP (NN weakness) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (DT the) (NN company) (POS 's) )
+                    (NN mainstay) (NNS chemicals) 
+                    (CC and)
+                    (NNS plastics) (NN business) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Net) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP 
+          (QP ($ $) (CD 139) (CD million) )
+          (-NONE- *U*) )
+        (, ,) (CC or) 
+        (NP 
+          (NP (CD 98) (NNS cents) )
+          (NP-ADV (DT a) (NN share) ))
+        (, ,) )
+      (PP-TMP (IN for) 
+        (NP (DT the) (NN quarter) ))
+      (, ,) 
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 213) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP ($ $) (CD 1.56) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) )
+              (, ,) )
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (IN ago) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBD were) 
+      (NP-PRD 
+        (QP ($ $) (CD 2.14) (CD billion) )
+        (-NONE- *U*) )
+      (, ,) 
+      (ADVP (IN up) 
+        (NP (CD 1.6) (NN %) )
+        (PP (IN from) 
+          (NP 
+            (QP ($ $) (CD 2.11) (CD billion) )
+            (-NONE- *U*) )
+          (NP-TMP (DT the) (JJ previous) (NN year) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Carbide) )
+    (, ,) 
+    (PP (IN like) 
+      (NP 
+        (NP (JJ other) (NNS companies) )
+        (PP (IN with) 
+          (NP 
+            (NP (DT a) (JJ heavy) (NN reliance) )
+            (PP (IN on) 
+              (NP 
+                (NP (DT the) (JJ so-called) (NN commodity) (NN end) )
+                (PP (IN of) 
+                  (NP (DT the) (NNS chemicals) (NN industry) ))))))))
+    (, ,) 
+    (VP (VBD was) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB post) 
+              (NP 
+                (NP (NNS earnings) )
+                (ADJP 
+                  (ADJP (RB sharply) (JJR lower) )
+                  (PP (IN than) 
+                    (PP-TMP (IN in) 
+                      (NP (DT an) 
+                        (ADJP (RB exceptionally) (JJ strong) )
+                        (CD 1988) (JJ third) (NN quarter) ))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT the) (NN company) (POS 's) )
+      (JJS latest) (NN quarter) )
+    (VP (VBD was) 
+      (ADJP-PRD 
+        (ADJP 
+          (NP-ADV 
+            (NP (DT a) (JJ few) (NNS pennies) )
+            (NP-SBJ (DT a) (NN share) ))
+          (JJR lower) )
+        (PP (IN than) 
+          (NP 
+            (NP (DT the) 
+              (ADJP (RBR more) (JJ pessimistic) )
+              (NNS projections) )
+            (PP-LOC (IN on) 
+              (NP (NNP Wall) (NNP Street) ))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (PRP It) )
+        (ADVP (RB certainly) )
+        (VP (VBD was) (RB n't) 
+          (NP-PRD (DT a) (NN disaster) )))
+      (, ,) (CC but) 
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP (VBZ does) 
+          (VP (VB show) 
+            (NP 
+              (NP (NN weakness) )
+              ('' '') 
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (DT some) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (NN company) (POS 's) )
+                      (NN chief) (NNS markets) )))))))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (NNP George) (NNP Krug) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN chemicals-industry) (NN analyst) )
+        (PP-LOC (IN at) 
+          (NP (NNP Oppenheimer) (CC &) (NNP Co) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (NNP Carbide) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 24.50) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (ADVP (IN down) 
+        (NP (CD 50) (NNS cents) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 
+        (NP (NNS Prices) )
+        (PP (IN for) 
+          (NP 
+            (NP (NN polyethylene) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (JJ common) (NN plastic) )
+              (CC and) 
+              (NP (DT an) (JJ important) (NNP Carbide) (NN product) ))
+            (, ,) )))
+      (VP (VBD started) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB fall) 
+              (ADVP-TMP (RB early) 
+                (NP (DT this) (NN year) )))))))
+    (: ;) 
+    (S 
+      (NP-SBJ (DT the) (NN slide) )
+      (VP (VBD accelerated) 
+        (PP-TMP (IN in) 
+          (NP (DT the) (JJ third) (NN quarter) ))
+        (SBAR-ADV (IN as) 
+          (S 
+            (NP-SBJ-2 (NNS buyers) )
+            (VP (VBD continued) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB trim) 
+                    (NP (NNS inventories) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Prices) )
+      (PP (-NONE- *ICH*-1) ))
+    (ADVP (RB also) )
+    (VP (VBD fell) 
+      (PP-1 (IN for) 
+        (NP 
+          (NP 
+            (NP (NN ethylene) (NN oxide) )
+            (CC and) 
+            (NP (NNS glycols) ))
+          (, ,) 
+          (NP 
+            (NP (NNS products) )
+            (VP (VBN used) 
+              (NP (-NONE- *) )
+              (PP-CLR (IN in) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG making) 
+                    (NP (NN antifreeze) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT Some) (NNS producers) )
+      (PP (IN of) 
+        (NP (NN polyethylene) )))
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG figuring) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) (NN inventory) (NNS reductions) )
+            (VP (VBP are) 
+              (PP-LOC-PRD (IN near) 
+                (NP (DT an) (NN end) )))))))
+    (, ,) 
+    (VP (VBP have) 
+      (VP (VBN announced) 
+        (NP (NN price) (NNS boosts) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ first) (JJ real) (NN test) )
+      (PP (IN of) 
+        (SBAR (IN whether) 
+          (S 
+            (NP-SBJ (NNS prices) )
+            (VP (VBP have) 
+              (VP (VBN hit) 
+                (NP (NN bottom) )))))))
+    (VP (MD may) 
+      (VP (VB come) 
+        (PP-TMP (IN in) 
+          (NP 
+            (NP (DT the) (JJ next) (JJ several) (NNS weeks) )
+            (, ,) 
+            (SBAR 
+              (WHADVP-1 (WRB when) )
+              (S 
+                (NP-SBJ (DT the) (JJ new) (NNS prices) )
+                (VP (VBP become) 
+                  (ADJP-PRD (JJ effective) )
+                  (ADVP-TMP (-NONE- *T*-1) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NNP Carbide) (NN spokesman) )
+    (VP (VBD said) (`` ``) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS conditions) )
+          (VP (VBP are) 
+            (ADJP-PRD (JJ right) )
+            (SBAR-ADV (IN for) 
+              (S 
+                (NP-SBJ (DT the) (NN increase) )
+                (VP (TO to) 
+                  (VP (VB hold) ))))))))
+    (. .) ('' '') ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (DT the) (JJ third) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NN operating) (NN profit) )
+      (PP (IN from) 
+        (NP 
+          (NP (NNP Carbide) (POS 's) )
+          (NNS chemicals) 
+          (CC and)
+          (NNS plastics) (NN business) )))
+    (VP (VBD fell) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 238) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 352) (CD million) )
+          (-NONE- *U*) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (IN ago) ))
+      (, ,) 
+      (PP-TMP (IN before) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG accounting) 
+            (PP-CLR (IN for) 
+              (NP 
+                (NP (NNS taxes) )
+                (CC and) 
+                (NP (NN interest) (NN expense) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Operating) (NN profit) )
+      (PP (IN from) 
+        (NP 
+          (NP (NN carbon) (NNS products) )
+          (, ,) 
+          (PP (JJ such) (IN as) 
+            (NP (NN graphite) (NNS electrodes) ))
+          (, ,) )))
+    (VP 
+      (ADVP (RB also) )
+      (VBD declined) 
+      (, ,)
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 6) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 20) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT the) (JJ industrial-gases) (NN segment) ))
+    (, ,) 
+    (NP-SBJ (NN operating) (NN profit) )
+    (VP (VBD climbed) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 87) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 58) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJS latest) (NN quarter) )
+    (VP (VBD included) 
+      (NP 
+        (NP (DT a) (NN gain) )
+        (PP (IN of) 
+          (NP 
+            (QP (IN about) ($ $) (CD 62) (CD million) )
+            (-NONE- *U*) ))
+        (PP (IN on) 
+          (NP 
+            (NP (DT the) (NN sale) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN company) (POS 's) )
+                (NN urethane) (NNS polyols) 
+                (CC and)
+                (NN propylene) (NNS glycols) (NNS businesses) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (NN Propylene) (NNS glycols) )
+      (VP (VBP are) 
+        (VP (VBN used) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN in) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG making) 
+                (NP 
+                  (NP (JJ personal-care) (NNS products) )
+                  (PP (JJ such) (IN as) 
+                    (NP (NN shampoo) )))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-2 (NN urethane) (NNS polyols) )
+      (VP (VBP are) 
+        (VP (VBN used) 
+          (NP (-NONE- *-2) )
+          (PP-CLR (IN in) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG making) 
+                (NP 
+                  (NP (DT the) (NN polyurethane) (NN foam) )
+                  (VP (VBN found) 
+                    (NP (-NONE- *) )
+                    (PP-LOC (IN in) 
+                      (NP 
+                        (NP (NN furniture) (NN cushioning) )
+                        (CC and) 
+                        (NP (JJ other) (NNS products) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT That) (NN gain) )
+    (VP (VBD was) 
+      (VP 
+        (ADVP (RB mostly) )
+        (VBN offset) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT a) (NN loss) )
+            (PP (IN of) 
+              (NP 
+                (QP (IN about) ($ $) (CD 55) (CD million) )
+                (-NONE- *U*) ))
+            (PP (IN from) 
+              (NP 
+                (NP (DT a) (NN write-down) )
+                (PP-LOC (IN in) 
+                  (NP (PRP$ its) (NN polysilicon) (NN business) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NN Polysilicon) )
+    (VP (VBZ is) 
+      (VP (VBN used) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN in) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG making) 
+              (NP (VBN integrated) (NNS circuits) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (NN net) )
+    (VP (VBD totaled) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 526) (CD million) )
+          (-NONE- *U*) )
+        (, ,) (CC or) 
+        (NP 
+          (NP ($ $) (CD 3.74) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) ))
+        (, ,) )
+      (ADVP (IN up) 
+        (NP (CD 5) (NN %) )
+        (PP (IN from) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 501) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP ($ $) (CD 3.71) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) )))
+          (, ,) 
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (IN ago) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 7.7) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 6.66) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 6.19) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))

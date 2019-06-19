@@ -1,0 +1,169 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP MiniScribe) (NNP Corp.) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Longmont) )
+        (, ,) 
+        (NP (NNP Colo.) )
+        (, ,) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD introduced) 
+            (NP 
+              (NP (DT a) 
+                (ADJP (JJ one-inch) (JJ high) )
+                (, ,) (JJ 80-megabyte) (JJ hard) (NN disk) (NN drive) )
+              (SBAR 
+                (WHNP-1 (IN that) )
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBZ hopes) 
+                    (SBAR (-NONE- 0) 
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (MD will) 
+                          (VP (VB prove) 
+                            (ADJP-PRD (JJ popular) 
+                              (PP (IN with) 
+                                (NP 
+                                  (NP (NNS makers) )
+                                  (PP (IN of) 
+                                    (NP (JJ high-performance) 
+                                      (ADJP (JJ laptop) 
+                                        (CC and)
+                                        (JJ portable) )
+                                      (NNS computers) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ troubled) (NN disk) (NN drive) (NN maker) )
+    (VP (VBZ aims) 
+      (PP-MNR (IN with) 
+        (NP (DT the) (JJ new) 
+          (ADJP (CD 3) (JJ 1\/2-inch) )
+          (NNS disks) ))
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB revive) 
+            (NP (PRP$ its) (NN reputation) 
+              (CC and)
+              (NNS sales) (NN growth) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP MiniScribe) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN disk) (NNS drives) )
+          (VP (VBP have) 
+            (NP 
+              (NP (JJR more) (NN memory) (NN capacity) )
+              (PP (IN than) 
+                (NP 
+                  (NP (JJ other) (NNS disks) )
+                  (NP (DT that) (NN size) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP MiniScribe) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB begin) 
+                  (NP 
+                    (NP (JJ full) (NN volume) (NN production) )
+                    (PP (IN of) 
+                      (NP (DT the) (NNS drives) )))
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (DT the) (NNP U.S.) )
+                      (CC and) 
+                      (NP (NNP Singapore) )))
+                  (PP-TMP (IN in) 
+                    (NP 
+                      (NP (DT the) (JJ first) (NN quarter) )
+                      (NP-TMP (JJ next) (NN year) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT A) (NN drive) )
+      (PP (IN with) 
+        (NP 
+          (NP (CD 120) (NNS megabytes) )
+          (PP (IN of) 
+            (NP (NN capacity) )))))
+    (VP (VBZ is) 
+      (VP (VBN scheduled) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (NN release) )
+            (PP-TMP (IN during) 
+              (NP 
+                (NP (DT the) (JJ third) (NN quarter) )
+                (PP (IN of) 
+                  (NP (CD 1990) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP MiniScribe) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (PP-PRD (IN on) 
+          (NP (DT the) (NNS rocks) ))
+        (SBAR-TMP (IN since) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD disclosed) 
+              (NP-TMP (RB early) (DT this) (NN year) )
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ 
+                    (NP (PRP$ its) (NNS earnings) (NNS reports) )
+                    (PP (IN for) 
+                      (NP (CD 1988) )))
+                  (VP (VBD were) (RB n't) 
+                    (ADJP-PRD (JJ accurate) )))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN After) 
+      (NP (DT an) (JJ internal) (NN investigation) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD found) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (JJ senior) (NNS officials) )
+          (VP (VBD used) 
+            (NP 
+              (NP (DT a) (NN variety) )
+              (PP (IN of) 
+                (NP (NNS schemes) ))
+              (PP (-NONE- *ICH*-2) ))
+            (S-CLR 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB fabricate) 
+                  (NP (JJ sales) (NNS gains) ))))
+            (, ,) 
+            (PP-2 (VBG including) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (NN counting) 
+                  (NP 
+                    (NP (NNS shipments) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNS bricks) )
+                        (CC and) 
+                        (NP (JJ defective) (NNS drives) ))))
+                  (PP-CLR (IN as) 
+                    (NP (NNS sales) )))))))))
+    (. .) ))

@@ -1,0 +1,66 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Christopher) (NNP Whittington) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (JJ 51-year-old) (NN deputy) (NN chairman) )
+          (PP (IN of) 
+            (NP (DT this) (JJ British) (NN investment-banking) (NN group) )))
+        (CC and) 
+        (NP 
+          (NP (NN chairman) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Morgan) (NNP Grenfell) (CC &) (NNP Co.) )
+              (, ,) 
+              (NP 
+                (NP (DT the) (NN group) (POS 's) )
+                (JJ main) (NN banking) (NN unit) )))))
+      (, ,) )
+    (VP (VBZ has) 
+      (VP (VBN retired) 
+        (PP-CLR (IN from) 
+          (NP (PRP$ his) (NN executive) (NNS duties) ))))
+    (. .) ))
+( (SINV 
+    (VP-TPC-1 (VBG Succeeding) 
+      (NP (NNP Mr.) (NNP Whittington) )
+      (PP-CLR (IN as) 
+        (NP 
+          (NP (NN deputy) (NN chairman) )
+          (PP (IN of) 
+            (NP (DT the) (NN group) )))))
+    (VP (VBZ is) 
+      (VP (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Anthony) (NNP Richmond-Watson) )
+      (, ,) 
+      (NP (CD 43) )
+      (, ,) 
+      (NP (RB currently) (DT a) (JJ main) (NN board) (NN member) ))
+    (. .) ))
+( (SINV 
+    (VP-TPC-1 (VBG Succeeding) 
+      (NP (NNP Mr.) (NNP Whittington) )
+      (PP-LOC (IN at) 
+        (NP (NNP Morgan) (NNP Grenfell) (CC &) (NNP Co.) )))
+    (VP (VBZ is) 
+      (VP (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Richard) (NNP Webb) )
+      (, ,) 
+      (NP (CD 50) )
+      (, ,) 
+      (NP (RB currently) (NN deputy) (NN chairman) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Whittington) )
+    (VP (MD will) 
+      (VP (VB remain) 
+        (PP-PRD-LOC (IN on) 
+          (NP (DT the) (JJ main) (NN group) (NN board) ))
+        (PP (IN as) 
+          (NP (DT a) (JJ nonexecutive) (NN director) ))))
+    (. .) ))

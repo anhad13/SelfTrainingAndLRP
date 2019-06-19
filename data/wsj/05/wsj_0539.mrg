@@ -1,0 +1,84 @@
+
+( (S 
+    (NP-SBJ (NNP Pacific) (NNP First) (NNP Financial) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD signed) 
+            (NP 
+              (NP (DT a) (JJ non-binding) (NN letter) )
+              (PP (IN of) 
+                (NP (NN intent) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB acquire) 
+                        (NP 
+                          (NP (DT the) (NN construction) (NN lending) (NN unit) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (NNP Old) (NNP Stone) (NNP Bank) )
+                              (PP (IN of) 
+                                (NP (NNP California) )))))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (S 
+        (NP-SBJ-1 (NNS Terms) )
+        (VP (VBP have) (RB n't) 
+          (VP (VBN been) 
+            (VP (VBN finalized) 
+              (NP (-NONE- *-1) )))))
+      (, ,) (CC but) 
+      (S 
+        (NP-SBJ-2 (DT the) (NN transaction) )
+        (VP (VBZ is) 
+          (VP (VBN expected) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB close) 
+                  (PP-TMP (IN by) 
+                    (NP (NN year) (NN end) )))))))))
+    (, ,) 
+    (NP-SBJ (NNP Pacific) (NNP First) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Old) (NNP Stone) (POS 's) )
+      (NN construction) (NN lending) (NN portfolio) )
+    (VP (VBZ includes) 
+      (NP 
+        (NP 
+          (QP (IN about) ($ $) (CD 250) (CD million) )
+          (-NONE- *U*) )
+        (PP (IN in) 
+          (NP (NN real-estate) (NNS loans) ))
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN unit) )
+      (VP (VBZ has) 
+        (NP 
+          (NP (CD 30) (NNS employees) )
+          (PP-LOC (IN in) 
+            (NP (CD four) (NNP California) (NNS offices) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Pacific) (NNP First) )
+    (VP (VBZ owns) 
+      (NP 
+        (NP (NNP Pacific) (NNP First) (NNP Federal) (NNP Savings) (NNPS Banks) )
+        (CC and) 
+        (NP (JJ other) (JJ financial) (NNS services) (NNS firms) )))
+    (. .) ))

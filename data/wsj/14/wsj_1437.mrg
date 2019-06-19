@@ -1,0 +1,89 @@
+
+( (S 
+    (NP-SBJ (NNP ATHLONE) (NNPS INDUSTRIES) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (PP-TMP (IN on) 
+            (NP (NNP Dec.) (CD 21) ))
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB redeem) 
+              (NP 
+                (NP 
+                  (ADJP 
+                    (QP ($ $) (CD 10) (CD million) )
+                    (-NONE- *U*) )
+                  (NN face) (NN amount) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (PRP$ its) 
+                      (QP ($ $) (CD 59.3) (CD million) )
+                      (-NONE- *U*) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP 
+                          (NP 
+                            (ADJP (CD 15.625) (NN %) )
+                            (JJ subordinated) (NNS notes) )
+                          (ADJP (JJ outstanding) ))
+                        (, ,) 
+                        (ADJP (JJ due) 
+                          (NP-TMP (NNP June) (CD 1) 
+                            (, ,)
+                            (CD 1991) ))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP 
+        (NP (DT each) ($ $) (CD 1,000) (-NONE- *U*) )
+        (PP (IN of) 
+          (NP (NNS notes) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN maker) )
+      (PP (IN of) 
+        (NP 
+          (NP (NN specialty) (NNS metals) )
+          (, ,) 
+          (NP (JJ industrial) (NNS fasteners) )
+          (CC and) 
+          (NP (NN consumer) (NNS products) ))))
+    (VP (MD will) 
+      (VP (VB pay) 
+        (NP 
+          (NP ($ $) (CD 1,026.46) (-NONE- *U*) )
+          (PP (CC plus) 
+            (NP 
+              (NP ($ $) (CD 8.68) (-NONE- *U*) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN interest) )
+                  (VP (VBN accrued) 
+                    (NP (-NONE- *) )
+                    (PP-TMP (IN from) 
+                      (NP (NNP Dec.) (CD 1) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (MD will) 
+      (VP (VB notify) 
+        (NP 
+          (NP (NNS holders) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NNS notes) )
+              (SBAR 
+                (WHNP-2 (-NONE- 0) )
+                (S 
+                  (NP-SBJ-1 (-NONE- *T*-2) )
+                  (VP (TO to) 
+                    (VP (VB be) 
+                      (VP (VBN redeemed) 
+                        (NP (-NONE- *-1) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNPS Manufacturers) (NNP Hanover) (NNP Trust) (NNP Co.) )
+    (VP (VBZ is) 
+      (NP-PRD (NN redemption) (NN agent) ))
+    (. .) ))

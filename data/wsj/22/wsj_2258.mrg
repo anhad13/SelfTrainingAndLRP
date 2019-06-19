@@ -1,0 +1,182 @@
+
+( (S 
+    (NP-SBJ (NNP Intel) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reached) 
+            (NP 
+              (NP (DT an) (NN agreement) 
+                (S (-NONE- *ICH*-1) ))
+              (PP (IN with) 
+                (NP (NNP Alliant) (NNP Computer) (NNP Systems) (NNP Corp.) ))
+              (S-1 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB develop) 
+                    (NP (NN software) (NNS standards) )
+                    (PP (IN for) 
+                      (NP 
+                        (NP (NNP Intel) (POS 's) )
+                        (NN i860) (NN microprocessor) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN i860) )
+      (, ,) 
+      (VP (VBN introduced) 
+        (NP (-NONE- *) )
+        (NP-TMP (RBR earlier) (DT this) (NN year) ))
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP 
+          (NP (NNP Intel) (POS 's) )
+          (NN entry) )
+        (PP (IN in) 
+          (NP 
+            (NP (DT the) (VBN crowded) (NN market) )
+            (PP (IN for) 
+              (NP (VBN reduced) (NN instruction) (NN set) (VBG computing) 
+                (PRN 
+                  (, ,)
+                  (CC or) 
+                  (NP (NNP RISC) )
+                  (, ,) )
+                (NNS computers) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Intel) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Santa) (NNP Clara) )
+            (, ,) 
+            (NP (NNP Calif.) ))))
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN market) (NN leader) )
+        (PP (IN for) 
+          (NP 
+            (NP (JJ traditional) (NNS microprocessors) )
+            (PP (IN with) 
+              (NP 
+                (NP (PRP$ its) (CD 8086) (NN family) )
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBZ forms) 
+                      (NP 
+                        (NP (DT the) (NN heart) )
+                        (PP (IN of) 
+                          (NP (JJ IBM-compatible) (JJ personal) (NNS computers) ))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NN agreement) ))
+    (, ,) 
+    (NP-SBJ-1 (NNP Intel) )
+    (VP (MD will) 
+      (VP (VB invest) 
+        (NP 
+          (QP ($ $) (CD 3) (CD million) )
+          (-NONE- *U*) )
+        (S-PRP 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB acquire) 
+              (NP 
+                (NP (DT a) 
+                  (ADJP (CD 4) (NN %) )
+                  (NN stake) )
+                (PP (IN in) 
+                  (NP 
+                    (NP (NNP Alliant) )
+                    (, ,) 
+                    (NP 
+                      (NP (DT a) (NN maker) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNS minisupercomputers) )
+                          (PP (IN for) 
+                            (NP (NNS scientists) 
+                              (CC and)
+                              (NNS engineers) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Alliant) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Littleton) )
+            (, ,) 
+            (NP (NNP Mass.) ))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB license) 
+        (NP (PRP$ its) (JJ parallel-computing) (NNS technologies) )
+        (PP-CLR (TO to) 
+          (NP (NNP Intel) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG providing) 
+            (NP (NNS users) )
+            (NP 
+              (NP (DT a) (NN way) )
+              (SBAR 
+                (WHADVP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB let) 
+                      (S 
+                        (NP-SBJ 
+                          (NP (JJ many) (NN i860) (NNS microprocessors) )
+                          (PP-LOC (IN in) 
+                            (NP (DT a) (JJ single) (NN computer) )))
+                        (VP (VB work) 
+                          (PP-CLR (IN on) 
+                            (NP (DT a) (NN problem) ))
+                          (ADVP-TMP (RB simultaneously) )))
+                      (ADVP-MNR (-NONE- *T*-1) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Alliant) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB use) 
+                  (NP (DT the) (NN microprocessor) )
+                  (PP-LOC (IN in) 
+                    (NP (JJ future) (NNS products) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP It) )
+    (VP (VBD declined) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB discuss) 
+            (NP 
+              (NP (PRP$ its) (NNS plans) )
+              (PP (IN for) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG upgrading) 
+                    (NP (PRP$ its) (JJ current) (NN product) (NN line) )))))))))
+    (. .) ))

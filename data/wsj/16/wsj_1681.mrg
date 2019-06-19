@@ -1,0 +1,36 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP SANTA) (NNP FE) (NNP PACIFIC) (NNP PIPELINE) (NNP PARTNERS) (NNP Limited) (NNP Partnership) )
+      (, ,) 
+      (PP (IN of) 
+        (NP (NNP Los) (NNP Angeles) ))
+      (, ,) )
+    (VP (VBD increased) 
+      (NP-1 (PRP$ its) (JJ quarterly) (NN cash) (NN dividend) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (CD 60) (NNS cents) )
+          (NP-ADV (DT a) (NN unit) )))
+      (PP-DIR (IN from) 
+        (NP (CD 55) (NNS cents) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (ADJP-PRD (JJ payable) 
+          (NP-TMP (NNP Nov.) (CD 14) )
+          (PP (TO to) 
+            (NP 
+              (NP (NNS units) )
+              (PP (IN of) 
+                (NP (NN record) ))
+              (NP-TMP (NNP Oct.) (CD 31) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT an) (JJ independent) (JJ refined-petroleum-products) (NN pipeline) )
+        (VP (VBG serving) 
+          (NP (CD six) (JJ Western) (NNS states) ))))
+    (. .) ))

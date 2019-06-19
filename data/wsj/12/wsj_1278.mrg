@@ -1,0 +1,74 @@
+
+( (S 
+    (NP-SBJ (NNP Manville) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB build) 
+              (NP 
+                (NP (DT a) 
+                  (ADJP 
+                    (QP ($ $) (CD 24) (CD million) )
+                    (-NONE- *U*) )
+                  (NN power) (NN plant) )
+                (SBAR-PRP 
+                  (WHNP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (TO to) 
+                      (VP (VB provide) 
+                        (NP (NN electricity) )
+                        (PP-CLR (TO to) 
+                          (NP 
+                            (NP (PRP$ its) (NNP Igaras) (NN pulp) 
+                              (CC and)
+                              (NN paper) (NN mill) )
+                            (PP-LOC (IN in) 
+                              (NP (NNP Brazil) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN plant) )
+          (VP 
+            (VP (MD will) 
+              (VP (VB ensure) 
+                (SBAR (IN that) 
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBZ has) 
+                      (NP 
+                        (NP (JJ adequate) (NN energy) )
+                        (PP (IN for) 
+                          (NP (DT the) (NN mill) ))))))))
+            (CC and) 
+            (VP (MD will) 
+              (VP (VB reduce) 
+                (NP 
+                  (NP (DT the) (NN mill) (POS 's) )
+                  (NN energy) (NNS costs) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Manville) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ-1 (DT the) (NN plant) )
+              (VP (TO to) 
+                (VP (VB begin) 
+                  (S 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (VBG operating) 
+                      (PP-TMP (IN at) 
+                        (NP 
+                          (NP (DT the) (NN end) )
+                          (PP (IN of) 
+                            (NP (CD 1991) )))))))))))))
+    (. .) ))

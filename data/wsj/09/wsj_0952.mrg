@@ -1,0 +1,45 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Alvin) (NNP W.) (NNP Trivelpiece) )
+      (, ,) 
+      (NP 
+        (NP (NN director) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Oak) (NNP Ridge) (NNP National) (NNP Laboratory) )
+            (, ,) 
+            (NP-LOC 
+              (NP (NNP Oak) (NNP Ridge) )
+              (, ,) 
+              (NP (NNP Tenn.) )))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (NNS optical-products) (NN concern) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Trivelpiece) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 58) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP William) (NNP Bolger) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD died) 
+              (PP-TMP (IN in) 
+                (NP (NNP August) )))))))
+    (. .) ))

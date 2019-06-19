@@ -1,0 +1,166 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Control) (NNP Data) (NNP Corp.) )
+      (, ,) 
+      (NP (NNP Minneapolis) )
+      (, ,) )
+    (VP (VBD signed) 
+      (NP 
+        (NP (DT a) (JJ joint) (NN development) (NN agreement) 
+          (S (-NONE- *ICH*-1) ))
+        (PP (IN with) 
+          (NP (NNP MIPS) (NNP Computer) (NNPS Systems) (NNP Inc.) ))
+        (S-1 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB incorporate) 
+              (NP (DT an) (VBG emerging) (VBG computing) (NN architecture) )
+              (PP-CLR (IN in) 
+                (NP (JJ future) (NNS machines) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP MIPS) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN leader) )
+        (PP-LOC (IN in) 
+          (SBAR-NOM 
+            (WHNP-2 (WP what) )
+            (S 
+              (NP-SBJ-1 (-NONE- *T*-2) )
+              (VP (VBZ is) 
+                (VP (VBN known) 
+                  (NP (-NONE- *-1) )
+                  (PP-CLR (IN as) 
+                    (NP 
+                      (NP (NN reduced-instruction) (NN set) (NN computing) )
+                      (, ,) (CC or) 
+                      (NP 
+                        (NP (NNP RISC) )
+                        (, ,) 
+                        (NP 
+                          (NP (DT a) (NN technology) )
+                          (VP (VBG combining) 
+                            (NP 
+                              (NP (NNS microprocessors) )
+                              (CC and) 
+                              (NP (JJ sophisticated) (NN software) ))))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG joining) 
+          (NP (NNP MIPS) ))))
+    (, ,) 
+    (NP-SBJ (NNP Control) (NNP Data) )
+    (VP (VBZ follows) 
+      (NP (JJ several) (NNS competitors) )
+      (PP (IN in) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG embracing) 
+            (NP (NNP RISC) )
+            (PP-CLR (IN as) 
+              (NP (DT a) (JJ new) (NN design) (NN approach) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Digital) (NNP Equipment) (NNP Corp.) )
+      (, ,) 
+      (NP (NNP Tandem) (NNPS Computers) (NNP Inc.) )
+      (, ,) 
+      (NP (NNP NEC) (NNP Corp.) )
+      (CC and) 
+      (NP (NNP Group) (NNP Bull) )
+      (, ,) 
+      (PP-LOC (IN among) 
+        (NP (NNS others) ))
+      (, ,) )
+    (VP (VBP have) 
+      (NP (JJ similar) (NNS arrangements) )
+      (PP (IN with) 
+        (NP 
+          (NP (NNP MIPs) )
+          (, ,) 
+          (VP (VBN based) 
+            (NP (-NONE- *) )
+            (PP-LOC-CLR (IN in) 
+              (NP 
+                (NP (NNP Sunnyvale) )
+                (, ,) 
+                (NP (NNP Calif) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Control) (NNP Data) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ expects) 
+            (NP (PRP$ its) (JJ first) (JJ RISC-based) (JJ mainframe) (NN machine) )
+            (S 
+              (NP-SBJ-1 (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (VP (VBN introduced) 
+                    (NP (-NONE- *-1) )
+                    (NP-TMP-CLR (JJ next) (NN year) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (NN accord) )
+        (PP (IN with) 
+          (NP (NNP MIPS) )))
+      (VP (VBZ calls) 
+        (SBAR-CLR (IN for) 
+          (S 
+            (NP-SBJ (NNP Control) (NNP Data) )
+            (VP (TO to) 
+              (VP (VB share) 
+                (NP 
+                  (NP (PRP$ its) (NN expertise) )
+                  (PP-LOC (IN in) 
+                    (NP (NNS data) (NN storage) )))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS companies) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Control) (NNP Data) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG developing) 
+              (SBAR-NOM 
+                (WHNP-1 (WP what) )
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBD called) 
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (NP-PRD 
+                        (NP (DT a) (`` ``) (NN supermainframe) ('' '') (NN computer) )
+                        (, ,) 
+                        (NP (DT the) (NNP Cyber) (CD 2000) )
+                        (, ,) 
+                        (VP (VBN intended) 
+                          (NP (-NONE- *) )
+                          (PP-CLR (IN for) 
+                            (NP 
+                              (NP (NNS scientists) )
+                              (, ,) 
+                              (NP (NNS engineers) )
+                              (CC and) 
+                              (NP 
+                                (NP (JJ other) (NNS users) )
+                                (PP (IN of) 
+                                  (NP (JJ generalpurpose) (JJ high-performance) (NNS computers) ))))))))))))))))
+    (. .) ))

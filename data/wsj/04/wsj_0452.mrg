@@ -1,0 +1,613 @@
+
+( (S 
+    (NP-SBJ-1 (DT The) (NNP Supreme) (NNP Court) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB decide) 
+            (SBAR (IN whether) 
+              (S 
+                (NP-SBJ (DT the) (JJ federal) (NNP Pension) (NNP Benefit) (NNP Guaranty) (NNP Corp.) )
+                (VP (MD may) 
+                  (VP (VB require) 
+                    (S 
+                      (NP-SBJ (NNP LTV) (NNP Corp.) )
+                      (VP (TO to) 
+                        (VP (VB reassume) 
+                          (NP 
+                            (NP (NN funding) (NN responsibility) )
+                            (PP (IN for) 
+                              (NP 
+                                (NP (DT a) 
+                                  (ADJP 
+                                    (QP ($ $) (CD 2.3) (CD billion) )
+                                    (-NONE- *U*) )
+                                  (NN shortfall) )
+                                (PP-LOC (IN in) 
+                                  (NP 
+                                    (NP (DT the) (NN company) (POS 's) )
+                                    (NN pension) (NNS plans) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT The) (JJ high) (NN court) (POS 's) )
+        (NN decision) )
+      (, ,) 
+      (VP (VBN expected) 
+        (NP (-NONE- *) )
+        (NP-TMP (JJ next) (NN spring) ))
+      (, ,) )
+    (VP (MD may) 
+      (VP (VB affect) 
+        (NP 
+          (NP (DT the) (NN stability) )
+          (PP (IN of) 
+            (NP 
+              (NP (JJ many) (JJ large) (JJ corporate) (NN pension) (NNS plans) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBP have) 
+                    (VP (VBN relied) 
+                      (PP-CLR (IN on) 
+                        (NP 
+                          (NP (DT the) (NN availability) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (NN pension) (NN insurance) )
+                              (VP (VBN provided) 
+                                (NP (-NONE- *) )
+                                (PP (IN by) 
+                                  (NP-LGS (DT the) (JJ federal) (NN pension) 
+                                    (UCP (JJ regulatory) 
+                                      (CC and)
+                                      (NN insurance) )
+                                    (NN agency) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN agency) )
+      (, ,) 
+      (SBAR 
+        (WHNP-3 (WDT which) )
+        (S 
+          (NP-SBJ-1 (-NONE- *T*-3) )
+          (VP (VBZ is) 
+            (VP (VBN funded) 
+              (NP (-NONE- *-1) )
+              (PP-MNR (IN through) 
+                (NP 
+                  (NP (NN insurance) (NNS premiums) )
+                  (PP (IN from) 
+                    (NP (NNS employers) ))))))))
+      (, ,) )
+    (VP (VBZ insures) 
+      (NP (NN pension) (NNS benefits) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT some) (CD 30) (CD million) (JJ private-sector) (NNS workers) )
+          (SBAR 
+            (WHNP-2 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-2) )
+              (VP (VBP take) 
+                (NP 
+                  (NP (NN part) )
+                  (PP (IN in) 
+                    (NP (JJ single-employer) (NN pension) (NNS plans) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP-TMP (RB recently) )
+    (VP (VBD reported) 
+      (NP 
+        (NP 
+          (NP (NNS assets) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 2.4) (CD billion) )
+              (-NONE- *U*) )))
+        (CC and) 
+        (NP 
+          (NP (NNS liabilities) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 4) (CD billion) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (PRP$ its) (NN appeal) )
+        (PP (TO to) 
+          (NP (DT the) (JJ high) (NN court) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN agency) )
+    (VP (VBD said) 
+      (S 
+        (NP-SBJ-2 
+          (NP (DT the) (JJ federal) (NNS appeals) (NN court) (NN ruling) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD favored) 
+                (NP (NNP LTV) ))))
+          (, ,) )
+        (VP (VBD threatened) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB transform) 
+                (NP (DT the) (NN agency) )
+                (PP-CLR (IN from) 
+                  (NP 
+                    (NP (DT an) (NN insurer) )
+                    (PP (IN of) 
+                      (NP (VBN troubled) (NN pension) (NNS plans) ))))
+                (PP-CLR (IN into) 
+                  (NP 
+                    (NP (DT an) (`` ``) (JJ open-ended) (NN source) )
+                    (PP (IN of) 
+                      (NP (NN industry) (NNS bailouts) ))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT The) (NN ruling) )
+    (ADVP (RB also) )
+    (VP (MD may) 
+      (VP (VB determine) 
+        (SBAR 
+          (WHADVP-1 (WRB how) (RB quickly) )
+          (S 
+            (NP-SBJ-2 (NNP LTV) )
+            (VP (VBZ is) 
+              (ADJP-PRD (JJ able) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB complete) 
+                      (NP (PRP$ its) (NNP Chapter) (CD 11) (NN reorganization) )
+                      (ADVP-MNR (-NONE- *T*-1) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP LTV) )
+    (VP (VBD filed) 
+      (PP-CLR (IN for) 
+        (NP 
+          (NP (NN protection) )
+          (PP-LOC (IN under) 
+            (NP (NNP Chapter) (CD 11) ))))
+      (PP-LOC (IN in) 
+        (NP (JJ federal) (NN bankruptcy) (NN court) ))
+      (PP-TMP (IN in) 
+        (NP (CD 1986) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN filing) )
+    (VP (VBD was) 
+      (ADVP (RB partly) )
+      (NP-PRD 
+        (NP (DT the) (NN result) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) 
+              (ADJP 
+                (QP ($ $) (CD 2.3) (CD billion) )
+                (-NONE- *U*) )
+              (NN shortfall) )
+            (PP (IN in) 
+              (NP 
+                (NP 
+                  (NP (NNP LTV) (POS 's) )
+                  (CD three) (NN pension) (NNS plans) )
+                (VP (VBN operated) 
+                  (NP (-NONE- *) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (PRP$ its) (NNP LTV) (NNP Steel) (NNP Co.) (NN subsidiary) (POS 's) )
+                      (NNS employees) )))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP January) (CD 1987) ))
+    (, ,) 
+    (SBAR-ADV (IN as) 
+      (S 
+        (NP-SBJ-1 (NNP LTV) (NNP Steel) )
+        (VP (VBD continued) 
+          (VP (VBG operating) 
+            (SBAR-TMP (NN while) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (PP-PRD (IN under) 
+                  (NP (NN reorganization) ))))))))
+    (, ,) 
+    (NP-SBJ-2 (DT the) (NN agency) )
+    (VP (VBD terminated) 
+      (NP (DT the) (CD three) (NNP LTV) (NN pension) (NNS plans) )
+      (S-PRP 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB keep) 
+            (NP-3 (PRP$ its) (NN insurance) (NN liability) )
+            (PP-CLR (IN from) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (VBG increasing) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Termination) )
+    (VP (VBZ means) 
+      (SBAR (IN that) 
+        (S 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NN agency) (POS 's) )
+              (NN insurance) )
+            (VP 
+              (VP (VBZ assumes) 
+                (NP (DT the) (NNS liabilities) ))
+              (CC and) 
+              (VP (VBZ pays) 
+                (NP 
+                  (NP (DT the) (NN pension) (NNS benefits) )
+                  (VP 
+                    (ADVP (RB already) )
+                    (VBN owed) 
+                    (NP (-NONE- *) )
+                    (PP-LOC (IN under) 
+                      (NP (DT the) (NNS plans) )))))))
+          (, ,) (CC but) 
+          (S 
+            (NP-SBJ (NNS workers) )
+            (VP (VBP do) (RB n't) 
+              (VP (VB accrue) 
+                (NP (JJ new) (NNS benefits) )))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP 
+      (NP (DT A) (JJ few) (NNS months) )
+      (RB later) )
+    (, ,) 
+    (PP (IN under) 
+      (NP 
+        (NP (NN pressure) )
+        (PP (IN from) 
+          (NP 
+            (NP (DT the) (NNP United) (NNP Steelworkers) )
+            (PP (IN of) 
+              (NP (NNP America) ))))))
+    (, ,) 
+    (NP-SBJ (NNP LTV) )
+    (VP (VBD instituted) 
+      (NP 
+        (NP (DT a) (JJ new) (NN program) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB provide) 
+                (NP 
+                  (NP (NN retirement) (NNS benefits) )
+                  (ADJP (JJ similar) 
+                    (PP (TO to) 
+                      (NP 
+                        (NP (DT those) )
+                        (PP-LOC (IN in) 
+                          (NP (DT the) (VBN terminated) (NNS plans) ))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-PRP (IN Because) 
+      (S 
+        (NP-SBJ (DT the) (JJ federal) (NN pension) (NN agency) )
+        (VP (VBD had) 
+          (VP (VBN taken) 
+            (PRT (RP over) )
+            (NP (DT the) (JJ old) (NNS plans) )))))
+    (, ,) 
+    (NP-SBJ (NNP LTV) )
+    (VP (MD would) 
+      (VP (VB be) 
+        (ADJP-PRD (JJ responsible) (RB only) 
+          (PP (IN for) 
+            (NP 
+              (NP (NNS benefits) )
+              (VP (VBN paid) 
+                (NP (-NONE- *) )
+                (PP-LOC (IN under) 
+                  (NP (DT the) (JJ new) (NN pension) (NNS plans) ))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT the) (NN agency) )
+    (VP (VBD viewed) 
+      (NP 
+        (NP (DT the) (NN creation) )
+        (PP (IN of) 
+          (NP (DT the) (JJ new) (NNS plans) )))
+      (PP-CLR (IN as) 
+        (NP 
+          (NP 
+            (NP (DT an) (NN abuse) )
+            (PP (IN of) 
+              (NP (JJ federal) (NN pension) (NN law) )))
+          (CC and) 
+          (NP (DT an) (NN attempt) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB transfer) 
+                  (NP 
+                    (NP (DT the) (NN liability) )
+                    (PP (IN of) 
+                      (NP (DT the) 
+                        (ADJP 
+                          (QP ($ $) (CD 2.3) (CD billion) )
+                          (-NONE- *U*) )
+                        (NN shortfall) )))
+                  (PP-DIR (IN from) 
+                    (NP (NNP LTV) ))
+                  (PP-DIR (TO to) 
+                    (NP (JJ federal) (NN insurance) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN agency) )
+    (ADVP (RB also) )
+    (VP (VBD concluded) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP LTV) (POS 's) )
+            (JJ financial) (NN status) )
+          (VP (VBD had) 
+            (VP (VBN improved) 
+              (SBAR-TMP (IN while) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBD was) 
+                    (PP-PRD (IN under) 
+                      (NP (NN reorganization) ))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP September) (CD 1987) ))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD ordered) 
+      (NP-1 (NNP LTV) )
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB reassume) 
+            (NP 
+              (NP (NN liability) 
+                (CC and)
+                (VBG funding) )
+              (PP (IN for) 
+                (NP (DT the) (CD three) (JJ original) (NNS plans) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP LTV) )
+      (VP (VBD challenged) 
+        (NP (DT the) (NN order) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (DT a) (JJ federal) (NN district) (NN court) )
+        (PP-LOC (IN in) 
+          (NP (NNP New) (NNP York) )))
+      (PP-TMP (IN in) 
+        (NP (NNP June) (CD 1988) ))
+      (VP (VBD ruled) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NN agency) )
+            (VP 
+              (ADVP-MNR (RB improperly) )
+              (VBD ordered) 
+              (NP-1 (NNP LTV) )
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB reassume) 
+                    (NP 
+                      (NP (NN responsibility) )
+                      (PP (IN for) 
+                        (NP (DT the) (NNS plans) )))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP May) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT a) (JJ federal) (NNS appeals) (NN court) )
+      (PP-LOC (IN in) 
+        (NP (NNP New) (NNP York) )))
+    (VP (VBD agreed) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NN agency) )
+          (VP (VBD acted) 
+            (ADVP-MNR (RB unlawfully) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS appeals) (NN court) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (EX there) )
+          (VP (VBD was) 
+            (NP-PRD (DT no) (NN evidence) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ-1 (NNP Congress) )
+                  (VP (VBD intended) 
+                    (S 
+                      (NP-SBJ (-NONE- *-1) )
+                      (VP (TO to) 
+                        (VP (VB allow) 
+                          (S 
+                            (NP-SBJ (DT the) (NN pension) (NN agency) )
+                            (VP (TO to) 
+                              (VP (VB consider) 
+                                (NP 
+                                  (NP 
+                                    (NP (DT a) (NN company) (POS 's) )
+                                    (NN creation) )
+                                  (PP (IN of) 
+                                    (NP (JJ new) (NN benefit) (NNS plans) )))
+                                (PP-CLR (IN as) 
+                                  (NP 
+                                    (NP (DT a) (NN basis) )
+                                    (PP (IN for) 
+                                      (S-NOM 
+                                        (NP-SBJ (-NONE- *) )
+                                        (VP (VBG ordering) 
+                                          (NP-2 (DT that) (NN company) )
+                                          (S 
+                                            (NP-SBJ (-NONE- *-2) )
+                                            (VP (TO to) 
+                                              (VP (VB reassume) 
+                                                (NP 
+                                                  (NP (NN liability) )
+                                                  (PP (IN for) 
+                                                    (NP (JJ old) (NNS plans) )))))))))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS appeals) (NN court) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN agency) )
+          (VP (VBD had) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB consider) 
+                  (NP 
+                    (NP 
+                      (NP (DT a) (NN company) (POS 's) )
+                      (JJ long-term) (NN ability) 
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB fund) 
+                            (NP (NN pension) (NNS plans) )))))
+                    (, ,) (RB not) (RB just) 
+                    (NP (JJ short-term) (VBN improved) (JJ financial) (NN status) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP Dallas) ))
+    (, ,) 
+    (NP-SBJ (NNP LTV) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD was) 
+            (VP (VBN disappointed) 
+              (NP (-NONE- *-1) )
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ-2 (DT the) (NN court) )
+                  (VP (VBD agreed) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB hear) 
+                          (NP (DT the) (NN case) )))))))
+              (SBAR-PRP (IN because) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBZ believes) 
+                    (SBAR (-NONE- 0) 
+                      (S 
+                        (NP-SBJ (DT the) (NN move) )
+                        (VP (MD will) 
+                          (ADVP (RBR further) )
+                          (VP (VB delay) 
+                            (NP (PRP$ its) (NNP Chapter) (CD 11) (NNS proceedings) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN company) )
+    (VP (VBZ has) (RB n't) 
+      (VP (VBN been) 
+        (ADJP-PRD (JJ able) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB come) 
+                (PRT (RP up) )
+                (PP-CLR (IN with) 
+                  (NP (DT a) (NN reorganization) (NN plan) ))))))
+        (, ,) 
+        (PP (IN in) 
+          (NP (NN part) ))
+        (, ,) 
+        (PP-PRP (IN because) (IN of) 
+          (NP 
+            (NP (DT the) (JJ sizable) (NN disagreement) )
+            (PP (IN with) 
+              (NP (DT the) (NN pension) (NN agency) ))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (NNP LTV) )
+      (, ,) 
+      (NP (DT a) (NN steel) 
+        (, ,)
+        (NN aerospace) 
+        (CC and)
+        (NN energy) (NN concern) )
+      (, ,) )
+    (VP 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ is) 
+              (ADJP-PRD (JJ confident) 
+                (SBAR (IN that) 
+                  (S 
+                    (NP-SBJ (DT the) (NNP Supreme) (NNP Court) )
+                    (VP (MD will) 
+                      (VP (VB uphold) 
+                        (NP (DT the) (NN lower-court) (NNS decisions) ))))))))))
+      (CC and) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-2 (PRP it) )
+            (VP (VBZ expects) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB continue) 
+                    (NP 
+                      (NP (NNS discussions) )
+                      (PP (IN with) 
+                        (NP (DT the) (NN agency) ))
+                      (PP (IN about) 
+                        (NP (DT a) (NN settlement) )))
+                    (SBAR-TMP (IN while) 
+                      (S 
+                        (NP-SBJ-1 (DT the) (NN case) )
+                        (VP (VBZ is) 
+                          (VP (VBG being) 
+                            (VP (VBN reviewed) 
+                              (NP (-NONE- *-1) ))))))))))))))
+    (. .) ))
+( (NP 
+    (-LRB- -LRB-)
+    (NP (NNP Pension) (NNP Benefit) (NNP Guaranty) (NNP Corp.) )
+    (PP (IN vs.) 
+      (NP (NNP LTV) (NNP Corp) ))
+    (. .) ))

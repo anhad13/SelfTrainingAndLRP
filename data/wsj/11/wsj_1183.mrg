@@ -1,0 +1,102 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP ALBERTA) (NNP ENERGY) (NNP Co.) )
+      (, ,) 
+      (NP-LOC (NNP Calgary) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD filed) 
+            (NP 
+              (NP (DT a) (JJ preliminary) (NN prospectus) )
+              (PP (IN for) 
+                (NP 
+                  (NP (DT an) (NN offering) )
+                  (PP (IN of) 
+                    (NP (JJ common) (NNS shares) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ natural) (NNS resources) (NN development) (NN concern) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (NNS proceeds) )
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBN used) 
+                (NP (-NONE- *-2) )
+                (S-CLR 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB repay) 
+                      (NP 
+                        (NP (JJ long-term) (NN debt) )
+                        (, ,) 
+                        (SBAR 
+                          (WHNP-1 (WDT which) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-1) )
+                            (VP (VBD stood) 
+                              (PP-CLR (IN at) 
+                                (NP 
+                                  (NP 
+                                    (QP (CD 598) (CD million) )
+                                    (JJ Canadian) (NNS dollars) )
+                                  (PRN 
+                                    (-LRB- -LRB-)
+                                    (NP 
+                                      (QP ($ US$) (CD 510.6) (CD million) )
+                                      (-NONE- *U*) )
+                                    (-RRB- -RRB-) )))
+                              (PP-TMP (IN at) 
+                                (NP 
+                                  (NP (DT the) (NN end) )
+                                  (PP (IN of) 
+                                    (NP (CD 1988) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN company) )
+    (VP (VBZ plans) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB raise) 
+            (NP 
+              (QP (IN between) ($ C$) (CD 75) (CD million) 
+                (CC and)
+                ($ C$) (CD 100) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN from) 
+              (NP (DT the) (NN offering) )))))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (DT a) (NN spokeswoman) )
+            (PP-LOC (IN at) 
+              (NP 
+                (NP 
+                  (NP (NNP Richardson) (NNP Greenshields) )
+                  (PP (IN of) 
+                    (NP (NNP Canada) (NNP Ltd.) )))
+                (, ,) 
+                (NP (JJ lead) (NN underwriter) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (NNS shares) )
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN priced) 
+            (NP (-NONE- *-1) )
+            (PP-TMP (IN in) 
+              (NP (JJ early) (NNP November) ))))))
+    (, ,) 
+    (NP-SBJ (PRP she) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))

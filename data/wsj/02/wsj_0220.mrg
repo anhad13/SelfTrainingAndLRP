@@ -1,0 +1,101 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP Canada) (POS 's) )
+        (JJ gross) (JJ domestic) (NN product) )
+      (VP (VBD rose) 
+        (NP-EXT (DT an) (JJ inflation-adjusted) (CD 0.3) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (NNP August) ))
+        (, ,) 
+        (PP-PRP 
+          (ADVP (RB mainly) )
+          (IN as) 
+          (NP 
+            (NP (DT a) (NN result) )
+            (PP (IN of) 
+              (NP (NN service-industry) (NN growth) ))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNPS Statistics) (NNP Canada) )
+      (, ,) 
+      (NP (DT a) (JJ federal) (NN agency) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP August) (NNP GDP) )
+    (VP (VBD was) 
+      (ADVP-PRD (RB up) 
+        (NP (CD 2.4) (NN %) )
+        (PP-DIR (IN from) 
+          (NP (PRP$ its) (JJ year-earlier) (NN level) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP GDP) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (JJ total) (NN value) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (DT a) (NN nation) (POS 's) )
+              (NN output) )
+            (PP (IN of) 
+              (NP (NNS goods) 
+                (CC and)
+                (NNS services) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNPS Statistics) (NNP Canada) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NN service-industry) (NN output) )
+            (PP-TMP (IN in) 
+              (NP (NNP August) )))
+          (VP (VBD rose) 
+            (NP-EXT (CD 0.4) (NN %) )
+            (PP-DIR (IN from) 
+              (NP-TMP (NNP July) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Output) )
+      (PP (IN of) 
+        (NP (JJ goods-producing) (NNS industries) )))
+    (VP (VBD increased) 
+      (NP-EXT (CD 0.1) (NN %) ))
+    (. .) ))
+( (S 
+    (ADVP (RB Separately) )
+    (, ,) 
+    (NP-SBJ (NNPS Statistics) (NNP Canada) )
+    (VP (VBD reported) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN industrial-product) (NN price) (NN index) )
+          (VP (VBD dropped) 
+            (NP-EXT (CD 0.2) (NN %) )
+            (PP-TMP (IN in) 
+              (NP (NNP September) ))
+            (, ,) 
+            (NP-ADV (PRP$ its) (JJ third) (JJ consecutive) (JJ monthly) (NN decline) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP (RB also) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 2.6) (NN %) )
+          (NN decline) )
+        (PP-LOC (IN in) 
+          (NP (PRP$ its) (NNS raw-materials) (NN price) (NN index) ))
+        (PP (IN for) 
+          (NP (NNP September) ))))
+    (. .) ))

@@ -1,0 +1,59 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP G.) (NNP William) (NNP Ryan) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP (NNP Post-Newsweek) (NNPS Stations) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (JJ chief) (NN executive) (NN officer) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN unit) )
+                (PP (IN of) 
+                  (NP (DT this) (NNS media) (NN company) ))))))
+        (, ,) 
+        (ADJP (JJ effective) 
+          (NP-TMP (NNP Jan.) (CD 1) ))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ (PRP He) )
+      (VP (MD will) 
+        (VP (VB succeed) 
+          (NP 
+            (NP (NNP Joel) (NNP Chaseman) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WP who) )
+              (S 
+                (NP-SBJ-2 (-NONE- *T*-1) )
+                (VP (MD will) 
+                  (VP 
+                    (VP (VB remain) 
+                      (NP-PRD 
+                        (NP (DT a) (NN vice) (NN president) )
+                        (PP (IN of) 
+                          (NP (DT the) (NN company) ))))
+                    (CC and) 
+                    (VP (VB continue) 
+                      (S 
+                        (NP-SBJ (-NONE- *-2) )
+                        (VP (TO to) 
+                          (VP (VB represent) 
+                            (NP (NNP Post-Newsweek) (NNS stations) )
+                            (PP-LOC (IN in) 
+                              (NP (JJ several) (NN industry) (NNS organizations) ))))))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))

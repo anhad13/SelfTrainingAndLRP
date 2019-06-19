@@ -1,0 +1,118 @@
+
+( (S 
+    (NP-SBJ (NNP Control) (NNP Data) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD licensed) 
+            (NP (PRP$ its) (NN airline) (NN yield-management) (NN software) )
+            (PP-CLR (TO to) 
+              (NP (DT the) (NNP International) (NNP Air) (NNP Transport) (NNP Association) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNS Terms) )
+      (VP (VBP include) 
+        (NP (DT a) (NN royalty) (NN arrangement) )))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-1 (NNS details) )
+      (VP (VBD were) (RB n't) 
+        (VP (VBN disclosed) 
+          (NP (-NONE- *-1) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN computer) (NN equipment) 
+      (CC and)
+      (JJ financial) (NNS services) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP IATA) )
+            (, ,) 
+            (NP (DT a) (NN trade) (NN group) )
+            (, ,) )
+          (VP (MD will) 
+            (VP (VB sell) 
+              (NP 
+                (NP (NN access) )
+                (PP (TO to) 
+                  (NP (DT the) (NN package) )))
+              (PP-DTV (TO to) 
+                (NP 
+                  (NP (PRP$ its) (CD 180) (NN airline) (NNS members) )
+                  (ADVP-LOC (JJ world-wide) ))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP Control) (NNP Data) )
+      (VP (MD will) 
+        (VP (VB receive) 
+          (NP 
+            (NP (NN revenue) )
+            (VP (VBN linked) 
+              (NP (-NONE- *) )
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP (DT the) (NN number) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNS passengers) )
+                      (VP (VBN served) 
+                        (NP (-NONE- *) )
+                        (PP (IN by) 
+                          (NP-LGS (DT the) (NN software) ))))))))))))
+    (, ,) 
+    (NP-SBJ (NNP IATA) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN package) )
+    (VP (VBZ helps) 
+      (S 
+        (NP-SBJ (NNS carriers) )
+        (VP (VB solve) 
+          (NP 
+            (NP (NN pricing) (NNS problems) )
+            (, ,) 
+            (PP (JJ such) (IN as) 
+              (SBAR-NOM 
+                (SBAR 
+                  (WHADVP-2 (WRB how) )
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB react) 
+                        (PP-CLR (TO to) 
+                          (NP 
+                            (NP (NNS discounts) )
+                            (VP (VBN offered) 
+                              (NP (-NONE- *) )
+                              (PP (IN by) 
+                                (NP-LGS (NNS competitors) )))))
+                        (ADVP-MNR (-NONE- *T*-2) )))))
+                (CC or) 
+                (SBAR 
+                  (WHNP-1 (WP what) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (MD would) 
+                      (VP (VB be) 
+                        (NP-PRD 
+                          (NP (DT the) (JJ optimum) (NN number) )
+                          (PP (IN of) 
+                            (NP (NNS seats) ))
+                          (SBAR 
+                            (WHNP-3 (-NONE- 0) )
+                            (S 
+                              (NP-SBJ (-NONE- *) )
+                              (VP (TO to) 
+                                (VP (VB offer) 
+                                  (NP (-NONE- *T*-3) )
+                                  (PP (IN at) 
+                                    (NP (DT a) (VBN given) (NN price) )))))))))))))))))
+    (. .) ))

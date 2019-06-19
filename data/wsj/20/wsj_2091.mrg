@@ -1,0 +1,394 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Microsoft) (NNP Corp.) (POS 's) )
+      (NNS earnings) (NN growth) )
+    (VP (VBD continued) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB outstrip) 
+            (NP 
+              (NP (IN that) )
+              (PP (IN of) 
+                (NP 
+                  (NP (JJS most) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (PRP$ its) (NNS competitors) 
+                        (CC and)
+                        (NNS customers) )
+                      (PP-LOC (IN in) 
+                        (NP (DT the) (NN personal-computer) (NN industry) ))))))))))
+      (, ,) 
+      (SBAR-TMP (IN as) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reported) 
+            (NP 
+              (NP (DT a) 
+                (ADJP (CD 36) (NN %) )
+                (NN jump) )
+              (PP-LOC (IN in) 
+                (NP (JJ fiscal) (NN first-quarter) (NNS earnings) ))
+              (PP-LOC (IN on) 
+                (NP (DT a) 
+                  (ADJP (CD 33) (NN %) )
+                  (NN revenue) (NN gain) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) 
+        (NAC-LOC (NNP Redmond) 
+          (, ,)
+          (NNP Wash.) )
+        (NN company) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN bellwether) (NN provider) )
+        (PP (IN of) 
+          (NP 
+            (NP (VBG operating) (NNS systems) )
+            (CC and) 
+            (NP (NN software) )))
+        (PP (IN for) 
+          (NP (NN personal-computer) (NNS makers) 
+            (CC and)
+            (NNS users) )))
+      (, ,) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (JJ net) (NN income) )
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (NN quarter) )
+            (VP (VBD ended) 
+              (NP-TMP-CLR (NNP Sept.) (CD 30) ))))
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 49.6) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 87) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) 
+            (ADVP (IN up) 
+              (PP (IN from) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 36.6) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP (CD 65) (NNS cents) )
+                    (NP-ADV (DT a) (NN share) ))
+                  (, ,) )
+                (PP-TMP (IN in) 
+                  (NP (DT the) (JJ year-ago) (NN period) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 235.2) (CD million) )
+          (-NONE- *U*) ))
+      (, ,) 
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 176.4) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Microsoft) )
+    (ADVP-TMP (RB previously) )
+    (VP (VBD indicated) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD would) 
+            (VP (VB have) 
+              (NP (DT a) (JJ strong) (NN quarter) )))))
+      (PP-MNR (IN by) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG forecasting) 
+            (NP (PRP$ its) (NN revenue) (NN gain) )
+            (PP-TMP (IN on) 
+              (NP (NNP Oct.) (CD 4) ))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG causing) 
+                (NP 
+                  (NP (DT a) 
+                    (ADJP 
+                      (NP ($ $) (CD 6.50) (-NONE- *U*) )
+                      (NP-ADV (DT a) (NN share) ))
+                    (NN jump) )
+                  (PP-LOC (IN in) 
+                    (NP (PRP$ its) (NN stock) )))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (PRP$ its) (NN stock) )
+    (VP (VBD jumped) 
+      (ADVP-TMP (RB again) )
+      (NP-TMP (NN yesterday) )
+      (SBAR-TMP (IN as) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD disclosed) 
+            (NP 
+              (NP 
+                (ADJP (RB surprisingly) (JJ strong) )
+                (NNS margins) )
+              (PP-LOC (IN on) 
+                (NP (DT those) (NNS sales) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Microsoft) (POS 's) )
+      (NN stock) )
+    (VP (VBD rose) 
+      (NP-EXT 
+        (NP ($ $) (CD 2.875) (-NONE- *U*) )
+        (NP-ADV (DT a) (NN share) ))
+      (PP-LOC (IN in) 
+        (NP (JJ national) (JJ over-the-counter) (NN trading) ))
+      (PP (TO to) 
+        (NP ($ $) (CD 78.625) (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN stock) )
+    (VP (VBD had) 
+      (VP 
+        (VP (VBN hit) 
+          (NP 
+            (NP (DT a) (JJ high) )
+            (PP (IN of) 
+              (NP 
+                (NP ($ $) (CD 81) (-NONE- *U*) )
+                (NP-ADV (DT a) (NN share) ))))
+          (ADVP-TMP (JJ early) 
+            (NP (JJ last) (NN week) )))
+        (CC but) 
+        (VP (VBD collapsed) 
+          (PP-DIR (TO to) 
+            (NP ($ $) (CD 73.50) (-NONE- *U*) ))
+          (PP-LOC (IN in) 
+            (NP (DT the) (NNP Friday) (NN stock) (NN plunge) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (VP (VBG experiencing) 
+          (NP (VBG softening) (NNS margins) )
+          (PP-PRP (IN because) (IN of) 
+            (NP 
+              (NP (VBN increased) (NNS sales) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN software) (NNS applications) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-1 (WDT which) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBP have) 
+                        (NP 
+                          (NP (JJR lower) (NNS margins) )
+                          (SBAR (IN than) 
+                            (SINV 
+                              (VP (VBP do) 
+                                (VP (-NONE- *?*) ))
+                              (NP-SBJ (VBG operating) (NNS systems) ))))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT that) (NN trend) )
+          (VP (VBD was) 
+            (VP (VBN offset) 
+              (NP (-NONE- *-1) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ first) (NN quarter) ))
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP 
+                    (NP (JJR better) (NNS economies) )
+                    (PP (IN of) 
+                      (NP (NN scale) )))
+                  (CC and) 
+                  (NP 
+                    (NP (NNS efficiencies) )
+                    (PP-LOC (IN in) 
+                      (NP (NN manufacturing) ))))))))))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (NP (DT a) (NN result) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Microsoft) (POS 's) )
+        (NN cost) 
+        (PP (IN of) 
+          (NP (NNS goods) )))
+      (, ,) 
+      (PP (IN as) 
+        (NP 
+          (NP (DT a) (NN percentage) )
+          (PP (IN of) 
+            (NP (NNS sales) ))))
+      (, ,) )
+    (VP (VBD fell) 
+      (NP-EXT 
+        (NP 
+          (NP (CD 17) (NN %) )
+          (PP (IN from) 
+            (NP (DT the) (JJ year-ago) (NN quarter) )))
+        (CC and) 
+        (NP 
+          (NP (CD 13) (NN %) )
+          (PP (IN from) 
+            (NP (DT the) (JJ previous) (NN period) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN trend) )
+    (VP (VBD drove) 
+      (ADVP-DIR (IN up) )
+      (NP 
+        (NP (DT the) (NN aftertax) (NN margin) )
+        (PRN (: --) 
+          (NP 
+            (NP (JJ net) (NN income) )
+            (PP (IN as) 
+              (NP 
+                (NP (DT a) (NN percentage) )
+                (PP (IN of) 
+                  (NP (NNS revenues) )))))
+          (: --) ))
+      (PP-DIR (TO to) 
+        (NP (CD 21.1) (NN %) ))
+      (PP-TMP (IN in) 
+        (NP (DT the) (NN quarter) ))
+      (, ,) 
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP (CD 20.7) (NN %) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Microsoft) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ strong) (NNS results) )
+          (ADVP (RB also) )
+          (VP (VBD reflected) 
+            (NP 
+              (NP (VBG continuing) (JJ high) (NN demand) )
+              (PP (IN for) 
+                (NP 
+                  (NP (PRP$ its) (NN software) (NNS applications) )
+                  (CC and) 
+                  (NP (VBG operating) (NNS systems) ))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP (VBZ has) 
+          (VP (VBN predicted) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ 
+                  (NP (JJ overall) (NN growth) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (NN unit) (NNS sales) )
+                      (PP (IN of) 
+                        (NP (JJ personal) (NNS computers) )))))
+                (VP (VBZ is) 
+                  (VP (VBG slowing) 
+                    (PP-DIR (TO to) 
+                      (NP (IN about) (DT a) 
+                        (ADJP (CD 10) (NN %) )
+                        (JJ yearly) (NN rate) ))))))))))
+    (, ,) 
+    (NP-SBJ (PRP$ its) (JJ own) (NNS products) )
+    (VP (VBP are) 
+      (VP (VBG selling) 
+        (PP-CLR (IN at) 
+          (NP (DT a) 
+            (ADJP (JJ much) (JJR faster) )
+            (NN rate) ))
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ-1 (JJ many) )
+            (VP (VBP are) 
+              (VP (VBN geared) 
+                (NP (-NONE- *-1) )
+                (PP-DIR (TO to) 
+                  (NP 
+                    (NP (DT the) (NN high-performance) (NN end) )
+                    (PP (IN of) 
+                      (NP (DT the) (NN market) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT That) (NN segment) )
+    (VP (VBZ continues) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB post) 
+            (NP (JJ strong) (JJ quarter-to-quarter) (NNS gains) ))))
+      (, ,) 
+      (SBAR-TMP (IN while) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) 
+              (NX 
+                (NX (NN low-end) )
+                (, ,) (CC or) 
+                (NX (NN commodity) (NN segment) )
+                (, ,) ))
+            (PP (IN of) 
+              (NP (DT the) (NN industry) )))
+          (VP (VBZ is) 
+            (VP (VBG experiencing) 
+              (NP 
+                (NP (JJ sluggish) (NN growth) )
+                (CC or) 
+                (ADVP (JJ even) )
+                (NP (NNS sales) (NNS declines) )))))))
+    (. .) ))
+( (S 
+    (PP (VBN Compared) 
+      (PP (IN with) 
+        (NP 
+          (NP (PRP$ its) (JJ previous) (NN quarter) )
+          (, ,) 
+          (NP 
+            (NP (DT the) (JJ final) (NN period) )
+            (PP (IN of) 
+              (NP (PRP$ its) (CD 1989) (JJ fiscal) (NN year) )))
+          (, ,) )))
+    (S 
+      (NP-SBJ (NN net) )
+      (VP (VBD rose) 
+        (NP-EXT (CD 9) (NN %) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (NNS sales) )
+      (VP (VBD rose) 
+        (NP-EXT (CD 7) (NN %) )))
+    (. .) ))

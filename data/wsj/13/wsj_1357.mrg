@@ -1,0 +1,132 @@
+
+( (S 
+    (NP-SBJ (DT A) (JJ federal) (NN judge) )
+    (VP (VBD granted) 
+      (NP 
+        (NP (DT a) (JJ temporary) (NN stay) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNP California) (NNP Student) (NNP Aid) (NNP Commission) (POS 's) )
+            (NN emergency) (NN action) 
+            (S 
+              (NP-SBJ-1 (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB stop) 
+                  (S 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (VBG guaranteeing) 
+                      (NP 
+                        (NP (NNS loans) )
+                        (PP (IN for) 
+                          (NP 
+                            (NP (NNP National) (NNP Technical) (NNP Schools) )
+                            (, ,) 
+                            (NP 
+                              (NP (DT a) (NN unit) )
+                              (PP (IN of) 
+                                (NP (NNP United) (NNP Education) (CC &) (NNP Software) (NNP Inc) )))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NNP California) (NNP Student) (NNP Aid) (NNP Commission) )
+      (VP (VBD took) 
+        (NP (DT the) (NN action) )
+        (NP-TMP (NNP Oct.) (CD 15) )
+        (SBAR-TMP (IN after) 
+          (S 
+            (NP-SBJ (DT a) (NN government) (NN audit) )
+            (VP (VBD cited) 
+              (NP-1 (NNP National) (NNP Technical) (NNP Schools) )
+              (PP-CLR (IN for) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP 
+                    (VP (VBG having) 
+                      (NP 
+                        (NP (NNS courses) )
+                        (ADJP (RB too) (JJ short) 
+                          (SBAR 
+                            (WHNP-2 (-NONE- 0) )
+                            (S 
+                              (NP-SBJ (-NONE- *T*-2) )
+                              (VP (TO to) 
+                                (VP (VB be) 
+                                  (ADJP-PRD (JJ eligible) 
+                                    (PP (IN for) 
+                                      (NP (DT the) (JJ educational) (NN loan) (NN program) ))))))))))
+                    (CC and) 
+                    (VP (VBG having) 
+                      (NP 
+                        (NP (DT a) (NN student) (JJ drop-out) (NN rate) )
+                        (PP 
+                          (ADVP (RB far) )
+                          (IN in) 
+                          (NP 
+                            (NP (NN excess) )
+                            (PP (IN of) 
+                              (NP (JJ federal) (NNS standards) ))))))))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (PRP it) )
+      (VP (VBD alleged) 
+        (NP 
+          (NP (JJ other) (JJ serious) (NNS violations) )
+          (PP (IN of) 
+            (NP (NN law) 
+              (CC and)
+              (NNS regulations) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP United) (NNP Education) (CC &) (NNP Software) )
+      (, ,) 
+      (NP (DT a) (NNP Los) (NNP Angeles) (NN education) (NNS services) (NN company) )
+      (, ,) )
+    (VP (VBD called) 
+      (S 
+        (NP-SBJ 
+          (NP (DT the) (NN commission) (POS 's) )
+          (NN action) )
+        (`` ``) 
+        (ADJP-PRD (JJ precipitous) 
+          (CC and)
+          (JJ unwarranted) )))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT The) (NN court) )
+    (VP (VBD set) 
+      (NP 
+        (NP (DT a) (NN hearing) )
+        (PP (IN on) 
+          (NP (DT the) (NN emergency) (NN action) )))
+      (PP-CLR (IN for) 
+        (NP (NNP Oct.) (CD 30) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP United) (NNP Education) (CC &) (NNP Software) )
+    (VP (VBD posted) 
+      (NP (DT a) 
+        (ADJP ($ $) (CD 250,000) (-NONE- *U*) )
+        (NN bond) )
+      (PP (IN against) 
+        (NP 
+          (NP (JJ potential) (NNS losses) )
+          (PP 
+            (PP (TO to) 
+              (NP (DT the) (NN student) (NN aid) (NN commission) ))
+            (CC and) 
+            (PP (TO to) 
+              (NP (NNS taxpayers) )))
+          (PP (IN in) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG guaranteeing) 
+                (NP 
+                  (NP (DT any) (JJR more) (NNS loans) )
+                  (PP (IN for) 
+                    (NP (NNP National) (NNP Technical) (NNP Schools) (NNS students) )))
+                (ADVP-TMP (RB prior) 
+                  (PP (TO to) 
+                    (NP (DT the) (NN hearing) )))))))))
+    (. .) ))

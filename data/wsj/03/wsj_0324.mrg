@@ -1,0 +1,96 @@
+
+( (S 
+    (NP-SBJ (NNP QVC) (NNP Network) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD completed) 
+            (NP 
+              (NP (PRP$ its) (NN acquisition) )
+              (PP (IN of) 
+                (NP (NNP CVN) (NNP Cos.) )))
+            (PP (IN for) 
+              (NP 
+                (QP (RB about) ($ $) (CD 423) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP QVC) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB pay) 
+            (NP 
+              (NP ($ $) (CD 19) (-NONE- *U*) )
+              (CC and) 
+              (NP (NN one-eighth) (NNP QVC) (NN share) ))
+            (PP-CLR (IN for) 
+              (NP 
+                (NP (DT each) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP CVN) (POS 's) )
+                    (QP (CD 20) (CD million) )
+                    (RB fully) (JJ diluted) (NNS shares) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN acquisition) )
+    (VP (VBZ brings) 
+      (ADVP-CLR (RB together) )
+      (NP 
+        (NP (DT the) (CD two) (JJS largest) (NNS competitors) )
+        (PP (TO to) 
+          (NP 
+            (NP (NNP Home) (NNP Shopping) (NNP Network) (NNP Inc.) )
+            (, ,) 
+            (SBAR 
+              (WHNP-56 (WDT which) )
+              (S 
+                (ADVP-TMP (RB now) )
+                (NP-SBJ (-NONE- *T*-56) )
+                (VP (VBZ reaches) 
+                  (NP 
+                    (NP (JJR more) (NNS viewers) )
+                    (PP (IN than) 
+                      (NP 
+                        (NP (DT any) (JJ other) (NN company) )
+                        (PP-LOC (IN in) 
+                          (NP (DT the) (NN video) (NN shopping) (NN industry) ))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Among) 
+      (NP (PRP them) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Home) (NNP Shopping) )
+      (, ,) 
+      (NP (NNP QVC) )
+      (CC and) 
+      (NP (NNP CVN) ))
+    (ADVP-TMP (RB already) )
+    (VP (VBP control) 
+      (NP 
+        (NP (JJS most) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT that) 
+              (ADJP (JJ young) 
+                (CC and)
+                (JJ fast-growing) )
+              (NN market) )
+            (, ,) 
+            (SBAR 
+              (WHNP-57 (WDT which) )
+              (S 
+                (NP-TMP (JJ last) (NN year) )
+                (NP-SBJ (-NONE- *T*-57) )
+                (VP (VBD had) 
+                  (NP 
+                    (NP (NNS sales) )
+                    (PP (IN of) 
+                      (NP 
+                        (QP (RB about) ($ $) (CD 1.4) (CD billion) )
+                        (-NONE- *U*) ))))))))))
+    (. .) ))

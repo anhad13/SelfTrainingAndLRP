@@ -1,0 +1,406 @@
+
+( (S 
+    (PP-LOC (IN In) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG finding) (`` ``) 
+          (NP (JJ good) (NN news) )
+          ('' '') 
+          (PP-LOC-CLR (IN in) 
+            (NP 
+              (NP (NNP Berkeley) (POS 's) )
+              (JJ new) (NN freshman) (NNS admissions) (NN plan) )))))
+    (PRN 
+      (-LRB- -LRB-)
+      (NP (`` ``) 
+        (NP-TTL (NNP The) (NNP Privileged) (NNP Class) )
+        (, ,) ('' '') 
+        (NP (NN editorial) )
+        (, ,) 
+        (NP-TMP (NNP Sept.) (CD 20) ))
+      (-RRB- -RRB-) )
+    (, ,) 
+    (NP-SBJ-1 (PRP you) )
+    (VP (VBP 're) 
+      (VP (VBG reading) 
+        (NP 
+          (NP (DT the) (NN headline) )
+          (CC but) (RB not) 
+          (NP (DT the) (NN story) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN plan) )
+    (ADVP (RB indeed) )
+    (VP (VBZ raises) 
+      (PP-DIR (IN from) 
+        (NP (CD 40) (NN %) ))
+      (PP-DIR (TO to) 
+        (NP (CD 50) (NN %) ))
+      (NP 
+        (NP (DT the) (NN number) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS freshmen) (NNS applicants) )
+            (VP (VBN admitted) 
+              (NP (-NONE- *) )
+              (PP-MNR 
+                (ADVP (RB strictly) )
+                (IN by) 
+                (NP (JJ academic) (NNS criteria) )))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT that) )
+    (VP (VBZ does) (RB n't) 
+      (VP (VB mean) 
+        (SBAR (-NONE- 0) 
+          (S (`` ``) 
+            (NP-SBJ 
+              (NP (NN half) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NNS students) )
+                  (VP (VBG attending) 
+                    (NP (NNP Berkeley) )))))
+            ('' '') 
+            (VP (MD will) 
+              (VP (VB be) 
+                (VP (VBN admitted) 
+                  (NP-MNR (DT this) (NN way) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN plan) )
+    (VP (VBZ is) 
+      (VP (VBG talking) 
+        (PP-CLR (IN about) 
+          (NP 
+            (NP 
+              (NP (NNS applicants) )
+              (VP (VBN admitted) 
+                (NP (-NONE- *) )))
+            (, ,) (RB not) 
+            (NP 
+              (NP (NNS students) )
+              (SBAR 
+                (WHNP-1 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBP enroll) ))))))))
+    (. .) ))
+( (S 
+    (SBAR-PRP (IN Since) 
+      (S 
+        (NP-SBJ 
+          (NP (DT the) (`` ``) (NN yield) ('' '') )
+          (PP (IN from) 
+            (NP 
+              (NP (DT this) (JJ top) (NN slice) )
+              (PP (IN of) 
+                (NP (NNS applicants) )))))
+        (VP (VBZ is) 
+          (ADJP-PRD (RB relatively) (JJ low) ))))
+    (, ,) 
+    (S-NOM-SBJ 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBG boosting) 
+        (NP (NNS admits) )
+        (PP-DIR (IN from) 
+          (NP (CD 40) (NN %) ))
+        (PP-DIR (TO to) 
+          (NP (CD 50) (NN %) ))))
+    (VP (MD will) 
+      (VP (VB boost) 
+        (NP (NNS registrants) )
+        (PP-DIR (IN from) 
+          (NP 
+            (QP (RB about) (CD 31) )
+            (NN %) ))
+        (PP-DIR (TO to) 
+          (NP 
+            (NP (CD 38) (NN %) )
+            (PP (IN of) 
+              (NP (DT the) (NN class) ))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (QP (RB perhaps) (CD 5) )
+        (NN %) )
+      (PP (IN of) 
+        (NP (NNS registrants) )))
+    (VP (MD will) 
+      (VP (VB come) 
+        (PP-DIR (IN from) 
+          (NP 
+            (NP (DT a) (JJ new) (NN category) )
+            (VP (VBG consisting) 
+              (PP-CLR (IN of) 
+                (NP 
+                  (NP (NNS applicants) )
+                  (SBAR 
+                    (WHNP-1 (WP$ whose) (JJ academic) (NNS credentials) )
+                    (S (`` ``) 
+                      (NP-SBJ-2 (-NONE- *T*-1) )
+                      (VP 
+                        (ADVP-MNR (RB narrowly) )
+                        (VBD missed) ('' '') 
+                        (S 
+                          (NP-SBJ (-NONE- *-2) )
+                          (VP (VBG gaining) 
+                            (NP (PRP them) )
+                            (NP 
+                              (NP (NN admission) )
+                              (PP-LOC (IN in) 
+                                (NP (DT the) (JJ first) (NN category) )))))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (PP (IN against) 
+      (NP 
+        (NP (DT that) (VBN combined) (NN increase) )
+        (PP (IN of) 
+          (NP (CD 12) (NN %) ))
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNS students) )
+            (VP (VBN chosen) 
+              (NP (-NONE- *) )
+              (PP-MNR (IN by) 
+                (NP (JJ academic) (NNS criteria) )))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN plan) )
+    (VP (VBZ eliminates) 
+      (NP 
+        (NP (DT a) (JJ large) (NN category) )
+        (SBAR 
+          (WHPP-2 (IN in) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ-1 (NNS admissions) )
+            (ADVP-TMP (RB now) )
+            (VP (VBP are) 
+              (VP (VBN based) 
+                (NP (-NONE- *-1) )
+                (PP-CLR (IN on) 
+                  (NP 
+                    (NP (NNS grades) )
+                    (, ,) 
+                    (NP (NN test) (NNS scores) )
+                    (CC and) 
+                    (NP (`` ``) 
+                      (NP (JJ supplemental) (NNS points) )
+                      ('' '') 
+                      (PP (IN for) 
+                        (NP 
+                          (NP (NNS factors) )
+                          (PP (JJ such) (IN as) 
+                            (NP 
+                              (NP (NN high-school) (NN curriculum) )
+                              (, ,) 
+                              (NP (JJ English-language) (NN proficiency) )
+                              (CC and) 
+                              (NP (DT an) (NN essay) ))))))))
+                (PP-LOC (-NONE- *T*-2) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT This) (NN category) )
+    (ADVP-TMP (RB now) )
+    (VP (VBZ accounts) 
+      (PP-CLR (IN for) 
+        (NP 
+          (NP 
+            (NP 
+              (QP (RB about) (CD 19) )
+              (NN %) )
+            (PP (IN of) 
+              (NP (NNS admits) )))
+          (CC and) 
+          (NP 
+            (NP (CD 22) (NN %) )
+            (PP (IN of) 
+              (NP (NNS registrants) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN plan) )
+    (ADVP (RB thus) )
+    (VP (MD will) 
+      (VP (VB decrease) 
+        (PP-EXT (IN by) 
+          (NP (CD 22) (NN %) ))
+        (, ,) 
+        (PP (IN for) 
+          (NP 
+            (NP (DT a) (JJ net) (NN loss) )
+            (PP (IN of) 
+              (NP (CD 10) (NN %) ))))
+        (, ,) 
+        (NP 
+          (NP (DT the) (NN number) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNS students) )
+              (VP (VBN admitted) 
+                (NP (-NONE- *) )
+                (PP-MNR 
+                  (ADVP (RB primarily) )
+                  (IN by) 
+                  (NP (JJ academic) (NNS criteria) ))))))))
+    (. .) ))
+( (SBARQ 
+    (WHNP-1 (WP Who) )
+    (SQ 
+      (NP-SBJ (-NONE- *T*-1) )
+      (VP (MD will) 
+        (VP (VB take) 
+          (PRT (RP over) )
+          (NP (DT these) (NNS places) ))))
+    (. ?) ))
+( (S 
+    (NP-SBJ (DT The) (NN plan) )
+    (VP 
+      (VP (VBZ creates) 
+        (NP 
+          (NP (DT a) (JJ new) (NN category) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNS students) )
+              (PP (IN from) 
+                (NP (`` ``) 
+                  (NP (RB socioeconomically) (JJ disadvantaged) (NNS backgrounds) )
+                  (, ,) ('' '') 
+                  (NP 
+                    (NP (DT a) (NN concept) )
+                    (VP (RB not) 
+                      (ADVP-TMP (RB yet) )
+                      (VBN defined) 
+                      (NP (-NONE- *) )))
+                  (, ,) ))))))
+      (CC and) 
+      (VP (VBZ gives) 
+        (NP (PRP them) )
+        (NP 
+          (NP 
+            (QP (RB about) (CD 10) )
+            (NN %) )
+          (PP (IN of) 
+            (NP (DT the) (NN class) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (CD One) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NN plan) (POS 's) )
+          (NNS authors) )))
+    (VP (VBZ has) 
+      (VP (VBN defended) 
+        (NP-1 (DT the) (`` ``) (JJ socioeconomic) (NN disadvantage) ('' '') (NN category) )
+        (PP-CLR (IN as) 
+          (S-NOM 
+            (ADVP (RB perhaps) )
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG making) 
+              (NP 
+                (NP (JJR more) (NN sense) )
+                (PP (IN than) 
+                  (NP 
+                    (NP (DT the) (JJ current) (NN affirmative-action) (NNS preferences) )
+                    (VP (VBN based) 
+                      (NP (-NONE- *) )
+                      (PP-CLR (IN on) 
+                        (NP (NN race) )))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Perhaps) )
+    (NP-SBJ (PRP it) )
+    (VP (VBZ does) 
+      (VP (-NONE- *?*) ))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT the) (JJ new) (NN category) )
+    (VP (VBZ does) (RB not) 
+      (VP (VB replace) (CC or) (VB reduce) 
+        (NP 
+          (NP (NNP Berkeley) (POS 's) )
+          (JJ broad) (JJ racial) (NNS preferences) )))
+    (. .) ))
+( (SINV (CC Nor) (MD will) 
+    (NP-SBJ-3 
+      (NP (NNS students) )
+      (PP (IN from) 
+        (NP (JJ racial-minority) (NNS groups) ))
+      (SBAR 
+        (WHNP-2 (WP who) )
+        (S 
+          (NP-SBJ-1 (-NONE- *T*-2) )
+          (VP (VBP are) 
+            (VP (VBN admitted) 
+              (NP (-NONE- *-1) )
+              (PP (IN through) 
+                (NP (DT the) (JJ new) (NN category) )))))))
+    (VP (VB be) 
+      (VP (VBN counted) 
+        (NP (-NONE- *-3) )
+        (PP-CLR (IN against) 
+          (NP 
+            (NP (DT the) (NN affirmative-action) (`` ``) (NN target) ('' '') )
+            (PP (IN for) 
+              (NP (PRP$ their) (NN group) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN plan) )
+    (ADVP (RB thus) )
+    (VP (VBZ places) 
+      (NP 
+        (NP (DT a) (JJ large) (JJ new) (NN affirmative-action) (NN program) )
+        (, ,) 
+        (VP (VBN based) 
+          (NP (-NONE- *) )
+          (PP-CLR (IN on) (`` ``) 
+            (NP (JJ socioeconomic) (NN disadvantage) )))
+        (, ,) ('' '') )
+      (PP-CLR (IN on) 
+        (NP 
+          (NP (NN top) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (VBG existing) (NN program) )
+              (VP (VBN based) 
+                (NP (-NONE- *) )
+                (PP-CLR (IN on) 
+                  (NP (NN race) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN role) )
+      (PP (IN of) 
+        (NP (JJ academic) (NNS criteria) ))
+      (PP-LOC (IN in) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG choosing) 
+            (NP 
+              (NP (NNP Berkeley) (POS 's) )
+              (NNS freshmen) )))))
+    (VP (MD can) 
+      (ADVP (RB only) )
+      (VP (VB decline) 
+        (PP-PRP (IN as) 
+          (NP (DT a) (NN result) ))))
+    (. .) ))
+( (NP 
+    (NP (NNP Stephen) (NNP R.) (NNP Barnett) )
+    (NP 
+      (NP (NNP Professor) )
+      (PP (IN of) 
+        (NP (NNP Law) )))
+    (NP-LOC 
+      (NP (NNP University) )
+      (PP (IN of) 
+        (NP (NNP California) )))
+    (NP-LOC 
+      (NP (NNP Berkeley) )
+      (, ,) 
+      (NP (NNP Calif) ))
+    (. .) ))

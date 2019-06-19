@@ -1,0 +1,59 @@
+
+( (S 
+    (NP-SBJ-2 (NNP Stephen) (NNP N.) (NNP Wertheimer) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (NP-PRD 
+            (NP 
+              (NP (VBG managing) (NN director) )
+              (PP (-NONE- *RNR*-1) ))
+            (CC and) 
+            (NP 
+              (NP (NN group) (NN head) )
+              (PP (-NONE- *RNR*-1) ))
+            (PP-1 (IN of) 
+              (NP 
+                (NP 
+                  (NP (NN investment) (NN banking) )
+                  (PP-LOC (IN in) 
+                    (NP (NNP Asia) )))
+                (, ,) 
+                (VP (VBN based) 
+                  (NP (-NONE- *) )
+                  (PP-LOC-CLR (IN in) 
+                    (NP (NNP Tokyo) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Wertheimer) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 38) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (DT a) (JJ first) (NN vice) (NN president) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (DT the) (JJ industrial) (NN group) )
+              (PP-LOC (IN in) 
+                (NP (NN investment) (NN banking) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP Everett) (NNP Meyers) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD resigned) 
+              (PP-TMP (IN in) 
+                (NP (NNP May) )))))))
+    (. .) ))

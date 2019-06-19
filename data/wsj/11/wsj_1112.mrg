@@ -1,0 +1,42 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP John) (NNP B.) (NNP Curcio) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 55) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD resigned) 
+      (PP-CLR (IN as) 
+        (NP 
+          (NP (NN chairman) )
+          (PP (IN of) 
+            (NP (DT this) (JJ diesel) (NN truck) (NN manufacturer) ))))
+      (, ,) 
+      (PP-TMP (JJ effective) 
+        (PP (IN upon) 
+          (NP 
+            (NP (NN appointment) )
+            (PP (IN of) 
+              (NP (DT a) (NN successor) ))))))
+    (. .) ))
+( (S 
+    (NP-TMP (JJ Last) (NN month) )
+    (, ,) 
+    (NP-SBJ-1 (NNP Mr.) (NNP Curcio) )
+    (VP (VBD was) 
+      (VP (VBN succeeded) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (NNP Ralph) (NNP E.) (NNP Reins) ))
+        (PP-CLR (IN as) 
+          (NP (JJ chief) (JJ executive) (NN officer) ))
+        (PP-TMP (VBG following) 
+          (NP 
+            (NP (JJ several) (NNS quarters) )
+            (PP (IN of) 
+              (NP 
+                (ADJP (JJ lackluster) (CC or) (VBG declining) )
+                (NN performance) ))))))
+    (. .) ))

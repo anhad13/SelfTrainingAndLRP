@@ -1,0 +1,82 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP Italy) (POS 's) )
+        (JJ wholesale) (NN price) (NN index) )
+      (VP 
+        (VP (VBD rose) 
+          (NP-EXT (CD 0.4) (NN %) )
+          (PP-TMP (IN in) 
+            (NP (NNP August) ))
+          (PP-DIR (IN from) 
+            (NP-TMP (NNP July) )))
+        (CC and) 
+        (VP (VBD was) 
+          (ADVP-PRD (RB up) 
+            (NP (CD 6.1) (NN %) )
+            (PP (IN from) 
+              (ADVP 
+                (NP (DT a) (NN year) )
+                (RBR earlier) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN state) (JJ statistical) (NN institute) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN index) )
+    (VP (VBD registered) 
+      (NP (CD 196.1) )
+      (PP-TMP (IN in) 
+        (NP (NNP August) ))
+      (, ,) 
+      (PP (VBN compared) 
+        (PP 
+          (PP (IN with) 
+            (NP 
+              (NP (CD 195.4) )
+              (PP-TMP (IN in) 
+                (NP (NNP July) ))))
+          (CC and) 
+          (PP (IN with) 
+            (NP 
+              (NP (CD 184.9) )
+              (PP-TMP (IN in) 
+                (NP (NNP August) (CD 1988) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ year-on-year) (NN rise) )
+      (PP-TMP (IN in) 
+        (NP (NNP August) )))
+    (VP (VBD was) 
+      (ADVP-PRD (RB slightly) (RB down) 
+        (PP (IN from) 
+          (NP 
+            (NP (DT the) 
+              (ADJP (CD 6.4) (NN %) )
+              (NN rate) )
+            (PP-TMP (IN in) 
+              (NP (NNP July) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN index) )
+    (VP 
+      (VP (VBZ has) 
+        (NP 
+          (NP (DT a) (NN base) )
+          (PP (IN of) 
+            (NP (CD 100) ))
+          (VP (NN set) 
+            (NP (-NONE- *) )
+            (PP-TMP (IN in) 
+              (NP (CD 1980) )))))
+      (CC and) 
+      (VP (VBZ is) (RB n't) 
+        (VP 
+          (ADVP-MNR (RB seasonally) )
+          (VBN adjusted) 
+          (NP (-NONE- *-1) ))))
+    (. .) ))

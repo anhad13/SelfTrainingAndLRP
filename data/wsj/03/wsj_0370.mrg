@@ -1,0 +1,37 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Richard) (NNP J.) (NNP Riordan) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (JJ single-family) (NN home) (NN builder) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG increasing) 
+            (NP (DT the) (NN board) )
+            (PP-CLR (TO to) 
+              (NP (CD nine) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP 
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (DT a) (JJ senior) (NN partner) )
+          (PP (IN with) 
+            (NP 
+              (NP (DT the) (NN law) (NN firm) )
+              (PP (IN of) 
+                (NP (NNP Riordan) (CC &) (NNP McKinzie) ))))))
+      (CC and) 
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (DT a) (NN partner) )
+          (PP-LOC (IN in) 
+            (NP (NNP Riordan) (NNP Venture) (NNP Management) )))))
+    (. .) ))

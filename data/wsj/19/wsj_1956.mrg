@@ -1,0 +1,69 @@
+
+( (S 
+    (NP-SBJ (NNP National) (NNP Patent) (NNP Development) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB purchase) 
+                  (NP 
+                    (NP 
+                      (QP (RB as) (JJ many) (IN as) (CD 200,000) )
+                      (JJ common) (NNS shares) )
+                    (PP (IN of) 
+                      (NP (PRP$ its) (JJ 81%-controlled) (NNP Interferon) (NNP Sciences) (NNP Inc.) (NN unit) )))
+                  (PP-LOC (IN in) 
+                    (NP (JJ periodic) 
+                      (, ,)
+                      (JJ open-market) (NNS purchases) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (CD 200,000) (NNS shares) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP 
+          (QP (RB about) (CD 23) )
+          (NN %) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (NNP Interferon) (POS 's) )
+              (JJ common) (NNS shares) )
+            (ADJP (JJ outstanding) ))))
+      (, ,) 
+      (PP (VBG excluding) 
+        (NP 
+          (NP (NNP National) (NNP Patent) (POS 's) )
+          (NN stake) )))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG Noting) 
+        (NP 
+          (NP (DT the) (JJ recent) (NNP Food) 
+            (CC and)
+            (NNP Drug) (NNP Administration) (NN approval) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Interferon) (POS 's) )
+              (JJ genital) (NNS warts) (NN treatment) )))))
+    (, ,) 
+    (NP-SBJ-1 (NNP National) (NNP Patent) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ believes) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ 
+                  (NP (NNP Interferon) (POS 's) )
+                  (NN stock) )
+                (VP (VBZ is) 
+                  (ADJP-PRD (JJ undervalued) ))))))))
+    (. .) ))

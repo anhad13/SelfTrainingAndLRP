@@ -1,0 +1,138 @@
+
+( (S 
+    (NP-SBJ (NNP Stelco) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB shut) 
+                  (PRT (RP down) )
+                  (NP (CD three) (JJ Toronto-area) (NNS plants) )
+                  (, ,) 
+                  (S-ADV 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (VBG moving) 
+                      (NP (PRP$ their) (NN fastener) (NNS operations) )
+                      (PP-DIR (TO to) 
+                        (NP 
+                          (NP (DT a) (VBN leased) (NN facility) )
+                          (PP-LOC (IN in) 
+                            (NP 
+                              (NP (NNP Brantford) )
+                              (, ,) 
+                              (NP (NNP Ontario) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN fastener) (NN business) )
+          (`` ``) 
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (PP-PRD (IN under) 
+                (NP (JJ severe) (NN cost) (NNS pressures) ))
+              (PP-TMP (IN for) 
+                (NP (DT some) (NN time) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS fasteners) 
+      (, ,)
+      (NNS nuts) 
+      (CC and)
+      (NNS bolts) 
+      (, ,)
+      )
+    (VP (VBP are) 
+      (VP (VBN sold) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP (DT the) 
+            (ADJP (JJ North) (JJ American) )
+            (NN auto) (NN market) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT A) (NN company) (NN spokesman) )
+    (VP (VBD declined) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB estimate) 
+            (NP 
+              (NP (DT the) (NN impact) )
+              (PP (IN of) 
+                (NP (DT the) (NNS closures) ))
+              (PP-LOC (IN on) 
+                (NP (NNS earnings) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ new) (NN facility) )
+          (VP (MD will) 
+            (VP (VB employ) 
+              (NP 
+                (NP (CD 500) )
+                (PP (IN of) 
+                  (NP (DT the) (VBG existing) (CD 600) (NNS employees) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN steelmaker) )
+    (VP (VBZ employs) 
+      (NP 
+        (QP (RB about) (CD 16,000) )
+        (NNS people) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Stelco) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP 
+            (VP (VBZ has) 
+              (NP (DT an) (NN option) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB lease) 
+                      (NP 
+                        (NP (DT a) (JJ 350,000-square-foot) (NN building) )
+                        (PP-LOC (IN in) 
+                          (NP (NNP Brantford) ))))))))
+            (CC and) 
+            (VP (VBZ proposes) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB spend) 
+                    (NP 
+                      (NP 
+                        (QP (CD 24.5) (CD million) )
+                        (JJ Canadian) (NNS dollars) )
+                      (PRN 
+                        (-LRB- -LRB-)
+                        (NP 
+                          (QP ($ US$) (CD 20.9) (CD million) )
+                          (-NONE- *U*) )
+                        (-RRB- -RRB-) ))
+                    (PP-CLR (IN on) 
+                      (NP (DT the) (NN facility) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (CD three) (VBG existing) (NNS plants) )
+      (CC and) 
+      (NP (PRP$ their) (NN land) ))
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN sold) 
+          (NP (-NONE- *-1) ))))
+    (. .) ))

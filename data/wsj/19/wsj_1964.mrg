@@ -1,0 +1,30 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NN TRADING) (NN VOLUME) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NNP Standard) (CC &) (NNP Poor) (POS 's) )
+          (CD 500) (NN stock-index) (NNS futures) (NNS contracts) ))
+      (PP-LOC (IN on) 
+        (NP (DT the) (NNP Chicago) (NNP Mercantile) (NNP Exchange) ))
+      (NP-TMP (NNP Monday) ))
+    (VP (VBD totaled) 
+      (NP (CD 73,803) (NNS contracts) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Yesterday) (POS 's) )
+      (NN edition) )
+    (VP 
+      (ADVP-MNR (RB incorrectly) )
+      (VBD reported) 
+      (NP 
+        (NP (NNP Monday) (POS 's) )
+        (NN trading) (NN volume) )
+      (PP-CLR (IN as) 
+        (NP 
+          (NP (DT a) (NN record) )
+          (PP (IN for) 
+            (NP (DT the) (NNP S&P) (CD 500) (NN contract) )))))
+    (. .) ))

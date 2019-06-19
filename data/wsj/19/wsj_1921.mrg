@@ -1,0 +1,125 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Beazer) (NNP PLC) )
+      (, ,) 
+      (NP (DT a) (JJ major) (JJ British) (NN building) (NNS materials) 
+        (CC and)
+        (NN construction) (NN concern) )
+      (, ,) )
+    (VP (VBD reported) 
+      (NP-1 
+        (NP (DT a) 
+          (ADJP (CD 24) (NN %) )
+          (NN jump) )
+        (PP-LOC (IN in) 
+          (NP (JJ pretax) (NN profit) ))
+        (PP (IN for) 
+          (NP (PRP$ its) (JJS latest) (JJ financial) (NN year) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (VBN helped) 
+          (NP (-NONE- *-2) )
+          (PP 
+            (ADVP (RB largely) )
+            (IN by) 
+            (NP-LGS 
+              (NP (NNS contributions) )
+              (PP (IN from) 
+                (NP 
+                  (NP (PRP$ its) (NNP U.S.) (NN unit) )
+                  (, ,) 
+                  (NP (NNP Koppers) (NNP Co) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (JJ Pretax) (NN profit) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) (NN year) )
+          (PP-TMP (TO to) 
+            (NP (NNP June) (CD 30) )))))
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (QP (# #) (CD 142.5) (CD million) )
+            (-NONE- *U*) )
+          (PRN 
+            (-LRB- -LRB-)
+            (NP 
+              (QP ($ $) (CD 224.5) (CD million) )
+              (-NONE- *U*) )
+            (-RRB- -RRB-) )))
+      (PP-DIR (IN from) 
+        (NP 
+          (NP 
+            (QP (# #) (CD 114.7) (CD million) )
+            (-NONE- *U*) )
+          (PRN 
+            (-LRB- -LRB-)
+            (NP 
+              (QP ($ $) (CD 180.7) (CD million) )
+              (-NONE- *U*) )
+            (-RRB- -RRB-) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP 
+          (ADVP-MNR (RB broadly) )
+          (VBG matching) 
+          (NP 
+            (NP (NNS analysts) (POS ') )
+            (NNS expectations) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Profit) )
+      (PP-TMP 
+        (PP (IN after) 
+          (NP 
+            (NP (NNS taxes) )
+            (CC and) 
+            (NP (NN minority) (NNS interests) )))
+        (CC but) 
+        (PP (IN before) 
+          (NP (JJ extraordinary) (NNS items) ))))
+    (VP (VBD increased) 
+      (NP-EXT (CD 22) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (# #) (CD 92.6) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (# #) (CD 75.6) (CD million) )
+          (-NONE- *U*) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (RBR earlier) ))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ 
+            (NP 
+              (ADJP (RB fully) (VBN diluted) )
+              (NNS earnings) )
+            (PP (IN per) 
+              (NP (NN share) )))
+          (VP (VBD rose) 
+            (PP-DIR (TO to) 
+              (NP 
+                (NP (CD 29.90) (NNS pence) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP (CD 47) (NNS cents) )
+                  (-RRB- -RRB-) )))
+            (PP-DIR (IN from) 
+              (NP 
+                (NP (CD 24.68) (NNS pence) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP (CD 39) (NNS cents) )
+                  (-RRB- -RRB-) )))))))
+    (. .) ))

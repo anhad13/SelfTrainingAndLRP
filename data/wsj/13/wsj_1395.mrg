@@ -1,0 +1,107 @@
+
+( (S 
+    (NP-SBJ (NNP Harsco) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD obtained) 
+            (NP 
+              (NP (DT a) 
+                (ADJP 
+                  (QP ($ $) (CD 33.1) (CD million) )
+                  (-NONE- *U*) )
+                (NN export) (NN order) )
+              (PP (IN for) 
+                (NP 
+                  (NP (JJ armored) (NN recovery) (NNS vehicles) )
+                  (CC and) 
+                  (NP (JJ related) (NN support) (NN equipment) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNP Harsco) )
+    (VP (VBD declined) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB say) 
+            (SBAR 
+              (WHNP-1 (WP what) (NN country) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBD placed) 
+                  (NP (DT the) (NN order) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD received) 
+            (NP 
+              (NP 
+                (NP (DT an) (NN order) )
+                (PP (IN for) 
+                  (NP 
+                    (NP (CD 23) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (NNS vehicles) )
+                        (, ,) 
+                        (SBAR 
+                          (WHNP-1 (WDT which) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-1) )
+                            (VP (VBP retrieve) 
+                              (NP 
+                                (NP (NNS tanks) )
+                                (CC and) 
+                                (NP (JJ other) (JJ heavy-tracked) (NNS vehicles) ))
+                              (SBAR-TMP 
+                                (WHADVP-3 (WRB when) )
+                                (S 
+                                  (NP-SBJ-2 (PRP they) )
+                                  (VP 
+                                    (VP (VBP break) 
+                                      (PRT (RP down) ))
+                                    (CC or) 
+                                    (VP (VBP are) 
+                                      (VP (VBN damaged) 
+                                        (NP (-NONE- *-2) )
+                                        (ADVP-TMP (-NONE- *T*-3) )))))))))
+                        (, ,) )))))
+              (CC and) 
+              (NP 
+                (NP (DT an) (NN option) )
+                (PP (IN for) 
+                  (NP 
+                    (NP (CD 16) )
+                    (ADJP (JJR more) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NN Delivery) )
+    (VP (VBZ is) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB begin) 
+            (PP-TMP (IN in) 
+              (NP (JJ early) (CD 1991) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Harsco) )
+    (VP (VBZ produces) 
+      (NP 
+        (NP (NNS products) )
+        (PP (IN for) 
+          (NP 
+            (UCP (NN defense) 
+              (, ,)
+              (JJ industrial) 
+              (, ,)
+              (JJ commercial) 
+              (CC and)
+              (NN construction) )
+            (NNS markets) ))))
+    (. .) ))

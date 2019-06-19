@@ -1,0 +1,387 @@
+
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (PRP you) )
+        (VP (VBP 're) 
+          (ADVP (RB still) )
+          (VP (VBG wondering) 
+            (PP-CLR (IN about) 
+              (NP 
+                (NP (DT the) (NNS causes) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN slump) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (NN junk-bond) (NN market) ))))))))))
+    (, ,) 
+    (NP-SBJ (-NONE- *) )
+    (VP (VB consider) 
+      (NP 
+        (NP (DT the) (NN case) )
+        (PP (IN of) 
+          (NP (NNP Columbia) (NNPS Savings) (CC &) (NNP Loan) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP California) (NN thrift) )
+    (VP (VBZ has) 
+      (ADVP (RB just) )
+      (VP (VBN announced) 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 226) (CD million) )
+            (-NONE- *U*) )
+          (NN third-quarter) (NN loss) )))
+    (. .) ))
+( (SBARQ 
+    (WHADVP-1 (WRB How) )
+    (SQ (VBD did) 
+      (NP-SBJ (DT this) )
+      (VP (VB happen) 
+        (ADVP-MNR (-NONE- *T*-1) )))
+    (. ?) ))
+( (S 
+    (ADVP (RB Well) )
+    (, ,) 
+    (SBAR-TMP 
+      (WHADVP-2 (WRB when) )
+      (S 
+        (NP-SBJ (NNP Congress) )
+        (PP-LOC (IN in) 
+          (NP (PRP$ its) (JJ recent) (NN S&L) (NN bailout) ))
+        (VP (VBD mandated) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (DT the) (NNS thrifts) )
+              (VP (VB sell) 
+                (PRT (RP off) )
+                (NP (DT all) (PRP$ their) (NN junk-bond) (NNS holdings) )
+                (PP-TMP (IN by) 
+                  (NP (CD 1994) )))))
+          (ADVP-TMP (-NONE- *T*-2) ))))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (RB not) 
+      (ADVP (RB only) )
+      (VP 
+        (ADVP-MNR (RB artificially) )
+        (VBD increased) 
+        (NP 
+          (NP (DT the) (NN supply) )
+          (PP (IN of) 
+            (NP (DT these) (NNS bonds) ))
+          (PP-LOC (IN in) 
+            (NP (DT the) (NN market) ))))
+      (CC but) 
+      (VP 
+        (ADVP (RB also) )
+        (VBD eliminated) 
+        (NP 
+          (NP (CD one) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (JJ few) (JJ profitable) (NNS investments) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (NNS thrifts) )
+                  (VP (VBP have) 
+                    (VP (VBN made) 
+                      (NP (-NONE- *T*-1) ))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (EX there) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) 
+          (ADJP (RB grimly) (JJ ironic) )
+          (NN twist) )
+        (PP (TO to) 
+          (NP (DT the) (NNP Columbia) (NN loss) ))))
+    (. .) ))
+( (S 
+    (SBAR (IN As) 
+      (S 
+        (NP-SBJ 
+          (NP (NNS followers) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN debate) )
+              (PP (IN over) 
+                (NP (DT a) (NNS capital-gains) (NN tax) (NN cut) )))))
+        (VP (VBP know) 
+          (SBAR (-NONE- *?*) ))))
+    (, ,) 
+    (NP-SBJ (EX there) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (JJ much) (NN talk) )
+        (PP-LOC 
+          (PP (IN in) 
+            (NP (NNP Congress) ))
+          (CC and) 
+          (ADVP (RB indeed) )
+          (PP 
+            (ADVP (DT all) )
+            (IN over) 
+            (NP (NNP Washington) )))
+        (PP (IN about) 
+          (NP (DT the) (NN need) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP 
+                  (VP (`` ``) (VB encourage) ('' '') 
+                    (NP (JJ long-term) (NN investment) ))
+                  (CC and) 
+                  (VP (VB discourage) 
+                    (NP 
+                      (NP 
+                        (NP (DT the) (JJ financial) (NN sector) (POS 's) )
+                        (JJ presumed) (NN obsession) )
+                      (PP (IN with) 
+                        (NP (DT the) (JJ short) (NN term) )))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Now) )
+    (, ,) 
+    (S 
+      (NP-SBJ (PRP we) )
+      (VP (VBP regard) 
+        (NP (DT this) )
+        (PP-CLR (IN as) 
+          (NP (DT a) (RB largely) (JJ phony) (NN issue) ))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (DT the) (`` ``) (JJ long) (NN term) ('' '') )
+      (VP (VBZ is) 
+        (ADVP (RB nonetheless) )
+        (NP-PRD (DT a) (JJ big) (NN salon) (NN topic) )
+        (PP-LOC 
+          (ADVP (DT all) )
+          (IN around) 
+          (NP (DT the) (NNP Beltway) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ turns) 
+      (PRT (RP out) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNP Columbia) )
+          (VP (VBD had) 
+            (NP (DT this) (JJ huge) (NN loss) )
+            (SBAR-PRP 
+              (PP (IN in) 
+                (NP (JJ large) (NN part) ))
+              (IN because) 
+              (S 
+                (NP-SBJ (DT the) (JJ new) 
+                  (ADJP (RB congressionally) (VBN mandated) )
+                  (NNS rules) )
+                (VP (VBD forced) 
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (TO to) 
+                      (VP (VB adjust) 
+                        (NP 
+                          (NP (DT the) (NN book) (NN value) )
+                          (PP (IN of) 
+                            (NP (PRP$ its) (JJ soon-to-be-sold) (NN junk) (NNS bonds) )))
+                        (PP-CLR (TO to) 
+                          (NP 
+                            (NP (DT the) (JJR lower) )
+                            (PP (IN of) 
+                              (NP (DT either) (PRP$ their) (NN cost) (CC or) (NN market) (NN value) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP They) )
+    (VP (MD could) 
+      (ADVP (RB no) (RB longer) )
+      (VP (VB be) 
+        (VP (VBN classified) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN as) 
+            (NP 
+              (SBAR-NOM 
+                (WHNP-2 (WP what) )
+                (S 
+                  (NP-SBJ (NNP Columbia) )
+                  (VP (VBD regarded) 
+                    (NP (PRP them) )
+                    (NP (-NONE- *T*-2) ))))
+              (, ,) 
+              (NP (RB namely) (JJ long-term) (NNS investments) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Congress) (POS 's) )
+        (JJ ham-handed) (NN treatment) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (VBG existing) (NN structure) )
+          (PP (IN of) 
+            (NP (NN junk-bond) (NNS holdings) )))))
+    (VP (VBZ reminds) 
+      (NP (PRP us) )
+      (PP-CLR (IN of) 
+        (NP 
+          (NP (DT a) (NN story) )
+          (PP-LOC (IN in) 
+            (NP (DT the) (NNP Journal) ))
+          (ADVP-TMP (RBR earlier) 
+            (NP (DT this) (NN year) ))
+          (PP (IN about) 
+            (NP 
+              (NP (DT the) (NNP Baby) (NNP Bell) (NNS companies) (POS ') )
+              (NN desire) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB have) 
+                    (S 
+                      (NP-SBJ-1 
+                        (NP (DT the) (JJ court-ordered) (NNS bans) )
+                        (PP (-NONE- *ICH*-2) ))
+                      (VP (VBN lifted) 
+                        (NP (-NONE- *-1) )
+                        (PP-2 (IN on) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (VBG offering) 
+                              (NP (NN information) (NNS services) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN issue) )
+      (PP (IN of) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG seeking) 
+            (NP (NN relief) )
+            (PP-CLR (IN from) 
+              (NP (NNP Congress) ))))))
+    (VP (VBD was) 
+      (VP (VBN raised) 
+        (NP (-NONE- *-1) )
+        (PP (TO to) 
+          (NP 
+            (NP (NNP Delbert) (NNP Staley) )
+            (, ,) 
+            (NP 
+              (NP (DT the) (NN chairman) )
+              (PP (IN of) 
+                (NP (NNP Nynex) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Staley) )
+    (VP (VBD replied) (: :) 
+      (S (`` ``) 
+        (NP-SBJ-2 (NN Legislation) )
+        (VP (VBZ tends) 
+          (S 
+            (NP-SBJ-1 (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (VP (VBN compromised) 
+                  (NP (-NONE- *-1) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP believe) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP we) )
+          (VP (VBP have) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB take) 
+                  (NP (DT a) (NN shot) )
+                  (PP-CLR (IN at) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG getting) 
+                        (S 
+                          (NP-SBJ-2 
+                            (NP (RB as) (JJ much) )
+                            (SBAR (-NONE- *ICH*-4) ))
+                          (VP (VBN done) 
+                            (NP (-NONE- *-2) )
+                            (SBAR-4 (IN as) 
+                              (S 
+                                (NP-SBJ (PRP we) )
+                                (VP (MD can) 
+                                  (VP (-NONE- *?*) ))))
+                            (PP-MNR 
+                              (PP (IN through) 
+                                (NP (DT the) (NN court) ))
+                              (, ,) 
+                              (PP (IN through) 
+                                (NP (NN Justice) ))
+                              (CC and) 
+                              (PP (IN through) 
+                                (NP (NN state) 
+                                  (CC and)
+                                  (JJ federal) (JJ regulatory) (NNS agencies) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP see) 
+      (NP (NNP Congress) )
+      (PP-CLR (IN as) 
+        (NP (DT a) (JJ last) (NN resort) )))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (JJ Healthy) (NNS thrifts) )
+        (PP (JJ such) (IN as) 
+          (NP (NNP Columbia) )))
+      (CC or) 
+      (NP 
+        (NP (DT the) (NN junk-bond) (NN market) )
+        (NP (PRP itself) )))
+    (VP (MD should) 
+      (VP (VB have) 
+        (VP (VBN been) 
+          (ADJP-PRD (RB so) (JJ lucky) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN reality) )
+      (PP (IN of) 
+        (NP 
+          (NP (NN life) )
+          (PP-LOC (IN in) 
+            (NP (JJ modern) (NNP America) )))))
+    (VP (VBZ is) 
+      (SBAR-PRD (IN that) 
+        (S 
+          (SBAR-ADV (IN if) 
+            (S 
+              (NP-SBJ-2 (PRP you) )
+              (VP (VBP want) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB wreck) 
+                      (NP 
+                        (NP (NN something) )
+                        (SBAR 
+                          (WHNP-1 (WDT that) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-1) )
+                            (VP (VBZ works) ))))))))))
+          (, ,) 
+          (NP-SBJ (-NONE- *) )
+          (VP (VB let) 
+            (NP (PRP it) )
+            (VP (VB fall) 
+              (PP-CLR (IN into) 
+                (NP 
+                  (NP (DT the) (NNS hands) )
+                  (PP (IN of) 
+                    (NP (NNP Congress) )))))))))
+    (. .) ))

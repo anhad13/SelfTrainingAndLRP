@@ -1,0 +1,350 @@
+
+( (S 
+    (NP-SBJ-1 (NNP RJR) (NNP Nabisco) (NNP Inc.) )
+    (VP (VBZ is) 
+      (VP (VBG disbanding) 
+        (NP 
+          (NP (PRP$ its) (NN division) )
+          (ADJP (JJ responsible) 
+            (PP (IN for) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG buying) 
+                  (NP (NN network) (NN advertising) (NN time) ))))))
+        (, ,) 
+        (PP-TMP 
+          (NP 
+            (QP (RB just) (DT a) )
+            (NN month) )
+          (IN after) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG moving) 
+              (NP 
+                (NP (CD 11) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN group) (POS 's) )
+                    (CD 14) (NNS employees) )))
+              (PP-DIR (TO to) 
+                (NP (NNP New) (NNP York) ))
+              (PP-DIR (IN from) 
+                (NP (NNP Atlanta) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN spokesman) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) 
+            (ADJP (NNP New) (JJ York-based) )
+            (NN food) 
+            (CC and)
+            (NN tobacco) (NN giant) )
+          (, ,) 
+          (VP (VBN taken) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (ADJP-PRD (JJ private) ))
+            (NP-TMP (RBR earlier) (DT this) (NN year) )
+            (PP-LOC (IN in) 
+              (NP (DT a) ($ $) (CD 25) (CD billion) (-NONE- *U*) (JJ leveraged) (NN buy-out) ))
+            (PP (IN by) 
+              (NP-LGS (NNP Kohlberg) (NNP Kravis) (NNP Roberts) (CC &) (NNP Co.) )))
+          (, ,) )))
+    (VP (VBD confirmed) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP 
+              (VP (VBG shutting) 
+                (PRT (RP down) )
+                (NP (DT the) (NNP RJR) (NNP Nabisco) (NNP Broadcast) (NN unit) ))
+              (, ,) 
+              (CC and)
+              (VP (VBG dismissing) 
+                (NP (PRP$ its) (CD 14) (NNS employees) ))
+              (, ,) 
+              (PP-LOC (IN in) 
+                (NP (DT a) (NN move) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB save) 
+                        (NP (NN money) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP RJR) )
+          (VP (VBZ is) 
+            (VP (VBG discussing) 
+              (NP (PRP$ its) (JJ network-buying) (NNS plans) )
+              (PP (IN with) 
+                (NP 
+                  (NP (PRP$ its) (CD two) (JJ main) (NN advertising) (NNS firms) )
+                  (, ,) 
+                  (NP 
+                    (NP (NNP FCB\/Leber) (NNP Katz) )
+                    (CC and) 
+                    (NP (NNP McCann) (NNP Erickson) )))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-3 
+      (NP-SBJ (PRP We) )
+      (VP (VBD found) 
+        (PP (IN with) 
+          (NP 
+            (NP (DT the) (NN size) )
+            (PP (IN of) 
+              (NP (PRP$ our) (NNS media) (NNS purchases) ))))
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT an) (NN ad) (NN agency) )
+            (VP (MD could) 
+              (VP (VB do) 
+                (NP 
+                  (ADJP (RB just) (RB as) (JJ good) )
+                  (DT a) (NN job) )
+                (PP (IN at) 
+                  (NP 
+                    (ADJP (RB significantly) (JJR lower) )
+                    (NN cost) ))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-3) ))
+    (NP-SBJ 
+      (NP (DT the) (NN spokesman) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ-4 (-NONE- *T*-1) )
+          (VP (VBD declined) 
+            (S 
+              (NP-SBJ (-NONE- *-4) )
+              (VP (TO to) 
+                (VP (VB specify) 
+                  (SBAR 
+                    (WHNP-2 (WRB how) (JJ much) )
+                    (S 
+                      (NP-SBJ (NNP RJR) )
+                      (VP (VBZ spends) 
+                        (NP (-NONE- *T*-2) )
+                        (PP-CLR (IN on) 
+                          (NP (NN network) (NN television) (NN time) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT An) (NN executive) )
+      (ADJP (RB close) 
+        (PP (TO to) 
+          (NP (DT the) (NN company) ))))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP RJR) )
+          (VP (VBZ is) 
+            (VP (VBG spending) 
+              (NP 
+                (NP 
+                  (QP (RB about) ($ $) (CD 140) (CD million) )
+                  (-NONE- *U*) )
+                (ADVP (-NONE- *ICH*-1) ))
+              (PP-CLR (IN on) 
+                (NP (NN network) (NN television) (NN time) ))
+              (NP-TMP (DT this) (NN year) )
+              (, ,) 
+              (ADVP-1 (RB down) 
+                (PP (IN from) 
+                  (NP 
+                    (NP 
+                      (QP (RB roughly) ($ $) (CD 200) (CD million) )
+                      (-NONE- *U*) )
+                    (NP-TMP (JJ last) (NN year) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (S 
+            (NP-SBJ-1 (DT the) (NN broadcast) (NN unit) )
+            (VP (MD will) 
+              (VP (VB be) 
+                (VP (VBN disbanded) 
+                  (NP (-NONE- *-1) )
+                  (NP-TMP (NNP Dec.) (CD 1) )))))
+          (, ,) 
+          (CC and)
+          (S 
+            (NP-SBJ (DT the) (NN move) )
+            (VP (MD wo) (RB n't) 
+              (VP (VB affect) 
+                (NP 
+                  (NP (NNP RJR) (POS 's) )
+                  (NN print) 
+                  (, ,)
+                  (NN radio) 
+                  (CC and)
+                  (JJ spot-television) (NN buying) (NNS practices) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN broadcast) (NN group) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (VP (VBN based) 
+          (NP (-NONE- *-1) )
+          (PP-LOC-CLR (IN in) 
+            (NP (NNP New) (NNP York) ))
+          (PP-TMP (IN until) 
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RB ago) )
+            (, ,) 
+            (SBAR 
+              (WHADVP-2 (WRB when) )
+              (S 
+                (NP-SBJ 
+                  (NP (NNP RJR) (POS 's) )
+                  (JJ previous) (NN management) )
+                (VP (VBD moved) 
+                  (NP (PRP it) )
+                  (PP-DIR (TO to) 
+                    (NP 
+                      (NP (NNP Atlanta) )
+                      (, ,) 
+                      (NP 
+                        (NP (DT the) (NN company) (POS 's) )
+                        (NN headquarters) )))
+                  (PP-TMP (IN before) 
+                    (NP (DT this) (NN summer) ))
+                  (ADVP-TMP (-NONE- *T*-2) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (CD One) (NN employee) )
+      (PP (IN with) 
+        (NP (DT the) (NN group) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP RJR) )
+          (VP (VBD moved) 
+            (NP 
+              (NP (CD 11) (NNS employees) )
+              (PP (IN of) 
+                (NP (DT the) (NN group) )))
+            (ADVP-DIR (RB back) 
+              (PP (TO to) 
+                (NP (NNP New) (NNP York) )))
+            (PP-TMP (IN in) 
+              (NP (NNP September) ))
+            (SBAR-PRP (IN because) (`` ``) 
+              (S 
+                (NP-SBJ-1 (EX there) )
+                (VP (VBD was) 
+                  (VP (VBN supposed) 
+                    (S 
+                      (NP-SBJ (-NONE- *-1) )
+                      (VP (TO to) 
+                        (VP (VB be) 
+                          (NP-PRD (DT a) (NN future) ))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN company) )
+          (VP (VBD hired) 
+            (NP (CD three) (JJR more) (NNS buyers) )
+            (PP-PRP (IN for) 
+              (NP (DT the) (NN unit) ))
+            (PP-TMP (IN within) 
+              (NP (DT the) (JJ past) (CD two) (NNS weeks) ))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VBG wooing) 
+                (NP (PRP them) )
+                (PP-DIR (IN from) 
+                  (NP 
+                    (NP (NNS jobs) )
+                    (PP (IN with) 
+                      (NP (NN advertising) (NNS agencies) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP RJR) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP (VBD moved) 
+            (NP (DT the) (CD 11) (NNS employees) )
+            (PP-DIR (TO to) 
+              (NP (NNP New) (NNP York) ))
+            (NP-TMP (JJ last) (NN month) )
+            (SBAR-PRP (IN because) 
+              (S 
+                (NP-SBJ-1 (DT the) (NN group) )
+                (VP (VBD had) 
+                  (ADVP-TMP (RB then) )
+                  (VP (VBN been) 
+                    (PP-LOC-PRD (IN in) 
+                      (NP 
+                        (NP (DT the) (NN midst) )
+                        (PP (IN of) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *-1) )
+                            (VP (VBG purchasing) 
+                              (NP 
+                                (NP (NN ad) (NN time) )
+                                (PP-PRP (IN for) 
+                                  (NP 
+                                    (NP (DT the) (NNS networks) (POS ') )
+                                    (JJ upcoming) (NN season) ))))))))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (DT The) (NNS studies) )
+        (PRN 
+          (-LRB- -LCB-)
+          (PP (IN on) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG closing) 
+                (NP (DT the) (NN unit) ))))
+          (-RRB- -RCB-) ))
+      (VP (MD could) (RB n't) 
+        (VP (VB be) 
+          (VP (VBN completed) 
+            (NP (-NONE- *-1) )
+            (PP-TMP (IN until) 
+              (NP (RB now) ))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (DT The) (NN group) (POS 's) )
+        (NN president) )
+      (, ,) 
+      (NP (NNP Peter) (NNP Chrisanthopoulos) )
+      (, ,) )
+    (VP (VBD was) (RB n't) 
+      (PP-LOC-PRD (IN in) 
+        (NP (PRP$ his) (NN office) ))
+      (NP-TMP (NNP Friday) (NN afternoon) )
+      (S-PRP 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB comment) ))))
+    (. .) ))

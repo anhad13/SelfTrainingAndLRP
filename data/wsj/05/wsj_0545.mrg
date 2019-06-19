@@ -1,0 +1,113 @@
+
+( (SINV 
+    (S-TPC-2 
+      (NP-SBJ (DT The) (JJ Canadian) (NN pig) (NN herd) )
+      (VP (VBD totaled) 
+        (NP 
+          (NP (CD 10,674,500) ))
+        (PP-TMP (IN at) 
+          (NP (NNP Oct.) (CD 1) ))
+        (, ,) 
+        (ADVP (RB down) 
+          (NP (CD 3) (NN %) )
+          (PP (IN from) 
+            (NP-TMP (DT a) (NN year) (RBR earlier) )))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (NP-SBJ 
+      (NP (NNPS Statistics) (NNP Canada) )
+      (, ,) 
+      (NP (DT a) (JJ federal) (NN agency) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNS Sows) )
+        (PP (IN for) 
+          (NP (VBG breeding) )))
+      (CC and) 
+      (NP (VBN bred) (NNS gilts) ))
+    (VP (VBD totaled) 
+      (NP 
+        (NP (CD 1,070,000) )
+        (, ,) 
+        (ADVP (RB down) 
+          (NP (CD 2) (NN %) )
+          (PP (IN from) 
+            (NP-TMP (DT a) (NN year) (IN ago) )))))
+    (. .) ))
+( (S 
+    (PRN 
+      (-LRB- -LRB-)
+      (NP-HLN 
+        (NP (NNP Jacksonville) )
+        (, ,) 
+        (NP (NNP Fla.) ))
+      (-RRB- -RRB-) )
+    (: --) 
+    (NP-SBJ 
+      (NP (NNP Charles) (NNP Bates) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (, ,) 
+        (NP (NN chief) (NN executive) )
+        (CC and) 
+        (NP (NN chief) (VBG operating) (NN officer) )))
+    (VP (MD will) 
+      (VP (VB resign) 
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (DT these) (NNS positions) )
+            (CC and) 
+            (NP (DT the) (NN board) )))
+        (ADJP-ADV (JJ effective) 
+          (NP-TMP (NNP Oct.) (CD 31) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Norman) (NNP J.) (NNP Harrison) )
+      (, ,) 
+      (NP (NN chairman) )
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB succeed) 
+        (NP (PRP him) )
+        (PP-CLR (RB as) 
+          (NP (NN chief) (NN executive) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Roger) (NNP L.) (NNP Sutton) )
+      (, ,) 
+      (NP (JJ executive) (NN vice) (NN president) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN appointed) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN as) 
+          (NP (DT the) (JJ new) 
+            (NX 
+              (NX (NN president) )
+              (CC and) 
+              (NX (NN chief) (VBG operating) (NN officer) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Kerry) (NNP P.) (NNP Charlet) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB become) 
+          (NP-PRD (JJ executive) (NN vice) (NN president) ))
+        (, ,) 
+        (CC and)
+        (VP (VB retain) 
+          (NP 
+            (NP (PRP$ his) (NNS positions) )
+            (PP (IN as) 
+              (NP 
+                (NP (NN chief) (JJ financial) (NN officer) )
+                (CC and) 
+                (NP (NN treasurer) )))))))
+    (. .) ))

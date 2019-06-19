@@ -1,0 +1,122 @@
+
+( (S 
+    (NP-SBJ (NNP Sterling) (NNP Software) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD lost) 
+            (NP (PRP$ its) (NN bid) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB supply) 
+                    (NP (NN software) (NNS services) )
+                    (PP-CLR (TO to) 
+                      (NP 
+                        (NP 
+                          (NP (DT the) (NNP National) (NNP Aeronautics) 
+                            (CC and)
+                            (NNP Space) (NNP Administration) (POS 's) )
+                          (NNP Ames) (NNP Research) (NNP Center) )
+                        (PP-LOC (IN at) 
+                          (NP 
+                            (NP (NNP Moffett) (NNP Field) )
+                            (, ,) 
+                            (NP-LOC (NNP Calif) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Sterling) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD estimated) 
+            (NP 
+              (NP (DT the) (NN value) )
+              (PP (IN of) 
+                (NP (DT the) (NN contract) )))
+            (PP-CLR (IN at) 
+              (NP 
+                (QP ($ $) (CD 150) (CD million) )
+                (-NONE- *U*) )))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP NASA) )
+          (VP (VBD selected) 
+            (NP (DT another) (NN bidder) )
+            (PP (IN for) 
+              (NP (JJ final) (NNS negotiations) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (CD 1988) ))
+    (, ,) 
+    (NP-SBJ-1 (JJ Dallas-based) (NNP Sterling) )
+    (VP (VBD protested) 
+      (NP 
+        (NP (DT a) (JJ similar) (NN decision) )
+        (PP (IN by) 
+          (NP (NNP NASA) ))
+        (VP (VBG involving) 
+          (NP (DT the) (JJ same) (NN contract) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG claiming) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (VBD had) 
+                (VP (VBN submitted) 
+                  (NP (DT the) (JJS lowest) (NN bid) ))))))))
+    (. .) ))
+( (S 
+    (PP-PRP (IN As) 
+      (NP (DT a) (NN result) ))
+    (, ,) 
+    (NP-TMP (JJ last) (NNP March) )
+    (NP-SBJ 
+      (NP (DT the) (NNP General) (NNPS Services) (NNP Administration) (NN board) )
+      (PP (IN of) 
+        (NP (NN contract) (NNS appeals) )))
+    (VP (VBD directed) 
+      (NP-1 (NNP NASA) )
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB reopen) 
+            (NP 
+              (NP (NNS negotiations) )
+              (PP (IN on) 
+                (NP (DT the) (NN contract) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Sterling) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP 
+            (VP (VBD had) 
+              (VP (VBN requested) 
+                (NP 
+                  (NP (DT a) (NN briefing) )
+                  (PP (IN by) 
+                    (NP (NNP NASA) )))))
+            (CC but) 
+            (VP (VBD had) (RB not) 
+              (VP (VBN decided) 
+                (SBAR (IN whether) 
+                  (S 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (TO to) 
+                      (VP (VB protest) 
+                        (NP 
+                          (NP (DT the) (NN agency) (POS 's) )
+                          (JJS latest) (NN decision) )))))))))))
+    (. .) ))

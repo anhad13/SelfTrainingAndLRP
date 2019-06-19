@@ -1,0 +1,33 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Joseph) (NNP L.) (NNP Dionne) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (NN chairman) )
+          (PP (-NONE- *RNR*-2) ))
+        (CC and) 
+        (NP 
+          (NP (NN chief) (JJ executive) (NN officer) )
+          (PP (-NONE- *RNR*-2) ))
+        (PP-2 (IN of) 
+          (NP (NNP McGraw-Hill) (NNP Inc.) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (NN board) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNS directors) )
+                (PP (IN of) 
+                  (NP (DT this) (NNS electronics) (NN manufacturer) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ succeeds) 
+      (NP (DT the) (VBG retiring) (NNP James) (NNP W.) (NNP Wilcock) ))
+    (. .) ))

@@ -1,0 +1,380 @@
+
+( (S 
+    (NP-SBJ (NNP Gulf) (NNP Resources) (CC &) (NNP Chemical) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB pay) 
+                  (NP 
+                    (QP ($ $) (CD 1.5) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN as) 
+                    (NP 
+                      (NP (NN part) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT an) (NN accord) )
+                          (PP (IN with) 
+                            (NP (DT the) (NNP Environmental) (NNP Protection) (NNP Agency) ))
+                          (VP (VBG regarding) 
+                            (NP 
+                              (NP (DT an) (JJ environmental) (NN cleanup) )
+                              (PP (IN of) 
+                                (NP 
+                                  (NP (DT a) (JJ defunct) (NN smelter) )
+                                  (SBAR 
+                                    (WHNP-1 (-NONE- 0) )
+                                    (S 
+                                      (NP-SBJ (DT the) (NN company) )
+                                      (ADVP-TMP (RB formerly) )
+                                      (VP (VBD operated) 
+                                        (NP (-NONE- *T*-1) ))))
+                                  (PP-LOC (IN in) 
+                                    (NP (NNP Idaho) )))))))))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (CD 1984) ))
+    (NP-SBJ (DT the) (NNP EPA) )
+    (VP (VBD notified) 
+      (NP 
+        (NP (NNP Gulf) (NNP Resources) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD was) 
+              (NP-PRD 
+                (NP (DT a) (NN part-owner) )
+                (PP (IN of) 
+                  (NP (DT the) (NN smelter) )))))))
+      (, ,) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBD was) 
+            (ADJP-PRD (RB potentially) (JJ liable) 
+              (PP (IN for) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (VBG sharing) 
+                    (NP 
+                      (NP (NN cleanup) (NNS costs) )
+                      (PP-LOC (IN at) 
+                        (NP (DT the) (NN site) )))
+                    (PP-LOC (IN under) 
+                      (NP (DT the) (JJ federal) (NNP Superfund) (NN program) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ 21-square-mile) (NN area) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ contaminated) 
+        (PP (IN with) 
+          (NP 
+            (NP (NN lead) )
+            (, ,) 
+            (NP (NN zinc) )
+            (CC and) 
+            (NP (JJ other) (NNS metals) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Gulf) (NNP Resources) )
+    (NP-TMP (RBR earlier) (DT this) (NN year) )
+    (VP (VBD proposed) 
+      (NP 
+        (NP (DT a) (NN reorganization) (NN plan) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-1) )
+            (VP (MD would) 
+              (VP (VB make) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (NP-PRD 
+                    (NP (DT a) (NN unit) )
+                    (PP (IN of) 
+                      (NP (DT a) (NNP Bermuda) (NN concern) ))))
+                (, ,) 
+                (S-ADV 
+                  (NP-SBJ (-NONE- *-2) )
+                  (ADVP (RB potentially) )
+                  (VP (VBG exempting) 
+                    (NP (PRP it) )
+                    (PP-CLR (IN from) 
+                      (NP 
+                        (NP (NN liability) )
+                        (PP (IN for) 
+                          (NP 
+                            (NP (DT the) (NN smelter) (POS 's) )
+                            (NN cleanup) (NNS costs) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (PP (IN as) 
+            (NP 
+              (NP (NN part) )
+              (PP (IN of) 
+                (NP 
+                  (NP (PRP$ its) (NN agreement) )
+                  (PP (IN with) 
+                    (NP (DT the) (NNP EPA) ))))))
+          (, ,) 
+          (NP-SBJ (PRP it) )
+          (`` ``) 
+          (VP (VBD made) 
+            (NP (JJ certain) (JJ voluntary) (NNS undertakings) )
+            (PP (IN with) 
+              (NP 
+                (NP (NN respect) )
+                (PP (TO to) 
+                  (NP 
+                    (NP (JJ intercorporate) (NNS transactions) )
+                    (VP (VBN entered) 
+                      (PP-DIR (IN into) 
+                        (NP (-NONE- *) ))
+                      (PP-TMP (IN after) 
+                        (NP (DT the) (NN reorganization) )))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN company) )
+      (, ,) 
+      (SBAR 
+        (WHNP-3 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-3) )
+          (VP (VBD issued) 
+            (NP 
+              (NP (DT a) (NN statement) )
+              (PP (IN on) 
+                (NP (DT the) (NN agreement) )))
+            (NP-TMP (RB late) (NNP Friday) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-2 
+              (NP 
+                (QP ($ $) (CD 1) (CD million) )
+                (-NONE- *U*) )
+              (PP (IN of) 
+                (NP (DT the) (NN payment) )))
+            (VP (VBD was) 
+              (ADVP-TMP (RB previously) )
+              (VP (VBN provided) 
+                (PP-CLR (IN for) 
+                  (NP (-NONE- *-2) ))
+                (PP-LOC (IN in) 
+                  (NP (PRP$ its) (JJ financial) (NNS statements) ))))))
+        (CC and) 
+        (SBAR (DT that) 
+          (S 
+            (NP-SBJ-1 ($ $) (CD 500,000) (-NONE- *U*) )
+            (VP (MD will) 
+              (VP (VB be) 
+                (VP (VBN recognized) 
+                  (NP (-NONE- *-1) )
+                  (PP-LOC (IN in) 
+                    (NP (PRP$ its) (CD 1989) (JJ third-quarter) (NN statement) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN agreement) 
+        (CC and)
+        (NN consent) (NN decree) )
+      (VP (VBP are) 
+        (ADJP-PRD (JJ subject) 
+          (PP (TO to) 
+            (NP (NN court) (NN approval) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Gulf) (NNP Resources) )
+    (VP (VBD added) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (`` ``) 
+          (VP (MD will) 
+            (VP (VB seek) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB recover) 
+                    (NP (JJ equitable) (NN contribution) )
+                    (PP-CLR (IN from) 
+                      (NP (NNS others) ))
+                    (PP (IN for) 
+                      (NP (CC both) 
+                        (NP 
+                          (NP (DT the) (NN amount) )
+                          (PP (IN of) 
+                            (NP (DT the) (NN settlement) )))
+                        (CC and) 
+                        (NP 
+                          (NP (DT any) (JJ other) (NNS liabilities) )
+                          (SBAR 
+                            (WHNP-1 (-NONE- 0) )
+                            (S 
+                              (NP-SBJ (PRP it) )
+                              (VP (MD may) 
+                                (VP (VB incur) 
+                                  (NP (-NONE- *T*-1) )
+                                  (PP-LOC (IN under) 
+                                    (NP (DT the) (NNP Superfund) (NN law) )))))))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NN agreement) ))
+    (, ,) 
+    (NP-SBJ-1 (NNP Gulf) )
+    (VP (MD must) 
+      (VP (VB give) 
+        (NP (DT the) (NNP U.S.) (NN government) )
+        (NP (CD 45) (NNS days) (POS ') (JJ advance) (JJ written) (NN notice) )
+        (PP-TMP (IN before) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG issuing) 
+              (NP (DT any) (NNS dividends) )
+              (PP (IN on) 
+                (NP (JJ common) (NN stock) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN company) (POS 's) )
+      (JJ net) (NN worth) )
+    (VP (MD can) (RB not) 
+      (VP (VB fall) 
+        (PP-DIR (IN below) 
+          (NP 
+            (QP ($ $) (CD 185) (CD million) )
+            (-NONE- *U*) ))
+        (SBAR-TMP (IN after) 
+          (S 
+            (NP-SBJ-1 (DT the) (NNS dividends) )
+            (VP (VBP are) 
+              (VP (VBN issued) 
+                (NP (-NONE- *-1) )))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (NNS terms) )
+        (PP (IN of) 
+          (NP (DT that) (NN agreement) )))
+      (ADVP (RB only) )
+      (VP (VBP become) 
+        (ADJP-PRD (JJ effective) )
+        (NP-TMP 
+          (NP 
+            (NP (DT the) (NN date) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Gulf) (POS 's) )
+                (NN reorganization) )))
+          (, ,) 
+          (SBAR 
+            (WHNP-2 (WDT which) )
+            (S 
+              (NP-SBJ (PRP we) )
+              (VP (VBP anticipate) 
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP-SBJ (-NONE- *T*-2) )
+                    (VP (MD will) 
+                      (VP (VB occur) 
+                        (ADVP-TMP (RB sometime) )
+                        (PP-TMP (IN in) 
+                          (NP (JJ early) (CD 1990) ))))))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Lawrence) (NNP R.) (NNP Mehl) )
+      (, ,) 
+      (NP 
+        (NP (NNP Gulf) (POS 's) )
+        (JJ general) (NN counsel) ))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ (NNP Gulf) )
+    (VP (MD must) 
+      (VP (VB give) 
+        (NP (DT the) (NN government) )
+        (NP 
+          (NP (CD 20) (NNS days) (POS ') (JJ advance) (JJ written) (NN notice) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT any) (NNS loans) )
+              (VP (VBG exceeding) 
+                (NP 
+                  (QP ($ $) (CD 50) (CD million) )
+                  (-NONE- *U*) ))
+              (SBAR 
+                (WHNP-2 (WDT that) )
+                (S 
+                  (NP-SBJ-1 (-NONE- *T*-2) )
+                  (VP (VBP are) 
+                    (VP (VBN made) 
+                      (NP (-NONE- *-1) )
+                      (PP-DTV (TO to) 
+                        (NP (DT the) (JJ Bermuda-based) (NN holding) (NN company) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Gulf) (POS 's) )
+        (JJ net) (NN worth) )
+      (PP-TMP (IN after) 
+        (NP (DT those) (NN transaction) )))
+    (VP (MD must) 
+      (VP (VB be) 
+        (NP-PRD 
+          (QP (IN at) (JJS least) ($ $) (CD 150) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (ADVP (RB Separately) )
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-3 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ-1 (-NONE- *-3) )
+              (VP (TO to) 
+                (VP (VB hold) 
+                  (NP 
+                    (NP (DT a) (JJ special) (NN meeting) )
+                    (PP (IN for) 
+                      (NP (NNS shareholders) )))
+                  (PP-TMP (IN in) 
+                    (NP (JJ early) (CD 1990) ))
+                  (S-PRP 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (TO to) 
+                      (VP (VB vote) 
+                        (PP-CLR (IN on) 
+                          (NP (PRP$ its) (VBN proposed) (NN reorganization) ))))))))))))
+    (. .) ))

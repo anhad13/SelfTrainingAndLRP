@@ -1,0 +1,115 @@
+((S 
+    (SBAR-ADV (IN As) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBN expected) )))
+    (, ,) 
+    (NP-SBJ (NNP First) (NNP Interstate) (NNP Bancorp) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) (JJ net) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 15.5) (CD million) )
+            (-NONE- *U*) ))
+        (PP (IN for) 
+          (NP (PRP$ its) (JJ third) (NN quarter) )))
+      (PP-PRP (IN because) (IN of) 
+        (NP 
+          (NP (NN hemorrhaging) )
+          (PP-LOC (IN at) 
+            (NP (PRP$ its) 
+              (NAC (NNP First) (NNP Interstate) (NNP Bank) 
+                (PP (IN of) 
+                  (NP (NNP Arizona) )))
+              (NN unit) )))))
+    (. .) ))
+((S 
+    (NP-SBJ (DT The) 
+      (ADJP (NNP Los) (JJ Angeles-based) )
+      (NN bank) (VBG holding) (NN company) )
+    (VP (VBD disclosed) 
+      (NP-TMP (JJ last) (NNP Friday) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD had) 
+            (VP (VBN taken) 
+              (NP 
+                (NP (DT a) (JJ huge) 
+                  (ADJP 
+                    (QP ($ $) (CD 350) (CD million) )
+                    (-NONE- *U*) )
+                  (NN provision) )
+                (PP (IN for) 
+                  (NP 
+                    (NP 
+                      (NP (NN loan) (NNS losses) )
+                      (PP-LOC (IN at) 
+                        (NP (DT the) (NNP Arizona) (NN bank) )))
+                    (, ,) 
+                    (NP 
+                      (NP (DT the) (NN result) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT the) (NN state) (POS 's) )
+                          (VBG worsening) (JJ real-estate) (NN market) )))))))))))
+    (. .) ))
+((S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (NN yesterday) (POS 's) )
+        (NN report) ))
+    (, ,) 
+    (NP-SBJ (NNP First) (NNP Interstate) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP$ its) (NN bank) )
+            (PP-LOC (IN in) 
+              (NP (NNP Texas) )))
+          (ADVP (RB also) )
+          (VP (VBD reported) 
+            (NP 
+              (NP (DT a) (NN loss) )
+              (PP (IN of) 
+                (NP 
+                  (QP ($ $) (CD 23.5) (CD million) )
+                  (-NONE- *U*) ))
+              (PP (IN for) 
+                (NP (DT the) (NN quarter) )))))))
+    (. .) ))
+((S (CC But) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (PRP$ its) (NN consumer) (NNS banks) )
+              (PP-LOC (IN in) 
+                (NP (NNP Oregon) 
+                  (, ,)
+                  (NNP California) 
+                  (, ,)
+                  (NNP Nevada) 
+                  (CC and)
+                  (NNP Washington) )))
+            (VP (VBD performed) 
+              (ADVP-MNR (RB well) )
+              (PP-TMP (IN during) 
+                (NP (DT the) (NN quarter) )))))
+        (CC and) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (JJ nonperforming) (NNS assets) )
+              (PP-LOC (IN at) 
+                (NP (DT these) (NNS banks) )))
+            (VP (VBD declined) 
+              (PP-EXT (IN by) 
+                (NP (CD 14) (NN %) ))
+              (PP-TMP (IN over) 
+                (NP (DT the) (JJ year-ago) (NN period) )))))))
+    (. .) ))

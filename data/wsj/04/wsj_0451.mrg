@@ -1,0 +1,399 @@
+
+( (S 
+    (NP-SBJ (NNP Ford) (NNP Motor) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG recalling) 
+              (NP 
+                (NP 
+                  (QP (RB about) (CD 3,600) ))
+                (PP (IN of) 
+                  (NP (PRP$ its) (JJ 1990-model) (NNS Escorts) )))
+              (SBAR-PRP (IN because) 
+                (S 
+                  (NP-SBJ-1 (DT the) (NN windshield) (NN adhesive) )
+                  (VP (VBD was) 
+                    (VP 
+                      (ADVP-MNR (RB improperly) )
+                      (VBN applied) 
+                      (NP (-NONE- *-1) )
+                      (PP-CLR (TO to) 
+                        (NP (DT some) (NNS cars) )))))))))))
+    (. .) ))
+( (S 
+    (ADVP (NNP Separately) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Ford) )
+      (CC and) 
+      (NP 
+        (NP (NNP Mazda) (NNP Motor) (NNP Corp.) (POS 's) )
+        (NNP U.S.) (NNS sales) (NN arm) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP they) )
+          (VP (VBP are) 
+            (VP (VBG recalling) 
+              (NP 
+                (NP 
+                  (NP 
+                    (QP (RB about) (CD 88,500) )
+                    (JJ 1988-model) (NNP Mercury) (NNP Tracers) )
+                  (CC and) 
+                  (NP (CD 220,000) (CD 1986) 
+                    (, ,)
+                    (CD 1987) 
+                    (CC and)
+                    (CD 1988) (NN model) (NNP Mazda) (NNS 323s) ))
+                (VP (VBN equipped) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN with) 
+                    (NP (JJ 1.6-liter) (JJ fuel-injected) (NNS engines) ))))
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB replace) 
+                    (NP (DT the) (NN oil) (NN filler) (NN cap) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mazda) )
+    (VP (VBZ makes) 
+      (NP (DT the) (NNP Tracer) )
+      (PP (IN for) 
+        (NP (NNP Ford) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (PP (IN As) 
+        (NP 
+          (NP (DT a) (NN result) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (JJ adhesive) (NN problem) )
+              (PP (IN on) 
+                (NP (DT the) (NNP Ford) (NNP Escort) (NNS subcompacts) ))))))
+      (, ,) 
+      (NP-SBJ (NNS windshields) )
+      (VP (MD may) 
+        (VP 
+          (ADVP-MNR (RB easily) )
+          (VB separate) 
+          (PP-CLR (IN from) 
+            (NP (DT the) (NN car) ))
+          (PP-TMP (IN during) 
+            (NP (JJ frontal) (NN impact) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP U.S.) (NN auto) (NN maker) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB When) )
+      (S 
+        (NP-SBJ-3 (-NONE- *-2) )
+        (VP 
+          (ADVP-MNR (RB properly) )
+          (VBN applied) 
+          (NP (-NONE- *-3) )
+          (ADVP-TMP (-NONE- *T*-1) ))))
+    (, ,) 
+    (NP-SBJ-2 (DT the) (NN adhesive) )
+    (VP (VBZ is) 
+      (VP (VBN designed) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB retain) 
+              (NP (DT the) (NN windshield) )
+              (PP-LOC-CLR (IN in) 
+                (NP (NN place) ))
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (DT a) (JJ crash) (NN test) )
+                  (PP (IN at) 
+                    (NP 
+                      (NP (CD 30) (NNS miles) )
+                      (PP (IN per) 
+                        (NP (NN hour) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NNP Ford) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) 
+            (NAC-LOC (NNP Dearborn) 
+              (, ,)
+              (NNP Mich.) 
+              (, ,)
+              )
+            (NN auto) (NN maker) )
+          (VP (VBZ is) (RB n't) 
+            (ADJP-PRD (JJ aware) 
+              (PP (IN of) 
+                (NP 
+                  (NP (DT any) (NNS injuries) )
+                  (VP (VBN caused) 
+                    (NP (-NONE- *) )
+                    (PP (IN by) 
+                      (NP-LGS (DT the) (NN windshield) (NN problem) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ford) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (S 
+            (NP-SBJ (NNS owners) )
+            (VP (MD should) 
+              (VP (VB return) 
+                (NP (DT the) (NNS cars) )
+                (PP-CLR (TO to) 
+                  (NP (NNS dealers) )))))
+          (IN so) 
+          (S 
+            (NP-SBJ-1 (DT the) (NNS windshields) )
+            (VP (MD can) 
+              (VP (VB be) 
+                (VP 
+                  (VP (VBN removed) 
+                    (NP (-NONE- *-1) ))
+                  (CC and) 
+                  (VP 
+                    (ADVP-MNR (RB securely) )
+                    (VBN reinstalled) 
+                    (NP (-NONE- *-1) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mazda) 
+      (CC and)
+      (NNP Ford) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT a) (NN combination) )
+            (PP (IN of) 
+              (NP 
+                (NP (JJ limited) (NN crankcase) (NN ventilation) )
+                (CC and) 
+                (NP (JJ improper) (NN maintenance) ))))
+          (VP (MD could) 
+            (VP (VB cause) 
+              (S 
+                (NP-SBJ 
+                  (NP (NN engine) (NN oil) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (DT some) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT the) (NNP Mercury) (NNP Tracers) )
+                          (CC and) 
+                          (NP (NNP Mazda) (NNS 323s) ))))))
+                (VP (TO to) 
+                  (VP (VB deteriorate) 
+                    (ADVP-MNR 
+                      (ADVP (RBR more) (RB rapidly) )
+                      (PP (IN than) 
+                        (ADJP (JJ normal) )))
+                    (, ,) 
+                    (S-ADV 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG causing) 
+                        (NP 
+                          (NP (VBN increased) (NN engine) (NN noise) )
+                          (CC or) 
+                          (NP (VBN reduced) (NN engine) (NN life) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS problems) )
+          (VP (VBP are) (RB n't) 
+            (ADJP-PRD (NN safety) (VBN related) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) (NNS companies) )
+    (VP (MD will) 
+      (VP (VB replace) 
+        (NP (DT the) (NN oil) (NN filler) (NN cap) )
+        (PP-CLR (IN with) 
+          (NP (DT a) (VBN ventilated) (NN oil) (NN filler) (NN cap) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) )
+    (ADVP (RB also) )
+    (VP (MD will) 
+      (VP (VB inspect) 
+        (CC and)
+        (VB replace) 
+        (PRN 
+          (, ,)
+          (SBAR-ADV (IN if) 
+            (FRAG 
+              (ADJP (JJ necessary) )))
+          (, ,) )
+        (NP 
+          (NP (NN oil) (NNS filters) )
+          (CC and) 
+          (NP (NN oil) (NNS strainers) ))
+        (, ,) 
+        (PP (IN at) 
+          (NP 
+            (NP (DT no) (NN charge) )
+            (PP (TO to) 
+              (NP (NNS owners) ))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP 
+        (NP (NNS owners) )
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBP have) 
+              (VP (VBN followed) 
+                (NP (DT the) (VBN recommended) (NN oil) (NN maintenance) (NN schedule) )))))))
+    (, ,) 
+    (NP-SBJ (NNP Mazda) )
+    (VP (MD will) 
+      (VP (VB extend) 
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (CD five) (NNS years) )
+            (CC or) 
+            (NP (CD 60,000) (NNS miles) )))
+        (NP 
+          (NP (DT the) (NN warranty) (NN term) )
+          (PP (IN for) 
+            (NP 
+              (NP (NN engine) (NN damage) )
+              (ADJP (JJ due) 
+                (PP (TO to) 
+                  (NP (JJ abnormal) (NN engine) (NN oil) (NN deterioration) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (DT The) (JJ normal) (NN term) )
+        (PP (IN for) 
+          (NP (DT the) (CD 1986) 
+            (CC and)
+            (CD 1987) (NN model) (CD 323) )))
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (CD two) (NNS years) )
+          (CC or) 
+          (NP (CD 24,000) (NNS miles) ))))
+    (: ;) 
+    (S 
+      (NP-SBJ 
+        (NP (DT the) (NN term) )
+        (PP (IN for) 
+          (NP (DT the) (CD 1988) (CD 323) )))
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (CD three) (NNS years) )
+          (CC or) 
+          (NP (CD 50,000) (NNS miles) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ford) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN term) )
+            (PP (IN on) 
+              (NP (PRP$ its) (NN warranty) )))
+          (VP (VBZ is) 
+            (ADVP (RB already) )
+            (NP-PRD 
+              (NP (CD six) (NNS years) )
+              (CC or) 
+              (NP (CD 60,000) (NNS miles) ))))))
+    (. .) ))
+( (S 
+    (ADVP (NNP Separately) )
+    (, ,) 
+    (NP-SBJ (NNP Ford) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB offer) 
+              (NP 
+                (ADJP ($ $) (CD 750) (-NONE- *U*) )
+                (NN cash) (NNS rebates) )
+              (PP-DTV (TO to) 
+                (NP 
+                  (NP (NNS buyers) )
+                  (PP (IN of) 
+                    (NP (PRP$ its) (JJ 1990-model) (NNP Ford) (NNP Bronco) (NN sport) (NN utility) (NN vehicle) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (ADVP (RB also) )
+            (VP (VB offer) 
+              (NP (NNS buyers) )
+              (NP 
+                (NP (DT the) (NN option) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NN financing) )
+                    (ADJP 
+                      (ADJP (RB as) (JJ low) )
+                      (PP (IN as) 
+                        (NP (CD 6.9) (NN %) )))
+                    (PP (IN on) 
+                      (NP (JJ 24-month) (NNS loans) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ford) )
+    (ADVP (RB also) )
+    (VP (VBD offered) 
+      (NP (DT the) (JJ low) (NN financing) (NN rate) (NN option) )
+      (PP-CLR (IN on) 
+        (NP 
+          (NP (JJ 1989-model) (NNS Broncos) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (ADVP-TMP (RB previously) )
+              (VP (VBD carried) 
+                (NP (DT a) 
+                  (ADJP ($ $) (CD 750) (-NONE- *U*) )
+                  (NN cash) (NN discount) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ford) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ new) (NN offer) )
+          (VP (MD will) 
+            (VP 
+              (VP (VB begin) 
+                (NP-TMP-CLR (NNP Saturday) ))
+              (CC and) 
+              (VP (VB run) 
+                (ADVP-TMP (RB indefinitely) )))))))
+    (. .) ))

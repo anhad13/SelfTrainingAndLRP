@@ -1,0 +1,221 @@
+
+( (S 
+    (NP-SBJ (NNP Storage) (NNP Technology) (NNP Corp.) )
+    (VP (VBD had) 
+      (NP 
+        (NP 
+          (NP (JJ net) (NN income) )
+          (PP (IN of) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 8.3) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP (CD 32) (NNS cents) )
+                (NP-ADV (DT a) (NN share) ))
+              (, ,) )))
+        (NP (-NONE- *ICH*-2) ))
+      (PP (IN for) 
+        (NP 
+          (NP (PRP$ its) (JJ fiscal-third) (NN quarter) )
+          (VP (VBD ended) 
+            (NP-TMP (NNP Sept.) (CD 29) ))))
+      (, ,) 
+      (NP-2 
+        (NP 
+          (NP 
+            (QP (RB almost) (CD 15) (NNS times) )
+            (DT the) ($ $) (CD 557,000) (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP (CD two) (NNS cents) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD posted) 
+              (NP (-NONE- *T*-1) )
+              (PP (IN for) 
+                (NP (DT the) (JJ year-ago) (NN period) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Storage) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Louisville) )
+        (, ,) 
+        (NP (NNP Colo.) )
+        (, ,) )
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ makes) 
+            (NP 
+              (NP (JJ data-storage) (NNS devices) )
+              (PP (IN for) 
+                (NP (NN mainframe) (NNS computers) ))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (JJ huge) (NN increase) )
+            (PP-LOC (IN in) 
+              (NP (NN net) )))
+          (VP (VBZ reflects) 
+            (NP (`` ``) 
+              (NP (JJ strong) (NNS sales) )
+              ('' '') 
+              (PP (IN of) 
+                (NP 
+                  (NP (PRP$ its) (NN tape) (NNS products) )
+                  (, ,) 
+                  (ADVP (RB particularly) )
+                  (NP 
+                    (NP (DT the) (CD 4400) (NNP Automated) (NNP Cartridge) (NNP System) )
+                    (, ,) 
+                    (SBAR 
+                      (WHNP-2 (WDT which) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-2) )
+                        (VP (VBZ holds) 
+                          (NP 
+                            (NP (DT a) (NN library) )
+                            (PP (IN of) 
+                              (NP (NN tape) (NNS cartridges) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (ADVP-TMP (RB recently) )
+          (VP (VBD sold) 
+            (NP 
+              (NP (PRP$ its) (JJ 750th) (NN cartridge) (NN system) )
+              (, ,) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBD cost) 
+                    (NP 
+                      (NP 
+                        (QP ($ $) (CD 400,000) (TO to) ($ $) (CD 500,000) )
+                        (-NONE- *U*) )
+                      (ADVP (DT each) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Quarter) (NN revenue) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (QP ($ $) (CD 232.6) (CD million) )
+        (-NONE- *U*) )
+      (, ,) 
+      (ADVP (IN up) 
+        (NP (CD 12) (NN %) )
+        (PP (IN from) 
+          (NP 
+            (QP ($ $) (CD 206) (CD million) )
+            (-NONE- *U*) )
+          (NP-TMP (JJ last) (NN year) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN stock) (NN market) )
+    (VP (VBD reacted) 
+      (ADVP-MNR (RB strongly) )
+      (PP-CLR (TO to) 
+        (NP (DT the) (NN news) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Storage) )
+    (VP (VBD rose) 
+      (NP-EXT 
+        (NP ($ $) (CD 1.125) (-NONE- *U*) )
+        (NP-ADV (DT a) (NN share) ))
+      (, ,) 
+      (S-CLR 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB close) 
+            (PP-CLR (IN at) 
+              (NP ($ $) (CD 14) (-NONE- *U*) )))))
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) )))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (NNP Storage) )
+    (VP (VBD had) 
+      (NP 
+        (NP (NN net) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 25.5) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 98) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) )))
+      (PP (VBG including) 
+        (NP 
+          (NP (DT an) 
+            (ADJP 
+              (QP ($ $) (CD 11.3) (CD million) )
+              (-NONE- *U*) )
+            (JJ extraordinary) (NN gain) )
+          (PP (IN for) 
+            (NP 
+              (NP (DT the) (VBN anticipated) (NNS proceeds) )
+              (PP (IN from) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG liquidating) 
+                    (NP (DT an) (JJ Irish) (NN unit) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Net) )
+    (VP (VBD was) 
+      (ADVP-PRD (IN up) 
+        (NP (CD 69) (NN %) )
+        (PP (IN from) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 15.1) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 57) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) )
+          (NP-TMP (JJ last) (NN year) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Revenue) )
+      (PP (IN for) 
+        (NP (DT the) (JJS latest) (NN period) )))
+    (VP (VBD was) 
+      (ADVP-PRD (IN up) 
+        (NP (CD 11) (NN %) )
+        (PP-DIR (TO to) 
+          (NP 
+            (QP ($ $) (CD 682.7) (CD million) )
+            (-NONE- *U*) ))
+        (, ,) 
+        (PP-DIR (IN from) 
+          (NP 
+            (QP ($ $) (CD 614.6) (CD million) )
+            (-NONE- *U*) ))))
+    (. .) ))

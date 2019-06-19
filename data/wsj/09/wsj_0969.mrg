@@ -1,0 +1,121 @@
+
+( (S 
+    (NP-SBJ (NNP Labor) (NNP Secretary) (NNP Elizabeth) (NNP Dole) )
+    (VP (VBD named) 
+      (NP 
+        (NP (DT a) (NN mediator) )
+        (SBAR-PRP 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB help) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (VB resolve) 
+                    (NP 
+                      (NP (DT the) (JJ lengthy) (NN labor) (NN dispute) )
+                      (PP (IN between) 
+                        (NP 
+                          (NP (DT the) (NNP United) (NNP Mine) (NNPS Workers) )
+                          (CC and) 
+                          (NP (NNP Pittston) (NNP Co) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP W.J.) (NNP Usery) (NNP Jr.) )
+      (, ,) 
+      (NP 
+        (NP (NN labor) (NN secretary) )
+        (PP-TMP (IN during) 
+          (NP (DT the) (NNP Ford) (NN administration) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB mediate) 
+              (NP (NNS talks) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB settle) 
+                      (NP 
+                        (NP (DT the) (JJ six-month) (NN strike) )
+                        (PP (IN by) 
+                          (NP (DT the) (NNP UMW) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Previous) (NNS talks) )
+      (PP (IN between) 
+        (NP 
+          (NP 
+            (NP (NNP Pittston) )
+            (, ,) 
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Greenwich) )
+                (, ,) 
+                (NP (NNP Conn.) )
+                (, ,) )))
+          (CC and) 
+          (NP (DT the) (NN union) ))))
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (ADJP-PRD (JJ sporadic) 
+          (CC and)
+          (JJ unsuccessful) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN union) )
+    (VP (VBD called) 
+      (NP (DT the) (NN strike) )
+      (PP-TMP (IN in) 
+        (NP (NNP April) ))
+      (SBAR-TMP (IN after) 
+        (S 
+          (NP-SBJ-1 (NNP Pittston) )
+          (VP (VBD refused) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB sign) 
+                  (NP 
+                    (NP (DT the) (NNP UMW) (POS 's) )
+                    (JJ national) (NN labor) (NN pact) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Pittston) )
+    (VP (VBZ seeks) 
+      (NP 
+        (NP (NNS changes) )
+        (PP-LOC (IN in) 
+          (NP (NN health) 
+            (CC and)
+            (NN pension) (NNS benefits) )))
+      (, ,) 
+      (PP (IN among) 
+        (NP (JJ other) (NNS things) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 
+        (NP (DT No) (NN schedule) )
+        (PP (IN for) 
+          (NP (JJ formal) (NNS talks) )))
+      (VP (VBD was) 
+        (VP (VBN set) 
+          (NP (-NONE- *-1) ))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-2 (NNS meetings) )
+      (VP (VBP are) 
+        (VP (VBN expected) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB begin) 
+                (ADVP-TMP-CLR (RB soon) )))))))
+    (. .) ))

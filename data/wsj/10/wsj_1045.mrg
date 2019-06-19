@@ -1,0 +1,251 @@
+
+( (S 
+    (NP-SBJ (NNP Adolph) (NNP Coors) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (NNP William) (NNP K.) (NNP Coors) )
+            (, ,) 
+            (NP (NN chairman) )
+            (, ,) )
+          (VP (VBD assumed) 
+            (NP 
+              (NP (DT the) (JJ additional) (NNS responsibilities) )
+              (PP (IN of) 
+                (NP (NN president) )))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VBG succeeding) 
+                (NP (NNP Jeffrey) (NNP H.) (NNP Coors) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Jeffrey) (NNP Coors) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 44) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD (NN president) )
+        (PP-TMP (IN since) 
+          (NP 
+            (NP (CD 1985) )
+            (, ,) 
+            (SBAR 
+              (WHADVP-1 (WRB when) )
+              (S 
+                (NP-SBJ (PRP he) )
+                (VP (VBD succeeded) 
+                  (NP (PRP$ his) (NN father) (NNP Joseph) )
+                  (PP (IN in) 
+                    (NP (DT the) (NN job) ))
+                  (ADVP-TMP (-NONE- *T*-1) ))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT the) (NN brewer) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (NNP Jeffrey) (NNP Coors) )
+          (ADVP-MNR (RB voluntarily) )
+          (VP (VBD gave) 
+            (PRT (RP up) )
+            (NP (DT the) (NN position) )
+            (S-PRP 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB focus) 
+                  (NP 
+                    (NP (JJR more) )
+                    (PP (IN of) 
+                      (NP (PRP$ his) (NN energy) )))
+                  (PP-CLR (IN on) 
+                    (NP 
+                      (NP (NNP Coors) (NNP Technology) (NNP Co.) )
+                      (, ,) 
+                      (NP 
+                        (NP (DT a) (JJ small) (NN unit) )
+                        (PP (IN of) 
+                          (NP (NNP Coors) ))
+                        (SBAR 
+                          (WHNP-1 (-NONE- 0) )
+                          (S 
+                            (NP-SBJ (PRP he) )
+                            (VP (VBZ has) 
+                              (VP (VBN run) 
+                                (NP (-NONE- *T*-1) )
+                                (PP-TMP (IN for) 
+                                  (NP (JJ several) (NNS years) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NNP Coors) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP (VBZ does) (RB n't) 
+            (VP (VB believe) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (DT the) (NN move) )
+                  (VP (MD will) 
+                    (VP 
+                      (VP 
+                        (ADVP (RBR further) )
+                        (VB increase) 
+                        (NP 
+                          (NP (NNP William) (NNP Coors) (POS 's) )
+                          (NN influence) ))
+                      (CC or) 
+                      (VP (VB reduce) 
+                        (NP 
+                          (NP (DT the) (NN influence) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP 
+                                (NP (NNP Jeffrey) (NNP Coors) )
+                                (, ,) 
+                                (NP (NNP Peter) (NNP Coors) )
+                                (CC or) 
+                                (NP (NNP Joseph) (NNP Coors) (NNP Jr.) ))
+                              (, ,) 
+                              (SBAR 
+                                (WHNP-1 (WP who) )
+                                (S 
+                                  (NP-SBJ (-NONE- *T*-1) )
+                                  (VP (VBP run) 
+                                    (NP 
+                                      (NP (DT the) (NN company) (POS 's) )
+                                      (CD three) (VBG operating) (NNS units) )))))))))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ-1 (PRP It) )
+      (ADVP (RB certainly) )
+      (VP (VBD was) (RB n't) 
+        (VP (VBN intended) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (NP-PRD (DT a) (NN demotion) )))))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT the) (NN spokesman) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ 
+      (NP (NNP Pete) )
+      (CC and) 
+      (NP (NNP Jeff) )
+      (CC and) 
+      (NP (NNP Joe) (NNP Jr.) ))
+    (VP 
+      (VP (VBP have) 
+        (VP (VBN taken) 
+          (PRT (RP over) )
+          (NP (DT the) (NNS reins) )))
+      (CC and) 
+      (VP (VBP are) 
+        (VP (VBG doing) 
+          (NP 
+            (NP (JJS most) )
+            (PP (IN of) 
+              (NP (DT the) (NN work) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP We) )
+    (VP (VBP do) (RB n't) 
+      (VP (VB think) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT this) )
+            (VP (MD will) 
+              (VP (VB affect) 
+                (NP (DT that) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Jeffrey) )
+      (, ,) 
+      (NP (NNP Peter) )
+      (CC and) 
+      (NP (NNP Joseph) (NNP Jr.) ))
+    (VP (VBP are) 
+      (NP-PRD (NNS brothers) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP William) (NNP Coors) )
+    (VP (VBZ is) 
+      (NP-PRD (PRP$ their) (NN uncle) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Jeffrey) )
+      (, ,) 
+      (NP (NNP Peter) )
+      (, ,) 
+      (NP (NNP Joseph) (NNP Jr.) )
+      (, ,) 
+      (NP (NNP William) )
+      (CC and) 
+      (NP (NNP Joseph) (NNP Sr.) ))
+    (VP (VBP constitute) 
+      (NP 
+        (NP (DT the) (NN company) (POS 's) )
+        (NN board) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Peter) (NNP Coors) )
+    (VP (VBZ runs) 
+      (NP 
+        (NP (DT the) (NNP Coors) (NNP Brewing) (NNP Co.) (NN unit) )
+        (, ,) 
+        (NP 
+          (NP 
+            (NP (DT the) (NN nation) (POS 's) )
+            (JJ fourth-largest) (NN brewery) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD accounted) 
+                (PP-CLR (IN for) 
+                  (NP 
+                    (NP 
+                      (QP ($ $) (CD 1.24) (CD billion) )
+                      (-NONE- *U*) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP 
+                          (NP (NNP Adolph) (NNP Coors) (POS 's) )
+                          (QP ($ $) (CD 1.52) (CD billion) )
+                          (-NONE- *U*) )
+                        (PP (IN in) 
+                          (NP (CD 1988) (NNS sales) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Joseph) (NNP Jr.) )
+    (VP (VBZ runs) 
+      (NP 
+        (NP (NNP Coors) (NNPS Ceramics) (NNP Co.) )
+        (, ,) 
+        (NP (DT the) (JJ other) (VBG operating) (NN unit) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD had) 
+              (NP 
+                (NP 
+                  (QP (IN about) ($ $) (CD 150) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN in) 
+                  (NP (CD 1988) (NNS sales) ))))))))
+    (. .) ))

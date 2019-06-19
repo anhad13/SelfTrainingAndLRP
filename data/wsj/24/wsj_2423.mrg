@@ -1,0 +1,104 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Hammond) (NNP Co.) )
+      (, ,) 
+      (NP 
+        (NP (NNP Newport) (NNP Beach) )
+        (, ,) 
+        (NP (NNP Calif.) ))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Fidelity) (NNP National) (NNP Financial) (NNP Inc.) )
+          (VP (VBD extended) 
+            (NP 
+              (NP (PRP$ its) (JJ previous) (NN agreement) )
+              (, ,) 
+              (SBAR 
+                (WHPP-1 (IN under) 
+                  (WHNP (WDT which) ))
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (MD wo) (RB n't) 
+                    (VP (VB purchase) 
+                      (NP 
+                        (NP (DT any) (JJR more) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (DT the) (NN mortgage) (NN banker) (POS 's) )
+                            (JJ common) (NN stock) )))
+                      (PP-LOC (-NONE- *T*-1) )))))
+              (, ,) )
+            (PP-TMP-CLR (IN through) 
+              (NP (NNP Oct.) (CD 31) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ previous) (NN agreement) )
+    (VP (VBD expired) 
+      (NP-TMP (NNP Thursday) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Hammond) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (PRP$ its) (NNS discussions) )
+              (PP (IN with) 
+                (NP 
+                  (NP (NNP Fidelity) )
+                  (, ,) 
+                  (NP (DT an) 
+                    (NAC-LOC (NNP Irvine) 
+                      (, ,)
+                      (NNP Calif.) 
+                      (, ,)
+                      )
+                    (NN title-insurance) (NN underwriter) )
+                  (, ,) )))
+            (VP (VBP are) 
+              (VP (VBG continuing) ))))
+        (, ,) (CC but) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (NNS prospects) )
+              (PP (IN for) 
+                (NP (DT a) (JJ longer-term) (NN standstill) (NN agreement) )))
+            (VP (VBP are) 
+              (ADJP-PRD (JJ uncertain) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Fidelity) )
+    (VP (VBZ has) 
+      (VP (VBN increased) 
+        (NP 
+          (NP (PRP$ its) (NN stake) )
+          (PP-LOC (IN in) 
+            (NP (NNP Hammond) )))
+        (PP-DIR (TO to) 
+          (NP (CD 23.57) (NN %) ))))
+    (PP-TMP (IN in) 
+      (NP (JJ recent) (NNS months) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Statements) )
+      (VP (VBN made) 
+        (NP (-NONE- *) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNPS Securities) 
+              (CC and)
+              (NNP Exchange) (NNP Commission) )
+            (NNS filings) ))))
+    (VP (VBD led) 
+      (S 
+        (NP-SBJ (NNP Hammond) )
+        (VP (TO to) 
+          (VP (VB request) 
+            (NP (DT a) (JJ standstill) (NN agreement) )))))
+    (. .) ))

@@ -1,0 +1,341 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Crossland) (NNPS Savings) (NNP Bank) (POS 's) )
+      (NN stock) )
+    (VP (VBD plummeted) 
+      (SBAR-TMP (IN after) 
+        (S 
+          (NP-SBJ (NN management) )
+          (VP (VBD recommended) 
+            (NP 
+              (NP (DT a) (NN suspension) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN dividend) (NNS payments) )
+                  (PP (IN on) 
+                    (NP (PDT both) (PRP$ its) 
+                      (ADJP (JJ common) 
+                        (CC and)
+                        (JJ preferred) )
+                      (NN stock) )))))
+            (SBAR-PRP (IN because) 
+              (S 
+                (NP-SBJ (NNP Crossland) )
+                (VP (MD may) (RB not) 
+                  (VP (VB meet) 
+                    (NP 
+                      (NP (DT the) (JJ new) (NN government) (NN capital) (NNS criteria) )
+                      (ADJP (JJ effective) 
+                        (NP-TMP (NNP Dec.) (CD 7) )))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ composite) (NN trading) ))
+    (PP-LOC (IN on) 
+      (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))
+    (NP-TMP (NNP Friday) )
+    (, ,) 
+    (NP-SBJ (NNP Crossland) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 5.25) (-NONE- *U*) )
+          (, ,) 
+          (ADVP (RB down) 
+            (NP ($ $) (CD 1.875) (-NONE- *U*) ))
+          (, ,) ))
+      (NP-ADV (DT a) 
+        (ADJP (CD 26) (NN %) )
+        (NN decline) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS savings) (NN bank) )
+          (VP (MD may) (RB not) 
+            (VP (VB qualify) 
+              (PP-CLR (IN for) 
+                (NP (DT the) (NN capital) (NNS requirements) ))
+              (SBAR-PRP (IN because) 
+                (, ,)
+                (S 
+                  (PP-LOC (IN under) 
+                    (NP (DT the) (VBN proposed) (NNS guidelines) ))
+                  (, ,) 
+                  (NP-SBJ 
+                    (NP (PRP$ its) 
+                      (QP ($ $) (CD 380) (CD million) )
+                      (-NONE- *U*) )
+                    (PP (IN of) 
+                      (NP (VBN preferred) (NN stock) )))
+                  (VP (VBZ does) (RB n't) 
+                    (VP (VB meet) 
+                      (NP 
+                        (NP (DT the) (`` ``) (NN core) (NN capital) ('' '') (NNS criteria) )
+                        (VP (VBN outlined) 
+                          (NP (-NONE- *) )
+                          (PP-LOC (IN under) 
+                            (NP 
+                              (NP (DT the) (JJ new) (NNP Financial) (NNPS Institutions) (NNP Reform) 
+                                (, ,)
+                                (NNP Recovery) 
+                                (CC and)
+                                (NNP Enforcement) (NNP Act) )
+                              (PP (IN of) 
+                                (NP (CD 1989) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD added) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP-SBJ-1 (JJ final) (NNS guidelines) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (VP (VBN published) 
+                  (NP (-NONE- *-1) )
+                  (PP-TMP (IN in) 
+                    (NP (JJ early) (NNP November) ))))))
+          (VP (MD will) 
+            (VP (VB determine) 
+              (SBAR (IN whether) 
+                (S 
+                  (NP-SBJ (DT the) (NN bank) )
+                  (VP (VBZ is) 
+                    (PP-PRD (IN in) 
+                      (NP (NN compliance) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Crossland) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD retained) 
+            (NP 
+              (NP (CD three) (NN investment) (NNS bankers) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (TO to) 
+                    (VP (VB assist) 
+                      (NP (PRP it) )
+                      (PP-LOC (IN in) 
+                        (S-NOM 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (VBG developing) 
+                            (CC and)
+                            (VBG implementing) 
+                            (NP (DT a) (JJ financial) (NN restructuring) (NN plan) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (MD would) (RB n't) 
+      (VP (VB identify) 
+        (NP (DT the) (NNS bankers) )))
+    (. .) ))
+( (S 
+    (ADVP (RB Additionally) )
+    (, ,) 
+    (NP-SBJ (NNP Crossland) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) (NN third-quarter) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 175.5) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP ($ $) (CD 13.44) (-NONE- *U*) )
+                (NP-ADV (DT a) (NN share) )))
+            (, ,) 
+            (PP (VBN compared) 
+              (PP (IN with) 
+                (NP 
+                  (NP (JJ net) (NN income) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (QP ($ $) (CD 27.1) (CD million) )
+                        (-NONE- *U*) )
+                      (, ,) (CC or) 
+                      (NP 
+                        (NP ($ $) (CD 1.16) (-NONE- *U*) )
+                        (NP-ADV (DT a) (NN share) ))
+                      (, ,) ))
+                  (ADVP-TMP 
+                    (NP (DT a) (NN year) )
+                    (IN ago) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (JJ major) (NN factor) )
+      (PP (IN in) 
+        (NP (DT the) (NN third-quarter) (NN loss) )))
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT the) (NN write-down) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 143.6) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN of) 
+              (NP (NN goodwill) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (VBN proposed) (NNS guidelines) )
+          (VP (VBD caused) 
+            (S 
+              (NP-SBJ (NNP Crossland) )
+              (VP 
+                (VP (TO to) 
+                  (VP (VB revise) 
+                    (NP (PRP$ its) (NN business) (NNS objectives) )))
+                (CC and) 
+                (, ,)
+                (VP 
+                  (ADVP (RB consequently) )
+                  (, ,) (TO to) 
+                  (VP (VB write) 
+                    (PRT (RP down) )
+                    (NP 
+                      (NP (DT the) (NN asset) (NN value) )
+                      (PP (IN of) 
+                        (NP (DT some) (JJ previous) (NNS acquisitions) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Crossland) )
+    (VP (VBD recorded) 
+      (NP 
+        (NP (DT an) (JJ additional) 
+          (QP ($ $) (CD 20) (CD million) )
+          (-NONE- *U*) )
+        (PP (IN in) 
+          (NP (NN loan) (NN loss) (NNS reserves) )))
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJ third) (NN quarter) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Net) (NN interest) (NN income) )
+      (PP (IN for) 
+        (NP (DT the) (JJ third) (NN quarter) )))
+    (VP (VBD declined) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 35.6) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 70.1) (CD million) )
+          (-NONE- *U*) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (IN ago) )))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ (JJ non-interest) (NN income) )
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 23.5) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 22) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Third-quarter) (NN loan) (NNS originations) )
+    (VP (VBD dropped) 
+      (ADVP-MNR (RB sharply) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 663) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 1) (CD billion) )
+          (-NONE- *U*) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (IN ago) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Standard) (CC &) (NNP Poor) (POS 's) )
+      (NNP Corp.) )
+    (VP 
+      (VP (VBD lowered) 
+        (NP 
+          (NP (DT the) (NN rating) )
+          (PP (IN on) 
+            (NP 
+              (NP (NNP Crossland) (POS 's) )
+              (VBN preferred) (NN stock) )))
+        (PP-DIR (TO to) 
+          (NP (NN double-C) ))
+        (PP-DIR (IN from) 
+          (NP (NN single-B-minus) )))
+      (CC and) 
+      (VP (VBD placed) 
+        (NP (PRP it) )
+        (PP-CLR (IN on) 
+          (NP (NNP CreditWatch) ))
+        (PP (IN for) 
+          (NP (JJ possible) (JJ further) (NN downgrade) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP (RB also) )
+    (VP (VBD placed) 
+      (PP-CLR (IN on) 
+        (NP (NNP CreditWatch) ))
+      (PP-PRP (IN for) 
+        (NP (JJ possible) (NN downgrade) ))
+      (NP 
+        (NP (JJ other) (NNS securities) )
+        (, ,) 
+        (PP (VBG including) 
+          (NP 
+            (NP 
+              (NP (DT the) (NN double-B-minus\/B) (NN rating) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (NP (NNP Crossland) (POS 's) )
+                    (NNS certificates) )
+                  (PP (IN of) 
+                    (NP (NN deposit) )))))
+            (CC and) 
+            (NP 
+              (NP (DT the) (NN single-B) (NN rating) )
+              (PP (IN of) 
+                (NP (PRP$ its) (JJ senior) (VBN subordinated) (NN capital) (NNS notes) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (QP (IN About) ($ $) (CD 518) (CD million) )
+        (-NONE- *U*) )
+      (PP (IN of) 
+        (NP (NN debt) )))
+    (VP (VBZ is) 
+      (VP (VBN affected) 
+        (NP (-NONE- *-1) )))
+    (. .) ))

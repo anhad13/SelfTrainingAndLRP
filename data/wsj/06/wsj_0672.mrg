@@ -1,0 +1,278 @@
+
+( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (DT The) (NN premium) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (DT the) (JJ elderly) )
+            (VP (NN pay) 
+              (NP (-NONE- *T*-1) )
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP (NN coverage) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NN doctor) (POS 's) )
+                      (NNS bills) ))))
+              (PP-LOC (IN under) 
+                (NP 
+                  (NP (NNP Part) (NNP B) )
+                  (PP (IN of) 
+                    (NP (DT the) (NNP Medicare) (NN health) (NN insurance) (NN plan) ))))))))
+      (VP (MD will) 
+        (VP (VB rise) 
+          (PP-DIR (TO to) 
+            (NP 
+              (NP ($ $) (CD 29) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN month) )))
+          (PP-TMP (IN in) 
+            (NP (CD 1990) ))
+          (PP-DIR (IN from) 
+            (NP ($ $) (CD 27.90) (-NONE- *U*) )))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP Department) )
+      (PP (IN of) 
+        (NP (NNP Health) 
+          (CC and)
+          (NNP Human) (NNP Services) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT a) (JJ second) (NNP Part) (NNP B) (NN premium) )
+      (SBAR 
+        (WHNP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (TO to) 
+            (VP (VB cover) 
+              (NP 
+                (NP (DT the) (NN cost) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (JJ new) (NN program) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NN insurance) )
+                        (PP (IN against) 
+                          (NP (JJ catastrophic) (NN illness) ))))))))))))
+    (VP (MD will) 
+      (VP (VB rise) 
+        (PP-DIR (TO to) 
+          (NP 
+            (NP ($ $) (CD 4.90) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN month) )))
+        (PP-DIR (IN from) 
+          (NP ($ $) (CD 4) (-NONE- *U*) ))
+        (, ,) 
+        (SBAR-ADV (IN if) 
+          (S 
+            (NP-SBJ (NNP Congress) )
+            (VP (VBZ does) (RB n't) 
+              (VP (VB change) 
+                (NP (DT the) (NN program) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (DT The) (NNP House) )
+    (VP (VBZ has) 
+      (VP (VBN voted) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB repeal) 
+              (NP 
+                (NP (JJS most) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NNP Catastrophic) (NNP Coverage) (NNP Act) )
+                    (PP (IN of) 
+                      (NP (CD 1988) )))))
+              (, ,) 
+              (ADVP (RB however) )
+              (, ,) 
+              (SBAR-ADV 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (MD would) 
+                    (VP (VB end) 
+                      (NP 
+                        (NP (DT the) (JJ monthly) (NN catastrophic-care) (NN premium) )
+                        (, ,) 
+                        (CONJP (RB as) (RB well) (IN as) )
+                        (NP 
+                          (NP (DT an) (JJ unpopular) (NN income) (NN surtax) )
+                          (VP (VBN paid) 
+                            (NP (-NONE- *) )
+                            (PP (IN by) 
+                              (NP-LGS 
+                                (NP 
+                                  (QP (RB about) (CD 40) )
+                                  (NN %) )
+                                (PP (IN of) 
+                                  (NP (DT the) (JJR wealthier) (NNP Medicare) (NNS beneficiaries) ))))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (PP-LOC (IN Under) 
+        (NP (DT a) (JJ less-sweeping) (NNP Senate) (NN plan) ))
+      (, ,) 
+      (NP-SBJ-2 (DT the) (NN catastrophic-care) (JJ monthly) (NN premium) )
+      (VP (MD would) 
+        (VP (VB continue) 
+          (, ,)
+          (S-ADV 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (VBG rising) 
+              (PP-DIR (TO to) 
+                (NP ($ $) (CD 4.90) (-NONE- *U*) )
+                (NP-TMP (JJ next) (NN year) )))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-1 (DT the) (NN surtax) )
+      (VP (MD would) 
+        (VP (VB be) 
+          (VP (VBN abolished) 
+            (NP (-NONE- *-1) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Medicare) (NNP Part) (NNP B) )
+    (VP (VBZ pays) 
+      (NP 
+        (NP (CD 80) (NN %) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT a) (NN beneficiary) (POS 's) )
+            (JJ allowable) 
+            (NP (NN doctor) (POS 's) )
+            (NNS bills) )))
+      (PP-TMP (IN after) 
+        (NP 
+          (NP (DT an) (JJ annual) (JJ deductible) )
+          (PP (IN of) 
+            (NP ($ $) (CD 75) (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Catastrophic) (NNP Coverage) (NNP Act) )
+    (VP (MD would) 
+      (VP (VB add) 
+        (NP 
+          (NP (DT a) (JJ stop-loss) (NN provision) )
+          (SBAR (-NONE- *ICH*-2) ))
+        (NP-TMP (JJ next) (NN year) )
+        (SBAR-2 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB limit) 
+                (NP 
+                  (NP (DT the) (JJ maximum) )
+                  (SBAR 
+                    (WHNP-3 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (NNS beneficiaries) )
+                      (VP (MD must) 
+                        (VP (VB pay) 
+                          (NP (-NONE- *T*-3) )
+                          (PP-CLR (IN for) 
+                            (NP (NNS doctors) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (CC Both) (DT the) (NNP House) 
+        (CC and)
+        (NNP Senate) (NNS bills) )
+      (SBAR 
+        (WHNP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (TO to) 
+            (VP (VB reduce) 
+              (NP 
+                (NP (DT the) (NN cost) 
+                  (CC and)
+                  (NN coverage) )
+                (PP (IN of) 
+                  (NP (DT the) (NN catastrophic-care) (NN plan) ))))))))
+    (VP (MD would) 
+      (VP (VB eliminate) 
+        (NP 
+          (NP (DT the) (NN cap) )
+          (PP-LOC (IN on) 
+            (NP 
+              (NP (NN doctor) (POS 's) )
+              (NNS bills) )))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (DT the) (NNP House) )
+        (VP (VBZ prevails) 
+          (PP-LOC (IN in) 
+            (NP (PRP$ its) (NNS efforts) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB kill) 
+                    (NP (DT the) (NN catastrophic-care) (NN plan) )))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (JJ monthly) (NNP Part) (NNP B) (NN premium) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (NP-PRD ($ $) (CD 29) (-NONE- *U*) )
+        (NP-TMP (JJ next) (NN year) )))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (DT the) (NNP Senate) (NN plan) )
+        (VP (VBZ prevails) )))
+    (, ,) 
+    (NP-SBJ (DT the) (NN premium) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (NP-PRD ($ $) (CD 33.90) (-NONE- *U*) )
+        (, ,) 
+        (PP (IN with) 
+          (S-NOM 
+            (NP-SBJ-1 (DT the) (JJ additional) ($ $) (CD 4.90) (-NONE- *U*) )
+            (VP (VBG going) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB pay) 
+                    (PP-CLR (IN for) 
+                      (NP (JJ expanded) (NN hospital) (NN coverage) ))
+                    (PP-LOC (IN under) 
+                      (NP 
+                        (NP (NNP Part) (NNP A) )
+                        (PP (IN of) 
+                          (NP (NNP Medicare) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (JJS Most) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Part) (NNP A) (POS 's) )
+          (NNS costs) )))
+    (VP (VBP are) 
+      (VP (VBN paid) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT a) (NN payroll) (NN tax) )
+            (PP (IN on) 
+              (NP (NNS workers) 
+                (CC and)
+                (NNS employers) ))))))
+    (. .) ))

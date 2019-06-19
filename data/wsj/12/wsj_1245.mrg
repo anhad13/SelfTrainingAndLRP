@@ -1,0 +1,43 @@
+
+( (S 
+    (NP-SBJ (NNPS Consumers) (NNP Power) (NNP Co.) )
+    (VP (VBD filed) 
+      (PP-CLR (IN with) 
+        (NP (DT the) (NNP Michigan) (NNP Public) (NNP Service) (NNP Commission) ))
+      (NP (DT a) (NN contract) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP (NN power) )
+              (PP-CLR (IN from) 
+                (NP (DT the) (NNP Palisades) (JJ nuclear) (NN plant) ))
+              (PP-LOC (IN under) 
+                (NP 
+                  (NP (DT a) (VBN proposed) (JJ new) (NN ownership) (NN arrangement) )
+                  (PP (IN for) 
+                    (NP (DT the) (NN plant) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNPS Consumers) (NNP Power) )
+      (CC and) 
+      (NP (NNP Bechtel) (NNP Power) (NNP Corp.) ))
+    (NP-TMP (JJ last) (NN year) )
+    (VP (VBD announced) 
+      (NP (DT a) (JJ joint) (NN venture) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP 
+                (NP (DT the) (NN plant) )
+                (, ,) 
+                (VP 
+                  (ADVP-TMP (RB currently) )
+                  (VBN owned) 
+                  (NP (-NONE- *) )
+                  (ADVP-MNR (RB completely) )
+                  (PP (IN by) 
+                    (NP-LGS (DT the) (NN utility) )))))))))
+    (. .) ))

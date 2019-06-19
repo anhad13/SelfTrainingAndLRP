@@ -1,0 +1,102 @@
+
+( (S 
+    (NP-SBJ (NNP Boston) (NNP Edison) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB take) 
+              (NP 
+                (NP (DT a) 
+                  (ADJP (RB previously) (VBN reported) )
+                  (ADJP 
+                    (QP ($ $) (CD 60) (CD million) )
+                    (-NONE- *U*) )
+                  (NN charge) )
+                (PP (IN against) 
+                  (NP (NNS earnings) )))
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ fourth) (NN quarter) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN charge) )
+    (VP (VBD resulted) 
+      (PP-CLR (IN from) 
+        (NP 
+          (NP (DT a) (NN settlement) )
+          (VP (VBN approved) 
+            (NP (-NONE- *) )
+            (NP-TMP (NN yesterday) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP (DT the) (NNP Massachusetts) (NNP Department) )
+                (PP (IN of) 
+                  (NP (NNP Public) (NNPS Utilities) ))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN As) 
+      (S 
+        (NP-SBJ-1 (-NONE- *) )
+        (VP (VBN expected) 
+          (NP (-NONE- *-1) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN settlement) )
+    (VP 
+      (VP (VBZ limits) 
+        (NP (NN rate) (NNS increases) )
+        (PP-TMP (IN for) 
+          (NP (CD three) (NNS years) )))
+      (CC and) 
+      (VP (VBZ ties) 
+        (NP 
+          (NP (JJ future) (NNS charges) )
+          (PP (TO to) 
+            (NP (NNS customers) ))
+          (PP (IN for) 
+            (NP 
+              (NP (NN operation) )
+              (PP (IN of) 
+                (NP (DT the) (JJ troubled) (NNP Pilgrim) (NNP Nuclear) (NNP Power) (NNP Station) )))))
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT that) (NN plant) (POS 's) )
+            (NN performance) ))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (PRP$ its) (NN order) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN state) (JJ regulatory) (NN agency) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-96 (DT the) (NN company) )
+          (`` ``) 
+          (VP (MD must) 
+            (VP (VB be) 
+              (VP (VBN held) 
+                (S 
+                  (NP-SBJ (-NONE- *-96) )
+                  (ADJP-PRD (JJ accountable) 
+                    (PP (IN for) 
+                      (NP 
+                        (NP (DT the) (NNS mistakes) )
+                        (VP (VBN made) 
+                          (NP (-NONE- *) )
+                          (PP-LOC (IN in) 
+                            (NP 
+                              (NP (DT the) (NN management) )
+                              (PP (IN of) 
+                                (NP 
+                                  (NP (DT the) (NN plant) (POS 's) )
+                                  (NN operation) )))))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNP Pilgrim) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (ADJP-PRD (JJ closed) )
+        (PP-TMP (IN for) 
+          (NP (CD 32) (NNS months) ))))
+    (. .) ))

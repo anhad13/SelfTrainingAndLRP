@@ -1,0 +1,60 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP General) (NNPS Dynamics) (NNP Services) (NNP Co.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP (NNP General) (NNPS Dynamics) (NNP Corp.) )))
+      (, ,) )
+    (VP (VBD won) 
+      (NP (DT a) 
+        (ADJP 
+          (QP ($ $) (CD 48.2) (CD million) )
+          (-NONE- *U*) )
+        (NNP Army) (NN contract) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB establish) 
+              (NP 
+                (NP (NN maintenance) (NNS facilities) )
+                (PP (IN for) 
+                  (NP (JJ tracked) (NNS vehicles) )))
+              (PP-LOC (IN in) 
+                (NP (NNP Pakistan) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Grumman) (NNP Corp.) )
+    (VP (VBD was) 
+      (VP (VBN given) 
+        (NP (-NONE- *-1) )
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 15) (CD million) )
+              (-NONE- *U*) )
+            (NNP Navy) (NN contract) )
+          (PP (IN for) 
+            (NP (NN aircraft-electronics) (NNS improvements) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Hughes) (NNP Aircraft) (NNP Co.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP (NNP General) (NNPS Motors) (NNP Corp.) )))
+      (, ,) )
+    (VP (VBD got) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 10.3) (CD million) )
+            (-NONE- *U*) )
+          (NNP Air) (NNP Force) (NN contract) )
+        (PP (IN for) 
+          (NP (NN airborne-radar) (NN equipment) ))))
+    (. .) ))

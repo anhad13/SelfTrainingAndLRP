@@ -1,0 +1,225 @@
+
+( (S 
+    (NP-SBJ (NNP Poughkeepsie) (NNPS Savings) (NNP Bank) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT a) (NN plan) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB sell) 
+                  (NP (PRP$ its) (NNP South) (NNP Carolina) (NN branch) (NNS offices) )
+                  (PP-DIR (TO to) 
+                    (NP 
+                      (NP (NNP First) (NNPS Citizens) (NNP Bank) )
+                      (, ,) 
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNP Columbia) )
+                          (, ,) 
+                          (NP (NNP S.C.) )))
+                      (, ,) ))))))
+          (VP (VBD fell) 
+            (PRT (RP through) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Poughkeepsie) )
+    (ADVP (RB also) )
+    (VP (VBZ expects) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB post) 
+            (NP 
+              (NP (DT a) (JJ one-time) (NN charge) )
+              (PP (IN of) 
+                (NP 
+                  (QP ($ $) (CD 8.3) (CD million) )
+                  (-NONE- *U*) )))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG resulting) 
+                (PP-CLR (IN in) 
+                  (NP 
+                    (NP (DT a) (JJ net) (NN loss) )
+                    (PP (IN for) 
+                      (NP (DT the) (JJ third) (NN quarter) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN charge) )
+    (VP (VBZ represents) 
+      (NP 
+        (NP (DT a) (NN write-down) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN goodwill) )
+            (VP (VBN associated) 
+              (NP (-NONE- *) )
+              (PP-CLR (IN with) 
+                (NP 
+                  (NP 
+                    (NP (NNP Poughkeepsie) (POS 's) )
+                    (NN investment) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP 
+                        (NP (DT the) (NNS banks) )
+                        (SBAR 
+                          (WHNP-2 (-NONE- 0) )
+                          (S 
+                            (NP-SBJ-1 (PRP it) )
+                            (VP (VBZ is) 
+                              (VP (VBG trying) 
+                                (S 
+                                  (NP-SBJ (-NONE- *-1) )
+                                  (VP (TO to) 
+                                    (VP (VB sell) 
+                                      (NP (-NONE- *T*-2) )))))))))
+                      (CC and) 
+                      (NP (PRP$ its) (NNP North) (NNP Carolina) (NNS branches) ))
+                    (ADVP (RB as) (RB well) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN thrift) )
+    (VP (VBD announced) 
+      (NP (DT the) (NN plan) )
+      (NP-TMP (NNP Aug.) (CD 21) ))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (PP (IN Among) 
+        (NP (JJ other) (NNS reasons) ))
+      (, ,) 
+      (NP-SBJ 
+        (NP (JJ high) (NNS fees) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (NNS regulators) )
+            (VP (VBN imposed) 
+              (NP (-NONE- *T*-1) )
+              (PP-CLR (IN on) 
+                (NP 
+                  (NP (JJ certain) (NNS transfers) )
+                  (PP (IN of) 
+                    (NP (NN thrift) (NNS deposits) ))
+                  (PP (TO to) 
+                    (NP (JJ commercial) (NNS banks) ))))))))
+      (VP (`` ``) 
+        (ADVP-MNR (RB substantially) )
+        (VBD altered) 
+        (NP 
+          (NP (DT the) (NNS economics) )
+          (PP (IN of) 
+            (NP (DT the) (NN transaction) )))
+        (PP (IN for) 
+          (NP (DT both) (NNS parties) ))
+        (, ,) ('' '') ))
+    (NP-SBJ (NNP Poughkeepsie) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (ADVP (RB Additionally) )
+    (, ,) 
+    (NP-SBJ (DT the) (NN bank) )
+    (VP (VBZ is) 
+      (VP (VBG increasing) 
+        (NP (PRP$ its) (NN loan-loss) (NNS reserves) )
+        (PP-TMP (IN for) 
+          (NP (DT the) (JJ third) (NN quarter) ))
+        (PP-MNR (IN by) 
+          (NP 
+            (QP ($ $) (CD 8.5) (CD million) )
+            (-NONE- *U*) ))
+        (PP-TMP (IN before) 
+          (NP (NNS taxes) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT the) (JJ year-earlier) (JJ third) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (NNP Poughkeepsie) (NNPS Savings) )
+    (VP (VBD had) 
+      (NP 
+        (NP (JJ net) (NN income) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 2.8) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 77) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Poughkeepsie) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG continuing) 
+              (S 
+                (NP-SBJ-2 (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB try) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB sell) 
+                          (NP (PRP itself) )
+                          (, ,) 
+                          (PP-LOC (IN under) 
+                            (NP 
+                              (NP (DT a) (NNP June) (NN agreement) )
+                              (PP (IN with) 
+                                (NP (DT a) (NN dissident-shareholder) (NN group) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN bank) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP$ its) (NN effort) )
+            (VP (MD would) 
+              (VP (VB continue) 
+                (PP-TMP (IN past) 
+                  (NP 
+                    (NP (DT the) (NNP Nov.) (CD 1) (NN deadline) )
+                    (VP (VBN set) 
+                      (NP (-NONE- *) )
+                      (PP-LOC (IN in) 
+                        (NP (DT that) (NN agreement) )))))))))
+        (CC and) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NN litigation) )
+              (PP (IN between) 
+                (NP (DT the) (CD two) (NNS sides) )))
+            (VP (MD might) 
+              (VP (VB resume) 
+                (PP-CLR (IN as) 
+                  (NP (DT a) (NN result) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN thrift) )
+      (CC and) 
+      (NP (DT the) (NNS holders) ))
+    (VP (VBD had) 
+      (VP (VBN suspended) 
+        (NP (PRP$ their) (NNS lawsuits) )
+        (PP (IN as) 
+          (NP 
+            (NP (NN part) )
+            (PP (IN of) 
+              (NP (DT the) (NN agreement) ))))))
+    (. .) ))

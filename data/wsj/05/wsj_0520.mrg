@@ -1,0 +1,450 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Nashua) (NNP Corp.) )
+      (, ,) 
+      (VP (VBD rumored) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (NP-PRD (DT a) (JJ potential) (NN takeover) (NN target) ))
+        (PP-TMP (IN for) 
+          (NP (CD six) (NNS months) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT a) (NNP Dutch) (NN company) )
+          (VP (VBZ has) 
+            (VP (VBN sought) 
+              (NP (NNP U.S.) (NN approval) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB buy) 
+                      (NP 
+                        (NP 
+                          (QP (IN up) (TO to) (CD 25) )
+                          (NN %) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NNP Nashua) (POS 's) )
+                            (NNS shares) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Nashua) )
+    (ADVP-TMP (RB immediately) )
+    (VP (VBD responded) 
+      (PP-MNR (IN by) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP 
+            (VP (VBG strengthening) 
+              (NP (DT a) (JJ poison-pill) (NN plan) ))
+            (CC and) 
+            (VP (VBG saying) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (MD will) 
+                    (VP (VB buy) 
+                      (ADVP-CLR (RB back) )
+                      (NP 
+                        (NP 
+                          (NP 
+                            (QP (IN up) (TO to) (CD one) (CD million) ))
+                          (PP (IN of) 
+                            (NP (PRP$ its) (NNS shares) )))
+                        (, ,) (CC or) 
+                        (NP 
+                          (NP (CD 10.4) (NN %) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (DT the) 
+                                (QP (CD 9.6) (CD million) ))
+                              (ADJP (JJ outstanding) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Nashua) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP$ whose) (JJ major) (NN business) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ is) 
+            (S-PRD 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG selling) 
+                (NP 
+                  (NP (NNS copiers) )
+                  (, ,) 
+                  (NP (JJ facsimile) (NNS machines) )
+                  (CC and) 
+                  (NP (VBN related) (NNS supplies) )))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Reiss) (CC &) (NNP Co) (. .) (NNP B.V.) )
+            (PP (IN of) 
+              (NP (DT the) (NNP Netherlands) )))
+          (VP (VBD filed) 
+            (NP 
+              (NP (DT a) (NN request) )
+              (PP (-NONE- *ICH*-2) ))
+            (PP-CLR (IN with) 
+              (NP (DT the) (NNP Federal) (NNP Trade) (NNP Commission) ))
+            (PP-LOC (IN under) 
+              (NP (DT the) (NNP Hart-Scott-Rodino) (NNP Act) ))
+            (PP-2 (IN for) 
+              (NP (NN permission) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB buy) 
+                      (NP 
+                        (NP 
+                          (NP 
+                            (QP (JJR more) (IN than) ($ $) (CD 15) (CD million) )
+                            (-NONE- *U*) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (NNP Nashua) (POS 's) )
+                              (NN stock) )))
+                        (CC but) 
+                        (NP 
+                          (QP (JJR less) (IN than) (CD 25) )
+                          (NN %) )))))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Previously) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT an) (NN affiliate) )
+      (PP (IN of) 
+        (NP (NNP Unicorp) (NNP Canada) )))
+    (VP (VBD disclosed) 
+      (NP 
+        (NP (DT a) (NN stake) )
+        (PP (IN of) 
+          (NP 
+            (QP (JJR less) (IN than) (CD 5) )
+            (NN %) ))
+        (PP (IN in) 
+          (NP (NNP Nashua) )))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (NNP Daniel) (NNP M.) (NNP Junius) )
+            (, ,) 
+            (NP 
+              (NP (NNP Nashua) (POS 's) )
+              (NN treasurer) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Nashua) (POS 's) )
+      (NN stock) )
+    (VP (VBZ has) 
+      (VP (VBN fluctuated) 
+        (ADVP-MNR (RB sharply) )
+        (PP (IN on) 
+          (NP (NN takeover) (NN speculation) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG rising) 
+            (PP-DIR (TO to) 
+              (NP 
+                (NP (DT a) (JJ high) )
+                (PP (IN for) 
+                  (NP (DT the) (NN year) ))
+                (PP (IN of) 
+                  (NP 
+                    (NP ($ $) (CD 42.875) (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN share) ))))
+              (PP-TMP (IN in) 
+                (NP (NNP June) )))
+            (PP-DIR (IN from) 
+              (NP ($ $) (CD 29.75) (-NONE- *U*) )
+              (PP-TMP (IN in) 
+                (NP (NNP March) )))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBZ has) 
+      (VP (VBN had) 
+        (NP (JJ weak) (NNS results) )
+        (ADVP-TMP (RB so) (RB far) )
+        (NP-TMP (DT this) (NN year) )
+        (, ,) 
+        (PP (IN with) 
+          (S-NOM 
+            (NP-SBJ (NNS earnings) )
+            (VP (VBG declining) 
+              (NP-EXT (CD 43) (NN %) )
+              (PP-DIR (TO to) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 13.7) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP ($ $) (CD 1.43) (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN share) ))))
+              (, ,) 
+              (PP (IN on) 
+                (NP 
+                  (NP (DT a) 
+                    (ADJP (CD 4) (NN %) )
+                    (NN decline) )
+                  (PP (IN in) 
+                    (NP (NN revenue) ))
+                  (PP-DIR (TO to) 
+                    (NP 
+                      (QP ($ $) (CD 713.5) (CD million) )
+                      (-NONE- *U*) )
+                    (PP-TMP (IN through) 
+                      (NP 
+                        (NP (DT the) (JJ first) (CD nine) (NNS months) )
+                        (PP (IN of) 
+                          (NP (DT the) (NN year) ))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (PRP$ Its) (NN stock) )
+      (VP (VBZ has) 
+        (VP (VBN slumped) 
+          (ADVP-TMP (RB recently) )
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG closing) 
+              (ADJP (JJ unchanged) )
+              (NP-TMP (NNP Friday) )
+              (PP-CLR (IN at) 
+                (NP 
+                  (NP ($ $) (CD 29) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) )))
+              (PP-LOC (IN in) 
+                (NP (JJ composite) (NN trading) ))
+              (PP-LOC (IN on) 
+                (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) )))))))
+    (: ;) 
+    (S 
+      (PP-LOC (IN at) 
+        (NP (DT that) (NN price) ))
+      (, ,) 
+      (NP-SBJ (DT the) (NN company) )
+      (VP (VBZ has) 
+        (NP 
+          (NP (DT a) (NN market) (NN value) )
+          (PP (IN of) 
+            (NP 
+              (QP (IN about) ($ $) (CD 278.4) (CD million) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Nashua) )
+    (VP (VBD announced) 
+      (NP (DT the) (NNP Reiss) (NN request) )
+      (SBAR-TMP (IN after) 
+        (S 
+          (NP-SBJ (DT the) (NN market) )
+          (VP (VBD closed) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Junius) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Nashua) (POS 's) )
+            (`` ``) (NN intention) )
+          (VP (VBZ is) 
+            (S-PRD 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB remain) 
+                  (NP-PRD (DT an) (JJ independent) (JJ public) (NN company) ))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBD amended) 
+            (NP (PRP$ its) (NN shareholder) (NNS rights) (NN plan) )
+            (PP-MNR (IN by) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (VBG reducing) 
+                  (PP-CLR 
+                    (PP (TO to) 
+                      (NP (CD 10) (NN %) ))
+                    (PP (IN from) 
+                      (NP (CD 20) (NN %) )))
+                  (NP 
+                    (NP (DT the) (NN level) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NN ownership) )
+                        (PP (IN by) 
+                          (NP (DT an) (NN outsider) ))))
+                    (SBAR 
+                      (WHNP-1 (WDT that) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (MD would) 
+                          (VP (VB trigger) 
+                            (NP 
+                              (NP (DT the) (NN issuance) )
+                              (PP (TO to) 
+                                (NP (JJ other) (NNS holders) ))
+                              (PP (IN of) 
+                                (NP (NNS rights) 
+                                  (S 
+                                    (NP-SBJ (-NONE- *) )
+                                    (VP (TO to) 
+                                      (VP (VB buy) 
+                                        (NP 
+                                          (NP (JJ additional) (NNS shares) )
+                                          (PP (IN of) 
+                                            (NP (NNP Nashua) (JJ common) )))
+                                        (PP-CLR (IN at) 
+                                          (NP (JJ half) (NN price) ))))))))))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN company) (POS 's) )
+      (NN board) )
+    (VP (VBD authorized) 
+      (NP 
+        (NP (DT the) (NN purchase) )
+        (PP (IN of) 
+          (NP 
+            (QP (IN up) (TO to) (DT an) (JJ additional) (CD one) (CD million) )
+            (NNS shares) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP 
+        (NP 
+          (NP (DT a) (NN program) )
+          (VP (VBN approved) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS (DT the) (NN company) ))
+            (PP-TMP (IN in) 
+              (NP (CD 1987) ))))
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD did) (RB n't) 
+              (VP (VB specify) 
+                (NP (DT a) (NN share) (NN amount) )))))))
+    (, ,) 
+    (NP-SBJ (NNP Nashua) )
+    (VP (VBD had) 
+      (VP (VBN purchased) 
+        (NP (CD 481,000) (NNS shares) )
+        (PP-TMP (IN through) 
+          (NP (NNP Sept.) (CD 29) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Alex) (NNP Henderson) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN analyst) )
+        (PP-LOC (IN at) 
+          (NP (NNP Prudential-Bache) (NNPS Securities) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (SBAR-ADV (IN while) 
+            (S 
+              (NP-SBJ 
+                (NP 
+                  (NP (NNP Nashua) (POS 's) )
+                  (NN performance) )
+                (NP-TMP (DT this) (NN year) ))
+              (VP (VBZ has) 
+                (VP (VBN been) (`` ``) 
+                  (ADJP-PRD (JJ atrocious) )))))
+          (, ,) ('' '') 
+          (NP-SBJ (DT the) (NN company) )
+          (ADVP (RB nonetheless) )
+          (VP (VBZ is) 
+            (ADJP-PRD (JJ attractive) 
+              (PP (IN as) 
+                (NP (DT a) (`` ``) (JJ classic) (NN breakup) (NN candidate) )))
+            (SBAR-PRP (IN because) 
+              (S 
+                (NP-SBJ (EX there) )
+                (VP (VBZ 's) 
+                  (NP-PRD 
+                    (NP (DT no) (NN similarity) )
+                    (PP-LOC (IN between) 
+                      (NP (PRP$ its) 
+                        (-LRB- -LCB-)
+                        (CD four) 
+                        (-RRB- -RCB-)
+                        (NNS businesses) ))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD estimated) 
+      (NP (DT the) (NN breakup) (NN value) )
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 55) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) ))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (NN addition) )
+        (PP (TO to) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-3) )
+            (VP 
+              (VP (VBG selling) 
+                (NP-1 (JJ Japanese-made) 
+                  (NX 
+                    (NX (NNS photocopiers) )
+                    (CC and) 
+                    (NX (JJ facsimile) (NNS machines) )))
+                (PP-LOC-2 (IN in) 
+                  (NP (NNP Europe) )))
+              (CC and) 
+              (VP 
+                (NP=1 (NN copier) (NNS supplies) )
+                (PP-LOC=2 (IN in) 
+                  (NP (DT the) (NNP U.S.) ))))))))
+    (, ,) 
+    (NP-SBJ-3 (NNP Nashua) )
+    (VP (VBZ has) 
+      (NP 
+        (NP (CD three) (JJ other) (JJ major) (NNS businesses) )
+        (: :) 
+        (NP 
+          (NP (NNS labels) 
+            (CC and)
+            (NNS tapes) )
+          (, ,) 
+          (NP 
+            (NP (NNS data) (NN storage) (NNS disks) )
+            (PP (IN for) 
+              (NP (NNS computers) )))
+          (CC and) 
+          (NP (JJ mail-order) (NN photofinishing) ))))
+    (. .) ))

@@ -1,0 +1,179 @@
+
+( (S 
+    (NP-SBJ (NNP Priam) (NNP Corp.) )
+    (VP 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD filed) 
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP (NN protection) )
+                  (PP-LOC (IN under) 
+                    (NP 
+                      (NP (NNP Chapter) (CD 11) )
+                      (PP (IN of) 
+                        (NP (DT the) (JJ federal) (NNP Bankruptcy) (NNP Code) ))))))))))
+      (CC and) 
+      (VP (VBD announced) 
+        (NP 
+          (NP (DT a) 
+            (ADJP (CD 35) (NN %) )
+            (NN reduction) )
+          (PP-LOC (IN in) 
+            (NP (PRP$ its) (JJ world-wide) (NN employment) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN filing) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NN bankruptcy) (NN court) )
+          (ADVP-LOC (RB here) ))))
+    (VP (VBZ follows) 
+      (NP 
+        (NP (DT a) (NN string) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ quarterly) (NNS losses) )
+            (CC and) 
+            (NP (NN product) (NNS glitches) )))
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (NN maker) )
+            (PP (IN of) 
+              (NP 
+                (NP (NN harddisk) (NNS drives) )
+                (PP (IN for) 
+                  (NP (NNS minicomputers) 
+                    (CC and)
+                    (NNS microcomputers) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Priam) )
+    (VP (VBD had) 
+      (NP 
+        (NP (DT a) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 25.4) (CD million) )
+            (-NONE- *U*) ))
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (JJ fiscal) (NN year) )
+            (VP (VBN ended) 
+              (NP-TMP (NNP July) (CD 7) )))))
+      (, ,) 
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP (JJ year-earlier) (NN profit) )
+            (PP (IN of) 
+              (NP 
+                (NP ($ $) (CD 543,000) (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD two) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Revenue) )
+      (PP (IN for) 
+        (NP (DT the) (NN year) )))
+    (VP (VBD fell) 
+      (NP-EXT (CD 13) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 122.7) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ 200-person) (NN staff) (NN cutback) )
+      (VP (VBD announced) 
+        (NP (-NONE- *) )
+        (NP-TMP (NN yesterday) )))
+    (VP (MD will) 
+      (VP (VB bring) 
+        (NP 
+          (NP (NNP Priam) (POS 's) )
+          (NN employment) )
+        (PP-DIR (TO to) 
+          (NP 
+            (NP 
+              (QP (RB about) (CD 380) )
+              (NNS workers) )
+            (, ,) 
+            (NP 
+              (NP 
+                (QP (JJR less) (IN than) (NN half) ))
+              (PP (IN of) 
+                (SBAR-NOM 
+                  (WHNP-1 (WP what) )
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBD was) 
+                      (NP-PRD (-NONE- *T*-1) )
+                      (PP-TMP (IN before) 
+                        (NP 
+                          (NP (DT a) (JJ similar) 
+                            (, ,)
+                            (JJ 230-person) (NN reduction) )
+                          (PP-TMP (IN in) 
+                            (NP (NNP August) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (NP-TMP (NN yesterday) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD was) 
+            (VP (VBG scrapping) 
+              (NP 
+                (NP 
+                  (NP (CD one) )
+                  (PP (IN of) 
+                    (NP (PRP$ its) (JJ major) (JJ new) (NNS products) )))
+                (, ,) 
+                (NP 
+                  (NP (DT a) (JJ 760-megabyte) (NN drive) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-1 (WDT which) )
+                    (S 
+                      (NP-SBJ-2 (-NONE- *T*-1) )
+                      (PRN 
+                        (, ,)
+                        (SBAR-ADV (IN while) 
+                          (S 
+                            (NP-SBJ (-NONE- *-2) )
+                            (ADJP-PRD (RB technically) (JJ proficient) )))
+                        (, ,) )
+                      (VP (VBD did) (RB n't) 
+                        (VP (VB hold) 
+                          (NP 
+                            (NP (JJ much) (NN promise) )
+                            (PP (IN of) 
+                              (S-NOM 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (VBG generating) 
+                                  (NP (JJ substantial) (NNS orders) )))))
+                          (SBAR-PRP (IN because) 
+                            (S 
+                              (NP-SBJ (NN financing) (NNS problems) )
+                              (VP (VBD caused) 
+                                (NP 
+                                  (NP (DT a) (JJ nine-month) (NN delay) )
+                                  (PP-LOC (IN in) 
+                                    (S-NOM 
+                                      (NP-SBJ (-NONE- *) )
+                                      (VP (VBG getting) 
+                                        (NP (DT the) (NN product) )
+                                        (PP-DIR (TO to) 
+                                          (NP (NN market) ))))))))))))))))))))
+    (. .) ))

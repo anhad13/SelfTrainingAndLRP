@@ -1,0 +1,168 @@
+
+( (FRAG 
+    (S-ADV 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBG Regarding) 
+        (NP 
+          (NP (PRP$ your) (NNP Sept.) (CD 28) (NNP Politics) (CC &) (NNP Policy) (NN column) )
+          (PP (IN on) 
+            (NP 
+              (NP (DT the) (NN party) (NNS differences) )
+              (PP (IN over) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *) )
+                  (VP 
+                    (VP (VBG cutting) 
+                      (NP (NN capital) (NNS gains) ))
+                    (CC or) 
+                    (VP (VBG expanding) 
+                      (NP (NNS IRAs) ))))))))))
+    (: :) 
+    (FRAG 
+      (WHADVP (WRB Why) (RB not) )
+      (VP 
+        (VP (VB compromise) 
+          (ADVP-TMP (RB now) ))
+        (CC and) 
+        (VP (VB save) 
+          (NP (DT the) (NN public) )
+          (PP-CLR (IN from) 
+            (NP 
+              (NP (DT the) (VBG coming) (JJ infantile) (JJ congressional) (JJ political) (NN rhetoric) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ-2 (-NONE- *T*-1) )
+                  (VP (VBZ seems) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB go) 
+                          (NP-MNR-CLR 
+                            (NP (NN hand) )
+                            (PP (IN in) 
+                              (NP (NN hand) )))
+                          (PP-CLR (IN with) 
+                            (NP (DT the) (NN process) )))))))))))))
+    (. ?) ))
+( (S 
+    (NP-SBJ (DT The) (NNPS Republicans) )
+    (VP (VBP maintain) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT a) 
+            (ADJP (CD 30) (NN %) )
+            (JJ capital-gains) (NN exclusion) )
+          (VP (MD will) 
+            (VP 
+              (VP (VB raise) 
+                (NP (NN revenue) )
+                (PP-TMP (IN in) 
+                  (NP (DT the) (JJ short) (NN term) )))
+              (CC and) 
+              (VP (VB spur) 
+                (NP (JJ economic) (NN investment) ))))))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ (DT the) (NNPS Democrats) )
+          (VP (VBP maintain) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ 
+                  (NP 
+                    (NP (DT an) (NN increase) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (JJ top) (NN income-tax) (NN rate) )))
+                  (CC and) 
+                  (NP (VBN expanded) (NNS IRAs) ))
+                (VP (MD will) 
+                  (VP 
+                    (VP (VB raise) 
+                      (NP (NN revenue) ))
+                    (CC and) 
+                    (VP (VB spur) 
+                      (NP (NNS savings) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT This) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (JJ classic) (NN example) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (JJ old) (NN saying) )
+            (, ,) (`` ``) 
+            (S 
+              (NP-SBJ (DT The) (NN whole) )
+              (VP (VBZ is) 
+                (ADJP-PRD 
+                  (ADJP (JJR greater) )
+                  (PP (IN than) 
+                    (NP 
+                      (NP (DT the) (NN sum) )
+                      (PP (IN of) 
+                        (NP (PRP$ its) (NNS parts) )))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (PRP It) )
+      (SBAR (-NONE- *EXP*-2) ))
+    (VP (VBZ 's) 
+      (ADJP-PRD (JJ ridiculous) )
+      (SBAR-2 (IN for) 
+        (S 
+          (NP-SBJ 
+            (NP (DT a) (NN family) )
+            (PP (IN with) 
+              (NP 
+                (NP (JJ taxable) (NN income) )
+                (PP (IN of) 
+                  (NP ($ $) (CD 50,000) (-NONE- *U*) )))))
+          (VP (TO to) 
+            (VP (VB pay) 
+              (NP (DT the) (JJ same) 
+                (ADJP (CD 28) (NN %) )
+                (JJ incremental) (NN tax) (NN rate) )
+              (PP (IN as) 
+                (NP 
+                  (NP (DT a) (NN family) )
+                  (PP (IN with) 
+                    (NP 
+                      (NP (JJ taxable) (NN income) )
+                      (PP (IN of) 
+                        (NP ($ $) (CD 250,000) (-NONE- *U*) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (ADJP (CD 33) (NN %) )
+      (NN bracket) )
+    (VP (MD should) 
+      (VP (VB apply) 
+        (PP-CLR (TO to) 
+          (NP 
+            (NP 
+              (NP (DT all) (NN income) )
+              (PP-LOC (IN over) 
+                (NP (DT the) (JJ applicable) (NN level) )))
+            (, ,) (RB not) 
+            (NP (RB just) (DT the) 
+              (ADJP (CD 5) (NN %) )
+              (NN rate) (NN adjustment) (NN amount) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (PRP It) )
+      (S (-NONE- *EXP*-2) ))
+    (VP (VBZ 's) 
+      (ADJP-PRD (RB equally) (JJ ridiculous) )
+      (S-2 
+        (NP-SBJ (-NONE- *) )
+        (RB not) 
+        (VP (TO to) 
+          (VP (VB provide) 
+            (NP (DT a) 
+              (UCP (NN capital) (NN investment) (CC or) (JJ retirement-savings) )
+              (NN tax) (NN incentive) )))))
+    (. .) ))
+( (NP (NNP Jeffrey) (NNP T.) (NNP Schmidlin) ))

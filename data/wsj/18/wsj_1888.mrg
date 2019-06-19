@@ -1,0 +1,129 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Wang) (NNPS Laboratories) (NNP Inc.) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Lowell) )
+        (, ,) 
+        (NP (NNP Mass.) )))
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBN beset) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (VBG declining) (NN demand) )
+            (PP (IN for) 
+              (NP (PRP$ its) (NNS computers) ))))))
+    (, ,) 
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 62.1) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (JJ 38-cents-a-share) (NN loss) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (PRP$ its) (JJ first) (NN quarter) )
+            (VP (VBN ended) 
+              (NP-TMP (NNP Sept.) (CD 30) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 12.7) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 596.8) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 684) (CD million) )
+          (-NONE- *U*) ))
+      (, ,) 
+      (SBAR-ADV (IN although) 
+        (S 
+          (NP-SBJ-1 
+            (NP (DT some) )
+            (PP (IN of) 
+              (NP (DT the) (NN decline) )))
+          (VP (VBD was) 
+            (VP (VBN caused) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS (JJ discontinued) (NNS operations) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Wang) )
+    (VP (VBD had) 
+      (ADVP-TMP (RB previously) )
+      (VP (VBN forecast) 
+        (NP (DT a) (NN loss) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD reiterated) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ expects) 
+            (NP 
+              (NP (DT another) (NN loss) )
+              (PP 
+                (PP-TMP (IN in) 
+                  (NP (DT the) (JJ second) (NN quarter) ))
+                (CC and) 
+                (PP (IN for) 
+                  (NP (DT the) (JJ full) (NN year) ))))
+            (, ,) 
+            (SBAR-ADV (IN although) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (VBZ expects) 
+                  (NP (DT a) (JJ profitable) (JJ fourth) (NN quarter) ))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP 
+      (NP (DT A) (NN year) )
+      (RB ago) )
+    (, ,) 
+    (NP-SBJ (NNP Wang) )
+    (VP (VBD had) 
+      (NP 
+        (NP (NNS earnings) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 13.1) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD eight) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) )))
+      (PP-TMP (IN in) 
+        (NP (PRP$ its) (JJ first) (NN quarter) ))
+      (, ,) 
+      (PP (VBG including) 
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 3.1) (CD million) )
+              (-NONE- *U*) )
+            (NN loss) )
+          (PP (IN from) 
+            (NP (JJ discontinued) (NNS operations) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJS latest) (NN period) (NN loss) )
+    (VP (VBD included) 
+      (NP 
+        (NP (DT a) 
+          (ADJP ($ $) (CD 12.9) (-NONE- *U*) )
+          (JJ pretax) (NN charge) )
+        (PP (IN for) 
+          (NP (NN severance) (NNS payments) ))))
+    (. .) ))

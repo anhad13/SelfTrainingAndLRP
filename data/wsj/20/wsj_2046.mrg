@@ -1,0 +1,115 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Moody) (POS 's) )
+      (NNPS Investors) (NNP Service) (NNP Inc.) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBG fretting) 
+        (PP-CLR (IN about) 
+          (NP 
+            (NP (VBG increasing) (JJ competitive) (NN pressure) )
+            (PP-LOC (IN on) 
+              (NP (NNP Ryder) ))))))
+    (, ,) 
+    (VP (VBD placed) 
+      (NP 
+        (NP 
+          (QP (IN about) ($ $) (CD 2.8) (CD billion) )
+          (-NONE- *U*) )
+        (PP (IN in) 
+          (NP (NN company) (NNS securities) )))
+      (PP-LOC-CLR (IN under) 
+        (NP 
+          (NP (NN review) )
+          (PP (IN for) 
+            (NP (JJ possible) (NN downgrade) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Ratings) )
+      (PP (IN under) 
+        (NP (NN review) )))
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP 
+          (NP (NNP Ryder) (POS 's) )
+          (NN A-1) (JJ collateral) (NN trust) (NNS debentures) )
+        (, ,) 
+        (NP (NN A-2) (JJ senior) (NNS notes) 
+          (CC and)
+          (NNS bonds) )
+        (, ,) 
+        (NP (NN A-2) (VBN preferred) (NN stock) )
+        (CC and) 
+        (NP 
+          (NP 
+            (NP (DT the) (NN company) (POS 's) )
+            (NN Prime-1) (NN rating) )
+          (PP (IN for) 
+            (NP (JJ commercial) (NN paper) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Moody) (POS 's) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG assessing) 
+              (NP 
+                (NP (DT the) (NNS strategies) )
+                (SBAR 
+                  (WHNP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ 
+                      (NP (NNP Ryder) (POS 's) )
+                      (NN management) )
+                    (VP (MD may) 
+                      (VP (VB follow) 
+                        (NP (-NONE- *T*-1) )
+                        (PP (IN in) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (VBG addressing) 
+                              (NP 
+                                (NP (JJ significant) (NNS challenges) )
+                                (PP-LOC (IN in) 
+                                  (NP (DT some) (JJ major) (NNS markets) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN rating) (NN agency) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG focusing) 
+              (ADVP (RB especially) )
+              (PP (IN on) 
+                (NP 
+                  (NP (DT the) (NN transportation) (NN service) (NN company) (POS 's) )
+                  (NNS efforts) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP 
+                        (VP (VB control) 
+                          (NP (NNS costs) ))
+                        (, ,) 
+                        (VP (VB improve) 
+                          (NP (NNS margins) ))
+                        (CC and) 
+                        (VP (VB enhance) 
+                          (NP 
+                            (NP (PRP$ its) (JJ competitive) (NN position) )
+                            (PP-LOC (IN in) 
+                              (NP 
+                                (NP (PRP$ its) (JJ primary) (NN business) )
+                                (, ,) 
+                                (NP (NN vehicle) (NN leasing) 
+                                  (CC and)
+                                  (NN rental) )))))))))))))))
+    (. .) ))

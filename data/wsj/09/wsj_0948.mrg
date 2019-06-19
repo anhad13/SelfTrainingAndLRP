@@ -1,0 +1,98 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Ronald) (NNP J.) (NNP Taylor) )
+      (, ,) 
+      (NP (CD 48) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN chairman) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (NP (DT this) (NN insurance) (NN firm) (POS 's) )
+                  (NN reinsurance) (NN brokerage) (NN group) )
+                (CC and) 
+                (NP 
+                  (NP (PRP$ its) (JJ major) (NN unit) )
+                  (, ,) 
+                  (NP (NNP G.L.) (NNP Hodson) (CC &) (NNP Son) (NNP Inc) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Robert) (NNP G.) (NNP Hodson) )
+      (, ,) 
+      (NP (CD 65) )
+      (, ,) )
+    (VP 
+      (VP (VBD retired) 
+        (PP-CLR (IN as) 
+          (NP (NN chairman) )))
+      (CC but) 
+      (VP (MD will) 
+        (VP (VB remain) 
+          (NP-PRD (DT a) (NN consultant) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Stephen) (NNP A.) (NNP Crane) )
+      (, ,) 
+      (NP (CD 44) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (JJ senior) (NN vice) (NN president) )
+          (CC and) 
+          (NP (NN chief) 
+            (UCP (JJ financial) 
+              (CC and)
+              (VBG planning) )
+            (NN officer) ))
+        (PP (IN of) 
+          (NP (DT the) (NN parent) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN president) )
+              (CC and) 
+              (NP (NN chief) (NN executive) ))
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN brokerage) (NN group) )
+                (CC and) 
+                (NP (DT the) (NN unit) )))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG succeeding) 
+            (NP (NNP Mr.) (NNP Taylor) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS appointments) )
+    (VP (VBP are) 
+      (ADJP-PRD (JJ effective) )
+      (NP-TMP (NNP Nov.) (CD 1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Corroon) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB announce) 
+              (NP 
+                (NP (DT a) (NN successor) )
+                (PP (TO to) 
+                  (NP (NNP Mr.) (NNP Crane) )))
+              (PP-TMP (IN at) 
+                (NP (DT a) (JJ later) (NN date) )))))))
+    (. .) ))

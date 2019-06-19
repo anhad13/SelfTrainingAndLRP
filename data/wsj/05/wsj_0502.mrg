@@ -1,0 +1,115 @@
+
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (NNP American) (NNPS Airlines) )
+      (VP (MD will) 
+        (VP (VB expand) 
+          (NP (PRP$ its) (JJ trans-Atlantic) (NN service) )
+          (NP-EXT (CD 30) (NN %) )
+          (PP-TMP (VBG beginning) 
+            (NP-TMP (JJ next) (NN year) ))
+          (PP (IN with) 
+            (NP 
+              (NP (CD six) (JJ new) (JJ daily) (NNS flights) )
+              (PP-DIR (IN between) 
+                (NP 
+                  (NP (DT the) (NNP U.S.) )
+                  (CC and) 
+                  (NP (NNP Europe) ))))))))
+    (, ,) 
+    (NP-SBJ (NNS officials) )
+    (VP (VBD announced) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) ))
+      (NP-TMP (NN yesterday) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP American) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP (NNP AMR) (NNP Corp.) ))))
+    (, ,) 
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN nation) (POS 's) )
+        (JJS largest) (NN airline) ))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (DT The) (JJ new) (JJ nonstop) (NNS flights) )
+        (, ,) 
+        (VP (VBG starting) 
+          (NP-TMP (JJ next) (NNP May) ))
+        (, ,) )
+      (VP (MD will) 
+        (VP (VB include) 
+          (NP 
+            (NP (NNP Chicago-Warsaw) )
+            (, ,) 
+            (NP (NNP Chicago-Helsinki) )
+            (, ,) 
+            (NP (NNP Miami-Madrid) )
+            (, ,) 
+            (NP (NNP Dallas-Barcelona) )
+            (, ,) 
+            (NP (DT a) (JJ second) (JJ daily) (NNP Chicago-Paris) (NN flight) )
+            (CC and) 
+            (NP (DT a) (JJ second) (JJ daily) (NNP Chicago-Manchester) (NN flight) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Chicago) )
+    (VP (VBZ has) 
+      (NP 
+        (NP (DT the) (JJS largest) (NN population) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS citizens) )
+            (PP (IN of) 
+              (NP (JJ Polish) (NN heritage) ))))
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT any) (NN city) )
+            (PP-LOC (IN outside) 
+              (NP (NNP Poland) ))))))
+    (. .) ))
+( (S 
+    (PP (IN With) 
+      (NP (DT the) (JJ new) (NN service) ))
+    (, ,) 
+    (NP-SBJ (NNP American) )
+    (VP (MD will) 
+      (VP (VB fly) 
+        (NP 
+          (NP (CD 161) (NNS flights) )
+          (NP-ADV (DT a) (NN week) )
+          (PP-DIR (TO to) 
+            (NP (CD 17) (JJ European) (NNS cities) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS additions) )
+    (VP (VBP solidify) 
+      (NP 
+        (NP 
+          (NP (NNP American) (POS 's) )
+          (NN position) )
+        (PP (IN as) 
+          (NP 
+            (NP (DT the) (JJ third-largest) (NNP U.S.) (NN transatlantic) (NN carrier) )
+            (, ,) 
+            (PP-LOC (IN behind) 
+              (NP 
+                (NP 
+                  (NP (NNP PanAm) (NNP Corp.) (POS 's) )
+                  (NNP Pan) (NNP American) (NNP World) (NNPS Airways) )
+                (CC and) 
+                (NP (NNP Trans) (NNP World) (NNPS Airlines) )))))))
+    (. .) ))

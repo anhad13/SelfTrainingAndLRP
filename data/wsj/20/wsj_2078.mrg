@@ -1,0 +1,233 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT An) (JJ experimental) (NN vaccine) )
+      (VP (MD can) 
+        (VP (VB alter) 
+          (NP 
+            (NP (DT the) (JJ immune) (NN response) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNS people) )
+                (VP (VBN infected) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN with) 
+                    (NP (DT the) (NNP AIDS) (NN virus) )))))))))
+    (, ,) 
+    (NP-SBJ (DT a) (JJ prominent) (NNP U.S.) (NN scientist) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ (DT that) )
+    (VP (VBZ does) (RB n't) 
+      (VP (VB mean) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (MD can) 
+              (VP (VB benefit) 
+                (PP-CLR (IN from) 
+                  (NP (DT the) (NN vaccine) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP$ Its) (NN effectiveness) )
+    (VP (MD ca) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN determined) 
+          (NP (-NONE- *-1) )
+          (SBAR-TMP (IN until) 
+            (S 
+              (NP-SBJ-2 (DT a) (JJ large) (JJ clinical) (NN trial) )
+              (VP (VBZ is) 
+                (VP (VBN undertaken) 
+                  (NP (-NONE- *-2) )
+                  (PP (IN by) 
+                    (NP-LGS (DT the) (NNP Army) ))
+                  (PP-TMP (IN in) 
+                    (NP (NNP January) ))))))
+          (, ,) 
+          (PP (VBG according) 
+            (PP (TO to) 
+              (NP 
+                (NP (NNP Robert) (NNP Redfield) )
+                (, ,) 
+                (NP 
+                  (NP (NN chief) )
+                  (PP (IN of) 
+                    (NP (VBN acquired) (JJ immune) (NN deficiency) (NN syndrome) (NN research) ))
+                  (PP-LOC (IN at) 
+                    (NP 
+                      (NP (NNP Walter) (NNP Reed) (NNP Army) (NNP Institute) )
+                      (PP (IN of) 
+                        (NP (NNP Research) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Dr.) (NNP Redfield) (POS 's) )
+        (NN report) )
+      (PP (IN on) 
+        (NP 
+          (NP (JJ early) (NNS experiments) )
+          (VP (VBG using) 
+            (NP 
+              (NP (DT an) (NNP AIDS) (NN vaccine) )
+              (VP (VBD made) 
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (NNP MicroGeneSys) (NNP Inc.) )
+                    (PP-LOC (IN of) 
+                      (NP 
+                        (NP (NNP West) (NNP Haven) )
+                        (, ,) 
+                        (NP (NNP Conn.) )))))))))))
+    (, ,) 
+    (VP (VBD came) 
+      (PP-LOC-CLR (IN at) 
+        (NP 
+          (NP (DT a) (NN meeting) )
+          (PP (IN of) 
+            (NP (NNP AIDS) (NN vaccine) (NNS researchers) ))))
+      (PP-LOC (IN in) 
+        (NP (NNP Florida) ))
+      (NP-TMP (JJ late) (NNP Monday) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (DT The) (NN vaccine) )
+      (, ,) 
+      (NP (NNP VaxSyn) (NNP HIV-1) )
+      (, ,) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (VP 
+          (ADVP-MNR (RB safely) )
+          (VBN given) 
+          (NP (-NONE- *-2) )
+          (PP-DTV (TO to) 
+            (NP 
+              (NP (CD 14) (NNS people) )
+              (, ,) 
+              (SBAR 
+                (WHNP-3 (DT some) 
+                  (WHPP (IN of) 
+                    (WHNP (WP whom) )))
+                (S 
+                  (NP-SBJ (-NONE- *T*-3) )
+                  (VP (VBP are) 
+                    (VP (VBG experiencing) 
+                      (NP 
+                        (NP (JJ substantial) (NNS increases) )
+                        (PP-LOC (IN in) 
+                          (NP (JJ certain) (NNS antibodies) ))))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (JJ conventional) (NN wisdom) )
+      (VP (VBN used) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (SBAR-PRD (IN that) 
+                (S 
+                  (NP-SBJ (PRP you) )
+                  (VP (MD could) (RB n't) 
+                    (VP (VB modify) 
+                      (NP 
+                        (NP (DT the) (JJ immune) (NN response) )
+                        (PP (IN of) 
+                          (NP (DT an) (JJ infected) (NN individual) )))
+                      ('' '') 
+                      (PP-MNR (IN by) 
+                        (S-NOM 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (VBG innoculating) 
+                            (NP (PRP them) )
+                            (PP-CLR (IN with) 
+                              (NP (JJ synthetic) (JJ viral) (NNS proteins) ))))))))))))))
+    (, ,) 
+    (NP-SBJ (NNP Dr.) (NNP Redfield) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (PRP We) )
+    (VP (VBP 've) 
+      (VP (VBN demonstrated) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP you) )
+            (VP (MD can) 
+              (VP (-NONE- *?*) ))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ certain) (NNS volunteers) )
+          (VP (VBD developed) 
+            (NP 
+              (NP 
+                (NP (NNS kinds) )
+                (PP (IN of) 
+                  (NP (NNS antibodies) )))
+              (VP (VBN associated) 
+                (NP (-NONE- *) )
+                (PP-CLR (IN with) 
+                  (NP (JJ early) (NNP AIDS) ))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (JJ Other) (NNS antibodies) )
+        (VP (VBN sparked) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (DT the) (NN preparation) ))))
+      (VP (VBP are) 
+        (PP-PRD (IN of) 
+          (NP 
+            (NP (DT a) (NN sort) )
+            (ADJP (RB rarely) (JJ present) 
+              (PP (IN in) 
+                (NP (JJ large) (NNS quantities) ))
+              (PP (IN in) 
+                (NP 
+                  (ADJP (JJ infected) (CC or) (JJ ill) )
+                  (NNS individuals) )))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (CD One) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NNS mysteries) )
+          (PP (IN of) 
+            (NP (NNP AIDS) )))))
+    (VP (VBZ remains) 
+      (SBAR-NOM 
+        (WHADVP (WRB why) )
+        (S 
+          (NP-SBJ (JJ infected) (NNS people) )
+          (VP 
+            (VP (VBP produce) 
+              (NP 
+                (NP (JJ large) (NNS quantities) )
+                (PP (IN of) 
+                  (NP (NNS antibodies) ))))
+            (, ,) (CC but) 
+            (VP (VBP deteriorate) 
+              (ADVP (RB nonetheless) ))))))
+    (. .) ))

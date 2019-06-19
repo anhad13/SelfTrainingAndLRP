@@ -1,0 +1,616 @@
+
+( (S 
+    (S 
+      (NP-SBJ (NNP Federal) (NNP Reserve) (NNP Chairman) (NNP Alan) (NNP Greenspan) )
+      (VP (VBD told) 
+        (NP (NNP Congress) )
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (DT the) (NNP Fed) )
+            (VP (MD can) 
+              (VP (VB wipe) 
+                (PRT (RP out) )
+                (NP (NN inflation) )
+                (PP (IN without) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (VBG causing) 
+                      (NP (DT a) (NN recession) ))))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP (VBD said) 
+        (SBAR 
+          (S 
+            (S-NOM-SBJ 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG doing) 
+                (ADVP-PRD (RB so) )))
+            (VP 
+              (VP (MD will) 
+                (VP (VB inflict) 
+                  (NP (DT some) (JJ short-term) (NN pain) )))
+              (CC and) 
+              (VP (MD will) 
+                (VP (VB require) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG reducing) 
+                      (NP (DT the) (JJ federal) (NN deficit) )
+                      (ADVP-MNR (RB sharply) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Greenspan) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP he) )
+            (CC and) 
+            (NP (JJ other) (NNP Fed) (NNS governors) ))
+          (VP (VBP endorse) 
+            (NP 
+              (NP (DT a) (NN bill) )
+              (PP (IN by) 
+                (NP 
+                  (NP (NNP Rep.) (NNP Stephen) (NNP Neal) )
+                  (PRN 
+                    (-LRB- -LRB-)
+                    (NP (NNP D.) )
+                    (, ,) 
+                    (NP-LOC (NNP N.C.) )
+                    (-RRB- -RRB-) )))
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (MD would) 
+                    (VP (VB require) 
+                      (S 
+                        (NP-SBJ (DT the) (NNP Fed) )
+                        (VP (TO to) 
+                          (VP (VB pursue) 
+                            (NP 
+                              (NP (NNS policies) )
+                              (VP (VBN aimed) 
+                                (NP (-NONE- *) )
+                                (PP-CLR (IN at) 
+                                  (S-NOM 
+                                    (NP-SBJ (-NONE- *) )
+                                    (VP (VBG eliminating) 
+                                      (NP (NN inflation) )
+                                      (PP-TMP (IN within) 
+                                        (NP (CD five) (NNS years) )))))))))))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (PDT Such) (DT a) (NN deadline) )
+        (VP (VBZ is) 
+          (ADJP-PRD (JJ attainable) )))
+      (, ,) (CC but) 
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP (MD would) 
+          (VP (VB have) 
+            (NP (NNS costs) )))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Greenspan) )
+    (VP (VBD told) 
+      (NP 
+        (NP (NNP Rep.) (NNP Neal) (POS 's) )
+        (JJ monetary) (NN policy) (NN subcommittee) )
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Fed) (NN chief) )
+    (VP (VBD opposed) 
+      (NP 
+        (NP (DT a) (NN bill) )
+        (PRN (: -) 
+          (VP (VBN introduced) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS (NNPS Reps.) 
+                (NX 
+                  (NX 
+                    (NX (NNP Lee) (NNP Hamilton) )
+                    (PRN 
+                      (-LRB- -LRB-)
+                      (NP (NNP D.) )
+                      (, ,) 
+                      (NP-LOC (NNP Ind.) )
+                      (-RRB- -RRB-) ))
+                  (CC and) 
+                  (NX 
+                    (NX (NNP Byron) (NNP Dorgan) )
+                    (PRN 
+                      (-LRB- -LRB-)
+                      (NP (NNP D.) )
+                      (, ,) 
+                      (NP-LOC (NNP N.D.) )
+                      (-RRB- -RRB-) ))))))
+          (: --) )
+        (SBAR 
+          (WHNP-1 (IN that) )
+          (, ,) 
+          (S 
+            (PP (IN among) 
+              (NP (JJ other) (NNS things) ))
+            (, ,) 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (MD would) 
+              (VP (VB require) 
+                (S 
+                  (NP-SBJ (DT the) (NNP Fed) )
+                  (VP (TO to) 
+                    (VP 
+                      (VP (VB disclose) 
+                        (NP (DT all) (JJ monetary) (NN policy) (NNS moves) )
+                        (ADVP-TMP (RB immediately) ))
+                      (CC and) 
+                      (VP (VB increase) 
+                        (NP 
+                          (NP (JJ outside) (NN scrutiny) )
+                          (PP (IN of) 
+                            (NP (DT the) (NNP Fed) )))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG responding) 
+          (PP-CLR (TO to) 
+            (NP (NNS questions) )))))
+    (, ,) 
+    (NP-SBJ-1 (NNP Mr.) (NNP Greenspan) )
+    (VP (VBD played) 
+      (PRT (RP down) )
+      (NP 
+        (NP (NNS reports) )
+        (PP (IN of) 
+          (NP 
+            (NP (NN tension) )
+            (PP (IN between) 
+              (NP 
+                (NP (DT the) (NNP Fed) )
+                (CC and) 
+                (NP (DT the) (NNP Treasury) )))
+            (PP (IN over) 
+              (NP (NN exchange-rate) (NN policy) ))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-4 
+      (SBAR-NOM-SBJ 
+        (WHNP-2 (WP What) )
+        (S 
+          (NP-SBJ-3 (-NONE- *T*-2) )
+          (VP (VBP seem) 
+            (S 
+              (NP-SBJ-1 (-NONE- *-3) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (VP (VBN interpreted) 
+                    (NP (-NONE- *-1) )
+                    (PP-CLR (IN as) 
+                      (NP (JJ great) (NNS conflicts) )))))))))
+      (VP (VBP are) 
+        (NP-PRD 
+          (NP 
+            (ADJP (RB relatively) (JJ minor) )
+            (NNS issues) )
+          (PP (IN of) 
+            (NP (NNS tactics) )))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-4) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD did) (RB n't) 
+      (VP (JJ elaborate) ))
+    (. .) ))
+( (S 
+    (S (CC But) 
+      (NP-SBJ (DT the) (NNP Fed) )
+      (VP (VBZ is) (RB n't) 
+        (ADJP-PRD (JJ enthusiastic) 
+          (PP (IN about) 
+            (NP (NNP Treasury) (NNS efforts) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB bring) 
+                    (PRT (RP down) )
+                    (NP 
+                      (NP (DT the) (NN value) )
+                      (PP (IN of) 
+                        (NP (DT the) (NN dollar) )))
+                    (PP-MNR (IN through) 
+                      (NP 
+                        (NP (NN intervention) )
+                        (PP (IN in) 
+                          (NP (JJ foreign-exchange) (NNS markets) ))))))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-1 (DT the) (NNP Treasury) )
+      (VP (VBZ is) 
+        (VP (VBN frustrated) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN at) 
+            (NP 
+              (NP (DT the) (NNP Fed) (POS 's) )
+              (NN reluctance) 
+              (S 
+                (NP-SBJ-2 (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB cut) 
+                    (NP (NN interest) (NNS rates) )
+                    (S-PRP 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB pull) 
+                          (PRT (RP down) )
+                          (NP 
+                            (NP (DT the) (NN dollar) (POS 's) )
+                            (NN value) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Greenspan) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (S 
+            (NP-SBJ-1 
+              (NP (DT the) (NN inflation) (NN rate) )
+              (PRN 
+                (, ,)
+                (ADVP-TMP (RB currently) )
+                (NP 
+                  (QP (IN about) (CD 4) (CD 1\/2) )
+                  (NN %) )
+                (, ,) ))
+            (`` ``) 
+            (VP (MD could) 
+              (VP (VB be) 
+                (VP (VBN brought) 
+                  (NP (-NONE- *-1) )
+                  (PRT (RP down) )
+                  (PP-DIR (TO to) 
+                    (NP 
+                      (NP (NNS levels) )
+                      (SBAR 
+                        (WHNP-2 (WDT which) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-2) )
+                          (VP (VBP are) 
+                            (ADJP-PRD (JJ close) 
+                              (PP (TO to) 
+                                (NP (CD zero) ))))))))
+                  (PP (IN without) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG putting) 
+                        (NP (DT the) (NN economy) )
+                        (PP-PUT (IN into) 
+                          (NP (DT a) (NN recession) )))))))))
+          (, ,) (CC but) 
+          (S 
+            (NP-SBJ (PRP I) )
+            (VP (VBP do) 
+              (VP (VB suspect) 
+                (SBAR (IN that) 
+                  (S 
+                    (NP-SBJ (EX there) )
+                    (VP (MD might) 
+                      (VP (VB be) 
+                        (NP-PRD 
+                          (NP (DT some) (JJ modest) (NN loss) )
+                          (PP (IN of) 
+                            (NP (JJ economic) (NN output) )))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (PP (IN In) 
+      (NP (JJ other) (NNS words) ))
+    (, ,) 
+    (S 
+      (NP-SBJ (JJ economic) (NN growth) )
+      (VP (MD would) 
+        (VP (VB be) 
+          (ADJP-PRD (JJR lower) ))))
+    (CC and) 
+    (S 
+      (NP-SBJ (NN unemployment) )
+      (VP (MD would) 
+        (VP (VB be) 
+          (ADJP-PRD (JJR higher) ))))
+    (PP-TMP (IN for) 
+      (NP (DT a) (JJ few) (NNS years) ))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Greenspan) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBZ has) 
+            (ADVP-TMP (RB repeatedly) )
+            (VP (VBN said) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ 
+                    (NP (DT the) (NNP Fed) (POS 's) )
+                    (NN goal) )
+                  (VP (VBZ is) 
+                    (S-PRD 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB reduce) 
+                          (NP (NN inflation) )))))))))))
+      (, ,) )
+    (VP (VBD added) 
+      (SBAR (IN that) (`` ``) 
+        (S 
+          (SBAR-NOM-SBJ-4 
+            (WHNP-3 (WDT whatever) (NNS losses) )
+            (S 
+              (NP-SBJ-1 (-NONE- *T*-3) )
+              (VP (VBP are) 
+                (VP (VBN incurred) 
+                  (NP (-NONE- *-1) )
+                  (PP-CLR (IN in) 
+                    (NP 
+                      (NP (DT the) (NN pursuing) )
+                      (PP (IN of) 
+                        (NP (NN price) (NN stability) ))))))))
+          (VP (MD would) 
+            (ADVP (RB surely) )
+            (VP (VB be) 
+              (ADVP (JJR more) (IN than) )
+              (VP (VBN made) 
+                (PRT (RP up) )
+                (NP (-NONE- *-4) )
+                (PP-CLR (IN in) 
+                  (NP (VBN increased) (NN output) ))
+                (ADVP-TMP (RB thereafter) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD warned) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNP Fed) (NNS efforts) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB conquer) 
+                  (NP (NN inflation) )))))
+          (VP 
+            (VP (MD would) 
+              (VP (VB fail) ))
+            (PRN (: --) 
+              (CC and)
+              (VP (MD could) 
+                (VP (VB produce) 
+                  (NP (`` ``) (DT a) (JJ major) (JJ financial) (NN crunch) ('' '') )))
+              (: --) )
+            (SBAR-ADV (IN unless) 
+              (S 
+                (NP-SBJ-1 (PRP they) )
+                (VP (VBP are) 
+                  (VP (VBN accompanied) 
+                    (NP (-NONE- *-1) )
+                    (PP (IN by) 
+                      (NP-LGS 
+                        (NP (DT a) (JJ significant) (NN reduction) )
+                        (PP-LOC (IN in) 
+                          (NP 
+                            (NP (DT the) (JJ federal) (NN deficit) )
+                            (, ,) 
+                            (SBAR 
+                              (WHNP-2 (WDT which) )
+                              (S 
+                                (NP-SBJ (-NONE- *T*-2) )
+                                (VP (VBZ causes) 
+                                  (S 
+                                    (NP-SBJ (DT the) (NN government) )
+                                    (VP (TO to) 
+                                      (VP (VB borrow) 
+                                        (ADVP-MNR (RB heavily) )))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Rep.) (NNP Neal) (POS 's) )
+      (NN bill) )
+    (ADVP (RB originally) )
+    (VP (VBD called) 
+      (PP-CLR (IN on) 
+        (NP-1 (DT the) (NNP Fed) ))
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP 
+          (VP (TO to) 
+            (VP (VB reduce) 
+              (NP (DT the) (NN inflation) (NN rate) )
+              (PP-EXT (IN by) 
+                (NP 
+                  (NP (CD one) (NN percentage) (NN point) )
+                  (NP-ADV (DT a) (NN year) )))
+              (PP-TMP (IN for) 
+                (NP (CD five) (NNS years) ))))
+          (CC and) 
+          (VP (TO to) 
+            (VP (VB maintain) 
+              (NP (DT a) (CD zero) (NN inflation) (NN rate) )
+              (ADVP-TMP (RB thereafter) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP He) )
+    (VP (VBD altered) 
+      (NP (DT the) (NN wording) )
+      (S-PRP 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB win) 
+            (NP 
+              (NP (NNP Mr.) (NNP Greenspan) (POS 's) )
+              (NN endorsement) )))))
+    (. .) ))
+( (S 
+    (ADVP (RB Even) (RB so) )
+    (, ,) 
+    (NP-SBJ-1 (PRP$ his) (NN bill) )
+    (VP (VBZ is) 
+      (VP (VBN given) 
+        (NP (-NONE- *-1) )
+        (NP 
+          (NP (JJ little) (NN chance) )
+          (PP (IN of) 
+            (NP (NN passage) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNP Reps.) (NNP Hamilton) 
+      (CC and)
+      (NNP Dorgan) )
+    (ADVP (RB also) )
+    (VP (VBP have) 
+      (VP (VBN altered) 
+        (NP (PRP$ their) (NN bill) )
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (VBG dropping) 
+            (NP (DT a) (NN proposal) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB add) 
+                    (NP (DT the) (NNP Treasury) (NN secretary) )
+                    (PP-CLR (TO to) 
+                      (NP 
+                        (NP (DT the) (JJ 12-member) (NNP Fed) (NN committee) )
+                        (SBAR 
+                          (WHNP-1 (WDT that) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-1) )
+                            (VP (VBZ makes) 
+                              (NP (JJ monetary) (NN policy) ))))))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Instead) )
+    (, ,) 
+    (NP-SBJ (DT the) (NN bill) )
+    (ADVP (RB simply) )
+    (VP (VBZ calls) 
+      (PP-CLR (IN for) 
+        (NP 
+          (NP (JJ twice-a-year) (NNS meetings) )
+          (PP (IN between) 
+            (NP 
+              (NP (DT the) (NN committee) )
+              (CC and) 
+              (NP (JJ top) (NN administration) (NNS officials) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (RB Even) (DT that) )
+    (VP (VBD met) 
+      (PP-CLR (IN with) 
+        (NP 
+          (NP (NNP Mr.) (NNP Greenspan) (POS 's) )
+          (NN disapproval) ))
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP 
+            (VP (MD might) 
+              (VP (VB subject) 
+                (NP (DT the) (NNP Fed) )
+                (`` ``) 
+                (PP-CLR (TO to) 
+                  (NP (DT a) 
+                    (ADJP 
+                      (ADVP (RBR more) (RB intensely) )
+                      (JJ political) )
+                    (NN perspective) ))
+                ('' '') ))
+            (CC and) (`` ``) 
+            (VP (MD could) 
+              (VP (VB risk) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG bending) 
+                    (NP (JJ monetary) (NN policy) )
+                    (ADVP-DIR (RB away) 
+                      (PP (IN from) 
+                        (NP (JJ long-term) (JJ strategic) (NNS goals) )))))))))))
+    (. .) ('' '') ))
+( (S 
+    (S-TPC-1 
+      (SBAR-ADV (IN While) 
+        (S 
+          (NP-SBJ 
+            (NP (DT each) )
+            (PP (IN of) 
+              (NP (DT the) (NNP Hamilton-Dorgan) (NNS proposals) )))
+          (VP (VBZ represents) 
+            (NP (RB only) (DT a) (JJ small) (NN step) ))))
+      (, ,) 
+      (ADVP (RB together) )
+      (NP-SBJ (PRP they) )
+      (VP (MD would) 
+        (VP (VB erode) 
+          (NP 
+            (NP (DT the) (NNP Fed) (POS 's) )
+            (NN independence) ))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Greenspan) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Greenspan) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (SBAR-ADV (IN although) 
+            (S 
+              (NP-SBJ (PRP he) )
+              (VP (VBZ favors) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG cutting) 
+                    (NP (NNS capital-gains) (NNS taxes) )
+                    (PP (IN as) 
+                      (NP (JJ sound) (JJ economic) (NN policy) )))))))
+          (, ,) 
+          (NP-SBJ (PRP he) )
+          (VP (MD would) 
+            (VP (VB oppose) 
+              (NP (PDT such) (DT a) (NN move) )
+              (SBAR-ADV (IN if) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (MD would) 
+                    (VP 
+                      (VP (VB undo) 
+                        (NP 
+                          (NP (DT the) (JJ political) (NN compromise) )
+                          (VP (VBN embodied) 
+                            (NP (-NONE- *) )
+                            (PP-CLR (IN in) 
+                              (NP 
+                                (NP (DT the) (NNP Tax) (NNP Reform) (NNP Act) )
+                                (PP (IN of) 
+                                  (NP (CD 1986) )))))))
+                      (CC and) 
+                      (VP (VB result) 
+                        (PP-CLR (IN in) 
+                          (NP (JJR higher) (JJ marginal) (NN income) (NN tax) (NNS rates) ))))))))))))
+    (. .) ))

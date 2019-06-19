@@ -1,0 +1,80 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Grumman) (NNP Corp.) )
+    (VP (VBD was) 
+      (VP (VBN awarded) 
+        (NP (-NONE- *-1) )
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 53.1) (CD million) )
+              (-NONE- *U*) )
+            (NNP Navy) (NN contract) )
+          (PP (IN for) 
+            (NP 
+              (NP (JJ advanced) (NN acquisition) )
+              (PP (IN of) 
+                (NP (CD six) (NNP E-2C) (JJ tactical) (NN control) (NN aircraft) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP LTV) (NNP Corp.) )
+    (VP (VBD won) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 25) (CD million) )
+            (-NONE- *U*) )
+          (NN Army) (NN contract) )
+        (PP (IN for) 
+          (NP (NN missile) (NN test) (NN equipment) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Unisys) (NNP Corp.) )
+    (VP (VBD received) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 24.4) (CD million) )
+            (-NONE- *U*) )
+          (NNP Air) (NNP Force) (NN contract) )
+        (PP (IN for) 
+          (NP (NN computer) (NN programming) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Ford) (NNP Aerospace) (CC &) (NNP Communications) (NNP Corp.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP (NNP Ford) (NNP Motor) (NNP Co.) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN awarded) 
+        (NP (-NONE- *-1) )
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 15.9) (CD million) )
+              (-NONE- *U*) )
+            (NNP Air) (NNP Force) (NN contract) )
+          (PP (IN for) 
+            (NP (NN computer) (NNS improvements) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Rockwell) (NNP International) (NNP Corp.) )
+    (VP (VBD was) 
+      (VP (VBN issued) 
+        (NP (-NONE- *-1) )
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 12.5) (CD million) )
+              (-NONE- *U*) )
+            (NNP Air) (NNP Force) (NN contract) )
+          (PP (IN for) 
+            (NP 
+              (NP (NNS changes) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (NNP National) (NNP Aerospace) (NNP Plane) )))))))
+    (. .) ))

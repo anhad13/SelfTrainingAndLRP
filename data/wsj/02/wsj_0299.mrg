@@ -1,0 +1,180 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP J.C.) (NNP PENNEY) (NNP Co.) )
+      (, ,) 
+      (NP (NNP Dallas) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD issued) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 350) (CD million) )
+                (-NONE- *U*) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNS securities) )
+                  (VP (VBN backed) 
+                    (NP (-NONE- *) )
+                    (PP (IN by) 
+                      (NP-LGS (NN credit-card) (NN receivables) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-258 (DT The) (NN offering) )
+    (VP (VBD was) 
+      (VP (VBN priced) 
+        (NP-1 (-NONE- *-258) )
+        (PP (IN with) 
+          (NP (DT an) 
+            (ADJP (CD 8.95) (NN %) )
+            (NN coupon) (NN rate) ))
+        (PP-CLR (IN at) 
+          (NP (CD 99.1875) (NN %) ))
+        (S-CLR 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB yield) 
+              (NP (CD 9.19) (NN %) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN retailer) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NNS securities) )
+          (VP (VBP are) 
+            (VP (VBN expected) 
+              (S 
+                (NP-SBJ-2 (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB be) 
+                    (VP 
+                      (VP (VBN rated) 
+                        (S 
+                          (NP-SBJ (-NONE- *-2) )
+                          (ADJP-PRD-3 (JJ triple-A) ))
+                        (PP-4 (IN by) 
+                          (NP-LGS 
+                            (NP (NNP Standard) (CC &) (NNP Poor) (POS 's) )
+                            (NNP Corp.) )))
+                      (CC and) 
+                      (VP 
+                        (ADJP-PRD=3 (JJ Aaa) )
+                        (PP=4 (IN by) 
+                          (NP-LGS 
+                            (NP (NNP Moody) (POS 's) )
+                            (NNPS Investors) (NNP Service) (NNP Inc) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBP pay) 
+      (NP (NN interest) )
+      (PP-TMP 
+        (ADVP (RB only) )
+        (IN for) 
+        (NP (CD 115) (NNS months) ))
+      (, ,) 
+      (PP (IN with) 
+        (NP 
+          (NP (JJ principal) (NNS payments) )
+          (VP (VBG beginning) 
+            (ADVP-TMP (RB thereafter) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ expected) (JJ average) (NN life) )
+      (PP (IN of) 
+        (NP (DT the) (NNS certificates) )))
+    (VP (VBZ is) 
+      (NP-PRD (CD 10) (NNS years) )
+      (, ,) 
+      (PP (IN with) 
+        (NP 
+          (NP (DT the) (JJ final) (JJ scheduled) (NN payment) )
+          (PP-TMP (IN in) 
+            (NP 
+              (NP (NNP October) )
+              (, ,) 
+              (NP (CD 2001) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP First) (NNP Boston) (NNP Corp.) )
+    (VP (VBZ is) 
+      (NP-PRD (JJ sole) (NN underwriter) ))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (NP 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP (DT the) (NN transaction) ))))
+    (, ,) 
+    (NP-SBJ (NNP J.C.) (NNP Penney) )
+    (VP (MD will) 
+      (VP (VB sell) 
+        (NP 
+          (NP (DT a) (NN portion) )
+          (PP (IN of) 
+            (NP (PRP$ its) (NN credit-card) (NN receivables) )))
+        (PP-DTV (TO to) 
+          (NP 
+            (NP (PRP$ its) (NNP JCP) (NNPS Receivables) (NNP Inc.) (NN unit) )
+            (, ,) 
+            (SBAR 
+              (WHNP-315 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-315) )
+                (VP (MD will) 
+                  (ADVP-TMP (RB then) )
+                  (VP (VB transfer) 
+                    (NP (PRP them) )
+                    (PP-DIR (TO to) 
+                      (NP (DT a) (NN master) (NN trust) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN trust) )
+    (VP (MD will) 
+      (VP (VB issue) 
+        (NP (DT the) (NNS certificates) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-259 (NN Credit) (NN support) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN provided) 
+          (NP (-NONE- *-259) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (DT a) (NN letter) )
+              (PP (IN of) 
+                (NP (NN credit) (NN facility) ))
+              (PP (IN from) 
+                (NP (NNP Credit) (NNP Suisse) ))
+              (PP (IN in) 
+                (NP 
+                  (NP (NN favor) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (NN trustee) )
+                      (, ,) 
+                      (NP (NNP Fuji) (NNP Bank) (CC &) (NNP Trust) (NNP Co.) )
+                      (, ,) ))))))
+          (PP (IN for) 
+            (NP 
+              (NP (DT the) (NN benefit) )
+              (PP (IN of) 
+                (NP (DT the) (NN certificate) (NNS holders) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP J.C.) (NNP Penney) )
+    (VP (MD will) 
+      (VP (VB continue) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB service) 
+              (NP (DT the) (NN receivables) ))))))
+    (. .) ))

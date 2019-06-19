@@ -1,0 +1,233 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Roger) (NNP Rosenblatt) )
+      (, ,) 
+      (NP 
+        (NP (NN editor) )
+        (PP (IN of) 
+          (NP (NNP U.S.) (NNP News) (CC &) (NNP World) (NNP Report) )))
+      (, ,) )
+    (VP (VBD resigned) 
+      (NP-TMP (NNP Friday) )
+      (PP-CLR (IN from) 
+        (NP (DT the) (JJ weekly) (NN news) (NN magazine) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Rosenblatt) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD resigned) 
+            (PP-PRP (IN because) (IN of) 
+              (NP 
+                (NP (NNS difficulties) )
+                (PP (IN with) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG commuting) 
+                      (PP-CLR (IN between) 
+                        (NP 
+                          (NP (PRP$ his) (NN home) )
+                          (PP-LOC (IN in) 
+                            (NP (NNP New) (NNP York) )))
+                        (CC and) 
+                        (NP 
+                          (NP 
+                            (NP (DT the) (NN magazine) (POS 's) )
+                            (NN editorial) (NNS offices) )
+                          (PP-LOC (IN in) 
+                            (NP (NNP Washington) )))))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (ADVP (NNP Frankly) )
+      (, ,) 
+      (NP-SBJ (PRP I) )
+      (VP (VBD missed) 
+        (NP (PRP$ my) (NN family) )))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (NNP Mr.) (NNP Rosenblatt) )
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (NNP Mr.) (NNP Rosenblatt) (POS 's) )
+        (NN tenure) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN magazine) (POS 's) )
+      (NN advertising) (NNS pages) 
+      (CC and)
+      (NN circulation) )
+    (VP (VBP have) 
+      (VP (VBN grown) 
+        (ADVP-MNR (RB significantly) )))
+    (. .) ))
+( (S (CC But) 
+    (PP-CLR-TPC-1 (IN at) 
+      (NP 
+        (ADJP (CD 2.3) (CD million) (RB weekly) )
+        (VBN paid) (NN circulation) ))
+    (, ,) 
+    (NP-SBJ-2 (NNP U.S.) (NNP News) )
+    (ADVP-TMP (RB still) )
+    (VP (VBZ ranks) 
+      (S-CLR 
+        (NP-SBJ (-NONE- *-2) )
+        (ADJP-PRD (JJ third) ))
+      (PP-CLR (-NONE- *T*-1) )
+      (PP-LOC-CLR (IN behind) 
+        (NP 
+          (NP 
+            (NP 
+              (NP (NNP Time) (NNP Warner) (NNP Inc.) (POS 's) )
+              (NX-TTL (NNP Time) (NN magazine) ))
+            (, ,) 
+            (PP (IN with) 
+              (NP 
+                (QP (CD 4.4) (CD million) )
+                (NN circulation) )))
+          (, ,) 
+          (CC and)
+          (NP 
+            (NP 
+              (NP (NNP Washington) (NNP Post) (NNP Co.) (POS 's) )
+              (NX-TTL (NNP Newsweek) ))
+            (, ,) 
+            (PP (IN with) 
+              (NP 
+                (QP (CD 3.3) (CD million) )
+                (NN circulation) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mortimer) (NNP B.) (NNP Zuckerman) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (CC and) 
+        (NP 
+          (NP (NN editor) )
+          (PP (IN in) 
+            (NP (NN chief) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Mr.) (NNP Rosenblatt) )
+          (VP (MD would) 
+            (VP (VB be) 
+              (VP (VBN succeeded) 
+                (PP-TMP (VBG starting) 
+                  (NP (NN today) ))
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP 
+                      (NP (NNP Michael) (NNP Ruby) )
+                      (, ,) 
+                      (NP 
+                        (NP (DT the) (NN magazine) (POS 's) )
+                        (NN executive) (NN editor) ))
+                    (, ,) 
+                    (CC and)
+                    (NP 
+                      (NP (NNP Merrill) (NNP McLoughlin) )
+                      (, ,) 
+                      (NP (DT a) (JJ senior) (NN writer) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Mr.) (NNP Ruby) )
+      (CC and) 
+      (NP (NNP Ms.) (NNP McLoughlin) ))
+    (VP (VBP are) 
+      (VP (VBN married) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP (DT each) (JJ other) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Zuckerman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ his) (NN magazine) )
+          (VP (MD would) 
+            (VP (VB maintain) 
+              (NP 
+                (NP (PRP$ its) (NN editorial) (NN format) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-1 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBZ is) 
+                      (NP-PRD 
+                        (NP (DT a) (NN mix) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NN analysis) )
+                            (CC and) 
+                            (NP (NN trend) (NNS stories) )))
+                        (PP (IN with) 
+                          (NP (JJ service-oriented) 
+                            (, ,)
+                            (JJ how-to) (NNS articles) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Rosenblatt) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ senior) (NN writer) )
+        (PP-LOC (IN at) 
+          (NP (NNP Time) (NN magazine) ))
+        (PP-TMP (IN before) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG joining) 
+              (NP (NNP U.S.) (NNP News) (CC &) (NNP World) (NNP Report) )))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD had) 
+            (NP 
+              (NP (JJ numerous) (NN job) (NNS offers) )
+              (PP (IN from) 
+                (NP (JJ other) (NNS magazines) )))
+            (SBAR-TMP (IN while) 
+              (S 
+                (NP-SBJ (PRP he) )
+                (VP (VBD was) 
+                  (NP-PRD (NN editor) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS offers) )
+    (VP (VBD were) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB work) 
+            (PP-CLR (IN as) 
+              (NP 
+                (NP (DT a) (NN writer) )
+                (, ,) (RB not) 
+                (NP (DT an) (NN editor) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (MD will) 
+            (ADVP-TMP (RB now) )
+            (VP (VB consider) 
+              (NP (DT those) (NNS offers) ))))))
+    (. .) ))

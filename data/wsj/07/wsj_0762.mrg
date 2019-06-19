@@ -1,0 +1,102 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP CAMBREX) (NNP Corp.) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Bayonne) )
+        (, ,) 
+        (NP (NNP N.J.) ))
+      (, ,) )
+    (VP (VBD declared) 
+      (S 
+        (NP-SBJ 
+          (NP (PRP$ its) (JJ initial) (NN quarterly) )
+          (PP (IN of) 
+            (NP 
+              (NP (CD five) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))))
+        (, ,) 
+        (ADJP-PRD (JJ payable) 
+          (NP-TMP (NNP Dec.) (CD 1) )
+          (PP (TO to) 
+            (NP 
+              (NP (VB stock) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN record) )
+                  (NP-TMP (NNP Nov.) (CD 10) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN maker) )
+      (PP (IN of) 
+        (NP (NN specialty) (NNS chemicals) )))
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (QP (IN about) (CD 5.9) (CD million) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN move) )
+          (VP (VBZ recognizes) 
+            (NP (PRP$ its) (JJ strong) (JJ financial) (NN position) )))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN Although) 
+      (S 
+        (NP-SBJ (NNS profits) )
+        (VP (VBD were) 
+          (VP (`` ``) (VBN squeezed) ('' '') 
+            (PP-TMP (IN in) 
+              (NP (CD 1989) ))
+            (, ,) 
+            (PP-PRP 
+              (ADVP (RB mainly) )
+              (IN as) 
+              (NP 
+                (NP (DT a) (NN result) )
+                (PP (IN of) 
+                  (NP (JJR higher) (NN raw-material) (NNS costs) ))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (ADJP-PRD (JJ confident) 
+              (PP (IN about) 
+                (NP 
+                  (NP 
+                    (NP (JJ future) (NNS earnings) )
+                    (CC and) 
+                    (NP (NN cash) (NN flow) ))
+                  (PP (IN for) 
+                    (NP (CD 1990) 
+                      (CC and)
+                      (IN beyond) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ national) (JJ over-the-counter) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ-1 (NNP Cambrex) (NNS shares) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 50) (NNS cents) )
+      (S-CLR 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB close) 
+            (PP-CLR (IN at) 
+              (NP 
+                (NP ($ $) (CD 13) (-NONE- *U*) )
+                (NP-ADV (DT a) (NN share) )))))))
+    (. .) ))

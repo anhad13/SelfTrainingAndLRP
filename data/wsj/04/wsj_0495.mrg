@@ -1,0 +1,136 @@
+
+( (S 
+    (S-TPC-4 
+      (NP-SBJ-3 (NNP General) (NNP Motors) (NNP Corp.) )
+      (VP (VBZ is) 
+        (VP (VBG planning) 
+          (S 
+            (NP-SBJ (-NONE- *-3) )
+            (VP (TO to) 
+              (VP (VB build) 
+                (NP 
+                  (NP (DT a) (JJ new) (NN engine) (NN plant) )
+                  (SBAR (-NONE- *ICH*-6) ))
+                (PP-LOC (IN in) 
+                  (NP (NNP Europe) ))
+                (SBAR-6 
+                  (WHNP-5 (WDT that) )
+                  (S 
+                    (NP-SBJ-2 (-NONE- *T*-5) )
+                    (VP (MD may) 
+                      (VP (VB be) 
+                        (VP (VBN built) 
+                          (NP (-NONE- *-2) )
+                          (PP-LOC (IN in) 
+                            (NP (NNP Britain) ))))))))))
+          (, ,) 
+          (PP (VBN provided) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (DT the) (NN company) )
+                (VP (MD can) 
+                  (VP (VB reach) 
+                    (NP (DT a) (JJ satisfactory) (NN agreement) )
+                    (PP-CLR (IN with) 
+                      (NP (NNS unions) ))))))))))
+    (, ,) 
+    (NP-SBJ (NNS sources) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-4) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Officials) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Vauxhall) (NNP Motors) (NNP Ltd.) )
+          (, ,) 
+          (NP 
+            (NP (NNP GM) (POS 's) )
+            (JJ British) (NN unit) )
+          (, ,) )))
+    (VP (VBD were) 
+      (VP (VBG meeting) 
+        (PP-CLR (IN with) 
+          (NP (NN union) (NNS leaders) ))
+        (NP-TMP (JJ late) (NN yesterday) )
+        (PP (IN in) 
+          (NP 
+            (NP (NNS hopes) )
+            (PP (IN of) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG winning) 
+                  (NP (JJ such) (DT an) (NN accord) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN engine) (NN plant) )
+    (VP (MD may) 
+      (VP (VB encompass) 
+        (NP 
+          (NP (NNS plans) )
+          (PP (IN for) 
+            (NP 
+              (NP (DT a) (JJ joint) (NNS components) (NN venture) )
+              (PP (IN with) 
+                (NP (NNP Jaguar) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (ADVP (RB Alternatively) )
+      (, ,) 
+      (NP-SBJ-1 (DT a) (JJ separate) (NN engine) (NN plant) )
+      (VP (MD may) 
+        (VP (VB be) 
+          (VP (VBN built) 
+            (NP (-NONE- *-1) )
+            (PP (IN as) 
+              (NP 
+                (NP (NN part) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (NP (NNP GM) (POS 's) )
+                      (VBN planned) (NN tie-up) )
+                    (PP (IN with) 
+                      (NP (DT the) (JJ British) (NN luxury) (NN car) (NN maker) ))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS sources) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sources) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (DT a) (`` ``) 
+              (ADJP (JJ complex) 
+                (CC and)
+                (VBN detailed) )
+              ('' '') (NN announcement) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT a) (JJ joint) (NN agreement) )
+                (PP (IN between) 
+                  (NP 
+                    (NP (NNP General) (NNP Motors) )
+                    (CC and) 
+                    (NP (NNP Jaguar) ))))))
+          (VP (MD would) 
+            (VP (VB be) 
+              (VP (VBN made) 
+                (NP (-NONE- *-1) )
+                (PP (IN by) 
+                  (NP-LGS (NNP Jaguar) ))
+                (`` ``) 
+                (NP-TMP 
+                  (NP (DT some) (NN time) )
+                  (PP (IN in) 
+                    (NP (DT the) (JJ next) 
+                      (QP (CD 2) (CD 1\/2) )
+                      (NNS weeks) )))))))))
+    (. .) ))

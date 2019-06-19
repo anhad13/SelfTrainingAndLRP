@@ -1,0 +1,176 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Combustion) (NNP Engineering) (NNP Inc.) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Stamford) )
+        (, ,) 
+        (NP (NNP Conn.) ))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP 
+            (VP (VBD sold) 
+              (NP (-NONE- *RNR*-2) )
+              (PP-CLR (-NONE- *RNR*-5) ))
+            (CC and) 
+            (VP (VBD agreed) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB sell) 
+                    (NP (-NONE- *RNR*-2) )
+                    (PP-CLR (-NONE- *RNR*-5) )))))
+            (NP-2 (JJ several) 
+              (NX 
+                (NX (NNS investments) )
+                (CC and) 
+                (NX (JJ nonstrategic) (NNS businesses) )))
+            (PP-CLR-5 (IN for) 
+              (NP 
+                (NP 
+                  (QP (IN about) ($ $) (CD 100) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-4 (WDT which) )
+                  (S 
+                    (NP-SBJ-3 (-NONE- *T*-4) )
+                    (VP (MD will) 
+                      (VP (VB be) 
+                        (VP (VBN used) 
+                          (NP (-NONE- *-3) )
+                          (PP-CLR (IN for) 
+                            (NP 
+                              (S-NOM 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (VBG reducing) 
+                                  (NP (NN debt) )))
+                              (CC and) 
+                              (NP (JJ general) (NNS purposes) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS transactions) )
+    (VP (VBP are) 
+      (ADJP-PRD (JJ unrelated) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN company) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB sell) 
+            (NP 
+              (NP (PRP$ its) (NN minority) (NNS investments) )
+              (PP (IN in) 
+                (NP 
+                  (NP 
+                    (NP (NNS makers) )
+                    (PP (IN of) 
+                      (NP 
+                        (ADJP (NN steam-generating) 
+                          (CC and)
+                          (VBN related) )
+                        (NN equipment) )))
+                  (, ,) 
+                  (NP 
+                    (NP (NNP Stein) (NNP Industrie) )
+                    (CC and) 
+                    (NP (NNP Energie) (CC &) (NNP Verfahrenstechnik) ))
+                  (, ,) )))
+            (PP-DTV (TO to) 
+              (NP 
+                (NP 
+                  (NP (DT the) (JJ major) (NN shareholder) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NNS companies) )))
+                (, ,) 
+                (NP (JJ Dutch-based) (NNP GEC) (NNP Alsthom) (NNP N.V) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Combustion) (NNP Engineering) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ provides) 
+            (NP 
+              (NP 
+                (NP (VBN engineered) (NNS products) )
+                (, ,) 
+                (NP (NNS systems) )
+                (CC and) 
+                (NP (NNS services) ))
+              (PP (IN for) 
+                (NP (NN power) (NN generation) ))))))
+      (, ,) )
+    (ADVP (RB also) )
+    (VP (VBD sold) 
+      (NP 
+        (NP (NNP Illinois) (NNPS Minerals) (NNP Co.) )
+        (, ,) 
+        (VP (VBN based) 
+          (NP (-NONE- *) )
+          (PP-LOC-CLR (IN in) 
+            (NP 
+              (NP (NNP Cairo) )
+              (, ,) 
+              (NP (NNP Ill) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT That) (NN unit) )
+      (PP (IN of) 
+        (NP (PRP$ its) (NNP Georgia) (NNP Kaolin) (NNP Co.) (NN subsidiary) )))
+    (VP (VBD was) 
+      (VP (VBN sold) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT a) (NN unit) )
+            (PP (IN of) 
+              (NP (NNP Unimin) (NNP Corp) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 
+        (NP (NNPS Assets) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Construction) (NNP Equipment) (NNP International) )
+            (, ,) 
+            (NP-LOC (NNP Houston) )
+            (, ,) )))
+      (VP (VBD were) 
+        (VP (VBN sold) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (TO to) 
+            (NP (NNP Essex) (NNP Crane) (NNP Inc.) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-2 
+        (NP (DT the) (NNS assets) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Elgin) (NNP Electronics) )
+            (, ,) 
+            (NP-LOC 
+              (NP (NNP Erie) )
+              (, ,) 
+              (NP (NNP Pa.) ))
+            (, ,) )))
+      (VP (VBD were) 
+        (VP (VBN sold) 
+          (NP (-NONE- *-2) )
+          (PP-CLR (TO to) 
+            (NP 
+              (ADJP (RB closely) (VBN held) )
+              (NNP Charter) (NNPS Technologies) (NNP Inc) )))))
+    (. .) ))

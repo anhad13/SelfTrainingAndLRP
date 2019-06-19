@@ -1,0 +1,84 @@
+
+( (S 
+    (NP-SBJ-59 
+      (NP (NNP Thomas) (NN A.) (NNP Donovan) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 37) (NNS years) )
+        (JJ old) )
+      (, ,) 
+      (NP 
+        (NP (RB formerly) (NN vice) (NN president) )
+        (, ,) 
+        (NP (NNP West) (NNP Coast) (NNS operations) )
+        (, ,) 
+        (PP-LOC (IN at) 
+          (NP (DT this) (NN hazardous-waste-site) (NN remediation) (NN concern) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-59) )
+          (NP-PRD 
+            (NP 
+              (NP 
+                (NP (NN executive) (NN vice) (NN president) )
+                (CC and) 
+                (NP (JJ chief) (VBG operating) (NN officer) ))
+              (, ,) 
+              (NP (DT both) 
+                (ADJP (RB newly) (VBN created) )
+                (NNS posts) )
+              (, ,) )
+            (CC and) 
+            (NP 
+              (NP (DT a) (NN director) )
+              (PRN 
+                (, ,)
+                (S-ADV 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG filling) 
+                    (NP (DT a) (NN vacancy) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Canonie) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ anticipates) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VBG naming) 
+                (S 
+                  (NP-SBJ (NNP Mr.) (NNP Donovan) )
+                  (VP (TO to) 
+                    (VP (VB succeed) 
+                      (NP 
+                        (NP (NNP Richard) (NNP F.) (NNP Brissette) )
+                        (, ,) 
+                        (NP (CD 55) )
+                        (, ,) )
+                      (PP (IN as) 
+                        (NP 
+                          (NP (NN president) )
+                          (CC and) 
+                          (NP (JJ chief) (NN executive) (NN officer) )))
+                      (, ,) 
+                      (ADJP-ADV (JJ effective) 
+                        (NP-TMP (NNP March) (CD 1) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Brissette) )
+    (VP 
+      (VP (MD will) 
+        (VP (VB remain) 
+          (NP-PRD (DT a) (NNP Canonie) (NN board) (NN member) )))
+      (CC and) 
+      (VP (MD will) 
+        (VP (VB be) 
+          (NP-PRD 
+            (NP (DT a) (NN consultant) )
+            (PP (TO to) 
+              (NP (DT the) (NN company) ))))))
+    (. .) ))

@@ -1,0 +1,1045 @@
+
+( (S 
+    (NP-SBJ (NNP London) (NN share) (NNS prices) )
+    (VP (VBD closed) 
+      (ADJP-CLR (RB sharply) (JJR lower) )
+      (NP-TMP (NNP Friday) )
+      (PP-LOC (IN in) 
+        (NP (JJ active) (NN trading) ))
+      (SBAR-TMP (IN after) 
+        (S 
+          (NP-SBJ 
+            (NP 
+              (NAC (NNP Chancellor) 
+                (PP (IN of) 
+                  (NP (DT the) (NNP Exchequer) )))
+              (NNP Nigel) (NNP Lawson) (POS 's) )
+            (NN resignation) )
+          (VP (VBD slapped) 
+            (NP (DT the) (NN market) )))
+        (CC and) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Wall) (NNP Street) (POS 's) )
+            (JJ rapid) (JJ initial) (NN sell-off) )
+          (VP (VBD knocked) 
+            (NP (PRP it) )
+            (PRT (RP down) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP London) (NNS shares) )
+    (VP (VBD were) 
+      (VP (VBN depressed) 
+        (NP (-NONE- *-1) )
+        (ADVP-TMP (RB initially) )
+        (PP 
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (JJ overnight) (NNS losses) )
+              (PP-LOC (IN in) 
+                (NP (NNP New) (NNP York) ))))
+          (CC and) 
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (DT the) (NN drop) )
+              (PP-LOC (IN in) 
+                (NP (NN sterling) ))
+              (PP-TMP (IN after) 
+                (NP 
+                  (NP (NNP Mr.) (NNP Lawson) (POS 's) )
+                  (NN resignation) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP It) )
+      (VP (VBD showed) 
+        (NP (DT some) (JJ early) (NN resilience) )
+        (SBAR-TMP (IN after) 
+          (S 
+            (NP-SBJ (JJ central) (NN bank) (NN support) )
+            (VP (VBD firmed) 
+              (NP (JJ sterling) ))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP 
+          (NP (DT the) (NN weight) )
+          (PP (IN of) 
+            (NP (NNP Wall) (NNP Street) ))
+          (ADVP-TMP (RB late) 
+            (PP-LOC (IN in) 
+              (NP (NNP London) (NN trading) ))))
+        (, ,) 
+        (CC and)
+        (NP 
+          (NP (NNS signs) )
+          (PP (IN of) 
+            (NP 
+              (NP (JJ further) (NN weakness) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (JJ British) (NN pound) )))))
+        (, ,) )
+      (VP (VBD proved) 
+        (NP-PRD 
+          (NP (DT a) (JJ hefty) (NN load) )
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB bear) 
+                  (NP (-NONE- *T*-1) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP New) (NNP York) (NNS stocks) )
+    (VP (VBD recovered) 
+      (NP 
+        (NP (DT some) )
+        (PP (IN of) 
+          (NP (PRP$ their) (NNS losses) )))
+      (SBAR-TMP (IN after) 
+        (S 
+          (NP-SBJ (DT the) (NNP London) (NN market) )
+          (VP (VBD closed) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNP Financial) (NNP Times) (JJ 100-share) (NN index) )
+    (VP (VBD shed) 
+      (NP (CD 47.3) (NNS points) )
+      (S-CLR 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB close) 
+            (PP-CLR (IN at) 
+              (NP (CD 2082.1) ))
+            (, ,) 
+            (ADVP 
+              (ADVP (RB down) 
+                (NP-ADV-3 (CD 4.5) (NN %) )
+                (PP-DIR-4 (IN from) 
+                  (NP (DT the) (JJ previous) (NNP Friday) )))
+              (CC and) 
+              (ADVP 
+                (NP-ADV=3 (CD 6.8) (NN %) )
+                (PP-DIR=4 (IN from) 
+                  (NP 
+                    (NP (NNP Oct.) (CD 13) )
+                    (, ,) 
+                    (SBAR 
+                      (WHADVP-2 (WRB when) )
+                      (S 
+                        (NP-SBJ 
+                          (NP (NNP Wall) (NNP Street) (POS 's) )
+                          (NN plunge) )
+                        (VP (VBD helped) 
+                          (VP (VB spark) 
+                            (NP 
+                              (NP (DT the) (JJ current) (NN weakness) )
+                              (PP-LOC (IN in) 
+                                (NP (NNP London) )))
+                            (ADVP-TMP (-NONE- *T*-2) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ 30-share) (NN index) )
+    (VP (VBD settled) 
+      (ADJP-CLR 
+        (NP-ADV (CD 42.0) (NNS points) )
+        (JJR lower) )
+      (PP-CLR (IN at) 
+        (NP (CD 1678.5) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Volume) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP 
+          (NP 
+            (QP (CD 840.8) (CD million) )
+            (NNS shares) )
+          (, ,) 
+          (ADVP (RB up) 
+            (PP (IN from) 
+              (NP 
+                (QP (CD 443.6) (CD million) ))
+              (NP-TMP (NNP Thursday) ))))
+        (CC and) 
+        (NP 
+          (NP (DT the) (NN week) (POS 's) )
+          (RBS most) (JJ active) (NN session) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Dealers) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN turnover) )
+            (, ,) 
+            (VP 
+              (ADVP (RB largely) )
+              (VBN confined) 
+              (NP (-NONE- *) )
+              (PP-CLR (TO to) 
+                (NP (DT the) (JJ 100-share) (NN index) (NNS stocks) )))
+            (, ,) )
+          (VP 
+            (ADVP-MNR (RB partly) )
+            (VBD reflected) 
+            (NP 
+              (NP (DT the) (NN flurry) )
+              (PP (IN of) 
+                (NP (NN activity) ))
+              (ADJP (JJ typical) 
+                (PP-TMP (IN at) 
+                  (NP 
+                    (NP 
+                      (NP (DT the) (NN close) )
+                      (PP (IN of) 
+                        (NP (DT a) (JJ two-week) (NN trading) (NN account) )))
+                    (CC and) 
+                    (NP 
+                      (NP (DT the) (NN start) )
+                      (PP (IN of) 
+                        (NP (DT a) (JJ new) (NN account) )))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (PRP they) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP 
+              (NP (NNP Friday) (POS 's) )
+              (NN focus) )
+            (PP (IN on) 
+              (NP (DT the) (JJ top-tier) (NNS stocks) )))
+          (VP 
+            (VP (VBD telegraphed) 
+              (NP (JJ active) (JJ overseas) (NN selling) ))
+            (CC and) 
+            (VP (VBD showed) 
+              (NP 
+                (NP (DT the) (JJ broad-based) (NNS fears) )
+                (PP (IN over) 
+                  (NP 
+                    (NP (DT the) (NN status) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (NNP U.K.) (NN economy) )
+                        (CC and) 
+                        (NP 
+                          (NP (NNP Britain) (POS 's) )
+                          (NN currency) )))
+                    (PP-LOC (IN in) 
+                      (NP 
+                        (NP (DT the) (NN wake) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (DT the) (NN upheaval) )
+                            (PP-LOC (IN in) 
+                              (NP 
+                                (NP (NNP Prime) (NNP Minister) (NNP Margaret) (NNP Thatcher) (POS 's) )
+                                (NN cabinet) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (JJ senior) (NN dealer) )
+      (PP (IN with) 
+        (NP (NNP Warburg) (NNPS Securities) )))
+    (VP (VBD noted) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (NNP British) (NNP Gas) )
+            (, ,) 
+            (NP 
+              (NP (DT the) 
+                (ADJP (RBS most) (JJ active) )
+                (JJ blue-chip) (NN stock) )
+              (PP-LOC (IN at) 
+                (NP 
+                  (NP 
+                    (QP (CD 20) (CD million) )
+                    (NNS shares) )
+                  (VP (VBD traded) 
+                    (NP (-NONE- *) )))))
+            (, ,) )
+          (VP (VBD was) 
+            (VP (VBN affected) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT the) (JJ political) (NNS implications) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (NP (NNP Mr.) (NNP Lawson) (POS 's) )
+                        (NN departure) )
+                      (CC and) 
+                      (NP 
+                        (NP (NNP Mrs.) (NNP Thatcher) (POS 's) )
+                        (NN cabinet) (NN shuffle) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD attributed) 
+      (NP (DT the) 
+        (ADJP (RB unusually) (JJ high) )
+        (NN volume) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (JJ broad-based) (NN selling) )
+          (PP (IN on) 
+            (NP (NNS fears) 
+              (SBAR (IN that) 
+                (S 
+                  (S 
+                    (NP-SBJ-2 (DT the) (NNP Thatcher) (NN government) )
+                    (VP (MD may) 
+                      (VP (VB be) 
+                        (PP-PRD-3 (IN in) 
+                          (NP (NN turmoil) )))))
+                  (CC and) 
+                  (S 
+                    (NP-SBJ=2-1 
+                      (NP (NNP Britain) (POS 's) )
+                      (NNP Labor) (NNP Party) )
+                    (VP=3 (VBD positioned) 
+                      (S 
+                        (NP-SBJ (-NONE- *-1) )
+                        (VP (TO to) 
+                          (VP 
+                            (VP (VB regain) 
+                              (NP 
+                                (NP (NN control) )
+                                (PP (IN of) 
+                                  (NP (DT the) (NN government) ))))
+                            (CC and) 
+                            (VP (VB renew) 
+                              (NP 
+                                (NP (NNS efforts) )
+                                (PP (IN at) 
+                                  (NP (NN nationalization) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP British) (NNP Gas) )
+    (VP (VBD shed) 
+      (NP 
+        (NP (CD 8.5) (NN pence) )
+        (NP-ADV (DT a) (NN share) ))
+      (S-CLR 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB close) 
+            (PP-CLR (IN at) 
+              (NP 
+                (NP (CD 185) (NN pence) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP ($ $) (CD 2.90) (-NONE- *U*) )
+                  (-RRB- -RRB-) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Other) (NNS dealers) )
+    (VP (VBD added) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (DT the) (JJ blue-chip) (NNS stocks) )
+          (PP (IN in) 
+            (ADJP (JJ general) ))
+          (VP (VBD were) 
+            (VP (VBN hit) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (NN profit-taking) )
+                  (PP (IN over) 
+                    (NP 
+                      (NP (NNS concerns) 
+                        (SBAR (IN that) 
+                          (S 
+                            (NP-SBJ-2 (NNP London) (NNS shares) )
+                            (VP (MD will) 
+                              (VP (VB continue) 
+                                (S 
+                                  (NP-SBJ (-NONE- *-2) )
+                                  (VP (VBG posting) 
+                                    (NP (NNS declines) ))))))))
+                      (CC and) 
+                      (NP 
+                        (NP (DT the) (NN uncertainty) )
+                        (PP (IN over) 
+                          (NP (JJ sterling) ))
+                        (PP (VBN given) 
+                          (SBAR (IN that) 
+                            (S 
+                              (NP-SBJ 
+                                (NP 
+                                  (NP (NNP Mr.) (NNP Lawson) (POS 's) )
+                                  (NN successor) )
+                                (, ,) 
+                                (NP (NNP John) (NNP Major) )
+                                (, ,) )
+                              (VP (VBD had) 
+                                (ADVP (RB only) )
+                                (VP (VBN been) 
+                                  (PP-LOC-PRD (IN in) 
+                                    (NP (DT the) (NN job) ))
+                                  (NP-TMP (CD one) (NN day) ))))))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN Besides) 
+      (NP (NNP British) (NNP Gas) ))
+    (, ,) 
+    (NP-SBJ (NNP British) (NNP Steel) )
+    (VP (VBD skidded) 
+      (NP-EXT (CD 1.74) )
+      (PP-DIR (TO to) 
+        (NP (CD 123.5) ))
+      (PP (IN on) 
+        (NP 
+          (NP (NN turnover) )
+          (PP (IN of) 
+            (NP 
+              (QP (CD 11) (CD million) )
+              (NNS shares) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP British) (NNP Petroleum) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 5) )
+      (PP-DIR (TO to) 
+        (NP (CD 286) ))
+      (PP (IN on) 
+        (NP 
+          (NP 
+            (QP (CD 14) (CD million) )
+            (NNS shares) )
+          (VP (VBN traded) 
+            (NP (-NONE- *) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Dealers) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (JJ multinational) (NN oil) (NN company) )
+          (VP (VBD was) 
+            (VP (NN pressured) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (JJ recent) (NN brokerage) (NNS recommendations) )
+                  (VP (VBG urging) 
+                    (NP-2 (NNS investors) )
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB switch) 
+                          (PP-DIR (IN into) 
+                            (NP (NNP Shell) (NNP Trading) (CC &) (NNP Transport) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Shell) )
+    (VP (VBD eased) 
+      (NP-EXT (CD 1) )
+      (PP-DIR (TO to) 
+        (NP (CD 416) ))
+      (PP (IN on) 
+        (NP 
+          (NP (NN turnover) )
+          (PP (IN of) 
+            (NP 
+              (QP (CD 4.8) (CD million) )
+              (NNS shares) )))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Among) 
+      (NP (DT the) (JJ other) (RB actively) (VBN traded) (JJ blue-chip) (NNS issues) ))
+    (, ,) 
+    (S 
+      (NP-SBJ (NNP Imperial) (NNP Chemical) (NNPS Industries) )
+      (VP (VBD dropped) 
+        (NP-EXT (CD 11) )
+        (PP-DIR (TO to) 
+          (NP (# #) (CD 10.86) (-NONE- *U*) ))))
+    (, ,) 
+    (S 
+      (NP-SBJ (NNP Hanson) )
+      (VP (VBD skidded) 
+        (NP-EXT (CD 9.5) )
+        (PP (TO to) 
+          (NP (CD 200.5) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (NNP British) (NNP Telecom) )
+      (VP (VBD fell) 
+        (NP-EXT (CD 10) )
+        (PP-DIR (TO to) 
+          (NP (CD 250) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP Tokyo) ))
+    (, ,) 
+    (NP-SBJ (NNS stocks) )
+    (VP (VBD closed) 
+      (UCP-CLR 
+        (ADJP (JJR lower) )
+        (CC but) 
+        (ADVP (JJ above) 
+          (NP (NN intraday) (NNS lows) )))
+      (PP-LOC (IN in) 
+        (NP (JJ active) (NN trading) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNP Nikkei) (NN index) )
+    (VP 
+      (VP (VBD was) 
+        (VP (VBN pressured) 
+          (NP (-NONE- *-1) )
+          (ADVP-CLR (RB down) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NN profit-taking) )
+              (VP (VBN triggered) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (JJ sharp) (NNS advances) )
+                    (VP (VBN made) 
+                      (NP (-NONE- *) )
+                      (PP-TMP (IN through) 
+                        (NP (DT this) (NN week) ))))))))))
+      (CC and) 
+      (VP (VBD fell) 
+        (NP-EXT (CD 151.20) (NNS points) )
+        (PP-DIR (TO to) 
+          (NP (CD 35527.29) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (RB early) (NN trading) ))
+    (PP-LOC (IN in) 
+      (NP (NNP Tokyo) ))
+    (NP-TMP (NNP Monday) )
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Nikkei) (NN index) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 148.85) (NNS points) )
+      (PP-DIR (TO to) 
+        (NP (CD 35378.44) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN On) 
+      (NP (NNP Friday) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP Tokyo) (NN stock) (NN price) (NN index) )
+      (PP (IN of) 
+        (NP (JJ first) (NN section) (NNS issues) )))
+    (VP (VBD was) 
+      (ADVP-PRD (RB down) 
+        (NP (CD 15.82) ))
+      (PP-LOC (IN at) 
+        (NP (CD 2681.76) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (JJ First-section) (NN volume) )
+    (VP (VBD was) 
+      (VP (VBN estimated) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN at) 
+          (NP 
+            (NP 
+              (QP (CD 1.3) (CD billion) )
+              (NNS shares) )
+            (, ,) 
+            (ADVP (RB up) 
+              (PP (IN from) 
+                (NP 
+                  (QP (CD 886) (CD million) )
+                  (NNS shares) )
+                (NP-TMP (NNP Thursday) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT An) (NN official) )
+      (PP-LOC (IN at) 
+        (NP (NNP Wako) (NNPS Securities) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP 
+              (NP (NNS brokerages) (POS ') )
+              (JJ excessive) (NNS expectations) )
+            (PP (IN about) 
+              (NP 
+                (NP (JJ recent) (NNS advances) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (NNP Tokyu) (NNP Group) (NNS shares) )
+                    (CC and) 
+                    (NP (JJ real) (NN estate) (NNS issues) ))))))
+          (VP (VBD were) 
+            (VP (VBN dashed) 
+              (NP (-NONE- *-1) )
+              (NP-TMP (NNP Friday) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Dealers) )
+    (VP (VBD placed) 
+      (NP (JJ heavy) (NN buy) (NNS orders) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (NN morning) ))
+      (S-PRP 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB start) 
+            (NP 
+              (NP (DT the) (JJ first) (NN trading) (NN day) )
+              (PP (IN for) 
+                (NP (NNP November) (NNS transactions) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-4 (CC But) 
+      (NP-SBJ-3 (PRP they) )
+      (VP (VBD failed) 
+        (S 
+          (NP-SBJ (-NONE- *-3) )
+          (VP (TO to) 
+            (VP (VB sell) 
+              (NP (DT these) (NNS stocks) )
+              (PP-DTV (TO to) 
+                (NP 
+                  (NP (NN client) (NNS investors) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-1 (WP who) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBD were) 
+                        (ADJP-PRD (JJ cautious) 
+                          (PP (IN about) 
+                            (NP 
+                              (NP (DT the) (JJ sharp) (NNS gains) )
+                              (SBAR 
+                                (WHNP-2 (-NONE- 0) )
+                                (S 
+                                  (NP-SBJ (DT these) (NNS issues) )
+                                  (VP (VBD made) 
+                                    (NP (-NONE- *T*-2) )
+                                    (NP-TMP (DT this) (NN week) )))))))))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Wako) (NN official) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-4) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Fund) (NNS managers) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Friday) (POS 's) )
+            (NN profittaking) )
+          (VP (VBD was) 
+            (NP-PRD 
+              (NP (DT a) (JJ natural) (NN result) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NN week) (POS 's) )
+                    (`` ``) (JJ abnormal) (NN fever) ('' '') )
+                  (PP-LOC (IN in) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG buying) 
+                        (NP 
+                          (NP (JJ real) (NN estate) )
+                          (, ,) 
+                          (NP (NN shipbuilding) )
+                          (, ,) 
+                          (NP (NN steel) )
+                          (CC and) 
+                          (NP (NN construction) (NNS shares) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Frankfurt) (NNS prices) )
+    (VP (VBD closed) 
+      (ADJP-CLR (JJR lower) )
+      (ADVP-TMP (RB again) )
+      (NP-TMP (NNP Friday) )
+      (, ,) 
+      (NP-ADV 
+        (NP 
+          (NP (DT the) (JJ fourth) (NN decline) )
+          (PP-TMP (IN in) 
+            (NP (DT the) (JJ past) (CD five) (NNS days) )))
+        (CC and) 
+        (NP 
+          (NP (DT the) (NN culmination) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT a) (NN week) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBD saw) 
+                    (S 
+                      (NP-SBJ (DT the) (NNP DAX) (NN index) )
+                      (VP (VB lose) 
+                        (NP (CD 4) (NN %) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP DAX) )
+    (VP (VBD dropped) 
+      (NP-EXT (CD 19.69) (NNS points) )
+      (NP-TMP (NNP Friday) )
+      (PP-DIR (TO to) 
+        (NP (CD 1462.93) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Traders) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (VBN continued) (NN turbulence) )
+            (PP-LOC (IN in) 
+              (NP (JJ other) (NNS markets) ))
+            (, ,) 
+            (VP (VBN coupled) 
+              (NP (-NONE- *) )
+              (PP-CLR (IN with) 
+                (NP 
+                  (NP (DT the) (NN drop) )
+                  (PP-LOC (IN in) 
+                    (NP (NNP London) ))
+                  (PP (VBG following) 
+                    (NP (DT the) (NNP Lawson) (NN resignation) )))))
+            (, ,) )
+          (VP (VBD were) 
+            (ADJP-PRD (JJ responsible) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Traders) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (VBG selling) (NN pressure) )
+            (VP (VBD was) (RB n't) 
+              (ADJP-PRD (JJ enormous) ))))
+        (CC and) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NNP DAX) )
+            (VP (VBD dropped) 
+              (NP-TMP (NNP Friday) )
+              (PP 
+                (ADVP (JJR more) )
+                (IN on) 
+                (NP 
+                  (NP (DT a) (NN lack) )
+                  (PP (IN of) 
+                    (NP (DT any) (JJ substantial) (NN buying) (NN interest) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (SINV 
+          (VP-TPC-1 (VBG contributing) 
+            (PP-CLR (TO to) 
+              (NP (DT the) (JJ downward) (NN drift) )))
+          (VP (VBD was) 
+            (VP (-NONE- *T*-1) ))
+          (NP-SBJ (DT the) (NN fact) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ-2 (JJ many) (JJ professional) (NNS traders) )
+                (VP (VBD had) 
+                  (VP (VBN chosen) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB square) 
+                          (NP (NNS positions) )
+                          (ADVP-TMP (RB ahead) 
+                            (PP (IN of) 
+                              (NP (DT the) (NN weekend) ))))))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ 's) 
+        (NP-PRD 
+          (NP (DT the) (JJ whole) (NN uncertainty) )
+          (PP (IN about) 
+            (SBAR-NOM 
+              (WHNP-2 (WP what) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (VBZ 's) 
+                  (VP (VBG happening) 
+                    (PP-LOC (IN around) 
+                      (NP (PRP us) ))))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Valentin) (NNP Von) (NNP Korff) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN trader) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (NNP Credit) (NNP Suisse) (NNP First) (NNP Boston) )
+            (PP-LOC (IN in) 
+              (NP (NNP Frankfurt) ))))))
+    (. .) ))
+( (S (`` ``) 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (PRP you) )
+        (VP (VBP take) 
+          (ADVP-CLR (RB away) )
+          (NP (DT the) (JJ outside) (NNS influences) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN market) )
+      (NP (PRP itself) ))
+    (VP (VBZ looks) 
+      (ADJP-PRD (RB very) (JJ cheap) ))
+    (. .) ))
+( (S 
+    (SBAR-NOM-SBJ-2 
+      (WHNP-1 (WP What) )
+      (S 
+        (NP-SBJ (-NONE- *T*-1) )
+        (VP (VBZ 's) 
+          (VP (VBG happening) 
+            (ADVP-LOC (RB here) )))))
+    (VP (VBZ is) (RB n't) 
+      (VP (VBN justified) 
+        (NP (-NONE- *-2) )
+        (PP (IN by) 
+          (NP-LGS (DT the) (NNS fundamentals) ))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNS Traders) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN market) )
+          (VP (VBZ remains) 
+            (ADJP-PRD (RB extremely) (JJ nervous) )
+            (PP-PRP (IN because) (IN of) 
+              (NP 
+                (NP (DT the) (JJ wild) (NNS swings) )
+                (VP (VBN seen) 
+                  (NP (-NONE- *) )
+                  (PP-LOC (IN on) 
+                    (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))
+                  (NP-TMP (JJ last) (NN week) ))))))))
+    (. .) ))
+( (S-1 
+    (NP-SBJ (DT That) )
+    (VP (VBZ 's) 
+      (VP 
+        (VP (VBG leaving) 
+          (NP (JJ small) (NNS investors) )
+          (PP-CLR (IN with) 
+            (NP (JJ cold) (NNS feet) )))
+        (PRN 
+          (, ,)
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBD said) 
+              (SBAR (-NONE- 0) 
+                (S (-NONE- *T*-1) ))))
+          (, ,) )
+        (CC and) 
+        (VP (VBG prompting) 
+          (S 
+            (NP-SBJ (NNS institutions) )
+            (VP (TO to) 
+              (VP (VB take) 
+                (NP 
+                  (NP (DT a) (VBN reserved) (NN stance) )
+                  (PP-LOC (IN on) 
+                    (NP (DT the) (NNS sidelines) )))
+                (ADVP (IN as) (RB well) )
+                (, ,) 
+                (SBAR-TMP 
+                  (ADVP (IN at) (JJS least) )
+                  (IN until) 
+                  (S 
+                    (NP-SBJ 
+                      (NP (DT the) (NN market) )
+                      (PP-LOC (IN in) 
+                        (NP (NNP New) (NNP York) )))
+                    (VP (VBZ settles) 
+                      (PRT (RP down) )
+                      (ADVP-MNR (RB somewhat) ))))))))))
+    (. .) ))
+( (S 
+    (ADVP-LOC (RB Elsewhere) )
+    (, ,) 
+    (NP-SBJ (NN share) (NNS prices) )
+    (VP 
+      (VP (VBD closed) 
+        (ADJP-CLR (RBR lower) )
+        (PP-LOC (IN in) 
+          (NP (NNP Paris) 
+            (, ,)
+            (NNP Zurich) 
+            (, ,)
+            (NNP Amsterdam) 
+            (, ,)
+            (NNP Brussels) 
+            (CC and)
+            (NNP Stockholm) )))
+      (, ,) 
+      (CC and)
+      (VP (VBD were) 
+        (ADJP-PRD (VBN mixed) )
+        (PP-LOC (IN in) 
+          (NP (NNP Milan) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ British) (NN shakeup) )
+    (VP (VBD was) 
+      (VP 
+        (ADVP-MNR (RB widely) )
+        (VBN cited) 
+        (NP (-NONE- *-1) )
+        (PP (IN for) 
+          (NP (DT the) (NNS declines) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Share) (NNS prices) )
+    (ADVP (RB also) )
+    (VP (VBD closed) 
+      (ADJP-CLR (JJR lower) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NNP Sydney) )
+          (, ,) 
+          (NP (NNP Hong) (NNP Kong) )
+          (, ,) 
+          (NP (NNP Singapore) )
+          (, ,) 
+          (NP (NNP Taipei) )
+          (, ,) 
+          (NP (NNP Manila) )
+          (, ,) 
+          (NP (NNP Wellington) )
+          (CC and) 
+          (NP (NNP Seoul) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Concern) )
+      (PP (IN about) 
+        (NP 
+          (NP (NNS declines) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (JJ other) (NNS markets) )
+              (, ,) 
+              (ADVP (RB especially) )
+              (NP (NNP New) (NNP York) )
+              (, ,) )))))
+    (VP (VBD caused) 
+      (NP (JJ selling) (NN pressure) ))
+    (. .) ))
+( (SINV 
+    (ADVP-LOC-PRD-TPC-1 (RB Here) )
+    (VP (VBP are) 
+      (ADVP-LOC-PRD (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NN price) (NNS trends) )
+      (PP-LOC (IN on) 
+        (NP 
+          (NP (DT the) (NN world) (POS 's) )
+          (JJ major) (NN stock) (NNS markets) ))
+      (, ,) 
+      (SBAR (IN as) 
+        (S 
+          (NP-SBJ-2 (-NONE- *) )
+          (VP (VBN calculated) 
+            (NP (-NONE- *-2) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP (NNP Morgan) (NNP Stanley) (NNP Capital) (NNP International) (NNP Perspective) )
+                (, ,) 
+                (NP-LOC (NNP Geneva) )))))))
+    (. .) ))
+( (S 
+    (S-PRP 
+      (NP-SBJ (-NONE- *) )
+      (VP (TO To) 
+        (VP (VB make) 
+          (S 
+            (NP-SBJ (PRP them) )
+            (ADJP-PRD (RB directly) (JJ comparable) )))))
+    (, ,) 
+    (NP-SBJ-1 (DT each) (NN index) )
+    (VP (VBZ is) 
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN on) 
+          (S-NOM 
+            (NP-SBJ 
+              (NP (DT the) (NN close) )
+              (PP (IN of) 
+                (NP (CD 1969) )))
+            (VP (VBG equaling) 
+              (NP (CD 100) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN percentage) (NN change) )
+    (VP (VBZ is) 
+      (PP-PRD (IN since) 
+        (NP (NN year-end) )))
+    (. .) ))
+( (NP 
+    (NP 
+      (NP (JJ Last) (NN week) (POS 's) )
+      (ADJP 
+        (ADVP (JJS best) 
+          (CC and)
+          (JJS worst) )
+        (VBG performing) )
+      (NNS stocks) )
+    (PP-LOC (IN among) 
+      (NP 
+        (NP (DT those) (NNS issues) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBP make) 
+              (PRT (RP up) )
+              (NP 
+                (NP (CD 80) (NN %) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN world) (POS 's) )
+                    (NN stock) (NN market) (NN capitalization) )))
+              (PRN 
+                (-LRB- -LRB-)
+                (PP (IN in) 
+                  (NP (JJ local) (NN currency) ))
+                (-RRB- -RRB-) ))))))))
+( (NP 
+    (NP (NN Source) )
+    (: :) 
+    (NP (NNP Morgan) (NNP Stanley) (NNP Capital) (NNP Intl) )
+    (. .) ))

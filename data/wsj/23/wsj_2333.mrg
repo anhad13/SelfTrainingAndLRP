@@ -1,0 +1,49 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Robert) (NNP G.) (NNP Walden) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 62) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT this) (NN provider) )
+                (PP (IN of) 
+                  (NP (JJ advanced) (NN technology) (NNS systems) 
+                    (CC and)
+                    (NNS services) ))))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG increasing) 
+            (NP (DT the) (NN board) )
+            (PP-DIR (TO to) 
+              (NP (CD eight) (NNS members) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD retired) 
+      (PP (IN as) 
+        (NP 
+          (NP 
+            (NP (JJ senior) (NN vice) (NN president) )
+            (, ,) 
+            (NP (NN finance) 
+              (CC and)
+              (NN administration) ))
+          (, ,) 
+          (CC and)
+          (NP 
+            (NP (JJ chief) (JJ financial) (NN officer) )
+            (PP (IN of) 
+              (NP (DT the) (NN company) )))))
+      (NP-TMP (NNP Oct.) (CD 1) ))
+    (. .) ))

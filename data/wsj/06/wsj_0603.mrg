@@ -1,0 +1,36 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT THE) (NNP FINANCIAL) (NNP ACCOUNTING) (NNPS STANDARDS) (NNP BOARD'S) )
+        (JJ coming) (NN rule) )
+      (PP (IN on) 
+        (NP 
+          (NP (NN disclosure) )
+          (VP (VBG involving) 
+            (NP (JJ financial) (NNS instruments) )))))
+    (VP (MD will) 
+      (VP (VB be) 
+        (ADJP-PRD (JJ effective) )
+        (PP (IN for) 
+          (NP 
+            (NP (JJ financial) (NNS statements) )
+            (PP (IN with) 
+              (NP 
+                (NP (JJ fiscal) (NNS years) )
+                (VP (VBG ending) 
+                  (PP-TMP (IN after) 
+                    (NP (NNP June) (CD 15) 
+                      (, ,)
+                      (CD 1990) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN date) )
+    (VP (VBD was) 
+      (VP (VBN misstated) 
+        (NP (-NONE- *-1) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP Friday) (POS 's) )
+            (NN edition) ))))
+    (. .) ))

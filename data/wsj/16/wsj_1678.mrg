@@ -1,0 +1,221 @@
+
+( (S 
+    (NP-SBJ (NNP Dean) (NNP Witter) (NNP Reynolds) (NNP Inc.) )
+    (VP (VBD lost) 
+      (NP 
+        (NP (PRP$ its) (JJ second) (JJ recent) (NN arbitration) (NN case) )
+        (VP (VBG involving) 
+          (NP (DT a) (JJ former) (JJ bond-trading) (NN executive) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN arbitration) (NN panel) )
+    (VP (VBN ordered) 
+      (NP-1 (NNP Dean) (NNP Witter) )
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB pay) 
+            (NP 
+              (NP ($ $) (CD 404,294) (-NONE- *U*) )
+              (PP (IN in) 
+                (NP (JJ back) (NNS bonuses) )))
+            (PP-DTV (TO to) 
+              (NP 
+                (NP (NNP William) (NNP Kelly) )
+                (, ,) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NN company) (POS 's) )
+                    (JJ former) (NN head) )
+                  (PP (IN of) 
+                    (NP (JJ high-yield) 
+                      (, ,)
+                      (JJ high-risk) (NN junk-bond) (NN trading) 
+                      (CC and)
+                      (NNS sales) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP (RB also) )
+    (VP 
+      (VP (VBD awarded) 
+        (NP-1 
+          (NP ($ $) (CD 196,785) (-NONE- *U*) )
+          (PP (IN in) 
+            (NP (JJ back) (NNS bonuses) )))
+        (PP-DTV-2 (TO to) 
+          (NP (JJ former) (NN trader) (NNP Michael) (NNP Newcomb) )))
+      (CC and) 
+      (VP 
+        (NP=1 
+          (NP ($ $) (CD 69,105) (-NONE- *U*) )
+          (PP (IN in) 
+            (NP (NNS fees) )))
+        (PP-DTV=2 (TO to) 
+          (NP 
+            (NP (DT the) (CD two) (NNS men) (POS 's) )
+            (NNS attorneys) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS sums) )
+      (VP (VBN awarded) 
+        (NP (-NONE- *) )
+        (PP-DTV (TO to) 
+          (NP (NNS Messrs.) (NNP Kelly) 
+            (CC and)
+            (NNP Newcomb) ))))
+    (VP (VBP represent) 
+      (NP 
+        (NP (NNS bonuses) )
+        (SBAR 
+          (SBAR 
+            (WHNP-3 (-NONE- 0) )
+            (S 
+              (NP-SBJ (DT the) (CD two) (NNS men) )
+              (VP (VBD said) 
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP-SBJ (PRP they) )
+                    (VP (VBD deserved) 
+                      (NP (-NONE- *T*-3) )
+                      (PP (IN from) 
+                        (NP 
+                          (NP (DT the) (JJ first) (NN half) )
+                          (PP (IN of) 
+                            (NP (CD 1988) ))))))))))
+          (, ,) (CC but) 
+          (SBAR 
+            (WHNP-2 (WDT which) )
+            (S 
+              (NP-SBJ-1 (-NONE- *T*-2) )
+              (VP (VBD were) (RB n't) 
+                (VP (VBN paid) 
+                  (NP (-NONE- *-1) )
+                  (PP-PRP (RB because) (IN of) 
+                    (NP 
+                      (NP (DT a) (NN dispute) )
+                      (PP (IN over) 
+                        (NP (DT an) (NN incentive) (NN contract) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Jeffrey) (NNP L.) (NNP Liddle) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (DT the) (CD two) (NNS men) (POS 's) )
+          (NN attorney) )
+        (PP-LOC (IN at) 
+          (NP (NNP Liddle) 
+            (, ,)
+            (NNP O'Connor) 
+            (, ,)
+            (NNP Finkelstein) (CC &) (NNP Robinson) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NNP Mr.) (NNP Kelly) )
+          (VP (VBD began) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VBG working) 
+                (PP-LOC (IN at) 
+                  (NP (NNP Dean) (NNP Witter) ))
+                (PP-TMP (IN in) 
+                  (NP (CD 1987) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Kelly) )
+    (VP (VBD built) 
+      (NP 
+        (NP 
+          (NP (DT the) (NN company) (POS 's) )
+          (JJ high-yield) (NN bond) (NN group) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ has) 
+              (VP (VBN been) 
+                (NP-PRD 
+                  (NP (DT a) (JJ minor) (NN player) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NN junk-bond) (NN arena) )))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Dean) (NNP Witter) )
+      (VP (VBD lost) 
+        (NP 
+          (NP (DT a) (JJ separate) (NN case) )
+          (VP (VBG involving) 
+            (NP (DT a) (JJ former) (NN bond) (NN executive) )))
+        (NP-TMP (RBR earlier) (DT this) (NN year) )))
+    (: ;) 
+    (S 
+      (PP-TMP (IN in) 
+        (NP (NNP August) ))
+      (NP-SBJ (PRP it) )
+      (VP (VBD paid) 
+        (NP 
+          (NP ($ $) (CD 666,666) (-NONE- *U*) )
+          (PP (IN in) 
+            (NP 
+              (NP (JJ back) (NN pay) )
+              (CC and) 
+              (NP (DT a) (NN bonus) ))))
+        (PP-DTV (TO to) 
+          (NP 
+            (NP (DT a) (JJ former) (JJ corporate-bond) (NN trading) (NN chief) )
+            (, ,) 
+            (NP (NNP Harold) (NNP Bachman) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) (NN award) )
+    (VP (VBD ended) 
+      (NP 
+        (NP (DT a) (NN dispute) )
+        (PP (IN between) 
+          (NP 
+            (NP (NNP Dean) (NNP Witter) )
+            (CC and) 
+            (NP (NNP Mr.) (NNP Bachman) )))
+        (PP (IN over) 
+          (SBAR-NOM 
+            (WHNP-1 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD was) 
+                (ADJP-PRD (JJ responsible) 
+                  (PP (IN for) 
+                    (NP 
+                      (NP (JJ certain) (JJ bond-trading) (NNS losses) )
+                      (PP-TMP (IN around) 
+                        (NP 
+                          (NP (DT the) (NN time) )
+                          (PP (IN of) 
+                            (NP (DT the) (CD 1987) (NN stock-market) (NN crash) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT A) (NN spokesman) )
+      (PP (IN for) 
+        (NP 
+          (NP (NNP Dean) (NNP Witter) )
+          (, ,) 
+          (NP 
+            (NP (DT a) (NN unit) )
+            (PP (IN of) 
+              (NP (NNP Sears) 
+                (, ,)
+                (NNP Roebuck) (CC &) (NNP Co.) )))
+          (, ,) )))
+    (VP (VBD declined) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB comment) ))))
+    (. .) ))

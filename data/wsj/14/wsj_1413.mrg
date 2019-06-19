@@ -1,0 +1,362 @@
+
+( (S 
+    (NP-SBJ (NNP President) (NNP Bush) )
+    (VP (VBZ wants) 
+      (S 
+        (NP-SBJ (DT the) (NNP Pentagon) )
+        (VP (TO to) 
+          (VP (VB get) 
+            (NP 
+              (NP (JJ special) (NN treatment) )
+              (PP (IN in) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG coping) 
+                    (PP-CLR (IN with) 
+                      (NP-CLR 
+                        (NP (DT the) (JJ across-the-board) (NN spending) (NNS cuts) )
+                        (SBAR 
+                          (WHNP-1 (WDT that) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-1) )
+                            (VP (VBD took) 
+                              (NP-CLR (NN effect) )
+                              (NP-TMP (JJ last) (NN week) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Bush) )
+    (VP (VBD asked) 
+      (NP-3 (NNP Congress) )
+      (S 
+        (NP-SBJ (-NONE- *-3) )
+        (VP (TO to) 
+          (VP (VB raise) 
+            (PP-DIR (TO to) 
+              (NP 
+                (QP ($ $) (CD 6) (CD billion) )
+                (-NONE- *U*) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (QP ($ $) (CD 3) (CD billion) )
+                (-NONE- *U*) ))
+            (NP 
+              (NP (DT the) (NN amount) )
+              (PP (IN of) 
+                (NP (NN money) ))
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (NNP Defense) (NNP Secretary) (NNP Dick) (NNP Cheney) )
+                  (VP (MD may) 
+                    (VP (VB shift) 
+                      (NP (-NONE- *T*-1) )
+                      (PP-LOC (IN among) 
+                        (NP 
+                          (NP (DT the) (NNP Pentagon) (POS 's) )
+                          (JJ individual) (NNS programs) 
+                          (, ,)
+                          (NNS projects) 
+                          (CC and)
+                          (NNS activities) )))))))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG allowing) 
+                (S 
+                  (NP-SBJ (PRP him) )
+                  (VP (TO to) 
+                    (VP (VB ease) 
+                      (NP 
+                        (NP (DT the) (NN pain) )
+                        (SBAR 
+                          (WHNP-2 (IN that) )
+                          (S 
+                            (NP-SBJ (DT the) (NNP Gramm-Rudman) (NN budget) (NN law) )
+                            (VP (VBD was) 
+                              (VP (VBN intended) 
+                                (S 
+                                  (NP-SBJ (-NONE- *) )
+                                  (VP (TO to) 
+                                    (VP (VB inflict) 
+                                      (NP (-NONE- *T*-2) ))))))))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ-1 (DT the) (NN request) )
+        (VP (VBZ is) 
+          (VP (VBN approved) 
+            (NP (-NONE- *-1) )
+            (PP (IN by) 
+              (NP-LGS (DT both) 
+                (NP (DT the) (NNP House) )
+                (CC and) 
+                (NP (NNP Senate) )))))))
+    (, ,) 
+    (NP-SBJ-2 (NNP Mr.) (NNP Cheney) )
+    (VP (MD would) 
+      (VP (VB need) 
+        (NP 
+          (NP (JJ only) (NN permission) )
+          (PP (IN from) 
+            (NP 
+              (NP (DT the) (NNP White) (NNP House) (NNP Office) )
+              (PP (IN of) 
+                (NP (NNP Management) 
+                  (CC and)
+                  (NNP Budget) )))))
+        (S-PRP 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB move) 
+              (NP (DT the) (NN money) ))))
+        (, ,) 
+        (PP (VBG according) 
+          (PP (TO to) 
+            (NP (NNP Senate) (NN budget) (NNS analysts) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) )
+    (VP (MD would) 
+      (VP (VB give) 
+        (NP (DT the) (NNP Pentagon) )
+        (NP 
+          (NP (NN flexibility) )
+          (SBAR 
+            (WHNP-1 (IN that) )
+            (S 
+              (NP-SBJ (DT no) (JJ other) (JJ federal) (NN agency) )
+              (VP (VBZ has) 
+                (NP (-NONE- *T*-1) )))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ 's) 
+        (NP-PRD 
+          (NP (RB simply) (DT a) (NN way) )
+          (PP (IN of) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG making) 
+                (S 
+                  (NP-SBJ (DT the) (NNS cuts) )
+                  (ADJP-PRD 
+                    (ADJP (RBR less) (JJ onerous) 
+                      (PP (IN for) 
+                        (NP (NN defense) )))
+                    (SBAR (IN than) 
+                      (S 
+                        (NP-SBJ (PRP they) )
+                        (VP (VBP are) 
+                          (PP-PRD (IN for) 
+                            (NP (JJ domestic) (NNS programs) )))))))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP Chairman) (NNP James) (NNP Sasser) )
+      (PRN 
+        (-LRB- -LRB-)
+        (NP 
+          (NP-LOC 
+            (NP (NNP D.) )
+            (, ,) 
+            (NP (NNP Tenn) (. .) )))
+        (-RRB- -RRB-) )
+      (PP (IN of) 
+        (NP (DT the) (NNP Senate) (NNP Budget) (NNP Committee) ))
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD said) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (PRP he) )
+                (VP (MD would) 
+                  (VP (VB oppose) 
+                    (NP (DT the) (NN request) )))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-3 
+      (NP-SBJ (DT That) )
+      (VP (VBZ is) (RB n't) 
+        (ADJP-PRD (JJ consistent) 
+          (PP (IN with) 
+            (NP 
+              (NP (DT the) (NN kind) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN discipline) )
+                  (SBAR 
+                    (WHNP-1 (IN that) )
+                    (S 
+                      (NP-SBJ-2 (NNP Gramm-Rudman) )
+                      (VP (VBZ is) 
+                        (VP (VBN supposed) 
+                          (S 
+                            (NP-SBJ (-NONE- *-2) )
+                            (VP (TO to) 
+                              (VP (VB impose) 
+                                (NP (-NONE- *T*-1) )))))))))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-3) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN president) (POS 's) )
+      (NN request) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB indicate) 
+        (SBAR 
+          (WHADVP-1 (WRB how) )
+          (S 
+            (NP-SBJ (NNP Mr.) (NNP Cheney) )
+            (VP (MD would) 
+              (VP (VB shift) 
+                (NP (DT the) (NN money) )
+                (ADVP (-NONE- *T*-1) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NNP Pentagon) (NN official) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN request) )
+          (VP (VBD was) 
+            (VP (VBN made) 
+              (NP (-NONE- *-1) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB give) 
+                    (NP (DT the) (NN department) )
+                    (NP (`` ``) 
+                      (NP (JJ maximum) (NN flexibility) )
+                      ('' '') 
+                      (SBAR 
+                        (WHNP-2 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-2) )
+                          (VP (TO to) 
+                            (VP (VB deal) 
+                              (PP-CLR (IN with) 
+                                (NP (DT the) (NNS cuts) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-TMP (JJ Last) (NN week) )
+    (, ,) 
+    (NP-SBJ (NNP Budget) (NNP Director) (NNP Richard) (NNP Darman) )
+    (VP (VBD structured) 
+      (NP-2 
+        (NP (DT the) 
+          (ADJP 
+            (QP ($ $) (CD 16.1) (CD billion) )
+            (-NONE- *U*) )
+          (NN spending) (NN reduction) )
+        (, ,) 
+        (NP 
+          (SBAR-NOM 
+            (WHNP-1 
+              (NP (NN half) )
+              (PP (IN of) 
+                (NP (WDT which) )))
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (MD must) 
+                (VP (VB come) 
+                  (PP-CLR (IN from) 
+                    (NP (NN defense) )))))))
+        (, ,) )
+      (S-CLR 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) (`` ``) 
+          (VP (VB impose) 
+            (NP 
+              (QP (DT a) (JJ little) (NN bit) (JJR more) )
+              (NN discipline) )
+            ('' '') 
+            (PP (IN by) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG applying) 
+                  (NP (NNS cuts) )
+                  (PP-CLR (TO to) 
+                    (NP 
+                      (NP (DT each) (JJ individual) (NN program) 
+                        (, ,)
+                        (NN project) (CC or) (NN activity) )
+                      (PP (IN in) 
+                        (NP (DT the) (NN budget) )))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT That) )
+      (VP (MD would) 
+        (VP (VB give) 
+          (NP (NNS agencies) )
+          (`` ``) 
+          (NP (JJR less) (NN ability) (: ...) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB fudge) 
+                  (PRT (RP over) )
+                  (NP (NNS things) ))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD told) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) ))
+      (NP (NNS reporters) ))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NN deficit-reduction) (NN law) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP 
+        (NP (CD 4.3) (NN %) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNP Pentagon) (POS 's) )
+            (NN money) )))
+      (CC and) 
+      (NP 
+        (NP (CD 5.3) (NN %) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ other) (NNS agencies) (POS ') )
+            (NN money) ))))
+    (VBZ has) 
+    (VP (VBN been) 
+      (VP (VBN canceled) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNS Lawmakers) )
+    (VP (VBP are) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ-3 (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB try) 
+              (S 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (TO to) 
+                  (VP (VB restore) 
+                    (NP (DT the) (NNS funds) )))))))
+        (SBAR-TMP (IN once) 
+          (S 
+            (NP-SBJ-1 (DT a) (VBG pending) (NN deficit-cutting) (NN measure) )
+            (VP (VBZ has) 
+              (VP (VBN been) 
+                (VP (VBN signed) 
+                  (NP (-NONE- *-1) )
+                  (PP-CLR (IN into) 
+                    (NP (NN law) )))))))))
+    (. .) ))

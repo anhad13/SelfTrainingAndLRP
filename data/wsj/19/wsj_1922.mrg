@@ -1,0 +1,559 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ lethal) (NNS shudders) )
+      (SBAR 
+        (WHNP-1 (WDT that) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD wracked) 
+            (NP (DT the) (NNP San) (NNP Francisco) (NNP Bay) (NNP Area) ))))
+      (: --) 
+      (VP (VBN rated) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (NP-PRD 
+            (NP (DT a) (CD 6.9) )
+            (PP-LOC (IN on) 
+              (NP (DT the) (JJR Richter) (NN scale) )))))
+      (: --) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB match) 
+        (NP 
+          (NP (DT the) (JJ great) (NN earthquake) )
+          (PP (IN of) 
+            (NP (CD 1906) ))
+          (, ,) 
+          (VP (VBN rated) 
+            (NP (-NONE- *) )
+            (PP-CLR (IN at) 
+              (NP (CD 8.25) ))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (NN difference) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP (RB just) (CD 1.35) )
+              (NNS points) )
+            (PP-LOC (IN on) 
+              (NP 
+                (NP (DT the) (NN scale) )
+                (, ,) 
+                (VP (VBN designed) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS 
+                      (NP (NNP Charles) (NNP Richter) )
+                      (PP (IN of) 
+                        (NP (NNP CalTech) ))))
+                  (PP-TMP (IN in) 
+                    (NP (DT the) (NNS 1930s) )))
+                (, ,) )))))
+      (VP (VBZ means) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) (JJR older) (NN quake) )
+            (VP (VBD was) (`` ``) 
+              (ADJP-PRD 
+                (QP (CD 10) (TO to) (CD 20) (NNS times) )
+                (JJR stronger) ))))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Lane) (NNP Johnson) )
+      (, ,) 
+      (NP 
+        (NP (NN director) )
+        (PP (IN of) 
+          (NP (DT the) 
+            (NAC (NNP University) 
+              (PP (IN of) 
+                (NP (NNP California) ))
+              (NP-LOC (NNP Berkeley) ))
+            (NNP Seismographic) (NNP Station) ))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN ground) )
+      (VP (VBD ruptured) 
+        (PP-LOC (IN along) 
+          (NP 
+            (NP (DT a) (JJ 20-to-30-mile) (NN stretch) )
+            (PP (IN of) 
+              (NP (DT the) (NNP San) (NNP Andreas) (NNP Fault) ))))
+        (PP-TMP (IN on) 
+          (NP (NNP Tuesday) ))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Johnson) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (CD 1906) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN rupture) )
+    (VP (VBD was) 
+      (ADJP-PRD 
+        (ADJP 
+          (NP (CD 300) (NNS miles) )
+          (JJ long) )
+        (CC and) 
+        (ADJP 
+          (NP (DT a) (NN couple) (NNS feet) )
+          (JJ wide) )))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN Though) 
+      (S 
+        (NP-SBJ-1 
+          (NP (DT the) (NN epicenter) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Tuesday) (POS 's) )
+              (NN temblor) )))
+        (VP (VBD was) 
+          (VP (VBN located) 
+            (NP (-NONE- *-1) )
+            (ADVP-CLR 
+              (ADVP 
+                (NP (CD 10) (NNS miles) )
+                (RB north) 
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN town) )
+                    (PP (IN of) 
+                      (NP (NNP Santa) (NNP Cruz) )))))
+              (, ,) 
+              (CC and)
+              (ADVP 
+                (NP (CD 50) (NNS miles) )
+                (RB south) 
+                (PP (IN of) 
+                  (NP (NNP San) (NNP Francisco) ))))))))
+    (, ,) 
+    (NP-SBJ (PRP$ its) (NN havoc) )
+    (VP (VBD hopscotched) 
+      (PP-DIR (IN up) 
+        (NP (DT the) (NN coast) ))
+      (PP-MNR (IN in) 
+        (NP 
+          (ADJP (RB seemingly) (JJ random) )
+          (NN fashion) )))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ-1 (DT the) (JJS greatest) (NN damage) )
+    (VP (VBD was) 
+      (VP (VBN visited) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN on) 
+          (NP 
+            (NP (NNS buildings) 
+              (CC and)
+              (NNS roadways) )
+            (VP (VBN perched) 
+              (NP (-NONE- *) )
+              (PP-LOC-CLR (IN upon) 
+                (NP (NN landfill) ))
+              (, ,) 
+              (SBAR-ADV (IN as) 
+                (SINV 
+                  (VP (VBD were) 
+                    (VP (-NONE- *?*) ))
+                  (NP-SBJ 
+                    (NP 
+                      (NP 
+                        (NP (DT the) (NNP Marina) (NNP District) )
+                        (PP (IN of) 
+                          (NP (NNP San) (NNP Francisco) )))
+                      (CC and) 
+                      (NP (DT the) (NNP Bay) (NNP Bridge) ))
+                    (: --) 
+                    (NP 
+                      (NP (CD two) (NNS areas) )
+                      (PP (IN of) 
+                        (NP (JJ maximum) (NN devastation) )))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-2 
+      (S 
+        (NP-SBJ 
+          (NP (NN Landfill) )
+          (: --) 
+          (NP 
+            (ADJP (JJ loose) 
+              (CC and)
+              (JJ unconsolidated) )
+            (NN earth) )
+          (: --) )
+        (VP (MD may) 
+          (VP (VB feel) 
+            (PP-CLR (IN like) 
+              (NP (NN rock) )))))
+      (CC but) 
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP (VBZ behaves) 
+          (PP-MNR (IN like) 
+            (NP (NN liquid) ))
+          (SBAR-TMP 
+            (WHADVP-1 (WRB when) )
+            (S 
+              (NP-SBJ (PRP you) )
+              (VP (VBP shake) 
+                (NP (PRP it) )
+                (ADVP-TMP (-NONE- *T*-1) )))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP Douglas) (NNP Segar) )
+      (, ,) 
+      (NP 
+        (NP (NN professor) )
+        (PP (IN of) 
+          (NP (NNS geosciences) ))
+        (PP-LOC (IN at) 
+          (NP (NNP San) (NNP Francisco) (NNP State) (NNP University) ))))
+    (PP-LOC (IN in) 
+      (NP (DT a) (JJ televised) (NN interview) ))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ liquefies) 
+      (PP-MNR (IN in) 
+        (NP (DT a) (JJ patchwork) (NN quilt) (NN pattern) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP$ Our) (NN quake) )
+    (VP (VBD behaved) 
+      (PP-MNR (RB much) (IN like) 
+        (NP 
+          (NP (DT the) (NNP Mexico) (NNP City) (NN earthquake) )
+          (, ,) 
+          (SBAR 
+            (WHADVP-1 (WRB where) )
+            (S 
+              (NP-SBJ (JJ great) (NN damage) )
+              (VP (VBD was) 
+                (PP-LOC-PRD 
+                  (NP (NNS miles) )
+                  (IN from) 
+                  (NP (DT the) (NN epicenter) ))
+                (ADVP-LOC (-NONE- *T*-1) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Johnson) )
+      (, ,) 
+      (PP (IN of) 
+        (NP (DT the) (NNP Berkeley) (JJ seismographic) (NN station) ))
+      (, ,) )
+    (VP (VBD said) (: :) (`` ``) 
+      (S 
+        (NP-SBJ-2 (NN Landfill) )
+        (VP (MD can) 
+          (VP (VB be) 
+            (VP (VBN done) 
+              (NP (-NONE- *-2) )
+              (SBAR-ADV (IN if) 
+                (S 
+                  (NP-SBJ-1 (PRP it) )
+                  (VP (VBZ 's) 
+                    (VP 
+                      (ADVP-MNR (RB properly) )
+                      (VBN compacted) 
+                      (NP (-NONE- *-1) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP You) )
+    (VP (MD can) 
+      (VP 
+        (VP (VB drive) 
+          (NP (NNS piles) )
+          (PP-LOC (IN on) 
+            (NP (PRP it) )))
+        (CC and) 
+        (VP (VB build) 
+          (PP-LOC (IN on) 
+            (NP (PRP it) )))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD cited) 
+      (NP 
+        (NP (DT the) (NN example) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (NNP San) (NNP Francisco) (POS 's) )
+              (JJ financial) (NN district) )
+            (, ,) 
+            (SBAR 
+              (WHADVP-1 (WRB where) )
+              (S 
+                (NP-SBJ-2 (JJ many) (JJ new) (NN glass) (NNS towers) )
+                (VP (VBD survived) 
+                  (S-CLR 
+                    (NP-SBJ (-NONE- *-2) )
+                    (ADJP-PRD (RB almost) (JJ unscathed) ))
+                  (ADVP-LOC (-NONE- *T*-1) ))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 (CC But) 
+      (NP-SBJ 
+        (NP (DT the) (JJ public) (NN policy) (NNS issues) )
+        (VP (VBN raised) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (NN earthquake) (NN damage) ))))
+      (VP (MD will) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ difficult) 
+            (SBAR 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB address) 
+                    (NP (-NONE- *T*-1) )))))))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Johnson) )
+    (VP (VBD predicted) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (NN attention) (NN span) )
+        (PP (IN of) 
+          (NP (DT the) (NN public) )))
+      (VP (VBZ is) 
+        (ADJP-PRD (JJ short) )))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (PRP We) )
+    (VP (VBP 've) 
+      (VP (VBN known) 
+        (PP-TMP (IN for) 
+          (NP (NNS years) 
+            (CC and)
+            (NNS years) ))
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP we) )
+            (VP (VBP 've) 
+              (VP (VBD got) 
+                (NP 
+                  (NP (NNS lots) )
+                  (PP (IN of) 
+                    (NP (JJ old) 
+                      (PRN 
+                        (-LRB- -LCB-)
+                        (JJ pre-1950s) 
+                        (-RRB- -RCB-)
+                        )
+                      (JJ unreinforced) (NN brick) 
+                      (CC and)
+                      (NN masonry) (NNS buildings) )))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (CD One) (JJ old) (NN building) )
+      (, ,) 
+      (NP 
+        (NP (DT the) (NNP Golden) (NNP State) (NNP Bank) (NNP Building) )
+        (PP-LOC (IN on) 
+          (NP (NNP Front) (NNP Street) )))
+      (, ,) )
+    (VP (VBD had) 
+      (S 
+        (NP-SBJ-1 (PRP$ its) (JJ yellow) (NN brick) (NN facade) )
+        (VP (VBN sheared) 
+          (NP (-NONE- *-1) )
+          (PRT (RP off) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (DT the) (NN shock) )
+              (PP (IN of) 
+                (NP (DT the) (NN quake) ))))
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG leaving) 
+              (S 
+                (NP-SBJ 
+                  (NP (DT a) (NN wedge) )
+                  (PP (IN of) 
+                    (NP (PRP$ its) (JJ third) (NN floor) )))
+                (ADJP-PRD (RB open) 
+                  (PP (TO to) 
+                    (NP (DT the) (NN air) ))))
+              (, ,) 
+              (SBAR-TMP (IN while) 
+                (S 
+                  (NP-SBJ-2 
+                    (NP (NNS piles) )
+                    (PP (IN of) 
+                      (NP (JJ dusty) (NNS bricks) )))
+                  (VP (VBD tumbled) 
+                    (PP-DIR (TO to) 
+                      (NP (DT the) (NN street) (RB below) ))
+                    (S-ADV 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP 
+                        (ADVP-MNR (RB narrowly) )
+                        (VBG missing) 
+                        (NP (JJ rush-hour) (NNS pedestrians) 
+                          (CC and)
+                          (NNS cars) )))))))))))
+    (. .) ))
+( (S-1 
+    (S-NOM-SBJ 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBG Reinforcing) 
+        (NP (JJ such) (JJ old) (NN building) (NN stock) )))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (NNP Mr.) (NNP Johnson) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (`` ``) 
+    (VP (VBZ comes) 
+      (ADVP-CLR (RB down) )
+      (PP-CLR (TO to) 
+        (NP (NN money) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ 's) 
+      (NP-PRD (DT a) (NN danger) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP We) )
+    (VP (VBP know) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ 's) 
+            (ADVP-LOC-PRD (RB there) )))))
+    (. .) ))
+( (S (CC And) 
+    (ADVP-TMP (RB sooner) (CC or) (RB later) )
+    (, ,) 
+    (NP-SBJ-1 (PRP we) )
+    (VP (VBP have) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB do) 
+            (NP (NN something) )
+            (PP (IN about) 
+              (NP (PRP it) ))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN urgency) )
+    (VP (VBZ is) 
+      (VP (VBN heightened) 
+        (NP (-NONE- *-1) )
+        (SBAR-PRP (RB because) 
+          (S 
+            (NP-SBJ 
+              (NP (DT this) (NN week) (POS 's) )
+              (NN earthquake) )
+            (: --) 
+            (SBAR-ADV (IN while) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (UCP-PRD 
+                  (ADJP-PRD (JJ major) )
+                  (CC and) 
+                  (VP (VBN followed) 
+                    (NP (-NONE- *) )
+                    (PP (IN by) 
+                      (NP-LGS 
+                        (NP (NNS hundreds) )
+                        (PP (IN of) 
+                          (NP (NNS aftershocks) ))))))))
+            (: --) 
+            (VP (VBD did) (RB n't) 
+              (VP (VB release) 
+                (NP 
+                  (NP (JJ enough) (JJ pent-up) (NN energy) (NN tension) 
+                    (S (-NONE- *ICH*-2) ))
+                  (PP-LOC (IN along) 
+                    (NP (DT the) (NNS faultlines) ))
+                  (S-2 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB preclude) 
+                        (NP 
+                          (NP 
+                            (ADJP (JJR more) 
+                              (CC and)
+                              (JJR bigger) )
+                            (NNS quakes) )
+                          (ADVP-TMP (RB soon) ))))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (JJ big) (CD one) )
+      (VP (VBZ is) 
+        (ADVP-TMP (RB still) )
+        (ADJP-PRD (JJ due) )))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Johnson) )
+    (VP (VBD predicted) 
+      (S (-NONE- *T*-1) )
+      (PP-LOC (IN in) 
+        (NP (DT an) (NN interview) )))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (DT The) (NNP Bay) (NNP Area) )
+    (VP (VBZ has) 
+      (NP 
+        (NP (CD three) 
+          (ADJP (RB very) (JJ dangerous) )
+          (NNS faults) )
+        (, ,) 
+        (NP 
+          (NP (DT the) (NNP San) (NNP Andreas) )
+          (, ,) 
+          (NP (DT the) (NNP Hayward) (NN fault) )
+          (CC and) 
+          (NP (DT the) (NNS Calaveras) (NN fault) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (PRP It) )
+      (PRN 
+        (-LRB- -LCB-)
+        (NP 
+          (NP (NNP Tuesday) (POS 's) )
+          (NN quake) )
+        (-RRB- -RCB-) ))
+    (VP (VBZ has) (RB n't) 
+      (VP (VBD solved) 
+        (NP (PRP$ our) (NN problem) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP California) ))
+    (, ,) 
+    (NP-SBJ (DT this) )
+    (VP (VBZ is) 
+      (NP-PRD (DT the) (NN reality) ))
+    (. .) ))

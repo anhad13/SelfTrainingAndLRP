@@ -1,0 +1,79 @@
+
+( (S 
+    (NP-SBJ (NNP Rochester) (NNP Telephone) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD completed) 
+            (NP 
+              (NP (PRP$ its) (NN purchase) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (NP (NNP Urban) (NNP Telephone) (NNP Corp.) 
+                      (, ,)
+                      )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP Clintonville) )
+                        (, ,) 
+                        (NP (NNP Wis.) ))))
+                  (, ,) 
+                  (NP 
+                    (NP (DT the) (JJ second-largest) (JJ unaffiliated) (JJ independent) (NN telephone) (NN company) )
+                    (PP-LOC (IN in) 
+                      (NP (DT that) (NN state) ))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Rochester) (NNP Telephone) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-1 (DT the) (NN acquisition) )
+            (VP (VBD was) 
+              (VP (VBN made) 
+                (NP (-NONE- *-1) )
+                (PP (IN in) 
+                  (NP 
+                    (NP (DT an) (NN exchange) )
+                    (PP (IN of) 
+                      (NP (PRP$ its) (JJ common) (NNS shares) ))
+                    (PP (IN for) 
+                      (NP 
+                        (NP (PDT all) (DT the) (NNS shares) )
+                        (PP (IN of) 
+                          (NP (NNP Urban) (NNP Telephone) ))))))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (DT a) (NN price) )
+      (VP (VBD was) (RB n't) 
+        (VP (VBN disclosed) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Urban) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP 
+          (NP (DT the) (NN company) (POS 's) )
+          (JJ first) (NN telephone) (NN subsidiary) )
+        (PP-LOC (IN in) 
+          (NP (NNP Wisconsin) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN Since) 
+      (NP (NNP June) ))
+    (, ,) 
+    (NP-SBJ (NNP Rochester) (NNP Telephone) )
+    (VP (VBD signed) 
+      (NP 
+        (NP (NNS letters) )
+        (PP (IN of) 
+          (NP (NN intent) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB purchase) 
+                  (NP (CD three) (JJ other) (NNP Wisconsin) (NNS firms) ))))))))
+    (. .) ))

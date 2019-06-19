@@ -1,0 +1,309 @@
+
+( (S 
+    (NP-SBJ (NNP Hydro-Quebec) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD notified) 
+            (NP (NNP Central) (NNP Maine) (NNP Power) (NNP Co.) )
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (MD will) 
+                  (VP (VB cancel) 
+                    (NP (DT a) 
+                      (ADJP 
+                        (QP ($ $) (CD 4) (CD billion) )
+                        (-NONE- *U*) )
+                      (NN contract) 
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB supply) 
+                            (NP (NN electricity) )
+                            (PP-CLR (TO to) 
+                              (NP (DT the) (NNP Maine) (NN utility) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (ADJP (RB provincially) (VBN owned) )
+      (NN utility) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG tearing) 
+              (PRT (RP up) )
+              (NP (DT the) (NN deal) )
+              (SBAR-PRP (IN because) (`` ``) 
+                (S 
+                  (NP-SBJ-1 
+                    (NP (DT the) (NN contract) (POS 's) )
+                    (NNS objectives) )
+                  (VP (MD ca) (RB n't) 
+                    (VP (VB be) 
+                      (VP (VBN fulfilled) 
+                        (NP (-NONE- *-1) )))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNP Hydro-Quebec) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Maine) (NNS regulators) (POS ') )
+            (NN refusal) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB approve) 
+                  (NP (DT the) (NN contract) )
+                  (NP-TMP (RB earlier) (DT this) (NN year) )))))
+          (VP 
+            (VP (VBD halted) 
+              (NP 
+                (NP (NN work) )
+                (PP (IN on) 
+                  (NP (NN transmission) (NNS lines) ))))
+            (CC and) 
+            (VP (VBD stopped) 
+              (NP 
+                (NP (NNS negotiations) )
+                (PP (IN for) 
+                  (NP 
+                    (NP (NN resale) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NN electricity) )
+                        (VP (VBN carried) 
+                          (NP (-NONE- *) )
+                          (PP-LOC (IN through) 
+                            (NP (NNP Maine) ))
+                          (PP-DIR (TO to) 
+                            (NP (JJ other) (NNS utilities) )))))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP It) )
+      (VP (MD would) 
+        (ADVP-TMP (RB now) )
+        (VP (VB be) 
+          (ADJP-PRD (RB physically) (JJ impossible) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB begin) 
+                  (NP (NNS deliveries) )
+                  (PP-TMP (IN in) 
+                    (NP (CD 1992) )))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT a) (NNP Hydro-Quebec) (NN official) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN contract) )
+    (VP (VBD was) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB run) 
+            (PP-TMP (IN from) 
+              (NP (CD 1992) ))
+            (PP-TMP (TO to) 
+              (NP (CD 2020) ))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NN contract) ))
+    (NP-SBJ-1 (NNP Hydro-Quebec) )
+    (VP (VBD was) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP 
+            (VP (VB supply) 
+              (NP-2 
+                (NP 
+                  (NP (CD 400) (NNS megawatts) )
+                  (PP (IN of) 
+                    (NP (NN power) ))))
+              (PP-CLR (TO to) 
+                (NP (NNP Central) (NNP Maine) (NNP Power) ))
+              (S-ADV-3 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG starting) 
+                  (PP-TMP (IN in) 
+                    (NP (CD 1992) )))))
+            (, ,) 
+            (VP 
+              (NP=2 (CD 600) (NNS megawatts) )
+              (S-ADV=3 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG starting) 
+                  (PP-TMP (IN in) 
+                    (NP (CD 1995) )))))
+            (CC and) 
+            (VP 
+              (NP=2 (CD 900) (NNS megawatts) )
+              (S-ADV=3 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG starting) 
+                  (PP-TMP (IN in) ))))))))))
+( (S 
+    (NP-SBJ (NNP Hydro-Quebec) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Maine) (NNS regulators) (POS ') )
+            (NN refusal) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB approve) 
+                  (NP (DT the) (NN contract) )))))
+          (VP (VBZ means) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (NNP Central) (NNP Maine) (NNP Power) )
+                (VP (VBZ has) 
+                  (VP (VBN lost) 
+                    (NP 
+                      (NP (PRP$ its) (NN place) )
+                      (PP-LOC (IN in) 
+                        (NP (NN line) )))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP We) )
+      (VP (MD wo) (RB n't) 
+        (VP (VB sign) 
+          (NP 
+            (NP 
+              (NP (DT any) (JJ new) (NNS contracts) )
+              (-LRB- -LCB-) 
+              (PP (IN with) 
+                (NP (NNS deliveries) ))
+              (-RRB- -RCB-) )
+            (VP (VBG beginning) 
+              (ADVP-TMP 
+                (ADVP (RB earlier) )
+                (PP (IN than) 
+                  (NP (CD 2000) ))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT the) (NNP Hydro-Quebec) (NN official) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Hydro-Quebec) )
+          (ADVP (RB already) )
+          (VP (VBZ has) 
+            (NP 
+              (NP (DT some) (`` ``) (NNS customers) )
+              (PP (-NONE- *ICH*-2) ))
+            (PP-LOC (IN in) 
+              (NP (NN mind) ))
+            ('' '') 
+            (PP-2 (IN for) 
+              (NP 
+                (NP (DT the) (NN power) )
+                (SBAR 
+                  (WHNP-3 (WDT that) )
+                  (S 
+                    (NP-SBJ-4 (-NONE- *T*-3) )
+                    (VP (VBD was) 
+                      (S 
+                        (NP-SBJ-1 (-NONE- *-4) )
+                        (VP (TO to) 
+                          (VP (VB be) 
+                            (VP (VBN delivered) 
+                              (NP (-NONE- *-1) )
+                              (PP-DIR (TO to) 
+                                (NP (NNP Maine) )))))))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (NN Nothing) )
+        (S (-NONE- *ICH*-1) ))
+      (VP (VBZ has) 
+        (VP (VBN happened) 
+          (SBAR-TMP (IN since) 
+            (S 
+              (NP-SBJ (PRP we) )
+              (VP (VBD signed) 
+                (NP (DT the) (NN contract) ))))
+          (S-1 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB undermine) 
+                (NP (PRP$ our) (NN conviction) 
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ (NNP Hydro-Quebec) )
+                      (VP (VBD was) 
+                        (NP-PRD 
+                          (NP (DT the) (JJS lowest-cost) 
+                            (, ,)
+                            (ADJP (RBS most) (RB environmentally) (JJ acceptable) )
+                            (NN choice) )
+                          (PP (IN for) 
+                            (S-NOM 
+                              (NP-SBJ (-NONE- *) )
+                              (VP (VBG meeting) 
+                                (NP 
+                                  (NP (DT a) (NN part) )
+                                  (PP (IN of) 
+                                    (NP 
+                                      (NP (PRP$ our) (NNS customers) (POS ') )
+                                      (NN energy) (NNS needs) )))
+                                (PP-TMP (IN through) 
+                                  (NP (DT the) (NN year) (CD 2020) ))))))))))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ (NNP Central) (NNP Maine) (JJ senior) (NN vice) (NN president) (NNP Donald) (NNP F.) (NNP Kelly) )
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Central) (NNP Maine) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG evaluating) 
+              (NP (`` ``) 
+                (NP (JJ many) (NN energy) (NNS options) )
+                ('' '') 
+                (SBAR 
+                  (WHADVP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB make) 
+                        (PRT (RP up) )
+                        (PP-CLR (IN for) 
+                          (NP (DT the) (VBN lost) (NN future) (NN power) ))
+                        (ADVP-MNR (-NONE- *T*-1) )))))
+                (, ,) 
+                (PP (VBG including) 
+                  (NP 
+                    (NP 
+                      (NP (JJ new) (NN energy) (NN generation) 
+                        (CC and)
+                        (NN management) (NNS proposals) )
+                      (PP (IN from) 
+                        (NP (NNP New) (NNP England) )))
+                    (, ,) 
+                    (CC and)
+                    (ADVP (RB possibly) )
+                    (NP (JJ new) (JJ Canadian) (NNS purchases) )))))))))
+    (. .) ))

@@ -1,0 +1,139 @@
+
+( (S 
+    (NP-SBJ (NNP Stoneridge) (NNPS Resources) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB begin) 
+              (NP 
+                (NP (DT an) (NN offering) )
+                (PP (IN of) 
+                  (NP (NNS rights) ))
+                (UCP 
+                  (ADJP (JJ equivalent) 
+                    (PP (TO to) 
+                      (NP 
+                        (QP (CD 2.6) (CD million) )
+                        (JJ common) (NNS shares) )))
+                  (CC and) 
+                  (VP (VBN valued) 
+                    (PP-CLR (IN at) 
+                      (NP ($ $) (CD 22,750,000) (-NONE- *U*) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Bloomfield) (NNPS Hills) 
+      (, ,)
+      (JJ Mich.-based) (NN real-estate) (NN holding) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB offer) 
+              (NP (DT the) (NNS rights) )
+              (PP-CLR (IN at) 
+                (NP 
+                  (NP ($ $) (CD 8.75) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) )))
+              (PP-DTV (TO to) 
+                (NP 
+                  (NP (NNS shareholders) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NN record) )
+                      (PP-TMP (IN on) 
+                        (NP (NNP Oct.) (CD 26) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN offering) )
+    (VP (VBZ is) 
+      (VP (VBN scheduled) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB expire) 
+              (PP-TMP-CLR (IN on) 
+                (NP (NNP Nov.) (CD 30) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB use) 
+              (NP 
+                (NP (DT the) (NNS proceeds) )
+                (PP (IN of) 
+                  (NP (DT the) (NN offering) )))
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP (NN debt) (NN reduction) )
+                  (CC and) 
+                  (NP 
+                    (NP (JJ general) (JJ corporate) (NNS purposes) )
+                    (, ,) 
+                    (PP (VBG including) 
+                      (NP (NNS acquisitions) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Stockholders) )
+    (VP (MD may) 
+      (VP (VB buy) 
+        (NP 
+          (NP (CD one) (NN share) )
+          (PP (-NONE- *ICH*-1) ))
+        (PP-CLR (IN at) 
+          (NP (DT the) (NN subscription) (NN price) ))
+        (PP-1 (IN for) 
+          (NP 
+            (NP (DT every) (CD four) (NNS shares) )
+            (PP (IN of) 
+              (NP (NN stock) ))
+            (SBAR 
+              (WHNP-2 (-NONE- 0) )
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (VBP own) 
+                  (NP (-NONE- *T*-2) ))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (NNP Stockholders) )
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBP exercise) 
+              (NP (DT all) (PRP$ their) (NNS rights) )))))
+      (VP (MD may) 
+        (VP (VB buy) 
+          (NP (JJ additional) (NNS shares) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) 
+            (NP (DT an) (NN option) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB increase) 
+                    (NP (DT the) (NN offering) )
+                    (PP-EXT (IN by) 
+                      (NP 
+                        (QP (IN up) (TO to) (CD 350,000) )
+                        (NNS shares) ))))))))))
+    (. .) ))

@@ -1,0 +1,82 @@
+((S 
+    (NP-SBJ-1 
+      (NP (NNP Michael) (NNP Grobstein) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 46) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN vice) (NN chairman) )
+              (PP (IN for) 
+                (NP (NN planning) 
+                  (, ,)
+                  (NN marketing) 
+                  (CC and)
+                  (NN industry) (NNS services) )))
+            (, ,) 
+            (NP (DT a) (JJ new) (NN post) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Grobstein) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (DT a) (NN vice) (NN chairman) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Ernst) (CC &) (NNP Whinney) )
+              (, ,) 
+              (NP 
+                (NP (DT an) (NN accounting) (NN firm) )
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ-2 (-NONE- *T*-1) )
+                    (VP (VBD merged) 
+                      (PP-CLR (IN with) 
+                        (NP (NN rival) (NNP Arthur) (NNP Young) ))
+                      (PP-TMP (IN in) 
+                        (NP (NNP July) ))
+                      (S-PRP-CLR 
+                        (NP-SBJ (-NONE- *-2) )
+                        (VP (TO to) 
+                          (VP (VB form) 
+                            (NP 
+                              (NP (NNP Ernst) (CC &) (NNP Young) )
+                              (, ,) 
+                              (NP (DT a) (JJ major) (NN accounting) 
+                                (, ,)
+                                (NN tax) 
+                                (CC and)
+                                (NN management) (NN consulting) (NN firm) ))))))))))))))
+    (. .) ))
+((S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (NNP Mr.) (NNP Grobstein) (POS 's) )
+        (NN appointment) )
+      (VP (VBZ formalizes) 
+        (NP 
+          (NP (DT a) (NN role) )
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (PRP he) )
+              (VP (VBZ has) 
+                (VP (VBN been) 
+                  (VP (VBG performing) 
+                    (NP (-NONE- *T*-1) )
+                    (PP-PRP (IN since) 
+                      (NP (DT the) (NN merger) ))))))))))
+    (, ,) 
+    (NP-SBJ (DT a) (NN spokeswoman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))

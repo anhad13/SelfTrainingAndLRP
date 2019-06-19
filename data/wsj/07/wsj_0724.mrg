@@ -1,0 +1,32 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Bruno) (NNP DeGol) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP DeGol) (NNPS Brothers) (NNP Lumber) )
+            (, ,) 
+            (NP-LOC 
+              (NP (NNP Gallitzin) )
+              (, ,) 
+              (NP (NNP Pa.) )))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (JJ bank-holding) (NN company) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG expanding) 
+            (NP (DT the) (NN board) )
+            (PP-CLR (TO to) 
+              (NP (CD 11) (NNS members) ))))))
+    (. .) ))

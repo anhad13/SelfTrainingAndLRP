@@ -1,0 +1,69 @@
+
+( (S 
+    (NP-SBJ-1 (NNP H.) (NNP Anthony) (NNP Ittleson) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT this) (NN company) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-2 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-2) )
+                    (ADVP (RB primarily) )
+                    (VP (VBZ has) 
+                      (NP 
+                        (NP (NNS interests) )
+                        (PP-LOC (IN in) 
+                          (NP (NN radio) 
+                            (CC and)
+                            (NN television) (NNS stations) ))))))))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG increasing) 
+            (NP 
+              (NP (DT the) (NN number) )
+              (PP (IN of) 
+                (NP (NNS seats) )))
+            (PP-DIR (TO to) 
+              (NP (CD five) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Osborn) )
+    (ADVP (RB also) )
+    (VP (VBZ operates) 
+      (NP 
+        (NP (NNP Muzak) (NNS franchises) )
+        (, ,) 
+        (NP (NN entertainment) (NNS properties) )
+        (CC and) 
+        (NP (JJ small) (NN cable-television) (NNS systems) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Ittleson) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (JJ executive) )
+        (, ,) 
+        (NP (JJ special) (NNS projects) )
+        (, ,) 
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (NNP CIT) (NNP Group) (NNP Holdings) (NNP Inc.) )
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (NP-SBJ-1 (-NONE- *T*-2) )
+                (VP (VBZ is) 
+                  (VP (VBN controlled) 
+                    (NP (-NONE- *-1) )
+                    (PP (IN by) 
+                      (NP-LGS (NNPS Manufacturers) (NNP Hanover) (NNP Corp) ))))))))))
+    (. .) ))

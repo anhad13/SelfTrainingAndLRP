@@ -1,0 +1,914 @@
+
+( (S 
+    (NP-SBJ (NN Newspaper) (NNS publishers) )
+    (VP (VBP are) 
+      (VP (VBG reporting) 
+        (NP 
+          (NP (JJ mixed) (JJ third-quarter) (NNS results) )
+          (, ,) 
+          (VP 
+            (VP (VBN aided) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS (JJ favorable) (NN newsprint) (NNS prices) )))
+            (CC and) 
+            (VP (VBN hampered) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP 
+                    (ADJP (JJ flat) (CC or) (JJ declining) )
+                    (NN advertising) (NN linage) )
+                  (, ,) 
+                  (PP-LOC 
+                    (ADVP (RB especially) )
+                    (IN in) 
+                    (NP (DT the) (NNP Northeast) )))))))))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBG Adding) 
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (NN unsteadiness) )
+            (PP-LOC (IN in) 
+              (NP (DT the) (NN industry) ))))))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (JJ seasonal) (JJ retail) (NN ad) (NN spending) (NNS patterns) )
+      (PP-LOC (IN in) 
+        (NP (NNS newspapers) )))
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (VP (VBN upset) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP 
+                (NP (NNS shifts) )
+                (PP-LOC (IN in) 
+                  (NP (NN ownership) )))
+              (CC and) 
+              (NP 
+                (NP (JJ general) (NNS hardships) )
+                (PP-LOC (IN within) 
+                  (NP (DT the) (JJ retail) (NN industry) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Bonwit) (NNP Teller) 
+      (CC and)
+      (NNP B.) (NNP Altman) (CC &) (NNP Co.) (NN department) (NNS stores) )
+    (VP (VBP have) 
+      (VP (VBN filed) 
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (NN protection) )
+            (PP (IN from) 
+              (NP (NNS creditors) ))))
+        (PP-LOC (IN under) 
+          (NP 
+            (NP (NNP Chapter) (CD 11) )
+            (PP (IN of) 
+              (NP (DT the) (JJ federal) (NNP Bankruptcy) (NNP Code) ))))
+        (, ,) 
+        (SBAR-ADV (IN while) 
+          (S 
+            (NP-SBJ (DT the) (NNP R.H.) (NNP Macy) (CC &) (NNP Co.) 
+              (, ,)
+              (NNP Bloomingdale) (POS 's) 
+              (CC and)
+              (NNP Saks) (NNP Fifth) (NNP Avenue) (NN department-store) (NNS chains) )
+            (VP (VBP are) 
+              (PP-PRD (IN for) 
+                (NP (NN sale) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (JJ Many) (NNS papers) )
+      (PP-LOC (IN throughout) 
+        (NP (DT the) (NN country) )))
+    (VP (VBP are) 
+      (ADVP (RB also) )
+      (VP (VBN faced) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN with) 
+          (NP 
+            (NP (DT a) (NN slowdown) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NN classified-ad) (NN spending) )
+                (, ,) 
+                (NP 
+                  (NP (DT a) (JJ booming) (NN category) )
+                  (PP (IN for) 
+                    (NP (NNS newspapers) ))
+                  (PP-TMP (IN in) 
+                    (NP (JJ recent) (NNS years) )))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN Until) 
+      (ADJP (RB recently) ))
+    (, ,) 
+    (NP-SBJ (NN industry) (NNS analysts) )
+    (VP (VBD believed) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS decreases) )
+            (PP-LOC (IN in) 
+              (NP (JJ retail) (NN ad) (NN spending) )))
+          (VP 
+            (VP (VBD had) 
+              (VP (VBN bottomed) 
+                (PRT (RP out) )))
+            (CC and) 
+            (VP (MD would) 
+              (PP (IN in) 
+                (NP (NN fact) ))
+              (VP (VB increase) 
+                (PP-TMP (IN in) 
+                  (NP 
+                    (NP (DT this) (NN year) (POS 's) )
+                    (ADJP (JJ third) 
+                      (CC and)
+                      (JJ fourth) )
+                    (NNS quarters) ))))))))
+    (. .) ))
+( (S-1 
+    (NP-SBJ (DT All) (NNS bets) )
+    (VP (VBP are) 
+      (ADVP-PRD (RB off) )
+      (PRN 
+        (, ,)
+        (S 
+          (NP-SBJ (NNS analysts) )
+          (VP (VBP say) 
+            (SBAR (-NONE- 0) 
+              (S (-NONE- *T*-1) ))))
+        (, ,) )
+      (PP-PRP (IN because) (IN of) 
+        (NP 
+          (NP (DT the) (JJ shifting) (NN ownership) )
+          (PP (IN of) 
+            (NP (DT the) (JJ retail) (NNS chains) )))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-2 
+      (S 
+        (NP-SBJ (JJ Improved) (NN paper) (NNS prices) )
+        (VP (MD will) 
+          (VP (VB help) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (VB offset) 
+                (NP 
+                  (NP (NN weakness) )
+                  (PP-LOC (IN in) 
+                    (NP (NN linage) ))))))))
+      (, ,) (CC but) 
+      (S 
+        (NP-SBJ 
+          (NP (DT the) (NNS retailers) (POS ') )
+          (NNS problems) )
+        (VP (VBP have) 
+          (VP (VBN affected) 
+            (NP 
+              (NP (DT the) (NN amount) )
+              (PP (IN of) 
+                (NP (NN ad) (NN linage) ))
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (PRP they) )
+                  (ADVP-TMP (RB usually) )
+                  (VP (VBP run) 
+                    (NP (-NONE- *T*-1) )))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP Edward) (NNP J.) (NNP Atorino) )
+      (, ,) 
+      (NP 
+        (NP (NN industry) (NN analyst) )
+        (PP (IN for) 
+          (NP (NNP Salomon) (NNP Brothers) (NNP Inc) ))))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (NNS Retailers) )
+    (VP (VBP are) 
+      (ADVP (RB just) )
+      (PP-LOC-PRD (IN in) 
+        (NP (NN disarray) )))
+    (. .) ('' '') ))
+( (S 
+    (PP (IN For) 
+      (NP (NN instance) ))
+    (, ,) 
+    (NP-SBJ (NNP Gannett) (NNP Co.) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (DT an) 
+          (ADJP (CD 11) (NN %) )
+          (NN gain) )
+        (PP-LOC (IN in) 
+          (NP (JJ net) (NN income) )))
+      (, ,) 
+      (SBAR-ADV (IN as) 
+        (S 
+          (S 
+            (NP-SBJ (JJ total) (NN ad) (NNS pages) )
+            (VP (VBD dropped) 
+              (PP-LOC (IN at) 
+                (NP (NNP USA) (NNP Today) ))))
+          (, ,) (CC but) 
+          (S 
+            (NP-SBJ (NN advertising) (NN revenue) )
+            (VP (VBD rose) 
+              (PP-PRP (IN because) (IN of) 
+                (NP 
+                  (NP (DT a) (JJR higher) (NN circulation) (NN rate) (NN base) )
+                  (CC and) 
+                  (NP (JJ increased) (NNS rates) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Gannett) (POS 's) )
+      (NX 
+        (NX (CD 83) (JJ daily) 
+          (NX (-NONE- *RNR*-1) ))
+        (CC and) 
+        (NX (CD 35) (JJ non-daily) 
+          (NX (-NONE- *RNR*-1) ))
+        (NX-1 (NNS newspapers) )))
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 3) (NN %) )
+          (NN increase) )
+        (PP-LOC (IN in) 
+          (NP (NN advertising) 
+            (CC and)
+            (NN circulation) (NN revenue) ))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 
+      (NP-SBJ (JJ Total) (NN advertising) (NN linage) )
+      (VP (VBD was) 
+        (ADJP-PRD (`` ``) (RB modestly) ('' '') (JJR lower) )
+        (SBAR-TMP (IN as) 
+          (S 
+            (NP-SBJ (NN classified-ad) (NN volume) )
+            (VP (VBD increased) )))
+        (, ,) 
+        (SBAR-ADV (IN while) 
+          (S 
+            (NP-SBJ (EX there) )
+            (VP (VBD was) 
+              (NP-PRD (`` ``) 
+                (NP (JJR softer) (NN demand) )
+                ('' '') 
+                (PP (IN for) 
+                  (NP 
+                    (ADJP (JJ retail) 
+                      (CC and)
+                      (JJ national) )
+                    (NN ad) (NN linage) ))))))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (NNP John) (NNP Curley) )
+      (, ,) 
+      (NP 
+        (NP (NNP Gannett) (POS 's) )
+        (JJ chief) (JJ executive) (NN officer) ))
+    (. .) ))
+( (S 
+    (PP-LOC (IN At) 
+      (NP (NNP USA) (NNP Today) ))
+    (, ,) 
+    (NP-SBJ (NN ad) (NNS pages) )
+    (VP (VBD totaled) 
+      (NP (CD 785) )
+      (PP (IN for) 
+        (NP (DT the) (NN quarter) ))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP (CD 9.2) (NN %) )
+        (PP (IN from) 
+          (NP 
+            (NP (DT the) (CD 1988) (NN period) )
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (NP-SBJ-1 (-NONE- *T*-2) )
+                (VP (VBD was) 
+                  (VP (VBN helped) 
+                    (NP (-NONE- *-1) )
+                    (PP (IN by) 
+                      (NP-LGS 
+                        (NP (JJ increased) (NN ad) (NN spending) )
+                        (PP (IN from) 
+                          (NP (DT the) (NNP Summer) (NNPS Olympics) ))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ 
+          (NP 
+            (NP (NNP USA) (NNP Today) (POS 's) )
+            (JJ total) (JJ paid) (NN ad) (NNS pages) )
+          (PP (IN for) 
+            (NP 
+              (NP (DT the) (NN year) )
+              (PP-TMP (TO to) 
+                (NP (NN date) )))))
+        (VP (VBD totaled) 
+          (NP 
+            (NP (CD 2,735) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NN decrease) )
+              (PP (IN of) 
+                (NP (CD 4) (NN %) ))
+              (PP (IN from) 
+                (NP (JJ last) (NN year) )))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN paper) (POS 's) )
+      (NN ad) (NN revenue) )
+    (VP 
+      (VP (VBD increased) 
+        (NP-EXT-1 (CD 8) (NN %) )
+        (PP-TMP-2 (IN in) 
+          (NP (DT the) (NN quarter) )))
+      (CC and) 
+      (VP 
+        (NP-EXT=1 (CD 13) (NN %) )
+        (PP-TMP=2 (IN in) 
+          (NP (DT the) (CD nine) (NNS months) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Gannett) (POS 's) )
+      (NN net) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 9.5) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 270) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 1.68) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) ))))
+      (, ,) 
+      (PP-DIR (IN from) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 247) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 1.52) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD gained) 
+      (NP (CD 6) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 2.55) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 2.4) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN At) 
+      (NP (NNP Dow) (NNP Jones) (CC &) (NNP Co.) ))
+    (, ,) 
+    (NP-SBJ (JJ third-quarter) (NN net) (NN income) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 9.9) (NN %) )
+      (PP-DIR (IN from) 
+        (NP (DT the) (JJ year-earlier) (NN period) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Net) )
+    (VP (VBD fell) 
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 28.8) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP (CD 29) (NNS cents) )
+            (NP-ADV (DT a) (NN share) ))))
+      (, ,) 
+      (PP-DIR (IN from) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 32) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP (CD 33) (NNS cents) )
+            (NP-ADV (DT a) (NN share) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ year-earlier) (NN period) )
+    (VP (VBD included) 
+      (NP 
+        (NP (DT a) (JJ one-time) (NN gain) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 3.5) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD four) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VB gained) 
+      (NP (CD 5.3) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 404.1) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 383.8) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN drop) )
+      (PP-LOC (IN in) 
+        (NP (NN profit) )))
+    (VP (VBD reflected) 
+      (, ,)
+      (PP (IN in) 
+        (NP (NN part) ))
+      (, ,) 
+      (NP 
+        (NP (JJ continued) (NN softness) )
+        (PP-LOC (IN in) 
+          (NP (JJ financial) (NN advertising) ))
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal) )
+            (CC and) 
+            (NP 
+              (NP (NNP Barron) (POS 's) )
+              (NN magazine) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Ad) (NN linage) )
+      (PP-LOC (IN at) 
+        (NP (DT the) (NNP Journal) )))
+    (VP (VBD fell) 
+      (NP-EXT (CD 6.1) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJ third) (NN quarter) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Affiliated) (NNP Publications) (NNP Inc.) )
+    (VP (VBD reversed) 
+      (NP (DT a) (JJ year-earlier) (JJ third) (NN quarter) (JJ net) (NN loss) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN publisher) )
+      (PP (IN of) 
+        (NP (DT the) (NNP Boston) (NNP Globe) )))
+    (VP (VBD reported) 
+      (NP 
+        (NP (NN net) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 8.5) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP (CD 12) (NNS cents) )
+                (NP-ADV (DT a) (NN share) )))
+            (, ,) 
+            (PP (VBN compared) 
+              (PP (IN with) 
+                (NP 
+                  (NP (DT a) (NN loss) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (QP ($ $) (CD 26.5) (CD million) )
+                        (-NONE- *U*) )
+                      (, ,) (CC or) 
+                      (NP 
+                        (NP (CD 38) (NNS cents) )
+                        (NP-ADV (DT a) (NN share) ))))))))))
+      (, ,) 
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) (JJ third) (NN quarter) )
+          (PP-TMP (IN in) 
+            (NP (CD 1988) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP William) (NNP O.) (NNP Taylor) )
+      (, ,) 
+      (NP 
+        (NP (DT the) (NN parent) (POS 's) )
+        (NX 
+          (NX (NN chairman) )
+          (CC and) 
+          (NX (JJ chief) (JJ executive) (NN officer) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (NNS earnings) )
+          (VP (VBD continued) 
+            (S 
+              (NP-SBJ-1 (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (VP (VBN hurt) 
+                    (NP (-NONE- *-1) )
+                    (PP (IN by) 
+                      (NP-LGS 
+                        (NP (NN softness) )
+                        (PP-LOC (IN in) 
+                          (NP (NN ad) (NN volume) ))
+                        (PP-LOC (IN at) 
+                          (NP (DT the) (NNP Boston) (NN newspaper) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (JJ Third-quarter) (NN profit) (NNS estimates) )
+      (PP (IN for) 
+        (NP (JJ several) (NNS companies) )))
+    (VP (VBP are) 
+      (VP (VBG being) 
+        (VP 
+          (ADVP-MNR (RB strongly) )
+          (VBN affected) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (DT the) (NN price) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN newsprint) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-2 (WDT which) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-2) )
+                      (PP-TMP (IN in) 
+                        (NP (DT the) (JJ last) (CD two) (NNS years) ))
+                      (VP (VBZ has) 
+                        (VP (VBD had) 
+                          (NP (JJ several) (NN price) (NNS increases) ))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP (IN After) 
+      (S 
+        (NP-SBJ (DT a) (NN supply) (NN crunch) )
+        (VP (VBD caused) 
+          (S 
+            (NP-SBJ (NNS prices) )
+            (VP (TO to) 
+              (VP (VB rise) 
+                (NP-EXT (CD 14) (NN %) )
+                (PP-TMP (IN since) 
+                  (NP (CD 1986) ))
+                (PP-DIR (TO to) 
+                  (NP 
+                    (NP ($ $) (CD 650) (-NONE- *U*) )
+                    (NP-ADV (DT a) (JJ metric) (NN ton) )))))))))
+    (, ,) 
+    (NP-SBJ (NNS analysts) )
+    (VP (VBP are) 
+      (ADJP-PRD (JJ encouraged) )
+      (, ,) 
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP do) (RB n't) 
+            (VP (VB expect) 
+              (NP (DT a) (NN price) (NN increase) )
+              (PP-TMP (IN for) 
+                (NP 
+                  (NP (DT the) (NN rest) )
+                  (PP (IN of) 
+                    (NP (DT this) (NN year) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Companies) )
+      (PP (IN with) 
+        (NP 
+          (NP (JJ daily) (NNS newspapers) )
+          (PP-LOC (IN in) 
+            (NP (DT the) (NNP Northeast) )))))
+    (VP (MD will) 
+      (VP (VB need) 
+        (NP (DT the) (JJ stable) (NN newsprint) (NNS prices) )
+        (S-CLR 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB ease) 
+              (NP 
+                (NP (NN damage) )
+                (PP (IN from) 
+                  (NP (JJ weak) (NN ad) (NN linage) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Atorino) )
+      (PP-LOC (IN at) 
+        (NP (NNP Salomon) (NNP Brothers) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBZ estimates) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ 
+                  (NP (NNP Times) (NNP Mirror) (NNP Co.) (POS 's) )
+                  (NNS earnings) )
+                (VP (VBD were) 
+                  (ADVP-PRD (RB down) )
+                  (PP (IN for) 
+                    (NP (DT the) (JJ third) (NN quarter) ))
+                  (, ,) 
+                  (PP-PRP (IN because) (IN of) 
+                    (NP 
+                      (NP (JJ soft) (NN advertising) (NNS levels) )
+                      (PP-LOC (IN at) 
+                        (NP (PRP$ its) (NNP Long) (NNP Island) (NNP Newsday) 
+                          (CC and)
+                          (NNP Hartford) (NNP Courant) (NNS newspapers) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NN Trouble) )
+      (PP-LOC (IN on) 
+        (NP (DT the) (NNP East) (NNP Coast) )))
+    (VP (VBD was) 
+      (ADVP (RB likely) )
+      (VP (VBN offset) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (JJ improved) (NN ad) (NN linage) )
+            (PP-LOC (IN at) 
+              (NP 
+                (NP (DT the) (NNP Los) (NNP Angeles) (NNP Times) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-2 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-2) )
+                    (NP-TMP (DT this) (NN week) )
+                    (ADVP (RB also) )
+                    (VP (VBD unveiled) 
+                      (NP (DT a) (NN redesign) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP New) (NNP York) (NNP Times) (NNP Co.) )
+    (VP (VBZ is) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB report) 
+              (NP (JJR lower) (NNS earnings) )
+              (PP (IN for) 
+                (NP (DT the) (JJ third) (NN quarter) ))
+              (PP-PRP (IN because) (IN of) 
+                (NP 
+                  (NP 
+                    (NP (JJ continued) (JJ weak) (NN advertising) (NNS levels) )
+                    (PP-LOC (IN at) 
+                      (NP 
+                        (NP (PRP$ its) (NN flagship) )
+                        (NP (NNP New) (NNP York) (NNP Times) ))))
+                  (CC and) 
+                  (NP 
+                    (NP (RB deep) (NN discounting) )
+                    (PP (IN of) 
+                      (NP (NN newsprint) ))
+                    (PP-LOC (IN at) 
+                      (NP 
+                        (NP (PRP$ its) (NN affiliate) )
+                        (, ,) 
+                        (NP (NNP Forest) (NNP Products) (NNP Group) )))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ 
+          (NP (NNP Times) (NNP Co.) (POS 's) )
+          (JJ regional) (JJ daily) (NNS newspapers) )
+        (VP (VBP are) 
+          (VP (VBG holding) 
+            (PRT (RP up) )
+            (ADVP-MNR (RB well) ))))
+      (, ,) (CC but) 
+      (S 
+        (NP-SBJ (EX there) )
+        (VP (VBZ is) 
+          (NP-PRD (JJ little) (NN sign) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ (NNS things) )
+                (VP (MD will) 
+                  (VP (VB improve) )))))
+          (PP-LOC (IN in) 
+            (NP (DT the) (NNP New) (NNP York) (NN market) )))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Alan) (NNP Kassan) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN analyst) )
+        (PP (IN with) 
+          (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Washington) (NNP Post) (NNP Co.) )
+    (VP (VBZ is) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB report) 
+              (NP (JJ improved) (NNS earnings) ))))
+        (, ,) 
+        (PP-PRP 
+          (ADVP (RB largely) )
+          (IN because) (IN of) 
+          (NP 
+            (NP (JJ increased) 
+              (NX 
+                (NX (NN cable) (NN revenue) )
+                (CC and) 
+                (NX (NN publishing) (NN revenue) )))
+            (VP (VBN helped) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT an) (JJ improved) (JJ retail) (NN market) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NNP Washington) (NN area) )))))))))
+    (. .) ))
+( (S 
+    (PP (VBG According) 
+      (PP (TO to) 
+        (NP (NNS analysts) )))
+    (, ,) 
+    (NP-SBJ-1 (NNS profits) )
+    (VP (VBD were) 
+      (ADVP (RB also) )
+      (VP (VBN helped) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (JJ successful) (JJ cost-cutting) (NNS measures) )
+            (PP-LOC (IN at) 
+              (NP (NNP Newsweek) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN news-weekly) )
+    (VP (VBZ has) 
+      (VP (VBN faced) 
+        (NP 
+          (NP 
+            (NP (JJ heightened) (NN competition) )
+            (PP (IN from) 
+              (NP (JJ rival) (NNP Time) (NN magazine) )))
+          (CC and) 
+          (NP (DT a) 
+            (ADJP (RB relatively) (JJ flat) )
+            (NN magazine) (NN advertising) (NN market) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Knight-Ridder) (NNP Inc.) )
+    (VP 
+      (VP (VBZ is) 
+        (VP (VBN faced) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN with) 
+            (NP 
+              (NP (JJ continued) (NN uncertainty) )
+              (PP (IN over) 
+                (NP 
+                  (NP (DT the) (VBG pending) (JJ joint) (NN operating) (NN agreement) )
+                  (PP (IN between) 
+                    (NP 
+                      (NP (PRP$ its) (NNP Detroit) (NNP Free) (NNP Press) )
+                      (CC and) 
+                      (NP 
+                        (NP (NNP Gannett) (POS 's) )
+                        (NNP Detroit) (NNP News) )))))))))
+      (, ,) 
+      (CC and)
+      (VP (VBZ has) 
+        (VP (VBN told) 
+          (NP (NNS analysts) )
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (NNS earnings) )
+              (VP (VBD were) 
+                (ADVP-PRD (RB down) )
+                (PP-TMP (IN in) 
+                  (NP (DT the) (JJ third) (NN quarter) ))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ (NNS analysts) )
+    (VP (VBP point) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (JJ positive) (NN advertising) (NN spending) )
+          (PP-LOC (IN at) 
+            (NP 
+              (NP (JJ several) )
+              (PP (IN of) 
+                (NP (PRP$ its) (JJ major) (JJ daily) (NNS newspapers) ))
+              (, ,) 
+              (PP (JJ such) (IN as) 
+                (NP 
+                  (NP (DT the) (NNP Miami) (NNP Herald) )
+                  (CC and) 
+                  (NP (NNP San) (NNP Jose) (NNP Mercury) (NNP News) ))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NNP Miami) (NN market) )
+      (VP (VBZ is) 
+        (VP (VBG coming) 
+          (ADVP-DIR (RB back) )
+          (ADVP-MNR (JJ strong) )
+          (PP-TMP (IN after) 
+            (NP 
+              (NP 
+                (NP (DT a) (JJ tough) (NN couple) )
+                (PP (IN of) 
+                  (NP (NNS years) )))
+              ('' '') 
+              (SBAR 
+                (WHADVP-2 (WRB when) )
+                (S 
+                  (S 
+                    (NP-SBJ (NNP Knight-Ridder) )
+                    (`` ``) 
+                    (VP (VBD was) 
+                      (VP (VBG starting) 
+                        (PRT (RP up) )
+                        (NP (DT a) (JJ Hispanic) (NN edition) )
+                        (ADVP-TMP (-NONE- *T*-2) ))))
+                  (CC and) 
+                  (S 
+                    (NP-SBJ (NN circulation) )
+                    (VP (VBD was) 
+                      (VP (VBG falling) 
+                        (ADVP-TMP (-NONE- *T*-2) )))))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Bruce) (NNP Thorp) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN analyst) )
+        (PP (IN for) 
+          (NP (NNP Provident) (NNP National) (NNP Bank) ))))
+    (. .) ))

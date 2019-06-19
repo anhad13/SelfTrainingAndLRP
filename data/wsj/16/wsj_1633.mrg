@@ -1,0 +1,215 @@
+
+( (S 
+    (NP-SBJ (NNP Gillette) (NNP Co.) )
+    (VP (VBD elected) 
+      (NP 
+        (NP (NNP Warren) (NNP E.) (NNP Buffett) )
+        (, ,) 
+        (NP 
+          (NP (NN chairman) )
+          (PP (IN of) 
+            (NP (NNP Berkshire) (NNP Hathaway) (NNP Inc.) )))
+        (, ,) )
+      (PP-CLR (TO to) 
+        (NP (PRP$ its) (NN board) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG increasing) 
+          (NP 
+            (NP (DT the) (NN number) )
+            (PP (IN of) 
+              (NP (NNS directors) )))
+          (PP-DIR (TO to) 
+            (NP (CD 12) ))
+          (PP-DIR (IN from) 
+            (NP (CD 11) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Berkshire) (NNP Hathaway) )
+      (NP-TMP (RBR earlier) (DT this) (NN year) )
+      (VP (VBD bought) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 600) (CD million) )
+            (-NONE- *U*) )
+          (PP (IN of) 
+            (NP 
+              (NP (JJ preferred) (NN stock) )
+              (PP (IN in) 
+                (NP (NNP Gillette) ))
+              (SBAR 
+                (WHNP-2 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-2) )
+                  (VP (VBZ is) 
+                    (ADJP-PRD (JJ convertible) 
+                      (PP (IN into) 
+                        (NP (DT an) 
+                          (ADJP (CD 11) (NN %) )
+                          (NN stake) )))))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (NNP Gillette) )
+      (VP (VBD said) 
+        (PP-TMP (IN at) 
+          (NP (DT the) (NN time) ))
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (NNP Mr.) (NNP Buffett) )
+            (VP (MD would) 
+              (VP (VB be) 
+                (VP (VBN added) 
+                  (NP (-NONE- *-1) )
+                  (PP-CLR (TO to) 
+                    (NP (DT the) (NN board) )))))))))
+    (. .) ))
+( (S 
+    (S 
+      (ADVP (NNP Separately) )
+      (, ,) 
+      (NP-SBJ (NNP Gillette) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP$ its) (JJ third-quarter) (NNS earnings) )
+            (VP (VBD rose) 
+              (NP-EXT (CD 2) (NN %) )
+              (PP-DIR (TO to) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 65.2) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP (CD 57) (NNS cents) )
+                    (NP-ADV (DT a) (NN share) ))))
+              (, ,) 
+              (PP-DIR (IN from) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 63.9) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP (CD 57) (NNS cents) )
+                    (NP-ADV (DT a) (NN share) )))
+                (, ,) 
+                (PP-TMP (IN in) 
+                  (NP (DT the) (JJ year-earlier) (NN period) ))))))))
+    (: ;) 
+    (S 
+      (NP-SBJ (JJ per-share) (NNS earnings) )
+      (VP (VBD remained) 
+        (ADJP-PRD (JJ flat) )
+        (PP (IN despite) 
+          (NP 
+            (NP (DT an) (NN increase) )
+            (PP (IN in) 
+              (NP (JJ net) (NN income) ))))
+        (SBAR-PRP 
+          (PP (IN in) 
+            (NP (NN part) ))
+          (IN because) 
+          (S 
+            (NP-SBJ (DT the) (NN company) )
+            (VP (VBD paid) 
+              (NP (DT a) 
+                (ADJP 
+                  (QP ($ $) (CD 10.4) (CD million) )
+                  (-NONE- *U*) )
+                (NN dividend) )
+              (PP-CLR (IN on) 
+                (NP (DT the) (JJ new) (VBN preferred) (NN stock) ))
+              (PP-TMP (IN in) 
+                (NP (DT the) (NN period) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 9) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 921.6) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 845.7) (CD million) )
+          (-NONE- *U*) ))
+      (, ,) 
+      (SBAR-ADV (IN with) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS sales) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN company) (POS 's) )
+                (JJ international\/diversified) (NNS operations) )))
+          (PP-LOC-PRD (`` ``) (RB well) (JJ above) ('' '') 
+            (NP-TMP (DT the) (NN year) (NN earlier-period) )))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Gillette) (POS 's) )
+      (JJ net) (NN income) )
+    (VP (VBD declined) 
+      (NP-EXT (CD 1) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 205.3) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 2.02) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 207) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 1.82) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) )))
+        (, ,) 
+        (PP-TMP (IN in) 
+          (NP (DT the) (CD 1988) (NN period) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 6) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 2.77) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 2.61) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (JJ composite) (NN trading) )
+        (PP-LOC (IN on) 
+          (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD closed) 
+      (NP-TMP (NN yesterday) )
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 45.50) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (ADVP (RB up) 
+        (NP (CD 25) (NNS cents) )))
+    (. .) ))

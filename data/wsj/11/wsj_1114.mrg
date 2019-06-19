@@ -1,0 +1,28 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Richard) (NNP W.) (NNP Lock) )
+      (, ,) 
+      (NP 
+        (NP (JJ retired) (NN vice) (NN president) 
+          (CC and)
+          (NN treasurer) )
+        (PP (IN of) 
+          (NP (NNP Owens-Illinois) (NNP Inc.) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (NN transportation) (NN industry) (NN supplier) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG increasing) 
+            (NP (PRP$ its) (NN board) )
+            (PP-CLR (TO to) 
+              (NP (CD six) (NNS members) ))))))
+    (. .) ))

@@ -1,0 +1,236 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Mercedes-Benz) )
+        (PP (IN of) 
+          (NP (NNP North) (NNP America) (NNP Inc.) )))
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP (NNP Daimler-Benz) (NNP AG) )))
+      (, ,) )
+    (VP (VBD paid) 
+      (NP (NNP Massachusetts) )
+      (NP 
+        (NP 
+          (QP ($ $) (CD 9.1) (CD million) )
+          (-NONE- *U*) )
+        (PP (IN in) 
+          (NP (NNS taxes) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG bringing) 
+          (PP-CLR (TO to) 
+            (NP (DT an) (NN end) ))
+          (NP (DT a) (JJ 10-month-long) (JJ corporate) (NN tax) (NN chase) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Officials) )
+      (PP-LOC (IN at) 
+        (NP 
+          (NP (DT the) (NNP Department) )
+          (PP (IN of) 
+            (NP (NNP Revenue) )))))
+    (VP 
+      (VP (VBD had) 
+        (VP (VBN dogged) 
+          (NP (DT the) (JJ foreign) (NN car) (NN maker) )
+          (PP-CLR (IN for) 
+            (NP 
+              (NP (NNS taxes) )
+              (VP (VBN owed) 
+                (NP (-NONE- *) )
+                (PP-CLR (IN on) 
+                  (NP (NN business) (NNS transactions) )))))))
+      (CC and) 
+      (VP (VBD were) 
+        (VP (VBG proceeding) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB settle) 
+                (NP (DT the) (NN dispute) )
+                (PP-LOC (IN in) 
+                  (NP (NN court) ))))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 (CC But) (`` ``) 
+      (NP-SBJ (DT the) (NN check) )
+      (VP (VBD arrived) 
+        (PP-LOC (IN in) 
+          (NP (DT the) (NN mail) ))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (NNP Stephen) (NNP Kidder) )
+      (, ,) 
+      (NP 
+        (NP (NNP Massachusetts) (NNP Commissioner) )
+        (PP (IN of) 
+          (NP (NNP Revenue) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mercedes-Benz) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD had) 
+            (VP (VBN said) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBD did) (RB n't) 
+                    (VP (VB owe) 
+                      (NP (NNS taxes) )
+                      (PP-CLR (TO to) 
+                        (NP (NNP Massachusetts) ))
+                      (SBAR-PRP (RB partly) (IN because) 
+                        (S 
+                          (NP-SBJ (PRP it) )
+                          (VP (VBZ sells) 
+                            (NP (PRP$ its) (NNS cars) )
+                            (PP-LOC 
+                              (PP (IN at) 
+                                (NP 
+                                  (NP (DT a) (NN dock) )
+                                  (PP-LOC (IN in) 
+                                    (NP (NNP Baltimore) ))))
+                              (CC and) 
+                              (PP (RB not) (IN in) 
+                                (NP (NNP Massachusetts) ))))))))))))))
+      (, ,) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB explain) 
+        (NP 
+          (NP (PRP$ its) (NN change) )
+          (PP (IN of) 
+            (NP (NN heart) )))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-TMP (JJ Last) (NN month) )
+      (, ,) 
+      (NP-SBJ-2 (NNP Mercedes-Benz) (NNS executives) )
+      (VP (VBD approached) 
+        (NP (NN state) (NN revenue) (NNS officials) )
+        (S-ADV 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (VBG complaining) 
+            (PP-CLR (IN about) 
+              (NP (JJ bad) (NN press) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN commissioner) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN dispute) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT the) (NN subject) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT a) (NNP Wall) (NNP Street) (NNP Journal) (NN article) )
+            (PP-TMP (IN in) 
+              (NP (NNP August) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN amount) )
+    (VP (VBZ covers) 
+      (NP 
+        (NP (NNS taxes) 
+          (, ,)
+          (NN interest) 
+          (CC and)
+          (NNS penalties) )
+        (VP (VBN owed) 
+          (NP (-NONE- *) )
+          (PP-TMP 
+            (PP (IN from) 
+              (NP 
+                (NP (CD 1966) )
+                (, ,) 
+                (SBAR 
+                  (WHADVP-1 (WRB when) )
+                  (S 
+                    (NP-SBJ-2 (DT the) (NN state) )
+                    (VP (VBD began) 
+                      (S 
+                        (NP-SBJ (-NONE- *-2) )
+                        (VP (VBG collecting) 
+                          (NP (JJ corporate) (NNS taxes) )))
+                      (ADVP-TMP (-NONE- *T*-1) ))))
+                (, ,) ))
+            (PP (TO to) 
+              (NP (CD 1985) ))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (NNP Mercedes-Benz) )
+      (ADVP (RB also) )
+      (VP (VBD agreed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB pay) 
+              (NP 
+                (NP (NNS taxes) )
+                (VP (VBN owed) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN for) 
+                    (NP (DT the) (NNS years) (CD 1986) (IN through) (CD 1988) )))))))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Kidder) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (NNP Massachusetts) (NN tax) (NNS laws) ))
+    (, ,) 
+    (NP-SBJ (NNS corporations) )
+    (VP (MD must) 
+      (VP (VB pay) 
+        (NP 
+          (NP (CD 9.5) (NN %) )
+          (PP (IN of) 
+            (NP 
+              (NP (VBN estimated) (NNS profits) )
+              (VP (VBG resulting) 
+                (PP-CLR (IN from) 
+                  (NP 
+                    (NP (NN business) (NNS transactions) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (NN state) ))))))))
+        (SBAR-ADV (IN if) 
+          (S 
+            (NP-SBJ (DT the) (NN company) )
+            (VP (VBZ conducts) 
+              (NP 
+                (NP (DT a) (NN variety) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (JJ non-sales) (NNS activities) )
+                    (, ,) 
+                    (PP (VBG including) 
+                      (NP 
+                        (NP (NNS warranties) )
+                        (, ,) 
+                        (NP (NN customer) (NNS complaints) )
+                        (CC and) 
+                        (NP 
+                          (NP (NNS relations) )
+                          (PP (IN with) 
+                            (NP (JJ independent) (NNS dealerships) )))))))))))))
+    (. .) ))

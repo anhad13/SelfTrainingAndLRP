@@ -1,0 +1,104 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP Japan) )
+      (VP (VBD had) 
+        (NP 
+          (NP (DT an) (JJ unadjusted) (NN trade) (NN surplus) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 1.82) (CD billion) )
+              (-NONE- *U*) )))
+        (PP-TMP (IN for) 
+          (NP 
+            (NP (DT the) (JJ first) (CD 10) (NNS days) )
+            (PP (IN of) 
+              (NP (NNP October) ))))
+        (, ,) 
+        (ADVP (RB down) 
+          (PP (IN from) 
+            (NP 
+              (QP ($ $) (CD 3.16) (CD billion) )
+              (-NONE- *U*) )
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RB earlier) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Finance) (NNP Ministry) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJS latest) (NN drop) )
+    (VP (VBZ shows) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN narrowing) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT the) (NN nation) (POS 's) )
+                (NN trade) (NN gap) ))
+            (VP (VBN reflected) 
+              (NP (-NONE- *) )
+              (PP-LOC (IN in) 
+                (NP (JJ successive) (JJ full) (JJ monthly) (NNS reports) ))))
+          (VP (VBZ is) 
+            (VP (VBG continuing) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN report) )
+    (VP (VBZ follows) 
+      (NP 
+        (NP (JJ five-consecutive) (NNS declines) )
+        (PP (IN in) 
+          (NP (JJ full) (JJ monthly) (NNS figures) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Imports) )
+    (VP 
+      (VP (VBD rose) 
+        (ADVP (RB sharply) )
+        (PP-TMP (IN in) 
+          (NP (DT the) (NN period) ))
+        (, ,) 
+        (PP-DIR (TO to) 
+          (NP 
+            (QP ($ $) (CD 5.19) (CD billion) )
+            (-NONE- *U*) ))
+        (PP-DIR (IN from) 
+          (NP 
+            (QP ($ $) (CD 4.04) (CD billion) )
+            (-NONE- *U*) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RB earlier) )))
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN change) )
+        (PP (IN of) 
+          (NP (CD 28) (NN %) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Exports) )
+      (PP-TMP (IN during) 
+        (NP (DT the) (NN period) )))
+    (VP (VBD were) 
+      (NP-PRD 
+        (NP 
+          (QP ($ $) (CD 7.01) (CD billion) )
+          (-NONE- *U*) )
+        (, ,) 
+        (PP 
+          (NP (CD 2.6) (NN %) )
+          (IN below) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 7.20) (CD billion) )
+              (-NONE- *U*) )
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RB ago) )))))
+    (. .) ))

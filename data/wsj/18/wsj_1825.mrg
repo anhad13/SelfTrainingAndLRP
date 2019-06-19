@@ -1,0 +1,998 @@
+
+( (S 
+    (NP-SBJ (NNS FARMERS) )
+    (VP (VBP REAP) 
+      (NP (JJ abundant) (NNS crops) ))
+    (. .) ))
+( (SBARQ (CC But) 
+    (WHADVP-1 (WRB how) (RB much) )
+    (SQ (MD will) 
+      (NP-SBJ (NNS shoppers) )
+      (VP (VB benefit) 
+        (ADVP-EXT (-NONE- *T*-1) )))
+    (. ?) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NN harvest) )
+      (VP (VBZ arrives) 
+        (PP (RB in) 
+          (NP (NN plenty) ))
+        (PP-TMP (IN after) 
+          (NP 
+            (NP (JJ last) (NN year) (POS 's) )
+            (JJ drought-ravaged) (NN effort) ))))
+    (: :) 
+    (S 
+      (NP-SBJ (DT The) (NN government) )
+      (VP (VBZ estimates) 
+        (NP (NN corn) (NN output) )
+        (PP-CLR (IN at) 
+          (NP 
+            (NP 
+              (QP (CD 7.45) (CD billion) )
+              (NNS bushels) )
+            (, ,) 
+            (ADVP (RB up) 
+              (NP (CD 51) (NN %) )
+              (PP (IN from) 
+                (NP (JJ last) (NN fall) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Soybean) (NN production) )
+    (VP (VBZ swells) 
+      (NP-EXT (CD 24) (NN %) ))
+    (. .) ))
+( (S 
+    (PP-PRP (IN As) 
+      (NP (DT a) (NN result) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNS prices) )
+      (VP (VBN paid) 
+        (NP (-NONE- *) )
+        (PP-DTV (TO to) 
+          (NP (NNS farmers) ))
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (DT the) (NNS commodities) )
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (NP-SBJ-1 (-NONE- *T*-2) )
+                (VP (VBP are) 
+                  (VP (VBN used) 
+                    (NP (-NONE- *-1) )
+                    (PP-LOC (IN in) 
+                      (NP 
+                        (NP (NNS products) )
+                        (ADJP 
+                          (ADJP (RB as) (JJ diverse) )
+                          (PP (IN as) 
+                            (NP 
+                              (NP (NN bubble) (NN gum) )
+                              (CC and) 
+                              (NP (NN chicken) (NN feed) ))))))))))
+            (, ,) ))))
+    (VP (VBP plummet) 
+      (NP-EXT 
+        (NP (CD 20) (NN %) )
+        (TO to) 
+        (NP (CD 33) (NN %) )))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (-NONE- *) )
+    (VP (VBP do) (RB n't) 
+      (VP (VB expect) 
+        (NP (RB too) (RB much) )
+        (PP (IN in) 
+          (NP 
+            (NP (DT the) (NN way) )
+            (PP (IN of) 
+              (NP 
+                (NP (NN price) (NNS breaks) )
+                (ADVP-TMP (RB soon) )
+                (PP-LOC (IN at) 
+                  (NP (DT the) (NN supermarket) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Economists) )
+    (VP (VBP expect) 
+      (S 
+        (NP-SBJ (NN consumer) (NN food) (NNS prices) )
+        (VP (TO to) 
+          (VP (VB jump) 
+            (NP-EXT (CD 5.5) (NN %) )
+            (NP-TMP (DT this) (NN year) )
+            (UCP 
+              (PP-DIR (TO to) 
+                (NP 
+                  (NP (DT the) (JJS highest) (NN level) )
+                  (PP-TMP (IN since) 
+                    (NP (CD 1980) ))))
+              (CC and) 
+              (ADVP (RB up) 
+                (PP (IN from) 
+                  (NP 
+                    (NP (JJ last) (NN year) (POS 's) )
+                    (ADJP (CD 4.1) (NN %) )
+                    (NN rise) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Next) (NN year) )
+    (VP (MD may) 
+      (VP (VB see) 
+        (NP 
+          (NP (DT a) (NN drop) )
+          (PP (IN of) 
+            (NP (CD one) (NN percentage) (NN point) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NN Beef) (NNS prices) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG hovering) 
+        (PP-LOC (IN near) 
+          (NP (NNS records) ))
+        (PP-TMP (IN since) 
+          (NP (DT the) (NN drought) ))))
+    (, ,) 
+    (VP (MD could) 
+      (VP (VB drop) 
+        (PP (IN in) 
+          (ADJP (NN earnest) ))
+        (NP-TMP (DT this) (NN winter) )
+        (SBAR-ADV (IN if) 
+          (S 
+            (NP-SBJ (NNS ranchers) )
+            (VP (VBP expand) 
+              (NP (NNS herds) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (JJR Lower) (NN feed) (NNS prices) )
+      (VP (MD may) 
+        (VP (VB help) 
+          (S 
+            (NP-SBJ (NNS animals) )
+            (VP (VB eat) 
+              (ADVP-MNR (RBR more) (RB cheaply) ))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-1 (NNS humans) )
+      (VP (VBP have) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB factor) 
+              (PRT (RP in) )
+              (NP 
+                (NP (DT an) (JJ expensive) (NN middleman) )
+                (: :) 
+                (NP (DT the) (NN processor) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NN Food) (NNS companies) )
+    (ADVP (RB probably) )
+    (VP (MD wo) (RB n't) 
+      (VP (VB cut) 
+        (NP (PRP$ their) (NNS prices) )
+        (NP-EXT (RB much) )
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG blaming) 
+            (NP (JJ other) (NNS costs) )))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (NN Labor) )
+      (VP (VBZ takes) 
+        (NP (DT the) (JJS biggest) (JJ single) (NN chunk) )
+        (PP-DIR (IN out) 
+          (PP (IN of) 
+            (NP (DT the) (`` `) (NN food) (NN dollar) )))))
+    (, ,) ('' ') ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Frank) (NNP Pankyo) )
+      (PP (IN of) 
+        (NP (DT the) (NNP Food) (NNP Institute) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Stokely) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNS stores) )
+          (VP (VBP revive) 
+            (NP 
+              (NP (NNS specials) )
+              (PP (IN like) 
+                (NP 
+                  (NP (CD three) (NNS cans) )
+                  (PP (IN of) 
+                    (NP (NNS peas) ))
+                  (PP (IN for) 
+                    (NP (CD 99) (NNS cents) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (CD Two) (NNS cans) )
+    (VP (VBD cost) 
+      (NP (CD 89) (NNS cents) )
+      (PP-TMP (IN during) 
+        (NP (DT the) (NN drought) )))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN IF) 
+      (S 
+        (NP-SBJ 
+          (ADJP (IN IN) (NNP VITRO) )
+          (NN fertilization) )
+        (VP (VBZ works) )))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (ADVP-TMP (RB usually) )
+    (VP (VBZ does) 
+      (ADVP-PRD (RB so) )
+      (PP-TMP (IN after) 
+        (NP 
+          (QP (RB only) (DT a) (JJ few) )
+          (NNS tries) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Costly) (NN infertility) (NNS problems) 
+      (CC and)
+      (NNS procedures) )
+    (VP (VBP proliferate) 
+      (SBAR-TMP (IN as) 
+        (S 
+          (NP-SBJ-1 
+            (NP (VBG aging) (NN baby) (NNS boomers) )
+            (CC and) 
+            (NP (NNS others) ))
+          (VP (VBP decide) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB have) 
+                  (NP (NNS children) )
+                  (: --) 
+                  (ADVP-TMP (RB now) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ 's) 
+        (VP (VBN estimated) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ 
+                (QP (CD one) (IN in) (CD six) )
+                (NNS couples) )
+              (VP (VBZ experiences) 
+                (NP (NN infertility) )))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (PP-TMP (IN in) 
+        (NP (CD 1987) ))
+      (, ,) 
+      (NP-SBJ-1 (NNPS Americans) )
+      (VP (VBD spent) 
+        (NP 
+          (QP (IN about) ($ $) (CD 1) (CD billion) )
+          (-NONE- *U*) )
+        (S-PRP 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB fight) 
+              (NP (DT the) (NN problem) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (QP (RB Only) (IN about) (CD five) )
+        (NNS states) )
+      (ADVP-TMP (RB now) )
+      (VP (VBP offer) 
+        (NP 
+          (NP (DT some) (NN form) )
+          (PP (IN of) 
+            (NP (NN insurance) (NN coverage) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-1 (JJR more) )
+      (VP (VBP are) 
+        (VP (VBN expected) 
+          (NP (-NONE- *-1) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN letter) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT the) (NNP New) (NNP England) (NNP Journal) )
+          (PP (IN of) 
+            (NP (NNP Medicine) )))))
+    (VP (VBZ notes) 
+      (SBAR (IN that) 
+        (S 
+          (SBAR-ADV (IN while) 
+            (S 
+              (NP-SBJ (NN technology) )
+              (VP (VBZ offers) (`` ``) 
+                (NP 
+                  (ADJP (RB almost) (JJ endless) )
+                  (NN hope) ))))
+          (: ...) 
+          (SBAR-NOM-SBJ 
+            (WHADVP-1 (WRB when) )
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB stop) 
+                  (ADVP-TMP (-NONE- *T*-1) )))))
+          (VP (VBZ has) 
+            (VP (VBN become) 
+              (NP-PRD (DT a) (JJ difficult) (NN question) ))))))
+    (: ...) (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS authors) )
+      (, ,) 
+      (PP (IN from) 
+        (NP 
+          (NP (NNP Boston) (POS 's) )
+          (NNP Beth) (NNP Israel) (NNP Hospital) ))
+      (, ,) )
+    (VP (VBP say) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (CD 84) (NN %) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (CD 50) (NNS births) )
+                (SBAR 
+                  (WHNP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (PRP they) )
+                    (VP (VBD followed) 
+                      (NP (-NONE- *T*-1) )))))))
+          (VP (VBD occurred) 
+            (PP-TMP (IN after) 
+              (NP 
+                (QP (RB only) (CD two) )
+                (ADJP (IN in) (NN vitro) )
+                (NNS cycles) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP 
+      (VP (VBZ adds) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (NNS births) )
+            (VP (VBD were) (`` ``) 
+              (ADJP-PRD (RB extremely) (JJ unlikely) )
+              ('' '') 
+              (PP-TMP (IN after) 
+                (NP (DT the) (JJ fourth) (NN cycle) ))))))
+      (CC and) 
+      (VP (VBZ concludes) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-1 
+              (NP (NNS couples) )
+              (SBAR 
+                (WHNP-2 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-2) )
+                  (VP (VBP do) (RB n't) 
+                    (VP (VB achieve) 
+                      (NP (DT a) (NN pregnancy) )
+                      (PP-TMP (IN after) 
+                        (NP 
+                          (QP (CD four) (TO to) (CD six) )
+                          (NNS procedures) )))))))
+            (VP (MD should) 
+              (VP (VB be) 
+                (VP (VBN advised) 
+                  (NP (-NONE- *-1) )
+                  (SBAR (DT that) 
+                    (S 
+                      (NP-SBJ (NN success) )
+                      (VP (VBZ is) 
+                        (ADJP-PRD (JJ unlikely) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT Some) (NNS couples) )
+    (VP (VBP continue) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB try) ))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (JJ Such) (NN determination) )
+      (VP (MD may) 
+        (VP (VB translate) 
+          (PP-CLR (IN into) 
+            (NP (JJ extreme) 
+              (ADJP (NN physical) 
+                (, ,)
+                (JJ emotional) 
+                (CC and)
+                (JJ financial) )
+              (NNS costs) )))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT the) (NN letter) )
+    (VP (VBZ warns) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S-HLN 
+    (S 
+      (NP-SBJ (NN MARKET) )
+      (VP (VBZ MOVES) ))
+    (, ,) 
+    (S 
+      (NP-SBJ (DT these) (NNS managers) )
+      (VP (VBP do) (RB n't) 
+        (VP (-NONE- *?*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (RB Only) (CD three) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (CD 25) (JJ corporate) (NN pension) (NN fund) (NNS managers) )
+          (VP (VBG attending) 
+            (NP (DT a) (NNP Lowry) (NNP Consulting) (NNP Group) (NN client) (NN conference) )))))
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP they) )
+          (VP (VBP plan) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB change) 
+                  (NP 
+                    (NP (DT the) (NN asset) (NN allocation) (NN mix) )
+                    (PP-LOC (IN in) 
+                      (NP (PRP$ their) (NNS portfolios) ))))))
+            (PP-PRP (IN because) (IN of) 
+              (NP (DT the) (NN market) (NN drop) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN WORLD) (NNS ODDITIES) )
+    (VP (VBP come) 
+      (ADJP-PRD (JJ alive) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT a) (NNS multimedia) (NN version) )
+          (PP (IN of) 
+            (NP-TTL 
+              (NP (DT the) (NNP Guinness) (NNP Book) )
+              (PP (IN of) 
+                (NP (NNPS Records) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) 
+        (ADJP ($ $) (CD 99) (-NONE- *U*) )
+        (NN CD-ROM) (NN disk) )
+      (PRN 
+        (-LRB- -LRB-)
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (MD can) 
+            (ADVP (RB only) )
+            (VP (VB be) 
+              (VP (VBN played) 
+                (NP (-NONE- *-1) )
+                (PP-LOC (IN on) 
+                  (NP (DT an) (NNP Apple) (NNP Macintosh) (NN computer) ))
+                (PP-TMP (IN at) 
+                  (NP (DT the) (NN moment) ))))))
+        (-RRB- -RRB-) ))
+    (VP (VBZ combines) 
+      (NP (NN animation) 
+        (, ,)
+        (NN music) 
+        (CC and)
+        (NN sound) ))
+    (. .) ))
+( (FRAG 
+    (PP-LOC (IN Among) 
+      (NP 
+        (NP (DT the) (NNP Guinness) (NN disk) (POS 's) )
+        (NNS wonders) ))
+    (: :) 
+    (NP 
+      (NP (DT the) (NN world) (POS 's) )
+      (JJS loudest) (VBN recorded) (NN belch) )
+    (. .) ))
+( (S-HLN 
+    (NP-SBJ 
+      (NP (NNP ARTY) (NNP FAX) )
+      (PP (IN from) 
+        (NP (NNP David) (NNP Hockney) )))
+    (VP (VBZ begins) 
+      (NP (DT a) (JJ tongue-in-cheek) (NN exhibit) )
+      (NP-TMP (NN today) )
+      (PP-LOC (IN at) 
+        (NP 
+          (NP (NNP New) (NNP York) (POS 's) )
+          (NNP Andre) (NNP Emmerich) (NNP Gallery) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (CD One) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NN artist) (POS 's) )
+          (JJS earliest) (NN Fax) (NNS works) )))
+    (VP (VBD was) 
+      (NP-PRD (`` ``) 
+        (NP-TTL 
+          (NP (JJ Little) (NNP Stanley) )
+          (VP (VBG Sleeping) ))
+        (, ,) ('' '') 
+        (NP 
+          (NP (DT a) (NN portrait) )
+          (PP (IN of) 
+            (NP (PRP$ his) (NN dog) )))))
+    (. .) ))
+( (S-HLN 
+    (NP-SBJ (NNS PACS) )
+    (VP (VBP GIVE) 
+      (CC and)
+      (VBP receive) 
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT a) (JJ debatable) (NN duet) )
+          (PP (IN with) 
+            (NP 
+              (NP (NNS employees) (POS ') )
+              (JJ favored) (NNS charities) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Federal) (NNP Election) (NNP Commission) )
+    (VP (VBZ clears) 
+      (NP (JJ corporate) (NNS plans) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB donate) 
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP (DT an) (NN employee) (POS 's) )
+                  (VBN chosen) (NN charity) ))
+              (PP (IN in) 
+                (NP 
+                  (NP (NN exchange) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP 
+                        (NP (DT the) (NN worker) (POS 's) )
+                        (NN gift) )
+                      (PP (TO to) 
+                        (NP (DT the) (NN company) (JJ political) (NN action) (NN committee) )))))))))))
+    (. .) ))
+( (NP 
+    (NP (JJS Latest) (NNS approvals) )
+    (: :) 
+    (NP 
+      (NP 
+        (NP (NNP Bell) (NNP Atlantic) (POS 's) )
+        (NNP New) (NNP Jersey) (NNP Bell) )
+      (CC and) 
+      (NP (NNP General) (NNPS Dynamics) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Companies) )
+    (VP (VBP get) 
+      (NP 
+        (NP (JJR more) (JJ political) (NN clout) )
+        (IN plus) 
+        (NP (DT a) (JJ possible) (JJ tax-deductible) (JJ charitable) (NN donation) ))
+      (FRAG (: --) 
+        (ADVP-TMP (RB so) (RB far) )
+        (NP 
+          (NP (DT no) (NN word) )
+          (PP (IN from) 
+            (NP (DT the) (NNP IRS) ))
+          (PP (IN on) 
+            (NP (NN deductibility) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Detroit) (NNP Edison) )
+      (, ,) 
+      (NP (DT the) (NN plan) (NN pioneer) )
+      (, ,) )
+    (VP (VBD generated) 
+      (NP 
+        (NP ($ $) (CD 54,000) (-NONE- *U*) )
+        (PP (IN in) 
+          (NP (VBG matching) (NNS funds) ))
+        (ADVP (-NONE- *ICH*-1) ))
+      (NP-TMP (DT this) (NN year) )
+      (, ,) 
+      (ADVP-1 (RB up) 
+        (PP (IN from) 
+          (NP ($ $) (CD 39,000) (-NONE- *U*) )
+          (PP-TMP (IN in) 
+            (NP (CD 1988) )))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT the) (NN utility) )
+    (VP (MD may) (RB not) 
+      (VP (VB continue) 
+        (NP-TMP (JJ next) (NN year) )))
+    (. .) ))
+( (SINV-1 (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ (PRP We) )
+      (VP (VBP 're) 
+        (PP-PRD (IN on) 
+          (NP (DT a) (JJ tight) (NN budget) ))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP Detroit) (NNP Edison) (POS 's) )
+      (NNP Carol) (NNP Roskind) )
+    (. .) ))
+( (S 
+    (NP-SBJ (CD Two) (NN election) (NN commission) (NNS members) )
+    (VP (VBD opposed) 
+      (NP (DT the) (NN matching) (NNS plans) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Scott) (NNP E.) (NNP Thomas) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS plans) )
+          (VP (VBP give) 
+            (NP (NNS employees) )
+            (`` ``) 
+            (NP 
+              (NP (DT a) (NN bonus) )
+              (PP (IN in) 
+                (NP 
+                  (NP (DT the) (NN form) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (JJ charitable) (NNS donations) )
+                      (VP (VBN made) 
+                        (NP (-NONE- *) )
+                        (PP-CLR (IN from) 
+                          (NP 
+                            (NP (DT an) (NN employer) (POS 's) )
+                            (NN treasury) ))))))))
+            ('' '') 
+            (PP (IN in) 
+              (NP 
+                (NP (NN exchange) )
+                (PP (IN for) 
+                  (NP (DT the) (JJ political) (NN donation) ))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NNP U.S.) (NN government) )
+      (VP (MD could) 
+        (VP (VB be) 
+          (, ,)
+          (PP (IN in) 
+            (NP (NN effect) ))
+          (, ,) 
+          (VP (VBG subsidizing) 
+            (NP 
+              (NP (JJ political) (NNS contributions) )
+              (PP (TO to) 
+                (NP (JJ corporate) (NNS PACs) )))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP New) (NNP Jersey) (NNP Bell) )
+    (VP (VBZ awaits) 
+      (NP (NN state) (NN clearance) ))
+    (. .) ))
+( (S 
+    (PP (IN Despite) 
+      (NP (JJ federal) (NN approval) ))
+    (, ,) 
+    (NP-SBJ (NNP General) (NNPS Dynamics) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD decided) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (MD wo) (RB n't) 
+                  (VP (VB go) 
+                    (ADVP-CLR (RB ahead) )
+                    (PP (IN with) 
+                      (NP (DT the) (NN matching) (NN program) ))))))))))
+    (. .) ))
+( (S-HLN 
+    (NP-SBJ (NNP CHRISTMAS) (NNS SHOPPERS) )
+    (VP (VBP find) 
+      (NP (DT a) (VBG helping) (NN hand) )
+      (PP (IN from) 
+        (NP (DT some) (NN catalog) (NNS companies) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Blunt) (NNP Ellis) (CC &) (NNP Loewi) )
+    (VP (VBZ estimates) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ direct) (NN mail) (NN catalog) (NNS sales) )
+          (VP (VBD rose) 
+            (PP-DIR (TO to) 
+              (NP 
+                (QP ($ $) (CD 12) (CD billion) )
+                (-NONE- *U*) ))
+            (NP-TMP (JJ last) (NN year) )))))
+    (. .) ))
+( (S (CC And) 
+    (SBAR-ADV (IN while) 
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP (VBZ 's) 
+          (ADVP-PRD 
+            (ADVP (RB too) (RB soon) )
+            (SBAR 
+              (WHADVP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB tell) 
+                    (SBAR 
+                      (WHADVP-2 (WRB how) )
+                      (S 
+                        (NP-SBJ (NNS sales) )
+                        (VP (MD will) 
+                          (VP (VB fare) 
+                            (ADVP-MNR (-NONE- *T*-2) )
+                            (PP-TMP (IN in) 
+                              (NP (DT the) (JJ important) (CD 1989) (NNP Christmas) (NN season) ))))))
+                    (ADVP-TMP (-NONE- *T*-1) )))))))))
+    (, ,) 
+    (NP-SBJ (DT some) (NNS companies) )
+    (VP (VBP take) 
+      (NP 
+        (NP (NNS steps) )
+        (SBAR 
+          (WHADVP-3 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB ease) 
+                (NP (DT the) (JJ usual) (JJ 11th-hour) (NN crush) )
+                (ADVP-MNR (-NONE- *T*-3) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Spiegel) )
+    (VP (VBZ promises) 
+      (NP (DT a) (`` ``) (JJ Guaranteed) (NNP Christmas) )
+      (, ,) ('' '') 
+      (PP (IN with) 
+        (NP (DT a) (NN pledge) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB deliver) 
+                (NP (NNS goods) )
+                (PP-TMP (IN before) 
+                  (NP (NNP Christmas) ))
+                (SBAR-ADV (IN if) 
+                  (S 
+                    (NP-SBJ-1 (-NONE- *) )
+                    (VP (VBN ordered) 
+                      (NP (-NONE- *-1) )
+                      (PP-TMP (IN by) 
+                        (NP (NNP Dec.) (CD 20) )))))))))))
+    (. .) ))
+( (S 
+    (S (CC And) 
+      (, ,)
+      (PP (IN for) 
+        (NP (DT an) (JJ extra) ($ $) (CD 6) (-NONE- *U*) ))
+      (, ,) 
+      (NP-SBJ 
+        (NP (NNP Land) (POS 's) )
+        (NNP End) )
+      (VP (MD will) 
+        (VP (VB deliver) 
+          (NP (NNS orders) )
+          (PP-TMP (IN within) 
+            (NP (CD two) (NNS days) )))))
+    (: ;) 
+    (S 
+      (NP-SBJ (NNS customers) )
+      (VP (MD can) 
+        (VP (VB designate) 
+          (NP (DT the) (NN day) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Spiegel) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (ADVP (RB also) )
+          (VP (VBZ owns) 
+            (NP 
+              (NP (NNP Eddie) (NNP Bauer) )
+              (CC and) 
+              (NP (NNP Honeybee) )))))
+      (, ,) )
+    (VP (VBZ says) 
+      (SBAR (IN that) 
+        (S 
+          (PP-TMP (IN since) 
+            (NP (CD 1987) ))
+          (, ,) 
+          (NP-SBJ (NNS sales) )
+          (VP (VBP have) 
+            (VP (VBN doubled) 
+              (PP-TMP (IN during) 
+                (NP 
+                  (NP (DT the) (NN week) )
+                  (PP (IN before) 
+                    (NP (NNP Christmas) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT An) (NNP L.L.) (NNP Bean) (NN spokeswoman) )
+    (VP (VBZ notes) (: :) (`` ``) 
+      (S 
+        (NP-SBJ-1 (NNS People) )
+        (VP (VBP are) 
+          (ADVP (RB just) )
+          (ADJP-PRD (VBN used) 
+            (PP (TO to) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG living) 
+                  (PP-LOC-CLR (IN in) 
+                    (NP (DT a) (JJ last-minute) (NN society) )))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Blunt) (NNP Ellis) )
+      (, ,) 
+      (NP (DT a) (NNP Milwaukee) (NN brokerage) (NN firm) )
+      (, ,) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NN part) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN reason) )
+                (SBAR 
+                  (WHADVP-3 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (NN catalog) (NNS sales) )
+                    (VP (VBP grow) 
+                      (PP (IN in) 
+                        (NP (NN popularity) ))
+                      (ADVP-PRP (-NONE- *T*-3) )))))))
+          (VP (VBZ is) 
+            (SBAR-PRP-PRD (IN because) 
+              (S 
+                (NP-SBJ (NNS consumers) )
+                (VP (VBP have) 
+                  (NP 
+                    (NP (JJR more) (NN money) )
+                    (CC but) 
+                    (NP 
+                      (NP (JJR less) (NN time) )
+                      (SBAR 
+                        (WHADVP-1 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (TO to) 
+                            (VP (VB spend) 
+                              (NP (PRP it) )
+                              (ADVP-TMP (-NONE- *T*-1) ))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP L.L.) (NNP Bean) )
+      (VP (VBZ hires) 
+        (NP 
+          (NP 
+            (QP (IN about) (CD 2,700) )
+            (NNS workers) )
+          (ADJP (-NONE- *ICH*-1) ))
+        (PP (IN for) 
+          (NP (DT the) (NN season) (NN rush) ))
+        (, ,) 
+        (ADJP-1 
+          (ADJP 
+            (NP 
+              (QP (IN about) (CD 300) ))
+            (JJR more) )
+          (PP (IN than) 
+            (NP (JJ last) (NN year) )))))
+    (: ;) 
+    (S 
+      (NP-SBJ 
+        (NP (NNP Land) (POS 's) )
+        (NNP End) )
+      (VP (VBZ hires) 
+        (NP (CD 2,000) )))
+    (. .) ))
+( (NP-HLN (NNS BRIEFS) (: :) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Guarana) (NNP Antarctica) )
+      (, ,) 
+      (NP (DT a) (JJ Brazilian) (JJ soft) (NN drink) ))
+    (, ,) 
+    (VP (VBZ is) 
+      (VP (VBN brought) 
+        (NP (-NONE- *-1) )
+        (PP-DIR (TO to) 
+          (NP (DT the) (NNP U.S.) ))
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (NNP Amcap) )
+            (, ,) 
+            (NP-LOC 
+              (NP (NNP Chevy) (NNP Chase) )
+              (, ,) 
+              (NP (NNP Md) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP New) (NNP Product) (NNP News) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN beverage) )
+          (`` ``) 
+          (VP 
+            (VP (VBZ looks) 
+              (PP-CLR (IN like) 
+                (NP (NN ginger) (NN ale) )))
+            (, ,) 
+            (VP (VBZ tastes) 
+              (PP-CLR 
+                (NP (DT a) (JJ little) )
+                (JJ like) 
+                (NP (NNS cherries) )))
+            (CC and) 
+            (VP (VBZ smells) 
+              (PP-CLR (IN like) 
+                (NP (NN bubble) (NN gum) )))))))
+    (. .) ('' '') (: ...) ))
+( (S 
+    (NP-SBJ (`` ``) 
+      (NP (NNS Amenities) )
+      ('' '') 
+      (VP (VBN planned) 
+        (NP (-NONE- *) )
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (NNP Chicago) (POS 's) )
+            (JJ new) (NNP Parkshore) (NNP Tower) (NNS apartments) ))))
+    (VP (VBP include) 
+      (NP (DT an) (JJ on-site) (NN investment) (NN counselor) ))
+    (. .) ))

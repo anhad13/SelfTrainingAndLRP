@@ -1,0 +1,72 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Roche) (NNP Holding) (NNP AG) )
+      (, ,) 
+      (NP 
+        (NP (NN parent) )
+        (PP (IN of) 
+          (NP (DT the) (JJ Swiss) (NN chemical) 
+            (CC and)
+            (JJ pharmaceutical) (NN group) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN group) (NNS sales) )
+          (VP (VBD rose) 
+            (NP-EXT (CD 22) (NN %) )
+            (PP-TMP (IN in) 
+              (NP 
+                (NP (DT the) (JJ first) (CD nine) (NNS months) )
+                (PP (IN of) 
+                  (NP (DT the) (NN year) ))))
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP (CD 7.32) (CD billion) )
+                  (NNS francs) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP 
+                    (QP ($ $) (CD 4.51) (CD billion) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (JJ good) (NNS gains) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT all) )
+            (PP (IN of) 
+              (NP (PRP$ its) (NNS divisions) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Roche) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ expects) 
+            (NP 
+              (NP (DT a) (`` ``) (JJ considerable) (NN rise) ('' '') )
+              (PP-LOC (IN in) 
+                (NP (CD 1989) (NN group) (NN profit) ))
+              (PP (IN from) 
+                (NP 
+                  (NP (DT the) 
+                    (ADJP (CD 641.5) (JJ million-franc) )
+                    (PRN 
+                      (-LRB- -LRB-)
+                      (ADJP 
+                        (QP ($ $) (CD 396) (CD million) )
+                        (-NONE- *U*) )
+                      (-RRB- -RRB-) )
+                    (NN net) )
+                  (PP-TMP (IN in) 
+                    (NP (CD 1988) )))))))))
+    (. .) ))

@@ -1,0 +1,232 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP Federal) (NNP Trade) (NNP Commission) )
+    (VP (VBD ruled) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (CD five) (JJ major) (JJ title-insurance) (NNS companies) )
+          (ADVP-MNR (RB illegally) )
+          (VP (VBN fixed) 
+            (NP 
+              (NP (NNS prices) )
+              (PP (IN for) 
+                (NP (NN title) (JJ search-and-examination) (NNS services) )))
+            (PP-MNR (IN by) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG participating) 
+                  (PP-CLR (IN in) 
+                    (NP (JJ joint) (`` ``) (NN rating) (NN bureaus) ('' '') ))
+                  (PP-LOC (IN in) 
+                    (NP (CD six) (NNS states) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP FTC) )
+    (VP (VBD ordered) 
+      (NP-1 (DT the) (NNS companies) )
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (RB not) 
+        (VP (TO to) 
+          (VP (VB use) 
+            (NP (NN rating) (NN bureaus) )
+            (PP-LOC (IN in) 
+              (NP (DT those) (CD six) (NNS states) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN commission) (NN order) )
+    (VP (VBD named) 
+      (NP 
+        (NP (DT the) (JJ following) (NNS companies) )
+        (: :) 
+        (NP 
+          (NP 
+            (NP 
+              (NP (NNP Ticor) (NNP Title) (NNP Insurance) (NNP Co.) )
+              (PP (IN of) 
+                (NP (NNP California) )))
+            (, ,) 
+            (NP 
+              (NP (DT a) (NN unit) )
+              (PP (IN of) 
+                (NP 
+                  (ADJP (NNP Los) (JJ Angeles-based) )
+                  (NNP Ticor) ))))
+          (: ;) 
+          (NP 
+            (NP 
+              (NP (NNP Chicago) (NNP Title) (NNP Insurance) (NNP Co.) )
+              (CC and) 
+              (NP (NNP Safeco) (NNP Title) (NNP Insurance) (NNP Co.) ))
+            (, ,) 
+            (NP 
+              (NP (NNS units) )
+              (PP (IN of) 
+                (NP (NNP Chicago) (NNP Title) (CC &) (NNP Trust) (NNP Co.) ))))
+          (: ;) 
+          (NP 
+            (NP (NNP Lawyers) (NNP Title) (NNP Insurance) (NNP Corp.) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NN unit) )
+              (PP (IN of) 
+                (NP 
+                  (ADJP (NNP Richmond) 
+                    (, ,)
+                    (JJ Va.-based) )
+                  (NNP Universal) (NNP Corp.) ))))
+          (: ;) 
+          (CC and)
+          (NP 
+            (NP (NNP Stewart) (NNP Title) (NNP Guaranty) (NNP Co.) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NN unit) )
+              (PP (IN of) 
+                (NP (JJ Houston-based) (NNP Stewart) (NNP Information) (NNP Services) (NNP Corp) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Chicago) (NNP Title) (CC &) (NNP Trust) )
+    (VP 
+      (VP (VBD acquired) 
+        (NP (NNP Safeco) )
+        (PP-TMP (IN in) 
+          (NP (CD 1987) )))
+      (CC and) 
+      (VP (VBD changed) 
+        (NP 
+          (NP (DT the) (NN unit) (POS 's) )
+          (NN name) )
+        (PP-CLR (TO to) 
+          (NP (NNP Security) (NNP Union) (NNP Title) (NNP Insurance) (NNP Co) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP FTC) )
+    (VP (VBD ruled) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (DT the) (NNS companies) )
+          (VP (VBD violated) 
+            (NP (JJ federal) (JJ antitrust) (NN law) )
+            (PP-MNR (IN by) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG fixing) 
+                  (NP (NNS rates) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (DT the) (JJ following) (NNS states) )
+                      (: :) 
+                      (NP 
+                        (NP (NNP New) (NNP Jersey) )
+                        (, ,) 
+                        (NP (NNP Pennsylvania) )
+                        (, ,) 
+                        (NP (NNP Connecticut) )
+                        (, ,) 
+                        (NP (NNP Wisconsin) )
+                        (, ,) 
+                        (NP (NNP Arizona) )
+                        (CC and) 
+                        (NP (NNP Montana) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP FTC) )
+    (ADVP-TMP (RB first) )
+    (VP (VBD issued) 
+      (NP (DT an) (JJ administrative) (NN complaint) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NN case) ))
+      (PP-TMP (IN in) 
+        (NP (CD 1985) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP John) (NNP Christie) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN lawyer) )
+        (ADVP-LOC (RB here) )
+        (PP (IN for) 
+          (NP (DT the) (CD two) (NNP Chicago) (NNP Title) (CC &) (NNP Trust) (NNS units) ))))
+    (VP (VBD accused) 
+      (NP-1 (DT the) (NNP FTC) )
+      (PP-CLR (IN of) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (`` ``) (NN second-guessing) ('' '') 
+            (NP 
+              (NP (JJ state-level) (NNS regulations) )
+              (, ,) 
+              (SBAR 
+                (WHPP-2 (IN with) 
+                  (WHNP (WDT which) ))
+                (PRN 
+                  (, ,)
+                  (S 
+                    (NP-SBJ (PRP he) )
+                    (VP (VBD said) 
+                      (SBAR (-NONE- 0) 
+                        (S (-NONE- *T*-3) ))))
+                  (, ,) )
+                (S-3 
+                  (NP-SBJ (PRP$ his) (NNS clients) )
+                  (VP (VBD had) 
+                    (VP (VBN complied) 
+                      (PP-CLR (-NONE- *T*-2) ))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP I) )
+      (VP (VBP expect) 
+        (S 
+          (NP-SBJ (DT all) (DT the) (NNS companies) )
+          (VP (TO to) 
+            (VP (VB appeal) )))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD added) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN lawyer) )
+      (PP (IN for) 
+        (NP (NNP Lawyers) (NNP Title) )))
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (, ,)
+        (S 
+          (SBAR-PRP (IN because) 
+            (S 
+              (NP-SBJ (DT the) (VBN named) (NNS companies) )
+              (ADVP-TMP (RB no) (RB longer) )
+              (VP (VBP use) 
+                (NP 
+                  (NP (DT the) (NN type) )
+                  (PP (IN of) 
+                    (NP (JJ cooperative) (NN rating) (NN bureaus) ))
+                  (VP (VBN attacked) 
+                    (NP (-NONE- *) )
+                    (PP (IN by) 
+                      (NP-LGS (DT the) (NNP FTC) )))))))
+          (, ,) 
+          (NP-SBJ 
+            (NP (DT the) (NN commission) (POS 's) )
+            (NN order) )
+          (VP (MD wo) (RB n't) 
+            (VP (VB have) 
+              (NP (JJ much) (JJ practical) (NN impact) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Officials) )
+      (PP (IN for) 
+        (NP (DT the) (JJ other) (VBN named) (NNS companies) )))
+    (VP (VBD did) (RB n't) 
+      (VP (VB return) 
+        (NP 
+          (NP (NN telephone) (NNS calls) )
+          (VP (VBG seeking) 
+            (NP (NN comment) )))))
+    (. .) ))

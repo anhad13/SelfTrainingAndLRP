@@ -1,0 +1,253 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Wall) (NNP Street) (NNS securities) (NN giant) (NNP Salomon) (NNP Inc.) )
+    (VP (VBD posted) 
+      (NP (DT a) (JJ big) 
+        (, ,)
+        (JJ unexpected) (NNS earnings) (NN gain) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJ third) (NN quarter) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (VBN buoyed) 
+          (NP (-NONE- *-2) )
+          (PP (IN by) 
+            (NP-LGS (PRP$ its) (NNS securities) (NN trading) 
+              (CC and)
+              (NN investment) (NN banking) (NNS activities) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Salomon) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ net) (NN income) )
+          (VP (VBD soared) 
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 177) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP ($ $) (CD 1.28) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 65) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP 
+                    (NP (CD 38) (NNS cents) )
+                    (NP-ADV (DT a) (NN share) ))
+                  (, ,) 
+                  (ADVP-TMP 
+                    (NP (DT a) (NN year) )
+                    (RBR earlier) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP 
+      (ADVP (RBR more) (IN than) )
+      (VBD doubled) 
+      (PP-CLR (TO to) 
+        (NP 
+          (QP ($ $) (CD 2.62) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-CLR (IN from) 
+        (NP 
+          (QP ($ $) (CD 1.29) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NNP Salomon) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP$ its) (NN stock) 
+              (, ,)
+              (NN bond) 
+              (CC and)
+              (JJ foreign) (NN exchange) (NN trading) )
+            (, ,) 
+            (CONJP (RB as) (RB well) (IN as) )
+            (NP (PRP$ its) (NN investment) (NN banking) (NNS operations) )
+            (, ,) )
+          (VP (VBD were) 
+            (ADJP-PRD (RB mostly) (JJ responsible) 
+              (PP (IN for) 
+                (NP (DT the) (NNS earnings) (NN jump) )))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NNS earnings) )
+      (VP (VBD were) 
+        (UCP-PRD 
+          (ADJP (JJ fine) )
+          (CC and) 
+          (PP-LOC (JJ above) 
+            (NP (NNS expectations) )))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Michael) (NNP W.) (NNP Blumstein) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN analyst) )
+        (PP-LOC (IN at) 
+          (NP (NNP First) (NNP Boston) (NNP Corp) ))))
+    (. .) ))
+( (S 
+    (ADVP (RB Nevertheless) )
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNP Salomon) (POS 's) )
+      (NN stock) )
+    (VP (VBD fell) 
+      (NP-ADV ($ $) (CD 1.125) (-NONE- *U*) )
+      (NP-TMP (NN yesterday) )
+      (S-CLR 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB close) 
+            (PP-CLR (IN at) 
+              (NP 
+                (NP ($ $) (CD 23.25) (-NONE- *U*) )
+                (NP-ADV (DT a) (NN share) )))
+            (PP-LOC (IN in) 
+              (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP I) )
+      (VP (VBP suspect) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (NNP October) )
+            (VP (VBD was) (RB n't) 
+              (ADJP-PRD 
+                (ADJP (RB as) (JJ good) )
+                (PP (IN as) 
+                  (NP (DT the) (JJ third) (NN quarter) )))))
+          (, ,) 
+          (CC and)
+          (S 
+            (NP-SBJ-2 (PRP they) )
+            (VP (MD 'll) 
+              (VP (VB have) 
+                (NP 
+                  (NP (NN difficulty) )
+                  (S-ADV 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (VBG matching) 
+                      (NP (DT the) (JJ third) (NN quarter) )
+                      (PP-TMP (IN in) 
+                        (NP (DT the) (JJ fourth) (NN quarter) )))))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Blumstein) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT some) (NNS analysts) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN Salomon) )
+          (VP (VBZ has) 
+            (VP (VBN turned) 
+              (NP (DT the) (NN corner) ))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP I) )
+      (VP (VBD upgraded) 
+        (NP (DT the) (NN firm) )
+        (PP-CLR (TO to) 
+          (NP (PRP$ my) (JJ buy) (NN list) ))
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (PRP I) )
+            (ADVP (RB certainly) )
+            (VP (VBP see) 
+              (NP 
+                (NP (NNS signs) )
+                (PP (IN of) 
+                  (NP (NN improvement) ))))))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Lawrence) (NNP Eckenfelder) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN analyst) )
+        (PP-LOC (IN at) 
+          (NP (NNP Prudential-Bache) (NNP Securities) ))))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (DT The) (NN market) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (ADJP-PRD (RB overly) (JJ harsh) 
+          (PP (TO to) 
+            (NP (PRP them) )))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNS Analysts) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNS investors) )
+          (VP (VBP remain) 
+            (ADJP-PRD (JJ skittish) 
+              (PP (IN toward) 
+                (NP (NNP Salomon) )))
+            (PP-PRP (IN because) (IN of) 
+              (NP (PRP$ its) (JJ volatile) (NNS earnings) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (JJ first) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (NNP Salomon) )
+    (VP (VBD had) 
+      (NP 
+        (NP (DT a) (JJ record) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 28) (CD million) )
+            (-NONE- *U*) )))
+      (PP (IN on) 
+        (NP 
+          (NP (NN revenue) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 1.54) (CD billion) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S (CC But) 
+    (PP-TMP (IN in) 
+      (NP (DT the) (JJ second) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (NNP Salomon) )
+    (VP (VBD posted) 
+      (NP (DT a) (JJ record) 
+        (ADJP 
+          (QP ($ $) (CD 253) (CD million) )
+          (-NONE- *U*) )
+        (NN net) )
+      (PP (IN on) 
+        (NP 
+          (NP (NN revenue) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 2.33) (CD billion) )
+              (-NONE- *U*) )))))
+    (. .) ))

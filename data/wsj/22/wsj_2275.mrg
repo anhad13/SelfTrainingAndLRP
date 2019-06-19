@@ -1,0 +1,130 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP Communications) (NNP Workers) )
+      (PP (IN of) 
+        (NP (NNP America) )))
+    (VP (VBD ratified) 
+      (NP 
+        (NP (DT a) (JJ new) (JJ regional) (NN contract) )
+        (CC and) 
+        (NP 
+          (NP 
+            (QP (DT all) (CC but) (CD one) ))
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (JJ local) (NNS agreements) )
+              (PP (IN with) 
+                (NP (NNP Bell) (NNP Atlantic) (NNP Corp) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP CWA) (POS 's) )
+        (NNP New) (NNP Jersey) (NNP Commercial) (NN local) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ represents) 
+            (NP 
+              (QP (RB about) (CD 2,500) )
+              (NX 
+                (NX (NN service) (NNS representatives) )
+                (CC and) 
+                (NX (NN marketing) (NNS employees) ))))))
+      (, ,) )
+    (VP (VBD rejected) 
+      (NP (DT the) (JJ tentative) (NN agreement) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) 
+      (NP (DT the) (NN union) )
+      (CC and) 
+      (NP (DT the) (JJ regional) (NN telephone) (NN company) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP they) )
+          (VP (VBD were) 
+            (VP (VBG working) 
+              (ADVP-CLR (RB together) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB resolve) 
+                    (NP (NNS differences) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ new) (JJ three-year) (NNS contracts) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBP replace) 
+            (NP 
+              (NP (NNS ones) )
+              (SBAR 
+                (WHNP-2 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-2) )
+                  (VP (VBD expired) 
+                    (NP-TMP-CLR (NNP Aug.) (CD 5) ))))))))
+      (, ,) )
+    (VP (VBP cover) 
+      (NP (CD 41,000) (NNP Bell) (NNP Atlantic) (NNS employees) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN ratification) )
+    (VP (VBZ follows) 
+      (NP 
+        (NP (DT a) (JJ 23-day) (NN strike) )
+        (PP (IN against) 
+          (NP (DT the) (JJ Philadelphia-based) (NN company) ))))
+    (. .) ))
+( (S 
+    (ADVP (RB Meanwhile) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP CWA) )
+      (CC and) 
+      (NP 
+        (NP (NNP International) (NNP Brotherhood) )
+        (PP (IN of) 
+          (NP (NNP Electrical) (NNP Workers) (NNS members) ))))
+    (VP (VBP remain) 
+      (PP-PRD (IN on) 
+        (NP 
+          (NP (NN strike) )
+          (PP (IN against) 
+            (NP 
+              (NP (NNP Nynex) (NNP Corp.) )
+              (, ,) 
+              (NP (DT the) 
+                (ADJP (NNP New) (JJ York-based) )
+                (JJ regional) (NN phone) (NN company) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS unions) )
+      (CC and) 
+      (NP (DT the) (NN company) ))
+    (NP-TMP (JJ last) (NN week) )
+    (VP (VBD agreed) 
+      (PP-CLR (TO to) 
+        (NP (NN mediation) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NNP CWA) )
+      (VP (VBZ represents) 
+        (NP (CD 40,000) (NNP Nynex) (NNS workers) )))
+    (CC and) 
+    (S 
+      (NP-SBJ (DT the) (NNP IBEW) )
+      (VP (VBZ represents) 
+        (NP (CD 20,000) (NNS workers) )))
+    (. .) ))

@@ -1,0 +1,150 @@
+
+( (S 
+    (SBAR-ADV (IN As) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBN expected) )))
+    (, ,) 
+    (NP-SBJ (NNP Warner) (NNPS Bros) (. .) (NNPS Records) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB form) 
+                  (NP (DT a) 
+                    (ADJP (JJ recorded-music) 
+                      (CC and)
+                      (JJ music-publishing) )
+                    (JJ joint) (NN venture) )
+                  (PP (IN with) 
+                    (NP (JJ former) (NNP MCA) (NNPS Records) (NNP Chairman) (NNP Irving) (NNP Azoff) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Warner) )
+    (VP 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (MD will) 
+              (VP (VB provide) 
+                (NP (NN financing) )
+                (PP (IN for) 
+                  (NP (DT the) (NN venture) )))))))
+      (, ,) (CC but) 
+      (VP (VBD did) (RB n't) 
+        (VP (VB disclose) 
+          (NP (NNS terms) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Mr.) (NNP Azoff) )
+      (VP (VBZ has) (RB n't) 
+        (VP (VBD named) 
+          (NP (DT the) (NN company) )
+          (ADVP (RB yet) ))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-221 
+        (NP (DT any) (NNS records) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ produces) 
+              (NP (-NONE- *T*-1) )))))
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN distributed) 
+            (NP (-NONE- *-221) )
+            (PP (IN by) 
+              (NP-LGS (NNP Warner) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Warner) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Warner) (NNPS Communications) (NNP Inc.) )
+            (, ,) 
+            (SBAR 
+              (WHNP-256 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-256) )
+                (VP (VBZ is) 
+                  (PP-PRD (IN in) 
+                    (NP 
+                      (NP (DT the) (NN process) )
+                      (PP (IN of) 
+                        (S-NOM 
+                          (NP-SBJ-222 (-NONE- *) )
+                          (VP (VBG being) 
+                            (VP (VBN acquired) 
+                              (NP (-NONE- *-222) )
+                              (PP (IN by) 
+                                (NP-LGS (NNP Time) (NNP Warner) (NNP Inc) )))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (NNP Mr.) (NNP Azoff) )
+      (VP (VBD resigned) 
+        (PP-CLR (IN as) 
+          (NP 
+            (NP (NN head) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP MCA) (NNPS Records) )
+                (, ,) 
+                (NP 
+                  (NP (DT a) (NN unit) )
+                  (PP (IN of) 
+                    (NP (NNP MCA) (NNP Inc.) )))
+                (, ,) ))))
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBD had) 
+        (VP (VBN been) 
+          (VP (VBG discussing) 
+            (NP (DT a) (JJ joint) (NN venture) )
+            (PP (IN with) 
+              (NP (DT both) (NNP Warner) 
+                (CC and)
+                (NNP MCA) ))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (NN statement) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Azoff) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD chose) 
+            (NP 
+              (NP (NNP Warner) )
+              (, ,) 
+              (NP (DT the) (JJS largest) (NN record) (NN company) )
+              (, ,) )
+            (SBAR-PRP (IN because) (`` ``) 
+              (S 
+                (NP-SBJ 
+                  (NP (PRP$ their) (NN standing) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NN entertainment) (NN industry) )))
+                (VP (VBZ is) 
+                  (ADJP-PRD (JJ second) 
+                    (PP (TO to) 
+                      (NP (NN none) ))))))))))
+    (. .) ))

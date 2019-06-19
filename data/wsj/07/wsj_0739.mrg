@@ -1,0 +1,534 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (DT A) 
+        (ADJP (RB potentially) (JJR safer) )
+        (ADJP (JJ whooping) (NN cough) )
+        (NN vaccine) )
+      (VP (VBN made) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS (JJ novel) (JJ genetic) (NN engineering) (NNS techniques) ))))
+    (VP (VBD was) 
+      (VP (VBN described) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT a) (NN team) )
+            (PP (IN of) 
+              (NP 
+                (ADJP (JJ Italian) 
+                  (, ,)
+                  (NNP U.S.) 
+                  (CC and)
+                  (JJ Japanese) )
+                (NNS scientists) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN team) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP they) )
+          (VP (VBD managed) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB induce) 
+                  (S 
+                    (NP-SBJ (NNS bacteria) )
+                    (VP (TO to) 
+                      (VP (VB produce) 
+                        (NP 
+                          (NP (DT a) (JJ non-toxic) (NN version) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (DT the) (NNS poisons) )
+                              (VP (VBN produced) 
+                                (NP (-NONE- *) )
+                                (PP (IN by) 
+                                  (NP-LGS 
+                                    (NP (DT the) (NN bacterium) )
+                                    (SBAR 
+                                      (WHNP-1 (WDT that) )
+                                      (S 
+                                        (NP-SBJ (-NONE- *T*-1) )
+                                        (VP (VBZ causes) 
+                                          (NP (JJ whooping) (NN cough) ))))))))))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NN Laboratory) (NNS tests) )
+      (VP (VBD showed) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-2 
+              (NP (JJ non-toxic) (NNS versions) )
+              (PP (IN of) 
+                (NP (DT the) (NNS poisons) )))
+            (VP (VBP are) 
+              (ADJP-PRD (JJ capable) 
+                (PP (IN of) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (VBG inducing) 
+                      (NP 
+                        (NP (DT an) (NN immunity) )
+                        (PP (TO to) 
+                          (NP (JJ whooping) (NN cough) ))))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS researchers) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) ))
+      (PP-LOC (IN in) 
+        (NP 
+          (NP 
+            (NP (DT this) (NN week) (POS 's) )
+            (NN issue) )
+          (PP (IN of) 
+            (NP (DT the) (NN journal) 
+              (NX-TTL (NNP Science) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ current) (NN vaccine) )
+      (PP (IN for) 
+        (NP 
+          (NP (JJ whooping) (NN cough) )
+          (, ,) (CC or) 
+          (NP (NN pertussis) )
+          (, ,) )))
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (`` ``) (NNP DPT) ('' '') 
+              (PRN 
+                (-LRB- -LRB-)
+                (PP (IN for) 
+                  (NP (NN diphtheria) 
+                    (, ,)
+                    (NN pertussis) 
+                    (, ,)
+                    (NN tetanus) ))
+                (-RRB- -RRB-) )
+              (NN shot) )
+            (VP (VBN given) 
+              (NP (JJS most) 
+                (NX 
+                  (NX (NNS infants) )
+                  (CC and) 
+                  (NX (JJ young) (NNS children) )))
+              (NP (-NONE- *) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN vaccine) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ effective) 
+        (PP (IN in) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG preventing) 
+              (NP 
+                (NP (DT a) (NN disease) )
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ-2 (-NONE- *T*-1) )
+                    (ADVP-TMP (RB still) )
+                    (VP (VBZ afflicts) 
+                      (NP 
+                        (NP 
+                          (QP (IN about) (CD 60) (CD million) )
+                          (NNS children) )
+                        (NP-ADV (DT a) (NN year) )
+                        (ADVP-LOC (RB world-wide) ))
+                      (, ,) 
+                      (S-ADV 
+                        (NP-SBJ (-NONE- *-2) )
+                        (VP (VBG causing) 
+                          (NP (DT an) (VBN estimated) (CD one) (CD million) (NNS deaths) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN vaccine) )
+    (, ,) 
+    (ADVP (RB however) )
+    (, ,) 
+    (VP (VBZ causes) 
+      (NP 
+        (NP (JJ allergic) (NNS reactions) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (MD can) 
+              (VP (VB be) 
+                (ADJP-PRD (JJ fatal) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS reactions) )
+    (VP (VBP stem) 
+      (PP-CLR (IN from) 
+        (NP (DT the) (NN fact) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (DT the) (NN vaccine) )
+              (VP (VBZ contains) 
+                (NP 
+                  (NP (JJ multiple) (NNS copies) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (JJ whole) 
+                        (ADJP (NN Bordetella) (NN pertussis) )
+                        (NN bacterium) )
+                      (, ,) 
+                      (SBAR 
+                        (WHNP-1 (WDT which) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-1) )
+                          (VP (VBZ causes) 
+                            (NP (JJ whooping) (NN cough) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT This) (NN bacterium) )
+    (VP (VBZ produces) 
+      (NP 
+        (NP (DT a) (NN toxin) )
+        (SBAR 
+          (WHNP-1 (IN that) )
+          (S 
+            (, ,)
+            (SBAR-ADV (IN if) 
+              (S 
+                (NP-SBJ-3 (-NONE- *-2) )
+                (VP (VBN used) 
+                  (NP (-NONE- *-3) )
+                  (PP-CLR (IN as) 
+                    (NP (DT a) (NN vaccine) )))))
+            (, ,) 
+            (NP-SBJ-2 (-NONE- *T*-1) )
+            (VP (MD can) 
+              (VP (VB induce) 
+                (NP 
+                  (NP (NN immunity) )
+                  (PP (TO to) 
+                    (NP (JJ whooping) (NN cough) )))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Unfortunately) )
+    (, ,) 
+    (NP-SBJ (DT the) (NN toxin) )
+    (VP (VBZ is) 
+      (ADVP (RB also) )
+      (ADJP-PRD (JJ poisonous) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ Italian-led) (JJ scientific) (NN team) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBD had) 
+            (VP (VBN succeeded) 
+              (PP-CLR (IN in) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG getting) 
+                    (S 
+                      (NP-SBJ (NNS bacteria) )
+                      (VP (TO to) 
+                        (VP (VB produce) 
+                          (NP 
+                            (NP (DT a) (JJ non-toxic) (NN version) )
+                            (PP (IN of) 
+                              (NP 
+                                (NP (DT the) (NN pertussis) (NN toxin) )
+                                (, ,) 
+                                (SBAR 
+                                  (WHNP-2 (WDT which) )
+                                  (S 
+                                    (NP-SBJ-1 (-NONE- *T*-2) )
+                                    (VP (MD could) 
+                                      (VP (VB be) 
+                                        (VP (VBN used) 
+                                          (NP (-NONE- *-1) )
+                                          (PP-CLR (IN as) 
+                                            (NP (DT a) (JJ safe) (NN vaccine) )))))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS researchers) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP they) )
+          (VP (VBP have) 
+            (VP (VBN been) 
+              (ADJP-PRD (JJ able) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB pluck) 
+                      (NP 
+                        (NP (DT the) (CD five) (NNS genes) )
+                        (SBAR 
+                          (WHNP-1 (WDT that) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-1) )
+                            (VP (VBD produced) 
+                              (NP (DT the) (NN toxin) )))))
+                      (PP-CLR (IN out) 
+                        (PP (IN of) 
+                          (NP (DT the) (NN pertussis) (NN bacterium) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD turned) 
+      (ADVP-CLR (RB out) )
+      (SBAR (IN that) 
+        (S 
+          (SBAR-ADV (IN although) 
+            (S 
+              (NP-SBJ 
+                (NP (PRP it) )
+                (S (-NONE- *EXP*-1) ))
+              (VP (VBD took) 
+                (NP 
+                  (QP (DT all) (CD five) )
+                  (NNS genes) )
+                (S-1 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB produce) 
+                      (NP (DT the) (NN toxin) )))))))
+          (, ,) 
+          (NP-SBJ (RB only) (CD one) )
+          (VP (VBD was) 
+            (ADJP-PRD (JJ responsible) 
+              (PP (IN for) 
+                (NP 
+                  (NP (DT the) (NN toxin) (POS 's) )
+                  (NN virulence) )))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Ordinarily) )
+    (PP-LOC (IN in) 
+      (NP (JJ genetic) (NN engineering) ))
+    (NP-SBJ-3 
+      (NP 
+        (NP (DT each) )
+        (PP (IN of) 
+          (NP (DT these) (NNS genes) )))
+      (, ,) 
+      (PP (CC minus) 
+        (NP 
+          (NP (DT the) (NN one) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD caused) 
+                (NP (DT the) (NN virulence) ))))))
+      (, ,) )
+    (VP (MD would) 
+      (VP (VB have) 
+        (VP (VBN been) 
+          (VP (VBN transferred) 
+            (NP (-NONE- *-3) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP (DT another) (NN bacterium) )
+                (, ,) 
+                (VP (VBN called) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (NP-PRD (NNP E.) (NNS coli) )))
+                (, ,) 
+                (SBAR 
+                  (WHNP-2 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-2) )
+                    (VP (MD would) 
+                      (ADVP-TMP (RB then) )
+                      (VP (VB produce) 
+                        (NP 
+                          (NP (DT a) (JJ nonvirulent) (NN version) )
+                          (PP (IN of) 
+                            (NP (DT the) (NN toxin) )))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NNS researchers) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBD did) 
+              (NP (DT this) ))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (DT the) (NN toxin) )
+      (VP (VBD did) (RB n't) 
+        (VP (VB induce) 
+          (NP 
+            (NP (NN immunity) )
+            (PP (TO to) 
+              (NP (JJ whooping) (NN cough) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS scientists) )
+    (ADVP-TMP (RB then) )
+    (VP 
+      (VP (VBD took) 
+        (NP (DT the) (CD five) (NN toxin) (NNS genes) ))
+      (CC and) 
+      (VP (VBD triggered) 
+        (NP 
+          (NP (DT a) (NN mutation) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (DT the) (CD one) (NN gene) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBD caused) 
+                    (NP (NN virulence) )))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Then) )
+    (, ,) 
+    (S-MNR 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG using) 
+        (NP 
+          (NP (DT a) (JJ new) (NN technique) )
+          (PRN 
+            (-LRB- -LRB-)
+            (VP (VBN called) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (NP-PRD (RB homologous) (NN recombination) )))
+            (-RRB- -RRB-) )
+          (PP (IN for) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG introducing) 
+                (NP (NNS genes) )
+                (PP-DIR (IN into) 
+                  (NP (NNS cells) ))))))))
+    (, ,) 
+    (NP-SBJ-1 (PRP they) )
+    (VP (VBD transferred) 
+      (NP 
+        (QP (DT all) (CD five) )
+        (NNS genes) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (NNS bacteria) )
+          (ADJP (RB closely) (JJ related) 
+            (PP (TO to) 
+              (NP (DT the) (NN pertussis) (NN organism) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT These) (JJ bacterial) (`` ``) (NNS cousins) ('' '') )
+    (ADVP (RB ordinarily) )
+    (VP (VBP do) (RB n't) 
+      (VP (VBP make) 
+        (NP (DT the) (NN toxin) )))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ-1 (DT the) (NNS genes) )
+    (VP (VBD were) 
+      (VP (VBN accompanied) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP 
+              (NP (DT a) (NN piece) )
+              (PP (IN of) 
+                (NP (NNP DNA) )))
+            (, ,) 
+            (VP (VBD called) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (NP-PRD (DT a) (NN promoter) )))
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (VBZ turns) 
+                  (NP (DT the) (NNS genes) )
+                  (PRT (RP on) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (JJ new) (NNS bacteria) (NNS recipients) )
+      (PP (IN of) 
+        (NP (DT the) (NNS genes) )))
+    (VP (VBD began) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG producing) 
+          (NP 
+            (NP (NN pertussis) (NN toxin) )
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (, ,)
+                (PP-PRP (IN because) (IN of) 
+                  (NP (DT the) (JJ mutant) (NN virulence) (NN gene) ))
+                (, ,) 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (VBD was) 
+                  (ADJP-PRD 
+                    (ADVP (DT no) (JJR longer) )
+                    (NN toxic) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Experiments) )
+    (VP (VBD showed) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) 
+            (ADJP (JJ new) 
+              (, ,)
+              (JJ non-virulent) )
+            (NN toxin) )
+          (VP (VBZ is) 
+            (ADJP-PRD (JJ capable) 
+              (PP (IN of) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG inducing) 
+                    (NP (NN immunity) )))))
+            (, ,) 
+            (PP (VBG according) 
+              (PP (TO to) 
+                (NP 
+                  (NP (DT the) (NNS researchers) )
+                  (PP (IN from) 
+                    (NP 
+                      (NP 
+                        (NP (DT the) (NNP Selavo) (NNP Research) (NNP Center) )
+                        (PP-LOC (IN in) 
+                          (NP 
+                            (NP (NNP Siena) )
+                            (, ,) 
+                            (NP (NNP Italy) )
+                            (, ,) )))
+                      (NP 
+                        (NP (DT the) (NNP Medical) (NNP College) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NNP Wisconsin) )
+                            (PP-LOC (IN in) 
+                              (NP (NNP Milwaukee) )))))
+                      (CC and) 
+                      (NP 
+                        (NP (DT the) (JJ Japanese) (NNP National) (NNPS Institutes) )
+                        (PP (IN of) 
+                          (NP (NNP Health) ))))))))))))
+    (. .) ))

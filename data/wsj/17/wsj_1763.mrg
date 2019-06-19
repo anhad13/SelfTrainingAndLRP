@@ -1,0 +1,59 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Robert) (NNP A.) (NNP Oswald) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (NN chief) (JJ financial) (NN officer) )
+          (CC and) 
+          (NP (DT a) (NN director) ))
+        (PP (IN of) 
+          (NP (DT this) (JJ natural-gas) (NN pipeline) (NN company) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (JJ additional) (NN position) )
+            (PP (IN of) 
+              (NP (JJ executive) (NN vice) (NN president) ))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNP Michael) (NNP W.) (NNP O'Donnell) )
+      (, ,) 
+      (NP 
+        (NP (JJ executive) (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP (DT a) (NNP Columbia) (NN unit) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (JJ assistant) (NN chief) (JJ financial) (NN officer) )
+              (CC and) 
+              (NP (DT a) (JJ senior) (NN vice) (NN president) ))
+            (PP (IN of) 
+              (NP (DT the) (NN parent) (NN company) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS appointments) )
+    (VP (VBP take) 
+      (NP (NN effect) )
+      (NP-TMP (NNP Nov.) (CD 1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) (NNS men) )
+    (VP (VBP are) 
+      (ADJP-PRD 
+        (NP (CD 44) (NNS years) )
+        (JJ old) ))
+    (. .) ))

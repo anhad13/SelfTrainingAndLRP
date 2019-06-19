@@ -1,0 +1,58 @@
+
+( (S 
+    (NP-SBJ-2 (DT The) (JJ following) (NNS issues) )
+    (VP (VBD were) 
+      (ADVP-TMP (RB recently) )
+      (VP (VBN filed) 
+        (NP (-NONE- *-2) )
+        (PP-CLR (IN with) 
+          (NP (DT the) (NNP Securities) 
+            (CC and)
+            (NNP Exchange) (NNP Commission) ))))
+    (: :) ))
+( (NP 
+    (NP (NNP Health) (NNP Care) (NNP Property) (NNP Investors) (NNP Inc.) )
+    (, ,) 
+    (NP 
+      (NP (VBG offering) )
+      (PP (IN of) 
+        (NP 
+          (NP (CD 2,250,000) (NNS shares) )
+          (PP (IN of) 
+            (NP (JJ common) (NN stock) ))))
+      (, ,) 
+      (PP (IN via) 
+        (NP 
+          (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets) )
+          (, ,) 
+          (NP (NNP Alex) (. .) (NNP Brown) (CC &) (NNP Sons) (NNP Inc.) )
+          (CC and) 
+          (NP (NNP Dean) (NNP Witter) (NNP Reynolds) (NNP Inc) ))))
+    (. .) ))
+( (NP 
+    (NP (NNP Union) (NNP Pacific) (NNP Corp.) )
+    (, ,) 
+    (NP 
+      (NP (NN shelf) (NN offering) )
+      (PP (IN of) 
+        (NP 
+          (NP 
+            (QP (IN up) (TO to) ($ $) (CD 500) (CD million) )
+            (-NONE- *U*) )
+          (NP 
+            (NP (NN debt) (NNS securities) )
+            (CC and) 
+            (NP (NNS warrants) )))))
+    (. .) ))
+( (NP 
+    (NP (NNP United) (NNP Technologies) (NNP Corp.) )
+    (, ,) 
+    (NP 
+      (NP (NN shelf) (NN offering) )
+      (PP (IN of) 
+        (NP 
+          (NP 
+            (QP (IN up) (TO to) ($ $) (CD 500) (CD million) )
+            (-NONE- *U*) )
+          (NP (JJ unsubordinated) (JJ non-convertible) (JJ unsecured) (NN debt) (NNS securities) ))))
+    (. .) ))

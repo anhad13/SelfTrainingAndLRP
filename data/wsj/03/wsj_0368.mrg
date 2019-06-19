@@ -1,0 +1,36 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Carl) (NNP E.) (NNP Pfeiffer) )
+      (, ,) 
+      (NP (JJ chief) (JJ executive) (NN officer) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (JJ additional) (NN post) )
+            (PP (IN of) 
+              (NP 
+                (NP (NN chairman) )
+                (PP (IN of) 
+                  (NP (DT this) (NNS specialty-metals) (NN manufacturing) (NN concern) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Robert) (NNP C.) (NNP Snyder) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (DT a) (NN director) )
+          (CC and) 
+          (NP (NN chief) (NN operating) (NN officer) ))
+        (PP (IN of) 
+          (NP (DT the) (NN company) )))
+      (, ,) )
+    (VP (VBZ succeeds) 
+      (NP (NNP Mr.) (NNP Pfeiffer) )
+      (PP-CLR (IN as) 
+        (NP (NN president) )))
+    (. .) ))

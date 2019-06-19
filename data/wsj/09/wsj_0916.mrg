@@ -1,0 +1,76 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (JJ Canadian) (NNS manufacturers) )
+      (VP (VBD recorded) 
+        (NP 
+          (NP (DT a) 
+            (ADJP (CD 0.8) (NN %) )
+            (NN decline) )
+          (PP-TMP (IN in) 
+            (NP (NNP August) ))
+          (PP (IN in) 
+            (NP 
+              (NP (PRP$ their) (NN backlog) )
+              (PP (IN of) 
+                (NP (JJ unfilled) (NNS orders) )))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNPS Statistics) (NNP Canada) )
+      (, ,) 
+      (NP (DT a) (JJ federal) (NN agency) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP August) (NN drop) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT the) (JJ fourth) (NN decline) )
+        (PP-TMP (IN in) 
+          (NP (CD five) (NNS months) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (JJS Most) )
+      (PP (IN of) 
+        (NP (DT the) (NNP August) (NN decrease) )))
+    (VP (VBD was) 
+      (VP (VBN attributed) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (JJR lower) (NN order) (NNS backlogs) )
+            (PP-LOC (IN in) 
+              (NP (DT the) 
+                (ADJP 
+                  (ADJP (JJ primary) (NN metal) )
+                  (CC and) 
+                  (ADJP (NN electric) 
+                    (CC and)
+                    (NN electronics-product) ))
+                (NNS industries) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Manufacturers) (POS ') )
+      (NNS shipments) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 0.3) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (NNP August) ))
+      (PP-TMP (VBG following) 
+        (NP 
+          (NP (CD two) (NNS months) )
+          (PP (IN of) 
+            (NP (NNS declines) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Inventories) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 0.3) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (NNP August) )))
+    (. .) ))

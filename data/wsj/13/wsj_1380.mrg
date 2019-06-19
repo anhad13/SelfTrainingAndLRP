@@ -1,0 +1,271 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NN Program) (NN trading) )
+      (PP-LOC (IN on) 
+        (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))
+      (PP-TMP (IN in) 
+        (NP (NNP September) )))
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (PRP$ its) (JJS highest) (VBN recorded) (NN level) )
+          (PP (IN as) 
+            (NP 
+              (NP (DT a) (NN percentage) )
+              (PP (IN of) 
+                (NP (JJ total) (JJ monthly) (NN trading) (NN volume) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP September) (NN program) (NN trading) )
+    (VP (VBD amounted) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP 
+            (NP (CD 13.8) (NN %) )
+            (PP (IN of) 
+              (NP 
+                (NP (JJ average) (JJ daily) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN volume) )
+                (PP (IN of) 
+                  (NP 
+                    (QP (CD 151.8) (CD million) )
+                    (NNS shares) )))))
+          (, ,) 
+          (NP 
+            (NP (DT the) (JJS largest) (NN percentage) )
+            (SBAR-TMP (IN since) 
+              (S 
+                (NP-SBJ-1 (DT the) (NN exchange) )
+                (VP (VBD began) 
+                  (S 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (VBG making) 
+                      (S 
+                        (NP-SBJ (JJ such) (NNS figures) )
+                        (ADJP-PRD (JJ public) ))))
+                  (PP-TMP (IN in) 
+                    (NP (NNP July) (CD 1988) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (JJ daily) (NN average) )
+      (PP (IN of) 
+        (NP 
+          (QP (CD 20.9) (CD million) )
+          (NNS shares) ))
+      (NP (-NONE- *ICH*-1) ))
+    (VP (VBN traded) 
+      (PP-MNR (IN in) 
+        (NP (NN program) (NNS strategies) ))
+      (PP-TMP (IN in) 
+        (NP (NNP September) ))
+      (, ,) 
+      (NP-1 (DT the) (JJ second-highest) (NN level) (RB ever) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJS highest) (NN level) )
+    (VP (VBD was) 
+      (PP-TMP-PRD (IN in) 
+        (NP 
+          (NP (NNP June) (CD 1989) )
+          (, ,) 
+          (SBAR 
+            (WHADVP-1 (WRB when) )
+            (S 
+              (NP-SBJ 
+                (NP (DT a) (JJ daily) (NN average) )
+                (PP (IN of) 
+                  (NP 
+                    (QP (CD 22.1) (CD million) )
+                    (NNS shares) )))
+              (VP (VBD traded) 
+                (PP-MNR (IN in) 
+                  (NP (NN program) (NNS strategies) ))
+                (ADVP-TMP (-NONE- *T*-1) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Average) (JJ daily) (NN trading) (NN volume) )
+      (PP-TMP (IN in) 
+        (NP (NNP June) ))
+      (PP (IN of) 
+        (NP 
+          (QP (CD 180.3) (CD million) )
+          (NNS shares) )))
+    (VP (VBD was) 
+      (ADJP-PRD 
+        (ADJP (RB considerably) (JJR higher) )
+        (PP (IN than) 
+          (PP-TMP (IN in) 
+            (NP (NNP September) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Program) (NN trading) )
+    (VP (VBD amounted) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (CD 12.3) (NN %) )
+          (PP (IN of) 
+            (NP (JJ average) (JJ daily) (NN volume) ))))
+      (PP-TMP (IN in) 
+        (NP (NNP June) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Big) (NNP Board) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN program) (NN trading) )
+          (VP (VBZ describes) 
+            (NP 
+              (NP (DT a) (NN variety) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNS strategies) )
+                  (VP (VBG involving) 
+                    (NP 
+                      (NP (DT the) (NN purchase) (CC or) (NN sale) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT a) (NN basket) )
+                          (PP (IN of) 
+                            (NP 
+                              (QP (CD 15) (CC or) (JJR more) )
+                              (NNS stocks) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) 
+        (ADJP (RBS most) (JJ controversial) ))
+      (PP (IN of) 
+        (NP (DT these) )))
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (NN stock-index) (NN arbitrage) )
+        (, ,) 
+        (SBAR 
+          (WHPP-1 (IN in) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ (NNS traders) )
+            (VP 
+              (VP (VBP buy) (CC or) (VBP sell) 
+                (NP 
+                  (NP (NNS baskets) )
+                  (PP (IN of) 
+                    (NP (NNS stocks) ))))
+              (CC and) 
+              (VP (VBP offset) 
+                (NP (DT the) (NN position) )
+                (PP-MNR (IN with) 
+                  (NP 
+                    (NP (DT an) (JJ opposite) (NN trade) )
+                    (PP-LOC (IN in) 
+                      (NP (JJ stock-index) (NNS futures) ))
+                    (SBAR 
+                      (WHNP-2 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-2) )
+                        (VP (TO to) 
+                          (VP (VB lock) 
+                            (PRT (RP in) )
+                            (NP (NNS profits) ))))))))
+              (PP-LOC (-NONE- *T*-1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ 's) 
+      (NP-PRD 
+        (NP (DT the) 
+          (ADJP (RBS most) (JJ controversial) )
+          (NN form) )
+        (PP (IN of) 
+          (NP (NN program) (NN trading) )))
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD can) 
+            (VP (VB create) 
+              (NP 
+                (NP (JJ abrupt) (NN price) (NNS swings) )
+                (PP-LOC (IN in) 
+                  (NP (DT the) (NN stock) (NN market) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Salomon) (NNP Brothers) (NNP Inc.) )
+      (VP (VBD was) 
+        (NP-PRD (DT the) (JJ top) (NN program) (NN trader) )
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (JJS most) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN firm) (POS 's) )
+            (NN activity) )))
+      (VP (VBD involved) 
+        (NP 
+          (NP (NN portfolio) (NN trading) (NNS strategies) )
+          (ADJP (JJ other) 
+            (PP (IN than) 
+              (NP (NN stock-index) (NN arbitrage) ))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Overall) )
+    (, ,) 
+    (NP-SBJ (NNP Salomon) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (NN program) (NN trading) (NN volume) )
+        (PP (IN of) 
+          (NP 
+            (QP (CD 75.2) (CD million) )
+            (NNS shares) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ top) (NN stock-index) (NN arbitrage) (NN firm) )
+    (NP-TMP (JJ last) (NN month) )
+    (VP (VBD was) 
+      (NP-PRD (NNP Morgan) (NNP Stanley) (CC &) (NNP Co) ))
+    (. .) ))
+( (S 
+    (PP-TPC-1 (IN Of) 
+      (NP 
+        (NP 
+          (NP (NNP Morgan) (NNP Stanley) (POS 's) )
+          (QP (CD 66.8) (CD million) )
+          (NNS shares) )
+        (PP (IN in) 
+          (NP (NN program) (NNS trades) ))
+        (PP (IN for) 
+          (NP (DT the) (NN month) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (QP (CD 53.1) (CD million) ))
+      (PP (-NONE- *T*-1) ))
+    (VP (VBD were) 
+      (PP-PRD (IN in) 
+        (NP (NN stock-index) (NN arbitrage) (NNS trades) )))
+    (. .) ))
+( (SINV 
+    (PP-LOC-PRD-TPC-1 (IN Behind) 
+      (NP (JJ second-place) (NNP Morgan) (NNP Stanley) ))
+    (VP (VBD were) 
+      (PP-LOC-PRD (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Kidder) 
+        (, ,)
+        (NNP Peabody) (CC &) (NNP Co.) )
+      (, ,) 
+      (NP (NNP Goldman) 
+        (, ,)
+        (NNP Sachs) (CC &) (NNP Co.) )
+      (CC and) 
+      (NP 
+        (NP (NNP CS) (NNP First) (NNP Boston) (NNP Inc.) (POS 's) )
+        (NNP First) (NNP Boston) (NNP Corp.) (NN unit) ))
+    (. .) ))

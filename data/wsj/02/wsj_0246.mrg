@@ -1,0 +1,97 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP AMERICAN) (NNPS BRANDS) (NNP Inc.) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Old) (NNP Greenwich) )
+        (, ,) 
+        (NP (NNP Conn.) ))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD increased) 
+            (NP 
+              (NP (PRP$ its) (JJ quarterly) (CD 11) (NN %) )
+              (ADJP (-NONE- *ICH*-1) ))
+            (PP-DIR (TO to) 
+              (NP 
+                (NP (CD 68) (NNS cents) )
+                (NP-ADV (DT a) (NN share) )))
+            (PP-DIR (IN from) 
+              (NP (CD 61) (NNS cents) ))
+            (, ,) 
+            (ADJP-1 (JJ payable) 
+              (NP-TMP (NNP Dec.) (CD 1) )
+              (PP (TO to) 
+                (NP 
+                  (NP (NN stock) )
+                  (PP (IN of) 
+                    (NP (NN record) ))
+                  (NP-TMP (NNP Nov.) (CD 10) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN increase) )
+    (VP 
+      (VP (VBZ follows) 
+        (NP 
+          (NP 
+            (NP (DT the) (NN company) (POS 's) )
+            (NN report) )
+          (PP (IN of) 
+            (NP 
+              (NP (JJ strong) (NNS earnings) )
+              (PP-TMP (IN for) 
+                (NP (DT the) (JJ third) (NN quarter) ))))))
+      (, ,) 
+      (CC and)
+      (VP (VBZ reflects) 
+        (SBAR-NOM 
+          (WHNP-113 (WP what) )
+          (S 
+            (NP-SBJ (NNP American) (NNPS Brands) )
+            (VP (VBD called) 
+              (S 
+                (NP-SBJ (-NONE- *T*-113) )
+                (NP-PRD 
+                  (NP (PRP$ its) (`` ``) (NN tradition) )
+                  (PP (IN of) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG sharing) 
+                        (NP (NNS earnings) (NN growth) )
+                        ('' '') 
+                        (PP-CLR (IN with) 
+                          (NP (NNS shareholders) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP American) (NNPS Brands) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN consumer) (NNS products) (NN company) )
+        (PP (IN with) 
+          (NP 
+            (NP (NN core) (NNS businesses) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NN tobacco) )
+                (, ,) 
+                (NP (JJ distilled) (NNS spirits) )
+                (CC and) 
+                (NP (NN life) (NN insurance) )))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN As) 
+      (PP (IN of) 
+        (NP (NNP Sept.) (CD 30) )))
+    (, ,) 
+    (NP-SBJ (NNP American) (NNPS Brands) )
+    (VP (VBD had) 
+      (NP 
+        (NP 
+          (QP (CD 95.2) (CD million) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))

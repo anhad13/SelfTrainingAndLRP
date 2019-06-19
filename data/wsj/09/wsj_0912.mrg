@@ -1,0 +1,54 @@
+
+( (S 
+    (NP-SBJ (NNP Rochester) (NNP Telephone) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB buy) 
+                  (NP 
+                    (NP (NNP Viroqua) (NNP Telephone) (NNP Co.) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP Viroqua) )
+                        (, ,) 
+                        (NP (NNP Wis) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Rochester) )
+    (VP (MD will) 
+      (VP (VB exchange) 
+        (NP 
+          (NP (NNS shares) )
+          (PP (IN of) 
+            (NP (PRP$ its) (JJ common) (NN stock) )))
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (DT all) (NNS shares) )
+            (ADJP (JJ outstanding) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Viroqua) (NNP Telephone) )
+                (, ,) 
+                (NP (DT a) (JJ family-owned) (NN company) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Viroqua) )
+    (VP (VBZ serves) 
+      (NP 
+        (NP 
+          (QP (IN about) (CD 3,000) )
+          (NN access) (NNS lines) )
+        (PP-LOC (IN in) 
+          (NP (JJ western) (NNP Wisconsin) ))))
+    (. .) ))

@@ -1,0 +1,79 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Aussedat) (NNP Rey) (NNP S.A.) )
+      (, ,) 
+      (NP (DT a) (JJ French) (NN paper) (NN producer) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD concluded) 
+            (NP 
+              (NP (DT an) (NN agreement) )
+              (PP (IN with) 
+                (NP 
+                  (NP (NNP Japan) (POS 's) )
+                  (NNP Fuji) (NNP Photo) (NNP Film) (NNP Co.) ))
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (MD will) 
+                    (VP (VB allow) 
+                      (S 
+                        (NP-SBJ-2 (NNP Aussedat) (NNP Rey) )
+                        (VP (TO to) 
+                          (VP (VB manufacture) 
+                            (CC and)
+                            (VB sell) 
+                            (NP (JJ thermal) (NN paper) )
+                            (S-ADV 
+                              (NP-SBJ (-NONE- *-2) )
+                              (VP (VBG using) 
+                                (NP (NNP Fuji) (NN technology) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Aussedat) (NNP Rey) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (VBG leading) (JJ French) (NN maker) )
+        (PP (IN of) 
+          (NP (NN copying) 
+            (CC and)
+            (JJ electronic) (NN printing) (NN paper) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (JJ Thermal) (NN paper) )
+    (VP (VBZ is) 
+      (VP (VBN used) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN in) 
+          (NP (JJ facsimile) (NNS machines) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Terms) )
+      (PP (IN of) 
+        (NP (DT the) (NN agreement) )))
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Aussedat) (NNP Rey) (POS 's) )
+      (NN move) )
+    (VP (VBZ follows) 
+      (NP 
+        (NP (JJ similar) (JJ technology-licensing) (NNS agreements) )
+        (PP (IN between) 
+          (NP 
+            (NP 
+              (NP (JJ Japanese) (NNS producers) )
+              (PP (IN of) 
+                (NP (JJ thermal) (NN paper) )))
+            (CC and) 
+            (NP (JJ European) (NN paper) (NNS groups) )))))
+    (. .) ))

@@ -1,0 +1,533 @@
+
+( (S 
+    (NP-SBJ (NNP Exxon) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB move) 
+              (NP (PRP$ its) (NN headquarters) )
+              (PP-DIR (IN from) 
+                (NP (NNP Manhattan) ))
+              (PP-DIR (TO to) 
+                (NP (NNP Dallas) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJS Most) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (CD 300) (NNS employees) )
+          (PP-LOC (IN at) 
+            (NP 
+              (NP (DT the) (NN oil) (NN company) (POS 's) )
+              (JJ midtown) (NN headquarters) (NN building) ))))
+      (: --) 
+      (PP (VBG including) 
+        (NP 
+          (NP (JJ much) )
+          (PP (IN of) 
+            (NP (JJ senior) (NN management) ))))
+      (: --) )
+    (VP (VBD were) 
+      (ADJP-PRD (JJ unaware) 
+        (PP (IN of) 
+          (NP (DT the) (NN plan) )))
+      (SBAR-TMP (IN until) 
+        (S 
+          (NP-SBJ-1 (-NONE- *) )
+          (VP (VBN informed) 
+            (NP (-NONE- *-1) )
+            (PP-LOC (IN at) 
+              (NP (DT a) (NN morning) (NN meeting) ))
+            (PP (IN by) 
+              (NP-LGS (NNP Chairman) (NNP Lawrence) (NNP G.) (NNP Rawl) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN shift) )
+    (VP (MD wo) (RB n't) 
+      (VP (VB affect) 
+        (NP (NNS operations) )))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (NP 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP 
+            (NP (PRP$ its) (NN restructuring) )
+            (ADVP-TMP 
+              (NP (JJ several) (NNS years) )
+              (RB ago) )))))
+    (, ,) 
+    (NP-SBJ (NNP Exxon) )
+    (VP 
+      (VP (VBD moved) 
+        (NP 
+          (NP (JJS most) )
+          (PP (IN of) 
+            (NP (DT those) )))
+        (PP-DIR (IN out) 
+          (PP (IN of) 
+            (NP (DT the) (NN city) ))))
+      (CC and) 
+      (VP (VBD sold) 
+        (NP (PRP$ its) (JJ 53-floor) (NNP Rockefeller) (NNP Center) (NN skyscraper) )
+        (PP-CLR (TO to) 
+          (NP (DT a) (JJ Japanese) (NN company) ))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ-1 (DT the) (NN pullout) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT an) (NN embarrassment) )
+        (PP (TO to) 
+          (NP (NNP New) (NNP York) (NNP City) (NNS officials) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG coming) 
+          (PP-TMP (IN at) 
+            (NP 
+              (NP (DT a) (NN time) )
+              (PP (IN of) 
+                (NP 
+                  (NP (JJ high) (NN office) (NN building) (NN vacancy) (NNS rates) )
+                  (CC and) 
+                  (NP 
+                    (NP (NNS departures) )
+                    (PP (IN by) 
+                      (NP (JJ other) (JJ major) (NNS companies) ))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (NNP Mobil) (NNP Corp.) )
+      (VP (VBZ is) 
+        (PP-PRD (IN in) 
+          (NP 
+            (NP (DT the) (NN process) )
+            (PP (IN of) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG vacating) 
+                  (NP 
+                    (NP (PRP$ its) (NNS headquarters) )
+                    (ADVP-LOC (RB here) )))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (JJ huge) (NNS operations) )
+        (PP (IN like) 
+          (NP 
+            (NP (NNP J.C.) (NNP Penney) (CC &) (NNP Co.) )
+            (CC and) 
+            (NP (NNP Trans) (NNP World) (NNPS Airlines) ))))
+      (VP (VBP have) 
+        (ADVP-TMP (RB recently) )
+        (VP (VBN left) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP New) (NNP York) (NNS authorities) )
+      (, ,) 
+      (VP (VBN informed) 
+        (NP (-NONE- *) )
+        (NP-TMP (NN yesterday) )
+        (PP-CLR (IN about) 
+          (NP (DT the) (NN move) )))
+      (, ,) )
+    (VP (VBD reacted) 
+      (PP-MNR (IN with) 
+        (NP 
+          (NP (NN concern) )
+          (CC and) 
+          (NP (RB even) (DT some) (NN anger) )))
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT the) (NN idea) )
+          (PP (IN of) 
+            (S-NOM 
+              (NP-SBJ 
+                (NP (DT the) (NN nation) (POS 's) )
+                (JJ third-largest) (NN corporation) )
+              (VP (VBG leaving) 
+                (PP-MNR (IN without) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG giving) 
+                      (NP (PRP them) )
+                      (NP (DT an) (NN opportunity) 
+                        (S 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (TO to) 
+                            (VP (VB accommodate) 
+                              (NP (PRP it) ))))))))))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-2 (`` ``) 
+      (S 
+        (NP-SBJ (PRP We) )
+        (VP (VBP are) 
+          (ADJP-PRD (JJ dismayed) )))
+      (, ,) (CC but) 
+      (S 
+        (NP-SBJ (EX there) )
+        (VP (VBZ 's) 
+          (NP-PRD 
+            (NP (NN nothing) )
+            (SBAR 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (PRP we) )
+                (VP (MD can) 
+                  (VP (VB do) 
+                    (NP (-NONE- *T*-1) )
+                    (PP-CLR (IN about) 
+                      (NP (PRP it) ))
+                    (ADVP-TMP (RB now) ))))))))
+      (, ,) ('' '') )
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP Stanley) (NNP Grayson) )
+      (, ,) 
+      (NP 
+        (NP (NNP New) (NNP York) (NNP City) (NN deputy) (NN mayor) )
+        (PP (IN for) 
+          (NP 
+            (NP (NN finance) )
+            (CC and) 
+            (NP (JJ economic) (NN development) )))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Meanwhile) )
+    (, ,) 
+    (NP-SBJ (NNP Dallas) )
+    (VP (VBD welcomed) 
+      (NP (DT the) (NN move) ))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NN City) (NNS officials) )
+        (ADVP-LOC (EX there) ))
+      (X 
+        (VP (VBD had) 
+          (VP (VBN been) )))
+      (VP (VBD were) 
+        (ADJP-PRD (JJ aware) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (DT a) (JJ large) (NN company) )
+              (VP (VBD was) 
+                (VP (VBG moving) 
+                  (PRT (RP in) ))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-1 (NNS negotiations) )
+      (VP (VBD had) (DT all) 
+        (VP (VBN been) 
+          (VP (VBN conducted) 
+            (NP (-NONE- *-1) )
+            (PP-MNR 
+              (PP (IN through) 
+                (NP (DT a) (NN law) (NN firm) ))
+              (CC and) 
+              (PP (IN under) 
+                (NP 
+                  (NP (DT the) (NN code) (NN name) )
+                  (NP (`` ``) (NNS Everglades) ))))))))
+    (. .) ('' '') ))
+( (SINV 
+    (S-TPC-3 (`` ``) 
+      (S 
+        (SBAR-TMP 
+          (WHADVP-2 (WRB When) )
+          (S 
+            (NP-SBJ-1 (PRP we) )
+            (VP (VBD were) 
+              (VP (VBD told) 
+                (NP (-NONE- *-1) )
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBD was) 
+                      (NP-PRD (NNP Exxon) ))))
+                (ADVP-TMP (-NONE- *T*-2) )))))
+        (, ,) 
+        (NP-SBJ (PRP it) )
+        (VP (VBD was) 
+          (PP-PRD (IN beyond) 
+            (NP (DT all) (NNS expectations) ))))
+      (: ;) 
+      (FRAG 
+        (WHNP (WP what) 
+          (NP (DT a) (NN coup) )))
+      (, ,) ('' '') )
+    (VP (VBD said) 
+      (S (-NONE- *T*-3) ))
+    (NP-SBJ 
+      (NP (NNP Tom) (NNP Lewis) )
+      (, ,) 
+      (NP 
+        (NP (JJ senior) (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Dallas) (NNP Partnership) )
+            (, ,) 
+            (NP 
+              (NP (DT the) (JJ economic) (NN development) (NN affiliate) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NN city) (POS 's) )
+                    (NNP Chamber) )
+                  (PP (IN of) 
+                    (NP (NNP Commerce) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Dallas) ))
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ-1 (PRP$ its) (NN economy) )
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN on) 
+          (NP 
+            (NP (NN oil) )
+            (CC and) 
+            (NP (JJ real) (NN estate) )))))
+    (, ,) 
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (PP-PRD-LOC (IN in) 
+          (NP (DT a) (NN slump) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Exxon) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB build) 
+              (NP (DT a) (JJ new) (NN headquarters) )
+              (PP-LOC (IN on) 
+                (NP 
+                  (NP (DT a) (JJ 132-acre) (NN tract) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (DT the) (JJ 10-year-old) (NNP Las) (NNP Colinas) (NN complex) )
+                      (PP-LOC (IN in) 
+                        (NP 
+                          (NP (DT the) (NN suburb) )
+                          (PP (IN of) 
+                            (NP (NNP Irving) )))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP (IN Until) 
+      (S 
+        (NP-SBJ-1 (DT the) (NN building) )
+        (VP (VBZ is) 
+          (VP (VBN completed) 
+            (NP (-NONE- *-1) )))))
+    (, ,) 
+    (NP-SBJ (NNP Exxon) )
+    (VP (MD will) 
+      (VP (VB rent) 
+        (NP 
+          (NP (NN part) )
+          (PP (IN of) 
+            (NP (DT an) (VBG existing) (NN office) (NN tower) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Las) (NNP Colinas) )
+      (, ,) 
+      (NP 
+        (ADVP (RB once) )
+        (DT a) (JJ huge) (NNP Texas) (NN ranch) )
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (VBG sprawling) (NN complex) )
+        (PP (IN of) 
+          (NP 
+            (NP (NN office) (NNS buildings) )
+            (, ,) 
+            (NP (NNS homes) )
+            (CC and) 
+            (NP (JJ recreational) (NNS facilities) )))
+        (SBAR 
+          (WHNP-1 (IN that) )
+          (S 
+            (NP-SBJ-2 (PRP$ its) (NNS developers) )
+            (VP (VBP have) 
+              (VP (VBN been) 
+                (VP (VBG struggling) 
+                  (S 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (TO to) 
+                      (VP (VB populate) 
+                        (NP (-NONE- *T*-1) ))))
+                  (PP-TMP (IN in) 
+                    (NP (JJ recent) (NNS years) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Exxon) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP it) )
+            (S (-NONE- *EXP*-2) ))
+          (VP (MD will) 
+            (VP (VB cost) 
+              (ADJP 
+                (ADJP (JJR less) )
+                (PP (-NONE- *ICH*-3) ))
+              (S-2 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB run) 
+                    (NP (PRP$ its) (NN headquarters) )
+                    (PP-LOC (IN at) 
+                      (NP (NNP Las) (NNP Colinas) )))))
+              (PP-3 (IN than) 
+                (PP-LOC (IN in) 
+                  (NP (NNP New) (NNP York) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NN company) )
+      (VP (MD wo) (RB n't) 
+        (VP (VB say) 
+          (SBAR 
+            (WHNP-1 (WRB how) (JJ much) )
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (MD will) 
+                (VP (VB save) 
+                  (NP (-NONE- *T*-1) ))))))))
+    (, ,) (CC but) 
+    (S 
+      (X (IN during) )
+      (PP-LOC-TPC-2 (IN at) 
+        (NP (PRP$ its) (NN interim) (NN location) ))
+      (, ,) 
+      (NP-SBJ (NNS sources) )
+      (VP (VBP say) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (MD will) 
+              (ADVP (RB likely) )
+              (VP (VB pay) 
+                (NP 
+                  (NP (VB rent) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (QP ($ $) (CD 10) (TO to) ($ $) (CD 15) )
+                        (-NONE- *U*) )
+                      (PP (IN per) 
+                        (NP (JJ square) (NN foot) )))))
+                (PP-LOC (-NONE- *T*-2) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Owners) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NN building) )
+          (PP-LOC (IN in) 
+            (NP (NNP New) (NNP York) )))))
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP they) )
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBG asking) 
+                (NP 
+                  (NP ($ $) (CD 50) (-NONE- *U*) )
+                  (PP (IN per) 
+                    (NP (JJ square) (NN foot) )))
+                (PP-CLR (IN for) 
+                  (NP (NN rent) ))
+                (S-PRP 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB fill) 
+                      (NP 
+                        (NP (DT the) (NN space) )
+                        (SBAR 
+                          (WHNP-1 (IN that) )
+                          (S 
+                            (NP-SBJ (NNP Exxon) )
+                            (VP (VBZ is) 
+                              (VP (VBG vacating) 
+                                (NP (-NONE- *T*-1) )))))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (PP-LOC (IN In) 
+        (NP (NNP Texas) ))
+      (, ,) 
+      (NP-SBJ 
+        (NP (NNS taxes) )
+        (CC and) 
+        (NP (NN development) (NNS costs) ))
+      (VP (VBP are) 
+        (ADVP (RB also) )
+        (ADJP-PRD (JJR lower) )))
+    (, ,) 
+    (NP-SBJ (PRP they) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S-1 (CC Plus) 
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (CD one) (NNP Exxon) (NN official) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (PP-MNR (IN by) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG eliminating) 
+          (NP 
+            (NP (DT the) 
+              (ADJP (RB typically) (JJ long) )
+              (NNP New) (NNP York) (NNS commutes) )
+            (PP (IN between) 
+              (NP (NN office) 
+                (CC and)
+                (NN home) ))))))
+    (, ,) 
+    (NP-SBJ (NN management) )
+    (VP (MD will) 
+      (VP (VB expect) 
+        (S 
+          (NP-SBJ (NNS employees) )
+          (VP (TO to) 
+            (VP (VB work) 
+              (NP 
+                (NP (CD 40) (NNS hours) )
+                (NP-ADV (DT a) (NN week) ))
+              (PP-LOC (IN in) 
+                (NP (NNP Dallas) ))
+              (, ,) 
+              (PP (RB rather) (IN than) 
+                (NP 
+                  (NP (DT a) (JJ 35-hour) (NN work) (NN week) )
+                  (PP-LOC (IN in) 
+                    (NP (NNP New) (NNP York) )))))))))
+    (. .) ))

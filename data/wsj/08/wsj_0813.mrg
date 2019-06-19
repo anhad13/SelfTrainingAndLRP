@@ -1,0 +1,50 @@
+((S 
+    (NP-SBJ-1 
+      (NP (NNP F.) (NNP Gil) (NNP Troutman) )
+      (, ,) 
+      (ADJP 
+        (NP-ADV (CD 46) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD (JJ chief) (JJ executive) (NN officer) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP 
+      (VP (VBZ retains) 
+        (NP 
+          (NP (PRP$ his) (NNS titles) )
+          (PP (IN of) 
+            (NP 
+              (NP (NN president) )
+              (CC and) 
+              (NP (NN chief) (NN operating) (NN officer) )))))
+      (CC and) 
+      (VP (VBZ succeeds) 
+        (PP-CLR (RB as) 
+          (NP (JJ chief) (NN executive) ))
+        (NP 
+          (NP (NNP Howard) (NNP O.) (NNP Painter) (NNP Jr.) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBZ remains) 
+                (NP-PRD 
+                  (NP (NN chairman) )
+                  (PP (IN of) 
+                    (NP (DT the) (NN board) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP DSP) )
+    (VP (VBZ makes) 
+      (NP 
+        (NP (JJ electronic) (NN instrumentation) )
+        (CC and) 
+        (NP (NN data) (NN acquisition) (NNS systems) )))
+    (. .) ))

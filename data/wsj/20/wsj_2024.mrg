@@ -1,0 +1,61 @@
+
+( (S 
+    (NP-SBJ-2 (NNP Robert) (NNP J.) (NNP Regal) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (NP-PRD 
+            (NP 
+              (NP (NN president) )
+              (PP (-NONE- *RNR*-1) ))
+            (CC and) 
+            (NP 
+              (NP (NN chief) (JJ executive) (NN officer) )
+              (PP (-NONE- *RNR*-1) ))
+            (PP-1 (IN of) 
+              (NP 
+                (NP (DT this) (NN company) (POS 's) )
+                (NNP Universal-Rundle) (NNP Corp.) (NN unit) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Regal) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP 
+            (NP (NN president) )
+            (PP (-NONE- *RNR*-2) ))
+          (CC and) 
+          (NP 
+            (NP (NN chief) (NN executive) )
+            (PP (-NONE- *RNR*-2) ))
+          (PP-2 (IN of) 
+            (NP (NNP RBS) (NNPS Industries) (NNP Inc) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Robert) (NNP H.) (NNP Carlson) )
+      (, ,) 
+      (NP 
+        (NP (JJ previous) 
+          (NX 
+            (NX (NN president) )
+            (CC and) 
+            (NX (NN chief) (NN executive) )))
+        (PP (IN of) 
+          (NP (NNP Universal-Rundle) )))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB assume) 
+        (NP 
+          (NP (DT the) (NN title) )
+          (PP (IN of) 
+            (NP 
+              (NP (NN chairman) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN unit) )
+                  (, ,) 
+                  (NP (DT a) (NN vitreous-china) (NN maker) ))))))))
+    (. .) ))

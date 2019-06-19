@@ -1,0 +1,100 @@
+
+( (S 
+    (NP-SBJ (NNP Ferro) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB buy) 
+              (ADVP-CLR (RB back) )
+              (NP 
+                (QP (RB as) (JJ many) (IN as) (CD one) (CD million) )
+                (JJ common) (NNS shares) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN maker) )
+      (PP (IN of) 
+        (NP (NN chemical) 
+          (CC and)
+          (JJ industrial) (NNS materials) )))
+    (VP (VBD did) (RB n't) 
+      (VP (VB say) 
+        (SBAR 
+          (SBAR-NOM 
+            (WHNP-3 (WRB how) (JJ much) )
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (MD would) 
+                (VP (VB pay) 
+                  (NP (-NONE- *T*-3) )))))
+          (CC or) 
+          (SBAR 
+            (WHADVP-2 (WRB when) )
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (MD would) 
+                (VP (VB make) 
+                  (NP (DT the) (NNS transactions) )
+                  (ADVP-TMP (-NONE- *T*-2) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ferro) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD would) 
+            (VP (VB cancel) 
+              (NP 
+                (NP (DT the) (JJ unused) (NN portion) )
+                (PP (IN of) 
+                  (NP (DT a) (CD 1987) (NN buy-back) (NN plan) )))
+              (PP-PRP (IN for) 
+                (NP (JJ administrative) (NNS reasons) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN plan) )
+    (VP (VBZ calls) 
+      (SBAR-CLR (IN for) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (ADVP-CLR (RB back) )
+              (NP (CD 2,250,000) (NNS shares) )))))
+      (, ,) 
+      (SBAR-ADV 
+        (WHNP-3 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-3) )
+          (VP (VBZ reflects) 
+            (NP 
+              (NP (DT a) (JJ 3-for-2) (NN stock) (NN split) )
+              (NP-TMP (DT this) (NN year) ))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (IN So) (RB far) )
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD had) 
+      (VP (VBN bought) 
+        (ADVP-CLR (RB back) )
+        (NP 
+          (QP (CD 1.6) (CD million) )
+          (NNS shares) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (NP-TMP (NNP Friday) )
+    (, ,) 
+    (NP-SBJ (NNP Ferro) )
+    (VP (VBD closed) 
+      (PP-LOC-CLR (IN at) 
+        (NP ($ $) (CD 25.25) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP (CD 50) (NNS cents) )))
+    (. .) ))

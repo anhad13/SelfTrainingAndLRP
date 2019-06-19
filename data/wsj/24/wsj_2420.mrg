@@ -1,0 +1,120 @@
+
+( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (NNP Dresdner) (NNP Bank) (NNP AG) )
+        (PP (IN of) 
+          (NP (NNP West) (NNP Germany) )))
+      (VP (VBZ has) 
+        (VP (VBN announced) 
+          (NP 
+            (NP (DT a) (JJ friendly) (NN tender) (NN offer) )
+            (PP (IN for) 
+              (NP 
+                (NP (NN control) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (NP (NNP Banque) (NNP Internationale) )
+                      (PP (IN de) 
+                        (NP (NNP Placements) )))
+                    (, ,) 
+                    (NP 
+                      (NP (DT a) (JJ French) (NN bank) )
+                      (SBAR 
+                        (WHNP-1 (WP$ whose) (JJ main) (NN shareholder) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-1) )
+                          (VP (VBZ is) 
+                            (NP-PRD 
+                              (NP (NNP France) (POS 's) )
+                              (NNP Societe) (NNP Generale) )))))
+                    (, ,) ))))))))
+    (NP-SBJ (DT the) (NNP Societe) (FW de) (NNP Bourses) (NNP Francaises) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN tender) (NN offer) )
+      (PP (IN by) 
+        (NP 
+          (NP (NNP West) (NNP Germany) (POS 's) )
+          (JJ second-biggest) (JJ commercial) (NN bank) )))
+    (VP (VBZ is) 
+      (PP-PRD (IN in) 
+        (NP (CD two) (NNS stages) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Dresdner) )
+    (VP (VBZ is) 
+      (VP (VBG offering) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB acquire) 
+              (NP 
+                (NP (CD 32.99) (NN %) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP BIP) (POS 's) )
+                    (NN capital) )))
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP 
+                    (NP (CD 1,015) (NNS francs) )
+                    (PRN 
+                      (-LRB- -LRB-)
+                      (NP ($ $) (CD 156.82) (-NONE- *U*) )
+                      (-RRB- -RRB-) ))
+                  (NP-ADV (DT a) (NN share) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS terms) )
+      (PP (IN of) 
+        (NP (DT the) (NN offer) )))
+    (VP (VBD put) 
+      (NP 
+        (NP (DT a) (NN value) )
+        (PP (IN of) 
+          (NP 
+            (NP (CD 528) (CD million) (NNS francs) )
+            (PRN 
+              (-LRB- -LRB-)
+              (NP 
+                (QP ($ $) (CD 81.6) (CD million) )
+                (-NONE- *U*) )
+              (-RRB- -RRB-) ))))
+      (PP-PUT (IN on) 
+        (NP (DT the) 
+          (ADJP (CD 32.99) (NN %) )
+          (NN shareholding) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Societe) (NNP Generale) (NN banking) (NN group) )
+    (VP (VBZ controls) 
+      (NP 
+        (NP (CD 18.2) (NN %) )
+        (PP (IN of) 
+          (NP (DT the) (NN shareholding) )))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (S 
+            (NP-SBJ 
+              (NP (NNP Societe) (NNP Generale) )
+              (PP (FW de) 
+                (NP (NNP Belgique) (NNP S.A.) )))
+            (VP (VBZ owns) 
+              (NP (CD 9.69) (NN %) )))
+          (CC and) 
+          (S 
+            (NP-SBJ 
+              (NP (NNP Financiere) (NNP Tradition) )
+              (, ,) 
+              (NP (DT a) (VBG holding) (NN company) )
+              (, ,) )
+            (VP (VBZ owns) 
+              (NP (CD 5.1) (NN %) ))))))
+    (. .) ))

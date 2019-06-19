@@ -1,0 +1,126 @@
+
+( (S 
+    (NP-SBJ (NNP Amgen) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (JJ second-quarter) (NNS earnings) )
+          (VP (VBD increased) 
+            (ADVP (RBR more) (IN than) (RB tenfold) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 3.9) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD 22) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))))
+            (, ,) 
+            (PP-PRP (JJ due) 
+              (PP (TO to) 
+                (NP 
+                  (NP (VBN increased) (NNS sales) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (NP (DT the) (NN company) (POS 's) )
+                        (JJ new) (JJ antianemia) (NN drug) )
+                      (PP (IN for) 
+                        (NP (NN kidney) (NNS patients) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (ADJP (NNP Thousand) (NNP Oaks) 
+        (, ,)
+        (JJ Calif.-based) )
+      (NN biotechnology) (NN company) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 97) (NN %) )
+          (NN increase) )
+        (PP-LOC (IN in) 
+          (NP (NN revenue) ))
+        (PP (TO to) 
+          (NP 
+            (QP ($ $) (CD 42.5) (CD million) )
+            (-NONE- *U*) )))
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) (NN quarter) )
+          (VP (VBN ended) 
+            (NP-TMP (NNP Sept.) (CD 30) )))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (JJ year-ago) (NN period) ))
+    (, ,) 
+    (NP-SBJ (NNP Amgen) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (JJ net) (NN income) )
+        (PP (IN of) 
+          (NP 
+            (NP ($ $) (CD 320,000) (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD two) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))))
+        (, ,) 
+        (PP (IN on) 
+          (NP 
+            (NP (NN revenue) )
+            (PP (IN of) 
+              (NP 
+                (QP ($ $) (CD 21.5) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (DT the) (CD six) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) 
+          (ADVP (JJR more) (IN than) (JJ sixfold) )
+          (NN increase) )
+        (PP-LOC (IN in) 
+          (NP (NNS earnings) ))
+        (PP (TO to) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 4.7) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 26) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))))
+        (, ,) 
+        (PP (IN from) 
+          (NP 
+            (NP ($ $) (CD 625,000) (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD four) (NNS cents) )
+              (NP-ADV (DT a) (NN share) )))
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RB ago) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 77) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 72.6) (CD million) )
+          (-NONE- *U*) ))
+      (, ,) 
+      (PP-DIR (IN from) 
+        (NP 
+          (NP (JJ last) (NN year) (POS 's) )
+          (QP ($ $) (CD 41) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))

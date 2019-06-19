@@ -1,0 +1,140 @@
+
+( (S 
+    (NP-SBJ-1 (NNPS Citizens) (NNP First) (NNP Bancorp) (. .) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB buy) 
+                  (NP 
+                    (NP (NNP Lakeland) (NNP First) (NNP Financial) (NNP Group) (NNP Inc.) )
+                    (, ,) 
+                    (NP (DT a) 
+                      (NP 
+                        (NP (NNP Succasunna) )
+                        (, ,) 
+                        (NP (NNP N.J.) )
+                        (, ,) )
+                      (NN bank) (VBG holding) (NN company) )
+                    (, ,) )
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (NP 
+                        (QP (IN about) ($ $) (CD 50.6) (CD million) )
+                        (-NONE- *U*) )
+                      (PP (IN in) 
+                        (NP (NN cash) 
+                          (CC and)
+                          (NN stock) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNPS Citizens) (NNP First) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP 
+            (VP (VBZ controls) 
+              (NP (NNPS Citizens) (NNP First) (NNP National) (NNP Bank) ))
+            (CC and) 
+            (VP (VBZ is) 
+              (VP (VBN based) 
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (NNP Glen) (NNP Rock) )
+                    (, ,) 
+                    (NP (NNP N.J.) ))))))))
+      (, ,) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB pay) 
+          (NP-2 
+            (NP (DT a) (NN maximum) )
+            (PP (IN of) 
+              (NP (CD 40) (NN %) )))
+          (PP-MNR-3 (IN in) 
+            (NP (NN cash) ))
+          (PP-CLR (IN for) 
+            (NP 
+              (NP (DT the) (NN parent) )
+              (PP (IN of) 
+                (NP (NNP Lakeland) (NNP Savings) (NNP Bank) )))))
+        (VP 
+          (CC and)
+          (NP=2 (DT the) (NN remainder) )
+          (PP-MNR=3 (IN in) 
+            (NP 
+              (NP (JJ convertible) (VBN preferred) (NN stock) )
+              (, ,) 
+              (PP (IN with) 
+                (NP 
+                  (NP (DT a) (NN liquidation) (NN value) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP ($ $) (CD 18) (-NONE- *U*) )
+                      (NP-ADV (DT a) (NN share) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Lakeland) (NNS holders) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (NP (DT the) (NN option) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (NN request) 
+                (NP (DT either) (NN stock) (CC or) (NN cash) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN convertible) (VBN preferred) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB pay) 
+          (NP (NNS dividends) )
+          (PP-CLR (IN at) 
+            (NP (CD 7.875) (NN %) )))
+        (CC and) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ convertible) 
+            (PP (IN into) 
+              (NP 
+                (NP (NNS shares) )
+                (PP (IN of) 
+                  (NP (NNPS Citizens) (NNP First) ))))
+            (PP (IN at) 
+              (NP 
+                (NP (DT a) (NN rate) )
+                (ADJP (JJ equal) 
+                  (PP (TO to) 
+                    (NP 
+                      (NP (CD 20) (NN %) )
+                      (PP-LOC (IN above) 
+                        (NP 
+                          (NP (DT the) (NN average) (VBG closing) (NN price) )
+                          (PP (IN of) 
+                            (NP (DT the) (NN stock) ))
+                          (PP-TMP (IN during) 
+                            (NP 
+                              (NP (DT a) (JJ 20-day) (NN period) )
+                              (PP-TMP 
+                                (ADVP (RB prior) )
+                                (TO to) 
+                                (NP 
+                                  (NP (DT the) (NN transaction) (POS 's) )
+                                  (NN completion) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN deal) )
+    (VP (VBZ requires) 
+      (NP 
+        (UCP (JJ regulatory) 
+          (CC and)
+          (NN shareholder) )
+        (NN approval) ))
+    (. .) ))

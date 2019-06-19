@@ -1,0 +1,108 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP AEG) (NNP AG) )
+      (CC and) 
+      (NP (NNP Siemens) (NNP AG) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (MD will) 
+            (VP (VB launch) 
+              (NP 
+                (NP (PRP$ their) 
+                  (ADJP (RB previously) (VBN announced) )
+                  (JJ joint) (NN venture) )
+                (PP (IN for) 
+                  (NP (NN power) (NNS semiconductors) )))
+              (PP-TMP (IN in) 
+                (NP (NNP January) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (CD two) 
+      (ADJP (JJ West) (JJ German) )
+      (NN electronics) (NNS concerns) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP they) )
+          (VP (VBP have) 
+            (VP (VBN set) 
+              (PRT (RP up) )
+              (NP (NNP European) (NNP Power) (NNP Semiconductor) (NNP Co.) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB merge) 
+                    (NP 
+                      (NP (PRP$ their) (NNS activities) )
+                      (PP-LOC (IN in) 
+                        (NP (DT the) (NN field) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP AEG) 
+      (CC and)
+      (NNP Siemens) )
+    (DT each) 
+    (VP (MD will) 
+      (VP (VB hold) 
+        (NP 
+          (NP (DT a) 
+            (ADJP (CD 50) (NN %) )
+            (NN stake) )
+          (PP-LOC (IN in) 
+            (NP (DT the) (NN venture) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ joint) (NN venture) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (NP 
+          (NP 
+            (NP (JJ nominal) (NN capital) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (QP (CD 50) (CD million) )
+                  (NNS marks) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP 
+                    (QP ($ $) (CD 26.9) (CD million) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) ))))
+          (CC and) 
+          (NP (CD 700) (NNS employees) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (MD will) 
+      (VP (VB develop) 
+        (, ,)
+        (VB produce) 
+        (CC and)
+        (VB market) 
+        (NP (JJ high-performance) (JJ electronic) (NNS parts) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Siemens) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (NNP West) (NNP Germany) (POS 's) )
+        (JJS largest) (NN electronics) (NN group) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP AEG) )
+    (VP (VBZ is) 
+      (NP-EXT (CD 80) (NN %) )
+      (VP (VBN owned) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (NNP Daimler-Benz) (NNP AG) )
+            (, ,) 
+            (NP 
+              (NP (DT the) (NN country) (POS 's) )
+              (JJS biggest) (JJ industrial) (NN concern) )))))
+    (. .) ))

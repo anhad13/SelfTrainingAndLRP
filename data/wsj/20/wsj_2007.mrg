@@ -1,0 +1,613 @@
+
+( (S 
+    (NP-SBJ (CD Three) (VBG leading) (NN drug) (NNS companies) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (JJ robust) (NN third-quarter) (NNS earnings) )
+        (, ,) 
+        (VP (VBN bolstered) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (JJ strong) (NNS sales) )
+              (PP (IN of) 
+                (NP 
+                  (NP (JJR newer) 
+                    (, ,)
+                    (JJ big-selling) (NNS prescriptions) (NNS drugs) )
+                  (SBAR 
+                    (WHNP-1 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBP provide) 
+                        (NP (JJ hefty) (NN profit) (NNS margins) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Merck) (CC &) (NNP Co.) )
+      (VP (VBD reported) 
+        (NP 
+          (NP (DT a) 
+            (ADJP (CD 25) (NN %) )
+            (NN increase) )
+          (PP-LOC (IN in) 
+            (NP (NNS earnings) )))))
+    (: ;) 
+    (S 
+      (S 
+        (NP-SBJ 
+          (NP (NNP Warner-Lambert) (NNP Co.) (POS 's) )
+          (NN profit) )
+        (VP (VBD rose) 
+          (NP-EXT (CD 22) (NN %) )))
+      (CC and) 
+      (S 
+        (NP-SBJ 
+          (NP (NNP Eli) (NNP Lilly) (CC &) (NNP Co.) (POS 's) )
+          (JJ net) (NN income) )
+        (VP (VBD rose) 
+          (NP-EXT (CD 24) (NN %) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS results) )
+    (VP (VBD were) 
+      (PP-PRD (IN in) 
+        (NP 
+          (NP (NN line) )
+          (PP (IN with) 
+            (NP 
+              (NP (NNS analysts) (POS ') )
+              (NNS expectations) )))))
+    (. .) ))
+( (NP-HLN (NNP Merck) (CC &) (NNP Co) (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Merck) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Rahway) )
+        (, ,) 
+        (NP (NNP N.J.) ))
+      (, ,) )
+    (VP (VBD continued) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB lead) 
+            (NP (DT the) (NN industry) )
+            (PP (IN with) 
+              (NP 
+                (NP (DT a) (JJ strong) (NNS sales) (NN performance) )
+                (PP-LOC (IN in) 
+                  (NP (DT the) (NN human) 
+                    (CC and)
+                    (NN animal) (NNS health-products) (NN segment) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (JJR stronger) (NNP U.S.) (NN dollar) )
+    (VP (VBD reduced) 
+      (NP (NN third-quarter) 
+        (CC and)
+        (JJ first-nine-month) (NNS sales) (NN growth) )
+      (NP-EXT 
+        (NP 
+          (QP (CD 2) (NN %) 
+            (CC and)
+            (CD 3) (NN %) )
+          (-NONE- *U*) )
+        (, ,) 
+        (ADVP (RB respectively) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ International) (NNS sales) )
+    (VP (VBD accounted) 
+      (PP-CLR (IN for) 
+        (NP 
+          (NP (CD 47) (NN %) )
+          (PP (IN of) 
+            (NP 
+              (NP (JJ total) (NN company) (NNS sales) )
+              (PP (IN for) 
+                (NP (DT the) (CD nine) (NNS months) ))))))
+      (, ,) 
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP (CD 50) (NN %) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Sales) )
+      (PP (IN for) 
+        (NP (DT the) (NN quarter) )))
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 1.63) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 1.47) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP Mevacor) )
+        (, ,) 
+        (NP 
+          (NP (NNP Merck) (POS 's) )
+          (JJ new) (JJ cholesterol-lowering) (NN drug) )
+        (, ,) )
+      (VP (VBD had) 
+        (NP 
+          (NP (JJR higher) (NNS sales) )
+          (SBAR (IN than) 
+            (S 
+              (NP-SBJ (DT any) (JJ other) (NN prescription) (NN medicine) )
+              (VP (VBZ has) 
+                (ADVP-TMP (RB ever) )
+                (VP (VBN achieved) 
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NNP U.S.) ))
+                  (PP-TMP (IN in) 
+                    (NP 
+                      (NP (DT the) (NN year) )
+                      (PP (VBG following) 
+                        (NP (NN introduction) )))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN drug) )
+    (VP (VBD was) 
+      (VP (VBN introduced) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN in) 
+          (NP (NNP West) (NNP Germany) ))
+        (NP-TMP (DT this) (NN year) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Intense) (NN competition) )
+    (, ,) 
+    (ADVP (RB however) )
+    (, ,) 
+    (VP (VBD led) 
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (NN unit) (NNS sales) (NNS declines) )
+          (PP (IN for) 
+            (NP 
+              (NP 
+                (NP (DT a) (NN group) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Merck) (POS 's) )
+                    (VBN established) (NN human) 
+                    (CC and)
+                    (NN animal-health) (NNS products) )))
+              (, ,) 
+              (PP (VBG including) 
+                (NP (NNP Aldomet) 
+                  (CC and)
+                  (NNP Indocin) )))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (NN Merck) (NNS shares) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 75.25) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (IN up) 
+        (NP (CD 50) (NNS cents) )))
+    (. .) ))
+( (NP-HLN (NNP Warner-Lambert) (NNP Co) (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Warner-Lambert) )
+      (, ,) 
+      (NP 
+        (NP (NNP Morris) (NNP Plains) )
+        (, ,) 
+        (NP (NNP N.J.) )
+        (, ,) ))
+    (VP (VBD reported) 
+      (NP 
+        (NP (NNS sales) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD were) 
+              (NP-PRD 
+                (NP 
+                  (NP (DT a) (NN record) )
+                  (PP (IN for) 
+                    (NP (DT any) (NN quarter) )))
+                (CC and) 
+                (NP 
+                  (NP (DT the) (JJ eighth) (NN quarter) )
+                  (PP (IN in) 
+                    (NP (DT a) (NN row) ))
+                  (PP (IN of) 
+                    (NP 
+                      (QP (CD 20) (NN %) (CC or) (JJR more) )
+                      (JJ per-share) (NNS earnings) (NN growth) )))))))))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBN Spurred) 
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (NN growth) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (JJ world-wide) (NNS sales) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN company) (POS 's) )
+                    (NN prescription) (NNS drugs) ))))))))
+    (, ,) 
+    (NP-SBJ-1 (NNP Warner-Lambert) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (CD 1989) )
+          (VP (MD will) 
+            (VP (VB be) 
+              (NP-PRD 
+                (NP (DT the) (JJS best) (NN year) )
+                (PP-TMP (IN in) 
+                  (NP (PRP$ its) (NN history) )))
+              (, ,) 
+              (SBAR (IN with) 
+                (S 
+                  (NP-SBJ-2 (JJ per-share) (NNS earnings) )
+                  (VP (VBN expected) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB increase) 
+                          (NP 
+                            (QP (JJR more) (IN than) (CD 20) )
+                            (NN %) )
+                          (PP-DIR (TO to) 
+                            (NP 
+                              (QP (IN about) ($ $) (CD 6.10) )
+                              (-NONE- *U*) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Sales) )
+      (PP (IN for) 
+        (NP (DT the) (NN quarter) )))
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 1.11) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 1.03) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NN Prescription-drug) (JJ world-wide) (NNS sales) )
+      (VP (VBD rose) 
+        (NP-EXT (CD 9) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (DT the) (NN quarter) ))
+        (PP-DIR (TO to) 
+          (NP 
+            (QP ($ $) (CD 340) (CD million) )
+            (-NONE- *U*) ))))
+    (: ;) 
+    (S 
+      (NP-SBJ (NNP U.S.) (NNS sales) )
+      (VP (VBD rose) 
+        (NP-EXT (CD 15) (NN %) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN segment) (POS 's) )
+      (NN growth) )
+    (VP (VBD was) 
+      (VP (VBN led) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (NNS sales) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (JJ cardiovascular) (NNS drugs) )
+                (NP 
+                  (NP 
+                    (NP (NNP Lopid) )
+                    (, ,) 
+                    (NP (DT a) (NN lipid) (NN regulator) ))
+                  (, ,) 
+                  (CC and)
+                  (NP 
+                    (NP (NNP Dilzem) )
+                    (, ,) 
+                    (NP (DT a) (NN calcium) (NN channel) (NN blocker) )))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (JJ World-wide) (NNS sales) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (NNP Warner-Lambert) (POS 's) )
+              (JJ non-prescription) (NN health-care) (NNS products) )
+            (, ,) 
+            (PP (JJ such) (IN as) 
+              (NP 
+                (NP (NNP Halls) (NN cough) (NNS tablets) )
+                (, ,) 
+                (NP (NNP Rolaids) (NN antacid) )
+                (, ,) 
+                (CC and)
+                (NP (NNP Lubriderm) (NN skin) (NN lotion) )))
+            (, ,) )))
+      (VP (VBD increased) 
+        (NP-EXT (CD 3) (NN %) )
+        (PP-DIR (TO to) 
+          (NP 
+            (QP ($ $) (CD 362) (CD million) )
+            (-NONE- *U*) ))
+        (PP-TMP (IN in) 
+          (NP (DT the) (JJ third) (NN quarter) ))))
+    (: ;) 
+    (S 
+      (NP-SBJ (NNP U.S.) (NNS sales) )
+      (VP (VBD rose) 
+        (NP-EXT (CD 5) (NN %) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Confectionery) (NNS products) (NNS sales) )
+    (ADVP (RB also) )
+    (VP (VBD had) 
+      (NP (JJ strong) (NN growth) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (NN quarter) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ World-wide) (NNS sales) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Trident) (NN gum) )
+          (, ,) 
+          (NP (NNP Certs) (NN breath) (NNS mints) )
+          (, ,) 
+          (CC and)
+          (NP (NNP Clorets) (NN gum) 
+            (CC and)
+            (NN breath) (NNS mints) )
+          (, ,) )))
+    (VP (VB increased) 
+      (NP-EXT (CD 12) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 277) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Warner-Lambert) (NNS shares) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 109.50) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (ADVP (IN up) 
+        (NP ($ $) (CD 1.50) (-NONE- *U*) ))
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP (NNP Big) (NNP Board) (JJ composite) (NN trading) ))
+      (NP-TMP (NN yesterday) ))
+    (. .) ))
+( (NP-HLN (NNP Eli) (NNP Lilly) (CC &) (NNP Co) (. .) ))
+( (S 
+    (NP-SBJ (NNP Lilly) )
+    (VP (VBD attributed) 
+      (NP (NN record) (JJ third-quarter) 
+        (CC and)
+        (JJ nine-month) (NNS results) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (JJ world-wide) (NNS gains) )
+          (PP (IN for) 
+            (NP 
+              (NP (NNS pharmaceuticals) )
+              (, ,) 
+              (NP (JJ medical) (NNS instruments) )
+              (CC and) 
+              (NP (NN plant-science) (NNS products) )))
+          (PP (IN despite) 
+            (NP 
+              (NP 
+                (NP (JJ poor) (NN exchange) (NNS rates) )
+                (PP (IN for) 
+                  (NP (DT the) (NN dollar) )))
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBD slowed) 
+                    (NP 
+                      (NP (NNS sales) )
+                      (ADVP-LOC (RB abroad) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Earnings) )
+    (VP (VBD continued) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB pace) 
+            (NP (NNS sales) ))))
+      (PP-PRP (IN because) (IN of) 
+        (NP 
+          (NP (DT a) (JJR lower) (NN tax) (NN rate) )
+          (, ,) 
+          (NP 
+            (NP (NN profit) )
+            (PP (IN from) 
+              (NP 
+                (NP (DT the) (NN renegotiation) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN debt) (NN instrument) )
+                    (VP (VBN received) 
+                      (NP (-NONE- *) )
+                      (PP-CLR (IN from) 
+                        (NP (NNP Faberge) (NNP Inc.) ))
+                      (PP (IN in) 
+                        (NP 
+                          (NP (NN connection) )
+                          (PP (IN with) 
+                            (NP 
+                              (NP 
+                                (NP (NNP Lilly) (POS 's) )
+                                (NN sale) )
+                              (PP (IN of) 
+                                (NP (NNP Elizabeth) (NNP Arden) (NNP Inc.) ))
+                              (PP-TMP (IN in) 
+                                (NP (CD 1987) ))))))))))))
+          (, ,) 
+          (CC and)
+          (NP 
+            (NP (JJ net) (NNS proceeds) )
+            (PP (IN from) 
+              (NP 
+                (NP (DT the) (NN settlement) )
+                (PP (IN of) 
+                  (NP (NN patent) (NN litigation) ))
+                (PP-LOC (IN at) 
+                  (NP 
+                    (NP (NNP Lilly) (POS 's) )
+                    (NNP Hybritech) (NNP Inc.) (NN unit) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Third-quarter) (NNS sales) )
+      (PP (IN of) 
+        (NP (DT the) 
+          (NAC-LOC (NNP Indianapolis) 
+            (, ,)
+            (NNP Ind.) 
+            (, ,)
+            )
+          (NN company) )))
+    (VP (VBD rose) 
+      (NP-EXT (CD 11) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 1.045) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 940.6) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Nine-month) (NNS sales) )
+    (VP (VBD grew) 
+      (NP-EXT (CD 12) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 3.39) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 3.03) (CD billion) )
+          (-NONE- *U*) )
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (RBR earlier) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Sales) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Prozac) )
+          (, ,) 
+          (NP (DT an) (NN anti-depressant) )
+          (, ,) )))
+    (VP (VBD led) 
+      (NP (NNS drug-sales) (NNS increases) ))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (JJR Higher) (NNS sales) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS pesticides) )
+            (CC and) 
+            (NP (JJ other) (NN plant-science) (NNS products) ))))
+      (VP 
+        (ADVP (RBR more) (IN than) )
+        (VBP offset) 
+        (NP 
+          (NP (DT a) (JJ slight) (NN decline) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (DT the) (NNS sales) )
+              (PP (IN of) 
+                (NP (NN animal-health) (NNS products) )))))
+        (S-CLR 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB fuel) 
+              (NP 
+                (NP (DT the) (NN increase) )
+                (PP-LOC (IN in) 
+                  (NP (JJ world-wide) (JJ agricultural) (NN product) (NNS sales) ))))))))
+    (, ,) 
+    (NP-SBJ (NNP Lilly) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Advanced) (NNP Cardiovascular) (NNPS Systems) (NNP Inc.) )
+      (CC and) 
+      (NP (NNP Cardiac) (NNPS Pacemakers) (NNP Inc.) (NNS units) ))
+    (VP (VBD led) 
+      (NP 
+        (NP (NN growth) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (JJ medical-instrument) (NNS systems) (NN division) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Lilly) (NNS shares) )
+    (VP (VBD closed) 
+      (NP-TMP (NN yesterday) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (JJ composite) (NN trading) )
+          (PP-LOC (IN on) 
+            (NP (DT the) (NNP Big) (NNP Board) ))))
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 62.25) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (IN down) 
+        (NP (CD 12.5) (NNS cents) )))
+    (. .) ))

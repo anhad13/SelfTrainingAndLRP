@@ -1,0 +1,35 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP General) (NNPS Motors) (NNP Corp.) (POS 's) )
+      (NNP Chevrolet) (NN division) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG offering) 
+              (NP 
+                (NP 
+                  (ADJP ($ $) (CD 750) (-NONE- *U*) )
+                  (NN cash) (NNS incentives) )
+                (PP (IN on) 
+                  (NP 
+                    (NP (DT all) (CD 1990) (NNS models) )
+                    (PP (IN of) 
+                      (NP (PRP$ its) (JJ full-size) (NNP Blazer) 
+                        (CC and)
+                        (NNP Suburban) (NN truck) (NNS lines) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Chevrolet) )
+    (ADVP (RB already) )
+    (VP (VBZ has) 
+      (NP 
+        (NP (NN cash) (NNS incentives) )
+        (PP (IN on) 
+          (NP 
+            (NP (DT the) (CD 1989) (NNS models) )
+            (PP (IN of) 
+              (NP (DT these) (NNS vehicles) ))))))
+    (. .) ))

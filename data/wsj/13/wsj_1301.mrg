@@ -1,0 +1,99 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Moody) (POS 's) ))
+      (NNP Investors) (NNP Service) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD lowered) 
+            (NP 
+              (NP (DT the) (NN debt) (NNS ratings) )
+              (PP (IN of) 
+                (NP 
+                  (NP (JJ certain) (JJ long-term) (NN debt) )
+                  (VP (VBN held) 
+                    (NP (-NONE- *) )
+                    (PP (IN by) 
+                      (NP-LGS (DT this) (NN company) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ debt-rating) (NN concern) )
+    (VP (VBD cited) 
+      (NP 
+        (NP 
+          (NP (DT the) (NN bank) (POS 's) )
+          (NN move) )
+        (PP (IN into) 
+          (NP (DT the) (NNP Texas) (NN market) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG noting) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ (PRP$ its) (NN profitability) 
+                (CC and)
+                (NN capital) (NN adequacy) (NNS measurements) )
+              (VP (MD will) 
+                (VP (VB be) 
+                  (ADJP-PRD (JJ depressed) )
+                  (ADVP (JJ relative) 
+                    (PP (TO to) 
+                      (NP 
+                        (NP (DT the) (NN bank) (POS 's) )
+                        (JJ past) (NN performance) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Moody) (POS 's) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD raised) 
+            (NP 
+              (NP (PRP$ its) (NN rating) )
+              (PP (IN on) 
+                (NP 
+                  (NP (DT the) (NNP Deposit) (NNP Insurance) (NNP Bridge) (NNP Bank) )
+                  (, ,) 
+                  (VP 
+                    (ADVP-TMP (RB now) )
+                    (VBN known) 
+                    (NP (-NONE- *) )
+                    (PP-CLR (IN as) 
+                      (NP 
+                        (NP (NNP Bank) (CD One) )
+                        (, ,) 
+                        (NP (NNP Texas) (NNP N.A.) )))))))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG reflecting) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NN support) )
+                    (PP (IN of) 
+                      (NP (JJ other) (NN banking) (NNS affiliates) )))
+                  (CC and) 
+                  (NP 
+                    (NP (JJ substantial) (NN assistance) )
+                    (PP (IN for) 
+                      (NP (DT the) (NNP FDIC) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Officials) )
+      (PP-LOC (IN at) 
+        (NP (DT the) (NNP New) (NNP York) (JJ bank-holding) (NN company) )))
+    (VP (VBD were) (RB n't) 
+      (ADJP-PRD (JJ available) 
+        (PP (IN for) 
+          (NP 
+            (NP (NN comment) )
+            (PP (IN on) 
+              (NP (DT the) (JJ debt-rating) (NNS changes) ))))))
+    (. .) ))

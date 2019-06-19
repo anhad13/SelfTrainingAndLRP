@@ -1,0 +1,33 @@
+
+( (S 
+    (NP-SBJ (JJ Financial) (NN printer) (NNP Bowne) (CC &) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD formed) 
+            (NP 
+              (NP (DT a) (NN business) (NN translation) (NN service) )
+              (, ,) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (MD will) 
+                    (VP (VB provide) 
+                      (NP (JJ legal) 
+                        (, ,)
+                        (JJ financial) 
+                        (CC and)
+                        (JJ other) (NNS services) )
+                      (PP (IN in) 
+                        (NP 
+                          (NP (JJS most) (JJ major) (NNS languages) )
+                          (, ,) 
+                          (PP (VBG including) 
+                            (NP (NNP Japanese) 
+                              (, ,)
+                              (NNP Chinese) 
+                              (CC and)
+                              (NNP Russian) )))))))))))))
+    (. .) ))

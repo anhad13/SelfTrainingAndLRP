@@ -1,0 +1,29 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Charles) (NNP D) (. .) (NNP Way) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP (DT this) (NN restaurant) (NN operator) )))
+      (, ,) )
+    (VP (VBD assumed) 
+      (NP 
+        (NP (DT the) (JJ additional) (NN post) )
+        (PP (IN of) 
+          (NP (NN chief) (NN executive) (NN officer) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ succeeds) 
+      (NP (NNP Alvin) (NNP A.) (NNP McCall) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NN position) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP McCall) )
+    (VP (MD will) 
+      (VP (VB remain) 
+        (NP-PRD (NN chairman) )))
+    (. .) ))

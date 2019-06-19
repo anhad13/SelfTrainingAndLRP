@@ -1,0 +1,56 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Frederick) (NNP W.) (NNP Lang) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 65) (NNS years) )
+        (JJ old) )
+      (, ,) 
+      (NP 
+        (NP (DT the) (NN founder) )
+        (PP (IN of) 
+          (NP (DT this) (NN software) (NNS services) (NN concern) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (JJ new) (NN post) )
+            (PP (IN of) 
+              (NP (NN chairman) ))))))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (ADVP-TMP (RB Formerly) )
+      (NP-PRD (NN president) 
+        (CC and)
+        (NN treasurer) ))
+    (, ,) 
+    (NP-SBJ-1 (NNP Mr.) (NNP Lang) )
+    (VP (VBZ remains) 
+      (NP-PRD (JJ chief) (NN executive) (NN officer) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Victor) (NNP C.) (NNP Benda) )
+      (, ,) 
+      (NP (CD 58) )
+      (, ,) 
+      (ADVP (RB formerly) )
+      (NP (NN executive) (NN vice) (NN president) )
+      (, ,) )
+    (VP 
+      (VP (VBZ succeeds) 
+        (NP (NNP Mr.) (NNP Lang) )
+        (PP-CLR (IN as) 
+          (NP (NN president) )))
+      (CC and) 
+      (VP (VBZ becomes) 
+        (NP-PRD 
+          (NP (JJ chief) (VBG operating) (NN officer) )
+          (, ,) 
+          (NP (DT a) (JJ new) (NN post) ))))
+    (. .) ))

@@ -1,0 +1,58 @@
+
+( (S 
+    (NP-SBJ (JJ Finnish) (NN conglomerate) (NNP Nokia) (NNP Oy) (NNP AB) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reached) 
+            (NP (DT an) (NN agreement) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB buy) 
+                    (NP (NNP Dutch) (NN cable) (NN company) (NNP NKF) (NNP Kabel) (NNP B.V.) )
+                    (PP-CLR (IN for) 
+                      (NP 
+                        (NP 
+                          (QP (CD 420) (CD million) )
+                          (JJ Finnish) (FW markka) )
+                        (PRN 
+                          (-LRB- -LRB-)
+                          (NP 
+                            (QP ($ $) (CD 99.5) (CD million) )
+                            (-NONE- *U*) )
+                          (-RRB- -RRB-) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Nokia) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (MD will) 
+            (VP (VB gain) 
+              (NP 
+                (NP (NN control) )
+                (PP (IN over) 
+                  (NP (NNP NKF) (NNP Kabel) )))
+              (PP-MNR (IN by) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (VBG buying) 
+                    (NP 
+                      (NP (CD 51) (NN %) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT the) (NNS shares) )
+                          (PP-LOC (IN in) 
+                            (NP 
+                              (NP (NNP NKF) (NNP Holding) (NNP N.V.) )
+                              (, ,) 
+                              (SBAR 
+                                (WHNP-1 (WDT which) )
+                                (S 
+                                  (NP-SBJ (-NONE- *T*-1) )
+                                  (VP (VBZ owns) 
+                                    (NP (NNP NKF) (NNP Kabel) )))))))))))))))))
+    (. .) ))

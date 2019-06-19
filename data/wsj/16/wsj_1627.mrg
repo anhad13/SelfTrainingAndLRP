@@ -1,0 +1,129 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP Italy) (POS 's) )
+        (JJ industrial) (JJ wholesale) (NNS sales) (NN index) )
+      (VP (VBD rose) 
+        (NP-EXT (CD 13.2) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (NNP June) ))
+        (PP-DIR (IN from) 
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN state) (JJ statistical) (NN institute) (NNP Istat) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP June) (NN increase) )
+    (VP (VBN compared) 
+      (PP-CLR (IN with) 
+        (NP 
+          (NP (DT a) (NN rise) )
+          (PP (IN of) 
+            (NP (CD 10.5) (NN %) ))
+          (PP-TMP (IN in) 
+            (NP (NNP May) ))
+          (PP-DIR (IN from) 
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RBR earlier) )))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (JJ Domestic) (JJ wholesale) (NNS sales) )
+      (VP (VBD rose) 
+        (NP-EXT (CD 11.9) (NN %) )
+        (PP-DIR (IN from) 
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))
+        (, ,) 
+        (SBAR-ADV (IN while) 
+          (S 
+            (NP-SBJ (JJ foreign) (NNS sales) )
+            (VP (VBD jumped) 
+              (NP-EXT (CD 17.3) (NN %) ))))))
+    (, ,) 
+    (NP-SBJ (NNP Istat) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (DT the) (JJ first) (CD six) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (JJ wholesale) (NNS sales) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 12.3) (NN %) )
+      (PP-DIR (IN from) 
+        (ADVP-TMP 
+          (NP (DT the) (NN year) )
+          (RP before) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG reflecting) 
+          (PP (TO to) 
+            (NP 
+              (NP 
+                (NP (DT a) 
+                  (ADJP (CD 11.5) (NN %) )
+                  (NN jump) )
+                (PP-LOC (IN in) 
+                  (NP (JJ domestic) (NNS sales) )))
+              (CC and) 
+              (NP 
+                (NP (DT a) 
+                  (ADJP (CD 14.6) (NN %) )
+                  (NN boost) )
+                (PP-LOC (IN in) 
+                  (NP (JJ foreign) (NNS sales) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Sales) )
+      (PP (IN of) 
+        (NP (NN capital) (NNS goods) ))
+      (PP (TO to) 
+        (NP (JJ foreign) 
+          (CC and)
+          (JJ domestic) (NNS destinations) )))
+    (VP (VBD increased) 
+      (NP-EXT (CD 16.6) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJ January-June) (NN period) ))
+      (PP-DIR (IN from) 
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (RBR earlier) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Sales) )
+      (PP (IN of) 
+        (NP (NN consumer) (NNS goods) )))
+    (VP (VBD rose) 
+      (NP-EXT (CD 6.9) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJ same) (NN period) ))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS sales) )
+            (PP (IN of) 
+              (NP (JJ intermediate) (NNS goods) )))
+          (VP (VBD were) 
+            (ADVP-PRD (RB up) 
+              (NP (CD 13.8) (NN %) )
+              (PP (IN from) 
+                (ADVP-TMP 
+                  (NP (DT a) (NN year) )
+                  (RB ago) )))))))
+    (. .) ))

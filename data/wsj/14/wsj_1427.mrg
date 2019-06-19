@@ -1,0 +1,44 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP Canada) (POS 's) )
+        (NN consumer) (NN price) (NN index) )
+      (VP (VBD rose) 
+        (NP-EXT (DT a) (RB seasonally) (JJ adjusted) (CD 0.2) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))
+        (PP-TMP (IN from) 
+          (NP (NNP August) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNPS Statistics) (NNP Canada) )
+      (, ,) 
+      (NP (DT a) (JJ federal) (NN agency) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN rise) )
+    (VP (VBD followed) 
+      (NP 
+        (NP (NNS boosts) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (CD 0.1) (NN %) )
+              (PP-TMP (IN in) 
+                (NP (NNP August) )))
+            (, ,) 
+            (NP 
+              (NP (CD 0.7) (NN %) )
+              (PP-TMP (IN in) 
+                (NP (NNP July) )))
+            (CC and) 
+            (NP 
+              (NP (CD 0.6) (NN %) )
+              (PP-TMP (IN in) 
+                (NP (NNP June) )))))))
+    (. .) ))

@@ -1,0 +1,90 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Carl) (NNP E.) (NNP Pissocra) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (NN president) )
+          (CC and) 
+          (NP (JJ chief) (NN executive) (NN officer) ))
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Bank) (NNP One) )
+            (, ,) 
+            (NP-LOC (NNP Dover) ))))
+      (, ,) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (VP (VBN named) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (NP-PRD 
+              (NP (JJ regional) (NN president) )
+              (, ,) 
+              (NP 
+                (NP (DT a) (JJ new) (NN post) )
+                (PP-LOC (IN at) 
+                  (NP (DT the) (JJ bank-holding) (NN company) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Pissocra) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 56) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (ADJP-PRD (JJ responsible) 
+          (PP (IN for) 
+            (NP 
+              (NP 
+                (NP (DT the) (NN company) (POS 's) )
+                (CD 10) (NNS banks) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (JJ Eastern) (NN region) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Dan) (NNP J.) (NNP Hartwell) )
+      (, ,) 
+      (NP (CD 41) )
+      (, ,) 
+      (NP 
+        (NP (NN executive) (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Bank) (NNP One) )
+            (, ,) 
+            (NP-LOC (NNP Dover) ))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN president) )
+              (CC and) 
+              (NP (JJ chief) (NN executive) ))
+            (PP (IN of) 
+              (NP (DT the) (NNP Dover) (NN bank) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG succeeding) 
+            (NP (NNP Mr.) (NNP Pissocra) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT No) (NN one) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (S-CLR 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB succeed) 
+              (NP (NNP Mr.) (NNP Hartwell) ))))))
+    (. .) ))

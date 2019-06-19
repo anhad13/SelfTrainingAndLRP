@@ -1,0 +1,39 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Malcolm) (NNP S.) (NNP Todt) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN vice) (NN president) )
+            (CC and) 
+            (NP 
+              (NP (JJ senior) (NN officer) )
+              (PP (IN in) 
+                (NP 
+                  (NP (NN charge) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (NP (NN equipment) (VBG leasing) )
+                        (PP (TO to) 
+                          (NP (NNS municipalities) )))
+                      (, ,) 
+                      (NP 
+                        (NP (DT a) (JJ new) (NN effort) )
+                        (PP (IN of) 
+                          (NP (DT this) (NN bond) (NN insurer) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Todt) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP 
+            (NP (RB vice) (NN president) )
+            (CC and) 
+            (NP (NN treasurer) ))
+          (PP (IN of) 
+            (NP (NNP Insilco) (NNP Corp) )))))
+    (. .) ))

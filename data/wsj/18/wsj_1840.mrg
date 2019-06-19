@@ -1,0 +1,188 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP Chicago) (NNP Mercantile) (NNP Exchange) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP 
+            (VP (VBD fined) 
+              (NP (NNP Capcom) (NNPS Futures) (NNP Inc.) )
+              (NP ($ $) (CD 500,000) (-NONE- *U*) ))
+            (CC and) 
+            (VP (VBD accepted) 
+              (NP 
+                (NP (PRP$ its) (NN withdrawal) )
+                (PP (IN from) 
+                  (NP (NN membership) ))))
+            (PP (IN as) 
+              (NP 
+                (NP (NN part) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT a) (NN settlement) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (JJ disciplinary) (NNS actions) )
+                        (PP (IN against) 
+                          (NP (DT the) (NN firm) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Capcom) (NNPS Futures) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NNP Chicago) (NN subsidiary) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Capcom) (NNP Financial) (NNPS Services) (NNP Ltd.) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NNP London) (JJ financial) (NN firm) )
+              (SBAR 
+                (WHNP-2 (WDT that) )
+                (S 
+                  (NP-SBJ-1 (-NONE- *T*-2) )
+                  (VP (VBD was) 
+                    (VP (VBN implicated) 
+                      (NP (-NONE- *-1) )
+                      (NP-TMP (JJ last) (NN year) )
+                      (PP-LOC (IN in) 
+                        (NP (DT a) (NN scheme) 
+                          (S 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (TO to) 
+                              (VP (VB launder) 
+                                (NP (NN drug) (NN money) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN case) )
+    (VP (VBZ is) 
+      (ADJP-PRD (VBG pending) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN firm) )
+    (VP (VBD was) 
+      (VP (VBN indicted) 
+        (NP (-NONE- *-1) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP Tampa) )
+            (, ,) 
+            (NP (NNP Fla.) )
+            (, ,) ))
+        (PP (IN on) 
+          (NP (NN money-laundering) (NNS charges) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP June) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP Chicago) (NNP Board) )
+      (PP (IN of) 
+        (NP (NNP Trade) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD suspended) 
+            (NP (NNP Capcom) (NNP Financial) )))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NNP Capcom) (NNPS Futures) (NN unit) )
+      (VP (VBD withdrew) 
+        (PP-DIR (IN from) 
+          (NP 
+            (NAC (NNP Board) 
+              (PP (IN of) 
+                (NP (NNP Trade) )))
+            (NN membership) ))
+        (ADVP-MNR (RB voluntarily) )
+        (PP-TMP (IN in) 
+          (NP (NNP August) ))))
+    (, ,) 
+    (NP-SBJ (DT a) 
+      (NAC (NNP Board) 
+        (PP (IN of) 
+          (NP (NNP Trade) )))
+      (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNP Capcom) (NNPS Futures) )
+    (, ,) 
+    (SBAR-ADV (IN while) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (CC neither) (VBG admitting) (CC nor) (VBG denying) 
+          (NP (DT the) (NNP Merc) (NNS charges) ))))
+    (, ,) 
+    (VP (VBD said) 
+      (PP-LOC (IN in) 
+        (NP (DT a) (NN statement) ))
+      (SBAR 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NNP Merc) (NNS charges) )
+            (VP (VBD were) (`` ``) 
+              (ADJP-PRD (JJ technical) 
+                (PP (IN in) 
+                  (NP (NN nature) )))
+              ('' '') )))
+        (CC and) 
+        (SBAR (IN that) (`` ``) 
+          (S 
+            (NP-SBJ-1 (DT no) (NNS customers) )
+            (VP (VBD were) 
+              (VP (VBN hurt) 
+                (NP (-NONE- *-1) )
+                ('' '') 
+                (PP-PRP (IN as) 
+                  (NP 
+                    (NP (DT a) (NN result) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (NNS violations) )
+                        (VP (VBN cited) 
+                          (NP (-NONE- *) )
+                          (PP (IN by) 
+                            (NP-LGS (DT the) (NNP Merc) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Merc) )
+    (VP (VBD alleged) 
+      (SBAR (IN that) 
+        (, ,)
+        (S 
+          (PP-LOC (IN among) 
+            (NP (JJ other) (NNS things) ))
+          (, ,) 
+          (PP-TMP 
+            (PP (IN from) 
+              (NP (NNP April) (CD 1987) ))
+            (PP (IN through) 
+              (NP (NNP October) (CD 1988) )))
+          (NP-SBJ-1 (NNP Capcom) (NNPS Futures) )
+          (VP (VBD failed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB document) 
+                  (NP 
+                    (NP (NNS trades) )
+                    (PP (IN between) 
+                      (NP 
+                        (NP (NNP Capcom) (NNPS Futures) )
+                        (CC and) 
+                        (NP 
+                          (NP (NNS people) (CC or) (NNS entities) )
+                          (VP 
+                            (ADVP-MNR (RB directly) (CC or) (RB indirectly) )
+                            (JJ controlled) 
+                            (NP (-NONE- *) )
+                            (PP-LGS (IN by) 
+                              (NP (NNP Capcom) (NNPS Futures) (NNS shareholders) ))))))))))))))
+    (. .) ))

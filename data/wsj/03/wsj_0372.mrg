@@ -1,0 +1,67 @@
+
+( (S 
+    (NP-SBJ (NNP MCI) (NNP Communications) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD won) 
+            (NP (DT a) 
+              (ADJP 
+                (QP ($ $) (CD 27) (CD million) )
+                (-NONE- *U*) )
+              (NN contract) 
+              (S (-NONE- *ICH*-1) ))
+            (PP-CLR (IN from) 
+              (NP 
+                (NP (NNP Stuart-James) (NNP Co.) )
+                (, ,) 
+                (NP (DT a) (NNP Denver) (NN investment) (NN banking) (NN concern) )
+                (, ,) ))
+            (S-1 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB provide) 
+                  (NP (NN voice) 
+                    (CC and)
+                    (NN data) (NNS telecommunications) (NNS services) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN agreement) )
+    (VP (VBZ calls) 
+      (SBAR-CLR (IN for) 
+        (S 
+          (NP-SBJ (NNP MCI) )
+          (VP (TO to) 
+            (VP (VB provide) 
+              (NP 
+                (NP (NN data) (NN service) )
+                (, ,) 
+                (NP (CD 800) )
+                (CC and) 
+                (NP 
+                  (NP (NNP Vnet) (NN service) )
+                  (, ,) 
+                  (NP (DT a) 
+                    (ADJP (JJ virtual) (JJ private) )
+                    (NN network) (NN service) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS companies) )
+    (VP (MD would) (RB n't) 
+      (VP (VB disclose) 
+        (NP 
+          (NP (DT the) (NN length) )
+          (PP (IN of) 
+            (NP (DT the) (NN contract) )))
+        (SBAR (IN except) 
+          (S-PRP 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB say) 
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBD was) 
+                      (NP-PRD (DT a) (JJ multiyear) (NN agreement) ))))))))))
+    (. .) ))

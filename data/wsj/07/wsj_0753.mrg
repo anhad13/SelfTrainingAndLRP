@@ -1,0 +1,84 @@
+
+( (NP-HLN 
+    (NP (NNP CRESTMONT) (NNP FEDERAL) (NNPS SAVINGS) (CC &) (NNP LOAN) (NNP ASSOCIATION) )
+    (PRN 
+      (-LRB- -LRB-)
+      (NP-LOC 
+        (NP (NNP Edison) )
+        (, ,) 
+        (NP (NNP N.J.) ))
+      (-RRB- -RRB-) )
+    (: --) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Lawrence) (NNP B.) (NNP Seidman) )
+      (, ,) 
+      (NP (CD 41) (NNS years) (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN chairman) )
+            (PP (IN of) 
+              (NP (DT this) (NNS savings) 
+                (CC and)
+                (NN loan) (NN institution) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (MD will) 
+      (VP (VB succeed) 
+        (NP 
+          (NP (NNP Charles) (NNP L.) (NNP Harrington) )
+          (, ,) 
+          (NP 
+            (NP (NN chairman) )
+            (CC and) 
+            (NP (JJ chief) (NN executive) (NN officer) ))
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD retired) 
+                (NP-TMP (JJ last) (NN month) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Crestmont) )
+    (VP (VBZ is) 
+      (VP (VBG conducting) 
+        (NP 
+          (NP (DT a) (NN search) )
+          (PP (IN for) 
+            (NP (DT a) (JJ chief) (NN executive) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Seidman) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN director) )
+        (PP (IN of) 
+          (NP (NNP Crestmont) ))
+        (PP-TMP (IN since) 
+          (NP (NNP July) )))
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (JJ general) (NN partner) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Seidman) (NNP Financial) (NNPS Associates) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ owns) 
+                  (NP 
+                    (NP (CD 9.89) (NN %) )
+                    (PP (IN of) 
+                      (NP (NNP Crestmont) ))))))))))
+    (. .) ))

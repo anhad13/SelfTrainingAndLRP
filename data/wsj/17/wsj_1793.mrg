@@ -1,0 +1,592 @@
+
+( (S 
+    (NP-SBJ-2 (JJ Corporate) (NNS efforts) 
+      (S 
+        (NP-SBJ-1 (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB control) 
+            (NP (JJ health-care) (NNS costs) )
+            (PP-MNR (IN by) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG requiring) 
+                  (NP (NNS evaluations) )
+                  (PP-TMP (RB prior) (TO to) 
+                    (NP (VBN planned) (NN hospitalization) 
+                      (CC and)
+                      (NN surgery) )))))))))
+    (VP (VBP have) (RB n't) 
+      (VP (VBN been) 
+        (ADJP-PRD (VBG sweeping) (RB enough) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB reduce) 
+                (NP 
+                  (NP (DT the) (JJ long-term) (NN rate) )
+                  (PP (IN of) 
+                    (NP (NN cost) (NNS increases) )))))))
+        (, ,) 
+        (PP (VBG according) 
+          (PP (TO to) 
+            (NP 
+              (NP (DT a) (NN study) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT the) (NNP Institute) )
+                  (PP (IN of) 
+                    (NP (NNP Medicine) )))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (JJ last) (NN decade) ))
+    (, ,) 
+    (NP-SBJ (JJ many) (NNS corporations) )
+    (VP (VBP have) 
+      (VP (VBN embraced) 
+        (NP (DT the) (`` ``) (NN utilization) (NN management) ('' '') (NN cost) (NN containment) (NN strategy) )
+        (PP-CLR (IN as) 
+          (NP 
+            (NP (DT a) (NN way) )
+            (SBAR 
+              (WHADVP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB control) 
+                    (NP 
+                      (NP (JJ health-care) (NNS costs) )
+                      (PP (IN for) 
+                        (NP (NNS employees) )))
+                    (ADVP-MNR (-NONE- *T*-1) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT These) (NNS programs) )
+    (VP 
+      (VP (VBP vary) 
+        (ADVP (RB widely) ))
+      (, ,) (CC but) 
+      (VP 
+        (ADVP-TMP (RB often) )
+        (VBP require) 
+        (NP 
+          (NP 
+            (NP (JJ second) (NNS opinions) )
+            (PP (IN on) 
+              (NP (VBN proposed) (NN surgery) )))
+          (, ,) 
+          (NP 
+            (NP (NN preadmission) (NNS reviews) )
+            (PP (IN of) 
+              (NP (JJ elective) (NNS hospitalizations) )))
+          (CC and) 
+          (NP 
+            (NP (NNS reviews) )
+            (PP (IN of) 
+              (NP (NN treatment) ))
+            (PP-TMP (IN during) 
+              (NP 
+                (NP (NNS illnesses) )
+                (CC or) 
+                (NP (NN recovery) (NNS periods) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (QP (IN Between) (CD 50) (NN %) 
+          (CC and)
+          (CD 75) (NN %) )
+        (-NONE- *U*) )
+      (PP (IN of) 
+        (NP 
+          (NP (NN today) (POS 's) )
+          (NNS workers) )))
+    (VP (VBP are) 
+      (VP (VBN covered) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (JJ such) (NNS plans) ))
+        (, ,) 
+        (ADVP (IN up) 
+          (PP (IN from) 
+            (NP (CD 5) (NN %) ))
+          (ADVP-TMP 
+            (NP (CD five) (NNS years) )
+            (IN ago) ))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (SBAR-ADV (IN Although) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (ADVP (RB probably) )
+          (VP (VBZ has) 
+            (VP (VBN reduced) 
+              (NP 
+                (NP (DT the) (NN level) )
+                (PP (IN of) 
+                  (NP (NNS expenditures) )))
+              (PP (IN for) 
+                (NP (DT some) (NNS purchasers) ))))))
+      (, ,) 
+      (NP-SBJ-1 
+        (NP (NN utilization) (NN management) )
+        (PRN (: --) 
+          (PP (IN like) 
+            (NP (RBS most) (JJ other) (NN cost) (NN containment) (NNS strategies) ))
+          (: --) ))
+      (VP (VBZ does) (RB n't) 
+        (VP (VB appear) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB have) 
+                (VP (VBN altered) 
+                  (NP 
+                    (NP (DT the) (JJ long-term) (NN rate) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NN increase) )
+                        (PP-LOC (IN in) 
+                          (NP (JJ health-care) (NNS costs) ))))))))))))
+    (, ,) ('' '') 
+    (NP-SBJ 
+      (NP 
+        (NP (DT the) (NNP Institute) )
+        (PP (IN of) 
+          (NP (NNP Medicine) )))
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN affiliate) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNP National) (NNP Academy) )
+            (PP (IN of) 
+              (NP (NNPS Sciences) )))))
+      (, ,) )
+    (VP (VBD concluded) 
+      (S (-NONE- *T*-2) )
+      (PP-TMP (IN after) 
+        (NP (DT a) (JJ two-year) (NN study) )))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ 
+      (NP (NNS Employers) )
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD saw) 
+            (NP 
+              (NP (DT a) (JJ short-term) (NN moderation) )
+              (PP-LOC (IN in) 
+                (NP (NN benefit) (NNS expenditures) )))))))
+    (VP (VBP are) 
+      (VP (VBG seeing) 
+        (NP 
+          (NP (DT a) (NN return) )
+          (PP (TO to) 
+            (NP (JJ previous) (NNS trends) )))))
+    (. .) ('' '') ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (NN utilization) (NN management) )
+        (ADVP-TMP (RB frequently) )
+        (VP (VBZ reduces) 
+          (NP (NN hospitalization) (NNS costs) ))))
+    (, ,) 
+    (NP-SBJ-1 (DT these) (NNS savings) )
+    (VP (VBP are) 
+      (ADVP-TMP (RB often) )
+      (VP (VBN offset) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP 
+              (NP (NNS increases) )
+              (PP-LOC (IN in) 
+                (NP (NN outpatient) (NNS services) )))
+            (CC and) 
+            (NP (JJR higher) (JJ administrative) (NNS costs) )))
+        (, ,) 
+        (PP (VBG according) 
+          (PP (TO to) 
+            (NP 
+              (NP (DT the) (NN report) )
+              (PP (IN by) 
+                (NP 
+                  (NP (DT a) (NN panel) )
+                  (PP (IN of) 
+                    (NP (JJ health-care) (NNS experts) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN report) )
+    (VP (VBD suggested) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (JJ current) (NN review) (NNS programs) )
+          (VP (VBP are) 
+            (ADJP-PRD (RB too) (JJ narrow) )))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP 
+          (NP (DT The) 
+            (ADJP (JJ unnecessary) 
+              (CC and)
+              (JJ inappropriate) )
+            (NN use) )
+          (PP (IN of) 
+            (NP (DT the) (NN hospital) )))
+        (, ,) 
+        (CC and)
+        (RB not) 
+        (NP 
+          (NP (DT the) (JJ actual) (NN need) )
+          (PP (IN for) 
+            (NP (DT a) (JJ particular) (NN procedure) )))
+        (, ,) )
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (NP-PRD (DT the) (JJ main) (NN focus) ))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT the) (NN panel) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S (`` ``) 
+    (PP (IN As) 
+      (NP (DT a) (JJ general) (NN rule) ))
+    (, ,) 
+    (NP-SBJ (JJ prior-review) (NNS programs) )
+    (VP (VBP have) (RB not) 
+      (VP (VBN made) 
+        (NP 
+          (NP (JJ case-by-case) (NNS assessments) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (JJ comparative) (NNS costs) )
+              (PP (IN of) 
+                (NP (JJ alternative) 
+                  (NX 
+                    (NX (NNS treatments) )
+                    (CC or) 
+                    (NX 
+                      (NX (NNS sites) )
+                      (PP (IN of) 
+                        (NP (NN care) )))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT The) (NN report) )
+    (VP (VBD said) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (NN utilization) (NN management) )
+          (VP (MD should) 
+            (VP (VB have) 
+              (NP 
+                (NP (RBR more) )
+                (PP (IN of) 
+                  (NP (DT an) (NN impact) )))
+              (SBAR-TMP (IN as) 
+                (S 
+                  (NP-SBJ-1 
+                    (NP (JJ federal) (NN research) )
+                    (PP (IN on) 
+                      (NP 
+                        (NP (DT the) (NN effectiveness) )
+                        (PP (IN of) 
+                          (NP (JJ medical) (NNS treatments) )))))
+                  (VP (VBZ helps) 
+                    (S 
+                      (NP-SBJ (-NONE- *-1) )
+                      (VP (VB lead) 
+                        (PP-CLR (TO to) 
+                          (NP (JJ medical) (NN practice) (NNS guidelines) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Howard) (NNP Bailit) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN panel) (NN member) )
+        (CC and) 
+        (NP 
+          (NP (DT a) (NN vice) (NN president) )
+          (PP (IN of) 
+            (NP (NNP Aetna) (NNP Life) (CC &) (NNP Casualty) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (NN utilization) (NN management) )
+          (VP (MD will) 
+            (ADVP (RB also) )
+            (VP (VB do) 
+              (NP 
+                (NP (DT a) (JJR better) (NN job) )
+                (PP (IN of) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG containing) 
+                      (NP (NNS costs) )))))
+              (SBAR-TMP (IN as) 
+                (S 
+                  (NP-SBJ-1 (PRP it) )
+                  (VP (VBZ spreads) 
+                    (S 
+                      (NP-SBJ (-NONE- *-1) )
+                      (VP (TO to) 
+                        (VP (VB cover) 
+                          (NP 
+                            (NP (JJ medical) (NNS services) )
+                            (VP (VBN delivered) 
+                              (NP (-NONE- *) )
+                              (ADVP-LOC (IN outside) 
+                                (PP (IN of) 
+                                  (NP (NNS hospitals) ))))))))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (EX There) )
+      (VP (VBZ 's) 
+        (NP-PRD 
+          (ADJP (RB pretty) (JJ good) )
+          (NN evidence) 
+          (SBAR (DT that) 
+            (S 
+              (NP-SBJ (NN utilization) (NN management) )
+              (VP (VBZ has) 
+                (VP (VBN reduced) 
+                  (NP (JJ inappropriate) (NN hospitalization) ))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S (CC But) 
+    (PP-TMP (IN at) 
+      (NP (DT the) (JJ same) (NN time) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (VBG spending) )
+      (PP (IN on) 
+        (NP 
+          (NP (NN physician) (NNS services) )
+          (CC and) 
+          (NP (JJ ambulatory) (NN care) ))))
+    (VP (VBP have) 
+      (VP (VBN mushroomed) ))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ 's) 
+        (PP-PRD (IN like) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG squeezing) 
+              (NP (DT a) (NN balloon) ))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Dr.) (NNP Bailit) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNP David) (NNP Rahill) )
+        (PP (IN of) 
+          (NP (NNP A.) (NNP Foster) (NNP Higgins) (CC &) (NNP Co.) )))
+      (VP (VBD said) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (NNS clients) )
+              (PP (IN of) 
+                (NP (PRP$ his) (VBG consulting) (JJ firm) )))
+            (VP (NN report) 
+              (SBAR (DT that) 
+                (S 
+                  (NP-SBJ (NN utilization) (NN management) )
+                  (VP (VBZ reduces) 
+                    (NP (PRP$ their) (NN hospital) (NN care) (NNS bills) )
+                    (PP-EXT (IN by) 
+                      (NP 
+                        (QP (IN about) (CD 5) )
+                        (NN %) ))))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP (VBD agreed) 
+        (SBAR (IN that) 
+          (S 
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (NN health-care) (NN system) )
+                (PP (IN as) 
+                  (ADJP (JJ whole) ))))
+            (, ,) 
+            (NP-SBJ-1 
+              (NP (DT some) )
+              (PP (IN of) 
+                (NP (DT these) (NNS savings) )))
+            (VP (VBP are) 
+              (VP (VBN offset) 
+                (NP (-NONE- *-1) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (UCP 
+                      (ADJP (JJ administrative) )
+                      (CC and) 
+                      (NP (NN outpatient) (NN care) ))
+                    (NNS costs) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Jerome) (NNP Grossman) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (PP (IN of) 
+          (NP (DT the) (NN panel) )))
+      (, ,) )
+    (VP (VBZ agrees) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (JJ administrative) (NNS costs) )
+            (PP (IN of) 
+              (NP (NN utilization) (NN management) (NNS programs) )))
+          (VP (MD can) 
+            (VP (VB be) 
+              (ADJP-PRD (JJ high) ))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP You) )
+      (VP (VBP have) 
+        (S 
+          (NP-SBJ-2 (DT a) (JJ whole) (NN staff) )
+          (VP (VBG standing) 
+            (S-ADV 
+              (NP-SBJ-3 (-NONE- *-2) )
+              (ADJP-PRD (JJ ready) ('' '') 
+                (S 
+                  (NP-SBJ (-NONE- *-3) )
+                  (VP (TO to) 
+                    (VP (VB evaluate) 
+                      (NP 
+                        (NP (DT the) (NN appropriateness) )
+                        (PP (IN of) 
+                          (NP (VBN recommended) (NN treatment) ))))))))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Dr.) (NNP Grossman) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (ADVP (RB also) )
+          (VP (VBZ is) 
+            (NP-PRD 
+              (NP (NN president) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP New) (NNP England) (NNP Medical) (NNP Center) (NNPS Hospitals) )
+                  (PP-LOC (IN in) 
+                    (NP (NNP Boston) ))))))))
+      (, ,) )
+    (VP (VBD noted) 
+      (SBAR 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NNS hospitals) )
+              (SBAR 
+                (WHNP-2 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (PRP he) )
+                  (VP (VBZ runs) 
+                    (NP (-NONE- *T*-2) )))))
+            (VP (VBP deal) 
+              (PP-CLR (IN with) 
+                (NP 
+                  (QP (JJR more) (IN than) (CD 100) )
+                  (NN utilization) (NN management) (NNS firms) )))))
+        (CC and) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (JJ many) )
+              (PP (IN of) 
+                (NP (PRP them) )))
+            (VP (VBP have) 
+              (NP (JJ different) (NNS procedures) 
+                (CC and)
+                (NNS requirements) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN panel) )
+    (VP (VBD urged) 
+      (NP (JJR greater) (NNS efforts) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB reduce) 
+              (NP 
+                (NP (DT the) (NN complexity) 
+                  (, ,)
+                  (NN paperwork) 
+                  (CC and)
+                  (NN cost) )
+                (PP (IN of) 
+                  (NP (NN utilization) (NN review) ))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ-1 (NN Utilization) (NN management) )
+      (VP (VBZ needs) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP 
+              (ADVP-MNR (RB better) )
+              (VB demonstrate) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP 
+                    (VP (VBZ reduces) 
+                      (NP 
+                        (NP (DT the) (JJ wasteful) (NN use) )
+                        (PP (IN of) 
+                          (NP (NNS resources) ))))
+                    (, ,) 
+                    (VP (VBZ improves) 
+                      (NP 
+                        (NP (DT the) (NN appropriateness) )
+                        (PP (IN of) 
+                          (NP (JJ patient) (NN care) ))))
+                    (CC and) 
+                    (VP (VBZ imposes) 
+                      (ADVP (RB only) )
+                      (NP (JJ reasonable) (NNS burdens) )
+                      (PP-CLR (IN on) 
+                        (NP (NNS patients) 
+                          (CC and)
+                          (NNS providers) )))))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT the) (NN panel) )
+    (VP (VBD concluded) 
+      (S (-NONE- *T*-2) ))
+    (. .) ))

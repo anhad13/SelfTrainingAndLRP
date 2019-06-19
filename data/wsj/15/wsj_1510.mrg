@@ -1,0 +1,31 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Jeffrey) (NNP E.) (NNP Levin) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN vice) (NN president) )
+              (CC and) 
+              (NP (JJ chief) (NN economist) ))
+            (PP-2 (IN of) 
+              (NP (DT this) (NN commodity) (NNS futures) 
+                (CC and)
+                (NNS options) (NN exchange) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (JJ associate) (NN professor) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (DT the) (NN department) )
+              (PP (IN of) 
+                (NP (NN finance) ))))
+          (PP-LOC (IN at) 
+            (NP (NNP Seton) (NNP Hall) (NNP University) )))))
+    (. .) ))

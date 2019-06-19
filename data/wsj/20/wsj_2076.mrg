@@ -1,0 +1,67 @@
+
+( (NP-HLN (NNPS NEWSPAPERS) (: :) ))
+( (S 
+    (NP-SBJ-2 (NNP Media) (NNP General) (NNP Inc.) )
+    (VP (VBZ intends) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB sell) 
+            (NP 
+              (NP 
+                (NP (CD two) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (NNP West) (NNP Coast) (JJ weekly) (NN newspaper) (NNS chains) )))
+              (PRN 
+                (, ,)
+                (NP 
+                  (NP (NNP Golden) (NNP West) (NNP Publishing) (NNP Inc.) )
+                  (CC and) 
+                  (NP (NNP Highlander) (NNPS Publications) ))
+                (, ,) )
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (ADVP (RB together) )
+                  (VP (VBP comprise) 
+                    (NP (CD 31) (NNS papers) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Media) (NNP General) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP 
+            (VP (VBZ has) 
+              (VP (VBN had) 
+                (NP 
+                  (NP (NNS inquiries) )
+                  (PP (IN from) 
+                    (NP (JJ potential) (NNS buyers) )))))
+            (CC and) 
+            (VP (VBZ expects) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB complete) 
+                    (NP (DT a) (NN sale) )
+                    (PP-TMP (IN in) 
+                      (NP (CD 1989) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (MD would) (RB n't) 
+      (VP (VB discuss) 
+        (NP (DT a) (NN price) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Lee) (NNP Dirks) (CC &) (NNPS Associates) )
+    (VP (VBZ is) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB sell) 
+            (NP (DT the) (NNS chains) )))))
+    (. .) ))

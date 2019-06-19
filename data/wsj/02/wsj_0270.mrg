@@ -1,0 +1,89 @@
+
+( (S 
+    (NP-SBJ (NNP FIRST) (NNP AMERICAN) (NNP FINANCIAL) (NNP Corp.) )
+    (VP (VBD declared) 
+      (NP 
+        (NP (DT a) (JJ special) (NN dividend) )
+        (PP (IN of) 
+          (NP 
+            (NP (CD one) (NN share) )
+            (PP (IN of) 
+              (NP (NN Class) (NNP B) (JJ common) (NN stock) ))
+            (PP (IN for) 
+              (NP 
+                (NP (DT each) (NN share) )
+                (PP (IN of) 
+                  (NP (NN Class) (NNP A) (JJ common) (NN stock) ))))))
+        (, ,) 
+        (RRC 
+          (ADJP (JJ payable) 
+            (PP (TO to) 
+              (NP 
+                (NP (NNS holders) )
+                (PP (IN of) 
+                  (NP (NN record) ))
+                (PP-TMP (IN on) 
+                  (NP (NNP Nov.) (CD 10) )))))
+          (SBAR-ADV (IN if) 
+            (S 
+              (NP-SBJ (DT the) (NNPS Securities) 
+                (CC and)
+                (NNP Exchange) (NNP Commission) )
+              (VP (VBZ approves) 
+                (NP (DT this) )
+                (PP-CLR (IN as) 
+                  (NP 
+                    (NP (DT the) (JJ effective) (NN date) )
+                    (PP (IN of) 
+                      (NP (DT the) (NN registration) (NN statement) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Shareholders) )
+      (PP (IN of) 
+        (NP (DT the) 
+          (NAC-LOC (NNP Santa) (NNP Ana) 
+            (, ,)
+            (NNP Calif.) 
+            (, ,)
+            )
+          (JJ title-insurance) (NN company) )))
+    (VP (VBD approved) 
+      (NP 
+        (NP (DT the) (NN creation) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT this) (JJ second) (NN class) )
+            (PP (IN of) 
+              (NP (NN stock) ))
+            (, ,) 
+            (SBAR 
+              (SBAR 
+                (WHNP-2 (WDT which) )
+                (S 
+                  (NP-SBJ-142 (-NONE- *T*-2) )
+                  (VP (MD will) 
+                    (VP (VB be) 
+                      (VP (VBN traded) 
+                        (NP (-NONE- *-142) )
+                        (PP-LOC (IN on) 
+                          (NP (DT the) (JJ national) (JJ over-the-counter) (NN market) )))))))
+              (CC and) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (DT the) (NN company) )
+                  (VP (VBD said) 
+                    (SBAR (-NONE- 0) 
+                      (S 
+                        (NP-SBJ-143 (-NONE- *T*-1) )
+                        (VP (MD would) 
+                          (VP (VB be) 
+                            (VP (VBN used) 
+                              (NP (-NONE- *-143) )
+                              (PP-CLR (IN for) 
+                                (NP 
+                                  (NP (NNS acquisitions) )
+                                  (CC and) 
+                                  (NP (JJ other) (JJ general) (JJ corporate) (NNS purposes) ))))))))))))))))
+    (. .) ))

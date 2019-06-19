@@ -1,0 +1,222 @@
+
+( (S 
+    (NP-SBJ (NNP First) (NNP Tennessee) (NNP National) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD would) 
+            (VP (VB take) 
+              (NP (DT a) 
+                (ADJP 
+                  (QP ($ $) (CD 4) (CD million) )
+                  (-NONE- *U*) )
+                (NN charge) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ fourth) (NN quarter) ))
+              (, ,) 
+              (PP-PRP (IN as) 
+                (NP 
+                  (NP (DT a) (NN result) )
+                  (PP (IN of) 
+                    (NP (NNS plans) 
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB expand) 
+                            (NP (PRP$ its) (NNS systems) (NN operation) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN banking) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reached) 
+            (NP 
+              (NP (DT an) (NN agreement) )
+              (PP (IN in) 
+                (NP (NN principle) ))
+              (PP (IN with) 
+                (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.) ))
+              (PP (IN on) 
+                (NP 
+                  (NP (DT a) (NNS systems) (NNS operations) (NN contract) )
+                  (VP (VBG calling) 
+                    (SBAR (IN for) 
+                      (S 
+                        (NP-SBJ (NNP IBM) )
+                        (VP (TO to) 
+                          (VP (VB operate) 
+                            (NP 
+                              (NP (NNP First) (NNP Tennessee) (POS 's) )
+                              (NN computer) 
+                              (CC and)
+                              (NNS telecommunications) (NNS functions) )))))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Further) )
+    (, ,) 
+    (PP-LOC (IN under) 
+      (NP (DT the) (NN agreement) ))
+    (, ,) 
+    (NP-SBJ-2 (NNP First) (NNP Tennesse) )
+    (VP (MD would) 
+      (VP (VB continue) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB develop) 
+              (NP 
+                (NP (DT the) (NN software) )
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBZ creates) 
+                      (NP (NN customer) (NNS products) 
+                        (CC and)
+                        (NNS sevices) ))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (SBAR-PRP (IN Because) 
+      (S 
+        (NP-SBJ (JJ personal) (NNS computers) )
+        (VP (MD will) 
+          (ADVP-TMP (RB soon) )
+          (VP (VB be) 
+            (PP-LOC-PRD (IN on) 
+              (NP 
+                (NP (DT the) (NNS desks) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT all) )
+                    (PP (IN of) 
+                      (NP (PRP$ our) 
+                        (NX 
+                          (NX (NNS tellers) )
+                          (, ,) 
+                          (CC and)
+                          (NX (NN customer) (NN service) 
+                            (CC and)
+                            (NN loan) (NNS representatives) ))))))))))))
+    (, ,) 
+    (NP-SBJ-1 (NN information) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (ADJP-PRD (RB instantly) (JJ available) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP 
+                (VP (VB help) 
+                  (NP (NNS customers) )
+                  (PP-CLR (IN with) 
+                    (NP (NN product) (NNS decisions) )))
+                (CC and) 
+                (VP (VB provide) 
+                  (NP (PRP them) )
+                  (PP-CLR (IN with) 
+                    (NP 
+                      (NP (NN information) )
+                      (PP (IN about) 
+                        (NP (PRP$ their) (NNS accounts) )))))))))
+        (, ,) ('' '') 
+        (PP (VBG according) 
+          (PP (TO to) 
+            (NP 
+              (NP (NNP John) (NNP Kelley) )
+              (, ,) 
+              (NP 
+                (NP 
+                  (NP (JJ executive) (NN vice) (NN president) )
+                  (PP-LOC (-NONE- *RNR*-2) ))
+                (CC and) 
+                (NP 
+                  (NP (JJ corporate) (NNS services) (NN group) (NN manager) )
+                  (PP-LOC (-NONE- *RNR*-2) ))
+                (PP-LOC-2 (IN at) 
+                  (NP (NNP First) (NNP Tennessee) ))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ-1 
+      (QP (RB about) (CD 120) )
+      (NNS employees) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN affected) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS (DT the) (NN agreement) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP First) (NNP Tennessee) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ-2 (-NONE- *-1) )
+      (VP (VBN assisted) 
+        (NP (-NONE- *-2) )
+        (PP (IN by) 
+          (NP-LGS (NNP IBM) ))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-3 (PRP it) )
+          (VP (MD will) 
+            (VP (VB attempt) 
+              (S 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (TO to) 
+                  (VP (VB place) 
+                    (NP (DT the) (NNS employees) )
+                    (PP-CLR (IN within) 
+                      (NP 
+                        (NP (DT the) (NN company) )
+                        (, ,) 
+                        (NP (NNP IBM) )
+                        (CC or) 
+                        (NP 
+                          (NP (JJ other) (NNS companies) )
+                          (PP-LOC (IN in) 
+                            (NP (NNP Memphis) )))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN process) )
+      (VP (MD will) 
+        (VP (VB take) 
+          (NP 
+            (QP (RB as) (JJ many) (IN as) (CD six) )
+            (NNS months) )
+          (S-CLR 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB complete) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN agreement) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ subject) 
+        (PP (TO to) 
+          (NP 
+            (NP 
+              (NP (DT the) (NN banking) (NN company) (POS 's) )
+              (NN board) (NN approval) )
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (NP-SBJ-1 (-NONE- *T*-2) )
+                (VP (VBZ is) 
+                  (VP (VBN expected) 
+                    (NP (-NONE- *-1) )
+                    (NP-TMP (JJ next) (NN month) )))))))))
+    (. .) ))

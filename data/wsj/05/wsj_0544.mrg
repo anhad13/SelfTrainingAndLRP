@@ -1,0 +1,71 @@
+
+( (S 
+    (NP-SBJ (NNP Air) (CC &) (NNP Water) (NNPS Technologies) (NNP Corp.) )
+    (VP (VBD completed) 
+      (NP 
+        (NP (DT the) (NN acquisition) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Falcon) (NNPS Associates) (NNP Inc.) )
+            (, ,) 
+            (NP (DT a) 
+              (NAC-LOC (NNP Bristol) 
+                (, ,)
+                (NNP Pa.) 
+                (, ,)
+                )
+              (NN asbestos-abatement) (NN concern) )
+            (, ,) ))
+        (PP (IN for) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 25) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN of) 
+              (NP (NN stock) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Air) (CC &) (NNP Water) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ provides) 
+            (NP (JJ environmental) (NNS services) 
+              (CC and)
+              (NNS systems) ))))
+      (, ,) )
+    (VP (VBD paid) 
+      (NP 
+        (NP 
+          (QP (IN about) (CD 1.4) (CD million) ))
+        (PP (IN of) 
+          (NP (PRP$ its) (NNS shares) )))
+      (PP-CLR (IN for) 
+        (NP (NNP Falcon) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP American) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (NP-TMP (NNP Friday) )
+    (, ,) 
+    (NP-SBJ (NNP Air) (CC &) (NNP Water) )
+    (VP (VBD closed) 
+      (ADJP (JJ unchanged) )
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 17.50) (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP (NNP July) (CD 31) ))
+    (, ,) 
+    (NP-SBJ (NNP Air) (CC &) (NNP Water) )
+    (VP (VBD had) 
+      (NP 
+        (NP 
+          (QP (RB nearly) (CD 10) (CD million) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))

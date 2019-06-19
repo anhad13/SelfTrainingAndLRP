@@ -1,0 +1,259 @@
+
+( (S 
+    (NP-SBJ-2 
+      (NP (NNP Michael) (NNP Blair) )
+      (, ,) 
+      (NP 
+        (NP (JJ former) 
+          (NX 
+            (NX (NN president) )
+            (CC and) 
+            (NX (JJ chief) (NN executive) (NN officer) )))
+        (PP (IN of) 
+          (NP (NNP Enfield) (NNP Corp.) )))
+      (, ,) )
+    (VP (VBD failed) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB win) 
+            (NP 
+              (NP (NN election) )
+              (PP (TO to) 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (NN board) )))
+            (PP-LOC (IN at) 
+              (NP (DT a) (JJ special) (NN shareholder) (NN meeting) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Blair) )
+    (VP (VBD said) 
+      (PP-TMP (IN after) 
+        (NP (DT the) (NN meeting) ))
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD had) 
+            (VP 
+              (VP (VBN filed) 
+                (NP 
+                  (NP (JJ separate) (NNS lawsuits) )
+                  (PP (-NONE- *ICH*-1) )
+                  (PP (-NONE- *ICH*-2) ))
+                (PP-LOC (IN in) 
+                  (NP (DT the) (NNP Ontario) (NNP Supreme) (NNP Court) ))
+                (PP-1 (IN for) 
+                  (NP (JJ unjust) (NN dismissal) ))
+                (PP-2 (IN against) 
+                  (NP (NNP Enfield) )))
+              (CC and) 
+              (VP 
+                (PP=1 (IN for) 
+                  (NP (NN libel) ))
+                (PP=2 (IN against) 
+                  (NP 
+                    (NP 
+                      (NP (PRP$ its) (JJS largest) (NN shareholder) )
+                      (, ,) 
+                      (NP (NNP Canadian) (NNP Express) (NNP Ltd.) )
+                      (, ,) )
+                    (CC and) 
+                    (NP 
+                      (NP (CD two) (NNS executives) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNP Hees) (NNP International) (NNP Bancorp) (NNP Inc.) )
+                          (, ,) 
+                          (SBAR 
+                            (WHNP-191 (WDT which) )
+                            (S 
+                              (NP-SBJ (-NONE- *T*-191) )
+                              (VP (VBZ controls) 
+                                (NP (NNP Canadian) (NNP Express) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Holders) )
+      (PP-LOC (IN at) 
+        (NP (DT the) (NN meeting) )))
+    (VP (VBD elected) 
+      (NP 
+        (NP (DT a) (JJ full) (NN slate) )
+        (PP (IN of) 
+          (NP (NNP Canadian) (NNP Express) (NNS nominees) )))
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (NNP Enfield) (POS 's) )
+          (JJ 11-member) (NN board) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Blair) )
+      (CC and) 
+      (NP (NNP Hees) ))
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (VP (VBG feuding) 
+          (PP-TMP (IN for) 
+            (NP (NNS months) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Yesterday) (POS 's) )
+      (NN election) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT a) (NN sequel) )
+        (PP (TO to) 
+          (NP 
+            (NP 
+              (NP (NNP Enfield) (POS 's) )
+              (JJ annual) (NN meeting) )
+            (PP-TMP (IN in) 
+              (NP (NNP June) ))
+            (SBAR-TMP 
+              (WHADVP-1 (WRB when) )
+              (S 
+                (NP-SBJ (NNP Mr.) (NNP Blair) )
+                (VP (VBD disallowed) 
+                  (NP (NNS proxies) )
+                  (PP-CLR (IN in) 
+                    (NP 
+                      (NP (NN favor) )
+                      (PP (IN of) 
+                        (NP (CD two) (NNP Hees) (NNS nominees) ))))
+                  (ADVP-TMP (-NONE- *T*-1) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Ontario) (NNP Supreme) (NNP Court) )
+    (VP (VBD overturned) 
+      (NP 
+        (NP (NNP Mr.) (NNP Blair) (POS 's) )
+        (NN decision) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP He) )
+    (ADVP-TMP (RB later) )
+    (VP (VBD resigned) 
+      (PP-CLR (IN from) 
+        (NP 
+          (NP (PRP$ his) (NN executive) (NNS positions) )
+          (PP (IN with) 
+            (NP (NNP Enfield) ))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG saying) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ 
+                (NP (NNS actions) )
+                (PP (IN by) 
+                  (NP (PRP$ its) (NN board) )))
+              (`` ``) 
+              (VP (VBD amounted) 
+                (PP-CLR (TO to) 
+                  (NP 
+                    (-LRB- -LCB-)
+                    (PRP$ my) 
+                    (-RRB- -RCB-)
+                    (NN dismissal) ))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Blair) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ his) (NN libel) (NN suit) )
+          (VP (VBZ seeks) 
+            (NP 
+              (NP 
+                (QP (CD 10) (CD million) )
+                (JJ Canadian) (NNS dollars) )
+              (PRN 
+                (-LRB- -LRB-)
+                (NP 
+                  (QP ($ US$) (CD 8.5) (CD million) )
+                  (-NONE- *U*) )
+                (-RRB- -RRB-) ))
+            (PP-CLR (IN from) 
+              (NP 
+                (NP (NNP Canadian) (NNP Express) )
+                (CC and) 
+                (NP (NNP Hees) (NNS executives) (NNP Manfred) (NNP Walt) 
+                  (CC and)
+                  (NNP Willard) (NNP L'Heureux) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP$ his) (NN suit) )
+            (PP (IN against) 
+              (NP (NNP Enfield) )))
+          (VP (VBZ seeks) 
+            (NP 
+              (NP (CD two) (NNS years) (NN severance) (NN pay) )
+              (, ,) 
+              (ADJP (JJ equivalent) 
+                (PP (TO to) 
+                  (NP ($ C$) (CD 720,000) (-NONE- *U*) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-176 (NNP Hees) 
+      (CC and)
+      (NNP Canadian) (NNP Express) (NNS executives) )
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-176) )
+          (PP-CLR (IN for) 
+            (NP (NN comment) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Enfield) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (VBG holding) (NN company) )
+        (PP (IN with) 
+          (NP 
+            (NP (NNS interests) )
+            (PP (IN in) 
+              (NP (VBG manufacturing) (NNS concerns) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP It) )
+    (VP (VBZ is) 
+      (VP 
+        (NP-ADV (CD 38.5) (NN %) )
+        (VBN owned) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (NNP Canadian) (NNP Express) )
+            (, ,) 
+            (NP (DT another) (VBG holding) (NN company) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Hees) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN merchant) (NN bank) )
+        (VP (VBN controlled) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (NNP Toronto) (NNS financiers) (NNP Peter) 
+              (CC and)
+              (NNP Edward) (NNP Bronfman) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PDT All) (DT the) (NNS concerns) )
+    (VP (VBP are) 
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN in) 
+          (NP (NNP Toronto) ))))
+    (. .) ))

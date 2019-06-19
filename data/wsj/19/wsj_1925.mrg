@@ -1,0 +1,85 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Charles) (NNP S.) (NNP Mitchell) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN vice) (NN president) )
+        (PP (IN with) 
+          (NP 
+            (NP (NNP Homart) (NNP Development) (NNP Co.) )
+            (, ,) 
+            (NP 
+              (NP (DT the) (JJ real) (NN estate) (NN development) (NN subsidiary) )
+              (PP (IN of) 
+                (NP (NNP Sears) 
+                  (, ,)
+                  (NNP Roebuck) (CC &) (NNP Co.) ))))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN president) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Figgie) (NNP Properties) )
+                (, ,) 
+                (NP (DT a) (JJ real) (NN estate) (NN development) (NN unit) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP William) (NNP Kohut) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD resigned) 
+              (NP-TMP (RBR earlier) (DT this) (NN year) ))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Also) )
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNP Richard) (NN A.) (NNP Barkley) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ former) (NN marketing) (NN executive) )
+        (PP (IN with) 
+          (NP (NNP FMC) (NNP Corp.) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN appointed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN president) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Continental) (NNP Container) (NNP Systems) )
+                (, ,) 
+                (NP 
+                  (NP (DT a) (NN producer) )
+                  (PP (IN of) 
+                    (NP (NN can) (VBG closing) (NN machinery) ))
+                  (SBAR 
+                    (WHNP-2 (IN that) )
+                    (S 
+                      (NP-SBJ (NNP Figgie) )
+                      (VP (VBD acquired) 
+                        (NP (-NONE- *T*-2) )
+                        (NP-TMP (RB late) (JJ last) (NN year) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Figgie) )
+    (VP (VBZ is) 
+      (NP-PRD (DT a) (NN fire) (NN protection) 
+        (, ,)
+        (NN electronics) 
+        (CC and)
+        (JJ industrial) (NNS products) (NN concern) ))
+    (. .) ))

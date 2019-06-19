@@ -1,0 +1,101 @@
+
+( (S 
+    (NP-SBJ (NNP Di) (NNP Giorgio) (NNP Corp.) )
+    (VP (VBD said) 
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP 
+          (VP (VBZ 's) 
+            (VP (VBG continuing) 
+              (NP 
+                (NP (NNS talks) )
+                (PP (IN with) 
+                  (NP 
+                    (NP (JJ potential) (NNS buyers) )
+                    (PP (IN of) 
+                      (NP (JJ certain) (NNS units) )))))))
+          (, ,) (CC but) 
+          (VP (VBZ has) 
+            (VP (VBN reached) 
+              (NP 
+                (NP (DT no) (NN agreement) )
+                (PP (IN on) 
+                  (NP (DT any) (NNS deals) ))))))))
+    (. .) ))
+((S 
+    (NP-SBJ 
+      (NP (NNP Di) (NNP Giorgio) )
+      (, ,) 
+      (NP (DT a) (NN food) (NN wholesaler) 
+        (CC and)
+        (NN building) (NNS products) (NN maker) )
+      (, ,) )
+    (VP (VBZ is) 
+      (VP (VBG seeking) 
+        (NP 
+          (NP (NNS alternatives) )
+          (PP (TO to) 
+            (NP 
+              (NP (DT an) (JJ unsolicited) 
+                (ADJP ($ $) (JJ 32-a-share) )
+                (NN tender) (NN offer) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP DIG) (NNP Acquisition) (NNP Corp.) )
+                  (, ,) 
+                  (NP 
+                    (NP (DT a) (NN unit) )
+                    (PP (IN of) 
+                      (NP (NNP Rose) (NNP Partners) (NNP Limited) (NNP Partnership) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP DIG) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN vehicle) )
+        (VP (VBG being) 
+          (VP (VBN used) 
+            (NP (-NONE- *) )
+            (S-CLR 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB pursue) 
+                  (PP (TO to) 
+                    (NP (NN acquisition) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Robert) (NNP Mellor) )
+      (, ,) 
+      (NP 
+        (NP (NNP Di) (NNP Giorgio) (POS 's) )
+        (JJ executive) (NN vice) (NN president) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN company) )
+          (VP (VBZ stands) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB reap) 
+                  (NP 
+                    (NP (JJR more) (NN money) )
+                    (PP (-NONE- *ICH*-2) ))
+                  (PP-MNR (IN through) 
+                    (NP 
+                      (NP (DT the) (NN sale) )
+                      (PP (IN of) 
+                        (NP (JJ individual) (NNS units) ))
+                      (PP (TO to) 
+                        (NP (NNS others) ))))
+                  (PP-2 (IN than) 
+                    (PP-MNR (IN by) 
+                      (S-NOM 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (VBG accepting) 
+                          (NP 
+                            (NP (NNP DIG) (POS 's) )
+                            (NN offer) ))))))))))))
+    (. .) ))

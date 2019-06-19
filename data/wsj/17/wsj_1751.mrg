@@ -1,0 +1,26 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP EMPIRE) (NNP PENCIL) )
+      (, ,) 
+      (VP 
+        (ADVP-TMP (RB later) )
+        (VBN called) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (NP-PRD (NNP Empire-Berol) )))
+      (, ,) )
+    (VP (VBD developed) 
+      (NP (DT the) (JJ plastic) (NN pencil) )
+      (PP-TMP (IN in) 
+        (NP (CD 1973) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Yesterday) (POS 's) )
+      (NNP Centennial) (NNP Journal) )
+    (VP (VBD misstated) 
+      (NP 
+        (NP (DT the) (NN company) (POS 's) )
+        (NN name) ))
+    (. .) ))

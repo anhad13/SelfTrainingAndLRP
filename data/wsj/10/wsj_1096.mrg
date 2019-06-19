@@ -1,0 +1,102 @@
+
+( (S 
+    (NP-SBJ (NNP Ford) (NNP Motor) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG consolidating) 
+              (NP 
+                (NP (NN control) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (JJ Asian) (NNS operations) )))
+              (PP-LOC-CLR (IN under) 
+                (NP 
+                  (NP 
+                    (NP (DT a) (JJ new) (NN organization) )
+                    (ADVP-LOC (RB here) ))
+                  (SBAR 
+                    (WHNP-2 (DT that) )
+                    (S 
+                      (NP-SBJ-1 (-NONE- *T*-2) )
+                      (VP (MD will) 
+                        (VP (VB be) 
+                          (VP (VBN headed) 
+                            (NP (-NONE- *-1) )
+                            (PP (IN by) 
+                              (NP-LGS (NNP W.) (NNP Wayne) (NNP Booker) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ford) (NNP Asia-Pacific) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB coordinate) 
+          (NP 
+            (NP (DT the) (NNS activities) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Ford) (NNS subsidiaries) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (NNP Japan) )
+                    (, ,) 
+                    (NP (NNP Australia) )
+                    (, ,) 
+                    (NP (NNP Taiwan) )
+                    (CC and) 
+                    (NP (NNP New) (NNP Zealand) )))))))
+        (CC and) 
+        (VP (NN work) 
+          (PP-CLR (IN with) 
+            (NP 
+              (NP (NNP Ford) (NN business) (NNS associates) )
+              (PP-LOC (IN throughout) 
+                (NP (DT the) (NN region) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT These) (NNS functions) )
+    (VP (VBP are) 
+      (ADVP-TMP (RB currently) )
+      (VP (VBN performed) 
+        (PP-LOC 
+          (PP (IN out) 
+            (PP (IN of) 
+              (NP (NNP Melbourne) 
+                (, ,)
+                (NNP Australia) 
+                (, ,)
+                )))
+          (CC and) 
+          (PP (IN at) 
+            (NP 
+              (NP 
+                (NP (NNP Ford) (POS 's) )
+                (NN headquarters) )
+              (PP-LOC (IN in) 
+                (NP (NNP Dearborn) 
+                  (, ,)
+                  (NNP Mich) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Mr.) (NNP Booker) )
+      (, ,) 
+      (NP 
+        (NP (NN executive) (NN director) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Ford) (POS 's) )
+            (NNP Latin) (NNP America) (NNP Automotive) (NNP Operations) ))
+        (PP-TMP (IN since) 
+          (NP (NNP December) (CD 1988) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN vice) (NN president) )
+            (PP (IN of) 
+              (NP (NNP Ford) (NNP Asia-Pacific) ))))))
+    (. .) ))

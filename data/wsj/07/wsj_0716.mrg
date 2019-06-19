@@ -1,0 +1,68 @@
+
+( (S 
+    (NP-SBJ (DT The) (JJ Philippine) (NN government) )
+    (VP (VBD awarded) 
+      (NP 
+        (NP (NN Finland) (POS 's) )
+        (NNP Outokumpu) (NNP Oy) )
+      (NP (DT the) (NN contract) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB upgrade) 
+              (NP 
+                (NP (DT the) (NNS facilities) )
+                (PP (IN of) 
+                  (NP (NNP Philippine) (NNP Associated) (NNP Smelting) (CC &) (NNP Refining) (NNP Corp.) )))))))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (NNS documents) )
+            (PP (IN from) 
+              (NP 
+                (NP (NNP National) (NNP Development) (NNP Corp.) )
+                (, ,) 
+                (NP 
+                  (NP (CD one) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Philippine) (NN company) (POS 's) )
+                      (NNS owners) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN project) )
+    (VP 
+      (VP (VBZ costs) 
+        (NP 
+          (QP ($ $) (CD 46.8) (CD million) )
+          (-NONE- *U*) ))
+      (, ,) 
+      (CC and)
+      (VP (VBZ is) 
+        (VP (VBN intended) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB boost) 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (NN production) (NN capacity) )
+                (PP-EXT (IN by) 
+                  (NP (CD 25) (NN %) ))
+                (PP-DIR (TO to) 
+                  (NP 
+                    (NP (CD 34,500) (JJ metric) (NNS tons) )
+                    (PP (IN of) 
+                      (NP (NN copper) (NN cathode) ))
+                    (NP-ADV (DT a) (NN year) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Outokumpu) )
+    (VP (VBZ is) 
+      (NP-PRD (DT a) (NN mining) 
+        (, ,)
+        (NN trading) 
+        (CC and)
+        (NN construction) (NN concern) ))
+    (. .) ))

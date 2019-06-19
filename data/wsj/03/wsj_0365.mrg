@@ -1,0 +1,27 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Bonnie) (NNP J.) (NNP Stedt) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT an) (JJ executive) (NN vice) (NN president) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NNP American) (NNP Express) (NNP Travel) (NNP Related) (NNPS Services) (NNP Co.) (NN unit) )
+                (PP (IN of) 
+                  (NP (DT this) 
+                    (ADJP (NN travel) 
+                      (CC and)
+                      (JJ financial) )
+                    (NNS services) (NN firm) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP She) )
+    (VP (VBZ retains) 
+      (NP 
+        (NP (PRP$ her) (NNS duties) )
+        (PP (IN of) 
+          (NP (NNS human-resources) (NN director) ))))
+    (. .) ))

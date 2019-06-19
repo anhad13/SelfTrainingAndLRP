@@ -1,0 +1,269 @@
+
+( (S 
+    (NP-SBJ (NNP General) (NNPS Motors) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (ADVP-MNR (RB temporarily) )
+            (VP (VB idle) 
+              (NP (PRP$ its) 
+                (NP 
+                  (NP (NNP Arlington) )
+                  (, ,) 
+                  (NP (NNP Texas) )
+                  (, ,) )
+                (NN assembly) (NN plant) )
+              (PP-TMP (IN for) 
+                (NP (CD one) (NN week) ))
+              (PP-TMP (NN beginning) 
+                (NP (NNP Monday) ))
+              (PP-PRP (IN because) (IN of) 
+                (NP (JJ slow) (NNS sales) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN closing) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB affect) 
+          (NP 
+            (QP (IN about) (CD 3,000) )
+            (NNS workers) ))
+        (CC and) 
+        (VP (VB eliminate) 
+          (NP 
+            (NP (NN production) )
+            (PP (IN of) 
+              (NP (CD 700) (NNS cars) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN assembly) (NN plant) )
+    (VP (VBZ builds) 
+      (NP (DT the) 
+        (NX 
+          (NX (NNP Cadillac) (NNP DeVille) )
+          (, ,) 
+          (NX (NNP Chevrolet) (NNP Caprice) )
+          (CC and) 
+          (NX (NNP Oldsmobile) (NNP Cutlass) (NNP Ciera) (NNP Wagon) ))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP GM) (POS 's) )
+      (NNP Truck) (CC &) (NNP Bus) (NNP Group) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ slow) (NNS sales) )
+          (VP (VBP are) 
+            (VP (VBG forcing) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (TO to) 
+                  (VP (VB close) 
+                    (NP (PRP$ its) (NNP Detroit) (NN assembly) (NN plant) )
+                    (NP-TMP 
+                      (NP (DT the) (NN week) )
+                      (PP (VBG beginning) 
+                        (NP (NNP Monday) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NN plant) )
+      (VP (VBZ builds) 
+        (NP 
+          (NP (NNS chassis) )
+          (PP (IN for) 
+            (NP (JJ recreational) (NNS vehicles) )))))
+    (CC and) 
+    (S 
+      (NP-SBJ-1 
+        (QP (IN about) (CD 450) )
+        (NNS workers) )
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN affected) 
+            (NP (-NONE- *-1) )
+            (PP (IN by) 
+              (NP-LGS (DT the) (NN closing) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (ADJP (NN No.) (CD 1) )
+      (NN auto) (NN maker) )
+    (VP (VBD scheduled) 
+      (NP (NN overtime) )
+      (NP-TMP (DT this) (NN week) )
+      (PP-LOC (IN at) 
+        (NP 
+          (NP (PRP$ its) 
+            (NP 
+              (NP (NNP Janesville) )
+              (, ,) 
+              (NP (NNP Wis.) )
+              (, ,) )
+            (NN assembly) (NN plant) )
+          (, ,) 
+          (NP 
+            (NP (NN manufacturer) )
+            (PP (IN of) 
+              (NP (DT the) (NNP Chevrolet) (NNP Cavalier) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (CD nine) (JJ major) (NNP U.S.) (NN auto) (NNS makers) )
+    (VP (VBP plan) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB build) 
+            (NP (CD 147,121) (NNS vehicles) )
+            (NP-TMP (DT this) (NN week) )
+            (, ,) 
+            (ADVP 
+              (ADVP (RB down) 
+                (NP (CD 9.6) (NN %) )
+                (PP (IN from) 
+                  (NP (DT the) (CD 162,767) )
+                  (ADVP-TMP 
+                    (NP (DT a) (NN year) )
+                    (RB ago) )))
+              (, ,) (CC but) 
+              (ADVP 
+                (ADVP 
+                  (NP (CD 2.5) (NN %) )
+                  (JJR higher) )
+                (PP (IN than) 
+                  (NP 
+                    (NP (JJ last) (NN week) (POS 's) )
+                    (CD 143,534) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ford) (NNP Motor) (NNP Co.) )
+    (VP (VBD slated) 
+      (NP (NN overtime) )
+      (ADVP (RB again) )
+      (NP-TMP (DT this) (NN week) )
+      (PP-LOC (IN at) 
+        (NP (PRP$ its) 
+          (NP 
+            (NP 
+              (NP (NNP Wixom) )
+              (, ,) 
+              (NP (NNP Mich.) ))
+            (: ;) 
+            (NP 
+              (NP (NNP Wayne) )
+              (, ,) 
+              (NP (NNP Mich.) ))
+            (: ;) 
+            (NP 
+              (NP (NNP Kansas) (NNP City) )
+              (, ,) 
+              (NP (NNP Mo.) ))
+            (, ,) 
+            (CC and)
+            (NP 
+              (NP (NNP Norfolk) )
+              (, ,) 
+              (NP (NNP Va.) ))
+            (, ,) )
+          (NN assembly) (NNS plants) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBP build) 
+      (NP 
+        (NP (DT the) 
+          (NX 
+            (NX (NNP Lincoln) (NNP Town) (NNP Car) )
+            (, ,) 
+            (NX (NNP Continental) )
+            (CC and) 
+            (NX (NNP Mark) (NNP VII) )))
+        (, ,) 
+        (NP (DT the) (NNP Ford) (NNP Escort) )
+        (CC and) 
+        (NP (JJ full-sized) (NN pickup) (NNS trucks) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Chrysler) (NNP Corp.) )
+    (VP (VBD scheduled) 
+      (NP (RB overtime) )
+      (NP-TMP (DT this) (NN week) )
+      (PP-LOC (IN at) 
+        (NP (PRP$ its) 
+          (NP 
+            (NP (NNP St.) (NNP Louis) (NNP Assembly) (NNP Plant) (NN No.) (CD 2) )
+            (NP 
+              (, ,)
+              (NP 
+                (NP (NNP Newark) )
+                (, ,) 
+                (NP (NNP Del.) ))
+              (, ,) 
+              (CC and)
+              (NP 
+                (NP (NNP Sterling) (NNP Heights) )
+                (, ,) 
+                (NP (NNP Mich.) ))
+              (, ,) (NN assembly) (NNS plants) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBP build) 
+      (NP 
+        (NP (JJ extended) (NNS minivans) )
+        (CC and) 
+        (NP (DT the) 
+          (NX 
+            (NX (NNP Dodge) (NNP Spirit) )
+            (, ,) 
+            (NX (NNP Acclaim) )
+            (, ,) 
+            (NX (NNP Shadow) )
+            (CC and) 
+            (NX (NNP Sundance) )))))
+    (. .) ))
+( (S 
+    (LST (LS d) )
+    (: -) 
+    (NP-SBJ (NN Percentage) (NN change) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJR greater) 
+        (PP (IN than) 
+          (NP (CD 999) (NN %) ))))
+    (. .) ))
+( (NP 
+    (LST (LS e) )
+    (: -) 
+    (NP (VBN Estimated) )
+    (. .) ))
+( (S 
+    (LST (LS f) )
+    (: -) 
+    (NP-SBJ (-NONE- *) )
+    (VP (VBZ Includes) 
+      (NP 
+        (NP (NNP Chevrolet) (NNP Prizm) )
+        (CC and) 
+        (NP (NNP Toyota) (NNP Corolla) )))
+    (. .) ))
+( (NP 
+    (LST (LS r) )
+    (: -) 
+    (NP (VBN Revised) )
+    (. .) ))
+( (S 
+    (LST (LS x) )
+    (: -) 
+    (NP-SBJ (JJ Year-to-date) (CD 1988) (NN figure) )
+    (VP (VBZ includes) 
+      (NP 
+        (NP (NN Volkswagen) (NN domestic-production) )
+        (PP (IN through) 
+          (NP (NNP July) ))))
+    (. .) ))

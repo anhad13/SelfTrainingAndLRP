@@ -1,0 +1,268 @@
+
+( (S 
+    (NP-SBJ (NNP Dow) (NNP Jones) (CC &) (NNP Co.) )
+    (VP (VBD announced) 
+      (NP 
+        (NP (NNP Wall) (NNP Street) (NNP Journal) (NN advertising) (NNS rates) )
+        (PP (IN for) 
+          (NP (CD 1990) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS rates) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBP take) 
+            (NP (NN effect) )
+            (NP-TMP (NNP Jan.) (CD 2) ))))
+      (, ,) )
+    (VP (VBP include) 
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 4) (NN %) )
+          (NN increase) )
+        (PP (IN for) 
+          (NP (JJ national) (NN edition) (NN advertising) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Journal) )
+    (ADVP (RB also) )
+    (VP (MD will) 
+      (VP (VB offer) 
+        (NP (VBN expanded) (NN volume) 
+          (CC and)
+          (NN frequency) (NNS discounts) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN increase) )
+      (PP (IN for) 
+        (NP (JJ national) (NN edition) (NN advertising) )))
+    (VP 
+      (VP (VBZ is) 
+        (ADJP-PRD 
+          (ADJP (JJR less) )
+          (PP (IN than) 
+            (NP (DT the) (NN inflation) (NN rate) ))))
+      (CC and) 
+      (VP (VBZ compares) 
+        (PP-CLR (IN with) 
+          (NP 
+            (NP (DT a) 
+              (ADJP (CD 6.5) (NN %) )
+              (NN increase) )
+            (PP-TMP (IN in) 
+              (NP (CD 1989) ))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NN Newsprint) 
+          (CC and)
+          (NN postage) (NNS prices) )
+        (NP-TMP (DT this) (NN year) ))
+      (VP (VBP have) (RB not) 
+        (VP (VBN gone) 
+          (ADVP-DIR (RB up) ))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Peter) (NNP R.) (NNP Kann) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP (NNP Dow) (NNP Jones) ))))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ-1 (PRP We) )
+    (VP (VBP have) 
+      (VP 
+        (VP (VBN invested) 
+          (PP-CLR (IN in) 
+            (NP (VBN improved) (JJ editorial) (NN quality) )))
+        (CC and) 
+        (VP (VBN expanded) 
+          (NP (PRP$ our) (NN quality) (NN audience) ))
+        (PP (IN without) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP 
+              (ADVP-MNR (RB substantially) )
+              (VBG increasing) 
+              (NP (PRP$ our) (NNS costs) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Fundamental) (NN fairness) )
+      (CC and) 
+      (NP 
+        (NP (DT a) (NN sense) )
+        (PP (IN of) 
+          (NP (NN responsibility) ))))
+    (VP (VBP lead) 
+      (NP-1 (PRP us) )
+      (S-CLR 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB share) 
+            (NP (NN operating) (NNS efficiencies) )
+            (PP-CLR (IN with) 
+              (NP (PRP$ our) (NNS customers) ))))))
+    (. .) ('' '') ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NN Advertising) (NNS rates) )
+        (PP (IN for) 
+          (NP (DT the) 
+            (ADJP (JJ Eastern) 
+              (, ,)
+              (JJ Midwest) 
+              (, ,)
+              (JJ Western) 
+              (CC and)
+              (JJ Southwest) )
+            (NNS editions) )))
+      (VP (MD will) 
+        (VP (VB increase) 
+          (NP-EXT (DT an) (NN average) (CD 5.5) (NN %) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (NNS rates) )
+        (PP (IN for) 
+          (NP (VBN localized) (NN advertising) (NNS editions) )))
+      (VP (MD will) 
+        (VP (VB increase) 
+          (NP-EXT (CD 7.5) (NN %) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Rates) )
+      (PP (IN for) 
+        (NP (DT the) (NNP Wall) (NNP Street) (NNP Journal) (NNP Reports) )))
+    (VP (MD will) 
+      (VP (VB remain) 
+        (ADJP-PRD (JJ unchanged) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (JJ one-time) (JJ noncontract) (JJ full-page) (NN advertisement) )
+      (PP-LOC (IN in) 
+        (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal) (JJ national) (NN edition) )))
+    (VP (MD will) 
+      (VP (VB cost) 
+        (NP ($ $) (CD 99,385) (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Advertising) (NNS rates) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal\/Europe) )
+          (, ,) 
+          (VP 
+            (VP (VBN published) 
+              (NP (-NONE- *) )
+              (PP-LOC (IN in) 
+                (NP (NNP Brussels) )))
+            (CC and) 
+            (VP (VBN printed) 
+              (NP (-NONE- *) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (DT the) (NNP Netherlands) )
+                  (CC and) 
+                  (NP (NNP Switzerland) )))))
+          (, ,) )))
+    (VP (MD will) 
+      (VP (VB increase) 
+        (NP-EXT (CD 9) (NN %) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Rates) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT The) (NNP Asian) (NNP Wall) (NNP Street) (NNP Journal) )
+          (, ,) 
+          (VP 
+            (VP (VBN published) 
+              (CC and)
+              (VBN printed) 
+              (NP (-NONE- *) )
+              (PP-LOC (IN in) 
+                (NP (NNP Hong) (NNP Kong) )))
+            (CC and) 
+            (ADVP (RB also) )
+            (VP (VBN printed) 
+              (NP (-NONE- *) )
+              (PP-LOC (IN in) 
+                (NP (NNP Singapore) 
+                  (CC and)
+                  (NNP Tokyo) ))))
+          (, ,) )))
+    (VP (MD will) 
+      (VP (VB rise) 
+        (NP-EXT (CD 8) (NN %) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Rates) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT The) (NNP Asian) (NNP Wall) (NNP Street) (NNP Journal) (NNP Weekly) )
+          (, ,) 
+          (VP (VBN published) 
+            (NP (-NONE- *) )
+            (PP-LOC (IN in) 
+              (NP (NNP New) (NNP York) ))
+            (PP-PRP (IN for) 
+              (NP 
+                (ADJP (JJ North) (JJ American) )
+                (NNS readers) )))
+          (, ,) )))
+    (VP (MD will) 
+      (VP (VB rise) 
+        (NP-EXT (CD 6) (NN %) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Dow) (NNP Jones) )
+    (ADVP (RB also) )
+    (VP 
+      (VP (VBZ publishes) 
+        (NP 
+          (NP 
+            (NP (NNP Barron) (POS 's) )
+            (NN magazine) )
+          (, ,) 
+          (NP (JJ other) (NNS periodicals) )
+          (CC and) 
+          (NP (NN community) (NNS newspapers) )))
+      (CC and) 
+      (VP (VBZ operates) 
+        (NP (JJ electronic) (NN business) (NN information) (NNS services) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ owns) 
+      (NP 
+        (NP (CD 67) (NN %) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Telerate) (NNP Inc.) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (JJ leading) (NN supplier) )
+              (PP (IN of) 
+                (NP 
+                  (NP (JJ computerized) (JJ financial) (NN information) )
+                  (PP (IN on) 
+                    (NP (JJ global) (NNS markets) )))))))))
+    (. .) ))

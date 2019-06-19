@@ -1,0 +1,263 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Lloyd) (POS 's) )
+      (PP-LOC (IN of) 
+        (NP (NNP London) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB clamp) 
+                  (PRT (RP down) )
+                  (PP-CLR (IN on) 
+                    (NP 
+                      (NP (DT the) (NN ability) 
+                        (S (-NONE- *ICH*-2) ))
+                      (PP (IN of) 
+                        (NP (VBG underwriting) (NNS syndicates) ))
+                      (S-2 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB leave) 
+                            (S 
+                              (NP-SBJ (PRP$ their) (JJ annual) (NNS accounts) )
+                              (ADJP-PRD (JJ open) ))
+                            (PP-TMP (IN beyond) 
+                              (NP (DT the) (JJ customary) (CD three) (NNS years) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (VBG Underwriting) (NNS syndicates) )
+      (PP-LOC (IN at) 
+        (NP 
+          (NP 
+            (NP (NNP Lloyd) (POS 's) ))
+          (, ,) 
+          (NP 
+            (NP (DT the) (NN world) (POS 's) )
+            (JJS largest) (NN insurance) (NN market) )
+          (, ,) )))
+    (ADVP (RB generally) )
+    (VP (VBP do) (RB n't) 
+      (VP (VB close) 
+        (NP (PRP$ their) (NNS accounts) )
+        (PP-TMP (IN for) 
+          (NP (CD three) (NNS years) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB allow) 
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP (DT the) (NN filing) )
+                  (PP (IN of) 
+                    (NP (NNS claims) 
+                      (CC and)
+                      (NN litigation) )))))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB When) )
+      (S 
+        (NP-SBJ (JJ such) (NNS claims) 
+          (CC and)
+          (NN litigation) )
+        (VP (VBP extend) 
+          (PP-TMP (IN beyond) 
+            (NP (DT the) (NN period) ))
+          (ADVP-TMP (-NONE- *T*-1) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS syndicates) )
+    (VP (MD can) 
+      (VP (VB extend) 
+        (NP (PRP$ their) (NN accounting) (NNS deadlines) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Lloyd) (POS 's) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (EX there) )
+          (VP (VBP are) 
+            (ADVP-TMP (RB currently) )
+            (NP-PRD 
+              (NP (CD 115) (JJ open) (NN account) (NNS years) )
+              (VP (VBG involving) 
+                (NP 
+                  (NP (CD 68) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (NN market) (POS 's) )
+                      (QP (RB roughly) (CD 360) )
+                      (NNS syndicates) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ-1 (DT The) (JJ open-year) (NN accounting) (NN practice) )
+      (`` ``) 
+      (VP (VBZ is) 
+        (VP 
+          (ADVP (RB widely) )
+          (VBN recognized) 
+          (NP (-NONE- *-1) )
+          (PP-LOC (IN within) 
+            (NP 
+              (NP (NNP Lloyd) (POS 's) )))
+          (PP-CLR (RB as) 
+            (PP (IN of) 
+              (NP 
+                (NP (JJ serious) (NN concern) )
+                ('' '') 
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT the) (CD 31,329) (NN member) (NNS investors) )
+                    (, ,) 
+                    (SBAR 
+                      (WHNP-2 (WP who) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-2) )
+                        (VP (VBP underwrite) 
+                          (NP (NN insurance) )
+                          (PP-LOC (IN at) 
+                            (NP 
+                              (NP (NNP Lloyd) (POS 's) )))
+                          (PP-PRP (IN in) 
+                            (NP 
+                              (NP (NN return) )
+                              (PP (IN for) 
+                                (NP (NN premium) 
+                                  (CC and)
+                                  (NN investment) (NN income) )))))))))))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Lloyd) (POS 's) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN procedure) )
+      (VP (VBZ causes) (`` ``) 
+        (NP (JJ great) (NN uncertainty) )
+        ('' '') 
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (DT an) (NN investor) )
+            (VP (MD ca) (RB n't) 
+              (VP (VB be) 
+                (ADJP-PRD (JJ sure) 
+                  (PP (IN of) 
+                    (NP (PRP$ his) (CC or) (PRP$ her) (JJ individual) (NN liability) )))))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Lloyd) (POS 's) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (NP (DT a) (NN result) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN insurance) (NN market) )
+    (VP (VBZ plans) 
+      (NP 
+        (NP (JJ new) (NNS measures) )
+        (SBAR-PRP 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB restrict) 
+                (NP 
+                  (NP (DT the) (NN ability) 
+                    (S (-NONE- *ICH*-2) ))
+                  (PP (IN of) 
+                    (NP (NN syndicate) (NNS officials) ))
+                  (S-2 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB leave) 
+                        (S 
+                          (NP-SBJ (NNS years) )
+                          (ADJP-PRD (JJ open) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Lloyd) (VBZ 's) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB enact) 
+                  (NP 
+                    (NP (JJ new) (NNS rules) )
+                    (VP (VBG mandating) 
+                      (NP (DT the) (NNS changes) )))
+                  (PP-TMP (IN by) 
+                    (NP (NN year) (NN end) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (JJ new) (NNS rules) ))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NNS officials) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB secure) 
+              (NP 
+                (NP 
+                  (NP (JJ additional) (NN information) )
+                  (CC and) 
+                  (NP 
+                    (NP (NNS reports) )
+                    (PP (IN from) 
+                      (NP (NNS actuaries) ))))
+                (, ,) 
+                (PP (VBG including) 
+                  (NP 
+                    (NP (DT an) (NN assessment) )
+                    (PP (IN of) 
+                      (SBAR (IN whether) 
+                        (S 
+                          (NP-SBJ (NNS officials) )
+                          (VP (VBP have) 
+                            (VP (VBN acted) 
+                              (ADVP-MNR (RB reasonably) ))))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ-1 (NNS officials) )
+    (VP (MD will) 
+      (VP (VB have) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP 
+              (VP (VB get) 
+                (NP 
+                  (NP (NNS quotes) )
+                  (PP (IN for) 
+                    (NP (JJ certain) (NN reinsurance) (NNS contracts) ))))
+              (CC and) 
+              (VP (VB obtain) 
+                (NP (NNS approvals) )
+                (PP (IN from) 
+                  (NP (JJ other) (NN syndicate) (NNS directors) ))))))))
+    (. .) ))

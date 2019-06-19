@@ -1,0 +1,281 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Capital) (NNP Cities\/ABC) (NNP Inc.) (POS 's) )
+      (JJ net) (NN income) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 29) (NN %) )
+      (PP 
+        (PP (IN on) 
+          (NP 
+            (NP (DT a) (JJ modest) 
+              (ADJP (CD 9) (NN %) )
+              (NN increase) )
+            (PP-LOC (IN in) 
+              (NP (NN revenue) ))
+            (PP-TMP (IN in) 
+              (NP (DT the) (JJ third) (NN quarter) ))))
+        (, ,) 
+        (PP 
+          (ADVP (RB mainly) )
+          (IN on) 
+          (NP 
+            (NP (JJ strong) (NN advertising) (NN demand) )
+            (PP-LOC (IN at) 
+              (NP (PRP$ its) (NNP ABC) (NN television) (NN network) (NN operation) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Demand) )
+      (PP (IN for) 
+        (NP (NNS ads) )))
+    (ADVP (RB also) )
+    (VP (VBD rose) 
+      (PP-LOC 
+        (PP (IN at) 
+          (NP 
+            (NP (DT the) (CD eight) (NN TV) (NNS stations) )
+            (SBAR 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (NNP Capital) (NNPS Cities) )
+                (VP (VBZ owns) 
+                  (NP (-NONE- *T*-1) ))))))
+        (CC and) 
+        (PP (IN at) 
+          (NP (PRP$ its) (JJ 80%-owned) (NNP ESPN) (NNS sports) (NN cable) (NN channel) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN broadcast) 
+      (CC and)
+      (VBG publishing) (NN company) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN net) )
+          (VP (VBD climbed) 
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 80.8) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP ($ $) (CD 4.56) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) ))))
+            (, ,) 
+            (PP-DIR (IN from) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 62.6) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP ($ $) (CD 3.55) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) )))
+              (, ,) 
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ year-earlier) (NN period) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD reached) 
+      (NP 
+        (QP ($ $) (CD 1.1) (CD billion) )
+        (-NONE- *U*) )
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 1.01) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN composite) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (NNP Capital) (NNPS Cities) )
+    (VP (VBD closed) 
+      (PP-LOC (IN at) 
+        (NP ($ $) (CD 558.50) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (IN down) 
+        (NP ($ $) (CD 5) (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN broadcasting) (NN unit) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (VBG operating) (NN profit) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 134.9) (CD million) )
+            (-NONE- *U*) ))
+        (, ,) 
+        (ADVP (IN up) 
+          (NP (CD 18) (NN %) )
+          (PP (IN from) 
+            (NP (DT the) (JJ year-earlier) 
+              (QP ($ $) (CD 114.3) (CD million) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Publishing) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (VBG operating) (NN profit) )
+          (VP (VBD was) 
+            (NP 
+              (QP ($ $) (CD 33.3) (CD million) )
+              (-NONE- *U*) )
+            (, ,) 
+            (ADJP-PRD (RB nearly) (JJ flat) 
+              (PP (IN with) 
+                (NP (DT the) (JJ year-before) 
+                  (QP ($ $) (CD 33) (CD million) )
+                  (-NONE- *U*) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Revenue) )
+      (PP-LOC (IN at) 
+        (NP 
+          (NP (DT the) (NN broadcasting) (NN unit) )
+          (, ,) 
+          (VP (VBG consisting) 
+            (PP-CLR (IN of) 
+              (NP (DT the) (NN network) 
+                (CC and)
+                (NNS stations) )))
+          (, ,) )))
+    (VP (VBD advanced) 
+      (NP-EXT (CD 11) (NN %) )
+      (, ,) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 838) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 752.9) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN publishing) (NN unit) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN revenue) )
+          (VP (VBD edged) 
+            (PRT (RP up) )
+            (NP-EXT (CD 2.6) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (QP ($ $) (CD 263.2) (CD million) )
+                (-NONE- *U*) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (QP ($ $) (CD 256.6) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Chairman) (NNP Thomas) (NNP S.) (NNP Murphy) )
+    (VP (VBD cited) 
+      (NP 
+        (NP (NNP Capital) (NNPS Cities) (POS ') )
+        (CD nine) (JJ daily) (NNS newspapers) )
+      (PP (IN in) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG explaining) 
+            (NP 
+              (NP (JJS most) )
+              (PP (IN of) 
+                (NP (DT the) (NN gain) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN parent) )
+    (ADVP (RB also) )
+    (VP (VBZ publishes) 
+      (NP 
+        (NP (NNS weeklies) )
+        (, ,) 
+        (NP (VBG shopping) (NNS guides) )
+        (CC and) 
+        (NP (NN specialty) (NNS magazines) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP 
+        (NP (CD 1989) (POS 's) )
+        (JJ first) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (NNP Capital) (NNPS Cities) (JJ net) (NN income) )
+    (VP (VBD grew) 
+      (NP-EXT (CD 23) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 303.7) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 16.97) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) ))))
+      (, ,) 
+      (PP-DIR (IN from) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 246.9) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 14.43) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD eased) 
+      (NP-EXT (CD 0.3) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 3.45) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 3.46) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-TMP (JJ Last) (NN week) )
+    (, ,) 
+    (NP-SBJ (NNP ABC) )
+    (VP (JJ unseated) 
+      (NP 
+        (NP (NNP General) (NNP Electric) (NNP Co.) (POS 's) )
+        (NNP National) (NNP Broadcasting) (NNP Co.) (NN unit) )
+      (PP-CLR (IN as) 
+        (NP (DT the) (NN No.) (CD 1) (NN network) ))
+      (, ,) 
+      (PP-CLR (IN as) 
+        (S-NOM 
+          (NP-SBJ-1 (-NONE- *) )
+          (VP (VBN rated) 
+            (NP (-NONE- *-1) )
+            (PP (IN by) 
+              (NP-LGS (NNP A.C.) (NNP Nielsen) (NNP Co) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP ABC) )
+    (VP (VBZ has) 
+      (NP 
+        (NP (CD four) (NNS shows) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NN top) (CD 10) )))
+      (, ,) 
+      (PP (VBG including) 
+        (NP 
+          (NP (DT the) (JJ top) (NN show) )
+          (, ,) (`` ``) 
+          (NP (NNP Roseanne) ))))
+    (. .) ))

@@ -1,0 +1,225 @@
+
+( (S 
+    (NP-SBJ (NN Gold) 
+      (CC and)
+      (NN silver) (NN broker) (NNP Preston) (NNP Semel) )
+    (VP (VBD asked) 
+      (NP-1 (DT a) (JJ federal) (NN court) )
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB halt) 
+            (NP-2 (DT the) (NNP Commodity) (NNP Exchange) )
+            (PP-CLR (IN from) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (VBG imposing) 
+                  (NP (DT a) (NN record) 
+                    (ADJP ($ $) (CD 550,000) (-NONE- *U*) )
+                    (NN fine) )
+                  (PP-CLR (IN on) 
+                    (NP (PRP$ his) (NN firm) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN suit) )
+      (, ,) 
+      (VP (VBN filed) 
+        (NP (-NONE- *) )
+        (PP-LOC (IN in) 
+          (NP (JJ federal) (NN court) ))
+        (PP-LOC (IN in) 
+          (NP (NNP Manhattan) )))
+      (, ,) )
+    (ADVP (RB also) )
+    (VP (VBZ asks) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 
+            (NP 
+              (NP (DT the) (NNP Comex) (POS 's) )
+              (JJ nine-month) (NN suspension) )
+            (PP (IN of) 
+              (NP (NNP Mr.) (NNP Semel) )))
+          (VP (VB be) 
+            (VP (VBN lifted) 
+              (NP (-NONE- *-1) )
+              (, ,) 
+              (PP (VBG pending) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NN broker) (POS 's) )
+                    (NN appeal) )
+                  (PP (IN of) 
+                    (NP (DT the) (JJ disciplinary) (NNS measures) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN fine) 
+        (CC and)
+        (NN suspension) )
+      (, ,) 
+      (VP (VBN announced) 
+        (NP (-NONE- *) )
+        (PP-TMP (IN in) 
+          (NP (NNP August) )))
+      (, ,) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (DT the) (JJS stiffest) (NNS sanctions) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (DT the) (NNP Comex) )
+            (VP (VBZ has) 
+              (ADVP-TMP (RB ever) )
+              (VP (VBN ordered) 
+                (NP (-NONE- *T*-1) )
+                (PP-CLR (IN against) 
+                  (NP 
+                    (NP (CD one) )
+                    (PP (IN of) 
+                      (NP (PRP$ its) (NNS members) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Comex) )
+    (VP (VBD accused) 
+      (NP (DT the) (JJ 39-year-old) (NNP Mr.) (NNP Semel) )
+      (PP-CLR (IN of) 
+        (NP (`` ``) 
+          (NP (JJ fraudulent) (NN conduct) )
+          ('' '') 
+          (CC and)
+          (NP (JJ improper) (NN trading) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ disciplinary) (NNS proceedings) )
+    (VP (VBP stem) 
+      (PP-CLR (IN from) 
+        (NP 
+          (NP (NN trading) )
+          (PP-TMP (IN in) 
+            (NP (NNP April) (CD 1987) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Semel) )
+      (CC and) 
+      (NP 
+        (NP (PRP$ his) (NN firm) )
+        (, ,) 
+        (NP (NNP Semel) (CC &) (NNP Co.) )
+        (, ,) ))
+    (VP (VBP have) 
+      (VP (VBN appealed) 
+        (NP 
+          (NP (DT the) (NNP Comex) (NN decision) )
+          (CC and) 
+          (NP (DT the) (NNS sanctions) ))
+        (PP-CLR (TO to) 
+          (NP (DT the) (NNP Commodity) (NNPS Futures) (NNP Trading) (NNP Commission) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN commission) )
+    (VP (VBD denied) 
+      (NP 
+        (NP (NNP Mr.) (NNP Semel) (POS 's) )
+        (NN request) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (DT the) (NN fine) 
+              (CC and)
+              (NN suspension) )
+            (VP (VB be) 
+              (VP (VBN delayed) 
+                (NP (-NONE- *-1) )
+                (PP (VBG pending) 
+                  (NP (DT the) (NN appeal) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN lawsuit) )
+    (VP (VBZ states) 
+      (SBAR (IN that) 
+        (S 
+          (SBAR-ADV (IN unless) 
+            (S 
+              (NP-SBJ-1 (DT the) (NNS sanctions) )
+              (VP (VBP are) 
+                (VP (VBN halted) 
+                  (NP (-NONE- *-1) )
+                  (PP (VBG pending) 
+                    (NP (DT an) (NN appeal) ))))))
+          (, ,) 
+          (S 
+            (NP-SBJ-3 
+              (NP (DT the) (NN broker) )
+              (CC and) 
+              (NP (PRP$ his) (NN firm) ))
+            (`` ``) 
+            (VP (MD will) 
+              (VP (VB be) 
+                (VP 
+                  (ADVP-MNR (RB irreparably) )
+                  (VBN injured) 
+                  (NP (-NONE- *-3) )))))
+          (CC and) 
+          (S 
+            (NP-SBJ-2 (PRP$ their) (NN business) )
+            (VP (MD will) 
+              (VP (VB be) 
+                (VP 
+                  (ADVP-MNR (RB totally) 
+                    (CC and)
+                    (RB permanently) )
+                  (VBN destroyed) 
+                  (NP (-NONE- *-2) ))))))))
+    (. .) ('' '') ))
+( (S-2 
+    (S 
+      (ADVP-TMP (RB Already) )
+      (NP-SBJ (DT the) (NN firm) )
+      (VP (VBZ has) 
+        (VP (VBN paid) 
+          (NP 
+            (NP ($ $) (CD 211,666) (-NONE- *U*) )
+            (PP (IN of) 
+              (NP (DT the) (NN fine) ))))))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (DT the) (NN suit) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-2) ))))
+      (, ,) )
+    (CC and) 
+    (S 
+      (NP-SBJ-1 (PRP it) )
+      (VP (MD will) 
+        (VP (VB have) 
+          (S 
+            (NP-SBJ-3 (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB liquidate) 
+                (NP (JJ additional) (NNS assets) )
+                (SBAR-PRP (IN in) (NN order) 
+                  (S 
+                    (NP-SBJ (-NONE- *-3) )
+                    (VP (TO to) 
+                      (VP (VB pay) 
+                        (NP (DT the) (NN rest) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT A) (NN spokesman) )
+      (PP (IN for) 
+        (NP (DT the) (NNP Comex) )))
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-1) )
+          (S-PRP 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB comment) ))))))
+    (. .) ))

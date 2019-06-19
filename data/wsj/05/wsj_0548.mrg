@@ -1,0 +1,67 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Lawrence) (NNP M.) (NNP Gressette) (NNP Jr.) )
+      (, ,) 
+      (NP (NN president) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (JJ additional) (NNS posts) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (NP (NN chairman) )
+                  (PP (-NONE- *RNR*-2) ))
+                (CC and) 
+                (NP 
+                  (NP (NN chief) (JJ executive) (NN officer) )
+                  (PP (-NONE- *RNR*-2) ))
+                (PP-2 (IN of) 
+                  (NP (DT this) (NN utility) (NN holding) (NN company) ))))))
+        (, ,) 
+        (ADJP-ADV (JJ effective) 
+          (NP-TMP 
+            (NP (NNP Feb.) (CD 1) )
+            (, ,) 
+            (NP (CD 1990) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ 57-year-old) (NNP Mr.) (NNP Gressette) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ-2 (-NONE- *T*-1) )
+          (VP (VBD was) 
+            (ADVP (RB also) )
+            (VP (VBN elected) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (NP-PRD 
+                  (NP 
+                    (NP (NN chairman) )
+                    (PP (-NONE- *RNR*-3) ))
+                  (CC and) 
+                  (NP 
+                    (NP (NN chief) (NN executive) )
+                    (PP (-NONE- *RNR*-3) ))
+                  (PP-3 (IN of) 
+                    (NP (DT all) (NNP Scana) (NNS subsidiaries) ))))))))
+      (, ,) )
+    (VP (VBZ succeeds) 
+      (NP (NNP John) (NNP A.) (NNP Warren) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Warren) )
+    (VP (MD will) 
+      (VP (VB remain) 
+        (PP-LOC-PRD (IN on) 
+          (NP 
+            (NP (DT the) (NN company) (POS 's) )
+            (NN board) ))))
+    (. .) ))

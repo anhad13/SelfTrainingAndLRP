@@ -1,0 +1,223 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP European) (NNP Community) (NNP Commission) )
+    (VP (VBD challenged) 
+      (NP 
+        (NP (DT an) (NN agreement) )
+        (PP (IN on) 
+          (NP (NNS routes) 
+            (CC and)
+            (NNS fares) ))
+        (PP (IN between) 
+          (NP 
+            (NP (NNP France) (POS 's) )
+            (CD two) (JJS largest) (NNS airlines) )))
+      (PP-MNR (IN on) 
+        (NP (JJ antitrust) (NNS grounds) )))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG Meeting) 
+        (PP-LOC (IN in) 
+          (NP (NNP Strasbourg) ))
+        (NP-TMP (NNP Wednesday) )))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NN commission) )
+    (VP (VBD voted) 
+      (PRN 
+        (, ,)
+        (SBAR (IN as) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBN expected) )))
+        (, ,) )
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP 
+            (ADVP-MNR (RB formally) )
+            (VB object) 
+            (PP-CLR (TO to) 
+              (NP 
+                (NP (DT the) (NN accord) )
+                (PP (IN between) 
+                  (NP 
+                    (NP 
+                      (NP (NNP Air) (NNP France) )
+                      (, ,) 
+                      (NP (DT the) (JJ state-owned) (NN airline) ))
+                    (, ,) 
+                    (CC and)
+                    (NP 
+                      (NP (JJ state-controlled) (JJ domestic) (NN carrier) )
+                      (NP (NNP Air) (NNP Inter) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT An) (NNP EC) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (CD two) (NNS companies) )
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBN notified) 
+                (NP (-NONE- *-1) )
+                (SBAR-PRP (IN so) 
+                  (S 
+                    (NP-SBJ (PRP they) )
+                    (VP (MD can) 
+                      (VP (VB begin) 
+                        (NP 
+                          (NP (NNS negotiations) )
+                          (PP (IN with) 
+                            (NP (NNP Brussels) ))
+                          (PP (IN on) 
+                            (SBAR-NOM 
+                              (WHADVP-2 (WRB how) )
+                              (S 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (TO to) 
+                                  (VP (VB modify) 
+                                    (NP (DT the) (NN pact) )
+                                    (ADVP-MNR (-NONE- *T*-2) )))))))))))))))))
+    (. .) ))
+( (SINV 
+    (PP-PRD-1 (IN At) 
+      (NP (NN issue) ))
+    (VP (VBZ is) 
+      (PP-PRD (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (DT an) (NN accord) )
+      (VP (VBG dating) 
+        (ADVP (RB back) )
+        (PP-TMP-CLR (TO to) 
+          (NP (NNP March) )))
+      (SBAR 
+        (WHPP-3 (IN in) 
+          (WHNP (WDT which) ))
+        (S 
+          (S 
+            (NP-SBJ (NNP Air) (NNP France) )
+            (VP (VBD gained) 
+              (NP 
+                (NP (NN access) )
+                (PP (TO to) 
+                  (NP (CD five) (JJ domestic) (JJ French) (NNS routes) )))
+              (PP (IN under) 
+                (NP 
+                  (NP (NNP Air) (NNP Inter) (POS 's) )
+                  (NN flight) (NNS numbers) ))))
+          (CC and) 
+          (S 
+            (NP-SBJ-2 (DT the) (JJ domestic) (NN airline) )
+            (VP (VBD got) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB fly) 
+                    (PP-DIR (TO to) 
+                      (NP 
+                        (NP (CD five) (NNS cities) )
+                        (ADVP-LOC (JJ outside) 
+                          (PP (IN of) 
+                            (NP (NNP France) )))))
+                    (PP (IN under) 
+                      (NP 
+                        (NP (DT the) (NN flag) )
+                        (PP (IN of) 
+                          (NP (NNP Air) (NNP France) )))))))))
+          (PP-LOC (-NONE- *T*-3) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (CD two) )
+    (VP 
+      (VP (VBD shared) 
+        (NP 
+          (NP (NNS results) )
+          (PP (IN from) 
+            (NP (DT this) (NN route) (NN swap) ))))
+      (, ,) 
+      (CC and)
+      (VP (VBD followed) 
+        (NP 
+          (NP (NNS rules) )
+          (PP (IN on) 
+            (NP (NN ticket) (NN pricing) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP EC) (NNP Commission) )
+    (VP (VBD decided) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (JJ such) (DT an) (NN accord) )
+          (VP (VBZ does) (RB n't) 
+            (VP (VB benefit) 
+              (NP (NNS consumers) )
+              (ADVP-CLR (RB enough) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB merit) 
+                      (NP 
+                        (NP (DT an) (NN exemption) )
+                        (PP (IN from) 
+                          (NP (JJ antitrust) (NN law) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS airlines) )
+    (VP (VBD presented) 
+      (NP (PRP it) )
+      (PP-CLR (IN as) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG offering) 
+            (NP (NNS consumers) )
+            (NP 
+              (NP (JJR more) (NN choice) )
+              (CC and) 
+              (NP (JJR better) (NN flight) (NNS connections) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT An) (NNP Air) (NNP France) (NN spokeswoman) )
+    (VP (VBD said) 
+      (, ,)
+      (S (`` ``) 
+        (NP-SBJ-1 (PRP we) )
+        (VP (VBP 're) 
+          (ADJP-PRD (RB absolutely) (JJ ready) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB study) 
+                  (NP (DT all) (NNS solutions) ))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT An) (NNP Air) (NNP Inter) (NN spokesman) )
+    (VP (VBD said) 
+      (, ,)
+      (S (`` ``) 
+        (SBAR-PRP (IN Because) 
+          (S 
+            (NP-SBJ 
+              (NP (PRP they) )
+              (PRN 
+                (-LRB- -LCB-)
+                (NP (DT the) (NNP EC) )
+                (-RRB- -RCB-) ))
+            (VP (VBP have) 
+              (NP (NNS doubts) ))))
+        (, ,) 
+        (NP-SBJ (PRP we) )
+        (VP (MD will) 
+          (VP (VB work) 
+            (ADVP (RB again) )
+            (PP-CLR (IN on) 
+              (NP 
+                (NP 
+                  (NP (DT the) (NN text) )
+                  (CC and) 
+                  (NP (DT the) (NNS contents) ))
+                (PP (IN of) 
+                  (NP (DT the) (NN accord) ))))))))
+    (. .) ))

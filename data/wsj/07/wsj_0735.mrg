@@ -1,0 +1,297 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP Financial) (NNP Accounting) (NNPS Standards) (NNP Board) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (ADVP-TMP (RB soon) )
+            (VP (VB issue) 
+              (NP 
+                (NP (DT a) (NN rule) )
+                (VP (VBG requiring) 
+                  (NP 
+                    (NP (NN disclosure) )
+                    (PP (IN about) 
+                      (NP 
+                        (NP (DT the) (JJ financial) (NN risk) )
+                        (PP (IN of) 
+                          (NP (JJ certain) (JJ financial) (NNS instruments) ))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT the) (JJ chief) (NN rule-making) (NN body) )
+      (PP (IN for) 
+        (NP (NNS accountants) )))
+    (VP (VBD backed) 
+      (PP-CLR (RP off) 
+        (NP 
+          (NP (CD one) (NN part) )
+          (PP (IN of) 
+            (NP 
+              (NP (PRP$ its) (JJ original) (NN proposal) )
+              (VP (VBN made) 
+                (NP (-NONE- *) )
+                (NP-TMP (RBR earlier) (DT this) (NN year) ))))
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (MD would) 
+                (VP (VB have) 
+                  (VP (VBN required) 
+                    (NP 
+                      (NP (DT a) (NN breakdown) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (JJ certain) (NN balance-sheet) (NNS items) )
+                          (VP (VBN related) 
+                            (NP (-NONE- *) )
+                            (PP-CLR (TO to) 
+                              (NP (JJ off-balance) (NN sheet) (NNS instruments) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN balance-sheet) (NN detail) )
+    (VP (VBD was) 
+      (VP (VBN opposed) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (JJ many) (NNS banks) 
+              (CC and)
+              (NNS thrifts) )
+            (SBAR 
+              (WHNP-2 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (VBD felt) 
+                  (SBAR (-NONE- 0) 
+                    (S 
+                      (NP-SBJ 
+                        (NP (DT the) (NN cost) )
+                        (PP (IN of) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (VBG supplying) 
+                              (NP (JJ such) (NNS data) )))))
+                      (VP (VBD was) (RB n't) 
+                        (ADJP-PRD (JJ worth) 
+                          (NP 
+                            (NP (DT the) (NN value) )
+                            (PP (IN of) 
+                              (NP (DT the) (NNS disclosures) ))))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (JJ initial) (NN proposal) ))
+    (, ,) 
+    (PP (IN for) 
+      (NP (NN example) ))
+    (, ,) 
+    (NP-SBJ-2 (NNS banks) )
+    (VP (MD would) 
+      (VP (VB have) 
+        (VP (VBN been) 
+          (VP (VBN required) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB disclose) 
+                  (NP 
+                    (NP (DT that) (NN portion) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNS allowances) )
+                        (PP (IN for) 
+                          (NP (NN loan) (NNS losses) ))))
+                    (SBAR 
+                      (WHNP-1 (WDT that) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (VBZ reflects) 
+                          (NP 
+                            (NP (JJ specific) (NNS letters) )
+                            (PP (IN of) 
+                              (NP (NN credit) ))
+                            (SBAR 
+                              (WHPP-3 (IN for) 
+                                (WHNP (WDT which) ))
+                              (S 
+                                (NP-SBJ (NNS customers) )
+                                (VP (VBD had) 
+                                  (VP (VBN defaulted) 
+                                    (PP-CLR (-NONE- *T*-3) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ final) (NN rule) )
+    (VP (MD wo) (RB n't) 
+      (VP (VB require) 
+        (NP 
+          (NP 
+            (NP (JJ such) (DT a) (NN breakdown) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NNS allowances) )
+                (PP (IN for) 
+                  (NP (NN loan) (NNS losses) )))))
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBZ appears) 
+                (PP-LOC (IN on) 
+                  (NP (DT the) (NN balance) (NN sheet) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP FASB) (NN rule) )
+    (VP (MD will) 
+      (VP (VB cover) 
+        (NP 
+          (NP (JJ such) (JJ financial) (NNS instruments) )
+          (PP (IN as) 
+            (NP 
+              (NP (NN interest) (NN rate) (NNS swaps) )
+              (, ,) 
+              (NP (JJ financial) (NNS guarantees) )
+              (, ,) 
+              (NP (JJ foward) (NN interest) (NN rate) (NNS contracts) )
+              (, ,) 
+              (NP (NN loan) (NNS contracts) )
+              (, ,) 
+              (NP (NN loan) (NNS commitments) )
+              (CC and) 
+              (NP 
+                (NP (NNS options) )
+                (VP (VBN written) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN on) 
+                    (NP 
+                      (NP (NNS securites) )
+                      (VP (JJ held) 
+                        (NP (-NONE- *) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (MD will) 
+      (VP (VB require) 
+        (S 
+          (NP-SBJ (NNS companies) )
+          (VP (TO to) 
+            (VP (VB spell) 
+              (PRT (RP out) )
+              (PP-MNR (IN in) 
+                (NP (JJR more) (NN detail) ))
+              (NP 
+                (NP 
+                  (NP (NN collateral) (NNS polices) )
+                  (CC and) 
+                  (NP 
+                    (NP (NNS concentrations) )
+                    (PP (IN of) 
+                      (NP (NN credit) (NN risk) ))))
+                (PP (IN for) 
+                  (NP (DT all) (JJ financial) (NNS instruments) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN rule) )
+    (VP (MD will) 
+      (VP (VB require) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS companies) )
+            (PP (IN with) 
+              (NP (JJ financial) (NNS instruments) ))
+            (SBAR 
+              (WHNP-1 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBP have) 
+                  (NP 
+                    (ADJP (JJ off-balance) (NN sheet) )
+                    (NNS risks) )))))
+          (VP (TO to) 
+            (VP (VB disclose) 
+              (NP 
+                (NP 
+                  (NP (NNS data) )
+                  (PP (IN about) 
+                    (NP 
+                      (NP (DT the) (NN value) 
+                        (CC and)
+                        (NNS terms) )
+                      (PP (IN of) 
+                        (NP (DT the) (NNS instruments) )))))
+                (, ,) 
+                (NP 
+                  (NP (DT any) (NN accounting) (NN loss) )
+                  (SBAR 
+                    (WHNP-2 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-2) )
+                      (VP (MD would) 
+                        (VP (VB occur) 
+                          (SBAR-ADV (IN if) 
+                            (S 
+                              (NP-SBJ-3 
+                                (NP (DT the) (JJ outside) (NN party) )
+                                (VP (JJ involved) 
+                                  (NP (-NONE- *) )
+                                  (PP-LOC-CLR (IN in) 
+                                    (NP (DT the) (NN instrument) ))))
+                              (VP (VBD failed) 
+                                (S 
+                                  (NP-SBJ (-NONE- *-3) )
+                                  (VP (TO to) 
+                                    (VP (VB perform) )))))))))))
+                (, ,) 
+                (CC and)
+                (NP 
+                  (NP 
+                    (NP (DT the) (NN company) (POS 's) )
+                    (NN policy) )
+                  (PP (IN for) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG requiring) 
+                        (NP 
+                          (NP (NN collateral) )
+                          (CC or) 
+                          (NP (JJ other) (NN security) ))
+                        (PP-CLR (IN for) 
+                          (NP (DT the) (NN instrument) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Scott) (NNP Miller) )
+      (, ,) 
+      (NP (DT an) (NNP FASB) (NN project) (NN manager) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (DT a) (JJ final) (NN rule) )
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBN issued) 
+                (NP (-NONE- *-1) )
+                (PP-TMP (IN before) 
+                  (NP (NN year) (NN end) ))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD noted) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 
+            (NP (DT the) (JJ initial) (JJ effective) (NN date) )
+            (PP (IN of) 
+              (NP (DT the) (JJR earlier) (NN proposal) )))
+          (VP (VBD had) 
+            (VP (VBN been) 
+              (VP (VBN delayed) 
+                (NP (-NONE- *-1) )
+                (PP-TMP (IN by) 
+                  (NP (CD six) (NNS months) ))))))))
+    (. .) ))

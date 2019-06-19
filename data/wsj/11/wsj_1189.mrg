@@ -1,0 +1,779 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNS Savings) 
+        (CC and)
+        (NNS loans) )
+      (VP (VBP reject) 
+        (NP (NNS blacks) )
+        (PP (IN for) 
+          (NP (NN mortgage) (NNS loans) ))
+        (ADVP-TMP 
+          (ADVP (RB twice) (RB as) (RB often) )
+          (PP (IN as) 
+            (S-NOM 
+              (NP-SBJ (PRP they) )
+              (VP (VBP reject) 
+                (NP (NNS whites) )))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP Office) )
+      (PP (IN of) 
+        (NP (NNP Thrift) (NNP Supervision) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 (CC But) 
+      (NP-SBJ (DT that) )
+      (VP (VBZ does) (RB n't) 
+        (ADVP (RB necessarily) )
+        (VP (VB mean) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ (NNS thrifts) )
+              (VP (VBP are) 
+                (VP (VBG discriminating) 
+                  (PP-CLR (IN against) 
+                    (NP (NNS blacks) )))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN agency) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN office) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN arm) )
+        (PP (IN of) 
+          (NP (DT the) (NNP Treasury) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ does) (RB n't) 
+              (VP (VB have) 
+                (NP 
+                  (NP (NNS data) )
+                  (PP (IN on) 
+                    (NP 
+                      (NP (DT the) (JJ financial) (NN position) )
+                      (PP (IN of) 
+                        (NP (NNS applicants) ))))))))
+          (CC and) 
+          (ADVP (RB thus) )
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (MD ca) (RB n't) 
+              (VP (VB determine) 
+                (SBAR-NOM 
+                  (WHADVP-2 (WRB why) )
+                  (S 
+                    (NP-SBJ-1 (NNS blacks) )
+                    (VP (VBP are) 
+                      (VP (VBN rejected) 
+                        (NP (-NONE- *-1) )
+                        (ADVP-TMP (RBR more) (RB often) )
+                        (ADVP-PRP (-NONE- *T*-2) )))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Nevertheless) )
+    (, ,) 
+    (PP-LOC (IN on) 
+      (NP 
+        (NP (NNP Capitol) (NNP Hill) )
+        (, ,) 
+        (SBAR 
+          (WHADVP-2 (WRB where) )
+          (S 
+            (NP-SBJ-1 (DT the) (NN information) )
+            (VP (VBD was) 
+              (VP (VBN released) 
+                (NP (-NONE- *-1) )
+                (NP-TMP (NN yesterday) )
+                (PP-LOC (IN at) 
+                  (NP (DT a) (NNP Senate) (NN banking) (NN subcommittee) (NN hearing) ))
+                (ADVP-LOC (-NONE- *T*-2) )))))
+        (, ,) ))
+    (NP-SBJ (NNS lawmakers) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP are) 
+            (ADJP-PRD (JJ worried) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ (JJ financial) (NNS institutions) )
+                  (VP (VBP are) 
+                    (ADVP (RB routinely) )
+                    (VP (VBG discriminating) 
+                      (PP-CLR (IN against) 
+                        (NP (NNS minorities) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBD asked) 
+      (NP-1 (NNS regulators) )
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB suggest) 
+            (NP 
+              (NP (JJ new) (NNS ways) )
+              (SBAR 
+                (WHADVP-2 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB force) 
+                      (S 
+                        (NP-SBJ (NNS banks) 
+                          (CC and)
+                          (NNS thrifts) )
+                        (VP (TO to) 
+                          (VP (VB comply) 
+                            (PP-CLR (IN with) 
+                              (NP (JJ anti-discrimination) (NNS laws) )))))
+                      (ADVP-MNR (-NONE- *T*-2) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Sen.) (NNP Alan) (NNP Dixon) )
+      (PRN 
+        (-LRB- -LRB-)
+        (NP (NNP D) )
+        (, ,) 
+        (NP-LOC (NNP Ill.) )
+        (-RRB- -RRB-) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN subcommittee) )
+            (PP (IN on) 
+              (NP 
+                (UCP (NN consumer) 
+                  (CC and)
+                  (JJ regulatory) )
+                (NNS affairs) )))))
+      (, ,) )
+    (VP (VBD said) 
+      (, ,)
+      (`` ``) 
+      (S 
+        (NP-SBJ (PRP I) )
+        (VP (VBP 'm) (RB not) 
+          (NP-PRD (DT a) (NN statistician) ))))
+    (. .) ))
+( (S (CC But) 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB when) )
+      (S 
+        (NP-SBJ (NNS blacks) )
+        (VP (VBP are) 
+          (VP (VBG getting) 
+            (S 
+              (NP-SBJ-2 (PRP$ their) (NN loan) (NNS applications) )
+              (VP (VBD rejected) 
+                (NP (-NONE- *-2) )
+                (ADVP-TMP 
+                  (ADVP (RB twice) (RB as) (RB often) )
+                  (PP (IN as) 
+                    (NP (NNS whites) )))))
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (PRN (: --) 
+      (S 
+        (CC and)
+        (PP-LOC (IN in) 
+          (NP (DT some) (NNS cities) ))
+        (, ,) 
+        (NP-SBJ (PRP it) )
+        (VP (VBZ is) 
+          (ADVP-PRD 
+            (QP (CD three) 
+              (CC and)
+              (CD four) (NNS times) )
+            (RB as) (RB often) )))
+      (: --) )
+    (NP-SBJ (PRP I) )
+    (VP (VBP conclude) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (NN discrimination) )
+          (VP (VBZ is) 
+            (NP-PRD 
+              (NP (NN part) )
+              (PP (IN of) 
+                (NP (DT the) (NN problem) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP James) (NNP Grohl) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN spokesman) )
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (NNP U.S.) (NNP League) )
+            (PP (IN of) 
+              (NP (NNP Savings) (NNP Institutions) )))))
+      (, ,) )
+    (VP (VBD said) 
+      (, ,)
+      (`` ``) 
+      (S 
+        (S 
+          (NP-SBJ (DT The) (NN data) )
+          (VP (VBZ is) 
+            (NP-PRD (DT a) (JJ red) (NN flag) )))
+        (, ,) (CC but) 
+        (S 
+          (S-ADV 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG lacking) 
+              (NP (DT the) (JJ financial) (NN data) )))
+          (NP-SBJ-1 (PRP you) )
+          (VP (MD ca) (RB n't) 
+            (VP (VB make) 
+              (NP-CLR (DT a) (NN case) )
+              (SBAR-CLR (DT that) 
+                (S 
+                  (NP-SBJ (NN discrimination) )
+                  (VP (VBZ is) 
+                    (ADJP-PRD (JJ widespread) )))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT The) (NN trade) (NN group) (NN official) )
+    (VP (VBD added) (: :) (`` ``) 
+      (S 
+        (ADVP (RB Certainly) )
+        (NP-SBJ (DT the) (JJ federal) (NN government) )
+        (VP (MD should) 
+          (VP (VB take) 
+            (NP 
+              (NP (DT a) (JJ hard) (NN look) )
+              (PP (IN at) 
+                (NP (PRP it) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ-2 (NNP Sen.) (NNP Dixon) )
+    (VP (VBD held) 
+      (NP (DT the) (NN hearing) )
+      (S-PRP 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB follow) 
+            (PRT (RP up) )
+            (PP-CLR (IN on) 
+              (NP 
+                (NP (DT a) (NN provision) )
+                (PP-LOC (IN in) 
+                  (NP (DT the) (NNS savings) 
+                    (CC and)
+                    (NN loan) (NN bailout) (NN bill) ))
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBD required) 
+                      (S 
+                        (NP-SBJ (NNS regulators) )
+                        (VP (TO to) 
+                          (VP (VB report) 
+                            (PP-CLR (IN on) 
+                              (NP 
+                                (NP (NN evidence) )
+                                (PP (IN of) 
+                                  (NP (NN discimination) ))
+                                (PP-LOC (IN in) 
+                                  (NP (NN mortgage) (NN lending) ))))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NN legislation) )
+      (ADVP (RB also) )
+      (VP (VBZ requires) 
+        (NP 
+          (NP (JJ broad) (JJ new) (NNS disclosures) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) 
+                (NX 
+                  (NX (NN race) )
+                  (, ,) 
+                  (NX (NN sex) )
+                  (CC and) 
+                  (NX (NN income) (NN level) )))
+              (PP (IN of) 
+                (NP (NNS borrowers) )))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-1 (DT that) (NN information) )
+      (VP (MD wo) (RB n't) 
+        (VP (VB be) 
+          (VP (VBN gathered) 
+            (NP (-NONE- *-1) )
+            (PP-LOC-CLR (IN in) 
+              (NP (JJ new) (NNS studies) ))
+            (PP-TMP (IN for) 
+              (NP 
+                (NP (JJ several) (NNS months) )
+                (ADVP (IN at) (JJS least) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Federal) (NNP Reserve) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP$ its) (NNS studies) )
+            (PP-TMP (IN in) 
+              (NP (JJ recent) (NNS years) ))
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBP adjust) 
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (NP (NN income) (NNS differences) )
+                      (CC and) 
+                      (NP (JJ other) (NNS variables) ))))))
+            (, ,) )
+          (VP (VBD showed) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ (NNS blacks) )
+                (VP (VBD received) 
+                  (NP 
+                    (NP (JJR fewer) (NN home) (NNS mortgages) )
+                    (PP (-NONE- *ICH*-2) ))
+                  (PP-CLR (IN from) 
+                    (NP (NNS banks) 
+                      (CC and)
+                      (NNS thrifts) ))
+                  (PP-2 (IN than) 
+                    (NP (NNS whites) )))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (NNP John) (NNP LaWare) )
+      (, ,) 
+      (NP (DT a) (NNP Fed) (NN governor) )
+      (, ,) )
+    (VP (VBD told) 
+      (NP (DT the) (NN subcommittee) )
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) (NN evidence) )
+            (VP (VBZ is) 
+              (ADJP-PRD (JJ mixed) ))))
+        (CC and) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NNP Fed) (POS 's) )
+            (VP (VBZ believes) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ 
+                    (NP (DT the) (JJ vast) (NN majority) )
+                    (PP (IN of) 
+                      (NP (NNS banks) )))
+                  (VP (VBP are) (RB n't) 
+                    (VP (VBG discriminating) )))))))))
+    (. .) ))
+( (S-1 
+    (PP (IN For) 
+      (NP (NN instance) ))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBD noted) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (NP-SBJ (DT the) (NNP Fed) (NNS studies) )
+    (VP (VBP have) 
+      (VP (VBN shown) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (NNS blacks) )
+            (VP (VBP receive) 
+              (NP 
+                (NP (JJR more) (NN home) (NN improvement) (NNS loans) )
+                (PP (IN than) 
+                  (NP (NNS whites) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Several) (NNS lawmakers) )
+    (VP (VBD were) 
+      (ADJP-PRD (JJ angered) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NN bank) 
+              (CC and)
+              (NN thrift) (NNS regulators) )
+            (ADVP (RB generally) )
+            (VP (VBD said) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ-1 (PRP they) )
+                  (VP (VBP have) 
+                    (VP (VBN been) 
+                      (ADJP-PRD (RB too) (JJ busy) 
+                        (S (-NONE- *ICH*-2) ))
+                      (S-CLR 
+                        (NP-SBJ (-NONE- *-1) )
+                        (VP (VBG handling) 
+                          (NP 
+                            (NP (DT the) (JJ record) (NN number) )
+                            (PP (IN of) 
+                              (NP (NN bank) 
+                                (CC and)
+                                (NN thrift) (NNS failures) ))
+                            (PP-TMP (IN in) 
+                              (NP (DT the) (JJ past) (JJ few) (NNS years) )))))
+                      (S-2 
+                        (NP-SBJ (-NONE- *-1) )
+                        (VP (TO to) 
+                          (VP (VB put) 
+                            (NP (JJ much) (NN energy) )
+                            (PP-PUT (IN into) 
+                              (S-NOM 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (VBG investigating) 
+                                  (NP (JJ possible) (NN discrimination) ))))))))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP We) )
+      (VP (MD would) 
+        (VP (VB be) 
+          (NP-PRD 
+            (NP (DT the) (JJ first) )
+            (SBAR 
+              (WHNP-2 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (TO to) 
+                  (VP (VB admit) 
+                    (SBAR (IN that) 
+                      (S 
+                        (NP-SBJ (PRP we) )
+                        (VP (VBP have) (RB not) 
+                          (VP (VBN devoted) 
+                            (NP 
+                              (NP (DT the) (JJ necessary) (NN amount) )
+                              (PP (IN of) 
+                                (NP (NN emphasis) )))
+                            (PP-TMP (IN over) 
+                              (NP (DT the) (JJ past) (JJ several) (NNS years) ))
+                            ('' '') 
+                            (PP-CLR (TO to) 
+                              (S-NOM 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (VBG developing) 
+                                  (NP 
+                                    (NP (NNS examinations) )
+                                    (PP (IN for) 
+                                      (NP (NN discrimination) ))))))))))))))))))
+    (, ,) 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Jonathan) (NNP Fiechter) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ top) (NN official) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNP Office) )
+            (PP (IN of) 
+              (NP (NNP Thrift) (NNP Supervision) ))))))
+    (. .) ))
+( (S-3 (`` ``) 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (PRP we) )
+        (VP (VBP 've) 
+          (VP (VBD got) 
+            (NP 
+              (NP (NNS folks) )
+              (PP-LOC (IN out) 
+                (NP (EX there) ))
+              (SBAR 
+                (WHNP-1 (WP who) )
+                (S 
+                  (NP-SBJ-4 (-NONE- *T*-1) )
+                  (VP (VBP are) 
+                    (VP (VBG being) 
+                      (VP (VBD turned) 
+                        (NP (-NONE- *-4) )
+                        (PRT (RP away) )
+                        (PP-LOC (IN in) 
+                          (NP (DT the) (NN mortgage) (NN market) ))
+                        (ADVP-MNR (RB improperly) 
+                          (CC and)
+                          (RB unfairly) )))))))))))
+    (PRN 
+      (, ,)
+      ('' '') 
+      (SINV 
+        (VP (VBD said) 
+          (S (-NONE- *T*-3) ))
+        (NP-SBJ 
+          (NP (NNP Sen.) (NNP Donald) (NNP Riegle) )
+          (PRN 
+            (-LRB- -LRB-)
+            (NP (NNP D.) )
+            (, ,) 
+            (NP-LOC (NNP Mich.) )
+            (-RRB- -RRB-) )
+          (, ,) 
+          (NP 
+            (NP (NN chairman) )
+            (PP (IN of) 
+              (NP (DT the) (NN banking) (NN committee) )))))
+      (, ,) )
+    (`` ``) 
+    (ADVP (RB then) )
+    (NP-SBJ (DT that) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN matter) )
+        (SBAR 
+          (WHNP-2 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-2) )
+            (VP (VBZ needs) 
+              (NP (NN remedy) )
+              (ADVP-TMP 
+                (ADVP (RB now) )
+                (, ,) (RB not) 
+                (NP 
+                  (NP 
+                    (NP (CD six) (NNS months) )
+                    (PP (IN from) 
+                      (NP (RB now) )))
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP (CD six) (NNS years) )
+                    (PP (IN from) 
+                      (NP (RB now) )))
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP (CD 26) (NNS years) )
+                    (PP (IN from) 
+                      (NP (RB now) ))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Officials) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NNP Federal) (NNP Deposit) (NNP Insurance) (NNP Corp.) )
+          (CC and) 
+          (NP 
+            (NP (DT the) (NNP Office) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NNP Comptroller) )
+                (PP (IN of) 
+                  (NP (DT the) (NNP Currency) ))))))))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP have) 
+            (VP (VBN punished) 
+              (NP 
+                (QP (RB only) (DT a) (JJ few) )
+                (NNS banks) )
+              (PP-PRP (IN for) 
+                (NP 
+                  (NP (NNS violations) )
+                  (PP (IN of) 
+                    (NP (JJ anti-discrimination) (NNS laws) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP FDIC) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) 
+            (VP (VBN issued) 
+              (NP (CD five) (NNS citations) )
+              (PP-DTV (TO to) 
+                (NP (NNS banks) ))
+              (PP-TMP (IN over) 
+                (NP (DT the) (JJ past) (CD three) (NNS years) ))
+              (PP-PRP (IN for) 
+                (NP (JJ discriminatory) (NNS practices) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN comptroller) (POS 's) )
+      (NN office) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD found) 
+            (NP 
+              (NP (DT no) (NNS indications) )
+              (PP (IN of) 
+                (NP (JJ illegal) (NN discrimination) )))
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (CD 3,437) (NNS examinations) )
+                (PP (IN of) 
+                  (NP (NNS banks) ))
+                (PP-TMP (IN since) 
+                  (NP (NNP April) (CD 1987) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN comptroller) (POS 's) )
+      (NN office) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (PP-TPC-2 (IN of) 
+            (NP 
+              (NP (CD 37,000) (NNS complaints) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBD received) 
+                    (NP (-NONE- *T*-1) )
+                    (PP-TMP (IN since) 
+                      (NP (NNP January) (CD 1987) )))))))
+          (, ,) 
+          (NP-SBJ 
+            (NP (RB only) (CD 16) )
+            (PP (-NONE- *T*-2) ))
+          (VP (VBD alleged) 
+            (NP 
+              (NP (JJ racial) (NN discrimination) )
+              (PP-LOC (IN in) 
+                (NP (JJ real) (NN estate) (NN lending) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NN agency) )
+      (VP (VBD investigated) 
+        (NP (DT the) (NNS complaints) )))
+    (CC but) 
+    (S 
+      (NP-SBJ-1 (DT no) (NNS violations) )
+      (VP (VBD were) 
+        (VP (VBN cited) 
+          (NP (-NONE- *-1) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Thrift) (NNS regulators) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB give) 
+        (NP 
+          (NP (DT any) (NNS figures) )
+          (PP (IN on) 
+            (NP (PRP$ their) (NN enforcement) (NNS actions) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Fiechter) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (SINV 
+          (PP-LOC-PRD-TPC-2 (IN among) 
+            (NP 
+              (NP (DT the) (NNS possibilities) )
+              (VP (VBG being) 
+                (VP (VBN considered) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS-3 (NNS regulators) ))
+                  (S-PRP 
+                    (NP-SBJ (-NONE- *-3) )
+                    (VP (TO to) 
+                      (VP (VB fight) 
+                        (NP (NN discrimination) ))))))))
+          (VP (VBZ is) 
+            (PP-LOC-PRD (-NONE- *T*-2) ))
+          (NP-SBJ 
+            (NP (DT the) (NN use) )
+            (PP (IN of) 
+              (NP (`` ``) 
+                (NP (NNS testers) )
+                ('' '') (: --) 
+                (NP 
+                  (NP (NN government) (NNS investigators) )
+                  (SBAR 
+                    (WHNP-1 (WP who) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (MD would) 
+                        (VP (VB pose) 
+                          (PP (IN as) 
+                            (NP (NN home) (NNS buyers) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NNP Department) )
+      (PP (IN of) 
+        (NP (NNP Housing) 
+          (CC and)
+          (NNP Urban) (NNP Development) )))
+    (VP (VBZ has) 
+      (VP (VBN used) 
+        (NP (NNS testers) )
+        (S-CLR 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB investigate) 
+              (NP 
+                (NP (NN discrimination) )
+                (PP-LOC (IN in) 
+                  (NP (JJ rental) (NN housing) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (S-NOM-SBJ 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG Using) 
+          (NP (NNS testers) )))
+      (VP (MD could) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ controversial) )
+          (PP (IN with) 
+            (NP (JJ financial) (NNS institutions) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (NNP Mr.) (NNP Grohl) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NNP U.S.) (NNP League) )
+              (PP (IN of) 
+                (NP (NNP Savings) (NNP Institutions) )))
+            (VP (VBD had) (RB n't) 
+              (ADVP-TMP (RB yet) )
+              (VP (VBN taken) 
+                (NP (DT any) (NN position) )
+                (PP (IN on) 
+                  (NP (DT the) (NN matter) ))))))))
+    (. .) ))

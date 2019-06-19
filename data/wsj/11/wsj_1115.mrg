@@ -1,0 +1,52 @@
+
+( (S 
+    (NP-SBJ (NNP USX) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD delayed) 
+            (NP 
+              (NP (DT the) (JJ proposed) (JJ initial) (JJ public) (NN offering) )
+              (PP (IN of) 
+                (NP 
+                  (NP (JJ common) (NN stock) )
+                  (PP (IN of) 
+                    (NP (NNP RMI) (NNP Titanium) (NNP Co.) )))))
+            (PP-PRP (IN because) (IN of) 
+              (NP (NN market) (NNS conditions) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP RMI) (NNP Titanium) )
+    (VP (VBZ is) 
+      (VP (VBN owned) 
+        (NP (-NONE- *-1) )
+        (ADVP-MNR (RB jointly) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (NNP USX) )
+            (CC and) 
+            (NP (NNP Quantum) (NNP Chemical) (NNP Corp) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP USX) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD had) (RB n't) 
+            (VP (VBN set) 
+              (NP 
+                (NP (DT a) (NN date) )
+                (PP (IN for) 
+                  (NP (DT the) (NN offering) )))))))
+      (, ,) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB disclose) 
+        (NP 
+          (NP (DT any) (NN timetable) )
+          (PP (IN for) 
+            (NP (DT the) (NN offering) )))))
+    (. .) ))

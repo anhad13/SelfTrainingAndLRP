@@ -1,0 +1,36 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Fred) (NNP D.) (NNP Thompson) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ 47-year-old) (NN attorney) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (JJ private) (NN practice) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NNP Washington) )
+                (CC and) 
+                (NP (NNP Nashville) 
+                  (, ,)
+                  (NNP Tenn.) 
+                  (, ,)
+                  )))))))
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (NN board) )
+            (PP (IN of) 
+              (NP (DT this) (NN engineering) 
+                (CC and)
+                (NN construction) (NN company) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN board) )
+    (VP (VBD increased) 
+      (PP-CLR (TO to) 
+        (NP (CD 11) (NNS seats) )))
+    (. .) ))

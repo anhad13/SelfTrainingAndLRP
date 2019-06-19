@@ -1,0 +1,82 @@
+
+( (S 
+    (NP-SBJ (NNP Allied-Signal) (NNP Aerospace) (NNP Co.) )
+    (VP (VBD received) 
+      (NP (DT a) 
+        (ADJP 
+          (QP ($ $) (CD 65) (CD million) )
+          (-NONE- *U*) )
+        (NN contract) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB outfit) 
+              (NP 
+                (NP (NNP Continental) (NNPS Airlines) (POS ') )
+                (CD 393) (NNS planes) )
+              (PP-CLR (IN with) 
+                (NP (DT the) (NNP Bendix\/King) (NNP Traffic) (NNP Alert) 
+                  (CC and)
+                  (NNP Collision) (NNP Avoidance) (NNP System) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (JJ airborne) (NN system) )
+      (VP (VBZ operates) 
+        (S-MNR 
+          (NP-SBJ (-NONE- *-1) )
+          (ADJP-PRD (JJ independent) 
+            (PP (IN of) 
+              (NP (JJ ground-based) (NN radar) (NNS systems) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG informing) 
+            (NP (NNS pilots) )
+            (PP-CLR (IN of) 
+              (NP (JJ nearby) (NN aircraft) ))))))
+    (, ,) 
+    (NP-SBJ (NNP Allied-Signal) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN system) )
+    (ADVP (RB also) )
+    (VP (VBZ provides) 
+      (NP (NN course-correction) (NNS advisories) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Allied-Signal) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Allied-Signal) (NNP Inc.) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NN manufacturer) )
+              (PP (IN with) 
+                (NP 
+                  (NP (NNS interests) )
+                  (PP (IN in) 
+                    (NP 
+                      (NP (NN aerospace) )
+                      (, ,) 
+                      (NP (JJ automotive) (NNS products) )
+                      (CC and) 
+                      (NP (JJ engineered) (NNS materials) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Continental) (NNPS Airlines) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Texas) (NNP Air) (NNP Corp.) )
+            (, ,) 
+            (NP-LOC (NNP Houston) )))))
+    (. .) ))

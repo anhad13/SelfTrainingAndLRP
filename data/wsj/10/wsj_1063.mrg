@@ -1,0 +1,53 @@
+
+( (S 
+    (NP-SBJ (NNP Toshiba) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP$ its) (JJ new) (JJ French) (NN marketing) (NN concern) )
+          (VP (VBZ has) 
+            (VP (VBN started) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (VBG operating) 
+                  (PP-MNR (IN under) 
+                    (NP 
+                      (NP (DT the) (NN aegis) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP 
+                            (NP (DT the) (NN company) (POS 's) )
+                            (ADJP (JJ West) (JJ German) )
+                            (NN subsidiary) )
+                          (, ,) 
+                          (SBAR 
+                            (WHNP-1 (WDT which) )
+                            (S 
+                              (NP-SBJ (-NONE- *T*-1) )
+                              (ADVP-TMP (RB formerly) )
+                              (VP (VBD handled) 
+                                (NP 
+                                  (NP (DT all) (NNS sales) )
+                                  (PP (IN of) 
+                                    (NP (NNP Toshiba) (JJ electronic) (NNS products) ))
+                                  (PP-LOC (IN in) 
+                                    (NP (NNP France) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (JJ recent) (NN change) )
+      (PP-LOC (IN in) 
+        (NP (JJ French) (NN law) )))
+    (, ,) 
+    (PP (VBG according) 
+      (PP (TO to) 
+        (NP (NNP Toshiba) )))
+    (, ,) 
+    (VP (VBD permitted) 
+      (NP 
+        (NP (NN formation) )
+        (PP (IN of) 
+          (NP (DT the) (NN semiconductor) (NN marketing) (NN arm) ))
+        (PP-LOC (IN in) 
+          (NP (NNP Paris) ))))
+    (. .) ))

@@ -1,0 +1,228 @@
+
+( (S 
+    (NP-SBJ-1 (DT This) (JJ temblor-prone) (NN city) )
+    (VP (VBD dispatched) 
+      (NP 
+        (NP (NNS inspectors) )
+        (, ,) 
+        (NP (NNS firefighters) )
+        (CC and) 
+        (NP (JJ other) (JJ earthquake-trained) (NNS personnel) ))
+      (S-PRP 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB aid) 
+            (NP (NNP San) (NNP Francisco) )))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT a) (JJ secondary) (NN agenda) )
+      (PP-LOC (IN among) 
+        (NP 
+          (NP (NNS officials) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (DT the) (NNP City) )
+              (PP (IN of) 
+                (NP (NNPS Angels) )))))))
+    (VP (VBD was) 
+      (S-PRD 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB learn) 
+            (PP-CLR (IN about) 
+              (NP 
+                (NP 
+                  (NP (DT the) (NN disaster-contingency) (NNS plans) )
+                  (SBAR 
+                    (WHNP-1 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBP work) ))))
+                (CC and) 
+                (NP 
+                  (NP (DT those) )
+                  (SBAR 
+                    (WHNP-2 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-2) )
+                      (VP (VBP do) (RB n't) 
+                        (VP (-NONE- *?*) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNP Los) (NNP Angeles) (NNP Mayor) (NNP Tom) (NNP Bradley) )
+    (VP (VBD used) 
+      (NP (DT the) (NN opportunity) )
+      (S-CLR 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB push) 
+            (NP-1 (DT the) (NNP City) (NNP Council) )
+            (ADVP-MNR (RBR harder) )
+            (S-CLR 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB pass) 
+                  (NP 
+                    (NP (DT a) (NN measure) )
+                    (VP (VBG establishing) 
+                      (NP 
+                        (NP (DT a) (JJ loss-recovery) (NN reserve) )
+                        (PP (IN of) 
+                          (NP 
+                            (QP ($ $) (CD 100) (CD million) )
+                            (-NONE- *U*) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN amount) )
+    (VP (MD would) 
+      (VP (VB help) 
+        (S 
+          (NP-SBJ-1 (NNP Los) (NNP Angeles) )
+          (VP (VB cope) 
+            (PP-TMP (IN in) 
+              (NP 
+                (NP (DT the) (JJ first) (JJ few) (NNS weeks) )
+                (PP-TMP (IN after) 
+                  (NP (PRP$ its) (JJ own) (JJ anticipated) (NN quake) ))))
+            (, ,) 
+            (SBAR-TMP (IN while) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG waiting) 
+                  (SBAR-CLR (IN for) 
+                    (S 
+                      (NP-SBJ (JJ federal) (NN assistance) )
+                      (VP (TO to) 
+                        (VP (VB arrive) )))))))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP (IN After) 
+      (S 
+        (NP-SBJ (NNP San) (NNP Francisco) (NNP Mayor) (NNP Art) (NNP Agnos) )
+        (VP (VBD spoke) 
+          (PP-LOC (IN on) 
+            (NP (NN television) ))
+          (PP-CLR (IN of) 
+            (NP (DT the) (NN need) 
+              (SBAR (IN for) 
+                (S 
+                  (NP-SBJ (NN building) (NNS inspectors) )
+                  (VP (TO to) 
+                    (VP (VB check) 
+                      (NP 
+                        (NP (DT the) (NN soundness) )
+                        (PP (IN of) 
+                          (NP (NNS buildings) ))))))))))))
+    (, ,) 
+    (NP-SBJ (NNP Los) (NNP Angeles) )
+    (VP (VBD dispatched) 
+      (NP 
+        (NP (CD 32) (NNS inspectors) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB help) ))))))
+    (. .) ))
+( (S (CC And) 
+    (NP-SBJ-3 
+      (NP (DT the) (NN county) )
+      (PP (IN of) 
+        (NP (NNP Los) (NNP Angeles) )))
+    (VP 
+      (VP (VBD placed) 
+        (NP (PRP$ its) (NNS firefighters) 
+          (CC and)
+          (NNS sheriffs) )
+        (PP-CLR (IN on) 
+          (NP (JJ alert) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ-2 (-NONE- *-3) )
+          (ADJP-PRD (JJ ready) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB send) 
+                  (ADVP-DIR (IN in) )
+                  (NP (NNS reinforcements) ))))))
+        (, ,) )
+      (CC and) 
+      (VP (VBD alerted) 
+        (NP (NNP San) (NNP Francisco) )
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NN city) )
+            (VP (VBZ has) 
+              (NP (CD 1,000) (NN hospital) (NNS beds) )
+              (PP-CLR (IN at) 
+                (NP (PRP$ its) (NN disposal) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (CD Two) (NNP Los) (NNP Angeles) (NN radio) (NNS stations) )
+        (VP (VBD initiated) 
+          (NP (NNP Red) (NNP Cross) (NN donation) (NNS campaigns) )))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP-SBJ (CD one) (NNP Los) (NNP Angeles) (NN bank) (NN manager) )
+        (VP (VBD forked) 
+          (PRT (RP over) )
+          (NP 
+            (NP ($ $) (CD 150,000) (-NONE- *U*) )
+            (PP (IN of) 
+              (NP (PRP$ his) (JJ own) (NN money) )))
+          (PP-PRP (IN for) 
+            (NP (NN relief) (NNS purposes) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Red) (NNP Cross) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Los) (NNP Angeles) (NNP Red) (NNP Cross) )
+    (VP (VBD sent) 
+      (NP 
+        (NP (CD 2,480) (NNS cots) )
+        (, ,) 
+        (NP (CD 500) (NNS blankets) )
+        (, ,) 
+        (CC and)
+        (NP 
+          (NP (CD 300) (NNS pints) )
+          (PP (IN of) 
+            (NP (JJ Type-O) (NN blood) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ is) 
+      (ADVP (RB also) )
+      (VP 
+        (VP (VBG pulling) 
+          (NP 
+            (NP (CD 20) (NNS people) )
+            (SBAR (-NONE- *ICH*-1) ))
+          (PP-DIR (IN out) 
+            (PP (IN of) 
+              (NP (NNP Puerto) (NNP Rico) )))
+          (, ,) 
+          (SBAR-1 
+            (WHNP-2 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-2) )
+              (VP (VBD were) 
+                (VP (VBG helping) 
+                  (NP (NNP Huricane) (NNP Hugo) (NNS victims) )))))
+          (, ,) )
+        (CC and) 
+        (VP (VBG sending) 
+          (NP (PRP them) )
+          (PP-DIR (TO to) 
+            (NP (NNP San) (NNP Francisco) ))
+          (ADVP (RB instead) ))))
+    (. .) ))

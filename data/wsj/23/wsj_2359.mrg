@@ -1,0 +1,315 @@
+
+( (S 
+    (NP-SBJ (NNP CityFed) (NNP Financial) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB report) 
+                  (NP 
+                    (NP (DT a) (NN loss) )
+                    (PP (IN of) 
+                      (NP 
+                        (QP (IN at) (JJS least) ($ $) (CD 125) (CD million) (TO to) ($ $) (CD 150) (CD million) )
+                        (-NONE- *U*) ))
+                    (PP (IN for) 
+                      (NP (DT the) (JJ third) (NN quarter) ))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (JJ year-earlier) (NN period) ))
+    (, ,) 
+    (NP-SBJ (NNP CityFed) )
+    (VP (VBD had) 
+      (NP 
+        (NP 
+          (NP (JJ net) (NN income) )
+          (PP (IN of) 
+            (NP ($ $) (CD 485,000) (-NONE- *U*) )))
+        (, ,) (CC but) 
+        (NP (DT no) (JJ per-share) (NNS earnings) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP CityFed) (POS 's) )
+        (NX 
+          (NX (NN president) )
+          (CC and) 
+          (NX (JJ chief) (JJ executive) (NN officer) )))
+      (, ,) 
+      (NP (NNP John) (NNP Atherton) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN loss) )
+          (VP (VBZ stems) 
+            (PP-CLR (IN from) 
+              (NP (JJ several) (NNS factors) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ nonperforming) (NNS assets) )
+          (VP (VBD rose) 
+            (PP-DIR (TO to) 
+              (NP 
+                (QP (RB slightly) (JJR more) (IN than) ($ $) (CD 700) (CD million) )
+                (-NONE- *U*) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (QP ($ $) (CD 516) (CD million) )
+                (-NONE- *U*) ))
+            (PP-TMP (IN between) 
+              (NP (NNP June) 
+                (CC and)
+                (NNP September) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (QP (RB Approximately) (CD 85) )
+        (NN %) )
+      (PP (IN of) 
+        (NP (DT the) (NN total) )))
+    (VP (VBD consisted) 
+      (PP-CLR (IN of) 
+        (NP (JJ nonperforming) (JJ commercial) (JJ real) (NN estate) (NNS assets) )))
+    (. .) ))
+( (S 
+    (ADVP (RB Accordingly) )
+    (, ,) 
+    (NP-SBJ (NNP CityFed) )
+    (VP (VBD estimated) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB provide) 
+              (NP 
+                (QP (IN between) ($ $) (CD 85) (CD million) 
+                  (CC and)
+                  ($ $) (CD 110) (CD million) )
+                (-NONE- *U*) )
+              (PP-PRP (IN for) 
+                (NP 
+                  (NP (NN credit) (NNS losses) )
+                  (PP-TMP (IN in) 
+                    (NP (DT the) (JJ third) (NN quarter) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP CityFed) )
+    (VP (VBD added) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (JJ significant) (JJ additional) (JJ loan-loss) (NNS provisions) )
+          (VP (MD may) 
+            (VP (VB be) 
+              (VP (VBN required) 
+                (NP (-NONE- *-1) )
+                (PP (IN by) 
+                  (NP-LGS (JJ federal) (NNS regulators) ))
+                (PP (IN as) 
+                  (NP 
+                    (NP (NN part) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (JJ current) (JJ annual) (NN examination) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NNP City) (NNP Federal) (NNP Savings) (NNP Bank) )
+                            (, ,) 
+                            (NP 
+                              (NP (NNP CityFed) (POS 's) )
+                              (JJ primary) (NN subsidiary) )
+                            (, ,) 
+                            (VP (VBN based) 
+                              (NP (-NONE- *) )
+                              (PP-LOC-CLR (IN in) 
+                                (NP 
+                                  (NP (NNP Somerset) )
+                                  (, ,) 
+                                  (NP (NNP N.J) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP City) (NNP Federal) )
+    (VP (VBZ operates) 
+      (NP 
+        (NP (CD 105) (NN banking) (NNS offices) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP New) (NNP Jersey) )
+            (CC and) 
+            (NP (NNP Florida) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Atherton) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP CityFed) )
+          (VP (MD will) 
+            (ADVP (RB also) )
+            (VP (VB mark) 
+              (NP 
+                (NP (PRP$ its) (NN portfolio) )
+                (PP (IN of) 
+                  (NP (JJ high-yield) (JJ corporate) (NNS bonds) )))
+              (PP-CLR (TO to) 
+                (NP (NN market) ))
+              (PP-PRP (IN as) 
+                (NP 
+                  (NP (DT a) (NN result) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (JJ federal) (NN legislation) )
+                      (VP (VBG requiring) 
+                        (SBAR (IN that) 
+                          (S 
+                            (NP-SBJ (NNS savings) (NNS institutions) )
+                            (VP (VB divest) 
+                              (NP (PRP themselves) )
+                              (PP-CLR (IN of) 
+                                (NP (JJ such) (NNS bonds) )))))))))))))))
+    (. .) ))
+( (S-1 
+    (NP-SBJ (DT That) (NN action) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (NNP CityFed) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB result) 
+        (PP-CLR (IN in) 
+          (NP 
+            (NP (DT a) (NN charge) )
+            (PP (IN against) 
+              (NP (JJ third-quarter) (NNS results) ))
+            (PP (IN of) 
+              (NP 
+                (QP (RB approximately) ($ $) (CD 30) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP CityFed) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP 
+            (VP (VBZ expects) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB shed) 
+                    (NP 
+                      (NP (PRP$ its) (VBG remaining) (NN mortgage) (NN loan) (NN origination) (NNS operations) )
+                      (PP-LOC (IN outside) 
+                        (NP 
+                          (NP (PRP$ its) (JJ principal) (NNS markets) )
+                          (PP-LOC (IN in) 
+                            (NP 
+                              (NP (NNP New) (NNP Jersey) )
+                              (CC and) 
+                              (NP (NNP Florida) ))))))))))
+            (CC and) 
+            (, ,)
+            (VP 
+              (PP-PRP (IN as) 
+                (NP (DT a) (NN result) ))
+              (, ,) (VBZ is) 
+              (VP (VBG taking) 
+                (NP 
+                  (NP (DT a) (NN charge) )
+                  (PP (IN for) 
+                    (NP (JJ discontinued) (NNS operations) )))))))))
+    (. .) ))
+( (S-1 
+    (NP-SBJ (PDT All) (DT these) (NNS actions) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (NNP Mr.) (NNP Atherton) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB result) 
+        (PP-CLR (IN in) 
+          (NP 
+            (NP (DT a) (NN loss) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 125) (CD million) )
+                  (-NONE- *U*) )
+                (TO to) 
+                (NP 
+                  (QP ($ $) (CD 150) (CD million) )
+                  (-NONE- *U*) )))
+            (PP (IN for) 
+              (NP (DT the) (JJ third) (NN quarter) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD added) 
+      (, ,)
+      (ADVP (RB however) )
+      (: :) 
+      (SBAR (-NONE- 0) (`` ``) 
+        (S 
+          (PP (VBG Depending) 
+            (PP (IN on) 
+              (NP 
+                (NP 
+                  (NP (DT the) (NN resolution) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (JJ certain) (NN accounting) (NNS issues) )
+                      (VP (VBG relating) 
+                        (PP-CLR (TO to) 
+                          (NP (NNS mortgages) (NN servicing) ))))))
+                (CC and) 
+                (NP 
+                  (NP (DT the) (NN outcome) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (JJ annual) (NN examination) )
+                      (PP (IN of) 
+                        (NP (NNP City) (NNP Federal) ))
+                      (PP 
+                        (ADVP-TMP (RB currently) )
+                        (IN in) 
+                        (NP (NN progress) ))))
+                  (PP (IN with) 
+                    (NP 
+                      (NP (NN respect) )
+                      (PP (TO to) 
+                        (NP 
+                          (NP (DT the) (JJ appropriate) (NN level) )
+                          (PP (IN of) 
+                            (NP (NN loan) (NN loss) (NNS reserves) ))))))))))
+          (, ,) 
+          (NP-SBJ 
+            (NP (DT the) (JJ total) (NN loss) )
+            (PP (IN for) 
+              (NP (DT the) (NN quarter) )))
+          (VP (MD could) 
+            (VP 
+              (ADVP-MNR (RB significantly) )
+              (VB exceed) 
+              (NP (DT this) (NN range) ))))))
+    (. .) ))

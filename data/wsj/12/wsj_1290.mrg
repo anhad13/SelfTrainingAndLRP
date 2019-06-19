@@ -1,0 +1,63 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Francis) (NNP D.) (NNP John) )
+      (, ,) 
+      (NP (JJ 35-year-old) (NN president) )
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB assume) 
+        (NP 
+          (NP (DT the) (JJ additional) (NN job) )
+          (PP (IN of) 
+            (NP (NN chief) (NN executive) (NN officer) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP Paul) (NNP J.) (NNP Montle) )
+        (, ,) 
+        (NP (CD 42) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (MD will) 
+              (VP (VB remain) 
+                (NP-PRD (NN chairman) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP National) (NNP Environmental) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB move) 
+              (NP (PRP$ its) (NN headquarters) )
+              (PP-DIR (IN from) 
+                (NP (NNP Hingham) ))
+              (PP-DIR (TO to) 
+                (NP 
+                  (NP 
+                    (NP (NNP Folcroft) )
+                    (, ,) 
+                    (NP (NNP Pa.) )
+                    (, ,) )
+                  (NP 
+                    (NP (DT the) (NN site) )
+                    (PP (IN of) 
+                      (NP (PRP$ its) (NN sludge) (VBG dewatering) (NN facility) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP National) (NNP Environmental) )
+      (, ,) 
+      (NP (RB formerly) (NNP Yankee) (NNP Cos.) )
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD (DT a) (NN sludge) (NN treatment) (NN company) ))
+    (. .) ))

@@ -1,0 +1,68 @@
+
+( (S 
+    (NP-SBJ-3 
+      (NP (NNP Kenneth) (NNP J.) (NNP Thygerson) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WP who) )
+        (S 
+          (NP-SBJ-1 (-NONE- *T*-2) )
+          (VP (VBD was) 
+            (VP (VBN named) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (NP-PRD 
+                  (NP (NN president) )
+                  (PP (IN of) 
+                    (NP (DT this) (NN thrift) (NN holding) (NN company) ))))
+              (PP-TMP (IN in) 
+                (NP (NNP August) ))))))
+      (, ,) )
+    (VP (VBD resigned) 
+      (, ,)
+      (S-ADV 
+        (NP-SBJ (-NONE- *-3) )
+        (VP (VBG citing) 
+          (NP (JJ personal) (NNS reasons) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Thygerson) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP he) )
+          (VP 
+            (VP (VBD had) 
+              (VP (VBN planned) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB travel) 
+                      (PP-DIR (IN between) 
+                        (NP 
+                          (NP 
+                            (NP (DT the) (NN job) )
+                            (PP-LOC (IN in) 
+                              (NP (NNP Denver) )))
+                          (CC and) 
+                          (NP (PRP$ his) (NNP San) (NNP Diego) (NN home) ))))))))
+            (, ,) (CC but) 
+            (VP (VBZ has) 
+              (VP (VBN found) 
+                (S 
+                  (NP-SBJ (DT the) (NN commute) )
+                  (ADJP-PRD (RB too) (JJ difficult) 
+                    (SBAR 
+                      (WHNP-2 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB continue) 
+                            (NP (-NONE- *T*-2) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT A) (JJ new) (NN president) )
+    (VP (VBD was) (RB n't) 
+      (VP (VBN named) 
+        (NP (-NONE- *-1) )))
+    (. .) ))

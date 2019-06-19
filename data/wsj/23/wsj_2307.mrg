@@ -1,0 +1,99 @@
+
+( (S 
+    (NP-SBJ (NNP Newport) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB report) 
+                  (NP 
+                    (NP (JJ fiscal-first-quarter) (NNS earnings) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP 
+                          (NP 
+                            (QP (IN between) (CD 15) (NNS cents) 
+                              (CC and)
+                              (CD 19) (NNS cents) )
+                            (-NONE- *U*) )
+                          (NP-ADV (DT a) (NN share) ))
+                        (, ,) 
+                        (PP-LOC 
+                          (ADVP (RB somewhat) )
+                          (IN below) 
+                          (NP 
+                            (NP 
+                              (NP (NNS analysts) (POS ') )
+                              (NNS estimates) )
+                            (PP (IN of) 
+                              (NP 
+                                (NP (CD 19) (NNS cents) )
+                                (TO to) 
+                                (NP (CD 23) (NNS cents) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN maker) )
+      (PP (IN of) 
+        (NP 
+          (NP (JJ scientific) (NNS instruments) )
+          (CC and) 
+          (NP (NN laser) (NNS parts) ))))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNS orders) )
+          (VP (VBD fell) 
+            (PP-DIR (IN below) 
+              (NP (NNS expectations) ))
+            (PP-TMP (IN in) 
+              (NP (JJ recent) (NNS months) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NN spokesman) )
+    (VP (VBD added) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS sales) )
+            (PP-TMP (IN in) 
+              (NP (DT the) (JJ current) (NN quarter) )))
+          (VP (NN will) 
+            (VP 
+              (ADVP (RB about) )
+              (VB equal) 
+              (NP 
+                (NP 
+                  (NP (DT the) (JJ yearearlier) (NN quarter) (POS 's) )
+                  (NN figure) )
+                (, ,) 
+                (SBAR 
+                  (WHADVP-1 (WRB when) )
+                  (S 
+                    (NP-SBJ (NNP Newport) )
+                    (VP (VBD reported) 
+                      (NP 
+                        (NP (JJ net) (NN income) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP 
+                              (QP ($ $) (CD 1.7) (CD million) )
+                              (-NONE- *U*) )
+                            (, ,) (CC or) 
+                            (NP 
+                              (NP (CD 21) (NNS cents) )
+                              (NP-ADV (DT a) (NN share) ))))
+                        (, ,) 
+                        (PP (IN on) 
+                          (NP 
+                            (NP 
+                              (QP ($ $) (CD 14.1) (CD million) )
+                              (-NONE- *U*) )
+                            (PP (IN in) 
+                              (NP (NNS sales) )))))
+                      (ADVP-TMP (-NONE- *T*-1) ))))))))))
+    (. .) ))

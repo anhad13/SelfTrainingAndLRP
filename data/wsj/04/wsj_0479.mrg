@@ -1,0 +1,164 @@
+
+( (S 
+    (NP-SBJ (NNP Fletcher) (NNP Challenge) (NNP Ltd.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP$ its) (NNP Petrocorp) (NN unit) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB acquire) 
+                  (NP (JJ certain) (NNP Alberta) (NN oil) 
+                    (CC and)
+                    (NN gas) (NNS interests) )
+                  (PP-CLR (IN from) 
+                    (NP 
+                      (NP (NNP Amoco) (NNP Corp.) (POS 's) )
+                      (JJ Canadian) (NN unit) ))
+                  (, ,) 
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (NP 
+                        (QP (RB about) (CD 130) (CD million) )
+                        (JJ Canadian) (NNS dollars) )
+                      (PRN 
+                        (-LRB- -LRB-)
+                        (NP 
+                          (QP ($ US$) (CD 110.6) (CD million) )
+                          (-NONE- *U*) )
+                        (-RRB- -RRB-) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Fletcher) (NNP Challenge) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ big) 
+          (ADJP (NNP New) (JJ Zealand-based) )
+          (NN forest) (NNS products) (NN concern) )
+        (PP (IN with) 
+          (NP 
+            (NP (NN forestry) (NNS operations) )
+            (PP-LOC (IN in) 
+              (NP (NNP Canada) )))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS assets) )
+          (VP (VBP include) 
+            (NP 
+              (NP 
+                (NP (NNS stakes) )
+                (PP (IN in) 
+                  (NP 
+                    (NP 
+                      (NP (CD four) (JJ natural) (NN gas) (NNS fields) )
+                      (CC and) 
+                      (NP (CD one) (NN oil) (NN field) ))
+                    (PP-LOC (IN near) 
+                      (NP 
+                        (NP (NNP Provost) )
+                        (, ,) 
+                        (NP (NNP Alberta) )
+                        (, ,) )))))
+              (IN plus) 
+              (NP 
+                (NP (NN gas) (NN processing) (NNS facilities) )
+                (CC and) 
+                (NP 
+                  (NP 
+                    (QP (RB about) (CD 247,000) )
+                    (NNS acres) )
+                  (PP (IN of) 
+                    (NP (JJ undeveloped) (NN land) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (VBN proposed) (NN purchase) )
+    (VP (VBZ requires) 
+      (NP 
+        (NP (NN approval) )
+        (PP (IN from) 
+          (NP 
+            (NP (NNP Investment) (NNP Canada) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ monitors) 
+                  (NP 
+                    (NP (JJ large) (JJ foreign) (NNS investments) )
+                    (PP-LOC (IN in) 
+                      (NP (NNP Canada) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Amoco) (NNP Canada) (NNP Petroleum) (NNP Co.) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ operates) 
+            (NP 
+              (NP (DT the) (JJ major) (NNS properties) )
+              (VP (VBN included) 
+                (NP (-NONE- *) )
+                (PP-LOC-CLR (IN in) 
+                  (NP (DT the) (NN asset) (NN package) )))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN sale) )
+          (VP (VBZ is) 
+            (NP-PRD 
+              (NP (NN part) )
+              (PP (IN of) 
+                (NP (DT a) (NN plan) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB streamline) 
+                        (NP (PRP$ its) (NNS assets) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Petrocorp) )
+      (, ,) 
+      (NP (DT a) 
+        (ADJP (NNP New) (JJ Zealand-based) )
+        (NN oil) 
+        (CC and)
+        (NN gas) (NN producer) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (VBN planned) (NN purchase) )
+          (VP 
+            (VP (MD would) 
+              (VP (VB be) 
+                (NP-PRD 
+                  (NP (PRP$ its) (JJ first) (NN oil) 
+                    (CC and)
+                    (NN gas) (NN acquisition) )
+                  (PP-LOC (IN outside) 
+                    (NP (PRP$ its) (NN home) (NN country) )))))
+            (, ,) 
+            (CC and)
+            (VP (MD would) 
+              (VP (VB form) 
+                (NP 
+                  (NP (DT the) (NN basis) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (DT a) (JJ new) (JJ stand-alone) (NN exploration) 
+                        (CC and)
+                        (NN production) (NN unit) )
+                      (PP-LOC (IN in) 
+                        (NP (NNP Canada) )))))))))))
+    (. .) ))

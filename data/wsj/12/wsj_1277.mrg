@@ -1,0 +1,55 @@
+
+( (S 
+    (NP-SBJ (NNP Weyerhaeuser) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD sold) 
+            (NP (PRP$ its) (JJ wall-paneling) (NN business) )
+            (PP-DTV (TO to) 
+              (NP 
+                (NP (DT an) (NN affiliate) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (CD one) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP Indonesia) (POS 's) )
+                        (JJS largest) (NNS wood-products) (NNS firms) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Terms) )
+      (PP (IN of) 
+        (NP (DT the) (NN transaction) )))
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Weyerhaeuser) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN paneling) (NN business) )
+          (VP (VBZ employs) 
+            (NP 
+              (QP (IN about) (CD 300) )
+              (NNS workers) )
+            (PP-LOC (IN at) 
+              (NP 
+                (NP (CD two) (NNS facilities) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP 
+                      (NP (NNP Chesapeake) )
+                      (, ,) 
+                      (NP (NNP Va.) )
+                      (, ,) )
+                    (CC and) 
+                    (NP 
+                      (NP (NNP Hancock) )
+                      (, ,) 
+                      (NP (NNP Vt) ))))))))))
+    (. .) ))

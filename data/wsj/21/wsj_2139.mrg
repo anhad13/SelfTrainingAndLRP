@@ -1,0 +1,29 @@
+
+( (S 
+    (NP-SBJ (DT THE) (NNP R.H.) (NNP MACY) (CC &) (NNP CO) (. .) (NN department-store) (NN chain) )
+    (VP (VBZ is) (RB n't) 
+      (PP-PRD (IN for) 
+        (NP (NN sale) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (NN yesterday) (POS 's) )
+        (NN edition) ))
+    (, ,) 
+    (NP-SBJ-1 (PRP it) )
+    (VP (VBD was) 
+      (VP 
+        (ADVP-MNR (RB incorrectly) )
+        (VBN included) 
+        (NP (-NONE- *-1) )
+        (PP (IN with) 
+          (NP 
+            (NP (DT a) (NN list) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP New) (NNP York) (NNS chains) )
+                (PP (IN up) 
+                  (PP (IN for) 
+                    (NP (NN sale) )))))))))
+    (. .) ))

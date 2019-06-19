@@ -1,0 +1,239 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (CD Eight) (NNS people) )
+      (, ,) 
+      (PP (VBG including) 
+        (NP 
+          (NP (DT a) (NN supervisor) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Security) (NNP Pacific) (NNP National) (NNP Bank) (POS 's) )
+              (JJ central) (NN vault) ))))
+      (, ,) )
+    (VP (VBD were) 
+      (VP (VBN arrested) 
+        (NP (-NONE- *-1) )
+        (PP (IN in) 
+          (NP 
+            (NP (DT an) (NN investigation) )
+            (PP (IN of) 
+              (NP (DT an) (VBN alleged) (NN drug) (NN money-laundering) (NN operation) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (DT The) (NNP U.S.) (NNP Attorney) (POS 's) )
+      (NN office) )
+    (VP (VBD filed) 
+      (NP 
+        (NP (DT a) (JJ criminal) (NN complaint) )
+        (PP (IN against) 
+          (NP (CD six) (NN bank) (NNS employees) )))
+      (S-ADV 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (VBG charging) 
+          (NP (PRP them) )
+          (PP-CLR (IN with) 
+            (NP 
+              (NP (NN conspiracy) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (DT the) (NN scheme) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-1 (WDT which) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (ADVP (RB apparently) )
+                      (VP (VBD was) 
+                        (ADJP-PRD (JJ capable) 
+                          (PP (IN of) 
+                            (S-NOM 
+                              (NP-SBJ-3 (-NONE- *) )
+                              (VP (VBG handling) 
+                                (NP 
+                                  (NP (NNS millions) )
+                                  (PP (IN of) 
+                                    (NP (NNS dollars) ))
+                                  (NP-ADV (DT a) (NN week) ))
+                                (PP-MNR (IN by) 
+                                  (S-NOM 
+                                    (NP-SBJ (-NONE- *-3) )
+                                    (VP (VBG funneling) 
+                                      (NP (NN cash) )
+                                      (PP-CLR (IN through) 
+                                        (NP (JJ fictitious) (NN bank) (NNS accounts) )))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (CD Two) (JJ other) (NNS men) )
+    (ADVP (RB also) )
+    (VP (VBD were) 
+      (VP (VBN charged) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN with) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG participating) 
+              (PP-LOC-CLR (IN in) 
+                (NP (DT the) (NN operation) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS arrests) )
+    (VP (VBD capped) 
+      (NP 
+        (NP (DT a) (JJ four-month) (NN investigation) )
+        (PP (IN by) 
+          (NP 
+            (NP (DT the) (NNP Internal) (NNP Revenue) (NNP Service) )
+            (, ,) 
+            (NP 
+              (NP (DT the) (NNP U.S.) (NNP Attorney) (POS 's) )
+              (NN office) )
+            (CC and) 
+            (NP (DT a) (NNP Security) (NNP Pacific) (JJ internal) (NN investigation) (NN team) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Walter) (NNP S.) (NNP Fisher) )
+      (, ,) 
+      (NP 
+        (NP (NN executive) (NN vice) (NN president) )
+        (CC and) 
+        (NP (JJ general) (NN auditor) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (DT the) (NN bank) (POS 's) )
+              (NN parent) )
+            (, ,) 
+            (NP (NNP Security) (NNP Pacific) (NNP Corp.) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT no) (NN bank) (NNS funds) )
+          (VP (VBD were) 
+            (PP-PRD (IN at) 
+              (NP (NN risk) ))
+            (PP-TMP (IN during) 
+              (NP (DT the) (NN investigation) ))))))
+    (. .) ))
+( (SINV 
+    (VP-2 (VBN Arrested) 
+      (NP (-NONE- *-1) ))
+    (VP (VBD were) 
+      (VP (-NONE- *T*-2) ))
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP Jose) (NNP O.) (NNP Lopez) )
+        (, ,) 
+        (ADJP 
+          (NP (CD 27) (NNS years) )
+          (JJ old) )
+        (, ,) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Whittier) )
+            (, ,) 
+            (NP (NNP Calif.) )))
+        (, ,) 
+        (NP (DT the) (NN vault) (NN supervisor) ))
+      (: ;) 
+      (NP 
+        (NP (NNP Carlos) (NNP O.) (NNP Huerta) )
+        (, ,) 
+        (NP (CD 29) )
+        (, ,) 
+        (PP (IN of) 
+          (NP (NNP La) (NNP Puente) )))
+      (: ;) 
+      (NP 
+        (NP (NNP Luis) (NN A.) (NNP Arroyo) )
+        (, ,) 
+        (NP (CD 36) )
+        (, ,) 
+        (PP (IN of) 
+          (NP (NNP Los) (NNP Angeles) )))
+      (: ;) 
+      (NP 
+        (NP (NNP Ignacio) (NNP Rojas) (NNP Jr.) )
+        (, ,) 
+        (NP (CD 32) )
+        (, ,) 
+        (PP (IN of) 
+          (NP (NNP Baldwin) (NNP Park) )))
+      (: ;) 
+      (NP 
+        (NP (NNP Doris) (NNP Moreno) )
+        (, ,) 
+        (NP (CD 37) )
+        (, ,) 
+        (PP (IN of) 
+          (NP (NNP Bell) (NNP Gardens) )))
+      (: ;) 
+      (CC and)
+      (NP 
+        (NP (NNP Ana) (NNP L.) (NNP Azucena) )
+        (, ,) 
+        (NP (CD 27) )
+        (, ,) 
+        (PP (IN of) 
+          (NP (NNP Huntington) (NNP Park) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP Geno) (NNP M.) (NNP Apicella) )
+        (, ,) 
+        (NP (CD 27) )
+        (, ,) 
+        (PP (IN of) 
+          (NP (NNP Los) (NNP Angeles) )))
+      (, ,) 
+      (CC and)
+      (NP 
+        (NP (NNP Terrell) (NNP N.) (NNP Madison) )
+        (, ,) 
+        (NP (CD 27) )
+        (, ,) 
+        (PP (IN of) 
+          (NP (NN Hawthorne) )))
+      (, ,) )
+    (VP (VBD were) 
+      (ADVP (RB also) )
+      (VP (VBN charged) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN with) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG participating) 
+              (PP-LOC-CLR (IN in) 
+                (NP (DT the) (NN conspiracy) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Each) (NN defendant) )
+    (VP (VBZ faces) 
+      (NP 
+        (NP 
+          (NP (DT a) (JJ possible) (NN sentence) )
+          (PP (IN of) 
+            (NP 
+              (NP (CD 20) (NNS years) )
+              (PP-LOC (IN in) 
+                (NP (NN prison) )))))
+        (CC and) 
+        (NP 
+          (NP ($ $) (CD 250,000) (-NONE- *U*) )
+          (PP (IN in) 
+            (NP (NNS fines) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS defendants) )
+    (VP (MD could) (RB n't) 
+      (ADVP-TMP (RB immediately) )
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN for) 
+            (NP (NN comment) )))))
+    (. .) ))

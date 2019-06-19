@@ -1,0 +1,71 @@
+
+( (S 
+    (NP-SBJ (NNP Analog) (NNPS Devices) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD may) 
+            (VP (VB purchase) 
+              (NP 
+                (NP 
+                  (QP (RB as) (JJ many) (IN as) (CD one) (CD million) ))
+                (PP (IN of) 
+                  (NP (PRP$ its) (JJ common) (NNS shares) )))
+              (PP-TMP (IN over) 
+                (NP (DT the) (JJ next) (JJ several) (NNS months) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Analog) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (DT a) 
+              (ADJP 
+                (QP (CD one) (CD million) )
+                (NN share) )
+              (JJ buy-back) (NN program) )
+            (VP (VBD announced) 
+              (NP (-NONE- *) )
+              (PP-TMP (IN in) 
+                (NP (NNP March) ))))
+          (VP (VBZ is) 
+            (ADJP-PRD (RB substantially) (JJ complete) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN company) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ makes) 
+            (NP 
+              (NP (VBN integrated) (NNS circuits) )
+              (CC and) 
+              (NP (JJ other) (JJ electronic) (NNS parts) )))))
+      (, ,) )
+    (ADVP-TMP (RB now) )
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (QP (IN about) (CD 47) (CD million) )
+          (JJ common) (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (NNP Analog) (NNPS Devices) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 8.875) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (RB up) 
+        (NP (CD 25) (NNS cents) )))
+    (. .) ))

@@ -1,0 +1,101 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Timothy) (NNP C.) (NNP Brown) )
+      (, ,) 
+      (NP (DT a) (NN vice) (NN president) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (JJ executive) (NN vice) (NN president) )
+              (CC and) 
+              (NP (DT a) (NN director) ))
+            (PP (IN of) 
+              (NP (DT this) (NN lighting) 
+                (CC and)
+                (NN specialty) (NNS products) (NN concern) ))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT the) (NN director) (NN post) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Brown) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 38) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP Joseph) (NNP W.) (NNP Hibben) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD retired) 
+              (PP-CLR (IN from) 
+                (NP (DT the) (NN board) ))
+              (PP-TMP (IN in) 
+                (NP (NNP August) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP C.) (NNP Barr) (NNP Schuler) )
+      (, ,) 
+      (NP (CD 49) )
+      (, ,) 
+      (NP 
+        (NP (NN vice) (NN president) )
+        (CC and) 
+        (NP (NN chief) (JJ financial) (NN officer) ))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (JJ senior) (NN vice) (NN president) )
+              (PP (IN of) 
+                (NP (JJ corporate) (NN development) 
+                  (CC and)
+                  (NNS acquisitions) )))
+            (, ,) 
+            (NP (DT a) (JJ new) (NN post) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Phillip) (NNP J.) (NNP Stuecker) )
+      (, ,) 
+      (NP (CD 37) )
+      (, ,) 
+      (NP 
+        (NP (NN vice) (NN president) )
+        (, ,) 
+        (NP (NN secretary) )
+        (CC and) 
+        (NP (NN treasurer) ))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN vice) (NN president) )
+              (PP (IN of) 
+                (NP (NN finance) )))
+            (CC and) 
+            (NP (NN chief) (JJ financial) (NN officer) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ remains) 
+      (NP-PRD (NN secretary) ))
+    (. .) ))

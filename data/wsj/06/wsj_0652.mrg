@@ -1,0 +1,154 @@
+
+( (S 
+    (NP-SBJ (NNP Wilfred) (NNP American) (NNP Educational) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT a) (JJ federal) (JJ grand) (NN jury) )
+            (PP-LOC (IN in) 
+              (NP (NNP Boston) )))
+          (VP (VBD indicted) 
+            (NP 
+              (NP (DT the) (NN operator) )
+              (PP (IN of) 
+                (NP (NN cosmetology) 
+                  (CC and)
+                  (NN business) (NNS schools) )))
+            (PP-CLR (IN for) 
+              (NP (NN mail) (NN fraud) ))))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ 
+        (NP (DT The) (NNS charges) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT the) (JJ 12-count) (NN indictment) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBP stem) 
+                  (PP-CLR (IN from) 
+                    (NP 
+                      (NP (NNS events) )
+                      (SBAR 
+                        (WHNP-2 (WDT that) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-2) )
+                          (ADVP (RB allegedly) )
+                          (VP (VBD occurred) 
+                            (PP-TMP (IN in) 
+                              (NP 
+                                (NP (JJ late) (CD 1984) )
+                                (CC and) 
+                                (NP (JJ early) (CD 1985) )))))))))))
+            (, ,) )))
+      (VP (VBP involve) 
+        (NP 
+          (NP 
+            (NP (NN enrollment) (NNS procedures) )
+            (PP (IN of) 
+              (NP (CD six) (NNS students) )))
+          (CC and) 
+          (NP 
+            (NP (DT the) (NN preparation) )
+            (PP (IN of) 
+              (NP (JJ certain) (NNS reports) ))))))
+    (, ,) 
+    (NP-SBJ (VBD Wilfred) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT No) (NNS individuals) )
+    (VP (VBD were) 
+      (VP (VBN charged) 
+        (NP (-NONE- *-1) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NN indictment) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Wilfred) (NNP American) )
+    (VP 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (MD will) 
+              (VP (`` ``) 
+                (ADVP-MNR (RB vigorously) )
+                (VB defend) ('' '') 
+                (NP (PRP itself) )
+                (PP-CLR (IN against) 
+                  (NP (DT the) (NNS charges) )))))))
+      (CC and) 
+      (VP (VBD added) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NNS charges) )
+            (VP (VBP relate) 
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP (NNS procedures) )
+                  (SBAR 
+                    (WHNP-1 (WDT that) )
+                    (S 
+                      (NP-SBJ (PRP it) )
+                      (VP (VBZ has) 
+                        (ADVP-TMP (RB since) )
+                        (VP (VBN changed) 
+                          (NP (-NONE- *T*-1) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (CD Eight) (NNS admissions) (NNS representatives) )
+      (PP-LOC (IN at) 
+        (NP 
+          (NP (CD two) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Wilfred) (POS 's) )
+              (JJ former) (NNP Massachusetts) (NNS schools) )))))
+    (ADVP-TMP (RB previously) )
+    (VP (VBD pleaded) 
+      (ADJP-CLR (JJ guilty) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (NNS charges) )
+          (PP (IN of) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG aiding) 
+                (, ,)
+                (VBG abetting) 
+                (CC and)
+                (VBG counseling) 
+                (S 
+                  (NP-SBJ (NNS students) )
+                  (VP (TO to) 
+                    (VP (VB submit) 
+                      (NP (JJ false) (NN financial-aid) (NNS applications) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Wilfred) )
+    (VP (VBD closed) 
+      (NP (PRP$ its) (NNP Massachusetts) (NNS schools) )
+      (NP-TMP (RBR earlier) (DT this) (NN year) ))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (NP-TMP (NNP Friday) )
+    (, ,) 
+    (NP-SBJ (NNP Wilfred) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 6.25) (NNS cents) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (CD 93.75) (NNS cents) )
+          (NP-ADV (DT a) (NN share) ))))
+    (. .) ))

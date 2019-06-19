@@ -1,0 +1,205 @@
+
+( (S 
+    (NP-SBJ (NNP NBI) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD can) (RB not) 
+            (VP (VB pay) 
+              (NP 
+                (NP (DT the) (NNP Oct.) (CD 31) (NN dividend) )
+                (PP (IN on) 
+                  (NP (PRP$ its) (NNP Series) (NNP A) (JJ convertible) (JJ preferred) (NN stock) )))
+              (, ,) 
+              (S-ADV 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG allowing) 
+                  (S 
+                    (NP-SBJ 
+                      (NP (DT the) (NN stock) (POS 's) )
+                      (NN holder) )
+                    (VP (TO to) 
+                      (VP (VB convert) 
+                        (NP (DT the) (NNS shares) )
+                        (PP-CLR (IN into) 
+                          (NP 
+                            (NP 
+                              (QP (RB as) (JJ much) (IN as) (CD 27.7) )
+                              (NN %) )
+                            (PP (IN of) 
+                              (NP 
+                                (NP 
+                                  (NP (NNP NBI) (POS 's) )
+                                  (NNS shares) )
+                                (ADJP (JJ outstanding) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP NBI) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ has) 
+              (NP 
+                (NP (DT the) (NNS funds) )
+                (SBAR 
+                  (WHADVP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB pay) 
+                        (NP (DT the) (NN dividend) )
+                        (ADVP (-NONE- *T*-1) )))))))))
+        (, ,) (CC but) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ does) (RB n't) 
+              (VP (VB have) 
+                (NP 
+                  (NP (DT the) (NN surplus) (CC or) (NN profit) )
+                  (VP (VBN required) 
+                    (NP (-NONE- *) )
+                    (PP-LOC (IN under) 
+                      (NP (NNP Delaware) (NN law) )))
+                  (PP (IN for) 
+                    (NP 
+                      (NP (NN payment) )
+                      (PP (IN of) 
+                        (NP (DT the) (NN dividend) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PDT All) (DT the) (JJ preferred) (NN stock) )
+    (VP (VBZ is) 
+      (VP (VBN held) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (DT the) (NNP Yukon) (NNP Office) (NNP Supply) (NNP Stock) (NNP Ownership) (NNP Plan) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP 
+        (NP (NNS terms) )
+        (PP (IN of) 
+          (NP (DT the) (NN stock) ))))
+    (, ,) 
+    (S 
+      (NP-SBJ (DT the) (NNP Yukon) (NNP ESOP) )
+      (VP (MD can) 
+        (VP (VB demand) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ-1 (DT the) (NN stock) )
+              (VP (VB be) 
+                (VP (VBN redeemed) 
+                  (NP (-NONE- *-1) )
+                  (PP-CLR (IN for) 
+                    (NP ($ $) (CD 4,090,000) (-NONE- *U*) ))
+                  (PP-TMP (IN on) 
+                    (NP (NNP Nov.) (CD 30) )))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (NNP NBI) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-2 (PRP it) )
+            (VP (VBZ is) 
+              (VP 
+                (ADVP-MNR (RB legally) )
+                (VBN prohibited) 
+                (NP-3 (-NONE- *-2) )
+                (PP-CLR (IN from) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *-3) )
+                    (VP (VBG making) 
+                      (NP (DT the) (NN redemption) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Failure) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB pay) 
+            (NP (DT the) (NN dividend) )))))
+    (VP (VBZ allows) 
+      (S 
+        (NP-SBJ (NNP Yukon) )
+        (VP (TO to) 
+          (VP (VB convert) 
+            (NP 
+              (NP (DT all) (CC or) (DT some) )
+              (PP (IN of) 
+                (NP (PRP$ its) (NNS shares) )))
+            (PP-CLR (IN into) 
+              (NP (NNP NBI) (JJ common) ))
+            (PP-TMP (IN after) 
+              (NP (NNP Nov.) (CD 30) ))
+            (, ,) 
+            (PP (IN at) 
+              (NP 
+                (NP (DT a) (NN conversion) (NN price) )
+                (VP (VBN based) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN on) 
+                    (NP 
+                      (NP (NNP NBI) (POS 's) )
+                      (NN closing) (NN stock) (NN price) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP NBI) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN maker) )
+        (PP (IN of) 
+          (NP (NN word-processing) (NNS systems) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD ca) (RB n't) 
+            (VP (VB predict) 
+              (SBAR (IN if) 
+                (S 
+                  (NP-SBJ-1 
+                    (NP (DT any) )
+                    (PP (IN of) 
+                      (NP (DT the) (JJ preferred) (NN stock) )))
+                  (VP (MD will) 
+                    (VP (VB be) 
+                      (VP (VBN converted) 
+                        (NP (-NONE- *-1) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP NBI) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) 
+            (VP (VBN hired) 
+              (NP-1 (NNP Prudential-Bache) (NNPS Securities) (NNP Inc.) )
+              (PP-CLR (IN as) 
+                (NP (PRP$ its) 
+                  (NX 
+                    (NX (JJ financial) (NN adviser) )
+                    (CC and) 
+                    (NX (NN investment) (NN banker) ))))
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB help) 
+                    (S 
+                      (NP-SBJ (PRP it) )
+                      (VP 
+                        (VP (VB restructure) 
+                          (ADVP-MNR (RB financially) ))
+                        (CC and) 
+                        (VP (VB improve) 
+                          (NP (PRP$ its) (NN balance) (NN sheet) ))))))))))))
+    (. .) ))

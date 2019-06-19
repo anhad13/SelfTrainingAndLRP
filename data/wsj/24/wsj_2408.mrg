@@ -1,0 +1,83 @@
+
+( (S 
+    (NP-SBJ (NNP Drug) (NNP Emporium) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (NNP Gary) (NNP Wilber) )
+            (, ,) 
+            (ADJP 
+              (NP (CD 39) (NNS years) )
+              (JJ old) )
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WP who) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (VBD had) 
+                  (VP (VBN been) 
+                    (NP-PRD 
+                      (NP (NN president) )
+                      (CC and) 
+                      (NP (NN chief) (VBG operating) (NN officer) ))
+                    (PP-TMP (IN for) 
+                      (NP (DT the) (NN past) (NN year) ))))))
+            (, ,) )
+          (VP (VBD was) 
+            (VP (VBN named) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (NP-PRD 
+                  (NP (NN chief) (NN executive) (NN officer) )
+                  (PP (IN of) 
+                    (NP (DT this) (NN drugstore) (NN chain) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (PRP$ his) (NN father) )
+        (, ,) 
+        (NP (NNP Philip) (NNP T.) (NNP Wilber) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP 
+              (VP (VBD founded) 
+                (NP (DT the) (NN company) ))
+              (CC and) 
+              (VP (VBZ remains) 
+                (NP-PRD (NN chairman) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Robert) (NNP E.) (NNP Lyons) (NNP III) )
+      (, ,) 
+      (NP (CD 39) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBD headed) 
+            (NP 
+              (NP (DT the) (NN company) (POS 's) )
+              (NNP Philadelphia) (NN region) ))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN appointed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN president) )
+            (CC and) 
+            (NP (NN chief) (VBG operating) (NN officer) )))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG succeeding) 
+            (NP (NNP Gary) (NNP Wilber) )))))
+    (. .) ))

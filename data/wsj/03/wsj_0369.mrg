@@ -1,0 +1,51 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Roger) (NNP M.) (NNP Marino) )
+      (, ,) 
+      (NP (NN president) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (JJ new) (NN post) )
+            (PP (IN of) 
+              (NP (NN vice) (NN chairman) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Michael) (NNP Ruettgers) )
+      (, ,) 
+      (SBAR 
+        (WHNP-196 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-196) )
+          (VP (VBD had) 
+            (VP (VBN been) 
+              (NP-PRD 
+                (NP (JJ executive) (NN vice) (NN president) )
+                (, ,) 
+                (NP (NNS operations) )
+                (, ,) ))))))
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN president) )
+            (CC and) 
+            (NP (NN chief) (NN operating) (NN officer) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP EMC) )
+    (VP (VBZ manufactures) 
+      (NP 
+        (NP (JJ data-storage) (NNS systems) )
+        (PP (IN for) 
+          (NP 
+            (NP (NNS mainframes) )
+            (CC and) 
+            (NP (NNS minicomputers) )))))
+    (. .) ))

@@ -1,0 +1,136 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Amdahl) (NNP Corp.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN maker) )
+        (PP (IN of) 
+          (NP (NN mainframe) (NNS computers) )))
+      (, ,) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) (JJ sharp) (NN decline) )
+        (PP (IN in) 
+          (NP (JJ net) (NN income) ))
+        (PP-TMP (IN for) 
+          (NP (PRP$ its) (JJ third) (NN quarter) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG citing) 
+          (NP 
+            (NP 
+              (NP (NN pricecutting) )
+              (PP (IN by) 
+                (NP (NNS competitors) )))
+            (CC and) 
+            (NP 
+              (NP (JJ adverse) (NNS effects) )
+              (PP (IN from) 
+                (NP (DT a) (JJ strong) (NNP U.S.) (NN dollar) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Net) (NN income) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 37) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 32.9) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP (CD 30) (NNS cents) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 52.2) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP (CD 48) (NNS cents) )
+            (NP-ADV (DT a) (NN share) ))))
+      (, ,) 
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJ year-ago) (NN period) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 15) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 534.3) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 464.7) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Amdahl) (POS 's) )
+      (NNS results) )
+    (VP (VBD were) 
+      (ADJP-PRD 
+        (ADJP (RB somewhat) (JJR worse) )
+        (SBAR (IN than) 
+          (FRAG 
+            (VP (VBN expected) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Jay) (NNP Stevens) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN analyst) )
+        (PP (IN with) 
+          (NP (NNP Dean) (NNP Witter) (NNP Reynolds) )))
+      (, ,) )
+    (VP 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (VBD expected) 
+              (S 
+                (NP-SBJ (DT the) 
+                  (NAC-LOC (NNP Sunnyvale) 
+                    (, ,)
+                    (NNP Calif.) )
+                  (, ,) (NN company) )
+                (VP (TO to) 
+                  (VP (VB earn) 
+                    (NP 
+                      (NP (CD 35) (NNS cents) )
+                      (NP-ADV (DT a) (NN share) ))
+                    (PP-TMP (IN for) 
+                      (NP (DT the) (NN quarter) )))))))))
+      (CC and) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NN firm) (POS 's) )
+              (JJR weaker) (NN profit) )
+            (VP (VBD was) 
+              (ADVP (RB partly) )
+              (NP-PRD 
+                (NP (DT the) (NN result) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (VBN increased) (NN competition) )
+                    (PP (IN from) 
+                      (NP 
+                        (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.) )
+                        (, ,) 
+                        (NP 
+                          (NP 
+                            (NP (NNP Amdahl) (POS 's) )
+                            (JJ principal) (NN competitor) )
+                          (PP (IN for) 
+                            (NP (NN mainframe) (NNS sales) )))))))))))))
+    (. .) ))

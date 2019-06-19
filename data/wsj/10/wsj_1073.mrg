@@ -1,0 +1,60 @@
+
+( (S 
+    (NP-SBJ (NNP Advanced) (NNP Medical) (NNPS Technologies) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD purchased) 
+            (NP 
+              (NP (CD 93) (NN %) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT a) (NN unit) )
+                  (PP (IN of) 
+                    (NP (NNP Henley) (NNP Group) (NNP Inc) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Advanced) (NNP Medical) )
+    (VP (VBD paid) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 106) (CD million) )
+          (-NONE- *U*) )
+        (PP (IN in) 
+          (NP (NN cash) )))
+      (PP-CLR (IN for) 
+        (NP 
+          (NP (PRP$ its) (NN share) )
+          (PP (IN in) 
+            (NP 
+              (NP (DT a) (NN unit) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN Henley) (POS 's) )
+                  (NNP Fisher) (NNP Scientific) (NN subsidiary) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN unit) )
+    (VP 
+      (VP (VBZ makes) 
+        (NP 
+          (NP (JJ intravenous) (NNS pumps) )
+          (VP (VBN used) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS (NNS hospitals) )))))
+      (CC and) 
+      (VP (VBD had) 
+        (NP 
+          (NP 
+            (QP (JJR more) (IN than) ($ $) (CD 110) (CD million) )
+            (-NONE- *U*) )
+          (PP (IN in) 
+            (NP (NNS sales) )))
+        (NP-TMP (JJ last) (NN year) ))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP (NNP Advanced) (NNP Medical) ))))
+    (. .) ))

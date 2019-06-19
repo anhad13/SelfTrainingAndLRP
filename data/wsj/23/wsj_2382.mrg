@@ -1,0 +1,238 @@
+
+( (S 
+    (NP-SBJ (NNP Food) 
+      (CC and)
+      (NNP Drug) (NNP Administration) (NN spokesman) (NNP Jeff) (NNP Nesbit) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN agency) )
+          (VP (VBZ has) 
+            (VP (VBN turned) 
+              (PRT (RP over) )
+              (NP (NN evidence) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (DT a) (JJ criminal) (NN investigation) )
+                  (VP (VBG concerning) 
+                    (NP (NNP Vitarine) (NNP Pharmaceuticals) (NNP Inc.) ))))
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NNP U.S.) (NNP Attorney) (POS 's) )
+                    (NN office) )
+                  (PP-LOC (IN in) 
+                    (NP (NNP Baltimore) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT Neither) 
+      (NP (NNP Vitarine) )
+      (CC nor) 
+      (NP 
+        (NP (DT any) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) 
+              (NAC-LOC (NNP Springfield) (NNP Gardens) 
+                (, ,)
+                (NNP N.Y.) 
+                (, ,)
+                )
+              (NN company) (POS 's) )
+            (NNS officials) (CC or) (NNS employees) ))))
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (VP (VBN charged) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN with) 
+            (NP (DT any) (NNS crimes) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Vitarine) )
+    (VP 
+      (VP (VBD won) 
+        (NP (NN approval) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB market) 
+                (NP 
+                  (NP (DT a) (NN version) )
+                  (PP (IN of) 
+                    (NP (DT a) (NN blood) (NN pressure) (NN medicine) ))))))))
+      (CC but) 
+      (VP (VBD acknowledged) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD substituted) 
+              (NP 
+                (NP (DT a) (NNP SmithKline) (NNP Beecham) (NNP PLC) (NN product) ))
+              (PP-CLR (IN as) 
+                (NP (PRP$ its) (JJ own) ))
+              (PP-LOC (IN in) 
+                (NP (NNS tests) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Nesbit) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNP FDA) )
+          (VP (VBZ has) 
+            (VP (VBN asked) 
+              (NP-1 (NNP Bolar) (NNP Pharmaceutical) (NNP Co.) )
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB recall) 
+                    (PP-LOC (IN at) 
+                      (NP (DT the) (JJ retail) (NN level) ))
+                    (NP (PRP$ its) (JJ urinary) (NN tract) (NN antibiotic) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 (CC But) 
+      (ADVP-TMP (RB so) (RB far) )
+      (NP-SBJ (DT the) (NN company) )
+      (VP (VBZ has) (RB n't) 
+        (VP (VBN complied) 
+          (PP-CLR (IN with) 
+            (NP (DT that) (NN request) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (NNP Bolar) )
+        (, ,) 
+        (NP 
+          (NP (DT the) (NN subject) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT a) (JJ criminal) (NN investigation) )
+              (PP (IN by) 
+                (NP 
+                  (NP (DT the) (NNP FDA) )
+                  (CC and) 
+                  (NP 
+                    (NP 
+                      (NP (DT the) (NNP Inspector) (NNP General) (POS 's) )
+                      (NN office) )
+                    (PP (IN of) 
+                      (NP (DT the) (NNP Health) 
+                        (CC and)
+                        (NNP Human) (NNP Services) (NNP Department) ))))))))
+        (, ,) )
+      (VP 
+        (ADVP (RB only) )
+        (VBD agreed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB recall) 
+              (NP 
+                (NP (CD two) (NNS strengths) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (PRP$ its) (NN version) )
+                    (PP (IN of) 
+                      (NP (NNP Macrodantin) )))))
+              (`` ``) 
+              (ADVP 
+                (ADVP (RB as) (RB far) (RB down) )
+                (PP (IN as) 
+                  (NP 
+                    (NP (JJ direct) (NNS customers) )
+                    (, ,) (RB mostly) 
+                    (NP (NNS wholesalers) )))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Nesbit) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Bolar) )
+      (, ,) 
+      (PP (IN of) 
+        (NP 
+          (NP (NNP Copiague) )
+          (, ,) 
+          (NP (NNP N.Y.) )
+          (, ,) )))
+    (ADVP-TMP (RBR earlier) )
+    (VP (VBD began) 
+      (NP 
+        (NP (DT a) (JJ voluntary) (NN recall) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT both) (PRP$ its) 
+              (ADJP 
+                (ADJP (CD 100) (NN milligram) )
+                (CC and) 
+                (ADJP (CD 50) (NN milligram) ))
+              (NNS versions) )
+            (PP (IN of) 
+              (NP (DT the) (NN drug) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP FDA) )
+    (VP (VBZ has) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD presented) 
+              (NP 
+                (NP (NN evidence) )
+                (SBAR 
+                  (WHNP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBD uncovered) 
+                      (NP (-NONE- *T*-1) ))))
+                (VP (-NONE- *ICH*-2) ))
+              (PP (TO to) 
+                (NP (DT the) (NN company) ))
+              (VP-2 (VBG indicating) 
+                (SBAR (IN that) 
+                  (S 
+                    (NP-SBJ-3 (NNP Bolar) )
+                    (VP (VBD substituted) 
+                      (NP (DT the) (JJ brand-name) (NN product) )
+                      (PP-CLR (IN for) 
+                        (NP (PRP$ its) (JJ own) ))
+                      (S-PRP 
+                        (NP-SBJ (-NONE- *-3) )
+                        (VP (TO to) 
+                          (VP (VB gain) 
+                            (NP (NN government) (NN approval) 
+                              (S 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (TO to) 
+                                  (VP (VB sell) 
+                                    (NP 
+                                      (NP (JJ generic) (NNS versions) )
+                                      (PP (IN of) 
+                                        (NP (NNP Macrodantin) )))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Bolar) )
+    (VP (VBZ has) 
+      (VP (VBN denied) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD switched) 
+              (NP (DT the) (JJ brand-name) (NN product) )
+              (PP-CLR (IN for) 
+                (NP (PRP$ its) (JJ own) ))
+              (PP-LOC (IN in) 
+                (NP (JJ such) (NN testing) )))))))
+    (. .) ))

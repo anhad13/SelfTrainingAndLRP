@@ -1,0 +1,96 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (JJ Belgian) (NN consumer) (NN price) (NN index) )
+      (VP 
+        (VP (VBD rose) 
+          (NP-EXT (DT a) (JJ provisional) (CD 0.1) (NN %) )
+          (PP-TMP (IN in) 
+            (NP (NNP October) ))
+          (PP-DIR (IN from) 
+            (NP-TMP (DT the) (JJ previous) (NN month) )))
+        (CC and) 
+        (VP (VBD was) 
+          (ADVP-PRD (RB up) 
+            (NP (CD 3.64) (NN %) )
+            (PP (IN from) 
+              (NP-TMP (NNP October) (CD 1988) ))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP Ministry) )
+      (PP (IN of) 
+        (NP (NNP Economic) (NNPS Affairs) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN index) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBZ uses) 
+            (NP 
+              (NP (DT a) (NN base) )
+              (PP (IN of) 
+                (NP (CD 1981) )))
+            (PP-CLR (IN as) 
+              (NP (CD 100) )))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN calculated) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN at) 
+          (NP (CD 140.91) (NNS points) ))
+        (PP-TMP (IN in) 
+          (NP (NNP October) ))
+        (, ,) 
+        (PP-DIR (IN from) 
+          (NP (CD 140.74) )
+          (PP-TMP (IN in) 
+            (NP (NNP September) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Annual) (NN inflation) )
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP (CD 3.64) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (NNP October) )))
+      (PP-DIR (IN from) 
+        (NP (CD 3.55) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNP Belgium) (POS 's) )
+        (NN inflation) )
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (VP (VBG rising) 
+            (ADVP-MNR (RB steadily) )
+            (PP-TMP (IN for) 
+              (NP (DT the) (JJ past) (NN year) ))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (DT the) (NN ministry) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) (JJS latest) (NN rise) )
+            (VP (VBZ is) 
+              (ADJP-PRD 
+                (ADJP (JJR slower) )
+                (PP (IN than) 
+                  (NP 
+                    (NP (NNS gains) )
+                    (PP-TMP (IN in) 
+                      (NP (NNP September) 
+                        (CC and)
+                        (NNP August) ))))))))))
+    (. .) ))

@@ -1,0 +1,119 @@
+
+( (S 
+    (NP-SBJ (NNP Rockwell) (NNP International) (NNP Corp.) )
+    (VP (VBD bought) 
+      (PRT (RP out) )
+      (NP 
+        (NP 
+          (NP (NNP Ikegai) (NNP Corp.) (POS 's) )
+          (NN interest) )
+        (PP (IN in) 
+          (NP 
+            (NP (NNP Ikegai-Goss) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (JJ joint) (NN venture) )
+              (PP (IN of) 
+                (NP (DT the) (CD two) (NNS companies) ))
+              (VP (VBN based) 
+                (NP (-NONE- *) )
+                (PP-LOC-CLR (IN in) 
+                  (NP (NNP Tokyo) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN price) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP 
+          (QP (CD 3.6) (CD billion) )
+          (NN yen) )
+        (PRN 
+          (-LRB- -LRB-)
+          (NP 
+            (QP ($ $) (CD 25) (CD million) )
+            (-NONE- *U*) )
+          (-RRB- -RRB-) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN agreement) )
+    (VP (VBZ provides) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNP Ikegai) (NNP Corp.) )
+          (VP (MD will) 
+            (VP (VB remain) 
+              (NP-PRD 
+                (NP (DT a) (NN supplier) )
+                (PP (TO to) 
+                  (NP 
+                    (NP (NNP Ikegai-Goss) )
+                    (, ,) 
+                    (SBAR 
+                      (WHNP-1 (WDT which) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (VBZ makes) 
+                          (NP (NN printing) (NNS presses) )
+                          (PP (IN for) 
+                            (NP (DT the) (NN newspaper) (NN industry) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN purchase) )
+    (VP (VBD was) 
+      (VP (VBN made) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (NNP Rockwell) (NNP Graphic) (NNP Systems) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NNP Chicago) (NN subsidiary) )
+              (PP (IN of) 
+                (NP (DT the) 
+                  (NAC-LOC (NNP El) (NNP Segundo) 
+                    (, ,)
+                    (NNP Calif.) 
+                    (, ,)
+                    )
+                  (NN concern) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Ikegai-Goss) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ has) 
+            (NP 
+              (QP (RB about) (CD 200) )
+              (NNS employees) ))))
+      (, ,) )
+    (VP (VBZ is) 
+      (PP-LOC-PRD (IN among) 
+        (NP 
+          (NP (DT the) (NN industry) (NNS leaders) )
+          (PP (IN in) 
+            (NP 
+              (NP (JJ keyless) (NN inking) (NN technology) )
+              (, ,) 
+              (SBAR 
+                (WHNP-2 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-2) )
+                  (VP (VBZ reduces) 
+                    (NP 
+                      (NP (NN time) 
+                        (CC and)
+                        (NNS materials) (NN waste) )
+                      (SBAR-TMP 
+                        (WHADVP-3 (WRB when) )
+                        (S 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (VBG preparing) 
+                            (NP (DT a) (NN press) )
+                            (PP-CLR (IN for) 
+                              (NP (VBG printing) ))
+                            (ADVP-TMP (-NONE- *T*-3) )))))))))))))
+    (. .) ))

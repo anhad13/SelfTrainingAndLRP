@@ -1,0 +1,188 @@
+
+( (S 
+    (NP-SBJ (NNP Benjamin) (NNP Franklin) (NNP Federal) (NNPS Savings) (CC &) (NNP Loan) (NNP Association) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB restructure) )))
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT the) (NN wake) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (NP (DT a) (JJ third-quarter) (NN loss) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP 
+                            (QP ($ $) (CD 7.7) (CD million) )
+                            (-NONE- *U*) )
+                          (, ,) (CC or) 
+                          (NP 
+                            (NP ($ $) (CD 1.01) (-NONE- *U*) )
+                            (NP-ADV (DT a) (NN share) ))
+                          (, ,) )))
+                    (VP (VBG reflecting) 
+                      (NP 
+                        (NP (DT an) 
+                          (ADJP 
+                            (QP ($ $) (CD 11) (CD million) )
+                            (-NONE- *U*) )
+                          (NN addition) )
+                        (PP (TO to) 
+                          (NP (NN loan-loss) (NNS reserves) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (NAC-LOC (NNP Portland) 
+        (, ,)
+        (NNP Ore.) )
+      (, ,) (NN thrift) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN restructuring) )
+          (VP (MD should) 
+            (VP (VB help) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (VB meet) 
+                  (NP 
+                    (NP (JJ new) (NN capital) (NNS standards) )
+                    (PP (IN from) 
+                      (NP (DT the) (NNP Financial) (NNP Institution) (NNP Reform) 
+                        (, ,)
+                        (NNP Recovery) 
+                        (CC and)
+                        (NNP Enforcement) (NNP Act) ))))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP 
+      (NP (DT A) (NN year) )
+      (RB ago) )
+    (, ,) 
+    (NP-SBJ (NNP Benjamin) (NNP Franklin) )
+    (VP (VBD had) 
+      (NP 
+        (NP (NN profit) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 1.8) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 23) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ over-the-counter) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (NNP Benjamin) (NNP Franklin) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 25) (NNS cents) )
+      (PP-DIR (TO to) 
+        (NP ($ $) (CD 4.25) (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN restructuring) (POS 's) )
+            (JJ initial) (NN phase) )
+          (VP (MD will) 
+            (VP (VB feature) 
+              (NP 
+                (NP (DT a) (JJ gradual) (NN reduction) )
+                (PP (IN in) 
+                  (NP 
+                    (NP (NNS assets) )
+                    (CC and) 
+                    (NP (NN staff) (NNS positions) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN plan) )
+    (VP (MD may) 
+      (VP (VB include) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP 
+            (VP (VBG selling) 
+              (NP (NNS branches) ))
+            (, ,) 
+            (VP (VBG consolidating) (CC or) (VBG eliminating) 
+              (NP (NNS departments) ))
+            (, ,) 
+            (CC and)
+            (VP 
+              (VP (VBG winding) 
+                (PRT (RP down) )
+                (NP (-NONE- *RNR*-1) ))
+              (CC or) 
+              (VP (VBG disposing) 
+                (PP-CLR (IN of) 
+                  (NP (-NONE- *RNR*-1) )))
+              (NP-1 (JJ unprofitable) (NNS units) )
+              (PP-TMP (IN within) 
+                (NP (CD 18) (NNS months) )))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP-TPC-1 (RB Initially) )
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (MD will) 
+            (VP 
+              (VP (VB close) 
+                (NP (PRP$ its) (JJ commercial) (NN real-estate) (VBG lending) (NN division) ))
+              (, ,) 
+              (CC and)
+              (VP (VB stop) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (VBG originating) 
+                    (NP (JJ new) (NNS leases) )
+                    (PP-LOC (IN at) 
+                      (NP (PRP$ its) (JJ commercial) (NN lease) (NN subsidiary) )))))
+              (ADVP-TMP (-NONE- *T*-1) ))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (NNS Details) )
+        (PP (IN of) 
+          (NP (DT the) (NN restructuring) )))
+      (VP (MD wo) (RB n't) 
+        (VP (VB be) 
+          (VP (VBN made) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (ADJP-PRD (JJ final) ))
+            (SBAR-TMP (IN until) 
+              (S 
+                (NP-SBJ (NNS regulators) )
+                (VP (VBP approve) 
+                  (NP 
+                    (NP (DT the) (NNS regulations) )
+                    (VP (VBN mandated) 
+                      (NP (-NONE- *) )
+                      (PP (IN by) 
+                        (NP-LGS (DT the) (JJ new) (JJ federal) (NN act) )))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))

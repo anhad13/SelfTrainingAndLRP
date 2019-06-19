@@ -1,0 +1,157 @@
+
+( (S 
+    (NP-SBJ-2 
+      (NP (DT The) (JJ following) (NNS issues) )
+      (NP (-NONE- *ICH*-3) ))
+    (VP (VBD were) 
+      (ADVP-TMP (RB recently) )
+      (VP (VBN filed) 
+        (NP (-NONE- *-2) )
+        (PP-CLR (IN with) 
+          (NP (DT the) (NNPS Securities) 
+            (CC and)
+            (NNP Exchange) (NNP Commission) ))
+        (: :) 
+        (NP-3 
+          (NP (NNP Gehl) (NNP Co.) )
+          (, ,) 
+          (NP 
+            (NP (JJ initial) (JJ public) (NN offering) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (NP 
+                    (QP (CD two) (CD million) )
+                    (NNS shares) )
+                  (PP (IN of) 
+                    (NP (JJ common) (NN stock) )))
+                (, ,) 
+                (SBAR 
+                  (WHPP-4 (IN of) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (S 
+                      (NP-SBJ-1 
+                        (NP (CD 1,450,635) (NNS shares) )
+                        (PP (-NONE- *T*-4) ))
+                      (VP (VBP are) 
+                        (VP (VBG being) 
+                          (VP (VBN offered) 
+                            (NP (-NONE- *-1) )
+                            (PP-5 (IN by) 
+                              (NP-LGS (DT the) (NN company) ))))))
+                    (CC and) 
+                    (S 
+                      (NP-SBJ=1 
+                        (NP (CD 549,365) (NNS shares) )
+                        (PP (-NONE- *T*-4) ))
+                      (PP=5 (IN by) 
+                        (NP-LGS (NNS holders) )))
+                    (, ,) 
+                    (PP-MNR (IN via) 
+                      (NP 
+                        (NP (NNP Blunt) 
+                          (, ,)
+                          (NNP Ellis) (CC &) (NNP Loewi) (NNP Inc.) )
+                        (CC and) 
+                        (NP (NNP Robert) (NNP W.) (NNP Baird) (CC &) (NNP Co) )))))))))))
+    (. .) ))
+( (NP 
+    (NP (NNP Giant) (NNPS Industries) (NNP Inc.) )
+    (, ,) 
+    (NP 
+      (NP (JJ initial) (JJ public) (NN offering) )
+      (PP (IN of) 
+        (NP 
+          (NP (CD 3,111,000) (JJ common) (NNS shares) )
+          (, ,) 
+          (SBAR 
+            (WHPP-2 (IN of) 
+              (WHNP (WDT which) ))
+            (S 
+              (S 
+                (NP-SBJ-1 
+                  (NP (CD 2,425,000) )
+                  (PP (-NONE- *T*-2) ))
+                (VP (MD will) 
+                  (VP (VB be) 
+                    (VP (VBN sold) 
+                      (NP (-NONE- *-1) )
+                      (PP-3 (IN by) 
+                        (NP-LGS (DT the) (NN company) ))))))
+              (, ,) 
+              (CC and)
+              (S 
+                (NP-SBJ=1 
+                  (NP (DT the) (NN rest) )
+                  (PP (-NONE- *T*-2) ))
+                (PP=3 (IN by) 
+                  (NP-LGS (NNS holders) )))
+              (, ,) 
+              (PP-MNR (IN via) 
+                (NP 
+                  (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc.) )
+                  (CC and) 
+                  (NP (NNP Hanifen) 
+                    (, ,)
+                    (NNP Imhoff) (NNP Inc) ))))))))
+    (. .) ))
+( (NP 
+    (NP (NNP Inefficient-Market) (NNP Fund) (NNP Inc.) )
+    (, ,) 
+    (NP 
+      (NP (JJ initial) (NN offering) )
+      (PP (IN of) 
+        (NP 
+          (QP (CD five) (CD million) )
+          (JJ common) (NNS shares) )))
+    (, ,) 
+    (PP-MNR (IN via) 
+      (NP (NNP Smith) (NNP Barney) 
+        (, ,)
+        (NNP Harris) (NNP Upham) (CC &) (NNP Co) ))
+    (. .) ))
+( (NP 
+    (NP (NNP Jason) (NNP Overseas) (NNP Ltd.) )
+    (, ,) 
+    (NP 
+      (NP (JJ initial) (NN offering) )
+      (PP (IN of) 
+        (NP 
+          (NP 
+            (QP (CD four) (CD million) )
+            (JJ common) (NNS shares) )
+          (, ,) 
+          (SBAR 
+            (WHPP-2 (IN of) 
+              (WHNP (WDT which) ))
+            (S 
+              (S 
+                (NP-SBJ-1 
+                  (NP (CD 3.2) (CD million) )
+                  (PP (-NONE- *T*-2) ))
+                (VP (MD will) 
+                  (VP (VB be) 
+                    (VP (VBN sold) 
+                      (NP (-NONE- *-1) )
+                      (PP-LOC-3 (IN in) 
+                        (NP (DT the) (NNP U.S.) ))))))
+              (, ,) 
+              (CC and)
+              (S 
+                (NP-SBJ=1 
+                  (NP (DT the) (NN balance) )
+                  (PP (-NONE- *T*-2) ))
+                (PP-LOC=3 (IN outside) 
+                  (NP (DT the) (NNP U.S.) )))
+              (, ,) 
+              (PP-MNR (IN via) 
+                (NP 
+                  (NP (NNP Smith) (NNP Barney) 
+                    (, ,)
+                    (NNP Harris) (NNP Upham) (CC &) (NNP Co.) )
+                  (CC and) 
+                  (NP (NNP Mabon) 
+                    (, ,)
+                    (NNP Nugent) (CC &) (NNP Co) ))))))))
+    (. .) ))

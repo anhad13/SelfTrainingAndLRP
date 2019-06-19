@@ -1,0 +1,63 @@
+
+( (S 
+    (NP-SBJ (NNP Mitsui) (CC &) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD started) 
+            (NP 
+              (NP (DT a) (JJ joint) (NN venture) )
+              (PP (IN with) 
+                (NP 
+                  (NP (NNP Dae) (NNP Woong) (NNP Chemical) (NNP Co.) )
+                  (, ,) 
+                  (NP 
+                    (NP (DT a) (JJ major) (JJ pharmaceutical) (NN manufacturer) )
+                    (PP-LOC (IN in) 
+                      (NP (NNP South) (NNP Korea) )))
+                  (, ,) ))
+              (SBAR 
+                (WHADVP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB manufacture) 
+                      (NP (JJ antibiotic) (NNS medicines) )
+                      (ADVP (-NONE- *T*-1) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ new) (NN company) )
+    (VP (VBZ is) 
+      (VP (VBN capitalized) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN at) 
+          (NP 
+            (QP (RB about) ($ $) (CD 3.5) (CD million) )
+            (-NONE- *U*) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Mitsui) )
+    (VP (VBZ expects) 
+      (S 
+        (NP-SBJ-2 (DT the) (JJ antibiotic) (NNS products) )
+        (VP (TO to) 
+          (VP (VB be) 
+            (VP (VBN exported) 
+              (NP (-NONE- *-2) )
+              (PP-DIR (TO to) 
+                (NP 
+                  (NP (NNP Southeast) (NNP Asia) )
+                  (CC and) 
+                  (NP (NNP Africa) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP It) )
+    (ADVP (RB also) )
+    (VP (VBZ hopes) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB enter) 
+            (NP (DT the) (NNP U.S.) (NN market) )))))
+    (. .) ))

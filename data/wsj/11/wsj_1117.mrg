@@ -1,0 +1,41 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP Retired) (NNP Adm.) (NNP William) (NNP J.) (NNP Crowe) )
+        (, ,) 
+        (NP 
+          (NP (JJ former) (NN chairman) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NNP Joint) (NNP Chiefs) )
+              (PP (IN of) 
+                (NP (NNP Staff) ))))))
+      (, ,) 
+      (CC and)
+      (NP 
+        (NP (NNP Robert) (NNP P.) (NNP Luciano) )
+        (, ,) 
+        (NP 
+          (NP 
+            (NP (NN chairman) )
+            (CC and) 
+            (NP (JJ chief) (JJ executive) (NN officer) ))
+          (PP (IN of) 
+            (NP (NNP Schering-Plough) (NNP Corp.) ))))
+      (, ,) )
+    (VP (VBD were) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NNS directors) )
+            (PP (IN of) 
+              (NP (DT this) (NNS securities) (NN firm) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN board) )
+    (VP (VBD expanded) 
+      (PP-CLR (TO to) 
+        (NP (CD 17) (NNS seats) )))
+    (. .) ))

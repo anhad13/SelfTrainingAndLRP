@@ -1,0 +1,160 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (JJ Initial) (NNS claims) )
+        (PP (IN for) 
+          (NP (JJ regular) (NN state) (NN unemployment) (NNS benefits) )))
+      (VP (VBD rose) 
+        (PP-DIR (TO to) 
+          (NP (DT a) 
+            (ADJP (RB seasonally) (VBN adjusted) )
+            (CD 396,000) ))
+        (PP-TMP (IN during) 
+          (NP 
+            (NP (DT the) (NN week) )
+            (VP (VBN ended) 
+              (NP-TMP (NNP Oct.) (CD 7) ))))
+        (PP-DIR (IN from) 
+          (NP (CD 334,000) )
+          (NP-TMP (DT the) (JJ previous) (NN week) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Labor) (NNP Department) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN number) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNS people) )
+          (VP (VBG receiving) 
+            (NP (JJ regular) (NN state) (NNS benefits) )
+            (PP-TMP (IN in) 
+              (NP 
+                (NP (DT the) (NN week) )
+                (VP (VBN ended) 
+                  (NP-TMP (NNP Sept.) (CD 30) ))))))))
+    (VP (VBD decreased) 
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (DT a) 
+            (ADJP (RB seasonally) (VBN adjusted) )
+            (CD 2,202,000) )
+          (, ,) (CC or) 
+          (NP 
+            (NP (CD 2.2) (NN %) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT those) )
+                (VP (VBN covered) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS (NN unemployment) (NN insurance) ))))))))
+      (, ,) 
+      (PP-DIR (IN from) 
+        (NP (CD 2,205,000) )
+        (NP-TMP 
+          (NP (DT the) (JJ previous) (NN week) )
+          (, ,) 
+          (SBAR 
+            (WHADVP-1 (WRB when) )
+            (S 
+              (NP-SBJ (DT the) (VBN insured) (NN unemployment) (NN rate) )
+              (ADVP (RB also) )
+              (VP (VBD was) 
+                (NP-PRD (CD 2.2) (NN %) )
+                (ADVP-TMP (-NONE- *T*-1) )))))))
+    (. .) ))
+( (S 
+    (PP (VBG Counting) 
+      (NP (DT all) 
+        (UCP (NN state) 
+          (CC and)
+          (JJ federal) )
+        (NN benefit) (NNS programs) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN number) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNS people) )
+          (VP (VBG receiving) 
+            (NP (NN unemployment) (NNS benefits) )
+            (PP-TMP (IN in) 
+              (NP 
+                (NP (DT the) (NN week) )
+                (VP (VBN ended) 
+                  (NP-TMP (NNP Sept.) (CD 30) ))))))))
+    (VP (VBD fell) 
+      (PP-DIR (TO to) 
+        (NP (CD 1,809,300) ))
+      (PP-DIR (IN from) 
+        (NP (CD 1,838,200) )
+        (ADVP-TMP 
+          (NP (DT a) (NN week) )
+          (RBR earlier) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT These) (NNS figures) )
+    (VP (VBP are) (RB n't) 
+      (VP 
+        (ADVP-MNR (RB seasonally) )
+        (VBN adjusted) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NNP Labor) (NNP Department) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (RB unusually) (JJ high) (NN number) )
+            (PP (IN of) 
+              (NP 
+                (NP (JJ initial) (NNS claims) )
+                (PP (IN for) 
+                  (NP (NN state) (NN unemployment) (NNS benefits) )))))
+          (VP (VBZ reflects) 
+            (NP 
+              (NP (DT the) (NN impact) )
+              (PP (IN of) 
+                (NP (NNP Hurricane) (NNP Hugo) ))
+              (PP (IN on) 
+                (NP 
+                  (NP (JJ southern) (NNS states) )
+                  (, ,) (RB particularly) 
+                  (NP 
+                    (NP (NNP North) (NNP Carolina) )
+                    (CC and) 
+                    (NP (NNP South) (NNP Carolina) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ (DT The) (NN figure) )
+      (ADVP (RB also) )
+      (VP (MD may) 
+        (VP (VB reflect) 
+          (NP 
+            (NP (JJ initial) (NNS claims) )
+            (VP (VBN filed) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (VBG striking) (NNP Nynex) (NNP Corp.) (NNS workers) )
+                  (SBAR 
+                    (WHNP-1 (WP who) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBP have) 
+                        (VP (VBN become) 
+                          (ADJP-PRD (JJ eligible) 
+                            (PP (IN for) 
+                              (NP (NN unemployment) (NNS benefits) ))))))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN official) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))

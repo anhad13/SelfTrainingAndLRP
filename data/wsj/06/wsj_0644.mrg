@@ -1,0 +1,60 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Bruce) (NNP W.) (NNP Wilkinson) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (CC and) 
+        (NP (JJ chief) (JJ executive) (NN officer) ))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (JJ additional) (NN post) )
+            (PP (IN of) 
+              (NP 
+                (NP (NN chairman) )
+                (PP (IN of) 
+                  (NP (DT this) 
+                    (UCP (JJ architectural) 
+                      (CC and)
+                      (NN design) (NNS services) )
+                    (NN concern) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Wilkinson) )
+      (, ,) 
+      (ADJP 
+        (NP-ADV (CD 45) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP Thomas) (NN A.) (NNP Bullock) )
+        (, ,) 
+        (NP (CD 66) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ is) 
+              (VP 
+                (VP (VBG retiring) 
+                  (PP-CLR (IN as) 
+                    (NP (NN chairman) )))
+                (CC but) 
+                (VP (MD will) 
+                  (VP (VB continue) 
+                    (PP-CLR (IN as) 
+                      (NP 
+                        (NP (DT a) (NN director) 
+                          (CC and)
+                          (NN chairman) )
+                        (PP (IN of) 
+                          (NP (DT the) (JJ executive) (NN committee) ))))))))))))
+    (. .) ))

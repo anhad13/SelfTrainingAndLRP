@@ -1,0 +1,57 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Harris) (NNP Ravine) )
+      (, ,) 
+      (NP 
+        (NP (JJ executive) (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP (NN customer) (NN satisfaction) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (JJ executive) (NN vice) (NN president) )
+            (, ,) 
+            (NP 
+              (NP (NN finance) 
+                (CC and)
+                (NN administration) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT this) (NN maker) )
+                  (PP (IN of) 
+                    (NP (NNS data) (NN storage) (NN equipment) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Ravine) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP William) (NNP R.) (NNP Mansfield) (NNP Jr.) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-1) )
+            (VP (MD will) 
+              (VP (VB remain) 
+                (PP-CLR (IN with) 
+                  (NP (DT the) (NN company) ))
+                (PP-TMP (IN until) 
+                  (NP 
+                    (NP (DT the) (NN end) )
+                    (PP (IN of) 
+                      (NP (DT the) (NN year) ))))
+                (S-PRP 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP 
+                    (VP (TO to) 
+                      (VP (VB support) 
+                        (NP (DT the) (NN transition) )))
+                    (CC and) 
+                    (VP (TO to) 
+                      (VP (VB complete) 
+                        (NP (JJ important) (NNS projects) )))))))))))
+    (. .) ))

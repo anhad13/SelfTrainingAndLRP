@@ -1,0 +1,56 @@
+
+( (S 
+    (NP-SBJ (NNP MEDUSA) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP 
+            (ADVP-MNR (RB voluntarily) )
+            (VB prepaid) 
+            (NP 
+              (QP ($ $) (CD 7) (CD million) )
+              (-NONE- *U*) )
+            (PP-CLR (IN on) 
+              (NP (PRP$ its) (JJ original) 
+                (ADJP 
+                  (QP ($ $) (CD 75) (CD million) )
+                  (-NONE- *U*) )
+                (NN term) (NN loan) ))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG bringing) 
+                (NP 
+                  (NP (DT the) (JJ total) (NN debt) (NN reduction) )
+                  (PP (IN for) 
+                    (NP (DT the) (NN year) )))
+                (PP-CLR (TO to) 
+                  (NP 
+                    (QP ($ $) (CD 18) (CD million) )
+                    (-NONE- *U*) ))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN After) 
+      (NP (DT the) (NN payment) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Cleveland) (NN company) )
+    (VP (VBZ owes) 
+      (NP 
+        (QP ($ $) (CD 57) (CD million) )
+        (-NONE- *U*) )
+      (PP-CLR (IN on) 
+        (NP (DT the) (NN loan) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN cement) (NN producer) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN payment) )
+          (VP (VBD was) 
+            (VP (VBN made) 
+              (NP (-NONE- *-1) )
+              (PP-MNR (IN from) 
+                (NP (JJ excess) (NN cash) (NN flow) )))))))
+    (. .) ))

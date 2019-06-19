@@ -1,0 +1,262 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Rubbermaid) (NNP Inc.) )
+      (, ,) 
+      (VP (VBG reflecting) 
+        (NP (JJ strong) (NNS earnings) (NN growth) ))
+      (, ,) )
+    (VP (VBD boosted) 
+      (NP (PRP$ its) (JJ quarterly) (NN dividend) )
+      (NP-EXT (CD 18) (NN %) )
+      (, ,) 
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (CD 13) (NNS cents) )
+          (NP-ADV (DT a) (NN share) )))
+      (PP-DIR (IN from) 
+        (NP (CD 11) (NNS cents) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN maker) )
+      (PP (IN of) 
+        (NP (NN household) (NNS products) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ new) (NN dividend) )
+          (VP (VBZ is) 
+            (ADJP-PRD (JJ payable) 
+              (NP-TMP (NNP Dec.) (CD 1) )
+              (PP (TO to) 
+                (NP 
+                  (NP 
+                    (NP (NNS shares) )
+                    (PP (IN of) 
+                      (NP (NN record) )))
+                  (NP-TMP (NNP Nov.) (CD 10) ))))))))
+    (. .) ))
+( (S 
+    (ADVP-MNR (RB Separately) )
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (DT the) (NN company) (POS 's) )
+      (NN board) )
+    (VP (VBD adopted) 
+      (NP (DT a) (NN proposal) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB amend) 
+              (NP (PRP$ its) (CD 1986) (NN shareholder) (NNS rights) (NN plan) )))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP 
+          (ADJP (JJ further) )
+          (VBG insulating) 
+          (NP (DT the) (NN company) )
+          (PP-CLR (IN from) 
+            (NP (NN takeover) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Rubbermaid) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP 
+            (VP (VBP are) (RB n't) 
+              (ADJP-PRD (JJ aware) 
+                (PP (IN of) 
+                  (NP (DT any) (NN effort) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB take) 
+                          (PRT (RP over) )
+                          (NP (DT the) (NN company) ))))))))
+            (, ,) (CC but) 
+            (VP (VBD believed) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ-2 (DT the) (NN shareholder) (NN plan) )
+                  (VP (VBN needed) 
+                    (S 
+                      (NP-SBJ-1 (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB be) 
+                          (VP (VBN strengthened) 
+                            (NP (-NONE- *-1) )))))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN board) )
+      (VP (VBZ has) 
+        (VP (VBN stated) 
+          (ADVP (RB repeatedly) )
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (NNP Rubbermaid) )
+              (VP (MD should) 
+                (VP (VB be) 
+                  (ADJP-PRD (JJ independent) ))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Walter) (NNP W.) (NNP Williams) )
+      (, ,) 
+      (NP (NNP Rubbermaid) (NN president) ))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (DT Some) (NNS changes) )
+        (PP (TO to) 
+          (NP (DT the) (NN plan) )))
+      (VP (VBD were) 
+        (NP-PRD (JJ minor) (NNS adjustments) )))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (DT the) (RBS most) (JJ significant) )
+      (VP (VBD was) 
+        (NP-PRD 
+          (NP (DT an) (NN amendment) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBZ provides) 
+                (SBAR (IN that) 
+                  (S 
+                    (SBAR-ADV (IN if) 
+                      (S 
+                        (NP-SBJ (DT any) (NN investor) )
+                        (VP (VBZ holds) 
+                          (NP 
+                            (NP 
+                              (QP (CD 25) (NN %) (CC or) (JJR more) )
+                              (-NONE- *U*) )
+                            (PP (IN of) 
+                              (NP 
+                                (NP (NNP Rubbermaid) (POS 's) )
+                                (VBG voting) (NNS securities) ))))))
+                    (, ,) 
+                    (NP-SBJ 
+                      (NP (DT each) (NN right) )
+                      (VP (VBN held) 
+                        (NP (-NONE- *) )
+                        (PP (IN by) 
+                          (NP-LGS (NNS others) ))))
+                    (VP (MD would) 
+                      (VP (VB entitle) 
+                        (S 
+                          (NP-SBJ (DT the) (NN holder) )
+                          (VP (TO to) 
+                            (VP (VB buy) 
+                              (NP 
+                                (NP (NNP Rubbermaid) (NNS shares) )
+                                (PP (IN with) 
+                                  (NP 
+                                    (NP (DT a) (NN market) (NN value) )
+                                    (PP (IN of) 
+                                      (NP (RB twice) 
+                                        (NP (DT the) (NN right) (POS 's) )
+                                        (NN exercise) (NN price) ))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Mr.) (NNP Williams) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN exercise) (NN price) )
+          (VP (VBZ is) 
+            (NP-PRD ($ $) (CD 125) (-NONE- *U*) ))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (NN meaning) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ (NNS holders) )
+              (VP (MD would) 
+                (VP (VB have) 
+                  (NP (DT the) (NN right) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB buy) 
+                          (NP 
+                            (NP ($ $) (CD 250) (-NONE- *U*) )
+                            (PP (IN of) 
+                              (NP (NNP Rubbermaid) (NN stock) )))
+                          (PP-CLR (IN for) 
+                            (NP (DT half) (NN price) ))
+                          (, ,) 
+                          (S-ADV 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (VBG diluting) 
+                              (NP 
+                                (NP (DT the) (NN investor) (POS 's) )
+                                (ADJP (CD 25) (NN %) )
+                                (NN stake) ))))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (DT the) (JJ third) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (NNP Rubbermaid) )
+    (VP (VBD earned) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 32.6) (CD million) )
+          (-NONE- *U*) )
+        (, ,) (CC or) 
+        (NP 
+          (NP (CD 44) (NNS cents) )
+          (NP-ADV (DT a) (NN share) ))
+        (, ,) )
+      (ADVP-CLR (RB up) 
+        (NP (CD 16) (NN %) )
+        (PP (IN from) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 28.1) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 38) (NNS cents) )
+              (NP-ADV (DT a) (NN share) )))
+          (, ,) 
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 9.7) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 351.5) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 320.4) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Rubbermaid) (NNS shares) )
+    (VP (VBD closed) 
+      (NP-TMP (NN yesterday) )
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 33.875) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP-CLR (RB off) 
+        (NP (CD 12.5) (NNS cents) ))
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) )))
+    (. .) ))

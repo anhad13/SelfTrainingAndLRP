@@ -1,0 +1,37 @@
+
+( (S 
+    (NP-SBJ (NNP American) (NNP Telephone) (CC &) (NNP Telegraph) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB lay) 
+              (PRT (RP off) )
+              (NP 
+                (QP (CD 75) (TO to) (CD 85) )
+                (NNS technicians) )
+              (ADVP-LOC (RB here) )
+              (, ,) 
+              (S-ADV 
+                (NP-SBJ (-NONE- *) )
+                (ADJP-PRD (JJ effective) )
+                (NP-TMP-CLR (NNP Nov.) (CD 1) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS workers) )
+    (VP (VBP install) 
+      (, ,)
+      (VBP maintain) 
+      (CC and)
+      (VBP repair) 
+      (NP 
+        (NP (PRP$ its) (JJ private) (NN branch) (NNS exchanges) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBP are) 
+              (NP-PRD (JJ large) (JJ intracompany) (NN telephone) (NNS networks) ))))))
+    (. .) ))

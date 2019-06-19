@@ -1,0 +1,384 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Delta) (NNP Air) (NNPS Lines) (NNS earnings) )
+    (VP (VBD soared) 
+      (NP-EXT (CD 33) (NN %) )
+      (PP-DIR (TO to) 
+        (NP (DT a) (NN record) ))
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJ fiscal) (JJ first) (NN quarter) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG bucking) 
+          (NP 
+            (NP (DT the) (NN industry) (NN trend) )
+            (PP (IN toward) 
+              (NP (VBG declining) (NNS profits) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ Atlanta-based) (NN airline) )
+      (, ,) 
+      (NP 
+        (NP (DT the) 
+          (ADJP (RB third) (JJS largest) ))
+        (PP-LOC (IN in) 
+          (NP (DT the) (NNP U.S.) )))
+      (, ,) )
+    (VP (VBD attributed) 
+      (NP (DT the) (NN increase) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (JJR higher) (NN passenger) (NN traffic) )
+          (, ,) 
+          (NP (JJ new) (JJ international) (NNS routes) )
+          (CC and) 
+          (NP 
+            (NP (JJ reduced) (NN service) )
+            (PP (IN by) 
+              (NP 
+                (NP (JJ rival) (NNP Eastern) (NNPS Airlines) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-1 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBZ is) 
+                      (PP-PRD (IN in) 
+                        (NP (NN bankruptcy) (NNS proceedings) ))
+                      (PP (IN in) 
+                        (NP 
+                          (NP (DT the) (NN wake) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (DT a) (NN strike) )
+                              (SBAR 
+                                (WHNP-2 (WDT that) )
+                                (S 
+                                  (NP-SBJ (-NONE- *T*-2) )
+                                  (VP (VBD began) 
+                                    (NP-TMP (JJ last) (NN spring) )))))))))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP 
+        (NP (DT the) (NN quarter) )
+        (VP (VBN ended) 
+          (NP (-NONE- *) )
+          (NP-TMP-CLR (NNP Sept.) (CD 30) ))))
+    (, ,) 
+    (NP-SBJ (NNP Delta) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (JJ net) (NN income) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 133.1) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP ($ $) (CD 2.53) (-NONE- *U*) )
+                (NP-ADV (DT a) (NN share) )))
+            (, ,) 
+            (ADVP (RB up) 
+              (PP (IN from) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 100) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP 
+                      (NP ($ $) (CD 2.03) (-NONE- *U*) )
+                      (NP-ADV (DT a) (NN share) ))
+                    (, ,) 
+                    (ADVP-TMP 
+                      (NP (DT a) (NN year) )
+                      (RB earlier) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 15) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 2.17) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 1.89) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN During) 
+      (NP (DT the) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (NNP Delta) )
+    (VP 
+      (VP (VBD issued) 
+        (NP 
+          (NP 
+            (QP (CD 2.5) (CD million) )
+            (NNS shares) )
+          (PP (IN of) 
+            (NP (JJ common) (NN stock) )))
+        (PP-DTV (TO to) 
+          (NP (NNP Swissair) )))
+      (, ,) 
+      (CC and)
+      (VP (VBD repurchased) 
+        (NP 
+          (QP (CD 1.1) (CD million) )
+          (NNS shares) )
+        (PP-PRP (IN for) 
+          (NP 
+            (NP (NN use) )
+            (PP-LOC (IN in) 
+              (NP (DT a) (NN company) (NN employee) (NN stock) (NN ownership) (NN plan) ))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (DT The) (NN key) )
+        (PP (TO to) 
+          (NP 
+            (NP (NNP Delta) (POS 's) )
+            (NN record) (NNS earnings) )))
+      (VP (VBD continued) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (NP-PRD (JJ excellent) (NN passenger) (NN revenue) (NN growth) ))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP Thomas) (NNP Roeck) )
+      (, ,) 
+      (NP (JJ chief) (JJ financial) (NN officer) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Passenger) (NN traffic) )
+    (VP (VBD jumped) 
+      (NP-EXT (CD 14) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (NN quarter) ))
+      (, ,) 
+      (SBAR-TMP (IN while) 
+        (S 
+          (NP-SBJ 
+            (NP (NN profit) )
+            (PP (IN per) 
+              (NP (NN passenger) )))
+          (VP (VBD grew) 
+            (NP-EXT (CD 2) (NN %) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Delta) )
+    (VP (VBZ has) 
+      (VP (VBN benefited) 
+        (ADVP 
+          (ADVP (RBR more) )
+          (PP (IN than) 
+            (NP (JJ other) (NNS carriers) )))
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (DT the) (NN weakness) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Eastern) (NNPS Airlines) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-1 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBZ shares) 
+                      (NP (DT the) (NNP Atlanta) (NN hub) ))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN Although) 
+      (S 
+        (NP-SBJ (NNP Eastern) )
+        (VP (VBZ is) 
+          (ADVP-PRD (RB back) 
+            (PP (TO to) 
+              (NP 
+                (NP 
+                  (QP (IN about) (CD 80) )
+                  (NN %) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (JJ pre-strike) (NN schedule) )))))
+          (ADVP-TMP (RB now) ))))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NNP Texas) (NNP Air) (NNP Corp.) (NN subsidiary) )
+    (VP (VBD was) 
+      (ADVP (RB only) )
+      (VP (VBG beginning) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB get) 
+              (ADVP-PRD (RB back) 
+                (PP (IN on) 
+                  (NP (PRP$ its) (NNS feet) )))
+              (PP-TMP (IN during) 
+                (NP (DT the) (NN quarter) )))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Separately) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP America) (NNP West) (NNPS Airlines) )
+      (, ,) 
+      (NP-LOC (NNP Phoenix) 
+        (, ,)
+        (NNP Ariz.) )
+      (, ,) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ third-quarter) (NN profit) )
+          (VP (VBD jumped) 
+            (NP-EXT (CD 45) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 5.8) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD 28) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 4) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD 24) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) 
+                (ADVP-PRP 
+                  (NP (DT a) (NN year) )
+                  (RB earlier) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJS latest) (NNS results) )
+    (VP (VBP include) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 2.6) (CD million) )
+            (-NONE- *U*) )
+          (JJ one-time) (NN payment) )
+        (PP (IN from) 
+          (NP (DT a) (`` ``) (JJ foreign) (NN entity) ))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNP America) (NNP West) )
+    (VP 
+      (VP (MD would) (RB n't) 
+        (VP (VB identify) 
+          (NP (DT the) (NN entity) )))
+      (, ,) (CC but) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) (NN payment) )
+            (VP (VBD was) 
+              (PP-PRD (IN for) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (JJ foreign) (NN company) (POS 's) )
+                    (NN use) )
+                  (PP (IN of) 
+                    (NP (JJ certain) (NN tax) (NNS benefits) ))
+                  (PP (IN in) 
+                    (NP 
+                      (NP (NN connection) )
+                      (PP (IN with) 
+                        (NP (NNP America) (NNP West) (NN plane) (NNS purchases) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Year-earlier) (NNS results) )
+    (VP (VBD included) 
+      (NP 
+        (NP (DT an) (JJ extraordinary) (NN gain) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 1.6) (CD million) )
+            (-NONE- *U*) ))
+        (PP (IN from) 
+          (NP 
+            (NP (DT a) (NN buy-back) )
+            (PP (IN of) 
+              (NP (JJ convertible) (JJ subordinated) (NNS debentures) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 21) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 243.4) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 201.2) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (NNP America) (NNP West) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (NNS earnings) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 18.9) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 97) (NNS cents) )
+              (NP-ADV (DT a) (NN share) )))))
+      (, ,) 
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP (DT a) (NN loss) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 9.7) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD 74) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) 
+                (ADVP-TMP 
+                  (NP (DT a) (NN year) )
+                  (RB earlier) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 27) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 715.1) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 563.8) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))

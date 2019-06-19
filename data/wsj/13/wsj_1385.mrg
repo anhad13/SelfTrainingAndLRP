@@ -1,0 +1,74 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN group) )
+      (PP (VBG including) 
+        (NP 
+          (NP 
+            (NP (NNP Gene) (NNP E.) (NNP Phillips) )
+            (, ,) 
+            (NP 
+              (NP (JJ former) (NN chairman) )
+              (PP (IN of) 
+                (NP (NNP Southmark) (NNP Corp.) )))
+            (, ,) )
+          (CC and) 
+          (NP 
+            (NP (NNP William) (NNP S.) (NNP Friedman) )
+            (, ,) 
+            (NP 
+              (NP (JJ former) (NN vice) (NN chairman) )
+              (PP (IN of) 
+                (NP (NNP Southmark) )))
+            (, ,) ))))
+    (VP (VBD lowered) 
+      (NP 
+        (NP (PRP$ its) (NN stake) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NNP Dallas) (JJ real) (NN estate) (NN concern) )))
+      (PP-DIR (TO to) 
+        (NP (CD 7.7) (NN %) ))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (DT a) (NN filing) )
+            (PP (IN with) 
+              (NP (DT the) (NNP Securities) 
+                (CC and)
+                (NNP Exchange) (NNP Commission) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN group) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD sold) 
+            (NP (CD 455,410) (NNP Southmark) (JJ common) (NNS shares) )
+            (PP-TMP 
+              (PP (IN from) 
+                (NP (NNP Sept.) (CD 5) ))
+              (PP (TO to) 
+                (NP (NNP Oct.) (CD 5) )))
+            (PP-CLR (IN for) 
+              (NP 
+                (NP 
+                  (NP (CD 18.75) (NNS cents) )
+                  (PP (TO to) 
+                    (NP (CD 25) (NNS cents) )))
+                (NP-ADV (DT a) (NN share) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN filing) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN group) )
+          (VP (VBZ continues) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB hold) 
+                  (NP (CD 3,481,887) (VBG remaining) (NNS shares) ))))))))
+    (. .) ))

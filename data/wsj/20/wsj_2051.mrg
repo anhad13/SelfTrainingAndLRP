@@ -1,0 +1,148 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Moody) (POS 's) )
+      (NNPS Investors) (NNP Service) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD lowered) 
+            (NP 
+              (NP (NNS ratings) )
+              (PP (IN on) 
+                (NP 
+                  (NP 
+                    (QP (IN about) ($ $) (CD 650) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN of) 
+                    (NP (NNP Beatrice) (NNP Co.) (NN debt) ))))))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG citing) 
+          (NP 
+            (NP (DT the) 
+              (ADJP (RB closely) (VBN held) )
+              (NNP Chicago) (NN food) (NN concern) (POS 's) )
+            (VBN proposed) (NN recapitalization) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS ratings) (NN concern) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP 
+            (VP (VBD downgraded) 
+              (NP-1 
+                (NP (NNP Beatrice) (NNS notes) )
+                (, ,) 
+                (NP (NNS Euronotes) )
+                (CC and) 
+                (NP (JJ certain) (JJ industrial) (NN revenue) (NNS bonds) ))
+              (PP-DIR-2 (TO to) 
+                (NP (NN single-B-1) ))
+              (PP-DIR-3 (IN from) 
+                (NP (NN Ba-3) )))
+            (CC and) 
+            (VP 
+              (NP=1 
+                (NP (DT the) (NN company) (POS 's) )
+                (VBN subordinated) (NNS debentures) )
+              (PP-DIR=2 (TO to) 
+                (NP (NN single-B-3) ))
+              (PP-DIR=3 (IN from) 
+                (NP (NN single-B-2) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Moody) (POS 's) ))
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) (VBN proposed) (NN recaptilization) )
+            (VP (MD may) (`` ``) 
+              (VP (VB limit) 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (NN ability) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB realize) 
+                        (NP (PRP$ its) (NN profit) (NN potential) )))))))))
+        ('' '') 
+        (CC and)
+        (SBAR (IN that) 
+          (S 
+            (S-NOM-SBJ 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG paying) 
+                (NP (NNS dividends) )
+                (PP (IN from) 
+                  (NP 
+                    (NP (DT a) (JJ new) (NN series) )
+                    (PP (IN of) 
+                      (NP (VBN preferred) ))))))
+            (VP (MD could) 
+              (VP (VB squeeze) (`` ``) 
+                (NP (JJ basic) (NN business) (NNS operations) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (DT A) (NNP Beatrice) (NN spokesman) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB return) 
+        (NP 
+          (NP (NNS calls) )
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBG seeking) 
+                (NP (NN comment) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Beatrice) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD went) 
+            (ADJP-PRD (JJ private) )
+            (PP-LOC (IN in) 
+              (NP (DT an) 
+                (ADJP 
+                  (QP ($ $) (CD 8.2) (CD billion) )
+                  (-NONE- *U*) )
+                (JJ leveraged) (NN buy-out) ))
+            (PP-TMP (IN in) 
+              (NP (CD 1986) )))))
+      (, ,) )
+    (VP (VBD said) 
+      (NP-TMP (JJ last) (NN month) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD might) 
+            (VP (VB borrow) 
+              (ADVP (RB again) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB help) 
+                    (VP (VB pay) 
+                      (NP (NNS investors) )
+                      (NP 
+                        (NP 
+                          (QP (RB as) (RB much) (IN as) ($ $) (CD 983) (CD million) )
+                          (-NONE- *U*) )
+                        (PP (IN in) 
+                          (NP 
+                            (NP (VBN preferred) (NN stock) )
+                            (CC and) 
+                            (NP (NN debt) (NNS securities) )))))))))))))
+    (. .) ))

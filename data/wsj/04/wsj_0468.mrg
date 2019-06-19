@@ -1,0 +1,78 @@
+
+( (S 
+    (NP-SBJ (NNP G.D.) (NNP Searle) (CC &) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNP Food) 
+            (CC and)
+            (NNP Drug) (NNP Administration) )
+          (VP (VBD approved) 
+            (NP 
+              (NP (DT the) (NN sale) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP Kerlone) )
+                  (, ,) 
+                  (NP 
+                    (NP (DT a) (NN hypertension) (NN drug) )
+                    (VP (VBN developed) 
+                      (NP (-NONE- *) )
+                      (PP (IN by) 
+                        (NP-LGS 
+                          (NP (DT a) (JJ joint) (NN venture) )
+                          (PP (IN between) 
+                            (NP 
+                              (NP (NNP Searle) )
+                              (CC and) 
+                              (NP (DT a) (JJ French) (NN concern) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Searle) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP (NNP Monsanto) (NNP Co.) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (`` ``) (NN beta-blocker) ('' '') (JJ high-blood-pressure) (NN drug) (NNP Kerlone) )
+          (VP (VBZ is) 
+            (NP-PRD 
+              (NP (DT the) (JJ first) (NN product) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (TO to) 
+                    (VP (VB reach) 
+                      (NP (DT the) (NN market) )
+                      (PP (IN through) 
+                        (NP 
+                          (NP (NNP Lorex) (NNP Pharmaceuticals) )
+                          (, ,) 
+                          (NP 
+                            (NP (DT the) (NNP U.S.) (NN company) )
+                            (VP 
+                              (ADVP (RB jointly) )
+                              (VBN owned) 
+                              (NP (-NONE- *) )
+                              (PP (IN by) 
+                                (NP-LGS 
+                                  (NP (NNP Searle) )
+                                  (CC and) 
+                                  (NP 
+                                    (NP (NNP Synthelabo) )
+                                    (, ,) 
+                                    (NP 
+                                      (NP (DT a) (JJ French) (JJ pharmaceutical) (NN concern) )
+                                      (VP (VBN owned) 
+                                        (NP (-NONE- *) )
+                                        (PP (IN by) 
+                                          (NP-LGS 
+                                            (NP (NNP France) (POS 's) )
+                                            (NNP L'Oreal) (NNP S.A) ))))))))))))))))))))
+    (. .) ))

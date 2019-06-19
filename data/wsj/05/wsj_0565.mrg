@@ -1,0 +1,73 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP Ultimate) (NNP Corp.) )
+      (VP (VBD signed) 
+        (NP 
+          (NP (DT a) (NN letter) )
+          (PP (IN of) 
+            (NP (NN intent) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB market) 
+                    (NP (NNP Hewlett-Packard) (NNP Co.) (NNS minicomputers) )))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS companies) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Ultimate) )
+      (VP (VBZ expects) 
+        (S 
+          (NP-SBJ (DT the) 
+            (ADJP (CD 3) (JJ 1\/2-year) )
+            (NN agreement) )
+          (VP (TO to) 
+            (VP (VB generate) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 100) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN in) 
+                  (NP (NNS sales) ))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP it) )
+      (VP (MD would) (RB n't) 
+        (VP (VB estimate) 
+          (NP (NN profit) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP 
+        (NP (NNS terms) )
+        (PP (IN of) 
+          (NP (DT the) (NN pact) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Ultimate) )
+      (, ,) 
+      (NP (DT a) (NNS computer-systems) (NN concern) )
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB market) 
+        (NP 
+          (NP (DT the) (JJ full) (NN line) )
+          (PP (IN of) 
+            (NP (NNP HP) (CD 9000) (NN series) (CD 800) (JJ multipleuser) (NNS minicomputers) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Hewlett-Packard) )
+    (VP (VBZ is) 
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Palo) (NNP Alto) )
+            (, ,) 
+            (NP (NNP Calif) )))))
+    (. .) ))

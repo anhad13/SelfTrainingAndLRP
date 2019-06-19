@@ -1,0 +1,38 @@
+
+( (S 
+    (NP-SBJ-34 (NNP Columbia) (NNPS Pictures) (NNP Entertainment) (NNP Inc.) )
+    (VP (VBD was) 
+      (VP (VBN dropped) 
+        (NP (-NONE- *-34) )
+        (, ,) 
+        (ADJP-ADV (JJ effective) 
+          (NP-TMP (NN today) ))
+        (, ,) 
+        (PP-DIR (IN from) 
+          (NP 
+            (NP (DT the) (JJ recreational) (NNS products) 
+              (CC and)
+              (NNS services) (NN industry) (NN group) )
+            (PP (IN of) 
+              (NP (DT the) (NNP Dow) (NNP Jones) (NNP Equity) (NNP Market) (NNP Index) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-35 (NNP Columbia) (NNPS Pictures) )
+    (VP (VBZ is) 
+      (VP (VBG being) 
+        (VP (VBN acquired) 
+          (NP (-NONE- *-35) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NNP Sony) (NNP Corp.) )
+              (, ,) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ-36 (-NONE- *T*-1) )
+                  (VP (VBZ is) 
+                    (VP (VBN based) 
+                      (NP (-NONE- *-36) )
+                      (PP-LOC-CLR (IN in) 
+                        (NP (NNP Japan) )))))))))))
+    (. .) ))

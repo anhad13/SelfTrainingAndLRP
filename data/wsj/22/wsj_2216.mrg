@@ -1,0 +1,233 @@
+
+( (S 
+    (NP-SBJ (NNP BancOklahoma) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD completed) 
+            (NP 
+              (NP (DT a) (NN restructuring) (NN agreement) )
+              (VP 
+                (ADVP-TMP (RB previously) )
+                (VBN agreed) 
+                (PP-CLR (TO to) 
+                  (NP (-NONE- *) ))
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (DT the) (NNP Federal) (NNP Deposit) (NNP Insurance) (NNP Corp.) )
+                    (, ,) 
+                    (NP (NN creditor) (NNS banks) )
+                    (CC and) 
+                    (NP (VBN subordinated) (NN debenture) (NNS holders) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN plan) )
+    (VP (MD would) 
+      (VP (VB permit) 
+        (S 
+          (NP-SBJ (DT the) (NN bank) (VBG holding) (NN company) )
+          (VP (TO to) 
+            (VP (VB retire) 
+              (NP (PRP$ its) (NN bank) 
+                (CC and)
+                (NN debenture) (NNS obligations) )
+              (PP-MNR (IN through) 
+                (NP 
+                  (NP (NNS exchanges) )
+                  (PP (IN of) 
+                    (NP (NN cash) 
+                      (CC and)
+                      (NN equity) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (DT The) (NNP FDIC) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (PP-TMP (IN in) 
+            (NP (CD 1986) ))
+          (VP (VBD provided) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 130) (CD million) )
+                (-NONE- *U*) )
+              (PP (IN in) 
+                (NP (JJ open-bank) (NN assistance) )))
+            (PP (TO to) 
+              (NP 
+                (NP (NNP BancOklahoma) (POS 's) )
+                (NAC (NNP Bank) 
+                  (PP (IN of) 
+                    (NP-LOC 
+                      (NP (NNP Oklahoma) )
+                      (, ,) 
+                      (NP (NNP Tulsa) )
+                      (, ,) )))
+                (NN unit) ))))))
+    (VP (MD will) 
+      (VP (VB continue) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB maintain) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 90) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN in) 
+                  (NP (VBN preferred) (NN stock) )))
+              (PP-LOC (IN in) 
+                (NP (DT the) (NNP Tulsa) (NN bank) (NN unit) )))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (NN exchange) )
+        (PP (IN for) 
+          (NP (DT the) (JJ other) 
+            (QP ($ $) (CD 40) (CD million) )
+            (-NONE- *U*) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP FDIC) )
+    (VP (MD will) 
+      (VP (VB receive) 
+        (NP 
+          (NP (JJ additional) (NNS warrants) )
+          (VP (VBG entitling) 
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (TO to) 
+                (VP (VB buy) 
+                  (NP 
+                    (NP (CD 60) (NN %) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP 
+                          (NP (NNP BancOklahoma) (POS 's) )
+                          (JJ common) (NN stock) )
+                        (ADJP (JJ outstanding) ))))
+                  (, ,) 
+                  (ADVP (RB up) 
+                    (PP (IN from) 
+                      (NP 
+                        (NP (DT the) 
+                          (ADJP (CD 55) (NN %) )
+                          (NN option) )
+                        (SBAR 
+                          (WHNP-1 (-NONE- 0) )
+                          (S 
+                            (NP-SBJ (DT the) (NNP FDIC) )
+                            (VP (VBD received) 
+                              (NP (-NONE- *T*-1) )
+                              (PP-LOC (IN under) 
+                                (NP 
+                                  (NP (NNS terms) )
+                                  (PP (IN of) 
+                                    (NP (DT the) (CD 1986) (NN capital) (NN infusion) )))))))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (PP (IN In) 
+        (NP 
+          (NP (NN exchange) )
+          (PP (IN for) 
+            (NP 
+              (NP (DT the) 
+                (QP ($ $) (CD 76) (CD million) )
+                (-NONE- *U*) )
+              (SBAR 
+                (WHNP-2 (-NONE- 0) )
+                (S 
+                  (NP-SBJ-1 (PRP they) )
+                  (VP (VBP are) 
+                    (VP (VBN owed) 
+                      (NP (-NONE- *-1) )
+                      (NP (-NONE- *T*-2) )))))))))
+      (, ,) 
+      (NP-SBJ (NN creditor) (NNS banks) )
+      (VP (MD will) 
+        (VP (VB receive) 
+          (NP 
+            (NP 
+              (NP 
+                (QP (CD 3.9) (CD million) )
+                (NNS shares) )
+              (PP (IN of) 
+                (NP (NNP BancOklahoma) (JJ common) (NN stock) )))
+            (CC and) 
+            (NP 
+              (NP (DT the) (NNS proceeds) )
+              (PP (IN from) 
+                (NP 
+                  (NP (DT the) (JJ future) (NNS sales) )
+                  (PP (IN of) 
+                    (NP (CD four) (JJ subsidiary) (NNS banks) ))
+                  (PP (TO to) 
+                    (NP (JJ private) (NNS buyers) )))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN bank) (VBG holding) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (PP-LOC 
+        (ADVP (RB Also) )
+        (IN under) 
+        (NP (DT the) (NN agreement) ))
+      (, ,) 
+      (NP-SBJ (NN debenture) (NNS holders) )
+      (VP (MD will) 
+        (VP (VB get) 
+          (NP 
+            (NP 
+              (QP (CD one) (CD million) )
+              (NNS shares) )
+            (PP (IN of) 
+              (NP (JJ common) (NN stock) )))
+          (PP (IN in) 
+            (NP 
+              (NP (NN exchange) )
+              (PP (IN for) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 7.7) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN in) 
+                    (NP (NNS debentures) ))))))))
+      (CC and) 
+      (S 
+        (NP-SBJ 
+          (NP (NNS holders) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP BancOklahoma) (POS 's) )
+              (NN series) (DT A) (JJ preferred) (NN stock) )))
+        (VP (MD will) 
+          (VP (VB receive) 
+            (NP 
+              (NP (CD 1.25) (NNS shares) )
+              (PP (IN of) 
+                (NP (JJ common) (NN stock) ))
+              (PP (IN for) 
+                (NP 
+                  (NP (DT every) (NN share) )
+                  (PP (IN of) 
+                    (NP (VBN preferred) ))
+                  (SBAR 
+                    (WHNP-1 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (PRP they) )
+                      (VP (VBP own) 
+                        (NP (-NONE- *T*-1) )))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))

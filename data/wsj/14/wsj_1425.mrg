@@ -1,0 +1,60 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Translant) (NNP Inc.) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Rancho) (NNP Cucamonga) )
+        (, ,) 
+        (NP (NNP Calif.) )
+        (, ,) ))
+    (VP (VBD got) 
+      (NP 
+        (NP (DT an) 
+          (ADJP 
+            (QP ($ $) (CD 86) (CD million) )
+            (-NONE- *U*) )
+          (NNP Navy) (NN contract) )
+        (PP (IN for) 
+          (NP (JJ missile-launch) (NNS systems) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP General) (NNP Electric) (NNP Co.) )
+    (VP (VBD received) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 30.6) (CD million) )
+            (-NONE- *U*) )
+          (NNP Air) (NNP Force) (NN contract) )
+        (PP (IN for) 
+          (NP (NN MX-missile) (NN nose) (NNS cones) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Goodyear) (NNP Tire) (CC &) (NNP Rubber) (NNP Co.) )
+    (VP (VBD was) 
+      (VP (VBN awarded) 
+        (NP (-NONE- *-1) )
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 19.1) (CD million) )
+              (-NONE- *U*) )
+            (NNP Army) (NN contract) )
+          (PP (IN for) 
+            (NP (JJ armored-vehicle) (NNS parts) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Analytic) (NNPS Sciences) (NNP Corp.) )
+    (VP (VBD was) 
+      (VP (VBN awarded) 
+        (NP (-NONE- *-1) )
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 10.1) (CD million) )
+              (-NONE- *U*) )
+            (NNP Air) (NNP Force) (NN contract) )
+          (PP (IN for) 
+            (NP (JJ technical) (NN support) )))))
+    (. .) ))

@@ -1,0 +1,161 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Bank) )
+      (PP (IN of) 
+        (NP (NNP Montreal) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBD added) 
+            (NP 
+              (NP 
+                (QP (CD 850) (CD million) )
+                (JJ Canadian) (NNS dollars) )
+              (PRN 
+                (-LRB- -LRB-)
+                (NP 
+                  (QP ($ US$) (CD 725.8) (CD million) )
+                  (-NONE- *U*) )
+                (-RRB- -RRB-) ))
+            (PP-CLR (TO to) 
+              (NP (PRP$ its) (NNS reserves) ))
+            (PP (IN against) 
+              (NP 
+                (NP (NNS losses) )
+                (PP (IN on) 
+                  (NP (NNP Third) (NNP World) (NNS loans) ))))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (VBG bringing) 
+                (NP 
+                  (NP (DT the) (NN total) )
+                  (SBAR 
+                    (WHNP-1 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (PRP it) )
+                      (VP (VBZ has) 
+                        (VP (VBN set) 
+                          (NP (-NONE- *T*-1) )
+                          (PRT (RP aside) )
+                          (NP-TMP (DT this) (NN year) ))))))
+                (PP-DIR (TO to) 
+                  (NP 
+                    (QP ($ C$) (CD 1) (CD billion) )
+                    (-NONE- *U*) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN bank) )
+    (VP 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) 
+                (QP ($ C$) (CD 1) (CD billion) )
+                (-NONE- *U*) )
+              (PP (IN in) 
+                (NP (NNS reserves) )))
+            (VP (MD will) 
+              (VP (VB result) 
+                (PP-CLR (IN in) 
+                  (NP 
+                    (NP (DT a) (NN charge) )
+                    (PP (IN of) 
+                      (NP 
+                        (QP ($ C$) (CD 595) (CD million) )
+                        (-NONE- *U*) ))
+                    (PP (IN against) 
+                      (NP (NNS earnings) )))))))))
+      (CC but) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-1 (PRP it) )
+            (ADVP-TMP (RB still) )
+            (VP (VBZ expects) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB report) 
+                    (NP 
+                      (NP (DT a) (NN profit) )
+                      (PP (IN for) 
+                        (NP 
+                          (NP (DT the) (NN year) )
+                          (VP (VBG ending) 
+                            (NP-TMP (NNP Tuesday) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN bank) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (JJ net) (NN income) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ C$) (CD 389) (CD million) )
+            (-NONE- *U*) ))
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (CD nine) (NNS months) )
+            (VP (VBN ended) 
+              (NP-TMP (NNP July) (CD 31) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN bank) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN increase) )
+            (PP-LOC (IN in) 
+              (NP (JJ loan-loss) (NNS provisions) )))
+          (VP (MD wo) (RB n't) 
+            (VP (VB affect) 
+              (NP 
+                (NP (DT the) (NN payment) )
+                (PP (IN of) 
+                  (NP (NNS dividends) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN bank) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNS reserves) )
+          (ADVP-TMP (RB now) )
+          (VP (VB amount) 
+            (PP-CLR (TO to) 
+              (NP 
+                (NP (CD 61) (NN %) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (JJ total) (JJ less-developed-country) (NN exposure) ))))))))
+    (. .) ))
+( (S 
+    (PP (VBG Excluding) 
+      (NP (NNP Mexico) ))
+    (, ,) 
+    (NP-SBJ (NNS reserves) )
+    (VP (VBP equal) 
+      (NP 
+        (NP (CD 95) (NN %) )
+        (PP (IN of) 
+          (NP (NNP LDC) (NN exposure) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP Toronto) (NNP Stock) (NNP Exchange) (NN trading) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Bank) )
+      (PP (IN of) 
+        (NP (NNP Montreal) )))
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ C$) (CD 33.25) (-NONE- *U*) ))
+      (, ,) 
+      (PP-CLR (RP up) 
+        (NP (CD 87.5) (JJ Canadian) (NNS cents) )))
+    (. .) ))

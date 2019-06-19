@@ -1,0 +1,101 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP Environmental) (NNP Protection) (NNP Agency) )
+    (VP (VBZ is) 
+      (VP (VBG getting) 
+        (NP (DT a) (NN lot) )
+        (PP-CLR (IN out) 
+          (PP (IN of) 
+            (NP (DT the) (NNP Superfund) (NN program) )))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (PP-TPC-2 (IN Of) 
+        (NP 
+          (NP (DT the) 
+            (QP ($ $) (CD 4.4) (CD billion) )
+            (-NONE- *U*) )
+          (VP (VBN spent) 
+            (NP (-NONE- *) )
+            (ADVP-TMP (RB so) (RB far) )
+            (PP-CLR (IN on) 
+              (NP (DT the) (NN program) )))))
+      (, ,) 
+      (NP-SBJ 
+        (NP (CD 60) (NN %) )
+        (PP (-NONE- *T*-2) ))
+      (VP (VBZ is) 
+        (VP (VBG going) 
+          (PP-CLR (IN for) 
+            (NP 
+              (NP (JJ administrative) (NNS costs) )
+              (, ,) 
+              (NP (NN management) )
+              (CC and) 
+              (NP (NN research) ))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP Office) )
+      (PP (IN of) 
+        (NP (NNP Technology) (NNP Assessment) )))
+    (ADVP (RB just) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (QP (RB Only) (CD 36) (IN of) (CD 1,200) )
+      (JJ priority) (NN cleanup) (NNS sites) )
+    (VP (VBP have) 
+      (VP (VBN been) (`` ``) 
+        (VP (VBN decontaminated) 
+          (NP (-NONE- *-1) ))))
+    (. .) ('' '') ))
+( (S 
+    (PP-TMP (IN Over) 
+      (NP (DT the) (JJ next) (CD 50) (NNS years) ))
+    (, ,) 
+    (NP-SBJ-2 
+      (QP ($ $) (CD 500) (CD billion) )
+      (-NONE- *U*) )
+    (VP (VBZ is) 
+      (VP (VBN earmarked) 
+        (NP (-NONE- *-2) )
+        (PP-CLR (IN for) 
+          (NP (DT the) (NN program) ))))
+    (. .) ))
+( (S 
+    (PP (IN At) 
+      (NP (JJ current) (NNS allocations) ))
+    (, ,) 
+    (NP-SBJ (WDT that) )
+    (VP (VBZ means) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP EPA) )
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBG spending) 
+                (NP 
+                  (QP ($ $) (CD 300) (CD billion) )
+                  (-NONE- *U*) )
+                (PP-CLR (IN on) 
+                  (NP (PRP itself) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (MD may) (RB not) 
+      (VP (VB be) 
+        (ADJP-PRD (JJ toxic) )))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP we) )
+      (VP (VBP know) 
+        (SBAR 
+          (WHADVP-1 (WRB where) )
+          (S 
+            (NP-SBJ (CD one) (NN waste) (NN dump) )
+            (VP (VBZ is) 
+              (ADVP-LOC-PRD (-NONE- *T*-1) ))))))
+    (. .) ))

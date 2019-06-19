@@ -1,0 +1,117 @@
+
+( (S 
+    (NP-SBJ-2 (DT A) (NN shareholder) )
+    (VP (VBD filed) 
+      (NP (NN suit) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ-3 (-NONE- *-2) )
+        (VP (VBG seeking) 
+          (S 
+            (NP-SBJ (-NONE- *-3) )
+            (VP (TO to) 
+              (VP (VB block) 
+                (NP 
+                  (NP (NNP Unitel) (NNP Video) (NNP Inc.) (POS 's) )
+                  (VBN proposed) (NN plan) 
+                  (S 
+                    (NP-SBJ-1 (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB be) 
+                        (VP (VBN acquired) 
+                          (NP (-NONE- *-1) )
+                          (PP (IN by) 
+                            (NP-LGS 
+                              (NP (DT a) (JJ new) (NN affiliate) )
+                              (PP (IN of) 
+                                (NP (RB closely) (JJ held) (NNP Kenmare) (NNP Capital) (NNP Corp.) ))))
+                          (PP-CLR (IN for) 
+                            (NP 
+                              (NP 
+                                (NP ($ $) (CD 15) (-NONE- *U*) )
+                                (NP-ADV (DT a) (NN share) ))
+                              (, ,) (CC or) 
+                              (NP 
+                                (QP ($ $) (CD 33.6) (CD million) )
+                                (-NONE- *U*) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN suit) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBZ seeks) 
+            (NP (JJ class-action) (NN status) ))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN filed) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN in) 
+          (NP (NNP Delaware) (NNP Chancery) (NNP Court) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN complaint) )
+    (VP (VBZ alleges) 
+      (SBAR 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NN price) )
+            (VP (VBZ is) (`` ``) 
+              (ADJP-PRD 
+                (ADJP (JJ unfair) )
+                (CC and) 
+                (ADJP (RB grossly) (JJ inadequate) ))
+              ('' '') )))
+        (CC and) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (DT the) (NNS defendants) )
+            (VP (VBP are) 
+              (VP (VBG seeking) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB ensure) 
+                      (NP 
+                        (NP (DT a) (`` ``) (NN lockup) ('' '') )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (DT the) (NN purchase) )
+                            (PP (IN of) 
+                              (NP (NNP Unitel) ))))))))
+                (, ,) 
+                (S-ADV 
+                  (NP-SBJ (-NONE- *) )
+                  (VP 
+                    (ADVP (RB thereby) )
+                    (VBG discouraging) 
+                    (NP (JJ other) (NNS bids) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ seeks) 
+      (NP (JJ unspecified) (NN money) (NNS damages) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP New) (NNP York) (NN company) )
+    (VP (VBD called) 
+      (S 
+        (NP-SBJ (DT the) (NN lawsuit) )
+        (PP-PRD (IN without) 
+          (NP (NN merit) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Shareholders) )
+    (VP (VBP are) 
+      (VP (VBN scheduled) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB vote) 
+              (PP-CLR (IN on) 
+                (NP (DT the) (NN transaction) ))
+              (NP-TMP (NNP Nov) ))))))
+    (. .) ))

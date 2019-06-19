@@ -1,0 +1,178 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Morrison) (NNP Knudsen) (NNP Corp.) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (JJ third-quarter) (JJ net) (NN income) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 7.9) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 69) (NNS cents) )
+              (NP-ADV (DT a) (NN share) )))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG continuing) 
+          (NP 
+            (NP (DT a) (NN rebound) )
+            (PP (IN from) 
+              (NP (JJ steep) (JJ year-ago) (NNS losses) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (JJ third) (NN quarter) ))
+    (NP-TMP (DT a) (NN year-earlier) )
+    (, ,) 
+    (NP-SBJ (DT the) (NN construction) 
+      (CC and)
+      (NN engineering) (NN concern) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (DT a) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 51.2) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP ($ $) (CD 4.68) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Revenue) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJS latest) (NN quarter) )))
+    (VP (VBD rose) 
+      (NP-EXT (CD 14) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 589) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 515.1) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ composite) (NN trading) ))
+    (PP-LOC (IN on) 
+      (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))
+    (, ,) 
+    (NP-SBJ (NNP Morrison) )
+    (VP (VBD gained) 
+      (NP ($ $) (CD 2.25) (-NONE- *U*) )
+      (PP-DIR (TO to) 
+        (NP ($ $) (CD 44.125) (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Morrison) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN engineering) 
+            (CC and)
+            (NN construction) (NN segment) )
+          (VP (VBD performed) 
+            (ADVP-MNR (RB well) )
+            (, ,) 
+            (PP (IN with) 
+              (S-NOM 
+                (NP-SBJ (DT the) (NN mining) 
+                  (CC and)
+                  (NNP MK-Ferguson) (NNS operations) )
+                (VP (VBG making) 
+                  (NP (JJ important) (NNS contributions) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (ADJP (NNP Boise) 
+          (, ,)
+          (JJ Idaho-based) )
+        (NNP Morrison) )
+      (VP (VBD had) 
+        (NP 
+          (NP (NNS losses) )
+          (VP (VBG totaling) 
+            (NP 
+              (QP ($ $) (CD 186) (CD million) )
+              (-NONE- *U*) )
+            (PP-TMP (IN over) 
+              (NP 
+                (NP (DT the) (CD two) (NNS years) )
+                (VP (VBN ended) 
+                  (PP-TMP (IN in) 
+                    (NP (NNP December) )))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP it) )
+      (VP (VBZ has) 
+        (VP (VBN surged) 
+          (ADVP-CLR (RB back) )
+          (PP-DIR (TO to) 
+            (NP (NN profitability) ))
+          (PP-PRP (IN as) 
+            (NP 
+              (NP (DT a) (NN result) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN cost-cutting) )
+                  (CC and) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (NN shedding) 
+                      (PP-CLR (IN of) 
+                        (NP (JJ unprofitable) (NNS operations) )))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN company) (POS 's) )
+      (JJ net) (NN income) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 21.5) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP ($ $) (CD 1.88) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) )
+        (PP (VBN compared) 
+          (PP (IN with) 
+            (NP 
+              (NP (DT a) (JJ year-earlier) (NN loss) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 97.8) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP ($ $) (CD 8.96) (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN share) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 17) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 1.62) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 1.39) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))

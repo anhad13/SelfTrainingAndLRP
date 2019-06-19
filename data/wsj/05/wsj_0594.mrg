@@ -1,0 +1,137 @@
+
+( (NP-TTL (NNP Base) (NNP Data) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNS Computers) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (ADVP-TMP (RB once) )
+            (VP (VBD were) 
+              (NP-PRD 
+                (NP (DT the) (NN state) )
+                (PP (IN of) 
+                  (NP (DT the) (NN art) )))))))
+      (, ,) 
+      (NP 
+        (NP (DT The) (NNS marvels) )
+        (VP (VBN bought) 
+          (NP (-NONE- *) )
+          (ADVP-TMP 
+            (NP (CD three) (NNS years) )
+            (IN ago) )))
+      (, ,) )
+    (VP (VBP Are) 
+      (ADVP-TMP (RB now) )
+      (ADJP-PRD (JJ obsolete) ))
+    (. .) ))
+( (S 
+    (SBAR-TMP (IN As) 
+      (S 
+        (NP-SBJ (PRP we) )
+        (VP 
+          (ADVP-MNR (RB queasily) )
+          (VBP start) 
+          (NP 
+            (NP (DT The) (NN search) )
+            (PP (IN for) 
+              (NP (NNS replacements) ))))))
+    (, ,) 
+    (NP-SBJ (PRP we) )
+    (VP (VBP know) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT The) (JJ new) (CD one) )
+            (SBAR 
+              (WHNP-2 (-NONE- 0) )
+              (S 
+                (NP-SBJ (PRP we) )
+                (VP (VBP purchase) 
+                  (NP (-NONE- *T*-2) )
+                  (PP (IN in) 
+                    (NP (NNS hopes) 
+                      (SBAR (-NONE- 0) 
+                        (S 
+                          (NP-SBJ (PRP it) )
+                          (VP (MD will) 
+                            (VP (VB do) ))))))
+                  (, ,) 
+                  (PP (IN Despite) 
+                    (NP 
+                      (NP (DT every) (NN wonder) )
+                      (SBAR 
+                        (WHNP-1 (WDT that) )
+                        (S 
+                          (NP-SBJ-3 (-NONE- *T*-1) )
+                          (VP (VBZ 's) 
+                            (VP (VBN stated) 
+                              (NP (-NONE- *-3) )))))))))))
+          (, ,) 
+          (VP (VBZ Means) 
+            (UCP 
+              (NP (JJR more) (NN speed) )
+              (, ,) 
+              (NP (JJR more) (NNS graphics) )
+              (, ,) 
+              (NP (JJR more) (NN memory) )
+              (, ,) 
+              (ADVP (RB too) )
+              (, ,) (CC But) 
+              (ADJP 
+                (ADVP (RB also) )
+                (ADVP-TMP (RBR more) (RB quickly) )
+                (IN out) (: -) (JJ dated) ))))))
+    (. !) ))
+( (NP (: --) (NNP Bern) (NNP Sharfman) (. .) ))
+( (NP-TTL (NNP Curdling) (NNP Confession) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP I) )
+      (VP (VBP know) 
+        (SBAR 
+          (SBAR 
+            (WHADVP-3 (WRB when) )
+            (S 
+              (NP-SBJ (NNS dividends) )
+              (VP (VBP are) 
+                (ADJP-PRD (JJ due) )
+                (ADVP-TMP (-NONE- *T*-3) ))))
+          (: ;) 
+          (SBAR 
+            (WHADVP-5 (WRB When) )
+            (S 
+              (NP-SBJ-4 (NNS bonds) )
+              (VP (MD should) 
+                (VP (VB be) 
+                  (VP (VBN retired) 
+                    (NP (-NONE- *-4) )
+                    (ADVP-TMP (-NONE- *T*-5) )))))))))
+    (: ;) 
+    (S (CC But) 
+      (SBAR-NOM-SBJ 
+        (WHNP-2 (WP what) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBZ gets) 
+            (PP-CLR (IN by) 
+              (NP (PRP me) ))
+            (ADVP-TMP (DT every) (NN time) ))))
+      (VP (VBZ Is) 
+        (SQ-PRD (VBZ has) 
+          (NP-SBJ (DT the) (NN milk) )
+          (VP (VBN expired) )
+          (. ?) )))))
+( (NP (: --) (NNP Ralph) (NNP Shaffer) (. .) ))
+( (NP-TTL (NNP Daffynition) ))
+( (NP 
+    (NP (NN Tithing) )
+    (: :) 
+    (NP 
+      (NP (NN Obedience) )
+      (PP (TO to) 
+        (NP (NN one-tenth) (NN Commandment) )))
+    (. .) ))
+( (NP (: --) (NNP Len) (NNP Elliott) (. .) ))

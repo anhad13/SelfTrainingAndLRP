@@ -1,0 +1,112 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (IN @) (NNP Charles) (NNP H.) (NNP Tenney) (NNP II) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (PP (IN of) 
+          (NP (NNP Unitil) (NNP Corp.) )))
+      (, ,) )
+    (VP (VBD purchased) 
+      (NP 
+        (NP (CD 34,602) (NNS shares) )
+        (, ,) (CC or) 
+        (NP (CD 4.9) (NN %) )
+        (, ,) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Unitil) (POS 's) )
+            (NN common) )))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (DT a) (NN filing) )
+            (PP (IN with) 
+              (NP (DT the) (NNPS Securities) 
+                (CC and)
+                (NNP Exchange) (NNP Commission) ))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (NN stock) )
+      (VP (VBD was) 
+        (VP (VBN bought) 
+          (NP (-NONE- *-1) )
+          (PP-TMP (IN on) 
+            (NP (NNP Thursday) ))
+          (PP-LOC (IN in) 
+            (NP (DT a) 
+              (ADJP (RB privately) (VBN negotiated) )
+              (NN transaction) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN filing) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN As) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (ADVP-TMP (RB previously) )
+        (VP (VBN reported) )))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Unitil) )
+        (, ,) 
+        (NP 
+          (NP (NNP Exeter) )
+          (, ,) 
+          (NP (NNP N.H.) ))
+        (, ,) )
+      (CC and) 
+      (NP 
+        (NP (NNP Fitchburg) (NNP Gas) (CC &) (NNP Electric) (NNP Co.) )
+        (, ,) 
+        (NP 
+          (NP (NNP Fitchburg) )
+          (, ,) 
+          (NP (NNP Mass.) ))
+        (, ,) ))
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (NNS targets) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ unsolicited) (NN tender) (VBZ offers) )
+            (PP (IN from) 
+              (NP (JJ Boston-based) (NNP Eastern) (NNPS Utilities) (NNPS Associates) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Eastern) (NNPS Utilities) )
+    (VP 
+      (VP (VBZ has) 
+        (VP 
+          (VP (VBN offered) 
+            (NP-1 
+              (NP ($ $) (CD 40) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) ))
+            (PP-CLR-2 (IN for) 
+              (NP (NNP Unitil) )))
+          (CC and) 
+          (VP 
+            (NP=1 
+              (NP ($ $) (CD 36) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) ))
+            (PP=2 (IN for) 
+              (NP (NNP Fitchburg) (NNP Gas) )))))
+      (CC and) 
+      (VP (VBZ has) 
+        (VP (VBN extended) 
+          (NP (DT both) (NNS offers) )
+          (PP-TMP-CLR (TO to) 
+            (NP (NNP Dec.) (CD 4) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) (NNS companies) )
+    (VP (VBD rejected) 
+      (NP (DT the) (NNS offers) ))
+    (. .) ))

@@ -1,0 +1,51 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP George) (NNP W.) (NNP Koch) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 63) (NNS years) )
+        (JJ old) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (NN president) )
+          (CC and) 
+          (NP (JJ chief) (NN executive) (NN officer) ))
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Grocery) (NNPS Manufacturers) )
+            (PP (IN of) 
+              (NP (NNP America) (NNP Inc.) )))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT this) (NN maker) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNS spices) )
+                    (, ,) 
+                    (NP (NNS seasonings) )
+                    (CC and) 
+                    (NP (NN specialty) (NNS foods) )))))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG succeeding) 
+            (NP 
+              (NP (NNP Erskin) (NNP N.) (NNP White) (NNP Jr.) )
+              (, ,) 
+              (NP (CD 65) )
+              (, ,) 
+              (SBAR 
+                (WHNP-2 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-2) )
+                  (VP (VBD resigned) ))))))))
+    (. .) ))

@@ -1,0 +1,142 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (ADJP 
+          (ADJP (JJ West) (JJ German) )
+          (CC and) 
+          (ADJP (JJ French) ))
+        (NNS authorities) )
+      (VP (VBP have) 
+        (VP (VBN cleared) 
+          (NP 
+            (NP 
+              (NP (NNP Dresdner) (NNP Bank) (NNP AG) (POS 's) )
+              (NN takeover) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT a) (NN majority) (NN stake) )
+                (PP (IN in) 
+                  (NP 
+                    (NP (NNP Banque) (NNP Internationale) (FW de) (NNP Placement) )
+                    (PRN 
+                      (-LRB- -LRB-)
+                      (NP (NNP BIP) )
+                      (-RRB- -RRB-) )))))))))
+    (, ,) 
+    (NP-SBJ (NNP Dresdner) (NNP Bank) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN approval) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ-1 (-NONE- *T*-2) )
+          (VP (VBD had) 
+            (VP (VBN been) 
+              (VP (VBN expected) 
+                (NP (-NONE- *-1) ))))))
+      (, ,) )
+    (VP (VBZ permits) 
+      (S 
+        (NP-SBJ 
+          (NP (NNP West) (NNP Germany) (POS 's) )
+          (JJ second-largest) (NN bank) )
+        (VP (TO to) 
+          (VP (VB acquire) 
+            (NP 
+              (NP (NNS shares) )
+              (PP (IN of) 
+                (NP (DT the) (JJ French) (NN investment) (NN bank) )))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (JJ first) (NN step) ))
+    (, ,) 
+    (NP-SBJ (NNP Dresdner) (NNP Bank) )
+    (VP (MD will) 
+      (VP (VB buy) 
+        (NP 
+          (NP (CD 32.99) (NN %) )
+          (PP (IN of) 
+            (NP (NNP BIP) )))
+        (PP (IN for) 
+          (NP 
+            (NP 
+              (NP 
+                (NP (CD 1,015) (JJ French) (NNS francs) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP ($ $) (CD 162) (-NONE- *U*) )
+                  (-RRB- -RRB-) ))
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) (CC or) 
+            (NP 
+              (NP 
+                (QP (CD 528) (CD million) )
+                (NNS francs) )
+              (PRN 
+                (-LRB- -LRB-)
+                (NP 
+                  (QP ($ $) (CD 84.7) (CD million) )
+                  (-NONE- *U*) )
+                (-RRB- -RRB-) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Dresdner) (NNP Bank) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (ADVP (RB also) )
+            (VP (VB buy) 
+              (NP 
+                (NP (DT all) (NNS shares) )
+                (VP (VBN tendered) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS (NNS shareholders) ))
+                  (PP-LOC (IN on) 
+                    (NP (DT the) (NNP Paris) (NNP Stock) (NNP Exchange) ))))
+              (PP (IN at) 
+                (NP (DT the) (JJ same) (NN price) ))
+              (PP-TMP 
+                (PP (IN from) 
+                  (NP (NN today) ))
+                (PP (IN through) 
+                  (NP (NNP Nov.) (CD 17) ))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN bank) )
+    (VP (VBZ has) 
+      (NP (DT an) (NN option) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP 
+                (NP (DT a) 
+                  (ADJP (CD 30.84) (NN %) )
+                  (NN stake) )
+                (PP-LOC (IN in) 
+                  (NP (NNP BIP) )))
+              (PP-CLR (IN from) 
+                (NP (NNP Societe) (NNP Generale) ))
+              (PP-TMP (IN after) 
+                (NP (NNP Jan.) (CD 1) 
+                  (, ,)
+                  (CD 1990) ))
+              (PP (IN at) 
+                (NP 
+                  (NP (CD 1,015) (NNS francs) )
+                  (NP-ADV (DT a) (NN share) ))))))))
+    (. .) ))

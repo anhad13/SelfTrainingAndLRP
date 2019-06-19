@@ -1,0 +1,134 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (DT A) (JJ grand) (NN jury) )
+      (ADVP-LOC (RB here) ))
+    (VP (VBD indicted) 
+      (NP 
+        (NP 
+          (NP (NNP Norton) (NNP Co.) (POS 's) )
+          (JJ former) (NN director) )
+        (PP (IN of) 
+          (NP (NNS advanced-ceramics) (NN research) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG charging) 
+          (NP (PRP him) )
+          (PP-CLR (IN with) 
+            (NP 
+              (NP (NN interstate) (NN transportation) )
+              (PP (IN of) 
+                (NP (VBN stolen) (NN property) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Norton) )
+      (CC and) 
+      (NP (NNP General) (NNP Electric) (NNP Co.) ))
+    (NP-TMP (JJ last) (NN month) )
+    (VP (VBD filed) 
+      (NP (DT a) (NN lawsuit) )
+      (PP-CLR (IN against) 
+        (NP 
+          (NP (DT the) (JJ former) (NN research) (NN manager) )
+          (, ,) 
+          (NP (NNP Chien-Min) (NNP Sung) )
+          (, ,) ))
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG charging) 
+          (NP-2 (PRP him) )
+          (PP-CLR (IN with) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (VBG stealing) 
+                (NP (NN trade) (NNS secrets) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Sung) )
+    (ADVP-TMP (RB formerly) )
+    (VP (VBD worked) 
+      (PP-LOC (IN at) 
+        (NP (NNP General) (NNP Electric) ))
+      (PP (IN in) 
+        (NP 
+          (NP (NN research) )
+          (PP (IN on) 
+            (NP (JJ synthetic) (NNS diamonds) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ criminal) (NNS charges) )
+      (VP (VBN brought) 
+        (NP (-NONE- *) )
+        (PP-CLR (IN against) 
+          (NP (PRP him) ))))
+    (VP (VBN involved) 
+      (NP (NNP GE) (NN technology) )
+      (, ,) 
+      (PP (VBG according) 
+        (NP (DT the) (NN court) (NNS documents) )))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (VBN convicted) 
+          (NP (-NONE- *-2) ))))
+    (, ,) 
+    (NP-SBJ-1 (PRP he) )
+    (VP (MD could) 
+      (VP (VB be) 
+        (VP 
+          (VP (VBN imprisoned) 
+            (NP (-NONE- *-1) )
+            (PP-TMP (IN for) 
+              (NP 
+                (QP (IN up) (TO to) (CD 10) )
+                (NNS years) )))
+          (CC and) 
+          (VP (VBN fined) 
+            (NP (-NONE- *-1) )
+            (NP ($ $) (CD 250,000) (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Mr.) (NNP Sung) )
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-1) )
+          (PP-PRP (IN for) 
+            (NP (NN comment) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (ADVP-TMP (RB earlier) )
+    (VP (VBD denied) 
+      (NP 
+        (NP (DT the) (NNS allegations) )
+        (PP (IN against) 
+          (NP (PRP him) ))
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT the) (NN lawsuit) )
+            (PP (IN by) 
+              (NP (NNP Norton) 
+                (CC and)
+                (NNP GE) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Norton) )
+    (VP (VBZ makes) 
+      (NP 
+        (NP 
+          (NP (NN sandpaper) )
+          (CC and) 
+          (NP (JJ other) (NNS abrasives) ))
+        (, ,) 
+        (NP (NN diamond) (NNS tools) )
+        (, ,) 
+        (NP (JJ specialty) (NNS plastics) )
+        (CC and) 
+        (NP (NNS ceramics) )))
+    (. .) ))

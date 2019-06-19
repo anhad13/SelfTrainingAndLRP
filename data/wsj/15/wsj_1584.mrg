@@ -1,0 +1,56 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP British) (NNP Petroleum) (NNP Co.) (NNP PLC) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NNP BP) (NNP Exploration) (NN unit) )
+          (VP (VBZ has) 
+            (VP (VBN produced) 
+              (NP 
+                (NP (DT the) (JJ first) (NN oil) )
+                (PP (IN from) 
+                  (NP 
+                    (NP (PRP$ its) (NNP Don) (NN oilfield) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (NNP North) (NNP Sea) ))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT an) (JJ official) (NN release) ))
+    (, ,) 
+    (NP-SBJ (NNP BP) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ 
+              (NP (JJ initial) (NN production) )
+              (PP (IN from) 
+                (NP (DT the) (NN field) )))
+            (VP (VBD was) 
+              (NP-PRD 
+                (NP (CD 11,000) (NNS barrels) )
+                (NP-ADV (DT a) (NN day) )))))
+        (, ,) 
+        (CC and)
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ expects) 
+              (S 
+                (NP-SBJ-2 
+                  (NP (JJ peak) (NN output) )
+                  (PP (IN from) 
+                    (NP (DT the) (NN field) ))
+                  (PP (IN of) 
+                    (NP 
+                      (NP (CD 15,000) (NNS barrels) )
+                      (NP-ADV (DT a) (NN day) ))))
+                (VP (TO to) 
+                  (VP (VB be) 
+                    (VP (VBN reached) 
+                      (NP (-NONE- *-2) )
+                      (PP-TMP (IN in) 
+                        (NP (CD 1990) )))))))))))
+    (. .) ))

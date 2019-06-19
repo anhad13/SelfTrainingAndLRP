@@ -1,0 +1,66 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Luis) (NNP Nogales) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 45) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (VP (VBN elected) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (TO to) 
+            (NP 
+              (NP (DT the) (NN board) )
+              (PP (IN of) 
+                (NP (DT this) (NN brewer) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Nogales) )
+      (, ,) 
+      (NP 
+        (NP (JJ former) (NN president) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP United) (NNP Press) (NNP International) )
+            (CC and) 
+            (NP (DT the) (NNP Univision) (NNP Spanish-language) (NN network) ))))
+      (, ,) )
+    (ADVP-TMP (RBS most) (RB recently) )
+    (VP (VBD co-founded) 
+      (NP 
+        (NP (NNP Nogales) (NNP Castro) (NNPS Partners) )
+        (, ,) 
+        (NP (DT a) (JJ California-based) (NNS media) (NN acquisition) (NN firm) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Nogales) )
+      (, ,) 
+      (NP 
+        (NP (DT the) (RB first) (JJ Hispanic) (NN person) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB serve) 
+                (PP-CLR (IN as) 
+                  (NP (DT a) (NNP Coors) (NN director) ))))))))
+    (, ,) 
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT an) (NN addition) )
+        (PP (TO to) 
+          (NP (DT the) (NN board) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG increasing) 
+          (NP (PRP$ its) (NN membership) )
+          (PP-CLR (TO to) 
+            (NP (CD nine) )))))
+    (. .) ))

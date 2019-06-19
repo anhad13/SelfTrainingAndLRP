@@ -1,0 +1,98 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Keith) (NN A.) (NNP Tucker) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (NN insurance) 
+                (CC and)
+                (JJ financial) (NNS services) (NN concern) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Tucker) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 44) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP 
+          (NP (NN president) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Trivest) (NNPS Securities) (NNP Corp.) )
+              (NP (-NONE- *RNR*-1) ))))
+        (CC and) 
+        (NP 
+          (NP (JJ senior) (NN vice) (NN president) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Trivest) (NNP Inc.) )
+              (NP (-NONE- *RNR*-1) ))))
+        (, ,) 
+        (NP-1 
+          (NP 
+            (ADJP (RB closely) (JJ held) )
+            (NN investment) (NNS companies) )
+          (VP (VBN based) 
+            (NP (-NONE- *) )
+            (PP-LOC-CLR (IN in) 
+              (NP (NNP Miami) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP$ His) (NN selection) )
+    (VP (VBZ increases) 
+      (NP 
+        (NP (DT the) (NN size) )
+        (PP (IN of) 
+          (NP (DT the) (NN board) )))
+      (PP-DIR (TO to) 
+        (NP (CD 12) (NNS members) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Torchmark) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-2 
+            (NP (NNP Samuel) (NNP E.) (NNP Upchurch) (NNP Jr.) )
+            (, ,) 
+            (NP (CD 37) )
+            (, ,) 
+            (NP 
+              (NP (NN vice) (NN president) )
+              (CC and) 
+              (NP (JJ general) (NN counsel) ))
+            (, ,) )
+          (VP (VBD was) 
+            (VP (VBN selected) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB serve) 
+                    (NP 
+                      (NP (DT the) (NN remainder) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT the) (NN term) )
+                          (VP (VBN vacated) 
+                            (NP (-NONE- *) )
+                            (PP (IN by) 
+                              (NP-LGS 
+                                (NP (NNP John) (NNP S.P.) (NNP Samford) )
+                                (, ,) 
+                                (SBAR 
+                                  (WHNP-1 (WP who) )
+                                  (S 
+                                    (NP-SBJ (-NONE- *T*-1) )
+                                    (VP (VBD resigned) 
+                                      (PP-CLR (IN as) 
+                                        (NP (NN director) )))))))))))))))))))
+    (. .) ))

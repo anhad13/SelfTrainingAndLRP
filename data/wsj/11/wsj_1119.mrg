@@ -1,0 +1,47 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Roy) (NNP E.) (NNP Parrott) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (DT the) (NN company) (POS 's) )
+          (NX 
+            (NX (NN president) )
+            (CC and) 
+            (NX (NN chief) (NN operating) (NN officer) )))
+        (PP-TMP (IN since) 
+          (NP (NNP Sept.) (CD 1) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP (PRP$ its) (NN board) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN appointment) )
+    (VP (VBD increased) 
+      (NP 
+        (NP (DT the) (NN number) )
+        (PP (IN of) 
+          (NP (NNS directors) )))
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (CD 10) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 
+              (NP (CD three) )
+              (WHPP (IN of) 
+                (WHNP (WP whom) )))
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBP are) 
+                (NP-PRD (NN company) (NNS employees) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Simpson) )
+    (VP (VBZ is) 
+      (NP-PRD (DT an) (NN auto) (NNS parts) (NN maker) ))
+    (. .) ))

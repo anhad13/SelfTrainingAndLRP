@@ -1,0 +1,41 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP American) (NNP Stock) (NNP Exchange) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT a) (NN seat) )
+          (VP (VBD was) 
+            (VP (VBN sold) 
+              (NP (-NONE- *-1) )
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP ($ $) (CD 165,000) (-NONE- *U*) )
+                  (, ,) 
+                  (ADVP (JJ unchanged) 
+                    (PP (IN from) 
+                      (NP 
+                        (NP (DT the) (JJ previous) (NN sale) )
+                        (NP-TMP (NNP Oct.) (CD 13) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Seats) )
+      (PP-LOC (IN on) 
+        (NP (DT the) (NNP Amex) )))
+    (ADVP-TMP (RB currently) )
+    (VP (VBP are) 
+      (VP (VBN quoted) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN at) 
+          (NP 
+            (NP 
+              (NP ($ $) (CD 151,000) (-NONE- *U*) )
+              (VP (NN bid) 
+                (NP (-NONE- *) )))
+            (CC and) 
+            (NP 
+              (NP ($ $) (CD 200,000) (-NONE- *U*) )
+              (VP (VBN asked) 
+                (NP (-NONE- *) )))))))
+    (. .) ))

@@ -1,0 +1,80 @@
+
+( (S 
+    (NP-SBJ-1 (DT The) (NNP Treasury) )
+    (VP (NNS plans) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB raise) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 700) (CD million) )
+                (-NONE- *U*) )
+              (PP (IN in) 
+                (NP (JJ new) (NN cash) )))
+            (PP-MNR (IN with) 
+              (NP 
+                (NP (DT the) (NN sale) )
+                (NP-TMP (NNP Tuesday) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (QP (IN about) ($ $) (CD 10) (CD billion) )
+                      (-NONE- *U*) )
+                    (PP (IN in) 
+                      (NP (JJ two-year) (NNS notes) ))))
+                (SBAR 
+                  (WHADVP-3 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB redeem) 
+                        (NP 
+                          (NP 
+                            (QP ($ $) (CD 9.29) (CD billion) )
+                            (-NONE- *U*) )
+                          (PP (IN in) 
+                            (NP (VBG maturing) (NNS notes) )))
+                        (ADVP-MNR (-NONE- *T*-3) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN offering) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB be) 
+          (VP (VBN dated) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (NP-PRD (NNP Oct.) (CD 31) ))))
+        (CC and) 
+        (VP (VB mature) 
+          (NP-TMP (NNP Oct.) (CD 31) ))))
+    (, ,) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Tenders) )
+      (PP (IN for) 
+        (NP (DT the) (NNS notes) ))
+      (, ,) 
+      (ADJP (JJ available) 
+        (PP (IN in) 
+          (NP 
+            (ADJP 
+              (QP (JJ minimum) ($ $) (CD 5,000) )
+              (-NONE- *U*) )
+            (NNS denominations) )))
+      (, ,) )
+    (VP (MD must) 
+      (VP (VB be) 
+        (VP (VBN received) 
+          (NP (-NONE- *-1) )
+          (PP-TMP (IN by) 
+            (NP (CD 1) (RB p.m.) (NNP EDT) ))
+          (NP-TMP (NNP Tuesday) )
+          (PP-LOC 
+            (PP (IN at) 
+              (NP (DT the) (NNP Treasury) ))
+            (CC or) 
+            (PP (IN at) 
+              (NP (NNP Federal) (NNP Reserve) (NNS banks) (CC or) (NNS branches) ))))))
+    (. .) ))

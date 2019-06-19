@@ -1,0 +1,99 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Levi) (NNP Strauss) (NNPS Associates) (NNP Inc.) )
+      (, ,) 
+      (NP 
+        (NP (DT the) 
+          (ADJP (RB closely) (JJ held) )
+          (NN owner) )
+        (PP (IN of) 
+          (NP (NNP Levi) (NNP Strauss) (CC &) (NNP Co.) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP$ its) (JJ fiscal) (JJ third-quarter) (NNS earnings) )
+          (VP (VBD jumped) 
+            (PP-DIR (TO to) 
+              (NP 
+                (QP ($ $) (CD 128.6) (CD million) )
+                (-NONE- *U*) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 31.3) (CD million) )
+                  (-NONE- *U*) )
+                (ADVP-TMP 
+                  (NP (DT a) (NN year) )
+                  (RB earlier) )))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ-2 (-NONE- *-1) )
+              (VP (VBN aided) 
+                (NP (-NONE- *-2) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (DT a) 
+                      (ADJP 
+                        (QP ($ $) (CD 69.8) (CD million) )
+                        (-NONE- *U*) )
+                      (NN gain) )
+                    (PP (IN from) 
+                      (NP 
+                        (NP (DT the) (NN sale) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NN stock) )
+                            (PP (IN in) 
+                              (NP (DT a) (JJ Japanese) (NN subsidiary) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN apparel) (VBG holding) (NN company) )
+    (VP (VBD had) 
+      (NP 
+        (NP (NNS sales) )
+        (PP-TMP (IN in) 
+          (NP 
+            (NP (DT the) (NN quarter) )
+            (VP (VBN ended) 
+              (NP (-NONE- *) )
+              (NP-TMP-CLR (NNP Aug.) (CD 27) ))))
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 1) (CD billion) )
+              (-NONE- *U*) )
+            (, ,) 
+            (ADVP (RB up) 
+              (NP (CD 12) (NN %) )
+              (PP (IN from) 
+                (NP 
+                  (QP ($ $) (CD 908.8) (CD million) )
+                  (-NONE- *U*) )
+                (ADVP-TMP 
+                  (NP (DT a) (NN year) )
+                  (RB ago) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP$ its) (JJ quarterly) (NNS results) )
+          (VP (VBP are) 
+            (ADVP-TMP (RB now) )
+            (VP (VBG being) 
+              (ADVP-MNR (RB publicly) )
+              (VP (VBN filed) 
+                (NP (-NONE- *-1) )
+                (PP-PRP (IN as) 
+                  (NP 
+                    (NP (DT the) (NN result) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (NN formation) )
+                        (NP-TMP (RBR earlier) (DT this) (NN year) )
+                        (PP (IN of) 
+                          (NP (NN employee) (NN stock) (NN investment) (NNS plans) ))))))))))))
+    (. .) ))

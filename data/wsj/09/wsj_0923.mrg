@@ -1,0 +1,75 @@
+
+( (S 
+    (NP-SBJ (NNP Kyle) (NNP Technology) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT a) (NNP Seattle) (NN investor) )
+          (VP (VBZ has) 
+            (VP (VBN signed) 
+              (NP 
+                (NP (DT a) (NN letter) )
+                (PP (IN of) 
+                  (NP (NN intent) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB buy) 
+                          (NP (DT the) (NN company) )
+                          (PP-CLR (IN for) 
+                            (NP 
+                              (NP 
+                                (QP (IN about) ($ $) (CD 3.1) (CD million) )
+                                (-NONE- *U*) )
+                              (, ,) (CC or) 
+                              (NP 
+                                (NP ($ $) (CD 1.20) (-NONE- *U*) )
+                                (NP-ADV (DT a) (NN share) )))))))))))))))
+    (. .) ))
+((SINV 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (DT The) (NN investor) )
+        (, ,) 
+        (NP (NNP Donald) (NNP A.) (NNP Wright) )
+        (, ,) )
+      (VP (VBZ plans) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB run) 
+              (NP (DT the) (NN company) ))))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (NP-SBJ 
+      (NP (DT a) (NN spokesman) )
+      (PP (IN for) 
+        (NP (NNP Kyle) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN transaction) )
+    (VP 
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (VP (VBN approved) 
+            (NP (-NONE- *-1) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP (NNP Kyle) (POS 's) )
+                (NN board) )))))
+      (, ,) (CC but) 
+      (VP (VBZ requires) 
+        (NP 
+          (NP (DT the) (NN approval) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN company) (POS 's) )
+              (NNS shareholders) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Kyle) )
+    (VP (VBZ manufactures) 
+      (NP (JJ electronic) (NNS components) ))
+    (. .) ))

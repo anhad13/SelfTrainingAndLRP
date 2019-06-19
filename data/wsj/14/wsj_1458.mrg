@@ -1,0 +1,234 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (JJ long-running) (NN scandal) )
+      (VP (VBG surrounding) 
+        (NP 
+          (NP (DT the) (CD 1982) (NN collapse) )
+          (PP (IN of) 
+            (NP (NNP Banco) (NNP Ambrosiano) )))))
+    (VP (VBD was) 
+      (VP (VBN reignited) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT the) (NN arrest) )
+            (NP-TMP (JJ last) (NN week) )
+            (PP (IN of) 
+              (NP (NNP Rome) (NN businessman) (NNP Flavio) (NNP Carboni) ))
+            (PP (IN on) 
+              (NP (NN fraud) (NNS charges) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Rome) (NNS magistrates) )
+    (VP (VBP accuse) 
+      (NP-2 
+        (NP (NNP Mr.) (NNP Carboni) )
+        (CC and) 
+        (NP (JJ several) (JJ other) (NNS people) ))
+      (PP-CLR (IN of) 
+        (S-NOM 
+          (NP-SBJ-1 (-NONE- *-2) )
+          (VP (VBG trying) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB extort) 
+                  (NP 
+                    (NP 
+                      (QP (CD 1.2) (CD billion) )
+                      (NNS lire) )
+                    (PRN 
+                      (-LRB- -LRB-)
+                      (NP ($ $) (CD 880,000) (-NONE- *U*) )
+                      (-RRB- -RRB-) ))
+                  (PP-CLR (IN from) 
+                    (NP (DT the) (NNP Vatican) ))
+                  (PP (IN in) 
+                    (NP 
+                      (NP (NN return) )
+                      (PP (IN for) 
+                        (NP 
+                          (NP (NNS documents) )
+                          (VP (VBN contained) 
+                            (NP (-NONE- *) )
+                            (PP-LOC (IN in) 
+                              (NP 
+                                (NP (DT the) (NN briefcase) )
+                                (PP (IN of) 
+                                  (NP 
+                                    (NP (NNP Roberto) (NNP Calvi) )
+                                    (, ,) 
+                                    (NP 
+                                      (NP (DT the) (NNP Ambrosiano) (NN chairman) )
+                                      (VP (VBD found) 
+                                        (S 
+                                          (NP-SBJ (-NONE- *) )
+                                          (VP (VBN hanged) 
+                                            (PP-LOC (IN under) 
+                                              (NP 
+                                                (NP (NNP London) (POS 's) )
+                                                (NP (NNP Blackfriar) (POS 's) )
+                                                (NNP Bridge) ))
+                                            (PP-TMP (RB shortly) (IN before) 
+                                              (NP 
+                                                (NP (DT the) (NN bank) (POS 's) )
+                                                (NN collapse) ))))))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Banco) (NNP Ambrosiano) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD was) 
+            (NP-PRD 
+              (NP (NNP Italy) (POS 's) )
+              (JJS largest) (NN private-sector) (NN bank) ))))
+      (, ,) )
+    (VP (VBD collapsed) 
+      (PP-TMP (IN in) 
+        (NP (CD 1982) ))
+      (PP (IN with) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 1.3) (CD billion) )
+            (-NONE- *U*) )
+          (PP (IN of) 
+            (NP (NNS debts) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-3 
+      (NP (JJS Most) )
+      (PP (IN of) 
+        (NP (DT the) (NN money) )))
+    (VP (VBD was) 
+      (VP (VBN lent) 
+        (NP (-NONE- *-3) )
+        (PP-DTV (TO to) 
+          (NP 
+            (NP (DT a) (NN series) )
+            (PP (IN of) 
+              (NP 
+                (NP (JJ shell) (NNS companies) )
+                (PP-LOC (IN in) 
+                  (NP (NNP Panama) 
+                    (CC and)
+                    (NNP Luxembourg) ))
+                (SBAR 
+                  (WHNP-2 (WDT that) )
+                  (S 
+                    (NP-SBJ-1 (-NONE- *T*-2) )
+                    (VP (VBD were) 
+                      (VP (VBN owned) 
+                        (NP (-NONE- *-1) )
+                        (, ,) 
+                        (ADVP (RB directly) (CC or) (RB indirectly) )
+                        (, ,) 
+                        (PP (IN by) 
+                          (NP-LGS (DT the) (NNP Vatican) (NN bank) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP Vatican) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ denies) 
+            (NP (DT any) (NN wrongdoing) ))))
+      (, ,) )
+    (VP (VBD paid) 
+      (NP 
+        (QP ($ $) (CD 250) (CD million) )
+        (-NONE- *U*) )
+      (PP-DTV (TO to) 
+        (NP 
+          (NP (DT the) (NNP Milan) (NN bank) (POS 's) )
+          (NNS creditors) ))
+      (PP (IN as) 
+        (NP (DT a) (`` ``) (NN goodwill) (NN gesture) ('' '') ))
+      (PP-TMP (IN in) 
+        (NP (CD 1985) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Italian) (NN news) (NNS reports) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Mr.) (NNP Carboni) )
+            (CC and) 
+            (NP (DT a) (NN colleague) ))
+          (VP (VBD obtained) 
+            (NP 
+              (NP 
+                (QP (CD 1.2) (CD billion) )
+                (NNS lire) )
+              (PP (IN in) 
+                (NP (NNS checks) )))
+            (PP-CLR (IN from) 
+              (NP 
+                (NP (DT a) (NNP Vatican) (NN official) )
+                (, ,) 
+                (NP (NNP Pavel) (NNP Hnilica) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Italian) (NNS papers) )
+    (VP (VBD speculated) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN briefcase) )
+          (VP (VBD contained) 
+            (NP 
+              (NP (NNS papers) )
+              (VP (CC either) 
+                (VP (VBG exonerating) 
+                  (NP (DT the) (NNP Vatican) (NN bank) )
+                  (PP-CLR (IN from) 
+                    (NP 
+                      (NP (NN blame) )
+                      (PP (IN in) 
+                        (NP (DT the) (NN scandal) )))))
+                (, ,) (CC or) 
+                (VP (VBG showing) 
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ 
+                        (NP (DT the) (NN bank) )
+                        (, ,) 
+                        (VP (VBN known) 
+                          (NP (-NONE- *) )
+                          (PP-CLR (IN as) 
+                            (NP (DT the) (NNP Istituto) (FW per) (FW le) (NNP Opere) (FW di) (NNP Religione) )))
+                        (, ,) )
+                      (VP (VBD channeled) 
+                        (NP (NNS funds) )
+                        (PP-DIR (TO to) 
+                          (NP 
+                            (NP (JJ East) (NN bloc) (NNS groups) )
+                            (PP (JJ such) (IN as) 
+                              (NP 
+                                (NP (NNP Solidarity) )
+                                (PP-LOC (IN in) 
+                                  (NP (NNP Poland) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (CC Neither) 
+      (NP (NNP Mr.) (NNP Hnilica) )
+      (, ,) 
+      (NP (NNP Mr.) (NNP Carboni) )
+      (CC nor) 
+      (NP (JJ Vatican) (NNS officials) ))
+    (VP (MD could) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN for) 
+            (NP (NN comment) ))
+          (PP-TMP (IN over) 
+            (NP (DT the) (NN weekend) )))))
+    (. .) ))

@@ -1,0 +1,664 @@
+
+( (S 
+    (NP-SBJ (CD Two) (JJ Japanese) (NNS scientists) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBD discovered) 
+            (NP 
+              (NP (DT an) (NN antibody) )
+              (SBAR 
+                (WHNP-1 (IN that) )
+                (, ,) 
+                (S 
+                  (PP-LOC (IN in) 
+                    (NP (NN laboratory) (NN test-tube) (NNS experiments) ))
+                  (, ,) 
+                  (NP-SBJ-2 (-NONE- *T*-1) )
+                  (VP (VBZ kills) 
+                    (NP (JJ AIDS-infected) (NNS cells) )
+                    (SBAR-TMP (IN while) 
+                      (S 
+                        (NP-SBJ (-NONE- *-2) )
+                        (VP (VBG preserving) 
+                          (NP (JJ healthy) (NNS cells) ))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (JJ further) (NNS experiments) )
+        (VP (VBP are) 
+          (ADJP-PRD (JJ successful) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN work) )
+    (VP (MD would) 
+      (VP (VB represent) 
+        (NP 
+          (NP (DT a) (JJ major) (NN advance) )
+          (PP (IN in) 
+            (NP 
+              (NP (NN research) )
+              (PP (IN on) 
+                (NP (VBN acquired) (JJ immune) (NN deficiency) (NN syndrome) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN drug) (NNP AZT) )
+      (, ,) 
+      (NP 
+        (NP (DT the) (JJ only) (NN treatment) )
+        (RRC 
+          (ADVP-TMP (RB currently) )
+          (PP (IN on) 
+            (NP (DT the) (NN market) ))))
+      (, ,) )
+    (VP (VBZ claims) 
+      (S 
+        (NP-SBJ-3 (-NONE- *-1) )
+        (VP 
+          (ADVP (RB only) )
+          (VP (TO to) 
+            (VP (VB help) 
+              (S 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (VB stop) 
+                  (NP 
+                    (NP (DT the) (NN spread) )
+                    (PP (IN of) 
+                      (NP (NNP AIDS) )))))))
+          (, ,) (RB not) 
+          (VP (TO to) 
+            (VP (VB cure) 
+              (NP (PRP it) ))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP 
+        (NP (JJ several) (NNS analysts) )
+        (CC and) 
+        (NP (JJ Japanese) (NNS scientists) ))
+      (ADJP (JJ familiar) 
+        (PP (IN with) 
+          (NP 
+            (NP (DT the) (NN study) )
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (NP-SBJ-1 (-NONE- *T*-2) )
+                (VP (VBD was) 
+                  (VP (VBN announced) 
+                    (NP (-NONE- *-1) )
+                    (PP-LOC (IN at) 
+                      (NP 
+                        (NP (DT a) (NN conference) )
+                        (PP-LOC (IN in) 
+                          (NP (NNP Nagoya) ))))
+                    (NP-TMP (NN yesterday) )))))
+            (, ,) ))))
+    (VP (VBD expressed) 
+      (NP (NN skepticism) )
+      (PP-CLR (IN over) 
+        (NP 
+          (NP (DT the) (NN significance) )
+          (PP (IN of) 
+            (NP (DT the) (NNS results) )))))
+    (. .) ))
+( (S (CC And) 
+    (NP-SBJ 
+      (NP (DT the) (NNS researchers) )
+      (NP (PRP themselves) ))
+    (VP (VBD acknowledged) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (ADVP (RB still) )
+          (VP (MD must) 
+            (VP (VB do) 
+              (NP 
+                (ADJP (RB much) (JJR more) )
+                (NN work) )
+              (SBAR-TMP (IN before) 
+                (S 
+                  (NP-SBJ (PRP they) )
+                  (VP (MD can) 
+                    (VP (VB say) 
+                      (SBAR (IN whether) 
+                        (S 
+                          (NP-SBJ (DT the) (NN treatment) )
+                          (VP (MD would) 
+                            (ADVP (RB actually) )
+                            (VP (VB cure) 
+                              (NP (NNS humans) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Shin) (NNP Yonehara) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN research) (NN scientist) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (DT the) (NNP Tokyo) (NNP Metropolitan) (NNP Institute) )
+            (PP (IN of) 
+              (NP (NNP Medical) (NNP Science) )))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN antibody) )
+            (SBAR 
+              (WHNP-2 (-NONE- 0) )
+              (S 
+                (NP-SBJ (PRP he) )
+                (VP (VBD discovered) 
+                  (NP (-NONE- *T*-2) )))))
+          (VP (VBZ works) 
+            (PP-MNR (IN by) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG recognizing) 
+                  (NP 
+                    (NP (DT an) (NN antigen) )
+                    (VP (VBN called) 
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (NP-PRD (DT a) (NN Fas-antigen) )))
+                    (, ,) 
+                    (SBAR 
+                      (WHNP-1 (WDT which) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (VBZ is) 
+                          (ADJP-PRD (JJ characteristic) 
+                            (PP (IN of) 
+                              (NP (DT an) (JJ infected) (NN cell) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN antibody) )
+    (ADVP-TMP (RB then) )
+    (VP (VBZ kills) 
+      (NP (DT the) (NN cell) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Dr.) (NNP Yonehara) )
+      (CC and) 
+      (NP 
+        (NP (PRP$ his) (NN partner) )
+        (, ,) 
+        (NP 
+          (NP (NNP Nobuyuki) (NNP Kobayashi) )
+          (PP (IN of) 
+            (NP (NNP Yamaguchi) (NNP University) )))
+        (, ,) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ their) (NNS experiments) )
+          (VP (VBD showed) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ (DT the) (NN antibody) )
+                (VP (VBD wiped) 
+                  (PRT (RP out) )
+                  (NP 
+                    (NP (DT an) (NN average) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (CD 60) (NN %) )
+                        (PP (IN of) 
+                          (NP (JJ AIDS-infected) (NNS cells) )))))
+                  (PP-TMP (IN within) 
+                    (NP (CD three) (NNS days) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (PP-LOC (IN In) 
+        (NP 
+          (NP (DT some) )
+          (PP (IN of) 
+            (NP (DT the) (NNS experiments) ))))
+      (, ,) 
+      (NP-SBJ (PRP it) )
+      (VP (VBD killed) 
+        (NP 
+          (QP (RB almost) (PDT all) )
+          (DT the) (JJ infected) (NNS cells) )))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS researchers) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (ADVP (RB Meanwhile) )
+    (, ,) 
+    (NP-SBJ-1 
+      (NP 
+        (QP (JJR fewer) (IN than) (CD 10) )
+        (NN %) )
+      (PP (IN of) 
+        (NP (DT the) (JJ healthy) (NNS cells) )))
+    (VP (VBD were) 
+      (VP (VBN killed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (CD two) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (MD must) 
+            (VP 
+              (VP 
+                (ADVP (RB still) )
+                (VB do) 
+                (NP (JJR more) (NN laboratory) (NNS tests) ))
+              (, ,) (RB then) 
+              (VP (NN experiment) 
+                (PP-CLR (IN on) 
+                  (NP (NNS animals) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP they) )
+          (VP (VBD hoped) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB conduct) 
+                  (NP (NNS tests) )
+                  (PP-CLR (IN on) 
+                    (NP 
+                      (NP (JJ human) (NNS patients) )
+                      (PP-LOC (IN in) 
+                        (NP (DT the) (NNP U.S.) ))))
+                  (PP-TMP (IN by) 
+                    (NP (JJ late) (JJ next) (NN year) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (NNP Japan) )
+      (VP (VBZ does) (RB n't) 
+        (VP (VB have) 
+          (NP (JJ enough) (NNP AIDS) (NNS patients) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB do) 
+                  (NP (JJ significant) (NN experimentation) )
+                  (PP-LOC (IN in) 
+                    (NP (DT that) (NN country) )))))))))
+    (, ,) 
+    (NP-SBJ (PRP they) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN announcement) )
+    (VP 
+      (VP (VBD got) 
+        (NP (JJ wide) (NN exposure) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (JJ Japanese) (NNS media) )))
+      (, ,) 
+      (CC and)
+      (VP 
+        (ADVP (RB even) )
+        (VBD moved) 
+        (NP (DT some) (JJ pharmaceutical) (NNS stocks) )
+        (NP-TMP (NN yesterday) )))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (NNP Takashi) (NNP Kitamura) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (NN director) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN biology) (NN department) )
+              (PP-LOC (IN at) 
+                (NP 
+                  (NP 
+                    (NP (NNP Japan) (POS 's) )
+                    (NNP National) (NNP Institute) )
+                  (PP (IN of) 
+                    (NP (NNP Health) )))))))
+        (CC and) 
+        (NP 
+          (NP (NN secretary) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN government) (POS 's) )
+              (JJ AIDS-research) (NN center) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (, ,)
+      (`` ``) 
+      (S 
+        (NP-SBJ (PRP I) )
+        (VP (VBP 'm) (RB not) 
+          (ADJP-PRD (RB so) (JJ optimistic) 
+            (PP (IN of) 
+              (NP 
+                (NP (PRP$ its) (JJ future) (NN use) )
+                (PP-LOC (IN in) 
+                  (NP (JJ therapeutic) (NNS methods) ))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT some) (JJ infected) (NNS cells) )
+          (VP 
+            (VP (MD may) (RB not) 
+              (VP (VB have) 
+                (NP (DT the) (JJ relevant) (NN antigen) )))
+            (CC and) 
+            (VP 
+              (ADVP (RB so) )
+              (MD would) (RB n't) 
+              (VP (VB be) 
+                (VP (VBN killed) 
+                  (NP (-NONE- *-1) )
+                  (PP-TMP 
+                    (ADVP (RB even) )
+                    (IN after) 
+                    (NP 
+                      (NP (NN exposure) )
+                      (PP (TO to) 
+                        (NP (DT the) (NN antibody) )))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (NNS results) )
+      (VP (VBP seem) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (ADJP-PRD (RB very) (JJ premature) ))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP Mitsuru) (NNP Miyata) )
+      (, ,) 
+      (NP 
+        (NP (NN editor) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Nikkei) (NNP Biotechnology) )
+            (, ,) 
+            (NP (DT a) (VBG leading) (JJ Japanese) (NN industry) (NN newsletter) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Dr.) (NNP Kobayashi) )
+    (VP (VBD responded) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD thought) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (DT the) (NN antibody) )
+                (VP (MD could) 
+                  (ADVP (RB potentially) )
+                  (VP (VB kill) 
+                    (NP (DT all) (JJ infected) (NNS cells) )))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (PRP he) )
+      (CC and) 
+      (NP (NNP Dr.) (NNP Yonehara) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (EX there) )
+          (VP (VBD were) 
+            (ADVP (RB still) )
+            (NP-PRD 
+              (NP (JJ several) (NNS uncertainties) )
+              (, ,) 
+              (RRC 
+                (ADVP (RB particularly) )
+                (PP (VBG regarding) 
+                  (NP (JJ possible) (NN side) (NNS effects) ))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (PRP$ Our) (NN antibody) )
+        (VP 
+          (ADVP (RB specifically) )
+          (VBD killed) 
+          (NP (JJ infected) (NNS cells) )
+          (PP-MNR (IN at) 
+            (NP (DT a) 
+              (ADJP (RB very) (JJ low) )
+              (NN dose) ))))
+      (, ,) (CC but) 
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP (MD can) 
+          (ADVP (RB also) )
+          (VP (VB kill) 
+            (NP (JJ other) (NNS cells) )))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (NNP Dr.) (NNP Yonehara) )
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (PRP We) )
+    (VP (VBP do) (RB n't) 
+      (VP (VB know) 
+        (NP 
+          (NP (DT the) (NN effect) )
+          (PP (IN of) 
+            (NP (PRP$ our) (NN antibody) ))
+          (PP (IN on) 
+            (NP (DT the) (JJ human) (NN body) )))))
+    (. .) ('' '') ))
+( (S 
+    (S 
+      (NP-SBJ-1 (NNP AIDS) )
+      (VP (VBZ is) (RB n't) 
+        (VP (VBN considered) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (NP-PRD 
+              (NP (DT a) (JJ widespread) (NN problem) )
+              (PP-LOC (IN in) 
+                (NP (NNP Japan) )))))))
+    (: --) 
+    (S 
+      (NP-SBJ (DT the) (NN government) )
+      (VP (VBZ reports) 
+        (NP 
+          (NP 
+            (QP (IN about) (CD 1,000) )
+            (VBN known) (NNS carriers) )
+          (PP (IN of) 
+            (NP (DT the) (NN virus) )))))
+    (: --) (CC but) 
+    (S 
+      (NP-SBJ-2 (JJ many) (NNS companies) )
+      (VP (VBP have) 
+        (VP (VBN poured) 
+          (NP (JJ substantial) (NNS resources) )
+          (PP-CLR (IN into) 
+            (NP (NN research) ))
+          (PP-TMP (IN in) 
+            (NP (JJ recent) (NNS years) ))
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ-3 (-NONE- *-2) )
+            (VP (VBG hoping) 
+              (S 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (TO to) 
+                  (VP (VB cash) 
+                    (PRT (RP in) )
+                    (PP-CLR (IN on) 
+                      (NP (DT a) (JJ possible) (NN cure) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Dr.) (NNP Kitamura) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ 
+              (QP (IN about) (CD 35) )
+              (NNS projects) )
+            (VP (VBP are) 
+              (ADVP-TMP (RB currently) )
+              (PP-PRD (IN under) 
+                (NP (NN way) ))
+              (PP-LOC (IN in) 
+                (NP (NNP Japan) )))))
+        (, ,) 
+        (CC and)
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (JJ Japanese) (NNS researchers) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ past) (NN year) )))
+            (VP (VBP have) 
+              (VP (VBN made) 
+                (S 
+                  (ADJP-PRD (JJ available) 
+                    (PP (-NONE- *ICH*-1) )
+                    (PP (-NONE- *ICH*-2) ))
+                  (NP-SBJ (CD three) (JJ possible) (NNS cures) )
+                  (PP-1 (TO to) 
+                    (NP (JJ American) (NNS researchers) ))
+                  (PP-2 (IN for) 
+                    (NP (JJ clinical) (NNS tests) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (SBAR-TMP 
+            (WHADVP-1 (WRB when) )
+            (S 
+              (NP-SBJ 
+                (NP (NNS scientists) )
+                (PP (IN from) 
+                  (NP (DT the) (CD two) (NNS countries) )))
+              (VP (VBP meet) 
+                (ADVP (RB again) )
+                (PP-TMP (IN in) 
+                  (NP (NNP January) ))
+                (PP-LOC (IN in) 
+                  (NP (NNP New) (NNP Orleans) ))
+                (ADVP-TMP (-NONE- *T*-1) ))))
+          (, ,) 
+          (NP-SBJ (DT the) (NNP Japanese) )
+          (VP (MD will) 
+            (VP (VB present) 
+              (NP 
+                (ADJP 
+                  (QP (IN at) (JJS least) (CD three) )
+                  (JJR more) )
+                (NNS drugs) )
+              (PP-CLR (IN for) 
+                (NP (JJ human) (NN testing) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP AZT) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP 
+          (NP (DT the) (NN world) (POS 's) )
+          (JJ only) (NN prescription) (NN medicine) )
+        (VP (VBN approved) 
+          (NP (-NONE- *) )
+          (PP-CLR (IN for) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG treating) 
+                (NP (DT the) (NN disease) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Wellcome) (NNP PLC) )
+      (, ,) 
+      (NP (DT a) (JJ major) (JJ British) (NN pharmaceutical) (NN maker) )
+      (, ,) )
+    (VP (VBZ sells) 
+      (NP (DT the) (NN drug) )
+      (PP-MNR (IN under) 
+        (NP 
+          (NP (DT the) (NN name) )
+          (NP (NNP Retrovir) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT A) (NNP Wellcome) (NN spokesman) )
+    (VP (VBD declined) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB comment) 
+            (PP-CLR (IN on) 
+              (NP 
+                (NP (DT the) (NN discovery) )
+                (PP (IN of) 
+                  (NP (DT the) (NN antibody) ))
+                (PP-LOC (IN in) 
+                  (NP (NNP Japan) ))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (NNP Andrew) (NNP Porter) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN drug-industry) (NN analyst) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (NNP Nikko) (NNPS Securities) (NNP Co.) )
+            (PP-LOC (IN in) 
+              (NP (NNP London) )))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (SBAR-ADV (IN if) 
+            (S 
+              (NP-SBJ-2 (DT the) (NN product) )
+              (VP (VBD were) 
+                (S 
+                  (NP-SBJ-1 (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB be) 
+                      (VP 
+                        (ADVP-MNR (RB successfully) )
+                        (VBN developed) 
+                        (NP (-NONE- *-1) ))))))))
+          (NP-SBJ (PRP it) )
+          (VP (MD would) 
+            (VP (VB represent) (`` ``) 
+              (NP 
+                (NP (DT a) (JJ potential) (NN threat) )
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT the) (JJ long-term) (NN viability) )
+                    (PP (IN of) 
+                      (NP (NNP Retrovir) ))))))))))
+    (. .) ))

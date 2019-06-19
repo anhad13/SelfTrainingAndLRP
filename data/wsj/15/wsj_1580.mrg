@@ -1,0 +1,30 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Richard) (NNP J.) (NNP Pinola) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (NN board) )
+            (PP (IN of) 
+              (NP (DT this) (NNS personnel) (NN consulting) (NN concern) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG increasing) 
+            (NP (PRP$ its) (NN size) )
+            (PP-CLR (TO to) 
+              (NP (CD nine) (NNS members) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Pinola) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP 
+          (NP (NN president) )
+          (CC and) 
+          (NP (JJ chief) (VBG operating) (NN officer) ))
+        (PP (IN of) 
+          (NP (NNP Penn) (NNP Mutual) (NNP Life) (NNP Insurance) (NNP Co) ))))
+    (. .) ))

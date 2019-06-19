@@ -1,0 +1,175 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Dunkin) ('' ') (NNP Donuts) (NNP Inc.) )
+      (, ,) 
+      (VP (VBG battling) 
+        (NP 
+          (NP (DT a) (NN takeover) (NN proposal) )
+          (PP (IN by) 
+            (NP 
+              (NP (NNP Canada) (POS 's) )
+              (NNP DD) (NNP Acquisition) (NNP Corp.) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP$ its) (NNS directors) )
+          (VP (MD will) 
+            (VP (VB evaluate) 
+              (NP 
+                (NP (NN takeover) (NNS offers) )
+                (VP (VBN submitted) 
+                  (NP (-NONE- *) )
+                  (PP-TMP (IN by) 
+                    (NP (NNP Nov.) (CD 10) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Dunkin) ('' ') (NNP Donuts) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Randolph) )
+            (, ,) 
+            (NP (NNP Mass.) ))))
+      (, ,) )
+    (ADVP-TMP (RB previously) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP 
+            (VP (MD would) 
+              (VP (VB explore) 
+                (NP (`` ``) 
+                  (NP (NNS alternatives) )
+                  (, ,) ('' '') 
+                  (PP (VBG including) 
+                    (NP 
+                      (NP (DT a) (JJ leveraged) (NN buy-out) )
+                      (PP (IN of) 
+                        (NP (DT the) (NN company) )))))))
+            (, ,) (CC but) 
+            (VP (VBD had) (RB n't) 
+              (VP (VBN set) 
+                (NP 
+                  (NP (DT a) (NN date) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (NN submission) )
+                      (PP (IN of) 
+                        (NP (NNS proposals) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Dunkin) ('' ') (NNP Donuts) (NNP Chairman) 
+        (CC and)
+        (NNP Chief) (NNP Executive) (NNP Robert) (NNP M.) (NNP Rosenberg) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) (`` ``) 
+          (S 
+            (NP-SBJ (DT a) (NN sale) )
+            (VP (VBZ is) 
+              (NP-PRD 
+                (NP (CD one) (NN alternative) )
+                (VP (VBG being) 
+                  (VP (VBN considered) 
+                    (NP (-NONE- *) )))))))))
+    (, ,) ('' '') (CC but) 
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP (VBD added) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) (NN board) )
+            (VP (VBZ has) (RB n't) 
+              (VP (VBD decided) 
+                (SBAR (IN whether) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB sell) 
+                        (NP (DT the) (NN doughnut) (NN franchiser) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP DD) (NNP Acquisition) )
+      (, ,) 
+      (VP 
+        (ADVP-MNR (RB jointly) )
+        (VBN owned) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP 
+              (NP (NNP Unicorp) (NNP Canada) (NNP Corp.) (POS 's) )
+              (NNP Kingsbridge) (NNP Capital) (NNP Group) (NN unit) )
+            (CC and) 
+            (NP (NNP Cara) (NNP Operations) (NNP Ltd.) ))))
+      (, ,) )
+    (VP (VBZ has) 
+      (VP (VBN made) 
+        (NP 
+          (NP (DT a) 
+            (ADJP ($ $) (JJ 45-a-share) (-NONE- *U*) )
+            (NN tender) (NN offer) )
+          (VP (VBN valued) 
+            (NP (-NONE- *) )
+            (PP-CLR (IN at) 
+              (NP 
+                (QP ($ $) (CD 268) (CD million) )
+                (-NONE- *U*) )))
+          (PP (IN for) 
+            (NP (NNP Dunkin) ('' ') (NNP Donuts) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Dunkin) ('' ') (NNP Donuts) (POS ') )
+      (NN announcement) )
+    (VP (VBD followed) 
+      (NP 
+        (NP 
+          (NP (NNP DD) (NNP Acquisition) (POS 's) )
+          (NN request) 
+          (S (-NONE- *ICH*-1) ))
+        (PP (TO to) 
+          (NP 
+            (NP (DT the) (NNP Delaware) (NNP Court) )
+            (PP (IN of) 
+              (NP (NNP Chancery) )))))
+      (NP-TMP (NNP Monday) )
+      (S-1 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB set) 
+            (NP (DT a) (NN trial) (NN date) )
+            (PP (IN for) 
+              (NP 
+                (NP (PRP$ its) (NN suit) )
+                (PP (IN against) 
+                  (NP (DT the) (NN company) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN trial) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (VP (VBN postponed) 
+          (NP (-NONE- *-1) )
+          (S-PRP 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB allow) 
+                (S 
+                  (NP-SBJ (NNP Dunkin) ('' ') (NNP Donuts) )
+                  (VP (TO to) 
+                    (VP (VB seek) 
+                      (NP 
+                        (NP (NNS alternatives) )
+                        (PP (TO to) 
+                          (NP 
+                            (NP (NNP DD) (NNP Acquisition) (POS 's) )
+                            (NN offer) ))))))))))))
+    (. .) ))

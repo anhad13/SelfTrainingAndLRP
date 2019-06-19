@@ -1,0 +1,202 @@
+
+( (S 
+    (NP-SBJ (DT A) (NN state) (NN appellate) (NN court) )
+    (VP (VBD reinstated) 
+      (NP 
+        (NP 
+          (NP (DT the) (CD 1987) (NNS convictions) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Pymm) (NNP Thermometer) (NNP Corp.) )
+              (CC and) 
+              (NP 
+                (NP (CD two) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (NNS executives) ))))))
+        (PP (IN on) 
+          (NP 
+            (NP (NNS charges) )
+            (PP (IN of) 
+              (NP (NN assault) ))
+            (PP (IN for) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG exposing) 
+                  (NP (NNS workers) )
+                  (PP-CLR (TO to) 
+                    (NP (JJ toxic) (NN mercury) (NNS vapors) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN indictment) )
+    (VP (VBD charged) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (NNP Pymm) )
+          (VP (VBD operated) 
+            (NP 
+              (NP (DT a) (NN machine) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (TO to) 
+                    (VP 
+                      (VP (VB crush) 
+                        (NP (JJ broken) (NNS thermometers) ))
+                      (CC and) 
+                      (VP (VB recover) 
+                        (NP (DT the) (NN mercury) )))))))
+            (PP-LOC (IN in) 
+              (NP (DT an) (JJ illegal) (NN workroom) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS charges) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (CD one) (NN worker) )
+          (VP (VBD suffered) 
+            (NP (JJ permanent) (NN brain) (NN damage) )
+            (PP-CLR (IN from) 
+              (NP (NN mercury) (NN exposure) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (DT The) (NN judge) )
+      (VP (VBG handling) 
+        (NP (DT the) (NN case) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NN state) (NNP Supreme) (NNP Court) )
+            (, ,) 
+            (NP (DT a) (NN trial) (NN court) )
+            (, ,) ))))
+    (VP (VBD had) 
+      (VP (VBN tossed) 
+        (PRT (RP out) )
+        (NP (DT the) (NN jury) (NNS verdicts) )
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (VBG ruling) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ-3 (DT the) (NN matter) )
+                (VP (MD should) 
+                  (VP (VB have) 
+                    (VP (VBN been) 
+                      (VP (VBN handled) 
+                        (NP (-NONE- *-3) )
+                        (PP-LOC (IN under) 
+                          (NP (JJ federal) (NNP Occupational) (NNP Safety) 
+                            (CC and)
+                            (NNP Health) (NNP Administration) (NNS rules) ))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT the) (NNP Appellate) (NNP Division) )
+      (PP (IN of) 
+        (NP (NNP State) (NNP Supreme) (NNP Court) )))
+    (VP (VBD held) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT that) (JJ federal) (NN law) )
+          (VP (VBD did) (RB n't) 
+            (VP (VB pre-empt) 
+              (NP (DT the) (NNS states) )
+              (PP-CLR (IN from) 
+                (NP (JJ such) (DT a) (NN prosecution) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Elizabeth) (NNP Holtzman) )
+      (, ,) 
+      (NP 
+        (NP (NN district) (NN attorney) )
+        (PP (IN for) 
+          (NP 
+            (NP (NNP Brooklyn) )
+            (, ,) 
+            (NP (NNP N.Y.) )
+            (, ,) ))))
+    (VP (VBD said) 
+      (, ,)
+      (S (`` ``) 
+        (NP-SBJ (DT The) (NN appellate) (NN division) )
+        (VP (VBZ has) 
+          (VP (VBN agreed) 
+            (PP-CLR (IN with) 
+              (NP (PRP$ our) (NN view) 
+                (SBAR (IN that) 
+                  (S 
+                    (PP (IN despite) 
+                      (NP (JJ federal) (NN worker-safety) (NNS laws) ))
+                    (, ,) 
+                    (NP-SBJ (NN state) (NNS prosecutors) )
+                    (VP (VBP have) 
+                      (NP (DT the) (NN power) 
+                        (S 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (TO to) 
+                            (VP (VB protect) 
+                              (NP (VBG working) (NNS people) ))))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Lawyers) )
+      (PP (IN for) 
+        (NP (DT the) (NN company) 
+          (CC and)
+          (NNS executives) )))
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN for) 
+            (NP (NN comment) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS executives) )
+    (VP (VBP face) 
+      (NP 
+        (NP 
+          (NP 
+            (QP (CD five) (TO to) (CD 15) )
+            (NNS years) )
+          (PP-LOC (IN in) 
+            (NP (NN prison) )))
+        (CC and) 
+        (NP 
+          (NP (NNS fines) )
+          (PP (IN of) 
+            (NP 
+              (NP ($ $) (CD 5,000) (-NONE- *U*) )
+              (CC or) 
+              (NP 
+                (NP (JJ double) (DT the) (NN profit) )
+                (VP (VBN made) 
+                  (NP (-NONE- *) )
+                  (PP-MNR (IN by) 
+                    (S-NOM 
+                      (NP-SBJ-1 (-NONE- *) )
+                      (VP (VBG failing) 
+                        (S 
+                          (NP-SBJ (-NONE- *-1) )
+                          (VP (TO to) 
+                            (VP (VB comply) 
+                              (PP-CLR (IN with) 
+                                (NP (DT the) (NNS rules) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN company) )
+    (VP (MD could) 
+      (VP (VB be) 
+        (VP (VBN fined) 
+          (NP (-NONE- *-1) )
+          (NP 
+            (NP 
+              (QP (DT a) (NN maximum) (IN of) ($ $) (CD 10,000) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP (JJ double) (DT the) (NN profit) )))))
+    (. .) ))

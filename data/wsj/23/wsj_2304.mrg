@@ -1,0 +1,57 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (JJ Canadian) (NN steel-ingot) (NN production) )
+      (VP (VBD totaled) 
+        (NP (CD 291,890) (JJ metric) (NNS tons) )
+        (PP-TMP (IN in) 
+          (NP 
+            (NP (DT the) (NN week) )
+            (VP (VBN ended) 
+              (NP-TMP (NNP Oct.) (CD 7) ))))
+        (, ,) 
+        (ADVP (RB up) 
+          (NP (CD 14.8) (NN %) )
+          (PP (IN from) 
+            (NP 
+              (NP 
+                (NP (DT the) (JJ preceding) (NN week) (POS 's) )
+                (NN total) )
+              (PP (IN of) 
+                (NP (CD 254,280) (NNS tons) )))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Statistics) (NNP Canada) )
+      (, ,) 
+      (NP (DT a) (JJ federal) (NN agency) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN week) (POS 's) )
+      (NN total) )
+    (VP (VBD was) 
+      (ADVP-PRD (RB up) 
+        (NP (CD 6.2) (NN %) )
+        (PP (IN from) 
+          (NP (CD 274,963) (NNS tons) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ year-to-date) (NN total) )
+    (VP (VBD was) 
+      (NP-PRD (CD 12,006,883) (NNS tons) )
+      (, ,) 
+      (ADVP (RB up) 
+        (NP (CD 7.8) (NN %) )
+        (PP (IN from) 
+          (NP (CD 11,141,711) (NNS tons) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (. .) ))

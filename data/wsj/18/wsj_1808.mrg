@@ -1,0 +1,80 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Champion) (NNP International) (NNP Corp.) (POS 's) )
+      (NN third-quarter) (NN profit) )
+    (VP (VBD dropped) 
+      (NP-EXT (CD 17) (NN %) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG reflecting) 
+          (NP 
+            (NP 
+              (NP (NN price) (NNS declines) )
+              (PP (IN for) 
+                (NP (JJ certain) (NN paper) (NNS products) )))
+            (, ,) 
+            (NP 
+              (NP (VBG operating) (NNS problems) )
+              (PP-LOC (IN at) 
+                (NP (JJ certain) (NNS mills) )))
+            (, ,) 
+            (CC and)
+            (NP (JJ other) (NNS factors) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN paper) (NN producer) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT that) (JJ net) (NN income) )
+          (VP (VBD fell) 
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 102.1) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP ($ $) (CD 1.09) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 122.4) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP ($ $) (CD 1.29) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ year-earlier) (NN period) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 2.6) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 1.32) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 1.29) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Champion) (POS 's) )
+      (NNS shares) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 25) (NNS cents) )
+      (PP-DIR (TO to) 
+        (NP ($ $) (CD 32.125) (-NONE- *U*) )))
+    (. .) ))

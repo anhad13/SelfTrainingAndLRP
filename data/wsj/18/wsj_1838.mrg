@@ -1,0 +1,40 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Gen.) (NNP Paul) (NNP X.) (NNP Kelley) )
+      (, ,) 
+      (NP 
+        (NP (JJ retired) (NN commandant) )
+        (PP (IN of) 
+          (NP (DT the) (NNP U.S.) (NNP Marine) (NNP Corps) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (NNS plastics) 
+                (, ,)
+                (NN specialty) (NNS materials) 
+                (CC and)
+                (NN aerospace) (NN concern) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG succeeding) 
+            (NP 
+              (NP (NNP Jewel) (NNP Lafontant) )
+              (, ,) 
+              (SBAR 
+                (WHNP-2 (WP who) )
+                (S 
+                  (NP-SBJ-3 (-NONE- *T*-2) )
+                  (VP (VBD resigned) 
+                    (S-PRP 
+                      (NP-SBJ (-NONE- *-3) )
+                      (VP (TO to) 
+                        (VP (VB accept) 
+                          (NP (DT a) (NN government) (NN position) ))))))))))))
+    (. .) ))

@@ -1,0 +1,128 @@
+
+( (S 
+    (NP-SBJ (NNP AVON) (NNP RENT-A-CAR) (CC &) (NNP TRUCK) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD declared) 
+            (NP 
+              (NP (DT a) (NN dividend) )
+              (PP (IN of) 
+                (NP 
+                  (NP (CD one) (NN warrant) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (DT each) (CD three) (NNS shares) )
+                      (PP (IN of) 
+                        (NP (JJ common) (NN stock) )))))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Currently) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Avon) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP Santa) (NNP Monica) )
+            (, ,) 
+            (NP (NNP Calif.) )
+            (, ,) ))))
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (QP (CD 3.3) (CD million) )
+          (JJ common) (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (QP (IN About) (CD 1.1) (CD million) )
+        (NNP Class) (NNP C) (NNS warrants) )
+      (VP (VBD were) 
+        (VP (VBN issued) 
+          (NP (-NONE- *-1) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT Each) )
+      (PP (IN of) 
+        (NP (DT the) (NNP Class) (NNP C) (NNS warrants) )))
+    (VP (MD will) 
+      (VP (VB enable) 
+        (S 
+          (NP-SBJ (DT the) (NNS holders) )
+          (VP (TO to) 
+            (VP (VB purchase) 
+              (NP 
+                (NP (CD one) (NN share) )
+                (PP (IN of) 
+                  (NP (JJ common) (NN stock) )))
+              (PP-CLR (IN at) 
+                (NP ($ $) (CD 5.50) (-NONE- *U*) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS warrants) )
+    (VP (MD may) 
+      (VP (VB be) 
+        (VP (VBN exercised) 
+          (NP (-NONE- *-1) )
+          (PP-TMP (IN until) 
+            (PP 
+              (NP-ADV (CD 90) (NNS days) )
+              (IN after) 
+              (NP (PRP$ their) (NN issue) (NN date) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Avon) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB issue) 
+              (NP 
+                (NP (DT an) (JJ additional) (CD 243,677) )
+                (PP (IN of) 
+                  (NP (DT the) (NN Class) (NNP C) (NNS warrants) )))
+              (PP-DTV (TO to) 
+                (NP 
+                  (NP (NNS holders) )
+                  (PP (IN of) 
+                    (NP (PRP$ its) 
+                      (UCP (NN Class) (DT A) 
+                        (, ,)
+                        (NN Class) (NNP B) 
+                        (CC and)
+                        (JJ unclassified) )
+                      (NNS warrants) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Issuance) )
+      (PP (IN of) 
+        (NP (DT those) (NNS warrants) )))
+    (VP (MD will) 
+      (VP (VB be) 
+        (PP-PRD (IN at) 
+          (NP 
+            (NP (DT the) (NN rate) )
+            (PP (IN of) 
+              (NP 
+                (NP (NN one-third) (NN warrant) )
+                (PP (IN for) 
+                  (NP 
+                    (NP (DT each) (NN warrant) )
+                    (VP (VBN exercised) 
+                      (NP (-NONE- *) ))))))))))
+    (. .) ))

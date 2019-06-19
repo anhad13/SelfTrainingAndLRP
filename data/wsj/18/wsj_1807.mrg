@@ -1,0 +1,48 @@
+
+( (S 
+    (NP-SBJ (NNP Mellon) (NNP Bank) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNS directors) )
+          (VP (VBD authorized) 
+            (NP 
+              (NP (DT the) (NN buy-back) )
+              (PP (IN of) 
+                (NP 
+                  (QP (RB as) (JJ many) (IN as) (CD 250,000) )
+                  (JJ common) (NNS shares) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN bank) (VBG holding) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (NN stock) )
+            (VP (VBN repurchased) 
+              (NP (-NONE- *) )))
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBN used) 
+                (NP (-NONE- *-1) )
+                (S-CLR 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB meet) 
+                      (NP 
+                        (NP (NNS requirements) )
+                        (PP (IN for) 
+                          (NP 
+                            (NP (DT the) (NN company) (POS 's) )
+                            (NN benefit) (NNS plans) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mellon) )
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (QP (CD 36.6) (CD million) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))

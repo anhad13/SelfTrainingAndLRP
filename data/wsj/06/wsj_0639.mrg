@@ -1,0 +1,140 @@
+
+( (S 
+    (NP-SBJ (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD applied) 
+            (PP-CLR (TO to) 
+              (NP (JJ Taiwanese) (NNS securities) (NNS officials) ))
+            (PP-CLR (IN for) 
+              (NP (NN permission) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB open) 
+                      (NP (NN brokerage) (NNS offices) )
+                      (PP-LOC (IN in) 
+                        (NP (NNP Taipei) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Shearson) (POS 's) )
+      (NN application) )
+    (VP (VBZ is) 
+      (NP-PRD (DT the) (JJ first) )
+      (SBAR-TMP (IN since) 
+        (S 
+          (NP-SBJ (DT the) (NNP Taiwan) (NNPS Securities) 
+            (CC and)
+            (NNP Exchange) (NNP Commission) )
+          (VP (VBD announced) 
+            (NP-TMP (NNP June) (CD 21) )
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (MD would) 
+                  (VP (VB allow) 
+                    (S 
+                      (NP-SBJ (JJ foreign) (NN brokerage) (NNS firms) )
+                      (VP (TO to) 
+                        (VP (VB do) 
+                          (NP (NN business) )
+                          (PP-LOC (IN in) 
+                            (NP (DT that) (NN country) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Taiwan) (NNS officials) )
+    (VP (VBP are) 
+      (VP (VBN expected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB review) 
+              (NP (DT the) (NNP Shearson) (NN application) )
+              (NP-TMP (RB later) (DT this) (NN year) ))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (JJ current) (NNS rules) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNS investors) )
+      (PP-LOC (IN in) 
+        (NP (NNP Taiwan) )))
+    (VP (MD can) 
+      (VP (VB buy) 
+        (NP (JJ overseas) (NNS stocks) )
+        (PP-CLR 
+          (ADVP (RB only) )
+          (IN through) 
+          (NP 
+            (NP (DT the) (NN purchase) )
+            (PP (IN of) 
+              (NP 
+                (NP (JJ mutual) (NNS funds) )
+                (VP (VBN issued) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS 
+                      (ADJP (JJ local) 
+                        (CC and)
+                        (JJ foreign) )
+                      (NN investment) (NNS trusts) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ new) (NNS rules) )
+    (VP (MD will) 
+      (VP (VB allow) 
+        (S 
+          (NP-SBJ (NNS investors) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP (JJ foreign) (NNS stocks) )
+              (ADVP-MNR (RB directly) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN spokesman) )
+      (PP (IN for) 
+        (NP (NNP Shearson) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN brokerage) (NN service) )
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBN directed) 
+                (NP (-NONE- *-1) )
+                (PP-CLR (IN at) 
+                  (NP 
+                    (NP (JJ individual) (NNS investors) )
+                    (SBAR 
+                      (WHNP-2 (WP who) )
+                      (S 
+                        (NP-SBJ-3 (-NONE- *T*-2) )
+                        (VP (VBP want) 
+                          (S 
+                            (NP-SBJ (-NONE- *-3) )
+                            (VP (TO to) 
+                              (VP (VB buy) 
+                                (NP 
+                                  (ADJP (JJ foreign) 
+                                    (CC and)
+                                    (JJ domestic) )
+                                  (NNS stocks) )))))))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ 's) 
+        (NP-PRD 
+          (NP (DT an) (JJ attractive) (NN market) )
+          (PP (IN with) 
+            (NP (JJ good) (NN growth) (NNS opportunities) )))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD added) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))

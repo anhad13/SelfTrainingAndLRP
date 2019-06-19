@@ -1,0 +1,68 @@
+
+( (S 
+    (NP-SBJ (NNP Northern) (NNP Trust) (NNP Corp.) )
+    (VP 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP$ its) (NN board) )
+            (VP (VBD adopted) 
+              (NP 
+                (NP (DT a) (NN shareholder) (NNS rights) (NN plan) )
+                (VP (VBN aimed) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN at) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG deterring) 
+                        (NP (JJ unwanted) (NN takeover) (NNS bids) ))))))))))
+      (, ,) (CC but) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ 's) (RB not) 
+              (ADJP-PRD (JJ aware) 
+                (PP (IN of) 
+                  (NP (DT any) (NN plan) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB acquire) 
+                          (NP (DT the) (NN banking) (NN concern) ))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP 
+        (NP (NNP Northern) (NNP Trust) (POS 's) )
+        (NN plan) ))
+    (, ,) 
+    (NP-SBJ-1 (NNS shareholders) )
+    (VP (VBD were) 
+      (VP (VBN issued) 
+        (NP (-NONE- *-1) )
+        (NP 
+          (NP (NNS rights) )
+          (SBAR 
+            (WHNP-2 (IN that) )
+            (, ,) 
+            (S 
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (DT the) (NN event) )
+                  (PP (IN of) 
+                    (NP (JJ certain) (VBN attempted) (NNS takeovers) ))))
+              (, ,) 
+              (NP-SBJ (-NONE- *T*-2) )
+              (VP (VBP allow) 
+                (S 
+                  (NP-SBJ (NNS holders) )
+                  (VP (TO to) 
+                    (VP (VB buy) 
+                      (NP 
+                        (NP (NNS shares) )
+                        (PP-LOC (IN in) 
+                          (NP (DT the) (NN company) )))
+                      (PP-CLR (IN at) 
+                        (NP (JJ half) (NN price) )))))))))))
+    (. .) ))

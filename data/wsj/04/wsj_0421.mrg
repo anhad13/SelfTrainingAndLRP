@@ -1,0 +1,82 @@
+
+( (S 
+    (NP-SBJ-1 (NNP USG) (NNP Corp.) )
+    (VP 
+      (VP (VBD agreed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB sell) 
+              (NP 
+                (NP (PRP$ its) (NNS headquarters) (NN building) )
+                (ADVP-LOC (RB here) ))
+              (PP-DTV (TO to) 
+                (NP 
+                  (NP (NNP Manufacturers) (NNP Life) (NNP Insurance) (NNP Co.) )
+                  (PP (IN of) 
+                    (NP (NNP Toronto) ))))))))
+      (, ,) 
+      (CC and)
+      (VP (MD will) 
+        (VP (VB lease) 
+          (NP (DT the) (JJ 19-story) (NN facility) )
+          (SBAR-TMP (IN until) 
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (VBZ moves) 
+                (PP-DIR (TO to) 
+                  (NP (DT a) (JJ new) (NNS quarters) ))
+                (PP-TMP (IN in) 
+                  (NP (CD 1992) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS building-materials) (NN concern) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB disclose) 
+        (NP 
+          (NP (NNS terms) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN sale) )
+              (, ,) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (MD will) 
+                    (VP (VB close) 
+                      (PP-TMP (IN in) 
+                        (NP 
+                          (NP (DT the) (JJ first) (NN quarter) )
+                          (PP (IN of) 
+                            (NP (JJ next) (NN year) )))))))))))))
+    (. .) ))
+((SINV 
+    (S-TPC-1 
+      (NP-SBJ-2 
+        (NP (NNS Proceeds) )
+        (PP (IN from) 
+          (NP 
+            (NP (DT the) (VBN planned) (NN sale) )
+            (PP (IN of) 
+              (NP (DT the) (JJ 250,000-square-foot) (NN building) )))))
+      (`` ``) 
+      (VP (MD will) 
+        (VP (VB help) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (VB reduce) 
+              (NP 
+                (NP (DT the) (NN debt) )
+                (VP (VBN incurred) 
+                  (NP (-NONE- *) )
+                  (PP (IN as) 
+                    (NP 
+                      (NP (DT a) (NN result) )
+                      (PP (IN of) 
+                        (NP (PRP$ our) (NNP July) (CD 1988) (NN recapitalization) )))))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (DT a) (NNP USG) (NN official) )
+    (. .) ))

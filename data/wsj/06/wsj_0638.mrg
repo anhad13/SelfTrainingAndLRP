@@ -1,0 +1,425 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Texas) (NNPS Instruments) (NNP Inc.) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (ADVP-TMP (RB once) )
+      (NP-PRD 
+        (NP (DT a) (NN pioneer) )
+        (PP-LOC (IN in) 
+          (NP (JJ portable) (NN computer) (NN technology) ))))
+    (, ,) 
+    (NP-TMP (NN today) )
+    (VP (MD will) 
+      (VP (VB make) 
+        (NP (DT a) (NN bid) 
+          (S 
+            (NP-SBJ-2 (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB reassert) 
+                (NP (PRP itself) )
+                (PP-LOC (IN in) 
+                  (NP (DT that) (NN business) ))
+                (PP-MNR (IN by) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (VBG unveiling) 
+                      (NP (CD three) (JJ small) (JJ personal) (NNS computers) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-3 (DT The) (NNS announcements) )
+    (VP 
+      (VP (VBP are) 
+        (VP (VBN scheduled) 
+          (S 
+            (NP-SBJ-1 (-NONE- *-3) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (VP (VBN made) 
+                  (NP (-NONE- *-1) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (NNP Temple) )
+                      (, ,) 
+                      (NP (NNP Texas) )
+                      (, ,) ))))))))
+      (CC and) 
+      (VP (VBP include) 
+        (NP 
+          (NP (DT a) (JJ so-called) (`` ``) (NN notebook) ('' '') (NN PC) )
+          (SBAR 
+            (WHNP-2 (WDT that) )
+            (S 
+              (NP-SBJ-4 (-NONE- *T*-2) )
+              (VP 
+                (VP (VBZ weighs) 
+                  (NP 
+                    (QP (JJR less) (IN than) (CD seven) )
+                    (NNS pounds) ))
+                (, ,) 
+                (VP (VBZ has) 
+                  (NP (DT a) (JJ built-in) (JJ hard) (NN disk) (NN drive) ))
+                (CC and) 
+                (VP (VBZ is) 
+                  (VP (VBN powered) 
+                    (NP (-NONE- *-4) )
+                    (PP (IN by) 
+                      (NP-LGS 
+                        (NP (NNP Intel) (NNP Corp.) (POS 's) )
+                        (CD 286) (NN microprocessor) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) (NN introduction) )
+    (VP (VBZ comes) 
+      (SBAR-TMP 
+        (NP-ADV 
+          (QP (RB only) (CD two) )
+          (NNS weeks) )
+        (IN after) 
+        (S 
+          (NP-SBJ-1 (NNP Compaq) (NNP Computer) (NNP Corp.) )
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG believing) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBD had) 
+                    (NP 
+                      (NP (DT a) (NN lead) )
+                      (PP (IN of) 
+                        (NP 
+                          (QP (CD three) (TO to) (CD six) )
+                          (NNS months) ))
+                      (PP (IN on) 
+                        (NP (NNS competitors) ))))))))
+          (, ,) 
+          (VP (VBD introduced) 
+            (NP 
+              (NP (DT the) (JJ first) (NNP U.S.) (NN notebook) (NN computer) )
+              (PP (IN with) 
+                (NP (JJ such) (NNS features) )))))))
+    (. .) ))
+( (S 
+    (PP (IN Despite) 
+      (NP 
+        (NP (DT the) (JJ inevitable) (NN comparison) )
+        (PP (IN with) 
+          (NP (NNP Compaq) ))))
+    (, ,) 
+    (ADVP (RB however) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Texas) (NNP Instruments) (POS ') )
+      (JJ new) (NN notebook) )
+    (VP (MD wo) (RB n't) 
+      (VP (VB be) 
+        (NP-PRD (DT a) (JJ direct) (NN competitor) )))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (NNP Compaq) )
+        (VP (VBZ sells) 
+          (NP (PRP$ its) (NNS machines) )
+          (PP-DTV (TO to) 
+            (NP (NNS businesses) ))
+          (PP-MNR (IN through) 
+            (NP (NN computer) (NNS retailers) )))))
+    (, ,) 
+    (NP-SBJ (NNP Texas) (NNP Instruments) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBG selling) 
+          (NP 
+            (NP (JJS most) )
+            (PP (IN of) 
+              (NP (PRP$ its) (NNS machines) )))
+          (PP-CLR 
+            (PP (TO to) 
+              (NP (DT the) (JJ industrial) (NN market) ))
+            (CC and) 
+            (PP (TO to) 
+              (NP 
+                (NP (JJ value-added) (NNS resellers) )
+                (CC and) 
+                (NP (JJ original-equipment) (NNS manufacturers) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS introductions) )
+    (ADVP (RB also) )
+    (VP (VBP mark) 
+      (NP 
+        (NP 
+          (NP (NNP Texas) (NNP Instruments) (POS ') )
+          (NN plunge) )
+        (ADVP (RB back) 
+          (PP (IN into) 
+            (NP 
+              (NP (DT a) (NN technology) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBZ has) 
+                    (VP 
+                      (ADVP (RB all) (RB but) )
+                      (VBN ignored) 
+                      (NP (-NONE- *T*-1) )
+                      (PP-TMP (IN for) 
+                        (NP (DT the) (JJ past) (JJ several) (NNS years) )))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN Although) 
+      (S 
+        (NP-SBJ (DT the) (JJ Dallas-based) (NN computer) (NN giant) )
+        (VP 
+          (VP (VBD introduced) 
+            (NP-2 
+              (NP (DT the) (JJ first) (JJ portable) (NNS data) (NN terminal) )
+              (NP (-NONE- *ICH*-1) ))
+            (PP-TMP-3 (IN in) 
+              (NP (CD 1971) ))
+            (PRN (: --) 
+              (NP-1 (DT a) (JJ 38-pound) (NN monster) )
+              (: --) ))
+          (CC and) 
+          (VP 
+            (NP=2 
+              (NP (DT the) (NN world) (POS 's) )
+              (JJ first) (JJ microprocessor-based) (NN portable) )
+            (PP-TMP=3 (IN in) 
+              (NP (CD 1976) ))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (JJ only) (JJ portable) (NNS machines) )
+      (SBAR 
+        (WHNP-4 (-NONE- 0) )
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) 
+            (VP (VBN introduced) 
+              (NP (-NONE- *T*-4) )
+              (PP-TMP (IN since) 
+                (NP 
+                  (NP (DT the) (JJ first) (NN part) )
+                  (PP (IN of) 
+                    (NP (DT the) (NN decade) )))))))))
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (`` ``) (JJ dumb) ('' '') (NNS terminals) )
+          (PP (IN with) 
+            (NP (JJ limited) (JJ on-board) (NN processing) (NN ability) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP It) )
+    (VP (VBD stopped) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG selling) 
+          (NP (DT a) (JJ standard) (JJ personal) (NN computer) )))
+      (ADVP-TMP 
+        (NP (DT a) (NN while) )
+        (RB ago) ))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Now) )
+    (NP-SBJ-1 (DT that) )
+    (VP (VBZ is) 
+      (VP (RB about) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB change) )))
+        (, ,) 
+        (SBAR-TMP (IN as) 
+          (S 
+            (NP-SBJ-2 (NNP Texas) (NNPS Instruments) )
+            (VP (VBZ begins) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (VBG marketing) 
+                  (NP 
+                    (NP (CD two) (JJ 14-pound) (JJ laptop) (NNS PCs) )
+                    (PP (IN with) 
+                      (NP (CD 20) (NN megabyte) 
+                        (CC and)
+                        (CD 40) (NN megabyte) (JJ hard) (NNS drives) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS laptops) )
+    (VP 
+      (VP (VBP are) (RB not) 
+        (ADJP-PRD (JJ revolutionary) ))
+      (CC and) 
+      (VP 
+        (, ,)
+        (ADVP (RB indeed) )
+        (, ,) (VBP are) 
+        (ADJP-PRD (JJ tardy) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT a) (NN market) )
+            (VP 
+              (ADVP-TMP (RB first) )
+              (VBN opened) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (NNP GRiD) (NNPS Systems) (NNP Corp.) )
+                  (, ,) 
+                  (ADVP-TMP (RB now) )
+                  (NP 
+                    (NP (DT a) (NN unit) )
+                    (PP (IN of) 
+                      (NP (NNP Tandy) (NNP Corp.) )))))
+              (, ,) 
+              (ADVP-TMP 
+                (NP 
+                  (QP (RB almost) (CD two) )
+                  (NNS years) )
+                (RB ago) ))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT the) (NN notebook) )
+      (, ,) 
+      (PP (IN with) 
+        (NP (DT the) 
+          (ADJP (RBR more) (JJ advanced) )
+          (NX 
+            (NX (NN microprocessor) )
+            (CC and) 
+            (NX (JJ hard) (NN disk) ))))
+      (, ,) )
+    (VP (VBZ is) 
+      (ADJP-PRD (RBR more) (JJ innovative) ))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-2) )
+      (VP (VBG Weighing) 
+        (NP (CD 6.7) (NNS pounds) )
+        (PP (IN with) 
+          (NP (NN battery) ))))
+    (, ,) 
+    (NP-SBJ-2 (DT the) (NN notebook) )
+    (VP 
+      (VP (VBZ measures) 
+        (NP 
+          (QP (CD 8.2) (IN by) (CD 11.7) )
+          (NNS inches) ))
+      (, ,) 
+      (VP (VBZ has) 
+        (NP (DT a) (JJ 20-megabyte) (JJ hard) (NN disk) (NN drive) ))
+      (CC and) 
+      (VP (VBZ boasts) 
+        (NP 
+          (NP (DT a) (JJ backlit) (NN screen) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBZ is) 
+                (ADJP-PRD 
+                  (ADJP 
+                    (NP-ADV (CD 22) (NN %) )
+                    (JJR larger) )
+                  (PP (IN than) 
+                    (NP (NNP Compaq) (POS 's) )))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP$ Its) (NN keyboard) )
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP (NN industry) (NNS consultants) )))
+      (, ,) 
+      (VP (VBZ is) 
+        (ADJP-PRD 
+          (ADJP (JJR better) )
+          (PP (IN than) 
+            (NP (NNP Compaq) (POS 's) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (PRP$ its) (NN battery) (NN life) )
+        (PP (IN of) 
+          (NP 
+            (QP (CD two) (TO to) (CD three) )
+            (NNS hours) )))
+      (VP (VBZ is) 
+        (ADJP-PRD (JJR shorter) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ does) (RB n't) 
+      (VP (VB have) 
+        (NP (DT an) (JJ internal) (JJ floppy) (NN disk) (NN drive) )
+        (, ,) 
+        (SBAR-ADV (IN although) 
+          (S 
+            (NP-SBJ-1 (DT a) (JJ snap-on) (NN drive) )
+            (VP (MD can) 
+              (VP (VB be) 
+                (VP (VBN purchased) 
+                  (NP (-NONE- *-1) )
+                  (ADVP-MNR (RB separately) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP$ Its) (JJS greatest) (NN drawback) )
+    (VP (MD may) 
+      (VP (VB be) 
+        (NP-PRD 
+          (NP (PRP$ its) (JJ 3-inch) (NN thickness) )
+          (, ,) 
+          (ADJP (JJ big) (RB enough) 
+            (SBAR (IN for) 
+              (S 
+                (NP-SBJ (CD one) (NN consultant) )
+                (VP (TO to) 
+                  (VP (VB describe) 
+                    (NP (PRP it) )
+                    (PP-CLR (IN as) (`` ``) 
+                      (ADJP (JJ clunky) ))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (NN List) (NNS prices) )
+      (PP (IN on) 
+        (NP (DT the) (JJR heavier) (NNP Texas) (NNP Instrument) (NNS laptops) )))
+    (VP (MD will) 
+      (VP (VB be) 
+        (NP-PRD 
+          (NP 
+            (NP ($ $) (CD 4,999) (-NONE- *U*) )
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (NNP TI) (NNP Model) (CD 25) )
+                (, ,) 
+                (PP (IN with) 
+                  (NP (DT a) (CD 20) (NN megabyte) (NN disk) (NN drive) ))
+                (, ,) )))
+          (CC and) 
+          (NP 
+            (NP ($ $) (CD 5,599) (-NONE- *U*) )
+            (PP (IN for) 
+              (NP (DT the) (JJ 40-megabyte) (NNP Model) (CD 45) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN notebook) )
+      (, ,) 
+      (NP (DT the) (NNP TI) (NNP Model) (CD 12) )
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN priced) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN at) 
+            (NP ($ $) (CD 4,199) (-NONE- *U*) )))))
+    (. .) ))

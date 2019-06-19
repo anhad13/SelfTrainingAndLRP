@@ -1,0 +1,57 @@
+
+( (S 
+    (NP-SBJ (NNP Rolls-Royce) (NNP Motor) (NNPS Cars) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (PRP$ its) (NNP U.S.) (NNS sales) )
+              (VP (TO to) 
+                (VP (VB remain) 
+                  (ADJP-PRD (JJ steady) )
+                  (PP-LOC-CLR (IN at) 
+                    (NP 
+                      (QP (IN about) (CD 1,200) )
+                      (NNS cars) ))
+                  (PP-TMP (IN in) 
+                    (NP (CD 1990) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN luxury) (NN auto) (NN maker) )
+    (NP-TMP (JJ last) (NN year) )
+    (VP (VBD sold) 
+      (NP (CD 1,214) (NNS cars) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NNP U.S.) )))))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Howard) (NNP Mosher) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (CC and) 
+        (NP (JJ chief) (NN executive) (NN officer) ))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBZ anticipates) 
+            (NP 
+              (NP (NN growth) )
+              (PP (IN for) 
+                (NP (DT the) (NN luxury) (NN auto) (NN maker) ))
+              (PP-LOC 
+                (PP (IN in) 
+                  (NP (NNP Britain) 
+                    (CC and)
+                    (NNP Europe) ))
+                (, ,) 
+                (CC and)
+                (PP (IN in) 
+                  (NP 
+                    (ADJP (JJ Far) (JJ Eastern) )
+                    (NNS markets) ))))))))
+    (. .) ))

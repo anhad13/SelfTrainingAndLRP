@@ -1,0 +1,71 @@
+
+( (S 
+    (NP-SBJ (NNP Zurn) (NNP Industries) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD received) 
+            (NP (NN approval) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB proceed) 
+                    (PP-CLR (IN on) 
+                      (NP 
+                        (NP (CD four) (JJ separate) (NNS projects) )
+                        (PP (IN with) 
+                          (NP 
+                            (NP (DT a) (JJ total) (NN contract) (NN value) )
+                            (PP (IN of) 
+                              (NP 
+                                (QP ($ $) (CD 59) (CD million) )
+                                (-NONE- *U*) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS projects) )
+    (VP (VBP include) 
+      (NP 
+        (NP (NN construction) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (DT a) 
+                (ADJP (CD 29,400) (NN kilowatt) )
+                (JJ waste-to-energy) (NN plant) )
+              (PP (IN for) 
+                (NP 
+                  (NP (NNP Ada) (NNP Cogeneration) (NNP L.P.) )
+                  (, ,) 
+                  (NP-LOC 
+                    (NP (NNP Ada) )
+                    (, ,) 
+                    (NP (NNP Mich.) )))))
+            (: ;) 
+            (NP 
+              (NP (DT a) (NN steam) (NN generating) (NN plant) )
+              (PP-LOC (IN at) 
+                (NP 
+                  (NP (NNP Ontario) )
+                  (, ,) 
+                  (NP (NNP Calif.) )
+                  (, ,) ))
+              (SBAR 
+                (WHNP-1 (DT that) )
+                (S 
+                  (NP-SBJ (NNP Zurn) )
+                  (VP (MD will) 
+                    (VP (VB own) 
+                      (CC and)
+                      (VB operate) 
+                      (NP (-NONE- *T*-1) ))))))
+            (, ,) 
+            (CC and)
+            (NP 
+              (NP (CD two) (NN waste-water) (NN control) (NNS projects) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (NNP Orange) (NNP County) )
+                  (, ,) 
+                  (NP (NNP Calif) ))))))))
+    (. .) ))

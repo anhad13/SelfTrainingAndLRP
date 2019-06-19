@@ -1,0 +1,60 @@
+
+( (S 
+    (NP-SBJ (NNP ITEL) (NNP CORP.) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (JJ third-quarter) (NNS earnings) )
+        (, ,) 
+        (SBAR 
+          (WHNP-48 (WDT which) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-48) )
+            (VP (VBD were) 
+              (VP 
+                (ADVP-MNR (RB mistakenly) )
+                (VBN shown) 
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (DT the) (JJ Quarterly) (NNS Earnings) (NNS Surprises) (NN table) )
+                    (PP-LOC (IN in) 
+                      (NP 
+                        (NP-TMP (NN yesterday) (POS 's) )
+                        (NN edition) ))))
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB be) 
+                      (ADJP-PRD 
+                        (ADJP (JJR lower) )
+                        (PP (IN than) 
+                          (NP 
+                            (NP (DT the) (NN average) )
+                            (PP (IN of) 
+                              (NP 
+                                (NP (NNS analysts) (POS ') )
+                                (NNS estimates) ))))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN On) 
+      (NP (DT a) (JJ pretax) (NN basis) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Itel) (POS 's) )
+        (JJ third-quarter) (NNS earnings) )
+      (PP (IN of) 
+        (NP 
+          (NP (CD 30) (NNS cents) )
+          (NP-ADV (DT a) (NN share) ))))
+    (VP (VBD were) 
+      (ADVP (RB actually) )
+      (ADJP-PRD 
+        (ADJP 
+          (NP (CD 7.14) (NN %) )
+          (JJR higher) )
+        (PP (IN than) 
+          (NP 
+            (NP (DT the) (NN average) )
+            (PP (IN of) 
+              (NP (NNS estimates) ))))))
+    (. .) ))

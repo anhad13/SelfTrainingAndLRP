@@ -1,0 +1,51 @@
+
+( (S 
+    (NP-SBJ-1 (NNP David) (NNP W.) (NNP Lodge) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN vice) (NN president) )
+              (CC and) 
+              (NP (NN chief) (JJ financial) (NN officer) ))
+            (, ,) 
+            (ADJP (JJ effective) 
+              (NP-TMP (NNP Nov.) (CD 1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Lodge) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 48) (NNS years) )
+        (JJ old) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ former) (NN finance) (NN executive) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (NNP Singer) (NNP Sewing) (NNP Machine) (NNP Co.) )
+            (CC and) 
+            (NP (NNP Celanese) (NNP Corp.) ))))
+      (, ,) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP Francis) (NNP L.) (NNP Brophy) )
+        (, ,) 
+        (NP (CD 64) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-1) )
+            (VP (VBZ plans) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB retire) 
+                    (PP-CLR (IN from) 
+                      (NP (DT the) (NN company) ))
+                    (NP-TMP (IN next) (NN year) )))))))))
+    (. .) ))

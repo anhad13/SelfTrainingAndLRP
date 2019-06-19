@@ -1,0 +1,227 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP McCaw) (NNP Cellular) (NNPS Communications) (NNP Inc.) )
+      (VP (MD must) 
+        (VP (VB extend) 
+          (NP 
+            (NP (PRP$ its) (NN offer) )
+            (PP (IN for) 
+              (NP (NNP LIN) (NNP Broadcasting) (NNP Corp.) )))
+          (SBAR-PRP (IN because) 
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (VBZ has) (`` ``) (RB not) 
+                (ADVP (RB yet) )
+                (VP (VBN announced) 
+                  (NP 
+                    (NP (JJ committed) (NN financing) )
+                    (ADJP (JJ sufficient) 
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB complete) ('' '') 
+                            (NP (DT the) (NN bid) )))))))))))))
+    (, ,) 
+    (NP-SBJ (NNP LIN) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) ))
+      (PP-LOC (IN in) 
+        (NP (NNP New) (NNP York) )))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (PP (VBG According) 
+        (PP (TO to) 
+          (NP (NNPS Securities) 
+            (CC and)
+            (NNP Exchange) (NNP Commission) (NNS rules) )))
+      (, ,) 
+      (NP-SBJ-1 (NNP McCaw) )
+      (VP (VBZ is) 
+        (VP (VBN required) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB keep) 
+                (S 
+                  (NP-SBJ 
+                    (NP (PRP$ its) (NN offer) )
+                    (PP (IN for) 
+                      (NP (DT the) (NN cellular-phone) 
+                        (CC and)
+                        (NN broadcasting) (NN concern) )))
+                  (ADJP-PRD (JJ open) )
+                  (PP-TMP (IN for) 
+                    (NP 
+                      (QP (IN at) (JJS least) (CD five) )
+                      (NN business) (NNS days) ))
+                  (PP-TMP (IN after) 
+                    (NP 
+                      (NP (DT the) (NN announcement) )
+                      (PP (IN of) 
+                        (NP (DT the) (NN financing) )))))))))))
+    (, ,) 
+    (NP-SBJ (NNP LIN) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP McCaw) (POS 's) )
+      (NN offer) )
+    (VP (VBZ is) 
+      (VP (VBN scheduled) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB expire) 
+              (NP-TMP-CLR (NN tomorrow) ))))))
+    (. .) ))
+( (S 
+    (NP-TMP (JJ Last) (NN week) )
+    (, ,) 
+    (NP-SBJ (NNP McCaw) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD obtained) 
+            (NP 
+              (NP (`` ``) (JJ firm) ('' '') (VBG financing) (NNS commitments) )
+              (PP (-NONE- *ICH*-1) ))
+            (PP-CLR (IN from) 
+              (NP (CD three) (JJ major) (NNS banks) ))
+            (PP-1 (IN in) 
+              (NP 
+                (NP (NN regard) )
+                (PP (TO to) 
+                  (NP (PRP$ its) (NN bid) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB control) 
+                          (NP (NNP LIN) (NNP Broadcasting) ))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NNS banks) )
+      (ADVP-MNR (RB jointly) )
+      (VP (VBD committed) 
+        (NP 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 1.2) (CD billion) )
+              (-NONE- *U*) )
+            (PP (IN of) 
+              (NP (NN financing) )))
+          (, ,) 
+          (ADJP (JJ subject) 
+            (PP (TO to) 
+              (NP (JJ certain) (NNS conditions) ))))))
+    (, ,) 
+    (NP-SBJ (NNP McCaw) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN spokesman) )
+      (PP (IN for) 
+        (NP (NN McCaw) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP (VBD was) (`` ``) 
+            (VP (VBG moving) 
+              (ADVP-DIR (RB forward) )
+              (PP-CLR (IN with) 
+                (NP (PRP$ our) (NN financing) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD added) 
+      (SBAR (IN that) (`` ``) 
+        (S 
+          (ADVP (RB hopefully) )
+          (NP-SBJ (NNP LIN) )
+          (VP (MD will) 
+            (VP (VB conduct) 
+              (NP (DT a) (JJ fair) (NN auction) ))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ-2 (NNP McCaw) )
+    (VP (VBZ wants) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP 
+            (VP (VB buy) 
+              (NP 
+                (NP 
+                  (QP (CD 22) (CD million) )
+                  (NNS shares) )
+                (PP (IN of) 
+                  (NP (NNP LIN) )))
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP 
+                    (NP ($ $) (CD 125) (-NONE- *U*) )
+                    (NP-ADV (DT each) ))
+                  (, ,) (CC or) 
+                  (NP 
+                    (QP ($ $) (CD 2.75) (CD billion) )
+                    (-NONE- *U*) )
+                  (, ,) )))
+            (SBAR-ADV 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (MD would) 
+                  (VP (VB result) 
+                    (PP-CLR (IN in) 
+                      (S-NOM 
+                        (NP-SBJ (NNP McCaw) (POS 's) )
+                        (VP (VBG owning) 
+                          (NP 
+                            (NP (CD 50.3) (NN %) )
+                            (PP (IN of) 
+                              (NP (NNP LIN) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN offer) )
+    (VP (VBZ is) 
+      (PP-PRD (IN in) 
+        (NP (NN limbo) ))
+      (, ,) 
+      (ADVP (RB however) )
+      (, ,) 
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ-1 (NNP LIN) )
+          (VP (VBZ has) 
+            (VP (VBN agreed) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB merge) 
+                    (NP (PRP$ its) (NN cellular-phone) (NNS businesses) )
+                    (PP-CLR (IN with) 
+                      (NP (NNP BellSouth) (NNP Corp) ))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ national) (JJ over-the-counter) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (NNP LIN) )
+    (VP (VBD rose) 
+      (NP-ADV (CD 50) (NNS cents) )
+      (, ,) 
+      (PP-DIR (TO to) 
+        (NP ($ $) (CD 109.25) (-NONE- *U*) )))
+    (. .) ))

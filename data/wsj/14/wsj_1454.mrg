@@ -1,0 +1,104 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Guardian) (NNP Royal) (NNP Exchange) (NNP Assurance) (NNP PLC) )
+      (, ,) 
+      (NP (DT a) (JJ major) (JJ British) (JJ composite) (NN insurer) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG taking) 
+              (NP 
+                (NP (DT a) (NN stake) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (NNP Nationwide) (NNP Anglia) (NNP Building) (NNP Society) (POS 's) )
+                    (NN estate) (NN agency) (NN business) )))
+              (PP (IN as) 
+                (NP 
+                  (NP (NN part) )
+                  (PP (IN of) 
+                    (NP (DT a) (NN plan) 
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB create) 
+                            (NP 
+                              (NP (DT a) (NN range) )
+                              (PP (IN of) 
+                                (NP 
+                                  (NP (JJ commercial) (NNS linkages) )
+                                  (PP-LOC (IN in) 
+                                    (NP 
+                                      (NP (DT the) (NNP U.K.) )
+                                      (CC and) 
+                                      (NP (NNP Europe) ))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNS Officials) )
+    (VP (VBD declined) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB disclose) 
+            (NP 
+              (NP 
+                (NP (DT the) (NN value) )
+                (PP (IN of) 
+                  (NP (DT the) (NN transaction) )))
+              (CC or) 
+              (NP 
+                (NP (DT the) (JJ exact) (NN stake) )
+                (SBAR 
+                  (WHNP-1 (IN that) )
+                  (S 
+                    (NP-SBJ (NNP GRE) )
+                    (VP (MD will) 
+                      (VP (VB hold) 
+                        (NP (-NONE- *T*-1) )
+                        (PP-LOC-CLR (IN in) 
+                          (NP (NNP Nationwide) (NNP Anglia) (NNP Estate) (NNPS Agents) ))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT the) (NNS companies) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNP Nationwide) (NNP Anglia) (NNP Estate) (NNPS Agents) )
+          (VP (MD will) 
+            (VP (VB market) 
+              (NP (NNP GRE) (NN life) (NN insurance) 
+                (, ,)
+                (NN pension) 
+                (CC and)
+                (NN investment) (NNS products) )
+              (PP-MNR (IN through) 
+                (NP 
+                  (NP (PRP$ its) 
+                    (QP (JJR more) (IN than) (CD 1,000) )
+                    (JJ retail) (NNS outlets) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NNP U.K) )))))))))
+    (. .) ))
+( (S 
+    (PP (IN Besides) 
+      (NP (DT the) (NN marketing) (NN agreement) ))
+    (, ,) 
+    (NP-SBJ (NNP GRE) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NNP Nationwide) (NNP Anglia) )
+          (VP (VBZ has) 
+            (VP (VBN agreed) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB develop) 
+                    (NP (NN life) (NN insurance) (NNS products) )
+                    (PP (IN with) 
+                      (NP (DT the) (JJ composite) (NN insurer) ))))))))))
+    (. .) ))

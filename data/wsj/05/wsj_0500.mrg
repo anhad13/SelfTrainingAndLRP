@@ -1,0 +1,132 @@
+
+( (S 
+    (NP-SBJ (NNP Bio-Technology) (NNP General) (NNP Corp.) )
+    (VP (VBD received) 
+      (NP 
+        (NP (NNS tenders) )
+        (PP (IN for) 
+          (NP 
+            (NP 
+              (NP (CD 97.9) (NN %) )
+              (PP (IN of) 
+                (NP 
+                  (NP (PRP$ its) 
+                    (ADJP (CD 7.5) (NN %) )
+                    (JJ convertible) (JJ senior) (VBN subordinated) (NNS notes) )
+                  (ADJP (JJ due) 
+                    (NP-TMP 
+                      (NP (NNP April) (CD 15) )
+                      (, ,) 
+                      (NP (CD 1997) ))))))
+            (, ,) 
+            (CC and)
+            (NP 
+              (NP (CD 96) (NN %) )
+              (PP (IN of) 
+                (NP 
+                  (NP (PRP$ its) 
+                    (ADJP (CD 11) (NN %) )
+                    (JJ convertible) (JJ senior) (VBN subordinated) (NNS debentures) )
+                  (ADJP (JJ due) 
+                    (NP-TMP 
+                      (NP (NNP March) (CD 1) )
+                      (, ,) 
+                      (NP (CD 2006) ))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (NN exchange) (NNS offers) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD expired) 
+              (NP-TMP (NNP Friday) ))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNS holders) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT each) ($ $) (CD 1,000) (-NONE- *U*) )
+          (PP (IN of) 
+            (NP (NNS notes) )))))
+    (VP (MD will) 
+      (VP (VB receive) 
+        (NP 
+          (NP 
+            (NP 
+              (ADJP ($ $) (CD 250) (-NONE- *U*) )
+              (NN face) (NN amount) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Series) (NNP A) 
+                  (ADJP (CD 7.5) (NN %) )
+                  (JJ senior) (VBN secured) (JJ convertible) (NNS notes) )
+                (ADJP (JJ due) 
+                  (NP-TMP 
+                    (NP (NNP Jan.) (CD 15) )
+                    (, ,) 
+                    (NP (CD 1995) ))))))
+          (, ,) 
+          (CC and)
+          (NP (CD 200) (JJ common) (NNS shares) ))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP 
+        (NP (DT each) 
+          (ADJP ($ $) (CD 1,000) (-NONE- *U*) )
+          (NN face) (NN amount) )
+        (PP (IN of) 
+          (NP (NNS debentures) ))))
+    (, ,) 
+    (NP-SBJ (NNS holders) )
+    (VP (VBD received) 
+      (NP 
+        (NP 
+          (NP ($ $) (CD 250) (-NONE- *U*) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Series) (NNP B) 
+                (ADJP (CD 11) (NN %) )
+                (JJ senior) (VBN secured) (JJ convertible) (NNS notes) )
+              (ADJP (JJ due) 
+                (NP-TMP 
+                  (NP (NNP Oct.) (CD 15) )
+                  (, ,) 
+                  (NP (CD 1998) ))))))
+        (, ,) 
+        (CC and)
+        (NP (CD 200) (JJ common) (NNS shares) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Bio-Technology) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NNP New) (NNP York) (NN maker) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (ADJP (RB genetically) (VBN engineered) )
+              (NNS products) )
+            (PP (IN for) 
+              (NP 
+                (UCP (NN human) 
+                  (CC and)
+                  (NN animal) )
+                (NN health) (NN care) )))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD made) 
+            (NP (DT the) (NN exchange) (NN offer) )
+            (S-PRP 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB reduce) 
+                  (NP (PRP$ its) (NN interest) (NNS payments) ))))))))
+    (. .) ))

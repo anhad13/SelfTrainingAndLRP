@@ -1,0 +1,143 @@
+
+( (S 
+    (NP-SBJ (NNP Manhattan) (NNP National) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (NNP Michael) (NNP A.) (NNP Conway) )
+            (, ,) 
+            (NP 
+              (NP (NN president) )
+              (CC and) 
+              (NP (JJ chief) (JJ executive) (NN officer) ))
+            (, ,) )
+          (VP (VBD was) 
+            (VP (VBN elected) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (NP-PRD 
+                  (NP (JJ chief) (NN executive) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (VBG holding) (NN company) (POS 's) )
+                      (CD two) (JJ principal) (NN insurance) (NNS subsidiaries) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ (PRP He) )
+      (VP (VBZ succeeds) 
+        (NP 
+          (NP (NNP Paul) (NNP P.) (NNP Aniskovich) (NNP Jr.) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WP who) )
+            (S 
+              (NP-SBJ-2 (-NONE- *T*-1) )
+              (VP (VBD resigned) 
+                (S-PRP 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB pursue) 
+                      (NP (JJ other) (NN business) (NNS interests) ))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Mr.) (NNP Conway) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 42) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP 
+                (NP (NN chairman) )
+                (, ,) 
+                (NP (NN president) )
+                (CC and) 
+                (NP (JJ chief) (NN executive) ))
+              (PP (IN of) 
+                (NP (NNP Manhattan) (NNP Life) (NNP Insurance) (NNP Co.) )))
+            (CC and) 
+            (NP 
+              (NP 
+                (NP (NN president) )
+                (CC and) 
+                (NP (JJ chief) (NN executive) ))
+              (PP (IN of) 
+                (NP (NNP Manhattan) (NNP National) (NNP Life) (NNP Insurance) (NNP Co) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Harry) (NNP Rossi) )
+      (, ,) 
+      (NP (CD 69) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (PP (IN of) 
+          (NP (DT the) (VBG holding) (NN company) )))
+      (, ,) )
+    (ADVP (RB also) )
+    (VP (VBZ remains) 
+      (NP-PRD 
+        (NP (NN chairman) )
+        (PP (IN of) 
+          (NP (NNP Manhattan) (NNP National) (NNP Life) (NNP Insurance) (NNP Co) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Conway) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP 
+          (NP (JJ executive) (NN vice) (NN president) )
+          (CC and) 
+          (NP (JJ chief) (NN investment) (NN officer) ))
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Union) (NNP Central) (NNP Life) (NNP Insurance) (NNP Co.) )
+            (, ,) 
+            (PP (IN of) 
+              (NP (NNP Cincinnati) )))))
+      (, ,) 
+      (PP-TMP (IN in) 
+        (NP 
+          (NP (CD 1987) )
+          (, ,) 
+          (SBAR 
+            (WHADVP-1 (WRB when) )
+            (S 
+              (NP-SBJ (NNP Union) (NNP Central) )
+              (VP (VBD bought) 
+                (NP 
+                  (NP (DT a) 
+                    (ADJP (CD 54) (NN %) )
+                    (NN interest) )
+                  (PP-TMP (IN in) 
+                    (NP (NNP Manhattan) (NNP National) (NNP Corp) )))
+                (ADVP-TMP (-NONE- *T*-1) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP He) )
+    (VP (VBD resigned) 
+      (PP (IN as) 
+        (NP 
+          (NP (DT an) (NN officer) )
+          (PP (IN of) 
+            (NP (NNP Central) (NNP Life) ))))
+      (S-PRP 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB accept) 
+            (NP (DT the) (NNP Manhattan) (NNP National) (NN presidency) )))))
+    (. .) ))

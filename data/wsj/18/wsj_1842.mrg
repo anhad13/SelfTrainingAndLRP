@@ -1,0 +1,41 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Maurice) (NNP Warren) )
+      (, ,) 
+      (NP (JJ 56-year-old) (NN group) (NN managing) (NN director) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (JJ chief) (NN executive) (NN officer) )
+            (PP (IN of) 
+              (NP (DT this) (NN food) 
+                (CC and)
+                (NN agriculture) (NN group) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN post) )
+      (PP (IN of) 
+        (NP (JJ chief) (NN executive) )))
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (ADJP-PRD (JJ vacant) )
+        (PP-TMP (IN since) 
+          (NP 
+            (NP (NNP July) )
+            (SBAR 
+              (WHADVP-1 (WRB when) )
+              (S 
+                (NP-SBJ 
+                  (NP (NNP Terry) (NNP Pryce) )
+                  (, ,) 
+                  (NP (CD 55) )
+                  (, ,) )
+                (VP (VBD left) 
+                  (NP (DT the) (NN company) )
+                  (ADVP-TMP (-NONE- *T*-1) ))))))))
+    (. .) ))

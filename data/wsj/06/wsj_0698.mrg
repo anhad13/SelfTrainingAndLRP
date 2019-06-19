@@ -1,0 +1,53 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Appalachian) (NNP Power) (NNP Co.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN subsidiary) )
+        (PP (IN of) 
+          (NP (NNP American) (NNP Electric) (NNP Power) (NNP Co.) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB redeem) 
+              (PP-TMP (IN on) 
+                (NP (NNP Dec.) (CD 1) ))
+              (NP 
+                (NP (DT the) (JJ entire) 
+                  (QP ($ $) (CD 44.2) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (PRP$ its) 
+                      (ADJP 
+                        (QP (CD 12) (CD 7\/8) )
+                        (NN %) )
+                      (JJ first) (NN mortgage) (NNS bonds) )
+                    (ADJP (JJ due) 
+                      (NP-TMP (CD 2013) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN redemption) (NN price) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (NP-PRD 
+          (NP 
+            (NP (CD 109.66) (NN %) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN principal) (NN amount) )
+                (PP (IN of) 
+                  (NP (DT the) (NNS bonds) )))))
+          (, ,) (CC plus) 
+          (NP 
+            (NP (JJ accrued) (NN interest) )
+            (PP-TMP (TO to) 
+              (NP 
+                (NP (DT the) (NN date) )
+                (PP (IN of) 
+                  (NP (NN redemption) ))))))))
+    (. .) ))

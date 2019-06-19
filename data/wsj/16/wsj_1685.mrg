@@ -1,0 +1,239 @@
+
+( (S 
+    (NP-SBJ (NNP Missouri) (NN farmer) (NNP Blake) (NNP Hurst) )
+    (VP (VBG writing) 
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT the) (NN fall) (NN issue) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NNP Heritage) (NNP Foundation) (POS 's) )
+              (NNP Policy) (NNP Review) ))))
+      (PP-CLR (IN about) 
+        (NP 
+          (NP (DT the) (VBN proposed) (NN location) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT a) (JJ hazardous-waste) (NN incinerator) )
+              (PP-LOC (IN in) 
+                (NP (PRP$ his) (NN county) )))))))
+    (: :) ))
+( (S 
+    (PP (IN Of) 
+      (NP (NN course) ))
+    (NP-SBJ (PRP I) )
+    (VP (MD 'd) 
+      (ADVP 
+        (ADVP (RB rather) )
+        (PP (-NONE- *ICH*-1) ))
+      (VP (VB have) 
+        (NP (DT a) (NN computer) (NN software) (NN firm) )
+        (PP-LOC (IN in) 
+          (NP (PRP$ my) (NN backyard) ))
+        (PP-1 (IN than) 
+          (NP (DT a) (JJ hazardous) (NN waste) (NN incinerator) ))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (PRP I) )
+    (VP (MD 'd) 
+      (ADVP (RB also) )
+      (ADVP 
+        (ADVP (RB rather) )
+        (PP (-NONE- *ICH*-1) ))
+      (VP (VB live) 
+        (NP-LOC 
+          (NP (JJ next) (NN door) )
+          (PP 
+            (PP (TO to) 
+              (NP (DT an) (NN incinerator) ))
+            (PP-1 (IN than) 
+              (PP (TO to) 
+                (NP 
+                  (NP (DT some) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (NN hog) (NNS farms) )
+                      (SBAR 
+                        (WHNP-2 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (PRP I) )
+                          (VP (VBP 've) 
+                            (VP (VBN seen) 
+                              (-LRB- -LRB-)
+                              
+                              (CC and)
+                              (VBN smelt) 
+                              (-RRB- -RRB-)
+                              (NP (-NONE- *T*-2) )
+                              (PP-LOC (IN in) 
+                                (NP (DT these) (NNS parts) )))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT An) (NN incinerator) )
+      (VP (VBZ is) 
+        (ADVP (RB also) )
+        (ADVP (RB probably) )
+        (ADJP-PRD 
+          (ADJP (RBR better) )
+          (PP (IN than) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG having) 
+                (NP 
+                  (NP (NN nobody) )
+                  (NP-LOC (JJ next) (NN door) ))))))))
+    (: --) 
+    (S 
+      (PP-LOC (IN on) 
+        (NP (PRP$ our) (NN farm) ))
+      (NP-SBJ (EX there) )
+      (VP (VBP are) 
+        (NP-PRD (CD four) (JJ unoccupied) (NNS houses) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN On) 
+      (NP 
+        (NP (PRP$ my) (JJ four-mile) (NN drive) )
+        (PP (TO to) 
+          (NP (NN farm) (NNS headquarters) ))))
+    (NP-TMP (DT each) (NN morning) )
+    (, ,) 
+    (NP-SBJ (PRP I) )
+    (VP (VBP drive) 
+      (PP-DIR (IN by) 
+        (NP (DT another) (CD four) (JJ empty) (NNS houses) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN community) )
+      (PP (IN of) 
+        (NP 
+          (NP (VBN abandoned) (NNS farmsteads) )
+          (, ,) 
+          (NP (VBG failing) (NNS businesses) )
+          (, ,) 
+          (CC and)
+          (NP (VBG crumbling) (NNS roads) 
+            (CC and)
+            (NNS bridges) ))))
+    (VP (VBZ is) 
+      (ADVP (RB hardly) )
+      (NP-PRD (DT a) (JJ desirable) (CD one) ))
+    (: ...) (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN loss) )
+      (PP (IN of) 
+        (NP (CD 40) (NNS jobs) ))
+      (PP (IN by) 
+        (NP 
+          (NP (DT a) (VBN depressed) (NN county) )
+          (PP-LOC (IN in) 
+            (NP (JJ rural) (NNP Missouri) )))))
+    (VP (VBZ is) 
+      (ADVP (RB hardly) )
+      (PP-PRD (IN of) 
+        (NP (JJ national) (NN importance) ))
+      (PP (IN except) 
+        (PP (IN for) 
+          (NP 
+            (NP (DT this) )
+            (: :) 
+            (SBARQ 
+              (SBAR-ADV (IN If) 
+                (S 
+                  (NP-SBJ-1 
+                    (NP (DT the) 
+                      (ADJP (RBS most) (RB environmentally) (JJ safe) )
+                      (NN way) )
+                    (PP (IN of) 
+                      (S-NOM 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (VBG dealing) 
+                          (PP-CLR (IN with) 
+                            (NP (DT a) (JJ national) (NN problem) ))))))
+                  (VP (MD can) (RB not) 
+                    (VP (VB be) 
+                      (VP (VBN built) 
+                        (NP (-NONE- *-1) )
+                        (PP-LOC (IN in) 
+                          (NP (NNP Atchinson) (NNP County) )))))))
+              (, ,) 
+              (WHNP-3 (WP what) (NN hope) )
+              (SQ 
+                (VP (VBP have) 
+                  (NP (-NONE- *T*-3) ))
+                (NP-SBJ (PRP we) )
+                (PP (IN for) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG dealing) 
+                      (PP-CLR (IN with) 
+                        (NP 
+                          (NP (DT the) (NNS wastes) )
+                          (SBAR 
+                            (WHNP-2 (-NONE- 0) )
+                            (S 
+                              (NP-SBJ (PRP$ our) (NN economy) )
+                              (VP (VBZ produces) 
+                                (NP (-NONE- *T*-2) )))))))))))))))
+    (. ?) ))
+( (S 
+    (PP (IN After) 
+      (NP (DT all) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNS farmers) )
+      (ADVP-LOC (RB here) ))
+    (VP (VBP work) 
+      (PP-CLR (IN with) 
+        (NP (`` ``) (JJ hazardous) ('' '') (NNS chemicals) ))
+      (NP-TMP (DT every) (NN day) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ 
+          (NP (JJ many) )
+          (PP (IN of) 
+            (NP (PRP them) )))
+        (NP-PRD 
+          (NP (DT the) (JJ same) (NNS chemicals) )
+          (SBAR 
+            (WHNP-2 (WDT that) )
+            (S 
+              (NP-SBJ-1 (-NONE- *T*-2) )
+              (VP (MD would) 
+                (VP (VB have) 
+                  (VP (VBN been) 
+                    (VP (VBN destroyed) 
+                      (NP (-NONE- *-1) )
+                      (PP-LOC (IN in) 
+                        (NP (DT the) (NN incinerator) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP We) )
+      (VP (VBP know) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBP are) 
+              (ADJP-PRD (JJ dangerous) ))))))
+    (, ,) (CC but) 
+    (S 
+      (SBAR-ADV (IN if) 
+        (S 
+          (NP-SBJ-1 (-NONE- *) )
+          (VP (VBN handled) 
+            (NP (-NONE- *-1) )
+            (PP-MNR (IN with) 
+              (NP (NN care) )))))
+      (, ,) 
+      (NP-SBJ (PRP$ their) (NNS benefits) )
+      (ADVP (RB far) )
+      (VP (VBP outweigh) 
+        (NP 
+          (NP (DT any) (NN risk) )
+          (PP (TO to) 
+            (NP (DT the) (NN environment) )))))
+    (. .) ))

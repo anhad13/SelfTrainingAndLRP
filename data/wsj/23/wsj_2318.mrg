@@ -1,0 +1,25 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP Britain) (POS 's) )
+        (JJ retail) (NN price) (NN index) )
+      (VP 
+        (VP (VBD rose) 
+          (NP-EXT (CD 0.7) (NN %) )
+          (PP-TMP (IN in) 
+            (NP (NNP September) ))
+          (PP-DIR (IN from) 
+            (NP-TMP (NNP August) )))
+        (CC and) 
+        (VP (VBD was) 
+          (ADVP-PRD (RB up) 
+            (NP (CD 7.6) (NN %) ))
+          (PP (IN for) 
+            (NP (DT the) (NN year) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Central) (NNP Statistical) (NNP Office) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

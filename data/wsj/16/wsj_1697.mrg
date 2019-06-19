@@ -1,0 +1,112 @@
+
+( (S 
+    (NP-SBJ (NNP Mercury) (NNP Savings) (CC &) (NNP Loan) (NNP Association) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD retained) 
+            (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets) )
+            (PP-CLR (IN as) 
+              (NP 
+                (NP (PRP$ its) (NN lead) (NN investment) (NN banker) )
+                (SBAR 
+                  (WHNP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (TO to) 
+                      (VP (VB advise) 
+                        (NP (PRP it) )
+                        (PP-CLR (VBG regarding) 
+                          (NP 
+                            (NP (DT a) (JJ possible) 
+                              (NX 
+                                (NX (NN sale) )
+                                (CC or) 
+                                (NX (JJ other) (NN combination) )))
+                            (PP (IN of) 
+                              (NP (DT the) 
+                                (NAC-LOC (NNP Huntington) (NNP Beach) 
+                                  (, ,)
+                                  (NNP Calif.) 
+                                  (, ,)
+                                  )
+                                (NN thrift) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mercury) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBZ has) 
+            (NP 
+              (NP 
+                (NP (NNS assets) )
+                (PP (IN of) 
+                  (NP 
+                    (QP (JJR more) (IN than) ($ $) (CD 2) (CD billion) )
+                    (-NONE- *U*) )))
+              (CC and) 
+              (NP 
+                (NP (CD 24) (NNS branches) )
+                (PP-LOC (IN in) 
+                  (NP (NNP California) )))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN action) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB improve) 
+                  (NP (PRP$ its) (JJ regulatory) (NN capital) (NN position) )))))
+          (VP (VBZ is) 
+            (VP (VBN related) 
+              (NP (-NONE- *-1) )
+              (ADVP-MNR (RB directly) )
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP (JJ new) (NN capital) (NNS requirements) )
+                  (VP (VBN mandated) 
+                    (NP (-NONE- *) )
+                    (PP (IN by) 
+                      (NP-LGS 
+                        (ADJP (RB recently) (VBN adopted) )
+                        (JJ federal) (NN legislation) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mercury) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD extended) 
+            (NP 
+              (NP (PRP$ its) (JJ two-year) (JJ advisory) (NN relationship) )
+              (PP (IN with) 
+                (NP 
+                  (NP (NNP Montgomery) (NNP Securities) )
+                  (PP (IN of) 
+                    (NP (NNP San) (NNP Francisco) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mercury) (POS 's) )
+      (NN stock) )
+    (VP (VBD closed) 
+      (NP-TMP (NN yesterday) )
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 4.875) (-NONE- *U*) ))
+      (, ,) 
+      (ADJP-CLR (JJ unchanged) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (JJ composite) (NN trading) )
+          (PP-LOC (IN on) 
+            (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) )))))
+    (. .) ))

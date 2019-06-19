@@ -1,0 +1,241 @@
+
+( (S 
+    (S-TPC-2 
+      (NP-SBJ (NNP Nissan) (NNP Motor) (NNP Co.) )
+      (VP (VBZ expects) 
+        (S 
+          (NP-SBJ (JJ net) (NN income) )
+          (VP (TO to) 
+            (VP (VB reach) 
+              (NP 
+                (NP 
+                  (QP (CD 120) (CD billion) )
+                  (NNS yen) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP (NNP U.S.) 
+                    (QP ($ $) (CD 857) (CD million) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) ))
+              (PP-TMP (IN in) 
+                (NP (PRP$ its) (JJ current) (JJ fiscal) (NN year) ))
+              (, ,) 
+              (ADVP (RB up) 
+                (PP (IN from) 
+                  (NP 
+                    (QP (CD 114.6) (CD billion) )
+                    (NNS yen) )
+                  (PP-TMP (IN in) 
+                    (NP (DT the) (JJ previous) (NN year) )))))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Yutaka) (NNP Kume) )
+      (, ,) 
+      (NP (NN president) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Kume) )
+    (VP (VBD made) 
+      (NP 
+        (NP (DT the) (NNS earnings) (NN projection) )
+        (PP (IN for) 
+          (NP 
+            (NP (JJ fiscal) (CD 1990) )
+            (, ,) 
+            (VP (VBG ending) 
+              (NP-TMP (JJ next) (NNP March) (CD 31) )))))
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT an) (NN interview) )
+          (PP (IN with) 
+            (NP 
+              (NP (NNP U.S.) (JJ automotive) (NNS writers) )
+              (VP (VBG attending) 
+                (NP (DT the) (NNP Tokyo) (NNP Motor) (NNP Show) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN executive) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (JJ anticipated) (NN earnings) (NN increase) )
+          (VP (VBZ is) 
+            (ADJP-PRD (RB fairly) (JJ modest) )
+            (UCP-PRP 
+              (SBAR (IN because) 
+                (S 
+                  (NP-SBJ-1 (NNP Nissan) )
+                  (VP (VBZ is) 
+                    (VP (VBG spending) 
+                      (ADVP-MNR (RB heavily) )
+                      (S-PRP 
+                        (NP-SBJ (-NONE- *-1) )
+                        (VP (TO to) 
+                          (VP (VB bolster) 
+                            (NP 
+                              (NP (PRP$ its) (NN dealership) (NN network) )
+                              (PP-LOC (IN in) 
+                                (NP (NNP Japan) ))))))))))
+              (CC and) 
+              (PP (RB because) (IN of) 
+                (NP (JJ currency-exchange) (NNS fluctuations) )))))))
+    (. .) ))
+( (S-1 
+    (PP-TMP (IN During) 
+      (NP (DT the) (JJ next) (NN decade) ))
+    (PRN 
+      (, ,)
+      (NP-SBJ (NNP Mr.) (NNP Kume) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S (-NONE- *T*-1) )))
+      (, ,) )
+    (NP-SBJ-2 (NNP Nissan) )
+    (VP (VBZ plans) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB boost) 
+            (NP (JJ overseas) (NN vehicle) (NN production) )
+            (ADVP-MNR (RB sufficiently) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB account) 
+                    (PP-CLR (IN for) 
+                      (NP 
+                        (NP (DT a) (NN majority) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NNS sales) )
+                            (PP-LOC (IN outside) 
+                              (NP (NNP Japan) ))))))))))))))
+    (. .) ))
+( (S-1 
+    (NP-TMP (JJ Last) (NN year) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (NNP Mr.) (NNP Kume) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (NP-SBJ (NNP Nissan) )
+    (VP 
+      (VP (VBD exported) 
+        (NP 
+          (QP (RB slightly) (IN over) (CD one) (CD million) )
+          (NNS vehicles) ))
+      (, ,) 
+      (CC and)
+      (VP (VBD produced) 
+        (NP (CD 570,000) (NNS cars) 
+          (CC and)
+          (NNS trucks) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (PRP$ its) (NNS factories) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NNP North) (NNP America) )
+                (, ,) 
+                (NP (NNP Europe) )
+                (CC and) 
+                (NP (NNP Australia) )))))))
+    (. .) ))
+( (S-1 (CC But) 
+    (PP-TMP (IN by) 
+      (NP (CD 1992) ))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBD added) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (NP-SBJ (NNP Nissan) )
+    (VP (MD will) 
+      (VP (VB build) 
+        (NP 
+          (NP 
+            (QP (CD one) (CD million) )
+            (NNS vehicles) )
+          (NP-ADV (DT a) (NN year) ))
+        (PP-LOC (IN outside) 
+          (NP (NNP Japan) ))
+        (, ,) 
+        (PRN (CC or) 
+          (ADJP (JJ sufficient) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB equal) 
+                  (NP (NNS exports) ))))))))
+    (. .) ))
+( (S-4 (`` ``) 
+    (PP-TMP (IN By) 
+      (NP 
+        (NP (DT the) (NN end) )
+        (PP (IN of) 
+          (NP (DT the) (NNS 1990s) ))))
+    (PRN 
+      (, ,)
+      ('' '') 
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBD said) 
+          (S (-NONE- *T*-4) )))
+      (, ,) )
+    (`` ``) 
+    (NP-SBJ-2 (PRP we) )
+    (VP (VBP want) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB be) 
+            (VP (VBG producing) 
+              (NP 
+                (NP 
+                  (QP (RB roughly) (CD two) )
+                  (NNS vehicles) )
+                (PP (-NONE- *ICH*-3) ))
+              (ADVP-LOC (RB overseas) )
+              (PP-3 (IN for) 
+                (NP 
+                  (NP (DT every) (NN vehicle) )
+                  (SBAR 
+                    (WHNP-1 (IN that) )
+                    (S 
+                      (NP-SBJ (PRP we) )
+                      (VP (VBP export) 
+                        (NP (-NONE- *T*-1) )
+                        (PP-CLR (IN from) 
+                          (NP (NNP Japan) ))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (WDT That) )
+      (VP (MD will) 
+        (VP (VB involve) 
+          (NP 
+            (NP (DT a) (JJ substantial) (NN increase) )
+            (PP (IN in) 
+              (NP (JJ overseas) (NN manufacturing) (NN capacity) ))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP 
+      (VP (VBD acknowledged) 
+        (SBAR (-NONE- 0) 
+          (S (-NONE- *T*-1) )))
+      (, ,) (CC but) 
+      (VP (VBD did) (RB n't) 
+        (VP (VB provide) 
+          (NP (JJ specific) (NNS details) ))))
+    (. .) ))

@@ -1,0 +1,98 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP John) (NNP Franco) )
+      (, ,) 
+      (ADJP (CD 47) (NNS years) (JJ old) )
+      (, ,) 
+      (NP 
+        (ADVP-TMP (RB formerly) )
+        (NP 
+          (NP (NN vice) (NN chairman) )
+          (PP (IN of) 
+            (NP (NNP Capital) (NNP Holding) (NNP Corp.) )))
+        (CC and) 
+        (NP 
+          (NP (NN president) )
+          (PP (IN of) 
+            (NP (PRP$ its) (NNP Accumulation) (NNP Investment) (NNP Group) ))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (JJ chief) (JJ executive) (NN officer) )
+            (PP (IN of) 
+              (NP (DT this) (NN insurance) (VBG holding) (NN company) ))))
+        (, ,) 
+        (ADJP (JJ effective) 
+          (NP-TMP (NNP Dec.) (CD 1) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG succeeding) 
+            (NP 
+              (NP (NNP Robert) (NNP T.) (NNP Shaw) )
+              (, ,) 
+              (SBAR 
+                (WHNP-197 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-197) )
+                  (VP (VBZ remains) 
+                    (NP-PRD (NN chairman) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP I.C.H.) )
+    (ADVP (RB also) )
+    (VP (VBD named) 
+      (NP-3 
+        (NP (NNP Steven) (NNP B.) (NNP Bing) )
+        (, ,) 
+        (NP (CD 42) )
+        (, ,) 
+        (NP 
+          (NP (JJ senior) (NN vice) (NN president) )
+          (PP-TMP (IN since) 
+            (NP (CD 1986) )))
+        (, ,) )
+      (PP-CLR (IN as) 
+        (NP (NN president) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-3) )
+        (VP (VBG succeeding) 
+          (NP 
+            (NP (NNP John) (NNP W.) (NNP Gardiner) )
+            (, ,) 
+            (SBAR 
+              (WHNP-198 (WP who) )
+              (S 
+                (NP-SBJ (-NONE- *T*-198) )
+                (VP (MD will) 
+                  (VP (VB join) 
+                    (NP 
+                      (NP (DT the) (NNP HMS) (NNP Acquisition) (NNP Corp.) (NN division) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNP Hicks) 
+                            (, ,)
+                            (NNP Muse) (CC &) (NNP Co.) )
+                          (, ,) 
+                          (SBAR 
+                            (WHNP-199 (WDT which) )
+                            (S 
+                              (NP-SBJ-2 (-NONE- *T*-199) )
+                              (VP (VBZ has) 
+                                (VP (VBN agreed) 
+                                  (S 
+                                    (NP-SBJ (-NONE- *-2) )
+                                    (VP (TO to) 
+                                      (VP (VB buy) 
+                                        (NP 
+                                          (NP (JJS most) )
+                                          (PP (IN of) 
+                                            (NP 
+                                              (NP (NNP I.C.H.) (POS 's) )
+                                              (JJ Denver-based) (NNS subsidiaries) )))))))))))))))))))))
+    (. .) ))

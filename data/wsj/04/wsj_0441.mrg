@@ -1,0 +1,392 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Moody) (POS 's) )
+      (NNP Investors) (NNP Service) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD lowered) 
+            (NP 
+              (NP (NNS ratings) )
+              (PP (IN on) 
+                (NP 
+                  (NP (JJ long-term) (NN debt) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP CS) (NNP First) (NNP Boston) (NNP Inc.) )
+                      (, ,) 
+                      (NP 
+                        (NP (DT the) (VBG holding) (NN company) )
+                        (PP (IN of) 
+                          (NP (NNP Wall) (NNP Street) (JJ giant) (NNP First) (NNP Boston) (NNP Corp.) ))))))))
+            (, ,) 
+            (PP-PRP (IN because) (IN of) 
+              (NP 
+                (NP 
+                  (NP (NNP First) (NNP Boston) (POS 's) )
+                  (`` ``) (JJ aggressive) (NN merchant) (NN banking) (NN risk) ('' '') )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (ADJP (RB highly) (VBN leveraged) )
+                    (NNS takeovers) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG downgrading) 
+          (NP 
+            (NP (NNP CS) (NNP First) (NNP Boston) (POS 's) )
+            (VBN subordinated) (NN domestic) 
+            (, ,)
+            (NNP Euromarket) 
+            (CC and)
+            (JJ Swiss) (NN debt) )
+          (PP-DIR (TO to) 
+            (NP (NN single-A-3) ))
+          (PP-DIR (IN from) 
+            (NP (NN single-A-2) )))))
+    (, ,) 
+    (NP-SBJ-1 (NNP Moody) (POS 's) )
+    (VP (VBZ is) 
+      (VP (VBG matching) 
+        (NP 
+          (NP (DT a) (NN move) )
+          (VP (VBN made) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP (DT the) (JJ other) (JJ major) (NN credit) (NN rating) (NN concern) )
+                (, ,) 
+                (NP 
+                  (NP (NNP Standard) (CC &) (NNP Poor) (POS 's) )
+                  (NNP Corp.) )))
+            (, ,) 
+            (ADVP-TMP 
+              (NP (JJ several) (NNS months) )
+              (RB ago) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Moody) (VBZ 's) )
+    (ADVP (RB also) )
+    (VP (VBN confirmed) 
+      (NP 
+        (NP (DT the) (NN Prime-1) (NN rating) )
+        (, ,) 
+        (NP (PRP$ its) (JJS highest) )
+        (, ,) 
+        (PP (IN on) 
+          (NP 
+            (NP 
+              (NP (NNP CS) (NNP First) (NNP Boston) (POS 's) )
+              (JJ commercial) (NN paper) )
+            (, ,) (CC or) 
+            (NP (JJ short-term) (JJ corporate) (NNS IOUs) )))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ (NNP Moody) (VBZ 's) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP 
+            (VP (VBD downgraded) 
+              (NP 
+                (NP (NNP Financiere) (NNP Credit) (NNP Suisse-First) (NNP Boston) (POS 's) )
+                (ADJP (JJ senior) 
+                  (CC and)
+                  (VBD subordinated) )
+                (JJ Swiss) (NN debt) )
+              (PP-DIR (TO to) 
+                (NP (JJ single-A-2) ))
+              (PP-DIR (IN from) 
+                (NP (JJ single-A-1) )))
+            (CC and) 
+            (VP (VBD lowered) 
+              (NP 
+                (NP 
+                  (NP (NNP Financiere) (NNP CSFB) (NNP N.V.) (POS 's) )
+                  (JJ junior) (VBN subordinated) (JJ perpetual) (NNP Eurodebt) )
+                (, ,) 
+                (VP (VBN guaranteed) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS (NNP Financiere) (NNP Credit) (NNP Suisse) (: --) (NNP First) (NNP Boston) ))))
+              (, ,) 
+              (PP-DIR (TO to) 
+                (NP (NN single-A-3) ))
+              (PP-DIR (IN from) 
+                (NP (NN single-A-2) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-4 
+      (NP 
+        (QP (RB About) ($ $) (CD 550) (CD million) )
+        (-NONE- *U*) )
+      (PP (IN of) 
+        (NP (JJ long-term) (NN debt) )))
+    (VP (VBZ is) 
+      (VP (VBN affected) 
+        (NP (-NONE- *-4) )
+        (, ,) 
+        (PP (VBG according) 
+          (PP (TO to) 
+            (NP (NNP Moody) (POS 's) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN spokesman) )
+      (PP (IN for) 
+        (NP (NNP CS) (NNP First) (NNP Boston) )))
+    (VP (VBD said) (: :) (`` ``) 
+      (S 
+        (NP-SBJ (PRP We) )
+        (VP (VBP remain) 
+          (ADJP-PRD (JJ committed) 
+            (PP (TO to) 
+              (NP 
+                (NP (DT a) (JJ full) (NN range) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNS businesses) )
+                    (, ,) 
+                    (PP (VBG including) 
+                      (NP (NN merchant) (NN banking) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP We) )
+    (VP (VBP think) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NNS ratings) (NN revision) )
+          (VP (VBZ is) 
+            (ADJP-PRD (JJ unfortunate) (CC but) (RB not) (JJ unexpected) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP$ Our) (NN commitment) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB manage) 
+            (NP (DT these) (NNS businesses) )
+            (ADVP-MNR (RB profitably) )))))
+    (VP (MD will) 
+      (VP (VB continue) ))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP First) (NNP Boston) (POS 's) )
+      (NN merchant) (NN banking) (NNS risks) )
+    (VP (VBD mounted) 
+      (NP-TMP (JJ last) (NN month) )
+      (SBAR-ADV (RB as) 
+        (S 
+          (S 
+            (NP-SBJ-4 
+              (NP 
+                (ADJP (RB highly) (VBN leveraged) )
+                (NNP Campeau) (NNP Corp.) )
+              (, ,) 
+              (NP 
+                (NP 
+                  (NP (NNP First) (NNP Boston) (POS 's) )
+                  (ADJP (RBS most) (JJ lucrative) )
+                  (NN client) )
+                (PP (IN of) 
+                  (NP (DT the) (NN decade) )))
+              (, ,) )
+            (VP (VBD was) 
+              (VP (VBN hit) 
+                (NP (-NONE- *-4) )
+                (PP (IN by) 
+                  (NP-LGS (DT a) (NN cash) (NN squeeze) )))))
+          (CC and) 
+          (S 
+            (NP-SBJ (DT the) (JJ high-risk) (NN junk) (NN bond) (NN market) )
+            (VP (VBD tumbled) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP First) (NNP Boston) )
+    (VP (VBN incurred) 
+      (NP 
+        (NP (NNS millions) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS dollars) )
+            (PP (IN of) 
+              (NP (NNS losses) )))))
+      (PP-CLR 
+        (PP (IN on) 
+          (NP 
+            (NP (NNP Campeau) (NNS securities) )
+            (SBAR 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (VBD owned) 
+                  (NP (-NONE- *T*-1) ))))))
+        (CONJP (RB as) (RB well) (IN as) )
+        (PP (IN on) 
+          (NP 
+            (NP (JJ special) (NNS securities) )
+            (SBAR 
+              (WHNP-2 (-NONE- 0) )
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (MD could) (RB n't) 
+                  (VP (VB sell) 
+                    (NP (-NONE- *T*-2) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP First) (NNP Boston) (NNS financings) )
+      (PP (IN for) 
+        (NP 
+          (NP (JJ several) (JJ other) 
+            (ADJP (RB highly) (JJ leveraged) )
+            (NNS clients) )
+          (, ,) 
+          (PP (VBG including) 
+            (NP (NNP Ohio) (NNP Mattress) ))
+          (, ,) )))
+    (VP (VBD unraveled) 
+      (SBAR-ADV (IN as) 
+        (S 
+          (NP-SBJ (DT the) (JJ high-risk) (NN junk) (NN bond) (NN market) )
+          (VP (VBD plummeted) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Moody) (POS 's) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN rating) (NNS changes) (NNS actions) )
+          (`` ``) 
+          (VP (VBP reflect) 
+            (NP 
+              (NP 
+                (NP (NNP CS) (NNP First) (NNP Boston) (POS 's) )
+                (JJ aggressive) (NN merchant) (VBG banking) (NN risk) )
+              (CONJP (RB as) (RB well) (IN as) )
+              (NP 
+                (NP (DT the) (NN risk) (NN profile) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (JJ current) (NN merchant) (NN banking) (NNS exposures) ))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (NNP CS) (NNP First) (NNP Boston) )
+            (`` ``) 
+            (VP (VBZ has) 
+              (ADVP (RB consistently) )
+              (VP (VBN been) 
+                (NP-PRD 
+                  (NP (CD one) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) 
+                        (ADJP (RBS most) (JJ aggressive) )
+                        (NNS firms) )
+                      (PP-LOC (IN in) 
+                        (NP (NN merchant) (NN banking) )))))))
+            ('' '') ))
+        (CC and) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (`` ``) 
+              (NP (DT a) 
+                (ADJP (RB very) (JJ significant) )
+                (NN portion) )
+              ('' '') 
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NN firm) (POS 's) )
+                    (NN profit) )
+                  (PP-TMP (IN in) 
+                    (NP (JJ recent) (NNS years) )))))
+            (VP (VBZ has) 
+              (VP (VBN come) 
+                (PP-DIR (IN from) 
+                  (NP (NN merchant) (JJ banking-related) (NN business) ))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (NNP Moody) (POS 's) )
+      (VP (VBZ believes) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (JJ uncertain) (NN environment) )
+              (PP (IN for) 
+                (NP (NN merchant) (NN banking) )))
+            (VP (MD could) 
+              (VP (VB put) 
+                (NP (NN pressure) )
+                (PP-PUT (IN on) 
+                  (NP 
+                    (NP (NNP CS) (NNP First) (NNP Boston) (POS 's) )
+                    (NN performance) ))))))))
+    (, ,) ('' '') 
+    (NP-SBJ-2 (DT the) (NN rating) (NN concern) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (VBG citing) 
+          (NP (`` ``) 
+            (NP (VBN continued) (NNS problems) )
+            ('' '') 
+            (PP (IN from) 
+              (NP 
+                (NP 
+                  (NP (DT the) (NN firm) (POS 's) )
+                  (NNS exposures) )
+                (PP 
+                  (PP (TO to) (`` ``) 
+                    (NP (JJ various) (JJ Campeau-related) (NNS firms) )
+                    ('' '') )
+                  (CC and) 
+                  (PP (TO to) 
+                    (NP (NNP Ohio) (NNP Mattress) )))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT These) (CD two) (NNS exposures) )
+        (ADVP (RB alone) ))
+      (VP (VBP represent) 
+        (NP 
+          (NP (DT a) 
+            (ADJP (RB very) (JJ substantial) )
+            (NN portion) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP CS) (NNP First) (NNP Boston) (POS 's) )
+              (NN equity) )))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Moody) (POS 's) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (JJ Total) (NN merchant) (NN banking) (NNS exposures) )
+    (VP (VBP are) 
+      (PP-PRD (IN in) 
+        (NP 
+          (NP (NN excess) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN firm) (POS 's) )
+              (NN equity) )))))
+    (. .) ))

@@ -1,0 +1,109 @@
+
+( (S 
+    (NP-SBJ (DT The) (JJ following) (NNS issues) )
+    (VP (VBD were) 
+      (ADVP-TMP (RB recently) )
+      (VP (VBN filed) 
+        (PP-CLR (IN with) 
+          (NP (DT the) (NNPS Securities) 
+            (CC and)
+            (NNP Exchange) (NNP Commission) ))))
+    (: :) ))
+( (NP 
+    (NP 
+      (NP (NNP Heller) (NNP Financial) (NNP Inc.) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (JJ indirect) (NN subsidiary) )
+        (PP (IN of) 
+          (NP (NNP Fuji) (NNP Bank) (NNP Ltd.) )))
+      (, ,) )
+    (NP 
+      (NP (NN shelf) (NN offering) )
+      (PP (IN of) 
+        (NP 
+          (ADJP 
+            (QP (IN up) (TO to) ($ $) (CD 1) (CD billion) )
+            (-NONE- *U*) )
+          (NN debt) (NNS securities) 
+          (CC and)
+          (NNS warrants) )))
+    (. .) ))
+( (NP 
+    (NP (NNP Jason) (NNP Overseas) (NNP Ltd.) )
+    (, ,) 
+    (NP 
+      (NP 
+        (NP (VBN proposed) (VBG offering) )
+        (PP (IN of) 
+          (NP 
+            (QP (CD five) (CD million) )
+            (JJ common) (NNS shares) )))
+      (, ,) 
+      (PP (IN via) 
+        (NP 
+          (NP (NNP Smith) (NNP Barney) (CC &) (NNP Co.) )
+          (CC and) 
+          (NP (NNP Mabon) (NNP Nugent) (CC &) (NNP Co) ))))
+    (. .) ))
+( (NP 
+    (NP (NNP MCI) (NNPS Communications) (NNP Corp.) )
+    (, ,) 
+    (NP 
+      (NP 
+        (NP (NN shelf) (NN offering) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP (IN up) (TO to) ($ $) (CD 750) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN of) 
+              (NP (NN debt) (NNS securities) )))))
+      (PP (IN via) 
+        (NP 
+          (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNPS Markets) )
+          (, ,) 
+          (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.) )
+          (, ,) 
+          (NP (NNP Goldman) 
+            (, ,)
+            (NNP Sachs) (CC &) (NNP Co.) )
+          (, ,) 
+          (CC and)
+          (NP (NNP Salomon) (NNPS Brothers) (NNP Inc) ))))
+    (. .) ))
+( (NP 
+    (NP (NNP Millicom) (NNP Inc.) )
+    (, ,) 
+    (NP 
+      (NP 
+        (NP (NN offering) )
+        (PP (IN of) 
+          (NP 
+            (ADJP 
+              (QP ($ $) (CD 60) (CD million) )
+              (-NONE- *U*) )
+            (JJ subordinated) (JJ exchangeable) (NNS debentures) )))
+      (, ,) 
+      (PP (IN via) 
+        (NP (NNP Bear) 
+          (, ,)
+          (NNPS Stearns) (CC &) (NNP Co.) (NNP Inc) )))
+    (. .) ))
+( (NP 
+    (NP (NNP Union) (NNP Tank) (NNP Car) (NNP Co.) )
+    (, ,) 
+    (NP 
+      (NP 
+        (NP (NN offering) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 100) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN of) 
+              (NP (NN equipment) (NN trust) (NNS certificates) )))))
+      (, ,) 
+      (PP (IN via) 
+        (NP (NNP Salomon) (NNPS Brothers) )))
+    (. .) ))

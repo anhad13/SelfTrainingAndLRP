@@ -1,0 +1,208 @@
+
+( (S 
+    (NP-SBJ (NNP Hewlett-Packard) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD raised) 
+            (NP 
+              (NP (PRP$ its) (NN stake) )
+              (PP-LOC (IN in) 
+                (NP (NNP Octel) (NNP Communications) (NNP Corp.) )))
+            (PP-CLR (TO to) 
+              (NP 
+                (NP (CD 8.5) (NN %) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (JJ common) (NNS shares) )
+                    (ADJP (JJ outstanding) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (NNP Securities) 
+        (CC and)
+        (NNP Exchange) (NNP Commission) (NN filing) ))
+    (, ,) 
+    (NP-SBJ (NNP Hewlett-Packard) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (ADVP-TMP (RB now) )
+          (VP (VBZ holds) 
+            (NP 
+              (NP (CD 1,384,119) (NN Octel) (JJ common) (NNS shares) )
+              (, ,) 
+              (PP (VBG including) 
+                (NP 
+                  (NP (CD 100,000) (NNS shares) )
+                  (VP (VBN bought) 
+                    (NP (-NONE- *) )
+                    (PP-TMP 
+                      (PP (IN from) 
+                        (NP (NNP Aug.) (CD 26) ))
+                      (PP (TO to) 
+                        (NP (NNP Oct.) (CD 20) )))
+                    (PP-CLR (IN for) 
+                      (NP 
+                        (NP 
+                          (QP ($ $) (CD 23.31) (TO to) ($ $) (CD 24.25) )
+                          (-NONE- *U*) )
+                        (NP-ADV (DT a) (NN share) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Hewlett-Packard) )
+      (, ,) 
+      (NP (DT a) 
+        (NAC-LOC (NNP Palo) (NNP Alto) 
+          (, ,)
+          (NNP Calif.) 
+          (, ,)
+          )
+        (NN computer) (NN company) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD acquired) 
+            (NP (DT the) (NN stock) )
+            (`` ``) 
+            (S-PRP 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB develop) 
+                  (CC and)
+                  (VB maintain) 
+                  (NP 
+                    (NP (DT a) (JJ strategic) (NN partnership) )
+                    (SBAR 
+                      (WHPP-4 (IN in) 
+                        (WHNP (WDT which) ))
+                      (S 
+                        (NP-SBJ-2 (DT each) (NN company) )
+                        (VP (VBZ remains) 
+                          (ADJP-PRD (JJ independent) )
+                          (SBAR-ADV (IN while) 
+                            (S 
+                              (NP-SBJ-3 (-NONE- *-2) )
+                              (VP (VBG working) 
+                                (ADVP-MNR (RB together) )
+                                (S-CLR 
+                                  (NP-SBJ (-NONE- *-3) )
+                                  (VP (TO to) 
+                                    (VP (VB market) 
+                                      (CC and)
+                                      (VB sell) 
+                                      (NP (PRP$ their) (NNS products) )))))))
+                          (PP-LOC (-NONE- *T*-4) ))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNP Octel) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN purchase) )
+          (VP (VBD was) 
+            (VP (VBN expected) 
+              (NP (-NONE- *-1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Hewlett-Packard) )
+    (VP (VBD affirmed) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ does) (RB n't) 
+            (VP (VB plan) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB obtain) 
+                    (NP 
+                      (NP (NN control) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNP Octel) )
+                          (, ,) 
+                          (NP 
+                            (NP (DT a) 
+                              (NAC-LOC (NNP Milpitas) 
+                                (, ,)
+                                (NNP Calif.) 
+                                (, ,)
+                                )
+                              (NN maker) )
+                            (PP (IN of) 
+                              (NP (JJ voice-processing) (NNS systems) ))))))))))))))
+    (. .) ))
+( (S 
+    (PP (VBG According) 
+      (PP (TO to) 
+        (NP (DT the) (NN filing) )))
+    (, ,) 
+    (NP-SBJ (NNP Hewlett-Packard) )
+    (VP (VBD acquired) 
+      (NP (CD 730,070) (JJ common) (NNS shares) )
+      (PP-CLR (IN from) 
+        (NP (NNP Octel) ))
+      (PP-PRP (IN as) 
+        (NP 
+          (NP (DT a) (NN result) )
+          (PP (IN of) 
+            (NP (DT an) 
+              (NAC-TMP (NNP Aug.) (CD 10) 
+                (, ,)
+                (CD 1988) 
+                (, ,)
+                )
+              (NN stock) (NN purchase) (NN agreement) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) (NN accord) )
+    (ADVP (RB also) )
+    (VP (VBD called) 
+      (SBAR (IN for) 
+        (S 
+          (NP-SBJ (NNP Hewlett-Packard) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP (CD 730,070) (NNP Octel) (NNS shares) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (JJ open) (NN market) ))
+              (PP-TMP (IN within) 
+                (NP (CD 18) (NNS months) )))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ (NNP Hewlett-Packard) )
+    (VP (VBD acquired) 
+      (NP (DT a) (JJ two-year) (NN option) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP 
+                (NP (DT an) (JJ extra) (CD 10) (NN %) )
+                (, ,) 
+                (SBAR 
+                  (WHPP-2 (IN of) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP-SBJ-1 
+                      (NP (NN half) )
+                      (PP (-NONE- *T*-2) ))
+                    (VP (MD may) 
+                      (VP (VB be) 
+                        (VP (VBN sold) 
+                          (NP (-NONE- *-1) )
+                          (ADVP-MNR (RB directly) )
+                          (PP-DTV (TO to) 
+                            (NP (NNP Hewlett-Packard) ))
+                          (PP (IN by) 
+                            (NP-LGS (NNP Octel) )))))))))))))
+    (. .) ))

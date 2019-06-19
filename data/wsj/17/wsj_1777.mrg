@@ -1,0 +1,63 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Sir) (NNP Richard) (NNP Butler) )
+      (, ,) 
+      (NP 
+        (NP (JJ 60-year-old) (NN chairman) )
+        (PP (IN of) 
+          (NP (NNP Agricola) 
+            (PRN 
+              (-LRB- -LRB-)
+              (NNP U.K) (. .) 
+              (-RRB- -RRB-)
+              )
+            (NNP Ltd.) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN chairman) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP County) (NNP NatWest) (NNP Investment) (NNP Management) (NNP Ltd.) )
+                (, ,) 
+                (NP 
+                  (NP (DT the) (NN investment) (NN management) (NN subsidiary) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP County) (NNP NatWest) (NNP Ltd.) )
+                      (, ,) 
+                      (NP 
+                        (NP (DT the) (NN investment) (NN banking) (NN arm) )
+                        (PP (IN of) 
+                          (NP (DT this) (JJ British) (NN bank) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Sir) (NNP Richard) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP John) (NNP Plastow) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD resigned) 
+              (PP-TMP (IN in) 
+                (NP (NNP July) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Sir) (NNP Richard) )
+    (VP (VBZ is) 
+      (ADVP (RB also) )
+      (NP-PRD 
+        (NP (DT a) (JJ non-executive) (NN director) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (NNP National) (NNP Westminister) (NNP Bank) )
+            (CC and) 
+            (NP (NNP NatWest) (NNP Investment) (NNP Bank) (NNP Ltd) )))))
+    (. .) ))

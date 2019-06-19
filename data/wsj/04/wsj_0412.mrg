@@ -1,0 +1,84 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (JJ Private) (NN housing) (NNS starts) )
+        (PP-LOC (IN in) 
+          (NP (NNP Japan) )))
+      (VP (VBD were) 
+        (ADJP-PRD (JJ unchanged) )
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))
+        (PP (IN from) 
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RB earlier) ))
+        (PP (IN at) 
+          (NP (CD 144,610) (NNS units) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Construction) (NNP Ministry) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ flat) (NN report) )
+    (VP (VBD followed) 
+      (NP 
+        (NP (DT a) (JJ four-month) (NN string) )
+        (PP (IN of) 
+          (NP (NNS declines) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ down) (NN trend) )
+    (VP (VBD was) 
+      (ADVP (RB partly) )
+      (NP-PRD 
+        (NP (DT the) (NN result) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJR tighter) (NN credit) )
+            (VP (VBN sparked) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT a) (NN discount) (NN rate) (NN increase) )
+                  (PP (IN by) 
+                    (NP-LGS 
+                      (NP (DT the) (NNP Bank) )
+                      (PP (IN of) 
+                        (NP (NNP Japan) ))))
+                  (PP-TMP (IN in) 
+                    (NP (NNP May) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ central) (NN bank) )
+    (ADVP (RB also) )
+    (ADVP (RB unexpectedly) )
+    (VP (VBD raised) 
+      (NP (DT the) (NN base) (NN rate) )
+      (PP-EXT (IN by) 
+        (NP (PDT half) (DT a) (NN percentage) (NN point) ))
+      (PP-DIR (TO to) 
+        (NP (CD 3.75) (NN %) ))
+      (NP-TMP (NNP Oct.) (CD 11) )
+      (PP (IN as) 
+        (NP 
+          (NP (NN part) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT an) (JJ inflation-fighting) (NN move) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP 
+                    (ADVP-MNR (RB indirectly) )
+                    (VBZ increases) 
+                    (NP 
+                      (NP (NN interest) (NNS rates) )
+                      (VP (VBN charged) 
+                        (NP (-NONE- *) )
+                        (PP-CLR (IN on) 
+                          (NP (JJ new) (NN home) (NN construction) (NNS loans) ))))))))))))
+    (. .) ))

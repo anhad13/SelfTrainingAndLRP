@@ -1,0 +1,66 @@
+
+( (S 
+    (NP-SBJ (NNP NORTH) (NNP SIDE) (NNP SAVINGS) (NNP BANK) (NNS directors) )
+    (VP (VBD declared) 
+      (NP 
+        (NP (DT an) (JJ initial) (NN dividend) )
+        (PP (IN of) 
+          (NP 
+            (NP (CD 10) (NNS cents) )
+            (NP-ADV (DT a) (NN share) )))
+        (, ,) 
+        (ADJP (JJ payable) 
+          (NP-TMP (NNP Dec.) (CD 5) )
+          (PP (TO to) 
+            (NP 
+              (NP (NN stock) )
+              (PP (IN of) 
+                (NP (NN record) ))
+              (NP-TMP (NNP Nov.) (CD 21) ))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 
+      (NP-SBJ (DT The) 
+        (NAC-LOC (NNP Floral) (NNP Park) 
+          (, ,)
+          (NNP N.Y.) 
+          (, ,)
+          )
+        (NN thrift) )
+      (VP (VBZ has) 
+        (NP (DT a) (JJ strong) (NNS capital-to-assets) (NN ratio) )))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ (NNP Vice) (NNP President) (NNP Michael) (NNP D.N.) (NNP Confer) )
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP (NNP Sept.) (CD 30) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN thrift) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD converted) 
+            (PP-CLR (TO to) 
+              (NP 
+                (NP (DT a) (NN stock) (NN form) )
+                (PP (IN of) 
+                  (NP (NN ownership) ))))
+            (PP-CLR (IN from) 
+              (NP (DT a) (JJ mutual) (NN form) ))
+            (PP-TMP (IN in) 
+              (NP (NNP April) (CD 1986) )))))
+      (, ,) )
+    (VP (VBD had) 
+      (NP 
+        (NP 
+          (QP (RBR more) (IN than) (CD four) (CD million) )
+          (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))

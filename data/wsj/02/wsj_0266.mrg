@@ -1,0 +1,123 @@
+
+( (S 
+    (NP-SBJ-1 (PRP I) )
+    (VP (VBD was) 
+      (ADJP-PRD (JJ pleased) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB note) 
+              (SBAR (DT that) 
+                (S 
+                  (NP-SBJ (PRP$ your) (NNP Oct.) (CD 23) (NNP Centennial) (NNP Journal) (NN item) )
+                  (VP (VBD recognized) 
+                    (NP (DT the) (NN money-fund) (NN concept) )
+                    (PP-CLR (IN as) 
+                      (NP 
+                        (NP (CD one) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (DT the) (JJ significant) (NNS events) )
+                            (PP (IN of) 
+                              (NP (DT the) (JJ past) (NN century) ))))))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Actually) )
+    (, ,) 
+    (ADVP-TMP 
+      (NP (IN about) (CD two) (NNS years) )
+      (RB ago) )
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Journal) )
+    (VP (VBD listed) 
+      (NP 
+        (NP (DT the) (NN creation) )
+        (PP (IN of) 
+          (NP (DT the) (NN money) (NN fund) )))
+      (PP-CLR (IN as) 
+        (NP 
+          (NP (CD one) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (CD 10) 
+                (ADJP (RBS most) (JJ significant) )
+                (NNS events) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (DT the) (NN world) )
+                  (PP (IN of) 
+                    (NP (NN finance) ))))
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ 20th) (NN century) )))))))
+    (. .) ))
+( (S (CC But) 
+    (S 
+      (NP-SBJ-1 
+        (NP (DT the) (NNP Reserve) (NNP Fund) )
+        (, ,) 
+        (NP 
+          (NP (NNP America) (POS 's) )
+          (JJ first) (NN money) (NN fund) )
+        (, ,) )
+      (VP (VBD was) (RB not) 
+        (VP (VBN named) 
+          (NP (-NONE- *-1) ))))
+    (, ,) (CC nor) 
+    (SINV (VBD were) 
+      (NP-SBJ 
+        (NP (DT the) (NNS creators) )
+        (PP (IN of) 
+          (NP (DT the) (NN money-fund) (NN concept) ))
+        (, ,) 
+        (NP 
+          (NP (NNP Harry) (NNP Brown) )
+          (CC and) 
+          (NP (PRP myself) )))
+      (VP (-NONE- *?*) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP We) )
+    (VP (VBD innovated) 
+      (NP 
+        (NP 
+          (NP (NN telephone) (NNS redemptions) )
+          (, ,) 
+          (NP (JJ daily) (NNS dividends) )
+          (, ,) 
+          (NP 
+            (NP (JJ total) (NN elimination) )
+            (PP (IN of) 
+              (NP (NN share) (NNS certificates) )))
+          (CC and) 
+          (NP (DT the) (JJ constant) 
+            (ADJP ($ $) (CD 1) (-NONE- *U*) (JJ pershare) )
+            (NN pricing) ))
+        (, ,) 
+        (SBAR 
+          (WHNP-154 
+            (NP (DT all) )
+            (WHPP (IN of) 
+              (WHNP (WDT which) )))
+          (S 
+            (NP-SBJ-1 (-NONE- *T*-154) )
+            (VP (VBD were) 
+              (UCP-PRD 
+                (VP 
+                  (ADVP-MNR (RB painfully) )
+                  (VBN thought) 
+                  (NP (-NONE- *-1) )
+                  (ADVP-CLR (RB out) ))
+                (CC and) (RB not) 
+                (NP 
+                  (NP (DT the) (NN result) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT some) (NN inadvertence) )
+                      (PP (IN on) 
+                        (NP 
+                          (NP (DT the) (NN part) )
+                          (PP (IN of) 
+                            (NP (DT the) (NNP SEC) )))))))))))))
+    (. .) ))
+( (NP (NN President) ))
+( (NP (DT The) (NNP Reserve) (NNP Fund) ))

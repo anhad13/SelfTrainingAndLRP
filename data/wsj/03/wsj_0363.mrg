@@ -1,0 +1,288 @@
+
+( (S 
+    (NP-SBJ (NNPS Bankers) (NNP Trust) (NNP New) (NNP York) (NNP Corp.) )
+    (VP (VBD won) 
+      (NP 
+        (NP (NN permission) 
+          (S (-NONE- *ICH*-1) ))
+        (PP (IN from) 
+          (NP (DT the) (NNP Federal) (NNP Reserve) (NNP Board) ))
+        (S-1 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB move) 
+              (NP 
+                (NP (DT the) (NN company) (POS 's) )
+                (JJ private) (NN placement) (NN department) )
+              (PP-DIR (TO to) 
+                (NP (PRP$ its) (JJ fledgling) (NNS securities) (NN subsidiary) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) 
+        (ADJP (RB seemingly) (JJ mundane) )
+        (NN action) )
+      (, ,) 
+      (SBAR 
+        (WHNP-183 (WDT which) )
+        (S 
+          (NP-SBJ-1 (-NONE- *T*-183) )
+          (VP (VBD was) 
+            (VP (VBN opposed) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT the) (NNPS Securities) (NNP Industry) (NNP Association) )
+                  (, ,) 
+                  (NP (DT a) (NN trade) (NN group) )
+                  (, ,) )))))))
+    (VP (VBZ has) 
+      (NP 
+        (NP (JJ important) (NNS implications) )
+        (PP (IN for) 
+          (NP 
+            (NP 
+              (NP (NNS banks) (POS ') )
+              (JJ recent) (NN entry) )
+            (PP (IN into) 
+              (NP 
+                (NP (DT the) (NN underwriting) )
+                (PP (IN of) 
+                  (NP (JJ corporate) (NNS securities) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP Fed) (POS 's) )
+      (NN action) )
+    (VP (VBZ increases) 
+      (NP 
+        (NP (DT the) (NN volume) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (ADJP (RB publicly) (VBN registered) )
+              (NNS securities) )
+            (SBAR 
+              (WHNP-1 (IN that) )
+              (S 
+                (NP-SBJ 
+                  (NP (NNS banks) (POS ') )
+                  (NNS securities) (NNS affiliates) )
+                (VP (MD will) 
+                  (VP (VB be) 
+                    (ADJP-PRD (JJ able) 
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB underwrite) 
+                            (NP (-NONE- *T*-1) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Several) (JJ other) (NNS banks) )
+    (VP (VBP have) 
+      (NP 
+        (NP (JJ similar) (NNS applications) )
+        (ADJP (JJ pending) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN Over) 
+      (NP (DT the) (JJ past) (CD two) (NNS years) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Fed) )
+    (VP (VBZ has) 
+      (VP (VBN given) 
+        (NP 
+          (NP (DT a) (NN handful) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNS banks) (POS ') )
+              (NNS securities) (NNS affiliates) )))
+        (NP (NN permission) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP 
+                (VP (VB underwrite) 
+                  (NP (-NONE- *RNR*-1) ))
+                (CC and) 
+                (VP (VB deal) 
+                  (PP-CLR (IN in) 
+                    (NP (-NONE- *RNR*-1) )))
+                (NP-1 
+                  (NP (DT a) (NN variety) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (ADJP (JJ corporate) 
+                          (, ,)
+                          (JJ asset-backed) 
+                          (CC and)
+                          (JJ municipal) )
+                        (NNS securities) )
+                      (SBAR 
+                        (WHNP-184 (WDT that) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-184) )
+                          (VP (VBD had) 
+                            (ADVP-TMP (RB previously) )
+                            (VP (VBN been) 
+                              (NP-PRD 
+                                (NP (DT the) (JJ sole) (NN domain) )
+                                (PP (IN of) 
+                                  (NP (NNS securities) (NNS firms) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Securities) (NNS firms) )
+    (VP (VBP have) 
+      (VP (VBN challenged) 
+        (NP (DT those) (NNP Fed) (NNS approvals) )
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG saying) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (VBP violate) 
+                  (NP 
+                    (NP (JJ federal) (NNS laws) )
+                    (VP (VBG separating) 
+                      (NP (DT the) (NN banking) 
+                        (CC and)
+                        (NNS securities) (NNS businesses) ))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Fed) )
+    (VP (VBD limited) 
+      (NP 
+        (NP (DT the) (NN revenue) )
+        (SBAR 
+          (WHNP-185 (WDT that) )
+          (S 
+            (NP-SBJ (NNS banks) )
+            (VP (MD could) 
+              (VP (VB earn) 
+                (NP (-NONE- *T*-185) )
+                (PP-CLR (IN from) 
+                  (NP (DT these) (JJ new) (NN underwriting) (NNS activities) )))))))
+      (PP-CLR (TO to) 
+        (NP 
+          (NP 
+            (QP (DT no) (JJR more) (IN than) (CD 10) )
+            (NN %) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN revenue) )
+              (VP (VBN earned) 
+                (NP (-NONE- *) )
+                (PP-CLR (IN from) 
+                  (NP 
+                    (NP (JJ other) (NNS securities) (NNS activities) )
+                    (ADJP (RB long) (RB open) 
+                      (PP (TO to) 
+                        (NP (NNS banks) )))
+                    (, ,) 
+                    (PP (JJ such) (IN as) 
+                      (S-NOM 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (VBG dealing) 
+                          (PP-CLR (IN in) 
+                            (NP (NNP U.S.) (NNPS Treasurys) )))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (DT some) (NNS banks) ))
+    (NP-SBJ (DT that) 
+      (ADJP (CD 10) (NN %) )
+      (NN ceiling) )
+    (VP (VBD created) 
+      (NP (NNS problems) ))
+    (. .) ))
+( (S (CC But) 
+    (, ,)
+    (PP-MNR (IN by) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG allowing) 
+          (S 
+            (NP-SBJ (NNP BT) (NNP Securities) (NNP Inc.) )
+            (VP (TO to) 
+              (VP (VB handle) 
+                (NP (JJ private) (NNS placements) )))))))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NNP Fed) )
+    (VP (VBD boosted) 
+      (NP 
+        (NP (DT the) (NN volume) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ new) (NNS types) )
+            (PP (IN of) 
+              (NP 
+                (NP (NN underwriting) )
+                (SBAR 
+                  (WHNP-186 (IN that) )
+                  (S 
+                    (NP-SBJ (DT the) (NN unit) )
+                    (VP (MD can) 
+                      (VP (VB do) 
+                        (NP (-NONE- *T*-186) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Private) (NNS placements) )
+    (VP (VBP involve) 
+      (NP 
+        (NP (NN debt) )
+        (CC and) 
+        (NP (NN equity) (NNS securities) ))
+      (, ,) 
+      (PP-LOC 
+        (ADVP (RB typically) )
+        (IN in) 
+        (NP 
+          (NP (NNS denominations) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 1) (CD million) )
+              (-NONE- *U*) ))
+          (, ,) 
+          (SBAR 
+            (WHNP-187 (WDT that) )
+            (S 
+              (NP-SBJ-1 (-NONE- *T*-187) )
+              (VP 
+                (VP (VBP are) 
+                  (VP (VBN sold) 
+                    (NP (-NONE- *-1) )
+                    (PP-DTV (TO to) 
+                      (NP (JJ institutional) (NNS investors) ))))
+                (CC and) 
+                (VP (VBP are) (RB n't) 
+                  (VP (JJ registered) 
+                    (NP (-NONE- *-1) )
+                    (PP-CLR (IN with) 
+                      (NP (DT the) (NNP Securities) 
+                        (CC and)
+                        (NNP Exchange) (NNP Commission) ))))))))))
+    (. .) ))
+( (S 
+    (NP-TMP (JJ Last) (NN year) )
+    (, ,) 
+    (NP-SBJ (NNP Bankers) (NNP Trust) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD placed) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 10) (CD billion) )
+                (-NONE- *U*) )
+              (PP (IN of) 
+                (NP (JJ corporate) (NN debt) 
+                  (CC and)
+                  (NNS equities) )))
+            (ADVP-MNR (RB privately) )))))
+    (. .) ))

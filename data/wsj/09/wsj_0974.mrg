@@ -1,0 +1,42 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (JJ SHORT) (NN INTEREST) )
+      (PP (IN in) 
+        (NP (NNP International) (NNP Mobile) (NNPS Machines) (NNP Corp.) )))
+    (VP (VBD fell) 
+      (PP-DIR (TO to) 
+        (NP (CD 3,102,935) (NNS shares) )
+        (PP-TMP (IN in) 
+          (NP 
+            (NP (DT the) (NN month) )
+            (VP (VBD ended) 
+              (NP-TMP (NNP Oct.) (CD 13) )))))
+      (PP-DIR (IN from) 
+        (NP (CD 3,420,936) )
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))))
+    (. .) ))
+( (S 
+    (PP-PRP (IN Because) (IN of) 
+      (NP 
+        (NP (DT an) (NN error) )
+        (PP (IN by) 
+          (NP 
+            (NP (DT the) (NNP National) (NNP Association) )
+            (PP (IN of) 
+              (NP (NNPS Securities) (NNPS Dealers) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN listing) )
+    (VP (VBD appeared) 
+      (ADVP-CLR (RB incorrectly) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT the) (JJ main) (NN table) )
+          (CC and) 
+          (NP (JJ several) (NN highlight) (NNS tables) )))
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NN yesterday) (POS 's) )
+          (NN edition) )))
+    (. .) ))

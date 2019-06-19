@@ -1,0 +1,178 @@
+
+( (S 
+    (NP-SBJ (NNP U.S.) (NN steel) (NNS imports) )
+    (PP-TMP (IN in) 
+      (NP (NNP August) ))
+    (VP (VBD fell) 
+      (NP-EXT (CD 14) (NN %) )
+      (PP-DIR (IN from) 
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (JJR earlier) ))
+      (PP-DIR (TO to) 
+        (NP (CD 1,531,000) (NNS tons) ))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP (DT the) (NNP American) (NNP Iron) 
+            (CC and)
+            (NNP Steel) (NNP Institute) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT The) (NN trade) (NN group) (POS 's) )
+        (NN compilation) )
+      (PP (IN of) 
+        (NP (NNP Commerce) (NNP Department) (NNS data) )))
+    (VP (VBD showed) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP August) (NNS imports) )
+            (, ,) 
+            (NP 
+              (NP (DT the) 
+                (ADJP (JJ second) (JJS largest) )
+                (JJ monthly) (NN total) )
+              (PP (IN of) 
+                (NP (DT the) (NN year) )))
+            (, ,) )
+          (VP (VBD were) 
+            (UCP-PRD 
+              (ADVP (IN up) 
+                (NP (CD 5) (NN %) )
+                (PP (IN from) 
+                  (NP 
+                    (NP (NNP July) (POS 's) )
+                    (CD 1,458,000) (NNS tons) )))
+              (CC but) 
+              (PP-LOC (IN below) 
+                (NP 
+                  (NP 
+                    (NP (JJ last) (NN year) (VBZ 's) )
+                    (JJ high) )
+                  (PP (IN of) 
+                    (NP (CD 1,979,000) (NNS tons) ))
+                  (PP-TMP (IN in) 
+                    (NP (NNP June) (CD 1988) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP August) (NNS imports) )
+    (VP (VBD claimed) 
+      (NP 
+        (NP (CD 18.5) (NN %) )
+        (PP (IN of) 
+          (NP (DT the) (NNP U.S.) (NN market) )))
+      (, ,) 
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP 
+              (NP (CD 19.3) (NN %) )
+              (PP-TMP (IN in) 
+                (NP (NNP July) )))
+            (CC and) 
+            (NP 
+              (NP (CD 20.5) (NN %) )
+              (PP-TMP (IN in) 
+                (NP (NNP August) (CD 1988) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJS latest) (NN month) (POS 's) )
+      (NNS figures) )
+    (VP (VB show) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS imports) )
+            (PP (IN of) 
+              (NP (NN steel) ))
+            (PP (IN from) 
+              (NP (NNP European) (NNP Community) (NNS nations) )))
+          (VP (VBD fell) 
+            (PP-DIR (TO to) 
+              (NP (CD 466,000) (NNS tons) ))
+            (PP-DIR (IN from) 
+              (NP (CD 481,000) )
+              (ADVP-TMP 
+                (NP (DT a) (NN month) )
+                (RB earlier) ))
+            (, ,) 
+            (SBAR-ADV (IN while) 
+              (S 
+                (NP-SBJ 
+                  (NP (NNS imports) )
+                  (PP (IN from) 
+                    (NP (NNP Japan) )))
+                (VP (VBD rose) 
+                  (PP-DIR (TO to) 
+                    (NP (CD 323,000) (NNS tons) ))
+                  (PP-DIR (IN from) 
+                    (NP (CD 288,000) )
+                    (PP-TMP (IN in) 
+                      (NP (NNP July) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Imports) )
+      (PP (IN from) 
+        (NP (NNP Canada) )))
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP (CD 272,000) (NNS tons) )
+        (PP-TMP (IN in) 
+          (NP (NNP August) )))
+      (PP-DIR (IN from) 
+        (NP (CD 209,000) )
+        (PP-TMP (IN in) 
+          (NP (NNP July) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP American) (NNP Institute) )
+      (PP (IN for) 
+        (NP (NNP Imported) (NNP Steel) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS imports) )
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (JJ first) (CD eight) (NNS months) )
+                (PP (IN of) 
+                  (NP (CD 1989) )))))
+          (VP (VBD were) 
+            (PP-LOC-PRD (IN below) 
+              (NP 
+                (NP (DT the) (NN level) )
+                (VP (VBN allowed) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS (DT the) (NNP Voluntary) (NNP Restraint) (NNP Agreement) (NN program) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN institute) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (, ,)
+        (S 
+          (PP (VBG excluding) 
+            (NP (VBN semifinished) (NN steel) (NNS products) ))
+          (, ,) 
+          (NP-SBJ (JJ year-to-date) (NNS imports) )
+          (VP (VBD represented) 
+            (NP 
+              (NP (CD 15.2) (NN %) )
+              (PP (IN of) 
+                (NP (NN consumption) )))
+            (, ,) 
+            (PP (VBN compared) 
+              (PP (IN with) 
+                (NP 
+                  (NP (DT a) (VBN permitted) (NN maximum) )
+                  (PP (IN of) 
+                    (NP (CD 18.5) (NN %) )))))))))
+    (. .) ))

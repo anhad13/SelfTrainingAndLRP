@@ -1,0 +1,62 @@
+
+( (S 
+    (NP-SBJ (NNP Galveston-Houston) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB redeem) 
+              (NP 
+                (NP (DT all) (CD 3,950) (NNS shares) )
+                (PP (IN of) 
+                  (NP (PRP$ its) 
+                    (ADJP (RB privately) (JJ held) )
+                    (ADJP (CD 6.5) (NN %) )
+                    (JJ convertible) (NN Series) (NNP C) (JJ preferred) (NN stock) )))
+              (NP-TMP (NNP Nov.) (CD 8) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Holders) )
+    (VP (MD can) 
+      (VP (RB either) 
+        (VP (VB convert) 
+          (NP (DT each) (NN share) )
+          (PP-CLR (IN into) 
+            (NP 
+              (NP (CD 421) (NNS shares) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (JJ common) (NN stock) )))))
+        (, ,) (CC or) 
+        (VP (VB surrender) 
+          (NP (PRP$ their) (NNS shares) )
+          (PP (IN at) 
+            (NP 
+              (NP 
+                (NP (DT the) (JJ per-share) (NN price) )
+                (PP (IN of) 
+                  (NP ($ $) (CD 1,000) (-NONE- *U*) )))
+              (, ,) (CC plus) 
+              (NP 
+                (NP (VBN accumulated) (NNS dividends) )
+                (PP (IN of) 
+                  (NP 
+                    (NP ($ $) (CD 6.71) (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN share) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Galveston-Houston) )
+    (VP (VBZ makes) 
+      (CC and)
+      (VBZ markets) 
+      (NP 
+        (NP (NNS products) )
+        (PP (IN for) 
+          (NP (DT the) (NN construction) 
+            (, ,)
+            (NN mining) 
+            (CC and)
+            (NN energy) (NNS industries) ))))
+    (. .) ))

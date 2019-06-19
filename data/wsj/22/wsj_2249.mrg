@@ -1,0 +1,195 @@
+
+( (S 
+    (NP-SBJ (NNP Arthur) (NNP M.) (NNP Goldberg) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD extended) 
+            (NP 
+              (NP (PRP$ his) (JJ unsolicited) (NN tender) (NN offer) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (NP ($ $) (CD 32) (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN share) 
+                      (X (NN tender) (NN offer) )))
+                  (, ,) (CC or) 
+                  (NP 
+                    (QP ($ $) (CD 154.3) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) ))
+              (PP (IN for) 
+                (NP (NNP Di) (NNP Giorgio) (NNP Corp.) )))
+            (PP-CLR (TO to) 
+              (NP (NNP Nov.) (CD 1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP DIG) (NNP Acquisition) (NNP Corp.) )
+      (, ,) 
+      (NP 
+        (NP (DT the) (NNP New) (NNP Jersey) (NN investor) (POS 's) )
+        (NN acquisition) (NN vehicle) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (PP-TMP (IN as) 
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN close) )
+                (PP (IN of) 
+                  (NP (NN business) ))
+                (NP-TMP (NN yesterday) ))))
+          (, ,) 
+          (NP-SBJ-1 (CD 560,839) (NNS shares) )
+          (VP (VBD had) 
+            (VP (VBN been) 
+              (VP (VBN tendered) 
+                (NP (-NONE- *-1) )))))))
+    (. .) ))
+( (S 
+    (PP (VBG Including) 
+      (NP 
+        (NP (DT the) (NN stake) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (NNP DIG) )
+            (VP 
+              (ADVP-TMP (RB already) )
+              (VBD held) 
+              (NP (-NONE- *T*-1) ))))))
+    (, ,) 
+    (NP-SBJ (NNP DIG) )
+    (VP (VBZ holds) 
+      (NP 
+        (NP (DT a) (NN total) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP (RB about) (CD 25) )
+              (NN %) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Di) (NNP Giorgio) (POS 's) )
+                (NNS shares) )))))
+      (PP-CLR (IN on) 
+        (NP (DT a) 
+          (ADJP (RB fully) (VBN diluted) )
+          (NN basis) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (DT The) (NN offer) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP 
+            (ADVP (RB also) )
+            (VBZ includes) 
+            (NP 
+              (ADJP (JJ common) 
+                (CC and)
+                (VBN preferred) )
+              (NN stock) (NN purchase) (NNS rights) ))))
+      (, ,) )
+    (VP (VBD was) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB expire) 
+            (NP-TMP-CLR (JJ last) (NN night) )
+            (PP-TMP (IN at) 
+              (NP (NN midnight) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ new) (NN expiration) (NN date) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN date) )
+        (SBAR 
+          (WHPP-2 (IN on) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ-3 
+              (NP 
+                (NP (NNP DIG) (POS 's) )
+                (VBG financing) (NNS commitments) )
+              (, ,) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBP total) 
+                    (NP 
+                      (QP (RB about) ($ $) (CD 240) (CD million) )
+                      (-NONE- *U*) ))))
+              (, ,) )
+            (VP (VBP are) 
+              (S 
+                (NP-SBJ (-NONE- *-3) )
+                (VP (TO to) 
+                  (VP (VB expire) 
+                    (PP-TMP-CLR (-NONE- *T*-2) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP DIG) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP DIG) (NNP Holding) (NNP Corp.) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NN unit) )
+              (PP (IN of) 
+                (NP (NNP Rose) (NNP Partners) (NNP L.P) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Goldberg) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (JJ sole) (JJ general) (NN partner) )
+        (PP (IN in) 
+          (NP (NNP Rose) (NNP Partners) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP August) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Di) (NNP Giorgio) )
+      (, ,) 
+      (NP (DT a) (NNP San) (NNP Francisco) (NN food) (NNS products) 
+        (CC and)
+        (NN building) (NNS materials) (NN marketing) 
+        (CC and)
+        (NN distribution) (NN company) )
+      (, ,) )
+    (VP (VBD rejected) 
+      (NP 
+        (NP (NNP Mr.) (NNP Goldberg) (POS 's) )
+        (NN offer) )
+      (PP-CLR (IN as) 
+        (ADJP (JJ inadequate) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN composite) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (NNP Di) (NNP Giorgio) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 31.50) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP ($ $) (CD 1.75) (-NONE- *U*) )))
+    (. .) ))

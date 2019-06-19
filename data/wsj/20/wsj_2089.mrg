@@ -1,0 +1,100 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Sandoz) (NNP AG) )
+      (, ,) 
+      (NP (DT a) (JJ major) (NNP Swiss) 
+        (ADJP (NN chemical) 
+          (CC and)
+          (JJ pharmaceutical) )
+        (NN group) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN group) (NNS sales) )
+          (VP (VBD rose) 
+            (NP-EXT (CD 25) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP (CD 9.482) (CD billion) )
+                  (NNS francs) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP 
+                    (QP ($ $) (CD 5.80) (CD billion) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) )))
+            (PP-TMP (IN in) 
+              (NP 
+                (NP (DT the) (JJ first) (CD nine) (NNS months) )
+                (PP (IN of) 
+                  (NP (DT this) (NN year) ))))
+            (, ,) 
+            (PP (IN with) 
+              (NP 
+                (NP (JJ strong) (NNS gains) )
+                (PP-LOC (IN in) 
+                  (NP (DT all) (NNS divisions) ))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP 
+      (NP (DT A) (NN year) )
+      (JJR earlier) )
+    (NP-SBJ (NNS sales) )
+    (VP (VBD totaled) 
+      (NP 
+        (QP (CD 7.567) (CD billion) )
+        (NNS francs) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Positive) (NN currency) (NNS rates) )
+      (CC and) 
+      (NP (JJ strong) (NNS sales) (NN growth) ))
+    (VP (VBD led) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT a) (JJ substantial) (NN rise) )
+          (PP-LOC (IN in) 
+            (NP (JJ consolidated) (NN profit) ))))
+      (PP-TMP (IN in) 
+        (NP (DT the) (NN period) ))
+      (, ,) 
+      (SBAR-ADV (IN although) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP (VBD did) (RB n't) 
+            (VP (VB provide) 
+              (NP (NNS figures) )
+              (, ,) 
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (IN as) 
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBZ is) 
+                    (ADJP-PRD (JJ customary) )
+                    (PP (IN with) 
+                      (NP (NNP Swiss) (NNS companies) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Sandoz) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ expects) 
+            (NP 
+              (NP (DT a) (`` ``) (JJ substantial) (NN increase) ('' '') )
+              (PP-LOC (IN in) 
+                (NP (JJ consolidated) (NN profit) ))
+              (PP-TMP (IN for) 
+                (NP (DT the) (JJ full) (NN year) )))
+            (, ,) 
+            (S-SBJ 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG barring) 
+                (NP (JJ major) (NN currency) (NN rate) (NNS changes) )))))))
+    (. .) ))

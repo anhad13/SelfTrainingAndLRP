@@ -1,0 +1,775 @@
+
+( (S 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB When) )
+      (S 
+        (NP-SBJ (NNP Westinghouse) (NNP Electric) (NNP Corp.) )
+        (VP (VBD shuttered) 
+          (NP 
+            (NP (PRP$ its) (JJ massive) (NN steam) (NN turbine) (NN plant) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NNP Lester) )
+                (, ,) 
+                (NP (NNP Pa.) )
+                (, ,) )))
+          (ADVP-TMP 
+            (NP (CD three) (NNS years) )
+            (IN ago) )
+          (ADVP-TMP (-NONE- *T*-1) ))))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD seemed) 
+      (SBAR-CLR (IN like) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP (VBD had) 
+            (VP (VBN pulled) 
+              (NP (DT the) (NN plug) )
+              (PP-CLR (IN on) 
+                (NP (PRP$ its) (JJ century-old) (NN power) (NN generation) (NN business) )))))))
+    (. .) ))
+( (S (CC But) 
+    (ADVP-TMP (RB now) )
+    (NP-SBJ (NNP Westinghouse) )
+    (VP 
+      (VP (VBZ is) 
+        (VP (VBG enjoying) 
+          (NP 
+            (NP (DT a) (NN resurgence) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NN demand) )
+                (PP (IN for) 
+                  (NP (DT both) (NN steam) 
+                    (CC and)
+                    (NN combustion) (NNS turbines) )))))))
+      (CC and) 
+      (VP (MD may) 
+        (ADVP (RB even) )
+        (VP (VB join) 
+          (NP 
+            (NP (DT the) (VBG growing) (NN legion) )
+            (PP (IN of) 
+              (NP (JJ independent) (JJ electric) (NNS producers) ))))))
+    (. .) ))
+( (S (CC And) 
+    (PP (IN with) 
+      (NP 
+        (NP (PRP$ its) (JJ new) (NN venture) )
+        (PP (IN with) 
+          (NP 
+            (NP (NNP Japan) (POS 's) )
+            (NNP Mitsubishi) (NNP Heavy) (NNPS Industries) (NNP Ltd.) ))
+        (, ,) 
+        (VP (VBD announced) 
+          (NP (-NONE- *) )
+          (NP-TMP (JJ last) (NN week) ))
+        (, ,) ))
+    (NP-SBJ-1 (PRP it) )
+    (VP (VBZ is) 
+      (VP (VBN poised) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB penetrate) 
+              (NP 
+                (NP (VBG growing) (NNS markets) )
+                (ADVP-LOC (RB overseas) )))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP 
+        (NP (DT the) (JJ first) (NN time) )
+        (PP-TMP (IN since) 
+          (NP (DT the) (CD mid-1970s) ))))
+    (, ,) 
+    (NP-SBJ (NNP Westinghouse) )
+    (NP-TMP (DT this) (NN year) )
+    (VP (VBZ has) 
+      (VP (VBN seen) 
+        (NP 
+          (NP (DT a) (JJ significant) (NN increase) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (NNS orders) )
+              (PP (IN for) 
+                (NP (NN power) (NNS plants) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (JJS Most) )
+      (VP (VBP are) 
+        (PP-PRD (IN from) 
+          (NP 
+            (NP (JJ independent) (NNS producers) )
+            (CONJP (RB instead) (IN of) )
+            (NP (JJ regulated) (NNS utilities) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (NNP Westinghouse) )
+      (VP (VBZ believes) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (MD will) 
+              (VP (VB ride) 
+                (NP 
+                  (NP (DT a) (NN wave) )
+                  (PP (IN of) 
+                    (NP (NN demand) ))
+                  (VP (VBG stretching) 
+                    (PP-CLR (IN over) 
+                      (NP (DT the) (JJ next) (CD six) (NNS years) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Analysts) )
+    (VP (VBP agree) 
+      (, ,)
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG predicting) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (DT the) (VBN revived) (NN market) )
+              (VP (MD could) 
+                (VP 
+                  (ADVP-MNR (RB significantly) )
+                  (VB boost) 
+                  (NP 
+                    (NP (NNP Westinghouse) (POS 's) )
+                    (NN bottom) (NN line) )
+                  (PP-TMP (IN in) 
+                    (NP (VBG coming) (NNS years) )))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ-2 
+        (NP (NNP Westinghouse) (POS 's) )
+        (NNS earnings) )
+      (VP (MD could) 
+        (VP (VB be) 
+          (VP 
+            (ADVP-MNR (RB materially) )
+            (VBN enhanced) 
+            (NP (-NONE- *-2) )
+            (UCP-TMP 
+              (PP (IN in) 
+                (NP (DT the) (CD mid-1990s) ))
+              (CC or) 
+              (ADVP (RBR sooner) ))))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Russell) (NNP L.) (NNP Leavitt) )
+      (, ,) 
+      (PP (IN of) 
+        (NP (NNP Salomon) (NNPS Brothers) (NNP Inc) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBZ expects) 
+      (NP 
+        (NP (DT a) (NN need) )
+        (PP (IN for) 
+          (NP 
+            (NP (CD 140,000) (NNS megawatts) )
+            (PP (IN of) 
+              (NP (JJ new) (NN generation) ))))
+        (PP-LOC (IN in) 
+          (NP (DT the) (NNP U.S.) ))
+        (PP-TMP (IN over) 
+          (NP (DT the) (JJ next) (NN decade) ))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Already) )
+    (NP-TMP (DT this) (NN year) )
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBZ has) 
+      (VP (VBN received) 
+        (NP 
+          (NP 
+            (NP 
+              (NP (NNS orders) )
+              (PP-1 (IN for) 
+                (NP (CD four) (JJ 150-megawatt) (JJ advanced) (NN combustion) (NNS turbines) ))
+              (PP-2 (IN from) 
+                (NP (NNP Florida) (NNP Power) (CC &) (NNP Light) (NNP Co.) )))
+            (CC and) 
+            (NP 
+              (PP=1 (IN for) 
+                (NP (CD two) (JJ 300-megawatt) (NNS plants) ))
+              (PP=2 (IN from) 
+                (NP (NNP Intercontinental) (NNP Energy) (NNP Corp.) ))))
+          (, ,) 
+          (PP-LOC (IN among) 
+            (NP (NNS others) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Westinghouse) (POS 's) )
+        (JJ own) (NN role) )
+      (PP (IN as) 
+        (NP (DT a) (NN supplier) )))
+    (ADVP (RB also) )
+    (VP (VBZ is) 
+      (VP (VBG changing) ))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (NN past) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (ADVP-TMP (RB usually) )
+    (VP (VBD took) 
+      (NP 
+        (NP (JJ token) (NN equity) (NNS positions) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NN power) (NNS plants) )
+            (SBAR 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ-2 (PRP it) )
+                (VP (VBD supplied) 
+                  (NP (-NONE- *T*-1) )
+                  (PP-CLR (IN as) 
+                    (NP (DT a) (`` ``) (NN kicker) ('' '') ))
+                  (S-PRP 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (TO to) 
+                      (VP (VB close) 
+                        (NP (NNS deals) )))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (JJ last) (NNP June) (POS 's) )
+      (NN annnouncement) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNP Westinghouse) )
+          (VP (MD would) 
+            (VP (VB put) 
+              (PRT (RP up) )
+              (NP 
+                (NP (DT all) )
+                (PP (IN of) 
+                  (NP (DT the) 
+                    (QP ($ $) (CD 70) (CD million) )
+                    (-NONE- *U*) ))
+                (SBAR 
+                  (WHADVP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB build) 
+                        (NP (DT a) (JJ new) (JJ 55-megawatt) (NN plant) )
+                        (ADVP-MNR (-NONE- *T*-1) )))))))))))
+    (VP (MD could) 
+      (VP (VB herald) 
+        (NP (DT a) (JJ new) (NN age) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Westinghouse) (POS 's) )
+      (NN plant) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB provide) 
+          (NP-1 (JJ electrical) (NN power) )
+          (PP-CLR-2 (TO to) 
+            (NP (DT the) (NNP Southern) (NNP California) (NNP Edison) (NNP Co.) )))
+        (CC and) 
+        (VP 
+          (NP=1 
+            (NP (JJ backup) (NN power) )
+            (CC and) 
+            (NP (NN steam) ))
+          (PP-CLR=2 (TO to) 
+            (NP (DT the) (NNP U.S.) (NNP Borax) (CC &) (NNP Chemical) (NNP Co) )))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (PRP We) )
+        (VP (VBP have) (RB n't) 
+          (VP (VBN decided) 
+            (PP-CLR (IN on) 
+              (NP (DT a) (NN strategy) ))
+            (ADVP-TMP (RB yet) ))))
+      (, ,) (CC but) 
+      (S 
+        (NP-SBJ (PRP we) )
+        (VP (MD could) 
+          (VP (VB become) 
+            (NP-PRD (DT an) (JJ independent) (NN producer) )
+            (PP (VBG depending) 
+              (PP (IN on) 
+                (SBAR (IN whether) 
+                  (S 
+                    (NP-SBJ (PRP we) )
+                    (VP (VBP 're) 
+                      (NP-PRD 
+                        (NP (DT the) (NN developer) )
+                        (CC or) 
+                        (NP (RB just) (DT the) (NN supplier) )))))))))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Theodore) (NNP Stern) )
+      (, ,) 
+      (NP 
+        (NP (JJ executive) (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN company) (POS 's) )
+            (NN energy) 
+            (CC and)
+            (NN utility) (NNS systems) (NN group) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP (DT the) (JJ same) (NN time) ))
+    (, ,) 
+    (NP-SBJ (NNP Westinghouse) )
+    (VP (VBZ hopes) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (PRP$ its) (NN venture) )
+            (PP (IN with) 
+              (NP (NNP Mitsubishi) )))
+          (VP (MD will) 
+            (VP (VB help) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VB fend) 
+                  (PRT (RP off) )
+                  (NP 
+                    (NP (VBG growing) (NN competition) )
+                    (PRN 
+                      (, ,)
+                      (PP-LOC 
+                        (ADVP (RB particularly) )
+                        (IN in) 
+                        (NP (DT the) (NNP U.S.) ))
+                      (, ,) )
+                    (PP (IN from) 
+                      (NP 
+                        (NP (JJ such) (JJ European) (NNS competitors) )
+                        (PP (IN as) 
+                          (NP 
+                            (NP (NNP Asea) (NNP Brown) (NNP Boveri) (NNP AG) )
+                            (, ,) 
+                            (NP (NNP Siemens) (NNP AG) )
+                            (, ,) 
+                            (CC and)
+                            (NP (NNP British) (NNP General) (NNP Electric) (NNP Co) )))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NN agreement) ))
+    (, ,) 
+    (NP-SBJ-1 (NNP Westinghouse) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (ADJP-PRD (JJ able) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP 
+                (VP (VB purchase) 
+                  (NP (JJR smaller) (NN combustion) (NNS turbines) )
+                  (PP-CLR (IN from) 
+                    (NP (PRP$ its) (JJ Japanese) (NN partner) )))
+                (, ,) 
+                (CC and)
+                (VP (VB package) 
+                  (CC and)
+                  (VB sell) 
+                  (NP (PRP them) )
+                  (PP-CLR (IN with) 
+                    (NP (PRP$ its) (JJ own) 
+                      (NX 
+                        (NX (NNS generators) )
+                        (CC and) 
+                        (NX (JJ other) (NN equipment) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Westinghouse) )
+    (ADVP (RB also) )
+    (VP 
+      (ADVP-MNR (RB jointly) )
+      (MD will) 
+      (VP (VB bid) 
+        (PP-CLR (IN on) 
+          (NP (NNS projects) ))
+        (PP (IN with) 
+          (NP (NNP Misubishi) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG giving) 
+            (NP (PRP it) )
+            (NP (DT an) (NN edge) 
+              (PP-LOC (IN in) 
+                (NP (VBG developing) (JJ Asian) (NNS markets) )))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (CD two) (NNS companies) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB develop) 
+          (NP 
+            (NP (JJ new) (NN steam) (NN turbine) (NN technology) )
+            (, ,) 
+            (PP (JJ such) (IN as) 
+              (NP 
+                (NP (DT the) (NNS plants) )
+                (VP (VBN ordered) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS (NNP Florida) (NNP Power) )))))))
+        (, ,) 
+        (CC and)
+        (ADVP (RB even) )
+        (VP (VB utilize) 
+          (NP 
+            (NP (DT each) (JJ other) (POS 's) )
+            (NNS plants) )
+          (PP-TMP (IN at) 
+            (NP (NNS times) ))
+          (S-PRP 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB take) 
+                (NP-CLR (NN advantage) )
+                (PP-CLR (IN of) 
+                  (NP (NN currency) (NNS fluctuations) ))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (SBAR (RB Even) (IN though) 
+        (S 
+          (NP-SBJ (PRP we) )
+          (VP (MD 'll) 
+            (ADVP-TMP (RB still) )
+            (VP (VB compete) 
+              (PP-CLR (IN against) 
+                (NP (NNP Mitsubishi) ))))))
+      (, ,) 
+      (S 
+        (NP-SBJ (PRP we) )
+        (VP (MD can) 
+          (ADVP (RB also) )
+          (VP (VB work) 
+            (ADVP-MNR (RB jointly) )
+            (PP-LOC (IN on) 
+              (NP (DT some) (NNS projects) )))))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP-SBJ (PRP we) )
+        (VP (MD 'll) 
+          (VP (VB gain) 
+            (NP 
+              (NP (DT a) (NN lot) )
+              (PP (IN of) 
+                (NP (VBG sourcing) (NN flexibility) )))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Stern) )
+    (VP (VBZ contends) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNP Westinghouse-Mitsubishi) (NN venture) )
+    (VP (VBD was) 
+      (VP (VBN designed) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN as) 
+          (NP (DT a) (JJ non-equity) (NN transaction) ))
+        (, ,) 
+        (PP (VBG circumventing) 
+          (NP (DT any) (JJ possible) (JJ antitrust) (NNS concerns) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Westinghouse) )
+    (VP 
+      (ADVP-MNR (RB carefully) )
+      (VBD crafted) 
+      (NP (DT the) (NN agreement) )
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ (DT the) (NNP Justice) (NNP Department) )
+          (NP-TMP (RBR earlier) (DT this) (NN year) )
+          (VP 
+            (ADVP-MNR (RB successfully) )
+            (VBD challenged) 
+            (NP 
+              (NP (DT a) (VBN proposed) (NN steam) (NN turbine) (NN joint) (NN venture) )
+              (PP (IN with) 
+                (NP (NNP Asea) (NNP Brown) (NNP Boveri) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ is) 
+      (VP (VBN expected) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-2 
+              (NP (DT the) (JJ current) (NN surge) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (NN demand) )
+                  (PP (IN for) 
+                    (NP (JJ new) (NN power) )))))
+            (VP (MD will) 
+              (VP (VB be) 
+                (VP (VBN filled) 
+                  (NP (-NONE- *-2) )
+                  (PP 
+                    (ADVP (RB primarily) )
+                    (IN by) 
+                    (NP-LGS 
+                      (NP (JJ independent) (NNS producers) )
+                      (SBAR 
+                        (WHNP-3 (WDT which) )
+                        (, ,) 
+                        (S 
+                          (PP (IN unlike) 
+                            (NP (NNS utilities) ))
+                          (, ,) 
+                          (NP-SBJ-1 (-NONE- *T*-3) )
+                          (VP 
+                            (VP (VBP are) (RB n't) 
+                              (VP (VBN regulated) 
+                                (NP (-NONE- *-1) )))
+                            (CC and) 
+                            (VP 
+                              (ADVP (RB therefore) )
+                              (VBP do) (RB n't) 
+                              (VP (VB need) 
+                                (NP (NN government) (NN approval) )
+                                (S-PRP 
+                                  (NP-SBJ (-NONE- *-1) )
+                                  (VP (TO to) 
+                                    (VP (VB construct) 
+                                      (NP (JJ new) (NNS plants) ))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Westinghouse) )
+    (VP (VBZ expects) 
+      (S 
+        (NP-SBJ 
+          (NP 
+            (QP (IN about) (NN half) ))
+          (PP (IN of) 
+            (NP 
+              (NP (PRP$ its) (JJ new) (NNS orders) )
+              (PP (IN for) 
+                (NP (NNS turbines) )))))
+        (VP (TO to) 
+          (VP (VB come) 
+            (PP-DIR (IN from) 
+              (NP (JJ independent) (NNS producers) ))
+            (PP-TMP (IN for) 
+              (NP 
+                (QP (IN at) (JJS least) (DT the) (JJ next) (CD six) )
+                (NNS years) ))))))
+    (. .) ))
+( (S 
+    (PP (IN Despite) 
+      (NP 
+        (NP (NNS shutdowns) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN company) (POS 's) )
+            (NNP Lester) 
+            (CC and)
+            (NNP East) (NNP Pittsburgh) (NNS plants) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBZ believes) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) 
+            (NP 
+              (NP (JJ sufficient) (NN capacity) )
+              (SBAR 
+                (WHADVP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB meet) 
+                      (NP (JJ near-term) (NN demand) )
+                      (PP (IN with) 
+                        (NP 
+                          (NP (PRP$ its) 
+                            (ADJP 
+                              (ADJP (JJ much) (JJR smaller) )
+                              (CC and) 
+                              (ADJP (RBR more) (JJ efficient) ))
+                            (VBG manufacturing) (NNS facilities) )
+                          (PP-LOC (IN in) 
+                            (NP (NNP North) (NNP Carolina) ))))
+                      (ADVP (-NONE- *T*-1) ))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Still) )
+    (, ,) 
+    (NP-SBJ (NNP Westinghouse) )
+    (VP (VBZ acknowledges) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NN demand) )
+            (PP (IN from) 
+              (NP (JJ independent) (NNS producers) )))
+          (VP (MD could) 
+            (VP (VB evaporate) 
+              (SBAR-ADV 
+                (SBAR (IN if) 
+                  (S 
+                    (NP-SBJ 
+                      (NP (NNS prices) )
+                      (PP (IN for) 
+                        (NP 
+                          (NP (NN fuel) )
+                          (PP (JJ such) (IN as) 
+                            (NP 
+                              (NP (JJ natural) (NN gas) )
+                              (CC or) 
+                              (NP (NN oil) ))))))
+                    (VP (VBP rise) 
+                      (ADVP-MNR (RB sharply) ))))
+                (CC or) 
+                (SBAR (IN if) 
+                  (S 
+                    (NP-SBJ-3 
+                      (NP (NNS utilities) )
+                      (, ,) 
+                      (SBAR 
+                        (WHNP-2 (WDT which) )
+                        (S 
+                          (NP-SBJ-1 (-NONE- *T*-2) )
+                          (VP (VBP have) 
+                            (VP (VBN been) 
+                              (VP (VBN pressured) 
+                                (PP (IN by) 
+                                  (NP-LGS (NNS regulators) ))
+                                (S 
+                                  (NP-SBJ (-NONE- *-1) )
+                                  (VP (TO to) 
+                                    (VP (VB keep) 
+                                      (S 
+                                        (ADJP-PRD (IN down) )
+                                        (NP-SBJ (NNS rates) ))))))))))
+                      (, ,) )
+                    (VP (VBP are) 
+                      (ADVP-TMP (RB suddenly) )
+                      (VP (VBN freed) 
+                        (S 
+                          (NP-SBJ (-NONE- *-3) )
+                          (VP (TO to) 
+                            (VP (VB add) 
+                              (NP (JJ significant) (VBG generating) (NN capacity) ))))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (RB Even) (IN if) 
+      (S 
+        (NP-SBJ (DT that) (NN scenario) )
+        (VP (VBZ occurs) )))
+    (, ,) 
+    (NP-SBJ (NNP Westinghouse) )
+    (VP (VBZ figures) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBN prepared) 
+              (NP (-NONE- *-1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (ADVP-TMP (RB already) )
+    (VP (VBZ is) 
+      (VP (VBG gearing) 
+        (PRT (RP up) )
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (DT a) (NN renaissance) )
+            (PP (IN of) 
+              (NP (JJ nuclear) (NN power) ))))
+        (SBAR-ADV (RB even) (IN though) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ has) (RB n't) 
+              (VP (VBN received) 
+                (NP 
+                  (NP (DT an) (NN order) )
+                  (PP (IN for) 
+                    (NP (DT a) (JJ domestic) (JJ nuclear) (NN plant) )))
+                (PP-TMP (IN in) 
+                  (NP (DT a) (NN decade) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP John) (NNP C.) (NNP Marous) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (CC and) 
+        (NP (NN chief) (NN executive) (NN officer) ))
+      (, ,) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBZ expects) 
+            (NP 
+              (NP (DT a) (JJ commercial) (NN order) )
+              (PP (-NONE- *ICH*-2) ))
+            (PP-TMP (IN by) 
+              (NP (CD 1995) ))
+            (PP-2 (IN for) 
+              (NP 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (NN AP600) (JJ nuclear) (NN power) (NN plant) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-1 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBZ is) 
+                      (PP-LOC-PRD (IN under) 
+                        (NP (NN development) )))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (SBAR-TMP (RB Once) 
+      (S 
+        (NP-SBJ (PRP we) )
+        (VP (VBP see) 
+          (NP (DT an) (NN order) ))))
+    (, ,) 
+    (NP-SBJ (PRP we) )
+    (VP (VBP expect) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD 'll) 
+            (VP (VB be) 
+              (PP-LOC-PRD (IN on) 
+                (NP (NN line) ))
+              (PP-TMP (IN by) 
+                (NP (CD 2000) )))))))
+    (. .) ))

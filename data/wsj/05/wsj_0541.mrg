@@ -1,0 +1,120 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Automatic) (NNP Data) (NNP Processing) (NNP Inc.) )
+    (VP (VBZ plans) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB redeem) 
+            (PP-TMP (IN on) 
+              (NP (NNP Nov.) (CD 16) ))
+            (NP 
+              (NP (PRP$ its) 
+                (QP ($ $) (CD 150) (CD million) )
+                (-NONE- *U*) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (ADJP (CD 6.5) (NN %) )
+                    (JJ convertible) (VBN subordinated) (NNS debentures) )
+                  (ADJP (JJ due) 
+                    (NP-TMP (NNP March) (CD 1) 
+                      (, ,)
+                      (CD 2011) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ computing-services) (NN concern) )
+    (VP (MD will) 
+      (VP (VB pay) 
+        (NP ($ $) (CD 1,059.04) (-NONE- *U*) )
+        (PP (IN for) 
+          (NP 
+            (NP (DT each) 
+              (ADJP ($ $) (CD 1,000) (-NONE- *U*) )
+              (NN face) (NN amount) )
+            (PP (IN of) 
+              (NP (NN debt) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN conversion) (NN price) )
+      (PP (IN for) 
+        (NP (DT the) (NNS debentures) )))
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP ($ $) (CD 41.725) (-NONE- *U*) )
+        (NP-ADV (DT a) (NN share) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (NP-TMP (NNP Friday) )
+    (, ,) 
+    (NP-SBJ (NNP Automatic) (NNP Data) )
+    (VP (VBD closed) 
+      (PP-LOC-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 46.50) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP ($ $) (CD 2.25) (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (S 
+      (SBAR-ADV (IN If) 
+        (S 
+          (NP-SBJ-1 (PDT all) (DT the) (NN debt) )
+          (VP (VBZ is) 
+            (VP (VBN converted) 
+              (NP (-NONE- *-1) )
+              (PP-CLR (TO to) 
+                (NP (JJ common) ))))))
+      (, ,) 
+      (NP-SBJ (NNP Automatic) (NNP Data) )
+      (VP (MD will) 
+        (VP (VB issue) 
+          (NP 
+            (QP (IN about) (CD 3.6) (CD million) )
+            (NNS shares) ))))
+    (: ;) 
+    (S 
+      (NP-TMP (JJ last) (NNP Monday) )
+      (, ,) 
+      (NP-SBJ (DT the) (NN company) )
+      (VP (VBD had) 
+        (NP 
+          (NP 
+            (QP (RB nearly) (CD 73) (CD million) )
+            (NNS shares) )
+          (ADJP (JJ outstanding) ))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP Automatic) (NNP Data) )
+      (VP (VBZ is) 
+        (VP (JJ redeeming) 
+          (NP (DT the) (NNS bonds) )
+          (SBAR-PRP (IN because) 
+            (S 
+              (NP-SBJ 
+                (NP (DT the) (JJ after-tax) (NN cost) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN interest) )
+                    (PP (IN on) 
+                      (NP (DT the) (NNS bonds) )))))
+              (VP (VBZ is) 
+                (ADJP-PRD 
+                  (ADJP (JJR higher) )
+                  (PP (IN than) 
+                    (NP 
+                      (NP (DT the) (NN dividend) (NN yield) )
+                      (PP (IN on) 
+                        (NP (DT the) (JJ common) )))))))))))
+    (, ,) 
+    (NP-SBJ (DT a) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

@@ -1,0 +1,101 @@
+
+( (S 
+    (NP-SBJ (NNP Interspec) (NNP Inc.) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) (JJ net) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 2.4) (CD million) )
+            (-NONE- *U*) ))
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (JJ fiscal) (JJ third) (NN quarter) )
+            (VP (VBN ended) 
+              (NP-TMP-CLR (NNP Aug.) (CD 31) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN loss) )
+          (VP (VBD resulted) 
+            (PP-CLR (IN from) 
+              (NP 
+                (NP (NN startup) 
+                  (CC and)
+                  (NN introduction) (NNS costs) )
+                (VP (VBN related) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (TO to) 
+                    (NP (DT a) (JJ new) (JJ medical) (NN ultrasound) (NN equipment) (NN system) )))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (JJ year-earlier) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (JJ net) (NN income) )
+        (PP (IN of) 
+          (NP 
+            (NP ($ $) (CD 955,000) (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 15) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN manufacturer) )
+      (PP (IN of) 
+        (NP (NN ultrasound) (JJ diagnostic) (NNS systems) ))
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP Ambler) )
+            (, ,) 
+            (NP (NNP Pa.) ))))
+      (, ,) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT a) (JJ nine-month) (JJ net) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 2.43) (CD million) )
+            (-NONE- *U*) ))
+        (PP (VBN compared) 
+          (PP (IN with) 
+            (NP 
+              (NP (JJ net) (NN income) )
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 2.71) (CD million) )
+                    (-NONE- *U*) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (NP (CD 44) (NNS cents) )
+                    (NP-ADV (DT a) (NN share) ))
+                  (, ,) ))
+              (PP (IN for) 
+                (NP 
+                  (NP (DT the) (JJ nine-month) (NN period) )
+                  (ADVP-TMP 
+                    (NP (DT a) (NN year) )
+                    (RBR earlier) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ over-the-counter) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (NNP Interspec) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 37.5) (NNS cents) )
+      (PP-DIR (TO to) 
+        (NP ($ $) (CD 4.25) (-NONE- *U*) )))
+    (. .) ))

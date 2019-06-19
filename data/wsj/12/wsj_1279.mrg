@@ -1,0 +1,181 @@
+
+( (S 
+    (NP-SBJ (NNP Housing) 
+      (CC and)
+      (NNP Urban) (NNP Development) (NNP Secretary) (NNP Jack) (NNP Kemp) )
+    (VP (VBD called) 
+      (PP-CLR (IN on) 
+        (NP-1 (DT the) (NNP Federal) (NNP Reserve) (NNP System) ))
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB lower) 
+            (NP (NN interest) (NNS rates) )))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (DT a) (NN speech) )
+        (PP (TO to) 
+          (NP (DT the) (NNP Mortgage) (NNPS Bankers) (NNP Association) ))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Kemp) )
+    (VP 
+      (VP (VBD broke) 
+        (NP 
+          (NP 
+            (NP (DT the) (NN administration) (POS 's) )
+            (JJ public) (NN silence) )
+          (PP (IN on) 
+            (NP (DT the) (NNP Fed) ))))
+      (CC and) 
+      (VP (VBD complained) 
+        (SBAR (IN that) (`` ``) 
+          (S 
+            (NP-SBJ (NN interest) (NNS rates) )
+            (VP (VBP are) 
+              (ADJP-PRD (RB too) (JJ high) ))))))
+    (. .) ('' '') ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP I) )
+      (VP (VBP am) 
+        (ADJP-PRD (VBN convinced) 
+          (SBAR (IN that) 
+            (S 
+              (S 
+                (NP-SBJ 
+                  (NP (DT a) (JJ monetary) (NN policy) )
+                  (PP (IN for) 
+                    (NP (DT this) (NN country) ))
+                  (SBAR 
+                    (WHNP-2 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-2) )
+                      (VP (MD would) 
+                        (VP (VB return) 
+                          (NP (NN interest) (NNS rates) )
+                          (PP-CLR (TO to) 
+                            (NP 
+                              (NP (DT the) (JJ historical) (NN level) )
+                              (PP (IN of) 
+                                (NP 
+                                  (NP (CD 4) (NN %) )
+                                  (CC or) 
+                                  (NP (CD 5) (NN %) ))))))))))
+                (VP (MD would) 
+                  (VP (VB have) 
+                    (ADVP (RB not) (RB only) )
+                    (NP 
+                      (NP (DT an) (JJ immediate) (NN impact) )
+                      (PP (IN on) 
+                        (NP 
+                          (NP (NN housing) (NNS starts) )
+                          (, ,) 
+                          (NP (DT the) (NN housing) (NN stock) )
+                          (, ,) 
+                          (NP 
+                            (NP (PRP$ our) (NN industry) )
+                            (PP-LOC (IN in) 
+                              (NP (NNP America) )))
+                          (, ,) 
+                          (NP 
+                            (NP (DT the) (NN refurbishing) )
+                            (PP (IN of) 
+                              (NP (PRP$ our) (JJ industrial) (NN system) )))))))))
+              (, ,) 
+              (S 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (MD would) 
+                    (VP (VB help) 
+                      (NP (DT the) (NNP Third) (NNP World) (NNS economies) )
+                      (ADVP (RB considerably) ))))
+                (CC and) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (MD would) 
+                    (ADVP (RB particularly) )
+                    (VP (VB have) 
+                      (NP 
+                        (NP (DT a) (JJ favorable) (NN impact) )
+                        (PP (IN upon) 
+                          (NP (PRP$ our) (NN budget) (NN deficit) ))))))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Kemp) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNP Fed) )
+    (ADVP-TMP (RB recently) )
+    (VP (VBD eased) 
+      (NP (NN credit) )
+      (PP-MNR (IN by) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG lowering) 
+            (NP (DT the) (NN bellwether) (JJ federal) (NNS funds) (NN interest) (NN rate) )
+            (PP-DIR (TO to) 
+              (NP 
+                (QP (CD 8) (CD 3\/4) )
+                (NN %) ))
+            (PP-DIR (IN from) 
+              (NP (IN about) (CD 9) (NN %) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Bush) (NN administration) (NNS officials) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN inflation) )
+          (VP (VBZ is) 
+            (PP-PRD (IN under) 
+              (NP (NN control) ))))))
+    (. .) ))
+( (S 
+    (PP (IN With) 
+      (S-NOM 
+        (NP-SBJ (JJ economic) (NN growth) )
+        (VP (NN slowing) )))
+    (, ,) 
+    (NP-SBJ (PRP they) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP believe) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (DT the) (NNP Fed) )
+                (VP (MD should) 
+                  (VP (VB ease) 
+                    (NP (NN credit) )
+                    (ADVP (RB even) (RB further) )))))))))
+    (. .) ))
+( (S (CC But) 
+    (PP (IN for) 
+      (NP (DT the) (JJS most) (NN part) ))
+    (, ,) 
+    (NP-SBJ-1 (NNS officials) )
+    (VP (VBP have) 
+      (VP (VBN avoided) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG expressing) 
+            (NP (DT those) (NNS views) )
+            (PP-LOC (IN in) 
+              (NP (NN public) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG fearing) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (MD would) 
+                  (VP 
+                    (ADVP-MNR (RB unnecessarily) )
+                    (VB antagonize) 
+                    (NP (DT the) (NNP Fed) )))))))))
+    (. .) ))

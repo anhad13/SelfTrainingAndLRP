@@ -1,0 +1,231 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (DT A) (VBG governing) (NN body) )
+      (PP (IN of) 
+        (NP (CC both) 
+          (NP (DT the) (NNP Financial) (NNP Accounting) (NNP Standards) (NNP Board) )
+          (CC and) 
+          (NP (DT the) (NNP Governmental) (NNP Accounting) (NNP Standards) (NNP Board) ))))
+    (VP (VBD voted) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB give) 
+            (NP (DT the) (NNP FASB) )
+            (NP 
+              (NP (NN jurisdiction) )
+              (PP (IN over) 
+                (NP 
+                  (NP (NN accounting) (NNS standards) )
+                  (PP (IN for) 
+                    (NP (JJ certain) (JJ government-owned) (NNS entities) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Financial) (NNP Accounting) (NNP Foundation) )
+    (VP (VBD voted) 
+      (ADVP-CLR (RB 12-2) )
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (NNP FASB) (NN accounting) (NNS rules) )
+          (VP (VBP supercede) 
+            (NP (NNP GASB) (NNS rules) )
+            (PP (IN in) 
+              (NP 
+                (NP (NN regard) )
+                (PP (TO to) 
+                  (NP 
+                    (NP 
+                      (NP (NNS utilities) )
+                      (, ,) 
+                      (NP (NNS hospitals) )
+                      (, ,) 
+                      (CC and)
+                      (NP (NNS colleges) 
+                        (CC and)
+                        (NNS universities) ))
+                    (VP (VBN owned) 
+                      (NP (-NONE- *) )
+                      (PP (IN by) 
+                        (NP-LGS (DT the) (NN government) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP GASB) (NNS rules) )
+    (ADVP-TMP (RB still) )
+    (VP (VBP apply) 
+      (PP-CLR (IN for) 
+        (NP (JJ other) (NN government) (NNS units) )))
+    (. .) ))
+( (S 
+    (SBAR-TMP (IN After) 
+      (S 
+        (NP-SBJ-1 (DT the) (NNP GASB) )
+        (VP (VBD was) 
+          (VP (VBN founded) 
+            (NP (-NONE- *-1) )
+            (PP-TMP 
+              (PP (IN in) 
+                (NP (CD 1984) ))
+              (, ,) 
+              (PP 
+                (NP (CD 11) (NNS years) )
+                (IN after) 
+                (NP (DT the) (NNP FASB) ))
+              (, ,) )))))
+    (NP-SBJ-2 (DT the) (JJ government-owned) (NNS entities) )
+    (VP (VBD were) 
+      (VP (VBN supposed) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB follow) 
+              (NP (NNP FASB) (NNS rules) )
+              (SBAR-ADV (IN unless) 
+                (S 
+                  (NP-SBJ (DT the) (NNP GASB) )
+                  (VP (VBD superceded) 
+                    (NP (PRP them) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP GASB) )
+    (VP (VBD had) 
+      (VP (VBN told) 
+        (NP (NNS governments) )
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-1 (PRP they) )
+            (VP (VBD did) (RB n't) 
+              (VP (VB have) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB follow) 
+                      (NP 
+                        (NP (NNP FASB) (NNS rules) )
+                        (PP (IN on) 
+                          (NP (NN depreciation) ))))))))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG making) 
+            (S 
+              (NP-SBJ 
+                (NP (PRP it) )
+                (SBAR (-NONE- *EXP*-2) ))
+              (ADJP-PRD (JJ difficult) )
+              (SBAR-2 (IN for) 
+                (S 
+                  (NP-SBJ (JJ bond-rating) (NNS agencies) )
+                  (VP (TO to) 
+                    (VP (VB compare) 
+                      (NP 
+                        (NP 
+                          (UCP (JJ private) 
+                            (CC and)
+                            (JJ state-owned) )
+                          (NNS schools) )
+                        (, ,) 
+                        (SBAR 
+                          (WHNP-158 (WDT which) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-158) )
+                            (VP (VBP compete) 
+                              (PP-LOC (IN in) 
+                                (NP (DT the) (JJ public) (NN bond) (NN market) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN foundation) (NN vote) )
+    (VP 
+      (VP (VBZ is) 
+        (ADJP-PRD (JJ effective) 
+          (PP (IN for) 
+            (NP 
+              (NP (DT the) (JJ affected) (NN government) (NNS entities) )
+              (PP (IN with) 
+                (NP 
+                  (NP (JJ fiscal) (NNS years) )
+                  (SBAR 
+                    (WHNP-159 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-159) )
+                      (VP (VBP begin) 
+                        (S 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (VBG starting) 
+                            (NP-TMP (JJ next) (NNP Jan.) (CD 1) ))))))))))))
+      (CC and) 
+      (VP (VBZ makes) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (JJ financial) (NNS results) )
+            (PP (IN of) 
+              (NP (DT the) (NNS hospitals) 
+                (, ,)
+                (NNS colleges) 
+                (CC and)
+                (NNS schools) )))
+          (ADJP-PRD (JJR easier) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB compare) 
+                  (PP-CLR (IN with) 
+                    (NP (JJ for-profit) (NNS businesses) )))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (PRP it) )
+    (VP (MD may) 
+      (VP (VB lead) 
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (JJ separate) (JJ financial) (NNS reports) )
+            (VP (VBN based) 
+              (NP (-NONE- *) )
+              (PP-CLR (IN on) 
+                (NP 
+                  (NP (JJ different) (NNS rules) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP 
+                        (NP (DT the) (NN government) (NNS entities) )
+                        (PP (IN under) 
+                          (NP (NNP FASB) (NNS rules) )))
+                      (CC and) 
+                      (NP (DT those) 
+                        (RRC 
+                          (ADVP-TMP (RB still) )
+                          (PP-LOC (IN under) 
+                            (NP (NNP GASB) (NNS rules) )))))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ 
+          (NP (NNS Managers) )
+          (PP (IN of) 
+            (NP (NN government) (NNS entities) )))
+        (VP (VBP are) 
+          (ADVP-TMP (RB often) )
+          (ADJP-PRD (RBR more) (JJ concerned) 
+            (PP (IN with) 
+              (NP (DT the) 
+                (ADJP (JJ political) 
+                  (CC and)
+                  (JJ legal) )
+                (NN structure) )))))
+      (CC and) 
+      (S 
+        (NP-SBJ 
+          (NP (JJ financial-report) (NN comparability) )
+          (PP (IN with) 
+            (NP (JJ profit-making) (NNS businesses) )))
+        (VP (VBZ is) (RB n't) 
+          (ADVP (RB always) )
+          (NP-PRD 
+            (ADJP (RB as) (JJ high) )
+            (DT a) (NN priority) ))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT a) (NN foundation) (NN spokesman) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))

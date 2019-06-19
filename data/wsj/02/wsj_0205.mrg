@@ -1,0 +1,52 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP New) (NNP Brunswick) (NNP Scientific) (NNP Co.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN maker) )
+        (PP (IN of) 
+          (NP (NN biotechnology) (NN instrumentation) 
+            (CC and)
+            (NN equipment) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD adopted) 
+            (NP 
+              (NP (DT an) (JJ anti-takeover) (NN plan) )
+              (VP (VBG giving) 
+                (NP (NNS shareholders) )
+                (NP (DT the) (NN right) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB purchase) 
+                        (NP (NNS shares) )
+                        (PP (IN at) 
+                          (NP (JJ half) (NN price) ))
+                        (PP-TMP (IN under) 
+                          (NP (JJ certain) (NNS conditions) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN plan) )
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ (-NONE- *-1) )
+            (PP-PRD (IN under) 
+              (NP (NN review) ))
+            (PP-TMP (IN for) 
+              (NP (DT some) (NN time) )))
+          (, ,) 
+          (VP (MD will) 
+            (VP (VB protect) 
+              (NP (NNS shareholders) )
+              (PP-CLR (IN against) (`` ``) 
+                (NP (JJ abusive) (NN takeover) (NNS tactics) )))))))
+    (. .) ))

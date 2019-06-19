@@ -1,0 +1,203 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NN Merger) 
+          (CC and)
+          (NN acquisition) (NN activity) )
+        (PP-TMP (IN in) 
+          (NP (DT the) (JJ third) (NN quarter) )))
+      (VP (VBD exceeded) 
+        (NP (DT the) (JJ year-earlier) (NN pace) )))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Merrill) (NNP Lynch) (CC &) (NNP Co.) (POS 's) )
+        (NNP W.T.) (NNP Grimm) (CC &) (NNP Co.) (NN unit) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NNP Schaumburg) )
+          (, ,) 
+          (NP (NNP Ill) ))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ-1 
+        (NP (DT A) (NN total) )
+        (PP (IN of) 
+          (NP (CD 672) (NNS transactions) )))
+      (VP (VBD were) 
+        (VP (VBN announced) 
+          (NP (-NONE- *-1) )
+          (PP-TMP (IN during) 
+            (NP (DT the) (JJS latest) (NN quarter) ))
+          (, ,) 
+          (ADVP (RB up) 
+            (NP (CD 13) (NN %) )
+            (PP (IN from) 
+              (NP-TMP 
+                (NP (DT the) (JJ year-earlier) (NN period) (POS 's) )
+                (CD 597) ))))))
+    (, ,) 
+    (NP-SBJ (NNP Grimm) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ 
+        (NP (NNS Transactions) )
+        (SBAR 
+          (WHPP-2 (IN in) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ-1 (NNS prices) )
+            (VP (VBD were) 
+              (VP (VBN disclosed) 
+                (NP (-NONE- *-1) )
+                (PP-LOC (-NONE- *T*-2) ))))))
+      (VP (VBD totaled) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 71.9) (CD billion) )
+            (-NONE- *U*) )
+          (, ,) 
+          (ADVP (RB up) 
+            (NP (CD 36) (NN %) )
+            (PP (IN from) 
+              (NP 
+                (QP ($ $) (CD 52.9) (CD billion) )
+                (-NONE- *U*) )
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (RBR earlier) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Grimm) )
+    (VP (VBD counted) 
+      (NP 
+        (NP (CD 16) (NNS transactions) )
+        (VP (VBN valued) 
+          (NP (-NONE- *) )
+          (PP-CLR (IN at) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 1) (CD billion) )
+                (-NONE- *U*) 
+                (QP (CC or) (JJR more) ))
+              (ADJP (-NONE- *ICH*-1) )))
+          (PP-TMP (IN in) 
+            (NP (DT the) (JJS latest) (NN period) ))
+          (, ,) 
+          (ADJP-1 
+            (ADJP (RB twice) (RB as) (JJ many) )
+            (PP (IN as) 
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (RBR earlier) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJS largest) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT the) 
+          (ADJP 
+            (QP ($ $) (CD 12) (CD billion) )
+            (-NONE- *U*) )
+          (NN merger) )
+        (VP (VBG creating) 
+          (NP (NNP Bristol-Myers) (NNP Squibb) (NNP Co) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (JJ first) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (CD 1,977) (NNS transactions) ))
+    (VP (VBD were) 
+      (VP (VBN announced) 
+        (NP (-NONE- *-1) )
+        (, ,) 
+        (ADVP (RB up) 
+          (NP (CD 15) (NN %) )
+          (PP (IN from) 
+            (NP (CD 1,716) )
+            (PP-TMP (IN in) 
+              (NP (DT the) (JJ year-earlier) (NN period) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Transactions) )
+      (SBAR 
+        (WHPP-2 (IN in) 
+          (WHNP (WDT which) ))
+        (S 
+          (NP-SBJ-1 (NNS prices) )
+          (VP (VBD were) 
+            (VP (VBN disclosed) 
+              (NP (-NONE- *-1) )
+              (PP-LOC (-NONE- *T*-2) ))))))
+    (VP (VBD totaled) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 188.1) (CD billion) )
+          (-NONE- *U*) )
+        (, ,) 
+        (ADVP (RB up) 
+          (NP (CD 15) (NN %) )
+          (PP (IN from) 
+            (NP 
+              (QP ($ $) (CD 163.2) (CD billion) )
+              (-NONE- *U*) )
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RBR earlier) )))))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG Citing) 
+        (NP 
+          (NP (JJ current) (NN stock) (NN market) (NNS conditions) )
+          (CC and) 
+          (NP 
+            (NP (DT the) (NN trend) )
+            (ADVP (RB away) 
+              (PP (IN from) 
+                (NP 
+                  (ADJP (RB highly) (JJ leveraged) )
+                  (NNS transactions) )))))))
+    (, ,) 
+    (NP-SBJ-1 (NNP Grimm) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD was) (RB n't) 
+            (ADJP-PRD (JJ certain) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ 
+                    (NP (DT the) (JJ total) (NN value) )
+                    (PP (IN of) 
+                      (NP (NNS transactions) ))
+                    (PP (IN for) 
+                      (NP (DT the) (NN year) )))
+                  (VP (MD will) 
+                    (VP (VB exceed) 
+                      (NP 
+                        (NP (DT the) (JJ record) 
+                          (QP ($ $) (CD 247) (CD billion) )
+                          (-NONE- *U*) )
+                        (PP-TMP (IN in) 
+                          (NP (CD 1988) ))))))))))))
+    (. .) ))

@@ -1,0 +1,137 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Alusuisse) )
+      (PP (IN of) 
+        (NP (NNP America) (NNP Inc.) )))
+    (VP (VBZ plans) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB sell) 
+            (NP (PRP$ its) (NNP Consolidated) (NNP Aluminum) (NNP Corp.) (NN subsidiary) )
+            (PP (IN as) 
+              (NP 
+                (NP (NN part) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (NN strategy) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB focus) 
+                          (ADVP-CLR (RBR more) )
+                          (PP-CLR (IN on) 
+                            (NP 
+                              (NP (NN aluminum) (NN packaging) )
+                              (PP-LOC (IN in) 
+                                (NP (DT the) (NNP U.S.) )))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 
+        (NP (NNP Alusuisse) )
+        (, ,) 
+        (PP (IN of) 
+          (NP (NNP New) (NNP York) ))
+        (, ,) )
+      (VP (VBD declined) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB say) 
+              (SBAR 
+                (WHNP-3 (WRB how) (JJ much) )
+                (S 
+                  (NP-SBJ-2 (PRP it) )
+                  (VP (VBZ expects) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB get) 
+                          (NP (-NONE- *T*-3) )
+                          (PP-CLR (IN for) 
+                            (NP (DT the) (NN unit) )))))))))))))
+    (: ;) 
+    (S 
+      (NP-SBJ (DT the) (NN company) )
+      (VP (VBZ has) 
+        (VP (VBN hired) 
+          (S 
+            (NP-SBJ (NNP First) (NNP Boston) (NNP Corp.) )
+            (VP (TO to) 
+              (VP (VB help) 
+                (VP (VB identify) 
+                  (NP (NNS bidders) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Alusuisse) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN subsidiary) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Swiss) (NNP Aluminium) (NNP Ltd.) )
+            (, ,) 
+            (NP 
+              (NP (DT a) 
+                (NAC-LOC (NNP Zurich) 
+                  (, ,)
+                  (NNP Switzerland) 
+                  (, ,)
+                  )
+                (NN producer) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN aluminum) )
+                  (, ,) 
+                  (NP (NNS chemicals) )
+                  (CC and) 
+                  (NP (NN packaging) (NNS products) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Consolidated) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD had) 
+            (NP 
+              (NP (CD 1988) (NN revenue) )
+              (PP (IN of) 
+                (NP 
+                  (QP ($ $) (CD 400) (CD million) )
+                  (-NONE- *U*) ))))))
+      (, ,) )
+    (VP 
+      (VP (VBZ makes) 
+        (NP (NN aluminum) (NN sheet) 
+          (CC and)
+          (NN foil) (NNS products) )
+        (PP-LOC (IN at) 
+          (NP (PRP$ its) 
+            (NAC-LOC 
+              (NAC (NNP Hannibal) 
+                (, ,)
+                (NNP Ohio) )
+              (, ,) 
+              (CC and)
+              (NAC (NNP Jackson) 
+                (, ,)
+                (NNP Tenn.) 
+                (, ,)
+                ))
+            (NN rolling) (NNS mills) )))
+      (CC and) 
+      (VP (VBZ recycles) 
+        (NP (NN aluminum) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (DT a) (NN plant) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NNP Bens) (NNP Run) )
+                (, ,) 
+                (NP (NNP W.Va) )))))))
+    (. .) ))

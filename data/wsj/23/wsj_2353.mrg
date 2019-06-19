@@ -1,0 +1,247 @@
+
+( (S 
+    (NP-SBJ (NNP Valley) (NNP Federal) (NNP Savings) (CC &) (NNP Loan) (NNP Association) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (NNP Imperial) (NNP Corp.) )
+            (PP (IN of) 
+              (NP (NNP America) )))
+          (VP (VBD withdrew) 
+            (PP-CLR (IN from) 
+              (NP (NNS regulators) ))
+            (NP (PRP$ its) (NN application) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB buy) 
+                    (NP (CD five) (NNP Valley) (NNP Federal) (NNS branches) )))))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VBG leaving) 
+                (NP (DT the) (NN transaction) )
+                (PP-LOC-CLR (IN in) 
+                  (NP (NN limbo) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ broken) (NN purchase) )
+    (VP (VBZ appears) 
+      (PP-CLR (IN as) 
+        (NP 
+          (NP (JJ additional) (NN evidence) )
+          (PP (IN of) 
+            (NP 
+              (NP (NN trouble) )
+              (PP-LOC (IN at) 
+                (NP 
+                  (NP (NNP Imperial) (NNP Corp.) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-1 (WP$ whose) (NN spokesman) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBD said) 
+                        (SBAR (-NONE- 0) 
+                          (S 
+                            (NP-SBJ (DT the) (NN company) )
+                            (VP (VBD withdrew) 
+                              (NP (PRP$ its) (NN application) )
+                              (PP-CLR (IN from) 
+                                (NP 
+                                  (NP (DT the) (JJ federal) (NNP Office) )
+                                  (PP (IN of) 
+                                    (NP (NNP Thrift) (NNP Supervision) ))))
+                              (PP-PRP (IN because) (IN of) 
+                                (NP (DT an) (JJ informal) (NN notice) 
+                                  (SBAR (IN that) 
+                                    (S 
+                                      (NP-SBJ-2 
+                                        (NP (NNP Imperial) (POS 's) )
+                                        (NN thrift) (NN unit) )
+                                      (VP (VBD failed) 
+                                        (S 
+                                          (NP-SBJ (-NONE- *-2) )
+                                          (VP (TO to) 
+                                            (VP (VB meet) 
+                                              (NP 
+                                                (NP (NNP Community) (NNP Reinvestment) (NNP Act) )
+                                                (NNS requirements) ))))))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Community) (NNP Reinvestment) (NNP Act) )
+    (VP (VBZ requires) 
+      (S 
+        (NP-SBJ (NNS savings) 
+          (CC and)
+          (NN loan) (NNS associations) )
+        (VP (TO to) 
+          (VP (VB lend) 
+            (NP (NN money) )
+            (PP (IN in) 
+              (NP 
+                (NP (NNS amounts) )
+                (ADJP (VBN related) 
+                  (PP (TO to) 
+                    (NP 
+                      (NP (NNS areas) )
+                      (SBAR 
+                        (WHADVP-2 (WRB where) )
+                        (S 
+                          (NP-SBJ-1 (NNS deposits) )
+                          (VP (VBP are) 
+                            (VP (VBN received) 
+                              (NP (-NONE- *-1) )
+                              (ADVP-LOC (-NONE- *T*-2) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN transaction) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ-2 (-NONE- *-1) )
+      (VP (VBN announced) 
+        (NP (-NONE- *-2) )
+        (PP-TMP (IN in) 
+          (NP (NNP August) ))))
+    (, ,) 
+    (VP (VBN included) 
+      (NP 
+        (NP 
+          (QP (RB about) ($ $) (CD 146) (CD million) )
+          (-NONE- *U*) )
+        (PP (IN in) 
+          (NP 
+            (NP (NNS deposits) )
+            (PP-LOC (IN at) 
+              (NP 
+                (NP (DT the) (CD five) (NNS outlets) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (NNP California) (POS 's) )
+                    (NNP San) (NNP Joaquin) (NNP Valley) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (NNS Terms) )
+      (VP (VBD were) (RB n't) 
+        (VP (VBN disclosed) 
+          (NP (-NONE- *-1) ))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (NNP Valley) (NNP Federal) )
+      (VP (VBD had) 
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ-2 (PRP it) )
+              (VP (VBD expected) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP 
+                    (VP (TO to) 
+                      (VP (VB post) 
+                        (NP (DT a) (JJ modest) (JJ pretax) (NN gain) )))
+                    (CC and) 
+                    (VP (TO to) 
+                      (VP (VB save) 
+                        (NP 
+                          (NP 
+                            (QP (RB about) ($ $) (CD 2) (CD million) )
+                            (-NONE- *U*) )
+                          (PP (IN in) 
+                            (NP (NN operating) (NNS costs) )))
+                        (ADVP-TMP (RB annually) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Valley) (NNP Federal) )
+    (VP (VBD said) 
+      (NP-TMP (NNP Friday) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG considering) 
+              (SBAR (IN whether) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP 
+                    (VP (TO to) 
+                      (VP (VB seek) 
+                        (NP 
+                          (NP (DT another) (NN buyer) )
+                          (PP (IN for) 
+                            (NP (DT the) (NNS branches) )))))
+                    (CC or) 
+                    (VP (TO to) 
+                      (VP (VB pursue) 
+                        (NP 
+                          (NP (DT the) (NN transaction) )
+                          (PP (IN with) 
+                            (NP 
+                              (NP (NNP Imperial) (NNP Corp.) )
+                              (, ,) 
+                              (SBAR 
+                                (WHNP-1 (WDT which) )
+                                (S 
+                                  (NP-SBJ (-NONE- *T*-1) )
+                                  (VP (VBD said) 
+                                    (SBAR (-NONE- 0) 
+                                      (S 
+                                        (NP-SBJ-3 (PRP it) )
+                                        (VP (VBZ is) 
+                                          (VP (VBG attempting) 
+                                            (S 
+                                              (NP-SBJ (-NONE- *-3) )
+                                              (VP (TO to) 
+                                                (VP (VB meet) 
+                                                  (NP (NNP Community) (NNP Reinvestment) (NNP Act) (NNS requirements) ))))))))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Valley) (NNP Federal) )
+      (, ,) 
+      (PP (IN with) 
+        (NP 
+          (NP (NNS assets) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 3.3) (CD billion) )
+              (-NONE- *U*) ))))
+      (, ,) )
+    (VP (VBZ is) 
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN in) 
+          (NP (NNP Van) (NNP Nuys) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Imperial) (NNP Corp.) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP (NNP San) (NNP Diego) )))
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN parent) )
+        (PP (IN of) 
+          (NP (NNP Imperial) (NNP Savings) (CC &) (NNP Loan) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP 
+        (NP (DT the) (JJ first) (CD six) (NNS months) )
+        (PP (IN of) 
+          (NP (DT the) (NN year) ))))
+    (NP-SBJ (PRP it) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (DT a) (JJ net) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 33.1) (CD million) )
+            (-NONE- *U*) ))))
+    (. .) ))

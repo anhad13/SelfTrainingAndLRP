@@ -1,0 +1,205 @@
+
+( (S 
+    (NP-SBJ (NNP Fujitsu) (NNP Ltd.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ wants) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB withdraw) 
+                  (NP (PRP$ its) (JJ controversial) (JJ one-yen) (NN bid) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB design) 
+                          (NP (DT a) (NN waterworks) (NN computer) (NN system) )
+                          (PP-BNF (IN for) 
+                            (NP 
+                              (NP (DT the) (NN city) )
+                              (PP (IN of) 
+                                (NP (NNP Hiroshima) )))))))))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Meanwhile) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Japan) (POS 's) )
+      (NNP Fair) (NNP Trade) (NNP Commission) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD was) 
+            (VP (VBG considering) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG launching) 
+                  (NP 
+                    (NP (DT an) (NN investigation) )
+                    (PP (IN into) 
+                      (SBAR (IN whether) 
+                        (S 
+                          (NP-SBJ 
+                            (NP (DT the) (NN bid) )
+                            (, ,) 
+                            (NP 
+                              (NP (DT the) (NN equivalent) )
+                              (PP (IN of) 
+                                (NP 
+                                  (NP (JJR less) )
+                                  (PP (IN than) 
+                                    (NP (DT a) (NN penny) )))))
+                            (, ,) )
+                          (VP (VBZ violates) 
+                            (NP (JJ anti-monopoly) (NNS laws) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Hiroshima) )
+    (NP-TMP (JJ last) (NN week) )
+    (VP (VBD held) 
+      (NP (DT an) (NN auction) )
+      (S-PRP 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB pick) 
+            (NP (DT the) (NN contractor) ))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (VBG expecting) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB pay) 
+                (NP 
+                  (QP (RB about) (CD 11) (CD million) )
+                  (NNS yen) )
+                (PP-CLR (IN for) 
+                  (NP (DT the) (NN project) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (CD Eight) (NNS companies) )
+      (VP (VBD submitted) 
+        (NP (NNS bids) )))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-1 (NNP Fujitsu) )
+      (VP (VBD won) 
+        (NP (DT the) (NN contract) )
+        (PP-MNR (IN by) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP 
+              (ADVP (RB essentially) )
+              (VBG saying) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (MD would) 
+                    (VP (VB do) 
+                      (NP (DT the) (NN job) )
+                      (PP-CLR (IN for) 
+                        (NP (JJ free) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP News) )
+      (PP (IN of) 
+        (NP (DT the) (NN bid) )))
+    (VP (VBD drew) 
+      (NP (JJ sharp) (NN criticism) )
+      (PP-CLR (IN from) 
+        (NP 
+          (NP (JJ other) (NN computer) (NNS companies) )
+          (CC and) 
+          (NP (NN industry) (NNS observers) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Fujitsu) )
+      (NP (PRP itself) )
+      (, ,) 
+      (SBAR 
+        (WHNP-163 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-163) )
+          (VP (VBD said) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ-1 (DT the) (NN bid) )
+                (VP (VBD had) (RB n't) 
+                  (VP (VBN been) 
+                    (VP (VBN approved) 
+                      (NP (-NONE- *-1) )
+                      (PP (IN by) 
+                        (NP-LGS (PRP$ its) (NNS headquarters) ))))))))))
+      (, ,) )
+    (VP (VBD was) 
+      (ADVP (RB clearly) )
+      (ADJP-PRD (JJ embarrassed) ))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN bid) )
+      (VP (VBD was) (RB n't) 
+        (ADJP-PRD (`` ``) (RB socially) (JJ acceptable) )))
+    (, ,) ('' '') 
+    (NP-SBJ (DT a) (NN company) (NN spokeswoman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Hiroshima) (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (ADVP-TMP (RB still) )
+          (VP 
+            (VP (VBP consider) 
+              (S 
+                (NP-SBJ (DT the) (NN contract) )
+                (PP-PRD (IN in) 
+                  (NP (NN effect) ))))
+            (CC and) 
+            (VP (VBD had) 
+              (NP (DT no) (JJ immediate) (NNS plans) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB cancel) 
+                      (NP (PRP it) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP they) )
+          (VP (VBD wanted) 
+            (S 
+              (NP-SBJ-2 (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB wait) 
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (NP (DT the) (NN outcome) )
+                      (PP (IN of) 
+                        (NP (DT any) (NN government) (NN investigation) ))))
+                  (PP-TMP (IN before) 
+                    (S-NOM 
+                      (NP-SBJ-3 (-NONE- *-2) )
+                      (VP (VBG deciding) 
+                        (SBAR 
+                          (WHNP-164 (WP what) )
+                          (S 
+                            (NP-SBJ (-NONE- *-3) )
+                            (VP (TO to) 
+                              (VP (VB do) 
+                                (NP (-NONE- *T*-164) )))))))))))))))
+    (. .) ))

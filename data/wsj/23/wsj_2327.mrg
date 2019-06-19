@@ -1,0 +1,308 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Salomon) (NNP Brothers) (NNP International) (NNP Ltd.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ British) (NN subsidiary) )
+        (PP (IN of) 
+          (NP (NNP Salomon) (NNP Inc.) )))
+      (, ,) )
+    (VP (VBD announced) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB issue) 
+              (NP 
+                (NP (NNS warrants) )
+                (PP (IN on) 
+                  (NP 
+                    (NP (NNS shares) )
+                    (PP (IN of) 
+                      (NP (NNP Hong) (NNP Kong) (NNP Telecommunications) (NNP Ltd) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN move) )
+    (VP 
+      (ADVP-MNR (RB closely) )
+      (VBZ follows) 
+      (NP 
+        (NP (DT a) (JJ similar) (NN offer) )
+        (PP (IN by) 
+          (NP (NNP Salomon) ))
+        (PP (IN of) 
+          (NP 
+            (NP (NNS warrants) )
+            (PP (IN for) 
+              (NP 
+                (NP (NNS shares) )
+                (PP (IN of) 
+                  (NP (NNP Hongkong) (CC &) (NNP Shanghai) (NNP Banking) (NNP Corp) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (JJS latest) (NN offer) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP 
+        (QP ($ HK$) (CD 62.5) (CD million) )
+        (-NONE- *U*) )
+      (PRN 
+        (-LRB- -LRB-)
+        (NP 
+          (QP ($ US$) (CD 8) (CD million) )
+          (-NONE- *U*) )
+        (-RRB- -RRB-) )
+      (PP (IN of) 
+        (NP (JJ three-year) (NNS warrants) )))
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN issued) 
+          (NP (-NONE- *-1) )
+          (PP-LOC (IN in) 
+            (NP (NNP London) ))
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ (DT each) )
+            (VP (VBG giving) 
+              (NP (NNS buyers) )
+              (NP (DT the) (NN right) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB buy) 
+                      (NP (CD one) (NNP Hong) (NNP Kong) (NNP Telecommunications) (NN share) )
+                      (PP (IN at) 
+                        (NP 
+                          (NP (DT a) (NN price) )
+                          (SBAR 
+                            (WHNP-3 (-NONE- 0) )
+                            (S 
+                              (NP-SBJ-2 (-NONE- *T*-3) )
+                              (VP (TO to) 
+                                (VP (VB be) 
+                                  (VP (VBN determined) 
+                                    (NP (-NONE- *-2) )
+                                    (NP-TMP (NNP Friday) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) 
+      (QP (CD 50) (CD million) )
+      (NNS warrants) )
+    (VP 
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN priced) 
+            (NP (-NONE- *-1) )
+            (PP-CLR (IN at) 
+              (NP 
+                (NP ($ HK$) (CD 1.25) (-NONE- *U*) )
+                (NP (DT each) ))))))
+      (CC and) 
+      (VP (VBP are) 
+        (VP (VBN expected) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB carry) 
+                (NP 
+                  (NP (DT a) (NN premium) )
+                  (PP (TO to) 
+                    (NP (DT the) (NN share) (NN price) ))
+                  (PP (IN of) 
+                    (NP 
+                      (QP (RB about) (CD 26) )
+                      (NN %) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (VBG trading) )
+        (PP-LOC (IN on) 
+          (NP 
+            (NP (DT the) (NNP Stock) (NNP Exchange) )
+            (PP (IN of) 
+              (NP (NNP Hong) (NNP Kong) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS shares) )
+    (VP (VBD closed) 
+      (NP-TMP (NNP Wednesday) )
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ HK$) (CD 4.80) (-NONE- *U*) )
+          (NP (DT each) ))))
+    (. .) ))
+( (S 
+    (PP (IN At) 
+      (NP (DT this) (NN price) ))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NNS shares) )
+    (VP (MD would) 
+      (VP (VB have) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB rise) 
+              (PP-DIR (IN above) 
+                (NP ($ HK$) (CD 6.05) (-NONE- *U*) ))
+              (SBAR-PRP (IN for) 
+                (S 
+                  (NP-SBJ 
+                    (NP (NNS subscribers) )
+                    (PP (TO to) 
+                      (NP 
+                        (NP (NNP Salomon) (POS 's) )
+                        (NN issue) )))
+                  (VP (TO to) 
+                    (VP 
+                      (ADVP-MNR (RB profitably) )
+                      (VB convert) 
+                      (NP (PRP$ their) (NNS warrants) ))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (NNP Hong) (NNP Kong) (NNS companies) )
+        (VP (VBP have) 
+          (PP-TMP (IN in) 
+            (NP (DT the) (NN past) ))
+          (VP (VBD issued) 
+            (NP 
+              (NP (NNS warrants) )
+              (PP (IN on) 
+                (NP (PRP$ their) (JJ own) (NNS shares) )))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Salomon) (POS 's) )
+      (NNS warrants) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (DT the) (JJ first) )
+        (ADVP-LOC (RB here) )
+        (SBAR 
+          (WHNP-2 (-NONE- 0) )
+          (S 
+            (NP-SBJ-1 (-NONE- *T*-2) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (VP (VBN issued) 
+                  (NP (-NONE- *-1) )
+                  (PP (IN by) 
+                    (NP-LGS (DT a) (JJ third) (NN party) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Salomon) )
+    (VP (MD will) (`` ``) 
+      (VP (VB cover) ('' '') 
+        (NP (DT the) (NNS warrants) )
+        (PP-MNR (IN by) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG buying) 
+              (NP 
+                (NP (JJ sufficient) 
+                  (NX 
+                    (NX (NNS shares) )
+                    (, ,) (CC or) 
+                    (NX 
+                      (NX (NNS options) )
+                      (SBAR 
+                        (WHADVP-2 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (TO to) 
+                            (VP (NN purchase) 
+                              (NP (NNS shares) )
+                              (ADVP (-NONE- *T*-2) ))))))
+                    (, ,) ))
+                (SBAR 
+                  (WHNP-3 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-3) )
+                    (VP (TO to) 
+                      (VP (VB cover) 
+                        (NP (PRP$ its) (JJ entire) (NN position) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Bankers) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS warrants) )
+            (PP (IN for) 
+              (NP 
+                (NP (NNP Hong) (NNP Kong) )
+                (NNS stocks) )))
+          (VP (VBP are) 
+            (ADJP-PRD (JJ attractive) )
+            (SBAR-PRP (IN because) 
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (VBP give) 
+                  (NP 
+                    (NP (JJ foreign) (NNS investors) )
+                    (, ,) 
+                    (ADJP (JJ wary) 
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NN volatility) )
+                          (PP-LOC (IN in) 
+                            (NP 
+                              (NP (DT the) (NN colony) (POS 's) )
+                              (NN stock) (NN market) )))))
+                    (, ,) )
+                  (NP (DT an) (NN opportunity) 
+                    (S 
+                      (NP-SBJ-1 (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB buy) 
+                          (NP (NNS shares) )
+                          (PP (IN without) 
+                            (S-NOM 
+                              (NP-SBJ (-NONE- *-1) )
+                              (VP (VBG taking) 
+                                (NP 
+                                  (ADJP (RB too) (JJ great) )
+                                  (DT a) (NN risk) )))))))))))))))
+    (. .) ))
+( (S-3 
+    (NP-SBJ (DT The) (NNP Hong) (NNP Kong) (NNP Telecommunications) (NNS warrants) )
+    (VP (MD should) 
+      (VP (VB be) 
+        (ADJP-PRD (JJ attractive) 
+          (PP (TO to) 
+            (NP 
+              (NP (NNS buyers) )
+              (PP-LOC (IN in) 
+                (NP (NNP Europe) )))))
+        (PRN 
+          (, ,)
+          (S 
+            (NP-SBJ (DT the) (NNS bankers) )
+            (VP (VBD added) 
+              (SBAR (-NONE- 0) 
+                (S (-NONE- *T*-3) ))))
+          (, ,) )
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (DT the) (NN group) )
+            (VP (VBZ is) 
+              (NP-PRD 
+                (NP (CD one) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT a) (NN handful) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (JJ blue-chip) (NNS stocks) )
+                        (PP-LOC (IN on) 
+                          (NP (DT the) (NNP Hong) (NNP Kong) (NN market) ))
+                        (SBAR 
+                          (WHNP-2 (WDT that) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-2) )
+                            (VP (VBZ has) 
+                              (NP (JJ international) (NN appeal) ))))))))))))))
+    (. .) ))

@@ -1,0 +1,46 @@
+
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (JJ Canadian) (NN government) )
+      (VP (VBZ plans) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB auction) 
+              (PP-TMP (IN on) 
+                (NP (NNP Tuesday) ))
+              (NP 
+                (NP 
+                  (QP (CD 750) (CD million) )
+                  (JJ Canadian) (NNS dollars) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP 
+                    (QP ($ US$) (CD 639.9) (CD million) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (CD 9.25) (NN %) (NNS bonds) )
+                    (ADJP (JJ due) 
+                      (NP-TMP (NNP Dec.) (CD 1) 
+                        (, ,)
+                        (CD 1999) ))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Finance) (NNP Department) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Proceeds) )
+      (PP (IN of) 
+        (NP (DT the) (NN issue) )))
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN used) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN for) 
+            (NP (JJ general) (NN government) (NNS purposes) )))))
+    (. .) ))

@@ -1,0 +1,27 @@
+
+( (S 
+    (NP-SBJ (NNP Concord) (NNP Camera) (NNP Corp.) )
+    (VP (VBD completed) 
+      (NP 
+        (NP (DT the) (NN acquisition) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Peter) (NNP Bauser) (NNP G.m.b) (. .) (NNP H.) )
+            (, ,) 
+            (NP (DT a) 
+              (ADJP (JJ West) (JJ German) )
+              (JJ photographic) (NNS products) (NN distributor) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Concord) )
+    (VP (VBZ is) 
+      (NP-PRD (DT a) (NN camera) 
+        (CC and)
+        (JJ photographic) (NNS products) (NN company) ))
+    (. .) ))

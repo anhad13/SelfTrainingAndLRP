@@ -1,0 +1,108 @@
+
+( (NP-TTL 
+    (NP (NN Child) (POS 's) )
+    (NN Game) ))
+( (S 
+    (S 
+      (S 
+        (NP-SBJ (EX There) )
+        (VP (VBD was) 
+          (NP-PRD 
+            (ADJP (RB very) (JJ slow) )
+            (NN play) )
+          (PP-LOC (IN on) 
+            (NP (DT the) (NN market) ))
+          (NP-TMP (NN today) )))
+      (, ,) 
+      (S 
+        (NP-SBJ (PRP They) )
+        (VP (VBD were) 
+          (VP (VBG selling) 
+            (CC and)
+            (VBG buying) 
+            (PP-MNR (IN by) 
+              (NP (NNS halves) ))))))
+    (: ;) 
+    (S 
+      (PP (RB Instead) (IN of) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG trading) 
+            (PP-MNR (IN like) 
+              (NP (NNPS Bears) 
+                (CC and)
+                (NNPS Bulls) )))))
+      (, ,) 
+      (NP-SBJ-1 (PRP They) )
+      (VP (VBD behaved) 
+        (PP-MNR (IN like) 
+          (NP (NNS cubs) 
+            (CC and)
+            (NNS calves) ))))
+    (. .) ))
+( (NP (: --) (NNP George) (NNP O.) (NNP Ludcke) (. .) ))
+( (NP-TTL (NN Politrick) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP 've) 
+      (VP (VBN learned) 
+        (NP 
+          (NP (CD one) (NN thing) )
+          (NP (-NONE- *ICH*-1) ))
+        (PP (IN from) 
+          (NP (NNS candidates) ))
+        (, ,) 
+        (NP-1 
+          (NP 
+            (NP (DT A) (NN technique) )
+            (VP 
+              (ADVP (RB so) (RB deftly) )
+              (VBN done) 
+              (NP (-NONE- *) )))
+          (: :) 
+          (S 
+            (SBAR (IN If) 
+              (S 
+                (NP-SBJ-2 (DT a) (NN question) )
+                (VP (MD ca) (RB n't) 
+                  (VP (VB be) 
+                    (VP (VBN answered) 
+                      (NP (-NONE- *-2) ))))))
+            (, ,) 
+            (NP-SBJ (-NONE- *) )
+            (VP 
+              (ADVP-MNR (RB Strongly) )
+              (VB answer) 
+              (NP (DT an) (JJ unasked) (CD one) ))))))
+    (. !) ))
+( (NP (: --) (NNP Mimi) (NNP Kay) (. .) ))
+( (NP-TTL (NN Foresight) ))
+( (S 
+    (NP-SBJ-1 (PRP We) )
+    (VP (VBP need) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB get) 
+            (S 
+              (NP-SBJ (DT a) (NN space) (NN platform) )
+              (VP (VBN set) 
+                (PRT (RP up) )
+                (ADVP-TMP (RB soon) )))))
+        (: --) 
+        (SBAR-PRP (RB just) (IN in) (NN case) 
+          (S 
+            (NP-SBJ-2 (PRP we) )
+            (VP (VBP want) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB step) 
+                    (PRT (RP out) )
+                    (PP-PRP (IN for) 
+                      (NP 
+                        (NP (DT a) (NN breath) )
+                        (PP (IN of) 
+                          (NP (JJ fresh) (NN air) ))))))))))))
+    (. .) ))
+( (NP (: --) (NNP Ivern) (NNP Ball) (. .) ))

@@ -1,0 +1,465 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Exxon) (NNP Corp.) )
+    (VP (VBD filed) 
+      (NP (NN suit) )
+      (PP-CLR (IN against) 
+        (NP 
+          (NP (DT the) (NN state) )
+          (PP (IN of) 
+            (NP (NNP Alaska) ))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG charging) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ (NN state) (NNS officials) )
+              (VP (VBD interfered) 
+                (PP-CLR (IN with) 
+                  (NP 
+                    (NP (DT the) (NN oil) (NN company) (POS 's) )
+                    (JJ initial) (NNS efforts) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB treat) 
+                          (NP 
+                            (NP (JJ last) (NN spring) (POS 's) )
+                            (JJ giant) (NN oil) (NN spill) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN action) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN counterclaim) )
+        (PP (TO to) 
+          (NP 
+            (NP (DT a) (NN suit) )
+            (VP (VBN filed) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS (NNP Alaska) ))
+              (PP-TMP (IN in) 
+                (NP (NNP August) ))
+              (PP-CLR (IN against) 
+                (NP 
+                  (NP (NNP Exxon) )
+                  (CC and) 
+                  (NP (CD six) (JJ other) (NN oil) (NNS companies) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN state) (POS 's) )
+      (NN suit) )
+    (VP (VBZ alleges) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 
+            (NP 
+              (NP (NNP Exxon) (POS 's) )
+              (NN response) )
+            (PP (TO to) 
+              (NP (DT the) (NN spill) )))
+          (VP (VBD failed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB prevent) 
+                  (NP 
+                    (NP (NN contamination) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNS hundreds) )
+                        (PP (IN of) 
+                          (NP (NNS miles) ))
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NN shoreline) )
+                            (PP-LOC (IN along) 
+                              (NP (NNP Prince) (NNP William) (NNP Sound) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT That) (NN suit) )
+      (CC and) 
+      (NP 
+        (NP (NNP Exxon) (POS 's) )
+        (NN countersuit) ))
+    (VP (VBD were) 
+      (VP (VBN filed) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (DT a) (NN state) (NN court) )
+            (PP-LOC (IN in) 
+              (NP (NNP Anchorage) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Neither) (NN suit) )
+    (VP (VBZ lists) 
+      (NP (JJ specific) (NN dollar) (NNS claims) )
+      (, ,) 
+      (SBAR-PRP 
+        (ADVP (RB largely) )
+        (IN because) 
+        (S 
+          (NP-SBJ-1 (NN damage) (NN assessment) )
+          (VP (VBZ has) (RB n't) 
+            (ADVP (RB yet) )
+            (VP (VBN been) 
+              (VP (VBN completed) 
+                (NP (-NONE- *-1) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Legal) (NNS strategists) )
+    (VP (VBP say) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NN damage) (NNS claims) )
+            (PP (IN against) 
+              (NP (DT the) (NN oil) (NN giant) 
+                (CC and)
+                (NNS others) )))
+          (VP (MD could) 
+            (ADVP (RB well) )
+            (VP (VB exceed) 
+              (NP 
+                (QP ($ $) (CD 1) (CD billion) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NN Litigation) )
+    (, ,) 
+    (SBAR-ADV (IN if) 
+      (S 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (RB not) 
+        (VP (VBN settled) 
+          (NP (-NONE- *-2) )
+          (PP-MNR (IN out) 
+            (PP (IN of) 
+              (NP (NN court) ))))))
+    (, ,) 
+    (VP (MD could) 
+      (VP (VB drag) 
+        (PRT (RP on) )
+        (PP-TMP (IN for) 
+          (NP (NNS years) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Exxon) )
+    (VP (VBD said) 
+      (PP-LOC (IN in) 
+        (NP (PRP$ its) (NN suit) ))
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB seek) 
+              (NP 
+                (NP (NN reimbursement) )
+                (PP (IN from) 
+                  (NP (DT the) (NN state) ))
+                (PP (IN for) 
+                  (NP 
+                    (NP (DT that) (NN part) )
+                    (PP (IN of) 
+                      (NP (DT the) (NN cleanup) (NNS costs) 
+                        (CC and)
+                        (NN damage) (NNS claims) ))
+                    (SBAR 
+                      (WHNP-1 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ (PRP it) )
+                        (VP (VBZ says) 
+                          (SBAR (-NONE- 0) 
+                            (S 
+                              (NP-SBJ (-NONE- *T*-1) )
+                              (VP (VBD resulted) 
+                                (PP-CLR (IN from) 
+                                  (NP 
+                                    (NP (DT the) (NN state) (POS 's) )
+                                    (NN conduct) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN oil) (NN company) )
+    (VP (VBZ claims) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (JJ Alaskan) (NNS officials) )
+          (VP (VBD prevented) 
+            (NP-1 (NNP Exxon) )
+            (PP-CLR (IN from) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG spraying) 
+                  (NP (NN dispersant) )
+                  (PP-CLR (IN onto) 
+                    (NP 
+                      (NP (DT the) 
+                        (QP (RB almost) (CD 11) (CD million) )
+                        (NNS gallons) )
+                      (PP (IN of) 
+                        (NP (NN oil) ))
+                      (VP (VBN dumped) 
+                        (NP (-NONE- *) )
+                        (SBAR-TMP 
+                          (WHADVP-2 (WRB when) )
+                          (S 
+                            (NP-SBJ 
+                              (NP (CD one) )
+                              (PP (IN of) 
+                                (NP (PRP$ its) (NNS tankers) )))
+                            (VP (VBD ran) 
+                              (PP-CLR (IN into) 
+                                (NP (DT an) (JJ underwater) (NN reef) ))
+                              (ADVP-TMP (-NONE- *T*-2) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Craig) (NNP Tillery) )
+      (, ,) 
+      (NP (DT an) (NNP Alaska) (JJ assistant) (NN attorney) (NN general) )
+      (, ,) )
+    (VP (VBD said) 
+      (PP-LOC (IN in) 
+        (NP (DT an) (NN interview) ))
+      (NP-TMP (JJ last) (NN night) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Exxon) (POS 's) )
+            (NNS accusations) )
+          (`` ``) 
+          (VP (VBP are) (RB not) 
+            (ADJP-PRD (JJ new) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Exxon) )
+    (VP (VBZ has) 
+      (VP (VBN made) 
+        (NP (PRP them) )
+        (ADVP-TMP (RB before) )
+        (, ,) 
+        (SBAR-TMP 
+          (WHPP-1 (IN at) 
+            (WHNP (WDT which) (NN point) ))
+          (S 
+            (NP-SBJ (DT the) (NN state) )
+            (VP (VBD demonstrated) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (PRP they) )
+                  (VP (VBD were) 
+                    (ADJP-PRD (JJ untrue) ))))
+              (PP-TMP (-NONE- *T*-1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN state) )
+    (VP (MD will) 
+      (ADVP-MNR (RB vigorously) )
+      (VP (VB defend) 
+        (PP-CLR (IN against) 
+          (NP (DT any) (NN counterclaim) ))))
+    (. .) ('' '') ))
+( (S 
+    (PP-TMP (IN Since) 
+      (NP 
+        (NP (DT the) (NN spill) )
+        (NP-TMP (JJ last) (NNP March) )))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Exxon) )
+      (CC and) 
+      (NP (DT the) (NN state) ))
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (VP (VBG wrangling) 
+          (PP-CLR (IN over) 
+            (SBAR (IN whether) 
+              (S 
+                (S-NOM-SBJ-1 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG spraying) 
+                    (NP (NN dispersant) )
+                    (PP-CLR (IN on) 
+                      (NP (DT the) (NN oil) ))
+                    (PP-TMP (IN in) 
+                      (NP 
+                        (NP (DT the) (JJ first) (NNS hours) )
+                        (PP (IN after) 
+                          (NP (DT the) (NN spill) ))))
+                    (, ,) 
+                    (SBAR-TMP 
+                      (WHADVP (WRB when) )
+                      (S 
+                        (NP-SBJ (DT the) (NN weather) )
+                        (VP (VBD was) 
+                          (ADJP-PRD (JJ clear) 
+                            (CC and)
+                            (JJ calm) ))))
+                    (, ,) ))
+                (VP (MD would) 
+                  (VP (VB have) 
+                    (VP (VBN helped) 
+                      (S 
+                        (NP-SBJ (-NONE- *-1) )
+                        (VP (VB limit) 
+                          (NP (DT the) (JJ environmental) (NN damage) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Exxon) )
+    (VP (VBZ claims) 
+      (SBAR 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (NN use) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNS dispersants) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-1 (WDT which) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBP break) 
+                        (NP (DT an) (NN oil) (NN slick) )
+                        (PP-CLR (IN into) 
+                          (NP (JJ microscopic) (NNS droplets) )))))
+                  (, ,) )))
+            (VP (VBD was) 
+              (NP-PRD 
+                (NP (DT a) (JJ crucial) (NN part) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (JJ immediate-response) (NN plan) ))))))
+        (CC and) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (NN state) (NNS officials) )
+            (VP (VBD banned) 
+              (NP (PRP$ their) (NN use) )
+              (PP-TMP (IN during) 
+                (NP 
+                  (NP (DT the) (CD two) (NNS days) )
+                  (PP (IN of) 
+                    (NP (JJ fair) (NN weather) ))
+                  (PP-TMP (VBG following) 
+                    (NP (DT the) (NN spill) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN oil) (NN company) )
+    (VP (VBZ claims) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD had) 
+            (NP (NN permission) 
+              (S (-NONE- *ICH*-1) ))
+            (PP (IN from) 
+              (NP (DT the) (NNP U.S.) (NNP Environmental) (NNP Protection) (NNP Agency) ))
+            (ADVP-TMP (RB prior) 
+              (PP (TO to) 
+                (NP (DT the) (NN spill) )))
+            (S-1 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB use) 
+                  (NP (NN dispersant) )
+                  (PP-TMP (IN during) 
+                    (NP (PDT such) (DT an) (NN incident) ))
+                  (PP (IN at) 
+                    (NP 
+                      (NP (DT the) (NN discretion) )
+                      (PP (IN of) 
+                        (NP (DT the) (NNP U.S.) (NNP Coast) (NNP Guard) )))))))))))
+    (. .) ))
+( (S-1 
+    (NP-SBJ 
+      (NP 
+        (NP (DT The) (NN state) (POS 's) )
+        (NN opposition) )
+      (PP (TO to) 
+        (NP 
+          (NP (DT the) (NN use) )
+          (PP (IN of) 
+            (NP (NNS dispersants) )))))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (NNP Exxon) )
+        (VP (VBZ says) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (VP (VBD caused) 
+      (S 
+        (NP-SBJ-2 (DT the) (NNP Coast) (NNP Guard) )
+        (`` ``) 
+        (VP (TO to) 
+          (VP (VB delay) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (VBG granting) 
+                (NP (NN permission) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (UCP (JJ Alaskan) 
+        (CC and)
+        (NNP Coast) (NNP Guard) )
+      (NNS officials) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Exxon) (POS 's) )
+            (NNS charges) )
+          (VP (VBP are) (RB n't) 
+            (ADJP-PRD (JJ relevant) )
+            (SBAR-PRP (IN because) 
+              (S 
+                (NP-SBJ 
+                  (NP (NNS tests) )
+                  (VP (VBN conducted) 
+                    (NP (-NONE- *) )
+                    (PP-TMP (IN during) 
+                      (NP 
+                        (NP (DT the) (JJ first) (CD two) (NNS days) )
+                        (PP-TMP (VBG following) 
+                          (NP (DT the) (NN spill) ))))))
+                (VP (VBD showed) 
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ (DT the) (NN dispersant) )
+                      (VP (VBD was) (RB n't) 
+                        (VP (VBG working) 
+                          (ADVP (RB anyway) ))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ-1 
+        (NP (NN Use) )
+        (PP (IN of) 
+          (NP (NNS dispersants) )))
+      (VP (VBD was) 
+        (VP (VBN approved) 
+          (NP (-NONE- *-1) )
+          (SBAR-TMP 
+            (WHADVP-2 (WRB when) )
+            (S 
+              (NP-SBJ 
+                (NP (DT a) (NN test) )
+                (PP-TMP (IN on) 
+                  (NP (DT the) (JJ third) (NN day) )))
+              (VP (VBD showed) 
+                (NP (DT some) (JJ positive) (NNS results) )
+                (ADVP-TMP (-NONE- *T*-2) )))))))
+    (, ,) 
+    (NP-SBJ (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))

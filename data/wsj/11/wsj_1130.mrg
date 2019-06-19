@@ -1,0 +1,177 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN state) (NN attorney) (JJ general) (POS 's) )
+      (NN office) )
+    (VP (VBD filed) 
+      (NP (NN suit) )
+      (PP-CLR (IN against) 
+        (NP (CD five) (NNP New) (NNP York) (NN brokerage) (NNS firms) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG charging) 
+          (NP (PRP them) )
+          (PP-CLR (IN with) 
+            (NP 
+              (NP (NN responsibility) )
+              (PP (IN for) 
+                (NP 
+                  (NP (JJ much) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT a) 
+                        (ADJP 
+                          (QP ($ $) (CD 200) (CD million) )
+                          (-NONE- *U*) )
+                        (NN loss) )
+                      (VP (VBN incurred) 
+                        (NP (-NONE- *) )
+                        (PP (IN by) 
+                          (NP-LGS 
+                            (NP (DT the) (NN state) (NN treasurer) (POS 's) )
+                            (NN office) ))
+                        (PP-TMP (IN in) 
+                          (NP (CD 1987) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN suit) )
+    (VP (VBZ sets) 
+      (NP 
+        (NP (DT the) (NNS firms) (POS ') )
+        (NN liability) )
+      (PP-CLR (IN at) 
+        (NP 
+          (QP (JJR more) (IN than) ($ $) (CD 185) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS firms) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (NNP Morgan) (NNP Stanley) (CC &) (NNP Co.) )
+        (, ,) 
+        (NP (NNP Salomon) (NNP Brothers) (NNP Inc.) )
+        (, ,) 
+        (NP (NNP County) (NNP Natwest) (NNP Government) (NNP Securities) (NNP Inc.) )
+        (, ,) 
+        (NP (NNP Greenwich) (NNP Capital) (NNP Markets) (NNP Inc.) )
+        (CC and) 
+        (NP (NNP Goldman) 
+          (, ,)
+          (NNP Sachs) (CC &) (NNP Co) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS firms) )
+    (VP (VBP have) (DT all) 
+      (VP (VBN said) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (NNP West) (NNP Virginia) (POS 's) )
+              (NN suit) )
+            (VP (VBZ is) 
+              (PP-PRD (IN without) 
+                (NP (NN merit) )))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN On) 
+      (NP (NNP Friday) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS firms) )
+    (VP (VBD filed) 
+      (NP 
+        (NP (DT a) (NN suit) )
+        (VP (-NONE- *ICH*-1) ))
+      (PP-CLR (IN against) 
+        (NP (NNP West) (NNP Virginia) ))
+      (PP-TMP (IN in) 
+        (NP (NNP New) (NNP York) (NN state) (NN court) ))
+      (VP-1 (VBG asking) 
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (DT a) (JJ declaratory) (NN judgment) )
+            (VP (VBG absolving) 
+              (NP (PRP them) )
+              (PP-CLR (IN of) 
+                (NP (NN liability) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT That) (NN suit) )
+    (VP (VBZ is) 
+      (S-PRD 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG pending) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS suits) )
+    (VP (VBP relate) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 200) (CD million) )
+              (-NONE- *U*) )
+            (NN loss) )
+          (, ,) 
+          (VP (VBN disclosed) 
+            (NP (-NONE- *) )
+            (PP-TMP (IN in) 
+              (NP (NNP December) )))
+          (, ,) 
+          (SBAR 
+            (WHNP-2 (WDT that) )
+            (S 
+              (NP-SBJ-1 (-NONE- *T*-2) )
+              (VP (VBD was) 
+                (VP (VBN suffered) 
+                  (NP (-NONE- *-1) )
+                  (PP (IN by) 
+                    (NP-LGS 
+                      (NP (NNP West) (NNP Virginia) (POS 's) )
+                      (JJ consolidated) (NN investment) (NN pool) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN pool) )
+    (VP (VBD invested) 
+      (NP (JJ idle) (NN cash) )
+      (PP (IN for) 
+        (NP (JJ many) 
+          (NX 
+            (NX (NN state) (NNS agencies) )
+            (CC and) 
+            (NX (JJ local) (NNS governments) )))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (PRP$ its) (NN suit) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN attorney) (JJ general) (POS 's) )
+      (NN office) )
+    (VP (VBZ alleges) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNS brokers) )
+          (VP (VBD encouraged) 
+            (S 
+              (NP-SBJ 
+                (NP (NNS members) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN treasurer) (POS 's) )
+                    (NN office) )))
+              (VP (TO to) 
+                (VP (VB engage) 
+                  (PP-CLR (IN in) 
+                    (NP 
+                      (NP (JJ high-volume) 
+                        (, ,)
+                        (JJ high-risk) (NNS transactions) )
+                      (SBAR 
+                        (WHNP-1 (WDT that) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-1) )
+                          (VP (VBD benefited) 
+                            (NP (DT the) (NNS brokers) )))))))))))))
+    (. .) ))

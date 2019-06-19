@@ -1,0 +1,160 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Computer) (NNPS Associates) (NNP International) (NNP Inc.) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Garden) (NNP City) )
+          (, ,) 
+          (NP (NNP N.Y.) )
+          (, ,) ))
+      (CC and) 
+      (NP (NNP Digital) (NNP Equipment) (NNP Corp.) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP they) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP 
+                  (ADVP-MNR (RB jointly) )
+                  (VB develop) 
+                  (NP 
+                    (NP (NN software) )
+                    (SBAR 
+                      (WHNP-2 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ-3 (-NONE- *T*-2) )
+                        (VP (TO to) 
+                          (VP (VB help) 
+                            (S 
+                              (NP-SBJ (-NONE- *-3) )
+                              (VP (VB manage) 
+                                (NP 
+                                  (NP (NNP Digital) (POS 's) )
+                                  (NNP Vax) (NNS computers) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Computer) (NNPS Associates) )
+    (VP 
+      (VP (VBZ has) 
+        (VP (VBN carved) 
+          (PRT (RP out) )
+          (NP (DT a) (JJ huge) (NN business) )
+          (S-ADV 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG selling) 
+              (NP (JJ such) (NN software) )
+              (PP (IN for) 
+                (NP 
+                  (NP (NN use) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (NN managing) (NNS networks) )
+                      (PP (IN of) 
+                        (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.) (NNS computers) ))))))))))
+      (CC but) 
+      (VP (VBZ needs) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB find) 
+              (NP (JJ new) (NNS markets) ))))
+        (SBAR-ADV (IN if) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ is) 
+              (VP (TO to) 
+                (VP (VB maintain) 
+                  (NP 
+                    (NP (PRP$ its) (NN growth) (NN rate) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (CD 30) (NN %) 
+                          (QP 
+                            (CC and)
+                            (JJR more) ))
+                        (NP-ADV (DT each) (NN year) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN market) )
+      (PP (IN for) 
+        (NP 
+          (NP (NN system-management) (NN software) )
+          (PP (IN for) 
+            (NP 
+              (NP (NNP Digital) (POS 's) )
+              (NN hardware) )))))
+    (VP (VBZ is) 
+      (VP (VBN fragmented) 
+        (NP (-NONE- *-1) )
+        (ADVP (RB enough) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ 
+                (NP (DT a) (NN giant) )
+                (PP (JJ such) (IN as) 
+                  (NP (NNP Computer) (NNPS Associates) )))
+              (VP (MD should) 
+                (VP (VB do) 
+                  (ADVP-MNR (RB well) )
+                  (ADVP-LOC (RB there) ))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP (DT the) (JJ same) (NN time) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN market) )
+    (VP (VBZ is) 
+      (ADJP-PRD 
+        (ADJP (JJR smaller) )
+        (PP (IN than) 
+          (NP 
+            (NP (DT the) (NN market) )
+            (PP (IN for) 
+              (NP (JJ IBM-compatible) (NN software) ))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (CD one) (NN thing) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Digital) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Maynard) )
+        (, ,) 
+        (NP (NNP Mass.) )
+        (, ,) ))
+    (VP (VBZ has) 
+      (VP (VBN sold) 
+        (NP (JJR fewer) (NNS machines) )))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (S 
+      (NP-SBJ (PRP$ its) (NNS machines) )
+      (VP (VBP are) 
+        (ADVP (RB typically) )
+        (ADJP-PRD (JJR easier) 
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB operate) 
+                  (NP (-NONE- *T*-1) ))))))))
+    (, ,) (IN so) 
+    (S 
+      (NP-SBJ (NNS customers) )
+      (VP (VBP require) 
+        (NP (JJR less) (NN assistance) )
+        (PP-CLR (IN from) 
+          (NP (NN software) ))))
+    (. .) ))

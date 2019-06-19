@@ -1,0 +1,44 @@
+
+( (S 
+    (NP-SBJ-2 
+      (NP (NNP James) (NNP L.) (NNP Madson) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 46) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (NP-PRD 
+            (NP 
+              (NP (DT a) (NN vice) (NN president) )
+              (CC and) 
+              (NP (JJ assistant) (JJ general) (NN manager) ))
+            (PP (IN of) 
+              (NP 
+                (NP (DT this) (NN producer) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NN copper) )
+                    (CC and) 
+                    (NP (JJ other) (NNS minerals) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (MD will) 
+      (VP (VB succeed) 
+        (NP (NNP Arthur) (NNP E.) (NNP Himebaugh) )
+        (PP-CLR (IN as) 
+          (NP (JJ general) (NN manager) ))
+        (NP-TMP 
+          (NP (NNP Feb.) (CD 1) )
+          (, ,) 
+          (SBAR 
+            (WHADVP-1 (WRB when) )
+            (S 
+              (NP-SBJ (NNP Mr.) (NNP Himebaugh) )
+              (VP (VBZ retires) 
+                (ADVP-TMP (-NONE- *T*-1) )))))))
+    (. .) ))

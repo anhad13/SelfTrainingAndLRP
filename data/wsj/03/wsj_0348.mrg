@@ -1,0 +1,200 @@
+
+( (S 
+    (NP-SBJ (NNP Ogden) (NNPS Projects) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ net) (NN income) )
+          (VP (VBD jumped) 
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 6.6) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD 18) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) ))
+            (PP-TMP (IN in) 
+              (NP (DT the) (JJ third) (NN quarter) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP Fairfield) 
+        (, ,)
+        (NNP N.J.) 
+        (, ,)
+        (NN company) )
+      (, ,) 
+      (SBAR 
+        (WHNP-130 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-130) )
+          (VP (VBZ is) 
+            (ADJP-PRD (JJ 92%-owned) 
+              (PP (IN by) 
+                (NP 
+                  (NP (NNP Ogden) (NNP Corp.) )
+                  (, ,) 
+                  (NP-LOC (NNP New) (NNP York) )
+                  (, ,) )))))))
+    (VP (VBD had) 
+      (NP 
+        (NP (NN net) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 1.1) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD four) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RB ago) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD soared) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 101.7) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 39.5) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Ogden) (NNPS Projects) )
+      (, ,) 
+      (SBAR 
+        (WHNP-131 (WP$ whose) (NNS shares) )
+        (S 
+          (NP-SBJ-1 (-NONE- *T*-131) )
+          (VP (VBD began) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VBG trading) 
+                (PP-LOC (IN on) 
+                  (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))
+                (PP-TMP (IN in) 
+                  (NP (NNP August) )))))))
+      (, ,) )
+    (VP (VBD closed) 
+      (NP-TMP (NN yesterday) )
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 26.875) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP (CD 75) (NNS cents) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN stock) )
+    (VP (VBD began) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG trading) 
+          (NP-TMP (DT this) (NN summer) )
+          (PP-CLR (IN at) 
+            (NP 
+              (NP ($ $) (CD 14) (-NONE- *U*) )
+              (ADVP (RB apiece) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Ogden) (NNPS Projects) )
+      (, ,) 
+      (SBAR 
+        (WHNP-132 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-132) )
+          (VP (VBZ has) 
+            (NP 
+              (NP (NNS interests) )
+              (PP (IN in) 
+                (NP 
+                  (NP (NN solid-waste) (NN recovery) )
+                  (CC and) 
+                  (NP (NN hazardous-waste) (NN cleanup) )))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) 
+            (S 
+              (NP-SBJ (CD 13) (NNS facilities) )
+              (PP-PRD (IN in) 
+                (NP (NN operation) )))
+            (, ,) 
+            (ADVP (RB up) 
+              (PP (IN from) 
+                (NP (CD seven) )
+                (ADVP-TMP 
+                  (NP (DT a) (NN year) )
+                  (RB ago) )))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Meanwhile) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Ogden) (NNP Corp.) )
+      (, ,) 
+      (SBAR 
+        (WHNP-133 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-133) )
+          (ADVP (RB also) )
+          (VP (VBZ has) 
+            (NP 
+              (NP (NNS interests) )
+              (PP (IN in) 
+                (NP (NN building) (NN maintenance) 
+                  (CC and)
+                  (NN management) ))))))
+      (, ,) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (JJ third-quarter) (JJ net) (NN income) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 27.1) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP (CD 67) (NNS cents) )
+                (NP-ADV (DT a) (NN share) ))
+              (, ,) )
+            (NP 
+              (NP 
+                (QP (JJR more) (IN than) (RB twice) (DT the) ($ $) (CD 13.5) (CD million) )
+                (-NONE- *U*) )
+              (, ,) (CC or) 
+              (NP 
+                (NP (CD 34) (NNS cents) )
+                (NP-ADV (DT a) (NN share) ))
+              (, ,) 
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (RBR earlier) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 33) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 378.1) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 283.8) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))

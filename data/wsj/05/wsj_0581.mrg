@@ -1,0 +1,141 @@
+
+( (S 
+    (NP-SBJ (NNP CMS) (NNP Energy) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (MD would) 
+            (VP (VB begin) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG paying) 
+                  (NP 
+                    (NP (DT a) (JJ 10-cent-a-share) (NN quarterly) (NN dividend) )
+                    (, ,) 
+                    (NP 
+                      (NP 
+                        (NP (DT the) (NN company) (POS 's) )
+                        (JJ first) )
+                      (PP-TMP (IN since) 
+                        (NP (CD 1984) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Consumers) (NNP Power) (NNP Co.) )
+      (, ,) 
+      (ADVP-TMP (RB now) )
+      (NP 
+        (NP (DT the) (JJ main) (NN unit) )
+        (PP (IN of) 
+          (NP (NNP CMS) (NNP Energy) )))
+      (, ,) )
+    (VP (VBD ran) 
+      (PP-DIR (IN into) 
+        (NP 
+          (NP (JJ financial) (NNS problems) )
+          (PP (IN over) 
+            (NP 
+              (NP (PRP$ its) 
+                (ADJP 
+                  (QP ($ $) (CD 4.2) (CD billion) )
+                  (-NONE- *U*) )
+                (NNP Midland) (JJ nuclear) (NN plant) )
+              (, ,) 
+              (SBAR 
+                (WHNP-2 (WDT which) )
+                (S 
+                  (NP-SBJ-1 (-NONE- *T*-2) )
+                  (VP (VBD was) 
+                    (VP (VBN abandoned) 
+                      (NP (-NONE- *-1) )
+                      (PP-CLR (IN as) 
+                        (NP (DT a) (JJ nuclear) (NN facility) ))
+                      (PP-TMP (IN in) 
+                        (NP (CD 1984) ))
+                      (PP-PRP (IN because) (IN of) 
+                        (NP 
+                          (NP (NN construction) (NNS delays) )
+                          (CC and) 
+                          (NP (JJ high) (NNS costs) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP CMS) )
+    (VP (VBZ is) 
+      (ADJP-PRD (RB nearly) (VBN done) )
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG converting) 
+          (NP (DT the) (NNP Midland) (NN plant) )
+          (PP-CLR (TO to) 
+            (NP (DT a) (JJ gas-fired) (NN cogeneration) (NN facility) ))
+          (PP (IN at) 
+            (NP 
+              (NP (DT a) (NN cost) )
+              (PP (IN of) 
+                (NP 
+                  (QP ($ $) (CD 600) (CD million) )
+                  (-NONE- *U*) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP CMS) (NN management) )
+    (VP (VBD said) 
+      (NP-TMP (NNP Thursday) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (PRP they) )
+          (VP (VBD planned) 
+            (S 
+              (NP-SBJ-3 (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB recommend) 
+                  (S 
+                    (NP-SBJ (-NONE- *-3) )
+                    (VP (VBG paying) 
+                      (NP (DT a) (JJ modest) (NN dividend) )))
+                  (SBAR-TMP 
+                    (WHADVP-2 (WRB when) )
+                    (S 
+                      (NP-SBJ 
+                        (NP (DT the) (NN board) )
+                        (PP (IN of) 
+                          (NP (NNS directors) )))
+                      (VP (VBD met) 
+                        (NP-TMP (NNP Friday) )
+                        (ADVP-TMP (-NONE- *T*-2) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN dividend) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN paid) 
+          (NP (-NONE- *-1) )
+          (NP-TMP (NNP Nov.) (CD 22) )
+          (PP-CLR (TO to) 
+            (NP 
+              (NP (NNS shares) )
+              (PP (IN of) 
+                (NP (NN record) ))
+              (NP-TMP (NNP Nov.) (CD 7) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NN company) )
+      (VP (VBD suffered) 
+        (NP 
+          (NP (DT a) (NN loss) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 270) (CD million) )
+              (-NONE- *U*) )))
+        (PP-TMP (IN in) 
+          (NP (CD 1985) ))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP$ its) (JJ financial) (NN situation) )
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (VP (VBG improving) 
+            (PP-TMP (IN since) 
+              (NP (RB then) ))))))
+    (. .) ))

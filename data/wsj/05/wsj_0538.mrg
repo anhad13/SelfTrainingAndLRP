@@ -1,0 +1,33 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Stuart) (NNP E.) (NNP Eizenstat) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN partner) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT the) (NNP Washington) (NN law) (NN firm) )
+            (PP (IN of) 
+              (NP (NNP Powell) 
+                (, ,)
+                (NNP Goldstein) 
+                (, ,)
+                (NNP Frazer) (CC &) (NNP Murphy) )))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (NN utility) (VBG holding) (NN company) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG increasing) 
+            (NP (NN board) (NN membership) )
+            (PP-CLR (TO to) 
+              (NP (CD 14) ))))))
+    (. .) ))

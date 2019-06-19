@@ -1,0 +1,163 @@
+
+( (S 
+    (NP-SBJ (NNP McClatchy) (NNP Newspapers) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS improvements) )
+            (PP (IN in) 
+              (NP (NN advertising) 
+                (CC and)
+                (NN subscription) (NN revenue) )))
+          (VP (VBD led) 
+            (PP-CLR (TO to) 
+              (NP 
+                (NP (DT a) 
+                  (ADJP (CD 21) (NN %) )
+                  (NN gain) )
+                (PP (IN in) 
+                  (NP (JJ third-quarter) (NN profit) ))
+                (PP-DIR (TO to) 
+                  (NP 
+                    (NP 
+                      (QP ($ $) (CD 8.8) (CD million) )
+                      (-NONE- *U*) )
+                    (, ,) (CC or) 
+                    (NP 
+                      (NP (CD 31) (NNS cents) )
+                      (NP-ADV (DT a) (NN share) ))
+                    (, ,) ))
+                (PP-DIR (IN from) 
+                  (NP 
+                    (NP 
+                      (QP ($ $) (CD 7.2) (CD million) )
+                      (-NONE- *U*) )
+                    (, ,) (CC or) 
+                    (NP 
+                      (NP (CD 25) (NNS cents) )
+                      (NP-ADV (DT a) (NN share) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBD rose) 
+      (NP 
+        (QP (RBR more) (IN than) (CD 7) )
+        (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 94.9) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 88.3) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (NAC-LOC (NNP Sacramento) 
+        (, ,)
+        (NNP Calif.) 
+        (, ,)
+        )
+      (NN company) )
+    (VP 
+      (ADVP (RB also) )
+      (VBD attributed) 
+      (NP (VBN improved) (NN performance) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT a) (JJR lower) (JJ effective) (NN tax) (NN rate) )
+          (CC and) 
+          (NP (JJR higher) (NN interest) (NN income) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN newspaper) (NN chain) )
+    (VP (VBD had) 
+      (NP 
+        (NP (RB almost) (DT a) 
+          (ADJP (CD 23) (NN %) )
+          (NN increase) )
+        (PP (IN in) 
+          (NP (NN profit) ))
+        (PP-DIR (TO to) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 23.6) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 83) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) ))
+        (PP-DIR (IN from) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 19.2) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 68) (NNS cents) )
+              (NP-ADV (DT a) (NN share) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBD grew) 
+      (NP-EXT 
+        (QP (RB almost) (CD 7) )
+        (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 279.1) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 261.3) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP McClatchy) )
+    (VP (VBZ publishes) 
+      (NP 
+        (NP (DT the) 
+          (NAC-LOC (NNP Sacramento) 
+            (-LRB- -LRB-)
+            (NNP Calif) (. .) 
+            (-RRB- -RRB-)
+            )
+          (NNP Bee) )
+        (CC and) 
+        (NP 
+          (NAC-LOC (NNP Tacoma) 
+            (-LRB- -LRB-)
+            (NNP Wash) (. .) 
+            (-RRB- -RRB-)
+            )
+          (NNP News) (NNP Tribune) )
+        (, ,) 
+        (CC and)
+        (NP 
+          (NP (JJ other) (NNS papers) )
+          (PP-LOC (IN in) 
+            (NP (JJ Western) (NNS states) )))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (JJ composite) (NN trading) )
+        (PP-LOC (IN on) 
+          (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 25.25) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP (CD 25) (NNS cents) )))
+    (. .) ))

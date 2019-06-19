@@ -1,0 +1,52 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Avondale) (NNP Industries) (NNP Inc.) )
+      (, ,) 
+      (NP-LOC (NNP New) (NNP Orleans) )
+      (, ,) )
+    (VP (VBD received) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 23) (CD million) )
+            (-NONE- *U*) )
+          (NN contract) )
+        (SBAR (-NONE- *ICH*-2) ))
+      (PP-CLR (IN from) 
+        (NP (DT the) (NNP Navy) ))
+      (SBAR-2 
+        (WHNP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (TO to) 
+            (VP (VB enlarge) 
+              (PP-EXT (IN by) 
+                (NP (CD 50) (NN %) ))
+              (NP 
+                (NP (DT the) (NN capacity) )
+                (PP (IN of) 
+                  (NP (DT an) (JJ auxiliary) (NN oiler) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN award) )
+    (VP (VBZ results) 
+      (PP-CLR (IN from) 
+        (NP 
+          (NP 
+            (NP (DT the) (NNP Navy) (POS 's) )
+            (VBG exercising) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT an) (NN option) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (DT an) (JJR earlier) (NN contract) )
+                  (SBAR 
+                    (WHNP-1 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (PRP it) )
+                      (VP (VBD awarded) 
+                        (NP (NNP Avondale) )
+                        (NP (-NONE- *T*-1) )))))))))))
+    (. .) ))

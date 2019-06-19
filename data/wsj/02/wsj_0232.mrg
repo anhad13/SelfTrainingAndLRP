@@ -1,0 +1,123 @@
+
+( (S 
+    (NP-SBJ (JJ French) (NN consumer) (NNS prices) )
+    (VP 
+      (VP (VBD rose) 
+        (NP-EXT (CD 0.2) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))
+        (PP-DIR (IN from) 
+          (NP (DT the) (JJ previous) (NN month) )))
+      (CC and) 
+      (VP (VBD were) 
+        (ADVP-PRD (RB up) 
+          (NP (CD 3.4) (NN %) )
+          (PP (IN from) 
+            (ADVP-TMP 
+              (NP (DT a) (NN year) )
+              (RB earlier) ))))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (JJ definitive) (NNS figures) )
+            (PP (IN from) 
+              (NP (DT the) (NNP National) (NNPS Statistics) (NNP Institute) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN state) (NN agency) (POS 's) )
+      (NNS figures) )
+    (VP 
+      (VP (VBP confirm) 
+        (NP (JJ previous) (NNS estimates) ))
+      (CC and) 
+      (VP (VBP leave) 
+        (NP (DT the) (NN index) )
+        (PP-LOC-CLR (IN at) 
+          (NP (CD 178.9) ))
+        (, ,) 
+        (ADVP-DIR (RB up) 
+          (PP (IN from) 
+            (NP 
+              (NP 
+                (NP (CD 178.5) )
+                (PP-TMP (IN in) 
+                  (NP (NNP August) )))
+              (CC and) 
+              (NP 
+                (NP (CD 173.1) )
+                (ADVP-TMP 
+                  (NP (DT a) (NN year) )
+                  (RB earlier) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-57 (DT The) (NN index) )
+    (VP (VBZ is) 
+      (VP (VBN based) 
+        (NP (-NONE- *-57) )
+        (PP-CLR (IN on) 
+          (S-NOM 
+            (NP-SBJ (CD 1980) )
+            (VP (VBG equaling) 
+              (NP (CD 100) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NN breakdown) )
+    (VP (VBD showed) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NN food) (NNS prices) )
+          (VP (VBD were) 
+            (NP-PRD 
+              (NP (DT the) 
+                (ADJP (RBS most) (JJ active) )
+                (NN part) )
+              (PP (IN of) 
+                (NP (NN growth) ))))
+          (PP (IN with) 
+            (NP 
+              (NP (DT a) (NN rise) )
+              (PP (IN of) 
+                (NP (CD 0.6) (NN %) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT An) (NN official) )
+    (VP (VBD linked) 
+      (NP (DT the) (NN gain) )
+      (PP-CLR 
+        (ADVP (RB essentially) )
+        (TO to) 
+        (NP 
+          (NP (JJR higher) (NNS prices) )
+          (PP (IN for) 
+            (NP (NN beef) 
+              (CC and)
+              (NN pork) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (NN summer) (NN drought) (NNS problems) )
+            (SBAR 
+              (WHNP-81 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-81) )
+                (VP (VBD had) 
+                  (VP (VBN hit) 
+                    (NP (JJ several) (JJ southern) (JJ agricultural) (NNS regions) ))))))
+          (VP (VBD had) 
+            (VP (VBN stopped) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG being) 
+                  (NP-PRD 
+                    (NP (DT a) (JJ major) (NN source) )
+                    (PP (IN of) 
+                      (NP (NN price) (NN pressure) )))))
+              (PP-TMP (IN in) 
+                (NP (NNP September) )))))))
+    (. .) ))

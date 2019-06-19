@@ -1,0 +1,69 @@
+
+( (S 
+    (NP-SBJ (NNP Diamond) (NNP Shamrock) (NNP Offshore) (NNP Partners) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD had) 
+            (VP (VBN discovered) 
+              (NP (NN gas) )
+              (ADVP-LOC (RB offshore) 
+                (NP (NNP Louisiana) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (RB well) )
+    (VP (VBD flowed) 
+      (PP (IN at) 
+        (NP 
+          (NP (DT a) (NN rate) )
+          (PP (IN of) 
+            (NP 
+              (NP 
+                (NP 
+                  (QP (CD 2.016) (CD million) )
+                  (JJ cubic) (NNS feet) )
+                (PP (IN of) 
+                  (NP (NN gas) )))
+              (NP-ADV (DT a) (NN day) )))))
+      (PP-DIR (IN through) 
+        (NP (DT a) (CD 16) (JJ 64-inch) (NN opening) ))
+      (PP-LOC (IN at) 
+        (NP 
+          (NP (NNS depths) )
+          (PP (IN between) 
+            (NP 
+              (QP (CD 5,782) 
+                (CC and)
+                (CD 5,824) )
+              (NNS feet) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Diamond) (NNP Shamrock) )
+    (VP (VBZ is) 
+      (NP-PRD (DT the) (NN operator) )
+      (, ,) 
+      (PP (IN with) 
+        (NP 
+          (NP (DT a) 
+            (ADJP (CD 100) (NN %) )
+            (NN interest) )
+          (PP-LOC (IN in) 
+            (NP (DT the) (NN well) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Diamond) (NNP Shamrock) (NNP Offshore) (POS 's) )
+      (NN stock) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 12.5) (NNS cents) )
+      (NP-TMP (NNP Friday) )
+      (S-CLR 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB close) 
+            (PP-CLR (IN at) 
+              (NP ($ $) (CD 8.25) (-NONE- *U*) ))
+            (PP-LOC (IN in) 
+              (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))))))
+    (. .) ))

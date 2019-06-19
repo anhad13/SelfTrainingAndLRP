@@ -1,0 +1,59 @@
+
+( (S 
+    (NP-SBJ (NNP American) (NNP Business) (NNP Computer) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP 
+            (ADVP-MNR (RB privately) )
+            (VBD placed) 
+            (NP (CD 1,035,000) (JJ common) (NNS shares) )
+            (PP-CLR (IN at) 
+              (NP 
+                (NP ($ $) (CD 2.50) (-NONE- *U*) )
+                (NP-ADV (DT a) (NN share) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN placement) )
+    (VP (VBD was) 
+      (VP (VBN made) 
+        (NP (-NONE- *-1) )
+        (PP-MNR (IN through) 
+          (NP 
+            (NP (NNP Gray) (NNP Seifert) (NNPS Securities) )
+            (, ,) 
+            (NP-LOC (NNP New) (NNP York) )
+            (, ,) ))
+        (PP-DIR (TO to) 
+          (NP (JJ institutional) (NNS investors) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Proceeds) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN used) 
+          (NP-2 (-NONE- *-1) )
+          (S-CLR 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP 
+                (VP (VB commercialize) 
+                  (NP 
+                    (ADJP (RB recently) (VBN patented) )
+                    (NN technology) ))
+                (CC and) 
+                (VP (VB support) 
+                  (NP 
+                    (NP (DT the) (NN company) (POS 's) )
+                    (JJ international) (NN expansion) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBZ develops) 
+      (CC and)
+      (VBZ markets) 
+      (NP (NNS products) )
+      (PP (IN for) 
+        (NP (DT the) (NN food) (NN service) (NN industry) )))
+    (. .) ))

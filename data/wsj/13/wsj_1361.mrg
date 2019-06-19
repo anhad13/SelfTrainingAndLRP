@@ -1,0 +1,114 @@
+
+( (S 
+    (NP-SBJ (NNP Archive) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB report) 
+                  (NP 
+                    (NP (JJ net) (NN income) )
+                    (PP (IN for) 
+                      (NP 
+                        (NP (PRP$ its) (JJ fiscal) (NN year) )
+                        (VP (VBN ended) 
+                          (NP (-NONE- *) )
+                          (NP-TMP-CLR (NNP Sept.) (CD 29) ))))
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT a) (JJ record) 
+                          (QP ($ $) (CD 15) (CD million) )
+                          (-NONE- *U*) )
+                        (, ,) (CC or) 
+                        (NP 
+                          (NP ($ $) (CD 1.15) (-NONE- *U*) )
+                          (NP-ADV (DT a) (NN share) ))
+                        (, ,) ))
+                    (ADVP (RB up) 
+                      (NP (CD 43) (NN %) )
+                      (PP (IN from) 
+                        (NP 
+                          (NP 
+                            (QP ($ $) (CD 10.5) (CD million) )
+                            (-NONE- *U*) )
+                          (, ,) (CC or) 
+                          (NP 
+                            (NP (CD 80) (NNS cents) )
+                            (NP-ADV (DT a) (NN share) ))
+                          (, ,) 
+                          (PP (IN for) 
+                            (NP (DT the) (JJ prior) (NN year) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) 
+        (NAC-LOC (NNP Costa) (NNP Mesa) 
+          (, ,)
+          (NNP Calif.) 
+          (, ,)
+          )
+        (NN maker) )
+      (PP (IN of) 
+        (NP (NN computer) (NN tape) (NNS drives) )))
+    (ADVP (RB also) )
+    (VP (VBD projected) 
+      (NP 
+        (NP (JJ record) (NN revenue) )
+        (PP (IN for) 
+          (NP (DT the) (NN year) ))
+        (PP (IN of) 
+          (NP 
+            (QP ($ $) (CD 181) (CD million) )
+            (-NONE- *U*) ))
+        (, ,) 
+        (ADVP (RB up) 
+          (PP (IN from) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 122.7) (CD million) )
+                (-NONE- *U*) )
+              (PP (IN for) 
+                (NP (DT the) (JJ previous) (NN year) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Archive) )
+    (VP (VBD attributed) 
+      (NP (DT the) (NNS gains) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP 
+            (NP (JJ strong) (NN demand) )
+            (PP (IN for) 
+              (NP (PRP$ its) (NNS products) )))
+          (, ,) 
+          (NP 
+            (NP (JJ continued) (NN growth) )
+            (PP (IN of) 
+              (NP (DT the) (JJ reseller) (NN market) )))
+          (CC and) 
+          (NP 
+            (NP (DT the) (NN acquisition) )
+            (PP (IN of) 
+              (NP (NNP Maynard) (NNP Electronics) ))
+            (PP-TMP (IN in) 
+              (NP (NNP February) ))
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBD accounted) 
+                  (PP (IN for) 
+                    (NP 
+                      (NP 
+                        (QP (RB about) (CD 14) )
+                        (NN %) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT the) (NN company) (POS 's) )
+                          (NN revenue) )))))))))))
+    (. .) ))

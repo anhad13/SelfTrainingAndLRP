@@ -1,0 +1,204 @@
+
+( (S 
+    (NP-SBJ (NNP CBS) (NNP Inc.) )
+    (VP (VBZ is) 
+      (VP (VBG cutting) (`` ``) 
+        (NP-TTL (NNP The) (NNP Pat) (NNP Sajak) (NNP Show) )
+        ('' '') 
+        (ADVP-CLR (RB down) )
+        (PP-CLR (TO to) 
+          (NP (CD one) (NN hour) ))
+        (PP-CLR (IN from) 
+          (NP (PRP$ its) (JJ current) (CD 90) (NNS minutes) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP CBS) )
+    (VP (VBD insisted) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN move) )
+          (VP (VBD was) (RB n't) 
+            (NP-PRD 
+              (NP (DT a) (NN setback) )
+              (PP (IN for) 
+                (NP 
+                  (NP (DT the) (NN program) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-1 (WDT which) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBZ is) 
+                        (NP-PRD 
+                          (NP 
+                            (NP (DT the) (NN network) (POS 's) )
+                            (JJ first) (NN entry) )
+                          (PP (IN into) 
+                            (NP (DT the) (JJ late-night) (NN talk) (NN show) (NN format) ))
+                          (PP-TMP (IN since) 
+                            (NP (CD 1972) )))))))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-3 
+      (S 
+        (NP-SBJ-4 (PRP I) )
+        (VP (VBP have) 
+          (NP 
+            (NP (DT every) (NN intention) )
+            (PP (IN of) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-4) )
+                (VP (VBG making) 
+                  (S 
+                    (NP-SBJ (DT this) )
+                    (NP-PRD (DT the) 
+                      (ADJP (JJS best) (JJ possible) )
+                      (NN show) ))))))))
+      (CC and) 
+      (S 
+        (S-NOM-SBJ 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG having) 
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (VB run) 
+                (NP-TMP (CD one) (NN hour) )))))
+        (VP (VBZ is) 
+          (NP-PRD 
+            (NP (DT the) (JJS best) (NN way) )
+            (PP (TO to) 
+              (NP (PRP it) ))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-3) ))
+    (NP-SBJ 
+      (NP (NNP Rod) (NNP Perth) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WP who) )
+        (S 
+          (NP-SBJ-1 (-NONE- *T*-2) )
+          (VP (VBD was) 
+            (VP (VBN named) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (NP-PRD 
+                  (NP (NN vice) (NN president) )
+                  (PP (IN of) 
+                    (NP (JJ late) (NN night) (NN entertainment) ))))
+              (PP-TMP (IN in) 
+                (NP (NNP August) )))))))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (DT This) )
+    (VP (MD will) 
+      (VP (VB raise) 
+        (NP 
+          (NP (DT the) (NN energy) (NN level) )
+          (PP (IN of) 
+            (NP (DT the) (NN show) )))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ-1 (NNP CBS) )
+    (VP (MD will) 
+      (VP (VB continue) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB program) 
+              (NP 
+                (NP (JJ action-adventure) (NNS shows) )
+                (SBAR 
+                  (WHNP-2 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-2) )
+                    (VP (TO to) 
+                      (VP (VB follow) 
+                        (NP (DT the) (NNP Sajak) (NN hour) )))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (NNP CBS) (NNP News) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB extend) 
+          (NP (PRP$ its) (JJ four-hour) (`` ``) 
+            (NX-TTL (NNP Nightwatch) )
+            ('' '') )
+          (PP-EXT (IN by) 
+            (NP (CD 30) (NNS minutes) )))
+        (CC and) 
+        (VP (VB begin) 
+          (PP-TMP (IN at) 
+            (NP (CD 1:30) (RB a.m) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (DT The) (NN show) )
+    (, ,) 
+    (PP (IN despite) 
+      (NP (DT a) (JJ promising) (NN start) ))
+    (, ,) 
+    (VP (VBZ has) 
+      (VP (VBN slipped) 
+        (ADVP-MNR (RB badly) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT the) (JJ weekly) (NNS ratings) )
+            (SBAR (IN as) 
+              (S 
+                (NP-SBJ-1 (-NONE- *) )
+                (VP (VBN compiled) 
+                  (NP (-NONE- *-1) )
+                  (PP (IN by) 
+                    (NP-LGS (NNP A.C.) (NNP Nielsen) (NNP Co.) )))))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (VBG finishing) 
+            (PP-LOC 
+              (ADVP (RB far) )
+              (IN below) 
+              (NP 
+                (NP (`` ``) 
+                  (NP-TTL (NNP Tonight) )
+                  ('' '') 
+                  (PP-LOC (IN on) 
+                    (NP 
+                      (NP (NNP NBC) )
+                      (, ,) 
+                      (NP 
+                        (NP (DT a) (NN unit) )
+                        (PP (IN of) 
+                          (NP (NNP General) (NNP Electric) (NNP Co.) ))))))
+                (, ,) 
+                (CC and)
+                (NP (`` ``) 
+                  (NP-TTL (NNP Nightline) )
+                  ('' '') 
+                  (PP-LOC (IN on) 
+                    (NP 
+                      (NP (NNP ABC-TV) )
+                      (, ,) 
+                      (NP 
+                        (NP (DT a) (NN unit) )
+                        (PP (IN of) 
+                          (NP (NNP Capital) (NNP Cities\/ABC) (NNP Inc) ))))))))))))
+    (. .) ))
+( (SINV 
+    (VP-TPC-1 
+      (ADVP (RB Further) )
+      (VBG fractioning) 
+      (NP (DT the) (JJ late-night) (NN audience) ))
+    (VP (VBZ is) 
+      (VP (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (DT the) (NN addition) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (`` ``) 
+            (NX-TTL (NNP Arsenio) (NNP Hall) (NNP Show) ))
+          (, ,) ('' '') 
+          (VP (VBN syndicated) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS (NNP Paramount) (NNP Communications) (NNP Inc) ))))))
+    (. .) ))

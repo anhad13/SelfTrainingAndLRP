@@ -1,0 +1,29 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Steven) (NNP F.) (NNP Kaplan) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (JJ senior) (NN vice) (NN president) )
+            (PP (IN of) 
+              (NP (DT this) (NNS graphics) (NN equipment) (NN company) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ retains) 
+      (NP 
+        (NP (PRP$ his) (JJ current) (NNS positions) )
+        (PP (IN as) 
+          (NP 
+            (NP 
+              (NP (JJ chief) (JJ strategic) (NN officer) )
+              (PP (IN of) 
+                (NP (VBP AM) (NNP International) )))
+            (CC and) 
+            (NP 
+              (NP (NN president) )
+              (PP (IN of) 
+                (NP (NNP AM) (NNPS Ventures) )))))))
+    (. .) ))

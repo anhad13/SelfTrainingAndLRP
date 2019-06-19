@@ -1,0 +1,92 @@
+
+( (S 
+    (NP-SBJ (NNP Centerior) (NNP Energy) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNP Ohio) (NNP Water) (NNP Development) (NNP Authority) )
+          (VP (VBD approved) 
+            (NP 
+              (NP (NNS terms) )
+              (PP (IN for) 
+                (NP 
+                  (NP (CD two) (NNS series) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (JJ tax-exempt) (NNS bonds) )
+                      (SBAR 
+                        (WHNP-1 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-1) )
+                          (VP (TO to) 
+                            (VP (VB finance) 
+                              (NP (DT a) (NN water-pollution) (NN control) 
+                                (CC and)
+                                (NN solid-waste) (NN disposal) (NNS facilities) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN authority) )
+    (VP (MD will) 
+      (VP (VB issue) 
+        (NP 
+          (NP (DT a) (NN total) )
+          (PP (IN of) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 446.5) (CD million) )
+                (-NONE- *U*) )
+              (PP (IN of) 
+                (NP (JJ pollution-control) (NN revenue) (NNS bonds) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Proceeds) )
+      (PP (IN of) 
+        (NP (DT the) (NN sale) )))
+    (VP (MD will) 
+      (VP (VB go) 
+        (PP-DIR (TO to) 
+          (NP 
+            (NP (NNP Centerior) (POS 's) )
+            (VBG operating) (NNS subsidiaries) ))
+        (S-PRP 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB finance) 
+              (NP 
+                (NP (DT the) (NNS projects) )
+                (, ,) 
+                (VP (VBN located) 
+                  (NP (-NONE- *) )
+                  (PP-LOC-CLR (IN at) 
+                    (NP 
+                      (NP (DT a) (JJ nuclear) (NN unit) )
+                      (VP (VBN located) 
+                        (NP (-NONE- *) )
+                        (PP-LOC-CLR (IN near) 
+                          (NP (NNP Cleveland) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS bonds) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN issued) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN for) 
+            (NP 
+              (NP (DT a) (NN term) )
+              (PP (IN of) 
+                (NP (CD 34) (NNS years) ))))
+          (PP-CLR (IN at) 
+            (NP 
+              (NP (DT an) (NN interest) (NN rate) )
+              (PP (IN of) 
+                (NP (CD 8) (NN %) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Goldman) 
+      (, ,)
+      (NNP Sachs) (CC &) (NNP Co.) )
+    (VP (VBZ is) 
+      (NP-PRD (DT the) (NN underwriter) ))
+    (. .) ))

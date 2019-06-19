@@ -1,0 +1,73 @@
+
+( (S 
+    (NP-SBJ (NNP Martin) (NNP Marietta) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD won) 
+            (NP 
+              (NP (DT a) 
+                (ADJP 
+                  (QP ($ $) (CD 38.2) (CD million) )
+                  (-NONE- *U*) )
+                (NN contract) )
+              (SBAR (-NONE- *ICH*-2) ))
+            (PP-CLR (IN from) 
+              (NP (DT the) (NNP U.S.) (NNP Postal) (NNP Service) ))
+            (SBAR-2 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (TO to) 
+                  (VP (VB manufacture) 
+                    (CC and)
+                    (VB install) 
+                    (NP (JJ automated) (VBG mail-sorting) (NNS machines) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP 
+        (NP (NNS terms) )
+        (PP (IN of) 
+          (NP (DT the) (JJ three-year) (NN contract) ))))
+    (, ,) 
+    (NP-SBJ (NNP Martin) (NNP Marietta) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB make) 
+              (CC and)
+              (VB install) 
+              (NP 
+                (NP (CD 267) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (JJ new) (NNS machines) )
+                    (PP-LOC (IN at) 
+                      (NP (CD 156) (JJ postal) (NNS offices) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ new) (NNS machines) )
+    (VP (VBP are) 
+      (ADJP-PRD (JJ capable) 
+        (PP (IN of) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG sorting) 
+              (PP (IN by) 
+                (NP (NN zip) (NN code) ))
+              (NP 
+                (NP 
+                  (QP (IN up) (TO to) (CD 10,000) )
+                  (JJ large) (JJ flat) (NN mail) (NNS pieces) )
+                (, ,) 
+                (PP (VBG including) 
+                  (NP (NNS magazines) 
+                    (CC and)
+                    (NNS parcels) ))
+                (, ,) 
+                (NP-ADV (DT an) (NN hour) )))))))
+    (. .) ))

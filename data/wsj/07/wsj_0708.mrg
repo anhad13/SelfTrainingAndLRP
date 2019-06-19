@@ -1,0 +1,48 @@
+
+( (S 
+    (NP-SBJ (NNP Moscom) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN board) )
+          (VP (VBD approved) 
+            (NP 
+              (NP (DT the) (NN repurchase) )
+              (PP (IN of) 
+                (NP 
+                  (QP (RB as) (JJ many) (IN as) (CD 300,000) )
+                  (JJ common) (NNS shares) )))
+            (SBAR-TMP 
+              (WHADVP-1 (WRB when) )
+              (S 
+                (NP-SBJ (NN market) (NNS conditions) )
+                (VP (VBP are) 
+                  (ADJP-PRD (JJ suitable) )
+                  (ADVP-TMP (-NONE- *T*-1) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN maker) )
+      (PP (IN of) 
+        (NP (NN telecommunications) (NN management) (NNS systems) )))
+    (VP (VBD had) 
+      (NP 
+        (NP (CD 6,420,268) (NNS shares) )
+        (ADJP (JJ outstanding) ))
+      (PP-TMP (IN as) 
+        (PP (IN of) 
+          (NP (NNP Sept.) (CD 30) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ over-the-counter) (NN trading) ))
+    (NP-TMP (NN yesterday) )
+    (, ,) 
+    (NP-SBJ (NNP Moscom) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 4.375) (-NONE- *U*) ))
+      (, ,) 
+      (ADVP (RB up) 
+        (NP (CD 37.5) (NNS cents) )))
+    (. .) ))

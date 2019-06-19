@@ -1,0 +1,133 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Norway) (POS 's) )
+        (NN unemployment) (NN rate) )
+      (PP (IN for) 
+        (NP (NNP October) )))
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (CD 3.6) (NN %) )
+        (, ,) 
+        (UCP 
+          (ADJP (JJ unchanged) 
+            (PP (IN from) 
+              (NP (NNP September) )))
+          (CC but) 
+          (ADVP (RB up) 
+            (PP (IN from) 
+              (NP 
+                (NP (CD 2.6) (NN %) )
+                (PP-TMP (IN in) 
+                  (NP 
+                    (NP (DT the) (JJ same) (NN month) )
+                    (NP-TMP (JJ last) (NN year) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ (DT The) (NN figure) )
+      (VP (VBZ excludes) 
+        (NP 
+          (NP (DT a) (NN record) (NN number) )
+          (VP (VBN employed) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS (JJ extraordinary) (NN government) (NN work) (NNS programs) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Labor) (NNP Directorate) )
+    (VP (VBD announced) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) ))
+      (NP-TMP (NNP Tuesday) ))
+    (. .) ))
+( (S 
+    (PP (VBG Including) 
+      (NP 
+        (NP (DT those) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NN state) (NNS programs) ))))
+    (, ,) 
+    (NP-SBJ (EX there) )
+    (VP (VBD were) 
+      (NP-PRD 
+        (NP 
+          (NP 
+            (NP (CD 143,800) (NNPS Norwegians) )
+            (ADVP (-NONE- *ICH*-1) ))
+          (, ,) (CC or) 
+          (NP 
+            (NP 
+              (QP (IN about) (CD 6.5) )
+              (NN %) )
+            (PP (IN of) 
+              (NP (DT the) (NN work) (NN force) )))
+          (, ,) )
+        (PP (IN without) 
+          (NP (JJ permanent) (NN employment) )))
+      (PP-TMP (IN in) 
+        (NP (NNP October) ))
+      (, ,) 
+      (ADVP-1 (RB up) 
+        (PP (IN from) 
+          (NP 
+            (NP (NNP September) (POS 's) )
+            (CD 136,800) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN number) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNS people) )
+          (VP (VBN registered) 
+            (NP (-NONE- *) )
+            (PP-CLR (IN as) 
+              (ADJP (JJ jobless) ))
+            (PP-TMP (IN at) 
+              (NP 
+                (NP (DT the) (NN end) )
+                (PP (IN of) 
+                  (NP (NNP October) ))))))))
+    (VP (VBD declined) 
+      (PP-EXT (IN by) 
+        (NP (CD 900) ))
+      (PP-DIR (IN from) 
+        (NP-TMP (NNP September) ))
+      (PP-DIR (TO to) 
+        (NP (CD 78,600) )))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (DT Those) )
+        (VP (VBN employed) 
+          (NP (-NONE- *) )
+          (PP-LOC-CLR (IN in) 
+            (NP (JJ state-funded) (JJ special) (NNS programs) ))))
+      (VP (VBN increased) 
+        (PP-EXT (IN by) 
+          (NP (CD 7,400) ))
+        (PP-DIR (TO to) 
+          (NP (CD 65,200) ))
+        (PP-TMP (IN in) 
+          (NP (DT the) (JJ same) (NN period) )))
+      (, ,) )
+    (NP-SBJ (DT the) (NNP Directorate) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP October) (CD 1988) ))
+    (, ,) 
+    (NP-SBJ (EX there) )
+    (VP (VBD were) 
+      (NP-PRD 
+        (NP (CD 40,800) (JJR fewer) )
+        (VP (VBN employed) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (NN government) (NNS programs) )))))
+    (. .) ))

@@ -1,0 +1,56 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Frank) (NNP Carlucci) (NNP III) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT this) (NNS telecommunications) (NN company) (POS 's) )
+            (NN board) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG filling) 
+            (NP 
+              (NP (DT the) (NN vacancy) )
+              (VP (VBN created) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (DT the) (NN death) )
+                    (PP (IN of) 
+                      (NP (NNP William) (NNP Sobey) ))
+                    (NP-TMP (JJ last) (NNP May) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Carlucci) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 59) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD served) 
+      (PP-CLR (IN as) 
+        (NP (NN defense) (NN secretary) ))
+      (PP-LOC (IN in) 
+        (NP (DT the) (NNP Reagan) (NN administration) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP January) ))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD accepted) 
+      (NP 
+        (NP (DT the) (NN position) )
+        (PP (IN of) 
+          (NP 
+            (NP (NN vice) (NN chairman) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Carlyle) (NNP Group) )
+                (, ,) 
+                (NP (DT a) (NN merchant) (NN banking) (NN concern) )))))))
+    (. .) ))

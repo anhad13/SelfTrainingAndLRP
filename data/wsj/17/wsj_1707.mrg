@@ -1,0 +1,150 @@
+
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP TransAtlantic) (NNPS Holdings) (NNP PLC) )
+        (, ,) 
+        (NP (DT a) (JJ British-based) 
+          (, ,)
+          (NNP South) (JJ African-controlled) (JJ financial) (NNS services) (NN investment) (NN group) ))
+      (, ,) 
+      (CC and)
+      (NP 
+        (NP (NNP France) (POS 's) )
+        (NNP Societe) (NNP Centrale) (NNP Union) (NNP des) (NNP Assurances) (IN de) (NNP Paris) ))
+    (VP (VBD reached) 
+      (NP 
+        (NP (DT an) (NN accord) )
+        (VP 
+          (ADVP (RB effectively) )
+          (VBG reducing) 
+          (NP 
+            (NP (NNS chances) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT an) (JJ unfriendly) (NN takeover) )
+                (PP (IN for) 
+                  (NP (NNP Sun) (NNP Life) (NNP Assurance) (NNP Society) (NNP PLC) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (JJ joint) (NN statement) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (CD two) (NNS companies) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WP$ whose) (VBN combined) (NNS holdings) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (JJ equal) 
+            (NP 
+              (NP (CD 52.7) (NN %) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP Sun) (NNP Life) (POS 's) )
+                  (JJ ordinary) (NNS shares) ))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP$ their) (NN agreement) )
+          (VP (VBZ is) 
+            (VP (VBN aimed) 
+              (NP (-NONE- *-1) )
+              (PP-CLR (IN at) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG reducing) (`` ``) 
+                    (NP 
+                      (NP (DT the) (NN uncertainty) 
+                        (CC and)
+                        (NN instability) )
+                      (PP (IN for) 
+                        (NP (NNP Sun) (NNP Life) ))
+                      (SBAR 
+                        (WHNP-3 (WDT that) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-3) )
+                          (VP (VBZ has) 
+                            (VP (VBN resulted) 
+                              (PP-CLR (IN from) 
+                                (S-NOM 
+                                  (NP-SBJ (CD two) (JJ major) (NNS shareholders) )
+                                  (VP (VBG owning) ('' '') 
+                                    (NP 
+                                      (NP (DT a) (VBG controlling) (NN interest) )
+                                      (PP-LOC (IN in) 
+                                        (NP (DT the) (NN company) )))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (NNP TransAtlantic) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP$ whose) (NNP Transol) (NNPS Investments) (NNP Ltd.) (NN unit) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ owns) 
+            (NP 
+              (NP (DT the) (JJS largest) (NN minority) (NN stake) )
+              (PP-LOC (IN in) 
+                (NP (NNP Sun) (NNP Life) ))))))
+      (, ,) )
+    (VP (VBZ has) 
+      (VP (VBN agreed) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (RB not) 
+          (VP (TO to) 
+            (VP (VB make) 
+              (NP 
+                (NP (DT a) (NN takeover) (NN bid) )
+                (PP (IN for) 
+                  (NP (DT the) (JJ British) (NN life) (NN insurer) )))
+              (PP (IN without) 
+                (NP 
+                  (NP (DT the) (JJ prior) (NN consent) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (JJ French) (NN company) )
+                      (, ,) 
+                      (VP (VBN known) 
+                        (NP (-NONE- *) )
+                        (PP-CLR (IN as) 
+                          (NP (NNP UAP) ))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN return) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN agreement) )
+    (VP (MD would) 
+      (VP (VB force) 
+        (S 
+          (NP-SBJ (NNP UAP) )
+          (VP (TO to) 
+            (VP 
+              (VP (VB buy) 
+                (NP 
+                  (NP 
+                    (NP (NNP TransAtlantic) (POS 's) )
+                    (ADJP (CD 29.8) (NN %) )
+                    (NN holding) )
+                  (PP-LOC (IN in) 
+                    (NP (NNP Sun) (NNP Life) ))))
+              (CC or) 
+              (VP (VB sell) 
+                (NP (PRP$ its) 
+                  (ADJP (CD 22.9) (NN %) )
+                  (NN stake) )
+                (PP-DTV (TO to) 
+                  (NP (NNP TransAtlantic) ))
+                (PP-CLR (IN at) 
+                  (NP 
+                    (NP (DT a) (NN price) )
+                    (VP (VBN set) 
+                      (NP (-NONE- *) )
+                      (PP (IN by) 
+                        (NP-LGS (NNP Transatlantic) )))))))))))
+    (. .) ))

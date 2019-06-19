@@ -1,0 +1,99 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP 
+          (NP (NNP Japan) (POS 's) )
+          (NN index) )
+        (PP (IN of) 
+          (NP (VBG leading) (NNS indicators) )))
+      (VP (VBD rose) 
+        (PP-DIR (TO to) 
+          (NP 
+            (NP (CD 63.6) )
+            (PP-LOC (-NONE- *ICH*-3) )))
+        (PP-TMP (IN in) 
+          (NP (NNP August) ))
+        (, ,) 
+        (PP-LOC-3 (IN above) 
+          (NP 
+            (NP (DT the) (JJ so-called) (JJ boom-or-bust) (NN line) )
+            (PP (IN of) 
+              (NP (CD 50) ))))
+        (PP-TMP (IN for) 
+          (NP 
+            (NP (DT the) (JJ first) (NN time) )
+            (PP-TMP (IN since) 
+              (NP (NNP May) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Economic) (NNP Planning) (NNP Agency) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (VBG leading) (NN index) )
+    (VP (VBD recovered) 
+      (PP-CLR (IN from) 
+        (NP 
+          (NP 
+            (NP (NNP July) (POS 's) )
+            (JJ revised) (NN level) )
+          (PP (IN of) 
+            (NP (CD 36.6) ))))
+      (PP (IN on) 
+        (NP 
+          (NP (JJ strong) (NNS performances) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP 
+                (NP (NN consumer) (NNS durables) )
+                (CC and) 
+                (NP (NN machinery) (NNS orders) ))
+              (, ,) 
+              (PP-LOC (IN among) 
+                (NP (JJ other) (NNS factors) ))
+              (, ,) ))))
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP (DT an) (NN agency) (NN spokeswoman) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN index) )
+    (VP (VBZ is) 
+      (VP (VBN intended) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB measure) 
+              (NP (JJ future) (JJ economic) (NN performance) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (DT A) (NN figure) )
+        (PP-LOC (IN above) 
+          (NP (CD 50) )))
+      (VP (VBZ indicates) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-1 (DT the) (NN economy) )
+            (VP (VBZ is) 
+              (ADJP-PRD (JJ likely) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB expand) )))))))))
+    (: ;) 
+    (S 
+      (NP-SBJ 
+        (NP (CD one) )
+        (PP-LOC (IN below) 
+          (NP (CD 50) )))
+      (VP (VBZ indicates) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT a) (NN contraction) )
+            (VP (MD may) 
+              (VP (VB be) 
+                (ADVP-LOC-PRD (RB ahead) )))))))
+    (. .) ))

@@ -1,0 +1,60 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT a) (NN seat) )
+          (VP (VBN sold) 
+            (PP-CLR (IN for) 
+              (NP ($ $) (CD 436,000) (-NONE- *U*) ))
+            (, ,) 
+            (ADVP (RB down) 
+              (NP ($ $) (CD 39,000) (-NONE- *U*) )
+              (PP (IN from) 
+                (NP 
+                  (NP (DT the) (JJ previous) (NN sale) )
+                  (NP-TMP (NNP Oct.) (CD 4) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Seats) )
+    (VP (VBP are) 
+      (ADVP-TMP (RB currently) )
+      (VP (VBN quoted) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN at) 
+          (NP 
+            (NP 
+              (NP ($ $) (CD 425,000) (-NONE- *U*) )
+              (VP (NN bid) 
+                (NP (-NONE- *) )))
+            (CC and) 
+            (NP 
+              (NP ($ $) (CD 475,000) (-NONE- *U*) )
+              (VP (VBN offered) 
+                (NP (-NONE- *) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) 
+        (ADJP ($ $) (CD 475,000) (-NONE- *U*) )
+        (NN sale) (NN price) )
+      (NP-TMP (RBR earlier) (DT this) (NN month) ))
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT the) (JJS lowest) )
+        (PP-TMP (IN in) 
+          (NP 
+            (QP (RB nearly) (CD three) )
+            (NNS years) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Exchange) (NNS seats) )
+    (VP (VBD hit) 
+      (NP 
+        (NP (DT a) (NN peak) )
+        (PP (IN of) 
+          (NP ($ $) (CD 1,150,000) (-NONE- *U*) )))
+      (PP-TMP (IN in) 
+        (NP (NNP September) (CD 1987) )))
+    (. .) ))

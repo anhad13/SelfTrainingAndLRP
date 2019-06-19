@@ -1,0 +1,134 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP U.S.) (JJ official) (NN reserve) (NNS assets) )
+      (VP (VBD rose) 
+        (NP-EXT 
+          (QP ($ $) (CD 6.05) (CD billion) )
+          (-NONE- *U*) )
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))
+        (, ,) 
+        (PP-DIR (TO to) 
+          (NP 
+            (QP ($ $) (CD 68.42) (CD billion) )
+            (-NONE- *U*) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Treasury) (NNP Department) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN gain) )
+      (VP (VBD compared) 
+        (PP-CLR (IN with) 
+          (NP 
+            (NP (DT a) 
+              (ADJP 
+                (QP ($ $) (CD 1.10) (CD billion) )
+                (-NONE- *U*) )
+              (NN decline) )
+            (PP-LOC (IN in) 
+              (NP (NN reserve) (NNS assets) ))
+            (PP-TMP (IN in) 
+              (NP (NNP August) ))
+            (PP (TO to) 
+              (NP 
+                (QP ($ $) (CD 62.36) (CD billion) )
+                (-NONE- *U*) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN department) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP U.S.) (NN reserve) (NNS assets) )
+    (VP (VBP consist) 
+      (PP-CLR (IN of) 
+        (NP 
+          (NP (JJ foreign) (NNS currencies) )
+          (, ,) 
+          (NP (NN gold) )
+          (, ,) 
+          (NP 
+            (NP (JJ special) (NN drawing) (NNS rights) )
+            (PP-LOC (IN at) 
+              (NP (DT the) (NNP International) (NNP Monetary) (NNP Fund) )))
+          (CC and) 
+          (NP 
+            (NP (DT the) (NNP U.S.) (NN reserve) (NN position) )
+            (: --) 
+            (NP (PRP$ its) (NN ability) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB draw) 
+                    (NP (JJ foreign) (NNS currencies) )))))
+            (: --) 
+            (PP-LOC (IN at) 
+              (NP (DT the) (NNP IMF) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT The) (NN nation) (POS 's) )
+        (NNS holdings) )
+      (PP (IN of) 
+        (NP (JJ foreign) (NNS currencies) )))
+    (VP (VBD increased) 
+      (NP-EXT 
+        (QP ($ $) (CD 5.67) (CD billion) )
+        (-NONE- *U*) )
+      (PP-TMP (IN in) 
+        (NP (NNP September) ))
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 39.08) (CD billion) )
+          (-NONE- *U*) ))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN gold) (NNS reserves) )
+          (VP (VBD were) 
+            (ADJP-PRD (RB virtually) (JJ unchanged) 
+              (PP (IN at) 
+                (NP 
+                  (QP ($ $) (CD 11.07) (CD billion) )
+                  (-NONE- *U*) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNP U.S.) (NNS holdings) )
+        (PP (IN of) 
+          (NP (NNP IMF) (JJ special) (NN drawing) (NNS rights) )))
+      (NP-TMP (JJ last) (NN month) )
+      (VP (VBD rose) 
+        (NP-EXT 
+          (QP ($ $) (CD 247) (CD million) )
+          (-NONE- *U*) )
+        (, ,) 
+        (PP-DIR (TO to) 
+          (NP 
+            (QP ($ $) (CD 9.49) (CD billion) )
+            (-NONE- *U*) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (PRP$ its) (NN reserve) (NN position) )
+        (PP-LOC (IN at) 
+          (NP (DT the) (NNP IMF) )))
+      (VP (VBD increased) 
+        (NP-EXT 
+          (QP ($ $) (CD 142) (CD million) )
+          (-NONE- *U*) )
+        (, ,) 
+        (PP-DIR (TO to) 
+          (NP 
+            (QP ($ $) (CD 8.79) (CD billion) )
+            (-NONE- *U*) ))))
+    (. .) ))

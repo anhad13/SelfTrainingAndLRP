@@ -1,0 +1,153 @@
+
+( (NP-HLN 
+    (NP (NNP WINSTON-SALEM) )
+    (, ,) 
+    (NP (NNP N.C.) )
+    (: --) ))
+( (S 
+    (NP-SBJ (NNP First) (NNP Wachovia) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP John) (NNP F.) (NNP McNair) (NNP III) )
+          (VP (MD will) 
+            (VP (VB retire) 
+              (PP-CLR (IN as) 
+                (NP 
+                  (NP 
+                    (NP (NN president) )
+                    (CC and) 
+                    (NP (NN chief) (JJ executive) (NN officer) ))
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT this) (JJ regional) (NN banking) (NN company) (POS 's) )
+                      (NNP Wachovia) (NNP Corp.) 
+                      (CC and)
+                      (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust) (NNP Co.) (NNS subsidiaries) ))))
+              (PP-TMP (IN on) 
+                (NP (NNP Dec.) (CD 31) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Mr.) (NNP McNair) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 62) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN succeeded) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NNP L.M.) (`` ``) (NNP Bud) ('' '') (NNP Baker) (NNP Jr.) )
+              (, ,) 
+              (NP (CD 47) )
+              (, ,) 
+              (NP 
+                (NP 
+                  (NP (DT the) (NN parent) (POS 's) )
+                  (NN chief) (NN credit) (NN officer) )
+                (CC and) 
+                (NP 
+                  (NP (NN head) )
+                  (PP (IN of) 
+                    (NP (PRP$ its) (NN administration) (NN division) )))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Mr.) (NNP Baker) )
+      (VP (MD will) 
+        (VP (VB relinquish) 
+          (NP (PRP$ his) (JJ previous) (NNS positions) ))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-1 
+        (NP (DT a) (NN successor) )
+        (PP (IN for) 
+          (NP (PRP him) )))
+      (VP (VBZ has) (RB n't) 
+        (VP (VBN been) 
+          (VP (VBN named) 
+            (NP (-NONE- *-1) )
+            (ADVP-TMP (RB yet) )))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (PP-TMP (IN on) 
+      (NP (NNP Jan.) (CD 1) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNP Thomas) (NNP A.) (NNP Bennett) )
+      (, ,) 
+      (NP (CD 52) )
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB become) 
+        (NP-PRD 
+          (NP 
+            (NP (NN vice) (NN chairman) )
+            (CC and) 
+            (NP (NN chief) (VBG operating) (NN officer) ))
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Wachovia) )
+              (CC and) 
+              (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG filling) 
+            (NP 
+              (NP (DT a) (NN vacancy) )
+              (VP (VBN left) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS (DT the) 
+                    (ADJP (VBN retired) )
+                    (NNP Hans) (NNP W.) (NNP Wanders) ))
+                (PP-TMP (IN in) 
+                  (NP (NNP April) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Bennett) )
+    (VP (MD will) 
+      (VP (VB continue) 
+        (PP-CLR (IN as) 
+          (NP 
+            (NP (NN executive) )
+            (PP (IN in) 
+              (NP 
+                (NP (NN charge) )
+                (PP (IN of) 
+                  (NP (DT the) (NNP North) (NNP Carolina) (VBG banking) (NN operation) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Messrs.) 
+      (NX 
+        (NX (NNP Baker) )
+        (CC and) 
+        (NX (NNP Bennett) )))
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (VP (VBN elected) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (NP-PRD 
+              (NP (NNS directors) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP Wachovia) )
+                  (CC and) 
+                  (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust) )))))
+          (S-ADV 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG filling) 
+              (NP 
+                (NP (JJ vacant) (NNS seats) )
+                (PP-LOC (IN on) 
+                  (NP (DT both) (NNS boards) ))))))))
+    (. .) ))

@@ -1,0 +1,130 @@
+
+( (S 
+    (NP-SBJ (NNP USACafes) (NNP Limited) (NNP Partnership) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD completed) 
+            (NP 
+              (NP (DT the) (NN sale) )
+              (PP (IN of) 
+                (NP (PRP$ its) (NNP Bonanza) (NN restaurant) (NN franchise) (NN system) ))
+              (PP (TO to) 
+                (NP 
+                  (NP (DT a) (NN subsidiary) )
+                  (PP (IN of) 
+                    (NP (NNP Metromedia) (NNP Co.) ))))
+              (PP (IN for) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 71) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN in) 
+                    (NP (NN cash) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP USACafes) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ is) 
+            (ADJP-PRD (RB nearly) (JJ half-owned) 
+              (PP (IN by) 
+                (NP 
+                  (NP (NNP Sam) 
+                    (CC and)
+                    (NNP Charles) (NNP Wyly) )
+                  (PP (IN of) 
+                    (NP (NNP Dallas) ))))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB distribute) 
+              (NP 
+                (NP (NNS proceeds) )
+                (PP (IN from) 
+                  (NP (DT the) (NN sale) )))
+              (PP-DIR (TO to) 
+                (NP (NN unit) (NNS holders) ))
+              (PP (IN as) 
+                (NP (DT a) (NN liquidating) (NN dividend) ))
+              (ADVP-TMP 
+                (ADVP (RB as) (RB soon) )
+                (PP (IN as) 
+                  (ADJP (JJ possible) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP Bonanza) (NN franchise) (NN system) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ generates) 
+            (NP 
+              (NP 
+                (QP (RB about) ($ $) (CD 600) (CD million) )
+                (-NONE- *U*) )
+              (PP-LOC (IN in) 
+                (NP (NNS sales) )))
+            (ADVP-TMP (RB annually) ))))
+      (, ,) )
+    (VP (VBD represented) 
+      (NP 
+        (NP (RB substantially) (DT all) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN partnership) (POS 's) )
+            (NNS assets) ))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (DT The) (NN sale) )
+        (PP (IN of) 
+          (NP (DT the) (NN system) )))
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (VP (VBN challenged) 
+            (NP (-NONE- *-1) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT a) (JJ class-action) (NN suit) )
+                (PP (IN on) 
+                  (NP 
+                    (NP (NN behalf) )
+                    (PP (IN of) 
+                      (NP (NN unit) (NNS holders) ))))
+                (VP (VBN filed) 
+                  (NP (-NONE- *) )
+                  (NP-TMP (JJ last) (NN week) )
+                  (PP-LOC-CLR (IN in) 
+                    (NP (DT a) (NNP Delaware) (NN court) )))))))))
+    (, ,) 
+    (NP-SBJ (NNP USACafes) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ believes) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (DT the) (NN suit) )
+                (VP (VBZ is) 
+                  (PP-PRD (IN without) 
+                    (NP (NN merit) )))))))))
+    (. .) ))

@@ -1,0 +1,125 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Grand) (NNP Metropolitan) (NNP PLC) )
+      (, ,) 
+      (NP 
+        (NP (DT the) (NNP United) (NNP Kingdom) (NN food) 
+          (CC and)
+          (NN beverage) (NN group) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ owns) 
+              (NP 
+                (NP (NNP Pillsbury) (NNP Inc.) )
+                (PP (IN of) 
+                  (NP (DT the) (NNP U.S.) )))))))
+      (, ,) )
+    (VP (VBD announced) 
+      (NP 
+        (NP (DT a) (NN reshuffling) )
+        (PP (IN of) 
+          (NP (JJ board-level) (NN executive) (NNS duties) ))
+        (VP (VBN intended) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB fit) 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (JJ recent) (NN expansion) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP David) (NNP Nash) )
+      (, ,) 
+      (NP 
+        (NP (RB formerly) (NN group) (NN finance) (NN director) )
+        (PP-LOC (IN at) 
+          (NP (NNP Cadbury) (NNP Schweppes) (NNP PLC) )))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB become) 
+        (NP-PRD 
+          (NP (NNP Grand) (NNP Met) (POS 's) )
+          (JJ first) (NN group) (NN finance) (NN director) )
+        (PP-TMP (IN in) 
+          (NP (NNP January) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (NN statement) ))
+    (, ,) 
+    (NP-SBJ (NNP Grand) (NNP Met) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (JJ recent) (`` ``) 
+            (NX 
+              (NX (NN growth) )
+              (CC and) 
+              (NX (JJR wider) (JJ geographic) (NN spread) ))
+            ('' '') )
+          (VP (VBD made) 
+            (S 
+              (NP-SBJ (PRP it) )
+              (ADJP-PRD (JJ necessary) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB create) 
+                      (NP (DT the) (JJ new) (NN position) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (ADVP (RB also) )
+    (VP (VBD reassigned) 
+      (NP (JJ several) (NN executive) (NNS responsibilities) ))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP David) (NNP Tagg) )
+      (, ,) 
+      (PP 
+        (ADVP-TMP (RB formerly) )
+        (IN in) 
+        (NP 
+          (NP (NN charge) )
+          (PP (IN of) 
+            (NP (NN gambling) (NNS operations) ))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN appointed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (JJ chief) (NN executive) )
+            (PP (IN for) 
+              (NP (NN retailing) 
+                (CC and)
+                (NN property) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Peter) (NNP Cawdron) )
+        (, ,) 
+        (NP (NN group) (NN strategy) (NN development) (NN director) )
+        (, ,) )
+      (CC and) 
+      (NP 
+        (NP (NNP Bill) (NNP Shardlow) )
+        (, ,) 
+        (NP (NN group) (NNS personnel) (NN director) )
+        (, ,) ))
+    (VP (MD will) 
+      (VP (VB become) 
+        (NP-PRD 
+          (NP (NN part) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN board) (POS 's) )
+              (NN management) (NN committee) )))))
+    (. .) ))

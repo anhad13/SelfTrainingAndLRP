@@ -1,0 +1,381 @@
+
+( (S 
+    (NP-SBJ-1 (DT The) (JJ following) 
+      (UCP 
+        (NP (NNP U.S.) (NNP Treasury) )
+        (, ,) 
+        (ADJP (JJ corporate) )
+        (CC and) 
+        (ADJP (JJ municipal) ))
+      (NNS offerings) )
+    (VP (VBP are) 
+      (VP 
+        (ADVP-MNR (RB tentatively) )
+        (VBN scheduled) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (NN sale) )
+            (NP-TMP (DT this) (NN week) )))
+        (, ,) 
+        (PP (VBG according) 
+          (PP (TO to) 
+            (NP (NNP Dow) (NNP Jones) (NNP Capital) (NNP Markets) (NNP Report) )))))
+    (: :) ))
+( (NP 
+    (NP 
+      (QP ($ $) (CD 15.2) (CD billion) )
+      (-NONE- *U*) )
+    (PP (IN of) 
+      (NP 
+        (ADJP (JJ three-month) 
+          (CC and)
+          (JJ six-month) )
+        (NNS bills) ))
+    (. .) ))
+( (NP 
+    (NP (JJ Two-year) (NNS notes) )
+    (, ,) 
+    (VP (VBG refinancing) 
+      (NP 
+        (NP 
+          (QP (RB about) ($ $) (CD 9.6) (CD billion) )
+          (-NONE- *U*) )
+        (PP (IN in) 
+          (NP (VBG maturing) (NN debt) ))))
+    (. .) ))
+( (NP 
+    (NP 
+      (QP ($ $) (CD 9.75) (CD billion) )
+      (-NONE- *U*) )
+    (PP (IN of) 
+      (NP (JJ 52-week) (NNS bills) ))
+    (. .) ))
+( (NP-HLN (NNP Connecticut) (NNP Light) (CC &) (NNP Power) (NNP Co.) (: --) ))
+( (NP 
+    (NP 
+      (NP 
+        (QP (CD Three) (CD million) )
+        (NNS shares) )
+      (PP (IN of) 
+        (NP 
+          (ADJP ($ $) (CD 25) (-NONE- *U*) )
+          (JJ preferred) )))
+    (, ,) 
+    (PP (IN via) 
+      (NP (JJ competitive) (NN bidding) ))
+    (. .) ))
+( (NP-HLN (NNP B&H) (NNP Crude) (NNP Carriers) (NNP Ltd.) (: --) ))
+( (NP 
+    (NP 
+      (QP (CD Four) (CD million) )
+      (JJ common) (NNS shares) )
+    (, ,) 
+    (PP (IN via) 
+      (NP (NNP Salomon) (NNP Brothers) (NNP Inc) ))
+    (. .) ))
+( (NP-HLN (NNP Baldwin) (NNP Technology) (NNP Co.) (: --) ))
+( (NP 
+    (NP 
+      (QP (CD 2.6) (CD million) )
+      (NNP Class) (NNP A) (NNS shares) )
+    (, ,) 
+    (PP (IN via) 
+      (NP (NNP Smith) (NNP Barney) (NNP Harris) (NNP Upham) (CC &) (NNP Co) ))
+    (. .) ))
+( (NP-HLN (NNP Blockbuster) (NNP Entertainment) (NNP Corp.) (: --) ))
+( (NP 
+    (NP 
+      (ADJP 
+        (QP ($ $) (CD 250) (CD million) )
+        (-NONE- *U*) )
+      (PRN 
+        (-LRB- -LRB-)
+        (NN face) (NN amount) 
+        (-RRB- -RRB-)
+        )
+      (NNP Liquid) (NNP Yield) (NNP Option) (NNP Notes) )
+    (, ,) 
+    (PP (IN via) 
+      (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets) ))
+    (. .) ))
+( (NP-HLN (NNP Chase) (NNP Manhattan) (NNP Corp.) (: --) ))
+( (NP 
+    (NP 
+      (QP (CD 14) (CD million) )
+      (JJ common) (NNS shares) )
+    (, ,) 
+    (PP (IN via) 
+      (NP (NNP Goldman) 
+        (, ,)
+        (NNP Sachs) (CC &) (NNP Co) ))
+    (. .) ))
+( (NP-HLN (NNP Comcast) (NNP Corp.) (: --) ))
+( (NP 
+    (NP 
+      (ADJP 
+        (QP ($ $) (CD 150) (CD million) )
+        (-NONE- *U*) )
+      (JJ convertible) (NNS debentures) )
+    (, ,) 
+    (PP (IN via) 
+      (NP (NNP Merrill) (NNP Lynch) ))
+    (. .) ))
+( (NP-HLN (NNP CSS) (NNP Industries) (: --) ))
+( (NP 
+    (NP 
+      (QP (CD 1.3) (CD million) )
+      (JJ common) (NNS shares) )
+    (, ,) 
+    (PP (IN via) 
+      (NP (NNP Merrill) (NNP Lynch) ))
+    (. .) ))
+( (NP-HLN (NNP Eastern) (NNP Utilities) (NNP Associates) (: --) ))
+( (NP 
+    (NP 
+      (QP (CD 1.5) (CD million) )
+      (JJ common) (NNS shares) )
+    (, ,) 
+    (PP (IN via) 
+      (NP (NNP PaineWebber) (NNP Inc) ))
+    (. .) ))
+( (NP-HLN (NNP Employee) (NNP Benefit) (NNP Plans) (NNP Inc.) (: --) ))
+( (NP 
+    (NP 
+      (QP (CD Two) (CD million) )
+      (JJ common) (NNS shares) )
+    (, ,) 
+    (PP (IN via) 
+      (NP (NNP Dean) (NNP Witter) (NNP Capital) (NNP Markets) ))
+    (. .) ))
+( (NP-HLN (NNP Exabyte) (NNP Corp.) (: --) ))
+( (NP 
+    (NP (CD 2,850,000) (JJ common) (NNS shares) )
+    (, ,) 
+    (PP (IN via) 
+      (NP (NNP Goldman) (NNP Sachs) ))
+    (. .) ))
+( (NP-HLN (NNP Knowledgeware) (NNP Inc.) (: --) ))
+( (NP 
+    (NP 
+      (QP (CD 2.4) (CD million) )
+      (JJ common) (NNS shares) )
+    (, ,) 
+    (PP (IN via) 
+      (NP (NNP Montgomery) (NNP Securities) ))
+    (. .) ))
+( (NP-HLN (NNP Oregon) (: --) ))
+( (NP 
+    (NP 
+      (NP 
+        (QP ($ $) (CD 100) (CD million) )
+        (-NONE- *U*) )
+      (PP (IN of) 
+        (NP 
+          (NP 
+            (NP (JJ general) (NN obligation) (NNS veterans) (POS ') )
+            (NN tax) (NNS notes) )
+          (, ,) 
+          (NP (NNP Series) (CD 1989) ))))
+    (, ,) 
+    (PP (IN via) 
+      (NP (JJ competitive) (NN bid) ))
+    (. .) ))
+( (NP-HLN 
+    (NP (NNP Washington) )
+    (, ,) 
+    (NP (NNP D.C.) )
+    (: --) ))
+( (NP 
+    (NP 
+      (NP 
+        (QP ($ $) (CD 200) (CD million) )
+        (-NONE- *U*) )
+      (PP (IN of) 
+        (NP 
+          (NP (CD 1990) (JJ general) (NN obligation) (NN tax) (NN revenue) (NNS notes) )
+          (-LRB- -LRB-) 
+          (NP (NNP Series) (NNP 1990A) )
+          (-RRB- -RRB-) )))
+    (, ,) 
+    (PP (IN via) 
+      (NP (JJ competitive) (NN bid) ))
+    (. .) ))
+( (NP-HLN (NNP Virginia) (NNP Public) (NNP School) (NNP Authority) (: --) ))
+( (NP 
+    (NP 
+      (NP ($ $) (CD 55,730,000) (-NONE- *U*) )
+      (PP (IN of) 
+        (NP 
+          (NP (NN school) (NN financing) (NNS bonds) )
+          (, ,) 
+          (NP (CD 1989) (NNP Series) (NNP B) )
+          (PRN 
+            (-LRB- -LRB-)
+            (NP (CD 1987) (NN resolution) )
+            (-RRB- -RRB-) ))))
+    (, ,) 
+    (PP (IN via) 
+      (NP (JJ competitive) (NN bid) ))
+    (. .) ))
+( (NP-HLN 
+    (NP (NNP Austin) )
+    (, ,) 
+    (NP (NNP Texas) )
+    (: --) ))
+( (NP 
+    (NP 
+      (NP ($ $) (CD 68,230,000) (-NONE- *U*) )
+      (PP (IN of) 
+        (NP (JJ various) (NNS bonds) )))
+    (, ,) 
+    (PP (VBG including) 
+      (NP 
+        (NP 
+          (NP 
+            (ADJP ($ $) (CD 32) (CD million) (-NONE- *U*) )
+            (NN hotel) (NN occupancy) (NN tax) (NN revenue) (NNS bonds) )
+          (, ,) 
+          (NP (NNP Series) (NNP 1989A) ))
+        (, ,) 
+        (CC and)
+        (NP 
+          (NP 
+            (ADJP 
+              (QP ($ $) (CD 36.23) (CD million) )
+              (-NONE- *U*) )
+            (NN convention) (NN center) (NN revenue) (NNS bonds) )
+          (, ,) 
+          (NP (NNP Series) (NNP 1989B) )
+          (, ,) )))
+    (PP (IN via) 
+      (NP (DT a) (NNP Morgan) (NNP Stanley) (CC &) (NNP Co.) (NN group) ))
+    (. .) ))
+( (NP-HLN (NNP California) (NNP Health) (NNP Facilities) (NNP Financing) (NNP Authority) (: --) ))
+( (NP 
+    (NP 
+      (NP 
+        (QP ($ $) (CD 144.5) (CD million) )
+        (-NONE- *U*) )
+      (PP (IN of) 
+        (NP (NNP Kaiser) (NNP Permanente) (NN revenue) (NNS bonds) )))
+    (, ,) 
+    (PP (IN via) 
+      (NP (DT a) (NNP PaineWebber) (NN group) ))
+    (. .) ))
+( (NP-HLN (NNP Connecticut) (: --) ))
+( (NP 
+    (NP 
+      (NP ($ $) (CD 100) (CD million) (-NONE- *U*) )
+      (PP (IN of) 
+        (NP 
+          (NP (JJ general) (NN obligation) (NN capital) (NN appreciation) (NNS bonds) )
+          (, ,) 
+          (NP (NNP College) (NNP Savings) (NNP Plan) )
+          (, ,) 
+          (NP (CD 1989) (NNP Series) (NNP B) ))))
+    (, ,) 
+    (PP (IN via) 
+      (NP (DT a) (NNP Prudential-Bache) (NNP Capital) (NNP Funding) (NN group) ))
+    (. .) ))
+( (NP-HLN (NNP Pennsylvania) (NNP Higher) (NNP Education) (NNP Facilities) (NNP Authority) (: --) ))
+( (NP 
+    (NP 
+      (NP 
+        (QP ($ $) (CD 117) (CD million) )
+        (-NONE- *U*) )
+      (PP (IN of) 
+        (NP 
+          (NP (NN revenue) (NNS bonds) )
+          (PP (IN for) 
+            (NP (NNP Hahnemann) (NNP University) )))))
+    (, ,) 
+    (NP (NNP Series) (CD 1989) )
+    (, ,) 
+    (PP (IN via) 
+      (NP (DT a) (NNP Merrill) (NNP Lynch) (NN group) ))
+    (. .) ))
+( (NP-HLN (NNP Tennessee) (NNP Valley) (NNP Authority) (: --) ))
+( (NP 
+    (NP 
+      (NP 
+        (QP (CD Three) (CD billion) ))
+      (PP (IN of) 
+        (NP (NN power) (NNS bonds) )))
+    (, ,) 
+    (PP (IN via) 
+      (NP (NNP First) (NNP Boston) (NNP Corp) ))
+    (. .) ))
+( (NP-HLN 
+    (NP (NNP University) )
+    (PP (IN of) 
+      (NP (NNP Medicine) (CC And) (NNP Dentistry) ))
+    (PP (IN of) 
+      (NP (NNP New) (NNP Jersey) ))
+    (: --) ))
+( (NP 
+    (NP 
+      (NP 
+        (QP ($ $) (CD 55) (CD million) )
+        (-NONE- *U*) )
+      (PP (IN of) 
+        (NP (NNP Series) (NNP C) (NNS bonds) )))
+    (, ,) 
+    (PP (IN via) 
+      (NP (DT a) (NNP Prudential-Bache) (NN group) ))
+    (. .) ))
+( (NP-HLN 
+    (NP (NNP West) (NNP Virginia) (NNP Parkways) )
+    (, ,) 
+    (NP (NNP Economic) (NNP Development) (CC And) (NNP Tourism) (NNP Authority) )
+    (: --) ))
+( (NP 
+    (NP 
+      (NP 
+        (QP ($ $) (CD 143) (CD million) )
+        (-NONE- *U*) )
+      (PP (IN of) 
+        (NP 
+          (NP (NN parkway) (NN revenue) (NNS bonds) )
+          (, ,) 
+          (NP (NN Series) (CD 1989) ))))
+    (, ,) 
+    (PP (IN via) 
+      (NP (DT a) (NNP PaineWebber) (NN group) ))
+    (. .) ))
+( (NP-HLN 
+    (NP (NNP San) (NNP Antonio) )
+    (, ,) 
+    (NP (NNP Texas) )
+    (: --) ))
+( (NP 
+    (NP 
+      (NP 
+        (QP ($ $) (CD 640) (CD million) )
+        (-NONE- *U*) )
+      (PP (IN of) 
+        (NP 
+          (UCP (NN gas) 
+            (CC and)
+            (JJ electric) )
+          (NN revenue) (NN refunding) (NNS bonds) )))
+    (, ,) 
+    (PP (IN via) 
+      (NP (DT a) (NNP First) (NNP Boston) (NN group) ))
+    (. .) ))
+( (NP-HLN (NNP South) (NNP Dakota) (NNP Health) (CC &) (NNP Education) (NNP Facility) (NNP Authority) (: --) ))
+( (NP 
+    (NP 
+      (NP 
+        (QP ($ $) (CD 51.1) (CD million) )
+        (-NONE- *U*) )
+      (PP (IN of) 
+        (NP (NNP Rapid) (NNP City) (NNP Regional) (NNP Hospital) (NNS bonds) )))
+    (, ,) 
+    (PP (IN via) 
+      (NP (DT a) (NNP Dougherty) 
+        (, ,)
+        (NNP Dawkins) 
+        (, ,)
+        (NNP Strand) (CC &) (NNP Yost) (NNP Inc.) (NN group) ))
+    (. .) ))

@@ -1,0 +1,258 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNS Investors) )
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD bought) 
+            (NP (NN stock) )
+            (PP-MNR (IN with) 
+              (NP (JJ borrowed) (NN money) ))
+            (PRN (: --) 
+              (S-ADV 
+                (NP-SBJ (DT that) )
+                (VP (VBZ is) ))
+              (, ,) (`` ``) 
+              (PP (IN on) 
+                (NP (NN margin) ))
+              ('' '') (: --) )))))
+    (VP (MD may) 
+      (VP (VB be) 
+        (ADJP-PRD 
+          (ADJP (RBR more) (JJ worried) )
+          (PP (IN than) 
+            (NP (JJS most) )))
+        (PP-TMP (VBG following) 
+          (NP 
+            (NP (NNP Friday) (POS 's) )
+            (NN market) (NN drop) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) )
+    (VP (VBZ 's) 
+      (SBAR-PRP-PRD (IN because) 
+        (S 
+          (NP-SBJ (PRP$ their) (NNS brokers) )
+          (VP (MD can) 
+            (VP (VB require) 
+              (S 
+                (NP-SBJ (PRP them) )
+                (VP (TO to) 
+                  (VP 
+                    (VP (VB sell) 
+                      (NP (DT some) (NNS shares) ))
+                    (CC or) 
+                    (VP (VB put) 
+                      (PRT (RP up) )
+                      (NP 
+                        (NP (JJR more) (NN cash) )
+                        (SBAR 
+                          (WHNP-2 (-NONE- 0) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-2) )
+                            (VP (TO to) 
+                              (VP (VB enhance) 
+                                (NP 
+                                  (NP (DT the) (NN collateral) )
+                                  (VP (VBG backing) 
+                                    (NP (PRP$ their) (NNS loans) )))))))))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP October) (CD 1987) ))
+    (, ,) 
+    (NP-SBJ-1 (DT these) (NN margin) (NNS calls) )
+    (VP (VBD were) 
+      (VP (VBN thought) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB have) 
+              (VP (VBN contributed) 
+                (PP-CLR (TO to) 
+                  (NP 
+                    (NP (DT the) (JJ downward) (NN spiral) )
+                    (PP (IN of) 
+                      (NP (DT the) (NN stock) (NN market) ))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Typically) )
+    (, ,) 
+    (NP-SBJ (DT a) (NN margin) (NN call) )
+    (VP (VBZ occurs) 
+      (SBAR-TMP 
+        (WHADVP-1 (WRB when) )
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN price) )
+            (PP (IN of) 
+              (NP (DT a) (NN stock) )))
+          (VP (VBZ falls) 
+            (PP-DIR (IN below) 
+              (NP 
+                (NP (CD 75) (NN %) )
+                (PP (IN of) 
+                  (NP (PRP$ its) (JJ original) (NN value) ))))
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (DT the) (NN investor) )
+        (VP (VBZ does) (RB n't) 
+          (VP (VB put) 
+            (PRT (RP up) )
+            (NP 
+              (NP (DT the) (JJ extra) (NN cash) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (TO to) 
+                    (VP (VB satisfy) 
+                      (NP (DT the) (NN call) ))))))))))
+    (, ,) 
+    (NP-SBJ-2 (DT the) (NN brokerage) (NN firm) )
+    (VP (MD may) 
+      (VP (VB begin) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (VBG liquidating) 
+            (NP (DT the) (NNS securities) )))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT some) (JJ big) (NN brokerage) (NNS firms) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP do) (RB n't) 
+            (VP (VB expect) 
+              (NP 
+                (NP (JJ major) (NNS problems) )
+                (PP-PRP (IN as) 
+                  (NP 
+                    (NP (DT a) (NN result) )
+                    (PP (IN of) 
+                      (NP (NN margin) (NNS calls) ))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NN Margin) (NNS calls) )
+      (PP-TMP (IN since) 
+        (NP (NNP Friday) ))
+      (`` ``) 
+      (VP (VBP have) 
+        (VP (VBN been) 
+          (ADJP-PRD 
+            (ADJP 
+              (ADJP (JJR higher) )
+              (PP (IN than) 
+                (NP (JJ usual) )))
+            (, ,) (CC but) 
+            (ADJP (JJ reasonable) )))))
+    (, ,) ('' '') 
+    (NP-SBJ 
+      (NP (DT a) (NN spokesman) )
+      (PP (IN for) 
+        (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc.) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP Merrill) (NNP Lynch) (CC &) (NNP Co.) (NNS officials) )
+      (`` ``) 
+      (VP (VBP do) (RB n't) 
+        (VP (VB expect) 
+          (S 
+            (-LRB- -LCB-)
+            (NP-SBJ (NN margin) (NNS calls) )
+            (-RRB- -RCB-) 
+            (VP (TO to) 
+              (VP (VB be) 
+                (NP-PRD 
+                  (NP 
+                    (ADJP (RB as) (JJ big) )
+                    (DT a) (NN factor) )
+                  (ADVP (IN as) 
+                    (PP-TMP (IN in) 
+                      (NP (CD 1987) )))))))
+          ('' '') 
+          (SBAR-PRP (IN because) 
+            (S 
+              (NP-SBJ (JJR fewer) (JJ individual) (NNS investors) )
+              (VP (VBP are) 
+                (VP (VBG buying) 
+                  (NP (NN stock) )
+                  (PP (IN on) 
+                    (NP (NN margin) )))))))))
+    (, ,) 
+    (NP-SBJ (DT a) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Hugo) (NNP Quackenbush) )
+      (, ,) 
+      (NP 
+        (NP (JJ senior) (NN vice) (NN president) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (NNP Charles) (NNP Schwab) (NNP Corp.) )
+            (, ,) 
+            (NP (DT the) 
+              (ADJP (NNP San) (JJ Francisco-based) )
+              (JJ discount) (NN brokerage) (NN firm) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD did) (RB n't) 
+            (VP (VB expect) 
+              (NP 
+                (NP (DT any) (JJ immediate) (NNS problems) )
+                (PP (IN with) 
+                  (NP (NN margin) (NNS calls) ))
+                (PP (IN for) 
+                  (NP (NNP Schwab) (NNS customers) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (S 
+            (NP-SBJ (NNP Schwab) )
+            (VP (VBD had) 
+              (VP (VBN increased) 
+                (NP (NN margin) (NNS requirements) ))))
+          (`` ``) (IN so) 
+          (S 
+            (NP-SBJ (NNS customers) )
+            (VP (VBP have) 
+              (NP 
+                (NP (JJR more) )
+                (PP (IN of) 
+                  (NP (DT a) (NN cushion) ))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD added) (: :) (`` ``) 
+      (S 
+        (NP-SBJ (PRP We) )
+        (VP (VBD learned) 
+          (NP 
+            (NP (DT a) (NN lesson) )
+            (PP (-NONE- *ICH*-1) ))
+          (PP-TMP (IN in) 
+            (NP (CD 1987) ))
+          (PP-1 (IN about) 
+            (NP (NN volatility) )))))
+    (. .) ))

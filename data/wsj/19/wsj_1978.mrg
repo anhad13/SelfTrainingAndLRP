@@ -1,0 +1,136 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (JJ public) (NN sector) (NN borrowing) (NN requirement) )
+        (, ,) 
+        (NP 
+          (NP (DT the) 
+            (ADJP (RBS most) (RB widely) (VBN used) )
+            (NN measure) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Britain) (POS 's) )
+              (NN government) (NN deficit) (CC or) (NN surplus) )))
+        (, ,) )
+      (VP (VBD showed) 
+        (NP 
+          (NP (DT a) (NN deficit) )
+          (PP (IN of) 
+            (NP 
+              (QP (# #) (CD 200) (CD million) )
+              (-NONE- *U*) )))
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))
+        (, ,) 
+        (PP (VBN compared) 
+          (PP (IN with) 
+            (NP 
+              (NP 
+                (NP (DT a) (NN deficit) )
+                (PP (IN of) 
+                  (NP 
+                    (QP (# #) (CD 765) (CD million) )
+                    (-NONE- *U*) ))
+                (PP-TMP (IN in) 
+                  (NP (NNP August) )))
+              (CC and) 
+              (NP 
+                (NP (DT a) (NN deficit) )
+                (PP (IN of) 
+                  (NP 
+                    (QP (# #) (CD 1.08) (CD billion) )
+                    (-NONE- *U*) ))
+                (PP-TMP (IN in) 
+                  (NP (NNP September) (CD 1988) ))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Treasury) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP 
+        (NP (DT the) (CD six) (NNS months) )
+        (SBAR-TMP (IN since) 
+          (S 
+            (NP-SBJ (DT the) (JJ current) (JJ fiscal) (NN year) )
+            (VP (VBD began) 
+              (NP-TMP (NNP April) (CD 1) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN surplus) )
+    (VP (VBD totaled) 
+      (NP 
+        (QP (# #) (CD 500) (CD million) )
+        (-NONE- *U*) )
+      (, ,) 
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP (DT a) (NN surplus) )
+            (PP (IN of) 
+              (NP 
+                (QP (# #) (CD 3.6) (CD billion) )
+                (-NONE- *U*) ))
+            (PP-TMP (IN in) 
+              (NP (DT the) (JJ year-earlier) (NN period) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN government) )
+    (VP (VBZ is) 
+      (VP (VBG projecting) 
+        (NP (DT a) 
+          (ADJP 
+            (QP (# #) (CD 14) (CD billion) )
+            (-NONE- *U*) )
+          (NN surplus) )
+        (PP (IN for) 
+          (NP (DT the) (JJ fiscal) (NN year) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (VBN reported) (NNS figures) )
+      (PP (IN for) 
+        (NP (DT the) (JJ public) (NN sector) (NN borrowing) (NN requirement) )))
+    (VP (VBP include) 
+      (NP 
+        (NP (NNS receipts) )
+        (PP (IN from) 
+          (NP 
+            (NP (DT the) (NN sale) )
+            (PP (IN of) 
+              (NP (JJ state-owned) (NNS industries) ))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG Excluding) 
+          (NP (DT those) (NNS receipts) )))
+      (, ,) 
+      (NP-SBJ (DT the) (NN government) (NN deficit) )
+      (VP (MD would) 
+        (VP (VB have) 
+          (VP (VBN totaled) 
+            (NP 
+              (QP (RB about) (# #) (CD 2.5) (CD billion) )
+              (-NONE- *U*) )
+            (PP-TMP (IN in) 
+              (NP (DT the) (JJ first) (CD six) (NNS months) ))
+            (, ,) 
+            (PP (VBN compared) 
+              (PP (IN with) 
+                (NP 
+                  (NP 
+                    (QP (# #) (CD 1.3) (CD billion) )
+                    (-NONE- *U*) )
+                  (ADVP-TMP 
+                    (NP (DT a) (NN year) )
+                    (RBR earlier) ))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Treasury) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

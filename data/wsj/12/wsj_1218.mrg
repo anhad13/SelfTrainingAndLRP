@@ -1,0 +1,948 @@
+
+( (S-HLN 
+    (NP-SBJ-1 (JJ Genetic) (NN Defect) )
+    (VP (VBN Spotted) 
+      (NP (-NONE- *-1) )
+      (PP-LOC (IN In) 
+        (NP (JJ 3-Day-Old) (NN Embryo) )))))
+( (S 
+    (NP-SBJ (NNS RESEARCHERS) )
+    (VP (VBD diagnosed) 
+      (NP 
+        (NP (DT a) (JJ genetic) (NN defect) )
+        (PP-LOC (IN in) 
+          (NP (DT a) (JJ three-day-old) (NN mouse) (NN embryo) )))
+      (PP (IN in) 
+        (NP 
+          (NP (DT an) (NN experiment) )
+          (ADJP (RB directly) (JJ applicable) 
+            (PP (TO to) 
+              (NP (NNS humans) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Prenatal) (NN diagnosis) )
+      (PP (IN of) 
+        (NP (JJ genetic) (NNS defects) ))
+      (ADVP-TMP (RB as) (RB early) 
+        (PP (IN as) 
+          (NP 
+            (NP (DT the) (JJ sixth) (NN week) )
+            (PP (IN of) 
+              (NP (NN pregnancy) ))))))
+    (VP (VBZ is) 
+      (ADJP-PRD (RB increasingly) (JJ common) )
+      (NP-TMP (NN today) ))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT the) (NN mouse) (NN experiment) )
+      (PP-LOC (IN at) 
+        (NP 
+          (NP (DT a) (NNP Medical) (NNP Research) (NNP Council) (NN laboratory) )
+          (PP-LOC (IN in) 
+            (NP (NNP London) )))))
+    (VP (VBZ shows) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (JJ genetic) (NNS defects) )
+          (VP (MD can) 
+            (VP (VB be) 
+              (VP (VBN detected) 
+                (NP (-NONE- *-1) )
+                (PP-TMP 
+                  (NP-ADV (CD three) (NNS days) )
+                  (IN after) 
+                  (NP (NN conception) ))
+                (S-MNR 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG using) 
+                    (NP (DT a) (JJ new) (JJ American-developed) (JJ gene-copying) (NN technique) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN experiment) )
+      (, ,) 
+      (ADJP (JJ applicable) 
+        (PP (TO to) 
+          (NP (JJ many) (JJ genetic) (NNS disorders) )))
+      (, ,) )
+    (VP (VBN involved) 
+      (NP 
+        (NP (NN beta-thalassemia) )
+        (, ,) 
+        (NP 
+          (NP (DT a) (JJ severe) (NN blood) (NN anemia) )
+          (VP (VBG resulting) 
+            (PP-CLR (IN from) 
+              (NP (DT a) (VBG missing) (NN hemoglobin) (NN gene) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ 's) 
+      (NP-PRD 
+        (NP (DT an) (VBN inherited) (JJ human) (NN disorder) )
+        (SBAR 
+          (WHNP-2 (WDT that) )
+          (S 
+            (NP-SBJ-1 (-NONE- *T*-2) )
+            (VP (VBZ 's) 
+              (VP (VBN been) 
+                (VP (VBN duplicated) 
+                  (NP (-NONE- *-1) )
+                  (PP-LOC (IN in) 
+                    (NP (NNS mice) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT the) (NN experiment) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNS mice) )
+      (PP (IN with) 
+        (NP (DT the) (JJ defective) (NN gene) )))
+    (VP (VBD were) 
+      (VP (VBN mated) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (ADVP-TMP 
+      (NP (CD Three) (NNS days) )
+      (RB later) )
+    (, ,) 
+    (SBAR-TMP (IN before) 
+      (S 
+        (NP-SBJ-2 (DT the) (JJ new) (NN embryo) )
+        (VP (VBD had) 
+          (VP (VBN become) 
+            (VP (VBN implanted) 
+              (NP (-NONE- *-2) )
+              (PP-LOC-CLR (IN in) 
+                (NP (DT the) (NN uterus) )))))))
+    (, ,) 
+    (NP-SBJ-1 (PRP it) )
+    (VP (VBD was) 
+      (VP (VBN washed) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN out) 
+          (PP (IN of) 
+            (NP (DT the) (NN mother) (NN mouse) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN embryo) )
+    (VP (VBD had) 
+      (VP (VBN progressed) 
+        (PP-CLR 
+          (ADVP (RB only) )
+          (TO to) 
+          (NP 
+            (NP (DT a) (NN clump) )
+            (PP (IN of) 
+              (NP (CD eight) (JJ identical) (NNS cells) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (CD One) (NN cell) )
+      (VP (VBD was) 
+        (VP-3 (VBN teased) 
+          (NP (-NONE- *-1) )
+          (PRT (IN out) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ=1-2 (PRP$ its) (NNP DNA) )
+      (VP=3 (VBN extracted) 
+        (NP (-NONE- *-2) )))
+    (. .) ))
+( (S 
+    (S-MNR 
+      (NP-SBJ (-NONE- *-2) )
+      (VP (VBG Using) 
+        (NP 
+          (NP (DT the) (JJ new) (NN technique) )
+          (VP (VBN developed) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS (NNP Cetus) (NNP Corp.) )))
+          (, ,) 
+          (VP (VBN called) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (NP-PRD (DT the) (NN polymerase) (NN chain) (NN reaction) )))
+          (, ,) )))
+    (NP-SBJ-2 (DT the) (NNS scientists) )
+    (VP 
+      (ADVP (RB rapidly) )
+      (VBD made) 
+      (NP 
+        (NP (NNS millions) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS copies) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN section) )
+                (PP (IN of) 
+                  (NP (NNP DNA) ))
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (ADVP (RB ordinarily) )
+                    (VP (VBZ contains) 
+                      (NP (DT the) (NN hemoglobin) (NN gene) )))))))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (VBG providing) 
+          (NP 
+            (NP (JJ enough) (NNS copies) )
+            (SBAR 
+              (WHNP-3 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB test) 
+                    (NP (-NONE- *T*-3) )))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT A) (JJ genetic) (NN probe) )
+      (VP (VBD showed) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) (NN hemoglobin) (NN gene) )
+            (VP (VBD was) 
+              (VP (VBG missing) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS researchers) )
+    (VP (VBP report) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) ))
+      (PP-LOC (IN in) 
+        (NP (DT the) (JJ medical) (NN journal) )
+        (NP (NNP Lancet) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT the) (NN report) ))
+    (, ,) 
+    (NP-SBJ (CD two) (JJ molecular) (NNS biologists) )
+    (VP (VBP suggest) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (JJ such) (NN embryo) (NN diagnosis) )
+          (VP (MD can) 
+            (VP (VB be) 
+              (VP (VBN used) 
+                (NP (-NONE- *-1) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (NNS couples) )
+                    (PP (IN at) 
+                      (NP 
+                        (NP (JJ high) (NN risk) )
+                        (PP (IN of) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (VBG passing) 
+                              (NP (DT a) (JJ genetic) (NN defect) )
+                              (PP-CLR (TO to) 
+                                (NP (DT a) (NN child) )))))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (NN example) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (JJ infertile) (NNS couples) )
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBP have) 
+            (S 
+              (NP-SBJ-2 
+                (NP (DT the) (NN woman) (POS 's) )
+                (NNS eggs) )
+              (VP (VBN fertilized) 
+                (NP (-NONE- *-2) )
+                (PP-LOC (IN in) 
+                  (NP (DT the) (NN test) (NN tube) ))))))))
+    (ADVP (RB usually) )
+    (VP (VBP have) 
+      (S 
+        (NP-SBJ-3 
+          (NP (JJ several) (NNS eggs) )
+          (PP-TMP (-NONE- *ICH*-4) ))
+        (VP (VBN fertilized) 
+          (NP (-NONE- *-3) )
+          (PP-TMP-4 (IN at) 
+            (NP (DT a) (NN time) )))))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-2 (WRB When) )
+      (S 
+        (NP-SBJ (DT the) (VBN fertilized) (NNS cells) )
+        (VP (VBP divide) 
+          (PP-CLR (TO to) 
+            (NP (CD eight) (NNS cells) ))
+          (ADVP-TMP (-NONE- *T*-2) ))))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (DT a) (JJ single) (NN cell) )
+      (PP (IN from) 
+        (NP (DT each) (NN embryo) )))
+    (VP (MD can) 
+      (VP (VB be) 
+        (VP (VBN tested) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN for) 
+            (NP (JJ genetic) (NNS defects) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (DT A) (JJ healthy) (NN embryo) )
+      (VP (MD can) 
+        (VP (VB be) 
+          (VP-3 (VBN picked) 
+            (NP (-NONE- *-1) )
+            (PP-PRP (IN for) 
+              (NP (NN implantation) ))))))
+    (CC and) 
+    (S 
+      (NP-SBJ=1-2 (JJ defective) (NNS ones) )
+      (VP=3 (VBN discarded) 
+        (NP (-NONE- *-2) )))
+    (. .) ))
+( (S (CC Or) 
+    (PP-LOC (IN in) 
+      (NP (JJ other) (NNS couples) ))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NN embryo) )
+    (VP (MD could) 
+      (VP (VB be) 
+        (VP 
+          (VP 
+            (VP 
+              (ADVP-TMP (RB temporarily) )
+              (VBN taken) 
+              (NP (-NONE- *-1) )
+              (PRT (IN out) ))
+            (CC and) 
+            (VP (VBN tested) 
+              (NP (-NONE- *-1) ))
+            (PP-TMP 
+              (NP-ADV (CD three) (NNS days) )
+              (IN after) 
+              (NP (NN conception) )))
+          (CC and) 
+          (VP 
+            (VP (VBN returned) 
+              (NP (-NONE- *-1) )
+              (SBAR-PRP (IN if) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (ADJP-PRD (JJ healthy) )))
+              (, ,) )
+            (CC or) 
+            (VP (VBN discarded) 
+              (NP (-NONE- *-1) )
+              (SBAR-PRP (IN if) 
+                (X (RB not) )))))))
+    (. .) ))
+( (S-HLN 
+    (NP-SBJ-1 (NN Yeast) )
+    (VP (VBN Adapted) 
+      (NP (-NONE- *-1) )
+      (S-PRP 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB Make) 
+            (NP (JJ Gene-Spliced) (NNS Drugs) )))))))
+( (S 
+    (NP-SBJ (DT AN) (NNP OIL) (NNP COMPANY) )
+    (VP (VBZ finds) 
+      (NP (DT a) (NN sideline) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT the) (JJ microscopic) (NN world) )
+          (PP (IN of) 
+            (NP (NN yeast) )))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (JJ early) (CD 1970s) ))
+    (, ,) 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB when) )
+      (S 
+        (NP-SBJ (DT the) (`` ``) (NN world) (NN food) (NN crisis) ('' '') )
+        (VP (VBD was) 
+          (NP-PRD (DT a) (JJ major) (NN worry) )
+          (ADVP-TMP (-NONE- *T*-1) ))))
+    (, ,) 
+    (NP-SBJ-2 (NNP Phillips) (NNP Petroleum) (NNP Co.) )
+    (, ,) 
+    (PP (IN like) 
+      (NP (JJ several) (JJ other) (JJ big) (NNS companies) ))
+    (, ,) 
+    (VP (VBD began) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (VBG developing) 
+          (NP (`` ``) 
+            (NP (JJ single-cell) (NN protein) )
+            (, ,) ('' '') 
+            (NP 
+              (NP (JJ edible) (NN protein) )
+              (VP (VBN made) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (NNS microbes) )
+                    (VP (VBG feeding) 
+                      (PP-CLR (IN on) 
+                        (NP (JJ non-edible) (NNS materials) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Phillips) )
+    (VP (VBD found) 
+      (CC and)
+      (VBD improved) 
+      (NP 
+        (NP (DT a) (NN yeast) )
+        (, ,) (`` ``) 
+        (NP (NN Pichia) (NN pastoris) )
+        (, ,) ('' '') 
+        (SBAR 
+          (WHNP-1 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD made) 
+              (NP (NN protein) )
+              (PP-MNR (IN from) 
+                (NP (JJ natural) (JJ gas-derived) (NN alcohol) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP (RB also) )
+    (VP (MD could) 
+      (VP (VB convert) 
+        (NP 
+          (NP (NN glucose) )
+          (PP (IN from) 
+            (NP (NN farm) (NNS wastes) )))
+        (PP-CLR (IN into) 
+          (NP (JJ edible) (NN protein) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (JJ Single-cell) (NN protein) )
+      (ADVP-TMP (RB never) )
+      (VP (VBD panned) 
+        (PRT (IN out) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (JJS most) (NNS companies) )
+      (VP (VBD abandoned) 
+        (NP (JJ such) (NN research) )))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ-1 (NNP Phillips) )
+    (VP (VBD persisted) 
+      (, ,)
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG calling) 
+          (PRT (RP in) )
+          (NP 
+            (NP (NNS scientists) )
+            (PP (IN from) 
+              (NP (DT the) (NNP Salk) (NNP Institute) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBP 've) 
+      (ADVP-TMP (RB now) )
+      (VP (VBN adapted) 
+        (NP (DT the) (NN yeast) )
+        (PP-CLR (TO to) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG making) 
+              (NP 
+                (ADJP (RB genetically) (VBN engineered) )
+                (NNS drugs) ))))))
+    (. .) ))
+( (S 
+    (PP (IN Like) 
+      (NP 
+        (NP (DT the) (NNS bacteria) )
+        (VP (VBN used) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (JJ genetic) (NNS engineers) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN yeast) )
+    (VP (MD can) 
+      (VP 
+        (VP (VB take) 
+          (PRT (RP in) )
+          (NP (JJ human) (NNS genes) ))
+        (CC and) 
+        (VP (VB churn) 
+          (PRT (RP out) )
+          (NP 
+            (NP (JJ human) (NNS proteins) )
+            (PP (IN for) 
+              (NP (JJ medical) (NN use) ))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT the) (NN yeast) (JJ genetic) (NN apparatus) )
+    (VP (VBZ is) 
+      (PP-PRD 
+        (PP 
+          (ADVP (JJR more) )
+          (IN like) 
+          (NP 
+            (NP (IN that) )
+            (PP (IN of) 
+              (NP (NNS animals) ))))
+        (PP (IN than) 
+          (NP (DT the) (JJ bacterial) (JJ genetic) (NN apparatus) ))))
+    (. .) ))
+( (S 
+    (ADVP (RB Thus) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNS proteins) )
+      (PP (IN from) 
+        (NP (DT the) (NN yeast) )))
+    (VP (VBP are) 
+      (PP-PRD 
+        (PP 
+          (ADVP (RB molecularly) )
+          (ADVP (JJR more) )
+          (IN like) 
+          (NP (JJ human) (NNS proteins) ))
+        (PP (IN than) 
+          (NP 
+            (NP (DT those) )
+            (PP (IN from) 
+              (NP (NNS bacteria) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN oil) (NN company) )
+    (VP (VBZ claims) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN yeast) (NN system) )
+          (ADVP (RB also) )
+          (VP (VBZ is) 
+            (ADJP-PRD (JJR better) 
+              (PP (IN than) 
+                (NP (NNS bacteria) ))
+              (PP (IN at) 
+                (NP 
+                  (NP (JJ high-volume) (NN production) )
+                  (PP (IN of) 
+                    (NP 
+                      (ADJP (RB genetically) (VBN engineered) )
+                      (NNS drugs) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Chiron) (NNP Corp.) )
+      (, ,) 
+      (NP (DT an) 
+        (NAC-LOC (NNP Emeryville) 
+          (, ,)
+          (NNP Calif.) 
+          (, ,)
+          )
+        (NN biotechnology) (NN firm) )
+      (, ,) )
+    (VP (VBZ is) 
+      (VP (VBG seeing) 
+        (SBAR (IN if) 
+          (S 
+            (NP-SBJ-1 (DT the) (NNS Phillips) (NN yeast) )
+            (VP (MD can) 
+              (VP (VB be) 
+                (VP (VBN used) 
+                  (NP-2 (-NONE- *-1) )
+                  (S-CLR 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (TO to) 
+                      (VP (VB make) 
+                        (NP (PRP$ its) 
+                          (ADJP (RB genetically) (VBN engineered) )
+                          (JJ human) (NNS proteins) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (-NONE- *) )
+    (VP (VBG Peeking) 
+      (PP-LOC (IN Inside) 
+        (NP (NN Arteries) ))
+      (PP (IN From) 
+        (PP (IN Outside) 
+          (NP (DT the) (NN Body) ))))))
+( (S 
+    (S-NOM-SBJ 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBG VISUALIZING) 
+        (NP (NN BLOOD) (NNS vessels) )
+        (PP-MNR (IN without) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG poking) 
+              (NP (NNS catheters) )
+              (PP-CLR (IN into) 
+                (NP (DT the) (NN body) )))))))
+    (VP (MD may) 
+      (VP (VB come) 
+        (PP-CLR (IN out) 
+          (PP (IN of) 
+            (NP 
+              (NP (NN research) )
+              (PP-LOC (IN at) 
+                (NP (NNP AT&T) (NNP Bell) (NNPS Laboratories) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Strokes) )
+      (, ,) 
+      (NP (NN heart) (NNS attacks) )
+      (, ,) 
+      (NP 
+        (NP (NN leg) (NNS pains) )
+        (PRN 
+          (-LRB- -LRB-)
+          (NP (JJ intermittent) (NN claudication) )
+          (-RRB- -RRB-) ))
+      (CC and) 
+      (NP (JJ other) (NNS problems) ))
+    (VP (VBP stem) 
+      (PP-CLR (IN from) 
+        (NP 
+          (NP (VBG clogging) )
+          (PP (IN of) 
+            (NP (DT the) (NNS arteries) ))
+          (PP (IN by) 
+            (NP (JJ cholesterol-rich) (NNS deposits) )))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP (NN present) ))
+    (, ,) 
+    (NP-SBJ-4 (NNS doctors) )
+    (VP (MD can) 
+      (VP (VB see) 
+        (SBAR 
+          (WHADVP-3 (WRB how) (RB badly) )
+          (S 
+            (NP-SBJ-1 (DT an) (NN artery) )
+            (VP (VBZ is) 
+              (VP (VBN clogged) 
+                (NP (-NONE- *-1) )
+                (ADVP-MNR (-NONE- *T*-3) )))))
+        (PP-MNR 
+          (ADVP (RB only) )
+          (IN by) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-4) )
+            (VP 
+              (VP (VBG inserting) 
+                (NP (DT a) (JJ thin) (NN catheter) )
+                (PP-CLR (IN into) 
+                  (NP (DT the) (NN artery) )))
+              (CC and) 
+              (VP (VBG injecting) 
+                (NP 
+                  (NP (DT a) (NN fluid) )
+                  (SBAR 
+                    (WHNP-2 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-2) )
+                      (VP (VBZ makes) 
+                        (S 
+                          (NP-SBJ (DT the) (NNS arteries) )
+                          (ADJP-PRD (JJ visible) 
+                            (PP (IN on) 
+                              (NP (NNS X-rays) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT A) 
+      (ADJP (JJ non-invasive) )
+      (NN method) )
+    (VP (VBZ is) 
+      (VP (VBG being) 
+        (VP (VBN researched) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS (NN biophysicist) (NNP Lynn) (NNP Jelinski) ))
+          (PP-LOC (IN at) 
+            (NP (DT the) (NNP AT&T) (NN unit) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ relies) 
+      (PP-CLR (IN on) 
+        (NP (DT the) (NN fact) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (JJ certain) (NNS atoms) )
+              (VP (VBP give) 
+                (PRT (RP off) )
+                (NP (JJ detectable) (NNS signals) )
+                (SBAR-TMP 
+                  (WHADVP-2 (WRB when) )
+                  (S 
+                    (NP-SBJ-1 (-NONE- *) )
+                    (VP (VBN subjected) 
+                      (NP (-NONE- *-1) )
+                      (PP-CLR (TO to) 
+                        (NP (DT an) (JJ intense) (JJ magnetic) (NN field) ))
+                      (ADVP-TMP (-NONE- *T*-2) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ 's) 
+      (NP-PRD 
+        (NP (DT the) (JJ same) (NN phenomenon) )
+        (VP (VBN used) 
+          (NP (-NONE- *) )
+          (PP-CLR (IN in) 
+            (NP 
+              (NP (DT the) (JJ new) (NNP MRI) 
+                (PRN 
+                  (-LRB- -LRB-)
+                  (JJ magnetic) (NN resonance) (NN imaging) 
+                  (-RRB- -RRB-)
+                  )
+                (NNS scanners) )
+              (VP (VBG being) 
+                (VP (VBN used) 
+                  (NP (-NONE- *) )
+                  (PP-LOC (IN in) 
+                    (NP (NNS hospitals) ))
+                  (PP (IN in) 
+                    (NP 
+                      (NP (NN place) )
+                      (PP (IN of) 
+                        (NP (NN X-ray) (NNS scans) )))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT the) (NNP Bell) (NNPS Labs) (NNS experiments) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (DT an) (JJ MRI-type) )
+        (PP (IN of) 
+          (NP (NN machine) )))
+      (, ,) 
+      (VP (VBN synchronized) 
+        (NP (-NONE- *) )
+        (PP-CLR (IN with) 
+          (NP (DT the) (NN heartbeat) ))
+        (PP-MNR (IN via) 
+          (NP (DT an) (NN electrocardiogram) )))
+      (, ,) )
+    (VP 
+      (ADVP (RB rapidly) )
+      (VBZ flashes) 
+      (NP (DT a) (JJ magnetic) (NN field) )
+      (PRT (RP on) 
+        (CC and)
+        (RP off) )
+      (SBAR-ADV (IN as) 
+        (S 
+          (NP-SBJ (NN blood) )
+          (VP (VBZ passes) 
+            (NP 
+              (NP (DT a) (JJ certain) (NN point) )
+              (PP-LOC (IN in) 
+                (NP (DT a) (NN vessel) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) 
+        (ADJP (RB rapidly) (VBG flashing) )
+        (NN return) (NNS signals) )
+      (PP (IN from) 
+        (NP 
+          (NP (VBN excited) (NN hydrogen) (NNS atoms) )
+          (PP-LOC (IN in) 
+            (NP (DT the) (NN blood) )))))
+    (VP (VBP give) 
+      (NP 
+        (NP (DT a) (`` ``) (JJ stop-motion) ('' '') (NN movie) )
+        (PP (IN of) 
+          (NP (DT the) (JJ blood-filled) (NN vessel) ))
+        (, ,) 
+        (PRN 
+          (-LRB- -LRB-)
+          (PP (IN like) 
+            (NP 
+              (NP (DT the) (`` ``) (NN stop-motion) ('' '') )
+              (VP (VBN seen) 
+                (NP (-NONE- *) )
+                (PP-LOC (IN in) 
+                  (NP (NN disco) (NNS dancers) ))
+                (SBAR-TMP 
+                  (WHADVP-1 (WRB when) )
+                  (S 
+                    (NP-SBJ (DT a) (NN strobe) (NN light) )
+                    (VP (VBZ is) 
+                      (VP (VBG flashing) 
+                        (ADVP-TMP (-NONE- *T*-1) ))))))))
+          (-RRB- -RRB-) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS scientists) )
+    (VP (VBP have) 
+      (VP (VBN experimented) 
+        (PP-CLR (IN on) 
+          (NP 
+            (NP (DT the) (JJ tiny) (NN neck) (NNS arteries) )
+            (PP (IN of) 
+              (NP (NNS rats) ))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 (PRP They) )
+      (VP (VBP 've) 
+        (VP (VBN been) 
+          (ADJP-PRD (JJ able) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP 
+                  (VP (VB measure) 
+                    (NP 
+                      (NP (DT the) (JJ minuscule) (NNS movements) )
+                      (PP (IN of) 
+                        (NP (DT the) (NN artery) (NN wall) )))
+                    (SBAR-TMP (IN as) 
+                      (S 
+                        (NP-SBJ (DT the) (VBG beating) (NN heart) )
+                        (VP (VBZ raises) 
+                          (CC and)
+                          (VBZ lowers) 
+                          (NP 
+                            (NP (DT the) (NN pressure) )
+                            (PP (IN of) 
+                              (NP (DT the) (VBG flowing) (NN blood) )))))))
+                  (, ,) 
+                  (NP 
+                    (NP (DT a) (JJ first) )
+                    (PP (IN for) 
+                      (NP 
+                        (ADJP (JJ such) (JJ tiny) )
+                        (NN blood) (NNS vessels) ))))))))))
+    (, ,) 
+    (NP-SBJ (PRP they) )
+    (VP (VBP report) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) ))
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NNP Nature) )
+          (, ,) 
+          (NP (DT a) (JJ scientific) (NN journal) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (ADVP-TMP (RB now) )
+    (VP (VBP are) 
+      (VP (VBG experimenting) 
+        (PP-CLR (IN with) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG measuring) 
+              (NP (NN blood) (NN flow) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ ultimate) (NN hope) )
+    (VP (VBZ is) 
+      (SBAR-PRD (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NN technique) )
+          (VP (MD could) 
+            (VP (VB identify) 
+              (NP (JJ diseased) (NNS vessels) ))))))
+    (. .) ))
+( (NP-HLN (NNPS Odds) 
+    (CC and)
+    (NNPS Ends) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNS TESTS) )
+        (PP (IN ON) 
+          (NP 
+            (NP (JJ 2,800-year-old) (NNS mummies) )
+            (PP (IN from) 
+              (NP (NNP Chile) )))))
+      (VP (VBP indicate) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (JJ ancient) (NN wood) (NNS fires) )
+            (VP (VBD did) (RB n't) 
+              (VP (VB produce) 
+                (NP (NNS dioxins) (CC or) (NNS dibenzofurans) )))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG contradicting) 
+            (NP (DT a) (NN theory) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (DT the) (CD two) (NNS pollutants) )
+                  (NP-TMP (NN today) )
+                  (VP (VBP are) 
+                    (VP (VBG coming) 
+                      (PP-CLR (IN from) 
+                        (NP (NN wood) (NN burning) )))))))))))
+    (, ,) 
+    (NP-SBJ (NNP General) (NNP Electric) (NNP Co.) )
+    (VP (VBZ reports) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) ))
+      (PP-LOC (IN in) 
+        (NP (NNP Environmental) (NNP Science) (CC &) (NNP Technology) (NN magazine) )))
+    (: ...) (. .) ))
+( (SINV 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP 
+          (QP (RB Almost) (CD 40) )
+          (NN %) )
+        (PP (IN of) 
+          (NP (JJ schizophrenic) (NNS men) ))
+        (PP (-NONE- *ICH*-1) ))
+      (VP (VBP have) 
+        (NP 
+          (NP (DT an) (VBN impaired) (NN sense) )
+          (PP (IN of) 
+            (NP (NN smell) )))
+        (PP-1 (CC vs.) 
+          (NP 
+            (NP 
+              (QP (JJR fewer) (IN than) (CD 10) )
+              (NN %) )
+            (PP (IN of) 
+              (NP (JJ schizophrenic) (NNS women) ))))))
+    (, ,) 
+    (VP (VBZ reports) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (NP-SBJ 
+      (NP (DT the) (NNP American) (NNP Journal) )
+      (PP (IN of) 
+        (NP (NNP Psychiatry) )))
+    (. .) ))

@@ -1,0 +1,326 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Textron) (NNP Inc.) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBN hampered) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT a) (NN slowdown) )
+            (PP-LOC (IN in) 
+              (NP (PRP$ its) (NN defense) (NNS sales) ))))))
+    (, ,) 
+    (VP (VBD reported) 
+      (NP 
+        (NP (DT an) 
+          (ADJP (CD 8) (NN %) )
+          (NN decline) )
+        (PP-LOC (IN in) 
+          (NP (JJ per-share) (NNS earnings) ))
+        (PP (IN on) 
+          (NP (RB nearly) (JJ flat) (NN revenue) )))
+      (PP (IN for) 
+        (NP (PRP$ its) (JJ third) (NN quarter) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN aerospace) 
+      (CC and)
+      (JJ financial) (NNS services) (NN concern) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ net) (NN income) )
+          (VP (VBD fell) 
+            (NP-EXT (CD 5) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (QP ($ $) (CD 59.5) (CD million) )
+                (-NONE- *U*) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (QP ($ $) (CD 62.8) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Revenue) )
+      (PP (IN of) 
+        (NP 
+          (QP ($ $) (CD 1.73) (CD billion) )
+          (-NONE- *U*) )))
+    (VP (VBD was) 
+      (ADJP-PRD (RB almost) (JJ unchanged) 
+        (PP (IN from) 
+          (NP 
+            (NP (JJ last) (NN year) (POS 's) )
+            (QP ($ $) (CD 1.72) (CD billion) )
+            (-NONE- *U*) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Per-share) (NN net) )
+      (PP (IN of) 
+        (NP (CD 66) (NNS cents) )))
+    (, ,) 
+    (ADVP (RB down) 
+      (PP (IN from) 
+        (NP (CD 72) (NNS cents) )))
+    (, ,) 
+    (VP (VBD fell) 
+      (PP-EXT (IN by) 
+        (NP 
+          (NP (JJR more) )
+          (PP (IN than) 
+            (NP (JJ overall) (NN net) ))))
+      (PP-PRP (IN because) (IN of) 
+        (NP 
+          (NP (JJR more) (NNS shares) )
+          (ADJP (JJ outstanding) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 
+            (NP (VBN improved) (NNS results) )
+            (PP-LOC (IN in) 
+              (NP (PRP$ its) (JJ financial-services) (NN sector) )))
+          (VP (VBD were) 
+            (VP (VBN negated) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP 
+                    (NP (VBN increased) (NNS costs) )
+                    (PP-LOC (IN in) 
+                      (NP (PRP$ its) (NN government) (NN contract) (NN business) )))
+                  (, ,) 
+                  (NP 
+                    (NP (JJR lower) (NN operating) (NNS earnings) )
+                    (PP-LOC (IN in) 
+                      (NP (PRP$ its) (JJ commercial-products) (NN sector) )))
+                  (CC and) 
+                  (NP (JJ soft) (JJ automotive) (NNS markets) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (JJ Net) )
+    (VP (VBD was) 
+      (VP (VBN aided) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (DT a) (JJR lower) (NN income) (NN tax) (NN rate) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Profit) )
+      (PP (IN before) 
+        (NP (NNS taxes) )))
+    (VP (VBD fell) 
+      (NP-EXT (CD 17) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 84.4) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 101.4) (CD million) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (NP-SBJ (NNP Textron) )
+    (VP (VBD reported) 
+      (NP 
+        (NP (JJ net) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 182.1) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP ($ $) (CD 2.06) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) ))
+            (, ,) )))
+      (PP (IN on) 
+        (NP 
+          (NP (NN revenue) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 5.41) (CD billion) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (ADVP-TMP 
+      (NP (DT A) (NN year) )
+      (RB ago) )
+    (, ,) 
+    (NP-SBJ (NN net) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP 
+          (QP ($ $) (CD 170.4) (CD million) )
+          (-NONE- *U*) )
+        (, ,) (CC or) 
+        (NP 
+          (NP ($ $) (CD 1.93) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) ))
+        (, ,) )
+      (PP (IN on) 
+        (NP 
+          (NP (NN revenue) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 5.3) (CD billion) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ nine-month) (NNS results) )
+    (VP (VBD included) 
+      (NP 
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 9.5) (CD million) )
+              (-NONE- *U*) )
+            (JJ special) (NN charge) )
+          (PP-TMP (IN in) 
+            (NP (CD 1989) ))
+          (PP (IN for) 
+            (NP 
+              (NP (DT an) (NN arbitration) (NN settlement) )
+              (VP (VBN related) 
+                (NP (-NONE- *) )
+                (PP-CLR (TO to) 
+                  (NP (JJ past) (NN export) (NNS sales) ))))))
+        (, ,) 
+        (CC and)
+        (NP 
+          (NP 
+            (QP ($ $) (CD 29.7) (CD million) )
+            (-NONE- *U*) )
+          (PP (IN in) 
+            (NP (JJ extraordinary) (NNS charges) ))
+          (PP-TMP (IN in) 
+            (NP (CD 1988) ))
+          (VP (VBD related) 
+            (NP (-NONE- *) )
+            (PP-CLR (TO to) 
+              (NP 
+                (NP 
+                  (NP (DT a) (JJ former) (NN line) )
+                  (PP (IN of) 
+                    (NP (NN business) )))
+                (CC and) 
+                (NP 
+                  (NP (JJ early) (NN redemption) )
+                  (PP (IN of) 
+                    (NP (NN debt) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Textron) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS nine-months) (POS ') )
+            (NNS results) )
+          (VP 
+            (VP (VBP do) (RB n't) 
+              (VP (VB include) 
+                (NP 
+                  (NP (NNS earnings) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Avdel) (NNP PLC) )
+                      (, ,) 
+                      (NP 
+                        (NP (DT a) (JJ British) (NN maker) )
+                        (PP (IN of) 
+                          (NP (JJ industrial) (NNS fasteners) )))
+                      (, ,) )))))
+            (CC but) 
+            (VP (VBP do) 
+              (VP (VB include) 
+                (NP 
+                  (NP (NN interest) (NNS costs) )
+                  (PP (IN of) 
+                    (NP 
+                      (QP ($ $) (CD 16.4) (CD million) )
+                      (-NONE- *U*) ))
+                  (PP (IN on) 
+                    (NP 
+                      (NP (NNS borrowings) )
+                      (VP (VBN related) 
+                        (NP (-NONE- *) )
+                        (PP-CLR (TO to) 
+                          (NP 
+                            (NP (DT the) (VBN proposed) (NN purchase) )
+                            (PP (IN of) 
+                              (NP (NNP Avdel) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (JJ federal) (NN judge) )
+    (VP (VBZ has) 
+      (VP (VBN issued) 
+        (NP 
+          (NP (DT a) (JJ preliminary) (NN injunction) )
+          (PP (IN against) 
+            (NP (DT the) (NN purchase) )))
+        (PP-PRP (IN because) (IN of) 
+          (NP (NNP Federal) (NNP Trade) (NNP Commission) (NNS concerns) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ (DT the) (NN transaction) )
+                (VP (MD would) 
+                  (VP (VB reduce) 
+                    (NP 
+                      (NP (NN competition) )
+                      (PP-LOC (IN in) 
+                        (NP 
+                          (NP (DT the) (NN production) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (CD two) (NNS kinds) )
+                              (PP (IN of) 
+                                (NP (NNS rivets) )))))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (DT the) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (NNP Textron) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NN aerospace) (NN revenue) )
+            (, ,) 
+            (PP (VBG including) 
+              (NP 
+                (NP (NNP Bell) (NN helicopter) )
+                (CC and) 
+                (NP (NN jet-engine) (NN manufacture) )))
+            (, ,) )
+          (VP 
+            (VP (VBD declined) 
+              (NP-EXT (CD 9.8) (NN %) )
+              (PP-DIR (TO to) 
+                (NP 
+                  (QP ($ $) (CD 755.9) (CD million) )
+                  (-NONE- *U*) ))
+              (PP-DIR (IN from) 
+                (NP 
+                  (QP ($ $) (CD 838.3) (CD million) )
+                  (-NONE- *U*) )))
+            (, ,) 
+            (NP 
+              (NP (DT an) (NN indication) )
+              (PP (IN of) 
+                (NP (VBG slowing) (NN government) (NN defense) (NN work) )))))))
+    (. .) ))

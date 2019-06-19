@@ -1,0 +1,37 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT a) (NN seat) )
+          (VP (VBD was) 
+            (VP (VBN sold) 
+              (NP (-NONE- *-1) )
+              (PP-CLR (IN for) 
+                (NP ($ $) (CD 500,000) (-NONE- *U*) ))
+              (, ,) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (ADJP-PRD (JJ unchanged) 
+                  (PP (IN from) 
+                    (NP 
+                      (NP (DT the) (NN sale) )
+                      (NP-TMP (NNP Thursday) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Seats) )
+    (VP (VBP are) 
+      (VP (VBN quoted) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN at) 
+          (NP 
+            (NP 
+              (NP ($ $) (CD 430,000) (-NONE- *U*) )
+              (VP (NN bid) ))
+            (CC and) 
+            (NP 
+              (NP ($ $) (CD 525,000) (-NONE- *U*) )
+              (VP (VBN asked) 
+                (NP (-NONE- *) )))))))
+    (. .) ))

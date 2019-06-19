@@ -1,0 +1,188 @@
+
+( (S 
+    (NP-SBJ (NNP Dayton) (NNP Hudson) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD accepted) 
+            (PP-CLR (IN for) 
+              (NP (NN purchase) ))
+            (NP 
+              (QP (CD seven) (CD million) )
+              (JJ common) (NNS shares) )
+            (PP (IN at) 
+              (NP 
+                (NP ($ $) (CD 62.875) (-NONE- *U*) )
+                (NP-ADV (DT each) )))
+            (, ,) 
+            (PP-LOC (IN under) 
+              (NP 
+                (NP (DT the) (NNS terms) )
+                (PP (IN of) 
+                  (NP (DT a) (JJ Dutch) (NN auction) (JJ self-tender) (NN offer) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN offer) )
+    (VP (VBD expired) 
+      (PP-TMP (IN at) 
+        (NP (CD 12:01) (RB a.m.) ))
+      (NP-TMP (NN yesterday) ))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (JJ Dutch) (NN auction) ))
+    (, ,) 
+    (S 
+      (NP-SBJ (DT the) (NN buyer) )
+      (VP (VBZ sets) 
+        (NP (DT a) (NN price) (NN range) )))
+    (CC and) 
+    (S 
+      (NP-SBJ (NNS holders) )
+      (VP (VBP give) 
+        (NP 
+          (NP (DT a) (NN price) )
+          (PP-LOC (IN in) 
+            (NP (DT that) (NN range) ))
+          (SBAR 
+            (WHPP-2 (IN at) 
+              (WHNP (WDT which) ))
+            (S 
+              (NP-SBJ-1 (PRP they) )
+              (VP (VBP 're) 
+                (ADJP-PRD (JJ willing) 
+                  (S 
+                    (NP-SBJ (-NONE- *-1) )
+                    (VP (TO to) 
+                      (VP (VB sell) 
+                        (NP (PRP$ their) (NNS shares) )
+                        (PP (-NONE- *T*-2) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN buyer) )
+    (ADVP-TMP (RB then) )
+    (VP 
+      (VP (VBZ picks) 
+        (NP (DT a) (NN price) ))
+      (CC and) 
+      (VP (VBZ buys) 
+        (NP (NNS shares) )
+        (PP (IN at) 
+          (NP (DT that) (NN price) ))
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (NNS holders) )
+            (SBAR 
+              (WHNP-1 (WP who) )
+              (S 
+                (NP-SBJ-2 (-NONE- *T*-1) )
+                (VP (VBD offered) 
+                  (S 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (TO to) 
+                      (VP (VB sell) 
+                        (UCP 
+                          (PP (IN at) 
+                            (NP (DT that) (NN price) ))
+                          (CC or) 
+                          (ADVP (JJR lower) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Dayton) (NNP Hudson) (POS 's) )
+        (NN repurchase) (NN offer) )
+      (, ,) 
+      (VP (VBG representing) 
+        (NP 
+          (NP 
+            (QP (IN about) (CD 9) )
+            (NN %) )
+          (PP (IN of) 
+            (NP 
+              (NP (PRP$ its) (JJ common) (NNS shares) )
+              (ADJP (JJ outstanding) )))))
+      (, ,) )
+    (VP (VBD had) 
+      (VP (VBN established) 
+        (NP 
+          (NP (DT a) (NN range) )
+          (PP (IN of) 
+            (NP 
+              (QP (IN between) ($ $) (CD 60) 
+                (CC and)
+                ($ $) (CD 65) )
+              (-NONE- *U*) ))
+          (PP (IN for) 
+            (NP (DT the) (NN buy-back) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Dayton) (NNP Hudson) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD accepted) 
+              (NP 
+                (NP (DT all) (JJ odd-lot) (NNS shares) )
+                (VP (VBN tendered) 
+                  (NP (-NONE- *) )
+                  (PP (IN at) (CC or) (IN below) 
+                    (NP (DT the) (JJ final) 
+                      (ADJP ($ $) (CD 62.875) (-NONE- *U*) )
+                      (NN price) )))))))))
+    (: ;) 
+    (S 
+      (NP-SBJ 
+        (NP (DT the) (JJ preliminary) (NN proration) (NN factor) )
+        (PP (IN for) 
+          (NP 
+            (NP (JJ other) (NNS shares) )
+            (VP (VBN tendered) 
+              (NP (-NONE- *) )
+              (PP (IN at) (CC or) (IN below) 
+                (NP (DT the) (JJ final) (NN price) ))))))
+      (VP (VBZ is) 
+        (NP-PRD (CD 98) (NN %) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ Minneapolis-based) (NN retailer) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB pay) 
+                  (PP-CLR (IN for) 
+                    (NP (DT the) 
+                      (QP (CD seven) (CD million) )
+                      (NNS shares) ))
+                  (NP-TMP (IN next) (NNP Thursday) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (JJ Tendered) (NNS shares) )
+      (VP (RB not) (VBN purchased) 
+        (NP (-NONE- *) )))
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN returned) 
+          (NP (-NONE- *-1) )
+          (PP-DIR (TO to) 
+            (NP (NNS holders) )))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (NNP Dayton) )
+    (VP (VBD rose) 
+      (NP-EXT ($ $) (CD 1) (-NONE- *U*) )
+      (PP-DIR (TO to) 
+        (NP ($ $) (CD 61.125) (-NONE- *U*) )))
+    (. .) ))

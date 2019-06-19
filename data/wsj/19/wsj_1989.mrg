@@ -1,0 +1,91 @@
+
+( (S 
+    (NP-SBJ (NNP Loral) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD received) 
+            (NP 
+              (NP (DT a) 
+                (ADJP 
+                  (QP ($ $) (CD 325) (CD million) )
+                  (-NONE- *U*) )
+                (NN order) )
+              (NP (-NONE- *ICH*-1) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (NP (NNP Turkey) (POS 's) )
+                (NAC (NNP Ministry) 
+                  (PP (IN of) 
+                    (NP (NNP Defense) )))))
+            (, ,) 
+            (NP-1 
+              (NP (DT the) (JJS largest) (NN contract) )
+              (SBAR 
+                (WHNP-2 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (DT the) (NN company) )
+                  (ADVP-TMP (RB ever) )
+                  (VP (VBZ has) 
+                    (VP (VBN received) 
+                      (NP (-NONE- *T*-2) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Loral) )
+    (VP (MD will) 
+      (VP (VB provide) 
+        (PP-CLR (TO to) 
+          (NP (NNP Turkey) ))
+        (NP 
+          (NP (DT an) (JJ electronic) (NNS countermeasures) (NN system) )
+          (PP (IN for) 
+            (NP 
+              (NP (PRP$ its) (NN fleet) )
+              (PP (IN of) 
+                (NP (NNP F-16) (NN aircraft) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN system) )
+    (VP (VBZ provides) 
+      (NP (JJ radar-threat) (NN warning) 
+        (CC and)
+        (JJ electronic) (NN jamming) (NNS capabilities) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN defense) (NNS electronics) (NN maker) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN delivery) )
+          (VP (MD will) 
+            (VP 
+              (VP (VB begin) 
+                (PP-TMP (IN in) 
+                  (NP (NNP October) (CD 1991) )))
+              (CC and) 
+              (VP (VB run) 
+                (PP-TMP (IN through) 
+                  (NP (NN mid-1995) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Loral) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN contract) )
+            (PP (IN with) 
+              (NP (NNP Turkey) )))
+          (VP (MD will) 
+            (VP (VB provide) 
+              (NP (NNS opportunities) 
+                (SBAR (IN for) 
+                  (S 
+                    (NP-SBJ (NNP Loral) )
+                    (VP (TO to) 
+                      (VP (VB supply) 
+                        (NP (DT that) (NN country) )
+                        (PP-CLR (IN with) 
+                          (NP (JJ other) (NN defense) (NNS systems) ))))))))))))
+    (. .) ))

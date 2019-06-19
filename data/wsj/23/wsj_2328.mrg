@@ -1,0 +1,310 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Financial) (NNP Corp.) )
+      (PP (IN of) 
+        (NP (NNP Santa) (NNP Barbara) )))
+    (VP (VBD filed) 
+      (NP (NN suit) )
+      (PP (IN against) 
+        (NP 
+          (NP (JJ former) (NN stock) (NN speculator) (NNP Ivan) (NNP F.) (NNP Boesky) )
+          (CC and) 
+          (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG charging) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ-2 (PRP they) )
+              (VP (VBD defrauded) 
+                (NP (DT the) (NN thrift) )
+                (PP-MNR (IN by) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (VBG concealing) 
+                      (NP (PRP$ their) (NN relationship) )
+                      (SBAR-TMP 
+                        (WHADVP-3 (WRB when) )
+                        (S 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (VBG persuading) 
+                            (NP-4 (PRP it) )
+                            (S 
+                              (NP-SBJ (-NONE- *-4) )
+                              (VP (TO to) 
+                                (VP (VB buy) 
+                                  (NP 
+                                    (NP 
+                                      (QP ($ $) (CD 284) (CD million) )
+                                      (-NONE- *U*) )
+                                    (PP (IN in) 
+                                      (NP (JJ high-yield) 
+                                        (, ,)
+                                        (JJ high-risk) (NN junk) (NNS bonds) ))))))
+                            (ADVP-TMP (-NONE- *T*-3) )))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (DT a) (NN suit) )
+        (VP (VBN filed) 
+          (NP (-NONE- *) )
+          (PP-LOC (IN in) 
+            (NP (JJ federal) (NN court) ))
+          (NP-TMP (NNP Thursday) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP S&L) )
+    (VP (VBD alleged) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (DT a) (`` ``) (JJ disproportionate) (NN number) ('' '') )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NNS bonds) )
+                (SBAR 
+                  (WHNP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBD purchased) 
+                      (NP (-NONE- *T*-1) )
+                      (PP-TMP (IN in) 
+                        (NP (CD 1984) ))))))))
+          (VP (VBD declined) 
+            (PP-LOC-CLR (IN in) 
+              (NP (NN value) ))))))
+    (. .) ))
+( (S-1 
+    (NP-SBJ (NNP Financial) (NNP Corp.) )
+    (VP (VBD purchased) 
+      (NP (DT the) (NNS bonds) )
+      (PRN 
+        (, ,)
+        (S 
+          (NP-SBJ (DT the) (NN suit) )
+          (VP (VBD alleged) 
+            (SBAR (-NONE- 0) 
+              (S (-NONE- *T*-1) ))))
+        (, ,) )
+      (SBAR-TMP (IN after) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Mr.) (NNP Boesky) )
+            (CC and) 
+            (NP (NNP Drexel) ))
+          (VP (VBD negotiated) 
+            (NP (DT an) (NN agreement) 
+              (SBAR (IN for) 
+                (S 
+                  (NP-SBJ (NNP Vagabond) (NNP Hotels) )
+                  (VP (TO to) 
+                    (VP (VB purchase) 
+                      (NP 
+                        (NP (DT a) 
+                          (ADJP (CD 51) (NN %) )
+                          (NN stake) )
+                        (PP-LOC (IN in) 
+                          (NP (DT the) (NN thrift) )))
+                      (PP-CLR (IN for) 
+                        (NP 
+                          (QP (RB about) ($ $) (CD 34) (CD million) )
+                          (-NONE- *U*) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNP Vagabond) (NNP Hotels) )
+    (VP (VBD was) 
+      (VP (VBN controlled) 
+        (NP (-NONE- *-2) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (NNP Mr.) (NNP Boesky) )
+            (, ,) 
+            (SBAR 
+              (WHNP-3 (WP who) )
+              (S 
+                (NP-SBJ (-NONE- *T*-3) )
+                (ADVP-TMP (RB currently) )
+                (VP (VBZ is) 
+                  (VP (VBG serving) 
+                    (NP (DT a) (NN prison) (NN term) )
+                    (PP-PRP (IN for) 
+                      (NP (NNS securities) (NNS violations) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Officials) )
+      (PP-LOC (IN at) 
+        (NP (NNP Drexel) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP 
+            (VP (VBD had) (RB n't) 
+              (VP (VBN seen) 
+                (NP (DT the) (NN suit) )))
+            (CC and) 
+            (ADVP (RB thus) )
+            (VP (MD could) (RB n't) 
+              (VP (VB comment) ))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (NN addition) )
+        (PP (TO to) 
+          (NP 
+            (ADJP 
+              (QP ($ $) (CD 33) (CD million) )
+              (-NONE- *U*) )
+            (JJ compensatory) (NNS damages) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN suit) )
+    (VP (VBZ seeks) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 100) (CD million) )
+          (-NONE- *U*) )
+        (PP (IN in) 
+          (NP (JJ punitive) (NNS damages) ))))
+    (. .) ))
+( (SINV 
+    (ADVP (RB Also) )
+    (VP-TPC-2 (VBN named) 
+      (NP (-NONE- *-1) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NN suit) )))
+    (VP (VBZ is) 
+      (VP (-NONE- *T*-2) ))
+    (NP-SBJ-1 
+      (NP (NNP Ivan) (NNP F.) (NNP Boesky) (NNP Corp.) )
+      (CC and) 
+      (NP 
+        (NP (NNP Northview) (NNP Corp.) )
+        (, ,) 
+        (NP 
+          (NP (DT the) (NN successor) (NN company) )
+          (PP (TO to) 
+            (NP (NNP Vagabonds) (NNP Hotels) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Northview) (NNS officials) )
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN located) 
+          (NP (-NONE- *-1) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Financial) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB buy) 
+                  (NP (DT the) (NNS bonds) ))))
+            (SBAR-TMP (IN after) 
+              (S 
+                (NP-SBJ 
+                  (NP (DT a) (NN representative) )
+                  (PP (IN of) 
+                    (NP (NNP Ivan) (NNP F.) (NNP Boesky) (NNP Corp.) )))
+                (VP 
+                  (VP (VBD visited) 
+                    (NP (PRP it) )
+                    (PP-TMP (IN in) 
+                      (NP (NNP November) (CD 1983) )))
+                  (CC and) 
+                  (VP (VBD said) 
+                    (SBAR (-NONE- 0) 
+                      (S 
+                        (NP-SBJ-2 (NNP Financial) (NNP Corp.) )
+                        (VP (MD could) 
+                          (VP (VB improve) 
+                            (NP (PRP$ its) (JJ financial) (NN condition) )
+                            (PP-MNR (IN by) 
+                              (S-NOM 
+                                (NP-SBJ (-NONE- *-2) )
+                                (VP (VBG purchasing) 
+                                  (NP (DT the) (NNS bonds) ))))))))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP 
+      (ADVP (RB Shortly) )
+      (IN before) 
+      (NP (DT the) (NN visit) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Boesky) )
+      (CC and) 
+      (NP (NNP Drexel) (NNS representives) ))
+    (VP 
+      (VP (VBD had) 
+        (VP (VBN met) 
+          (PP-CLR (IN with) 
+            (NP (NNP Financial) (NNP Corp.) (NNS officials) ))))
+      (CC and) 
+      (VP (VBD had) 
+        (VP (VBN signed) 
+          (NP 
+            (NP (DT a) (NN letter) )
+            (PP (IN of) 
+              (NP (NN intent) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB acquire) 
+                      (NP 
+                        (NP (DT the) 
+                          (ADJP (CD 51) (NN %) )
+                          (NN stake) )
+                        (PP-LOC (IN in) 
+                          (NP (DT the) (NN company) ))))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NN agreement) )
+    (VP (VBD was) 
+      (VP (VBN canceled) 
+        (NP (-NONE- *-1) )
+        (PP-TMP (IN in) 
+          (NP (NNP June) (CD 1984) ))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP Financial) (NNP Corp.) )
+      (VP 
+        (VP (VBD purchased) 
+          (NP (DT the) (NNS bonds) )
+          (PP-LOC (IN in) 
+            (NP 
+              (QP (IN at) (JJS least) (CD 70) )
+              (JJ different) (NNS transactions) ))
+          (PP-TMP (IN in) 
+            (NP (CD 1984) )))
+        (CC and) 
+        (VP 
+          (PP-TMP (IN since) 
+            (NP (RB then) ))
+          (VBZ has) 
+          (VP (VBN realized) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 11) (CD million) )
+                (-NONE- *U*) )
+              (PP (IN in) 
+                (NP (NNS losses) )))
+            (PP (IN on) 
+              (NP (PRP them) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

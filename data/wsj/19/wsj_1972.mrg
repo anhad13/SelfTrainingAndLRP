@@ -1,0 +1,58 @@
+
+( (S 
+    (NP-SBJ-2 
+      (NP (NNP Donald) (NNP J.) (NNP Amaral) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 37) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (NP-PRD 
+            (NP 
+              (NP (NN president) )
+              (CC and) 
+              (NP (JJ chief) (NN operating) (NN officer) ))
+            (PP (IN of) 
+              (NP 
+                (NP (DT this) (NN owner) 
+                  (CC and)
+                  (NN operator) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNS hospitals) )
+                    (, ,) 
+                    (NP (NN nursing) (NNS centers) )
+                    (CC and) 
+                    (NP (NN retirement) (NNS hotels) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ succeeds) 
+      (PP (IN as) 
+        (NP (NN president) ))
+      (, ,) 
+      (NP 
+        (NP (NNP Don) (NNP Freeberg) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ remains) 
+              (NP-PRD 
+                (NP (NN chairman) )
+                (CC and) 
+                (NP (JJ chief) (JJ executive) (NN officer) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN position) )
+      (PP (IN of) 
+        (NP (JJ chief) (NN operating) (NN officer) )))
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ new) ))
+    (. .) ))

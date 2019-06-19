@@ -1,0 +1,81 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP LDI) (NNP Corp.) )
+      (, ,) 
+      (NP-LOC (NNP Cleveland) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB offer) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 50) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN in) 
+                  (NP 
+                    (NP (JJ commercial) (NN paper) )
+                    (VP (VBN backed) 
+                      (NP (-NONE- *) )
+                      (PP (IN by) 
+                        (NP-LGS (JJ lease-rental) (NNS receivables) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN program) )
+    (VP (VBZ matches) 
+      (NP 
+        (NP (NNS funds) )
+        (VP (VBN raised) 
+          (NP (-NONE- *) )
+          (PP (IN from) 
+            (NP 
+              (NP (DT the) (NN sale) )
+              (PP (IN of) 
+                (NP (DT the) (JJ commercial) (NN paper) ))))))
+      (PP-CLR (IN with) 
+        (NP 
+          (ADJP (JJ small) (TO to) (JJ medium-sized) )
+          (NNS leases) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNP LDI) )
+    (VP (VBD termed) 
+      (S 
+        (NP-SBJ (DT the) (NN paper) )
+        (`` ``) 
+        (ADJP-PRD (JJ non-recourse) (NN financing) ))
+      (, ,) ('' '') 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (VBG meaning) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ-1 (NNS investors) )
+              (VP (MD would) 
+                (VP (VB be) 
+                  (VP (VBN repaid) 
+                    (NP (-NONE- *-1) )
+                    (PP-CLR (IN from) 
+                      (NP (DT the) (NN lease) (NN receivables) ))
+                    (, ,) 
+                    (PP (RB rather) (IN than) 
+                      (ADVP-MNR (RB directly) 
+                        (PP (IN by) 
+                          (NP (NNP LDI) (NNP Corp) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP LDI) )
+    (VP (VBZ leases) 
+      (CC and)
+      (VBZ sells) 
+      (NP 
+        (UCP (NN data-processing) 
+          (, ,)
+          (NN telecommunications) 
+          (CC and)
+          (ADJP (JJ other) (JJ high-tech) ))
+        (NN equipment) ))
+    (. .) ))

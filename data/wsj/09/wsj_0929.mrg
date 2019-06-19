@@ -1,0 +1,75 @@
+
+( (S 
+    (NP-SBJ-1 (NNP C.B.) (NNP Rogers) (NNP Jr.) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN chief) (NN executive) (NN officer) )
+            (PP (IN of) 
+              (NP (DT this) (NN business) (NN information) (NN concern) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Rogers) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 60) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP J.V.) (NNP White) )
+        (, ,) 
+        (NP (CD 64) )
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (MD will) 
+              (VP (VB remain) 
+                (NP-PRD 
+                  (NP (NN chairman) )
+                  (CC and) 
+                  (NP 
+                    (NP (NN chairman) )
+                    (PP (IN of) 
+                      (NP (DT the) (JJ executive) (NN committee) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Rogers) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD was) 
+            (NP-PRD 
+              (NP 
+                (NP (NN president) )
+                (CC and) 
+                (NP (NN chief) (VBG operating) (NN officer) ))
+              (PP (IN of) 
+                (NP (NNP Equifax) ))))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB retain) 
+        (NP 
+          (NP (PRP$ his) (NN position) )
+          (PP (IN as) 
+            (NP (NN president) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT a) (JJ new) (NN chief) (VBG operating) (NN officer) )
+          (VP (MD wo) (RB n't) 
+            (VP (VB be) 
+              (VP (VBN appointed) 
+                (NP (-NONE- *-1) )))))))
+    (. .) ))

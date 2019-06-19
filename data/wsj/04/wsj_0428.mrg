@@ -1,0 +1,71 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP 
+          (NP (NNP Japan) (POS 's) )
+          (NNS exports) )
+        (PP (IN of) 
+          (NP (NNS cars) 
+            (, ,)
+            (NNS trucks) 
+            (CC and)
+            (NNS buses) )))
+      (VP (VBD declined) 
+        (NP-EXT (CD 2.4) (NN %) )
+        (PP-DIR (TO to) 
+          (NP (CD 535,322) (NNS units) ))
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))
+        (PP-DIR (IN from) 
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RB earlier) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Japan) (NNP Automobile) (NNP Manufacturers) (NNP Association) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN association) )
+    (VP (VBD attributed) 
+      (NP (DT the) (NN drop) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT a) (NN trend) 
+            (S (-NONE- *ICH*-1) ))
+          (PP (IN among) 
+            (NP (NN auto) (NNS makers) ))
+          (S-1 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB move) 
+                (NP (NN manufacturing) (NNS operations) )
+                (ADVP-DIR (RB overseas) )))))))
+    (. .) ))
+( (S 
+    (PP (IN With) 
+      (NP 
+        (NP (DT the) (NN exception) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP August) )
+            (, ,) 
+            (SBAR 
+              (WHADVP-TMP-1 (WRB when) )
+              (S 
+                (NP-SBJ (NNS exports) )
+                (VP (VBD rose) 
+                  (NP-EXT (CD 2.1) (NN %) )
+                  (ADVP-TMP (-NONE- *T*-1) ))))))))
+    (, ,) 
+    (NP-SBJ (NNS exports) )
+    (VP (VBP have) 
+      (VP (VBN declined) 
+        (NP-TMP (DT every) (NN month) )
+        (PP-DIR (IN from) 
+          (NP (JJ year-earlier) (NNS levels) ))
+        (PP-TMP (IN since) 
+          (NP (NNP March) ))))
+    (. .) ))

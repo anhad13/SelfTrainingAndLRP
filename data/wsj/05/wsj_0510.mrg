@@ -1,0 +1,117 @@
+
+( (S 
+    (NP-SBJ (NNP Doskocil) (NNP Cos.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP$ its) (NN bank-debt) (NNS payments) )
+          (VP (VBP have) 
+            (VP (VBN been) 
+              (VP (VBN extended) 
+                (NP (-NONE- *-1) )
+                (PP-CLR (IN until) 
+                  (NP (NNP May) (CD 31) 
+                    (, ,)
+                    (CD 1990) ))
+                (, ,) 
+                (S-PRP 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB give) 
+                      (NP (PRP it) )
+                      (NP 
+                        (NP (JJR more) (NN time) )
+                        (SBAR 
+                          (WHADVP-2 (-NONE- 0) )
+                          (S 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (TO to) 
+                              (VP (VB sell) 
+                                (NP (PRP$ its) (NNP Wilson) (NNP Foods) (NNP Corp.) (JJ retail) 
+                                  (CC and)
+                                  (JJ fresh) (NN meat) (NNS operations) )
+                                (ADVP-TMP (-NONE- *T*-2) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN company) )
+    (VP (VBD was) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP 
+          (VP 
+            (VP (TO to) 
+              (VP (VB repay) 
+                (NP-2 
+                  (NP 
+                    (QP ($ $) (CD 58) (CD million) )
+                    (-NONE- *U*) )
+                  (PP (IN in) 
+                    (NP (NN debt) )))
+                (PP-TMP-3 (IN on) 
+                  (NP (NNP Dec.) (CD 31) ))))
+            (CC and) 
+            (VP 
+              (NP=2 
+                (QP ($ $) (CD 15) (CD million) )
+                (-NONE- *U*) )
+              (PP-TMP=3 (IN on) 
+                (NP (NNP March) (CD 31) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD acquired) 
+      (NP (DT the) (NN debt) )
+      (SBAR-TMP 
+        (WHADVP-1 (WRB when) )
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBD paid) 
+            (NP 
+              (QP ($ $) (CD 155) (CD million) )
+              (-NONE- *U*) )
+            (S-PRP 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB purchase) 
+                  (NP (NNP Wilson) ))))
+            (NP-TMP (JJ last) (NN year) )
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT An) (NN agreement) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB sell) 
+            (NP (DT the) (NNP Wilson) (NNS assets) )
+            (PP-CLR (IN for) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 150) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN in) 
+                  (NP (NN cash) 
+                    (CC and)
+                    (NNS notes) ))))))))
+    (VP (VBD collapsed) 
+      (PP-TMP (IN in) 
+        (NP (JJ late) (NNP September) ))
+      (, ,) 
+      (SBAR-TMP 
+        (WHADVP-1 (WRB when) )
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN buyer) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NN company) )
+              (VP (VBN controlled) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS (NNP George) (NNP Gillett) )))))
+          (, ,) 
+          (VP (MD could) (RB n't) 
+            (VP (VB secure) 
+              (NP (NN financing) )
+              (ADVP-TMP (-NONE- *T*-1) ))))))
+    (. .) ))

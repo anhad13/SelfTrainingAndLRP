@@ -1,0 +1,219 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP West) (NNP Germany) )
+      (VP (MD will) 
+        (VP (VB repeal) 
+          (NP 
+            (NP (DT the) (JJ unpopular) (NN turnover) (NN tax) )
+            (PP (IN on) 
+              (NP (NNS securities) (NNS transactions) )))
+          (PP-TMP (IN as) 
+            (PP (IN of) 
+              (NP (NNP Jan.) (CD 1) 
+                (, ,)
+                (CD 1991) ))))))
+    (, ,) 
+    (NP-SBJ (NNP Economics) (NNP Minister) (NNP Helmut) (NNP Haussmann) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN government) )
+          (VP (MD will) 
+            (ADVP (RB also) )
+            (VP (VB repeal) 
+              (NP 
+                (NP (DT the) 
+                  (ADJP (CD 1) (NN %) )
+                  (NN transaction) (NN tax) )
+                (PP (IN on) 
+                  (NP 
+                    (NP (DT the) (JJ first-time) (NN purchase) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNS stakes) )
+                        (PP-LOC (IN in) 
+                          (NP (NNS companies) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN announcement) )
+    (VP (VBZ follows) 
+      (NP 
+        (NP (JJ several) (NNS comments) 
+          (SBAR (-NONE- *ICH*-2) ))
+        (PP (IN by) 
+          (NP (NN government) (NNS officials) ))
+        (SBAR-2 (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NN government) )
+            (VP (MD will) 
+              (VP (VB speed) 
+                (PRT (RP up) )
+                (NP 
+                  (NP (DT the) (NN repeal) )
+                  (PP (IN of) 
+                    (NP (DT the) (NN tax) ))
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-7 (WDT which) )
+                    (S 
+                      (NP-SBJ-1 (-NONE- *T*-7) )
+                      (VP (VBD was) 
+                        (ADVP (RB originally) )
+                        (VP (VBN scheduled) 
+                          (S 
+                            (NP-SBJ (-NONE- *-1) )
+                            (VP (TO to) 
+                              (VP (VB fall) 
+                                (PP-TMP (IN with) 
+                                  (NP 
+                                    (NP (DT the) (NN start) )
+                                    (PP (IN of) 
+                                      (NP 
+                                        (NP (DT the) (JJ single) (JJ internal) (NN market) )
+                                        (PP-LOC (IN in) 
+                                          (NP (DT the) (NNP European) (NNP Community) ))))
+                                    (PP-TMP (IN at) 
+                                      (NP 
+                                        (NP (DT the) (NN end) )
+                                        (PP (IN of) 
+                                          (NP (CD 1992) ))))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ securities-turnover) (NN tax) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (ADVP-TMP (RB long) )
+        (VP (VBN criticized) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS (DT the) 
+              (ADJP (JJ West) (JJ German) )
+              (JJ financial) (NN community) ))
+          (SBAR-PRP (IN because) 
+            (S 
+              (NP-SBJ-2 (PRP it) )
+              (VP (VBZ tends) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB drive) 
+                      (NP 
+                        (NP (NNS securities) (NN trading) )
+                        (CC and) 
+                        (NP (JJ other) (NN banking) (NNS activities) ))
+                      (PP-DIR (IN out) 
+                        (PP (IN of) 
+                          (NP (NNP Frankfurt) )))
+                      (PP-DIR (IN into) 
+                        (NP 
+                          (NP (JJ rival) (JJ financial) (NNS centers) )
+                          (, ,) 
+                          (NP 
+                            (NP (RB especially) (NNP London) )
+                            (, ,) 
+                            (SBAR 
+                              (WHADVP-3 (WRB where) )
+                              (S 
+                                (NP-SBJ-4 (NN trading) (NNS transactions) )
+                                (VP (VBZ is) (RB n't) 
+                                  (VP (VBN taxed) 
+                                    (NP (-NONE- *-4) )
+                                    (ADVP-LOC (-NONE- *T*-3) )))))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NN tax) )
+      (VP (VBZ has) 
+        (VP (VBN raised) 
+          (NP 
+            (NP 
+              (QP (JJR less) (IN than) (CD one) (CD billion) )
+              (NNS marks) )
+            (PRN 
+              (-LRB- -LRB-)
+              (NP 
+                (QP ($ $) (CD 545.3) (CD million) )
+                (-NONE- *U*) )
+              (-RRB- -RRB-) ))
+          (ADVP-TMP (RB annually) )
+          (PP-TMP (IN in) 
+            (NP (JJ recent) (NNS years) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-1 (DT the) (NN government) )
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (ADJP-PRD (JJ reluctant) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB abolish) 
+                  (NP (DT the) (NN levy) )
+                  (PP (IN for) 
+                    (NP (JJ budgetary) (NNS concerns) )))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT the) (NN interview) ))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Haussmann) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB specify) 
+        (NP 
+          (NP (DT the) (NN amount) )
+          (PP (IN of) 
+            (NP (NN revenue) ))
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (DT the) (NN government) )
+              (VP (MD will) 
+                (VP (VB lose) 
+                  (NP (-NONE- *T*-1) )
+                  (SBAR-TMP (IN after) 
+                    (S 
+                      (NP-SBJ (DT the) (NN tax) )
+                      (VP (VBZ disappears) ))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-2 (DT The) (JJ new) (NN date) )
+      (VP (VBZ means) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (DT the) (NN tax) )
+            (VP (MD will) 
+              (VP (VB be) 
+                (ADVP-MNR (RB officially) )
+                (VP (VBN repealed) 
+                  (NP (-NONE- *-1) )
+                  (PP-TMP (IN before) 
+                    (NP 
+                      (NP (DT the) (NN end) )
+                      (PP (IN of) 
+                        (NP (DT the) (JJ current) (JJ parliamentary) (NN term) ))
+                      (PP-TMP (IN at) 
+                        (NP 
+                          (NP (DT the) (NN end) )
+                          (PP (IN of) 
+                            (NP (CD 1990) )))))))))))))
+    (CC and) 
+    (S 
+      (NP-SBJ (-NONE- *-2) )
+      (VP (VBZ guarantees) 
+        (NP (PRP$ its) (NN abolition) )
+        (SBAR-ADV (RB even) (IN if) 
+          (S 
+            (NP-SBJ (DT the) (JJ current) (JJ center-right) (NN coalition) )
+            (VP (VBZ loses) 
+              (NP (DT the) (NNS elections) )
+              (PP-TMP (IN in) 
+                (NP (NNP December) (CD 1990) )))))))
+    (. .) ))

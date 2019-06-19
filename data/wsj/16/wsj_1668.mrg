@@ -1,0 +1,199 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Financial) (NNP Corp.) )
+      (PP (IN of) 
+        (NP (NNP Santa) (NNP Barbara) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD rescheduled) 
+            (PP-CLR (TO to) 
+              (NP (VB Nov.) (CD 29) ))
+            (NP 
+              (NP (DT a) (JJ special) (NN shareholder) (NN meeting) )
+              (SBAR 
+                (WHADVP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB vote) 
+                      (PP-CLR (IN on) 
+                        (NP (DT a) 
+                          (ADJP 
+                            (QP ($ $) (CD 75) (CD million) )
+                            (-NONE- *U*) )
+                          (JJ stock-for-debt) (NN exchange) ))
+                      (ADVP-LOC (-NONE- *T*-1) ))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (DT The) (NN meeting) )
+      (VP (VBD had) 
+        (VP (VBN been) 
+          (VP (VBN scheduled) 
+            (NP (-NONE- *-1) )
+            (PP-CLR (IN for) 
+              (NP (NNP Nov.) (CD 10) ))))))
+    (CC but) 
+    (S 
+      (NP-SBJ-2 (DT the) (NN company) )
+      (VP (VBD delayed) 
+        (NP (DT the) (NN meeting) )
+        (S-PRP 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB allow) 
+              (NP 
+                (NP (NN time) )
+                (SBAR 
+                  (WHADVP-3 (-NONE- 0) )
+                  (IN for) 
+                  (S 
+                    (NP-SBJ (DT the) (NNP Securities) 
+                      (CC and)
+                      (NNP Exchange) (NNP Commission) )
+                    (VP (TO to) 
+                      (VP (VB review) 
+                        (NP (DT the) (NN proposal) )
+                        (ADVP-TMP (-NONE- *T*-3) )))))))))))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (NP 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT a) (VBG restructuring) )
+            (VP (VBD announced) 
+              (NP (-NONE- *) )
+              (NP-TMP (RBR earlier) (DT this) (NN year) ))))))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NN company) )
+    (VP (VBN proposed) 
+      (PP-TMP (IN in) 
+        (NP (NNP August) ))
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB exchange) 
+            (NP (CD 168) 
+              (ADJP (RB newly) (VBN issued) )
+              (JJ common) (NNS shares) )
+            (PP-CLR (IN for) 
+              (NP 
+                (NP (DT each) ($ $) (CD 1,000) (-NONE- *U*) (NN face) (NN value) )
+                (PP (IN of) 
+                  (NP (NN debt) ))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (ADVP (RB However) )
+      (, ,) 
+      (NP-SBJ-1 (DT that) (NN figure) )
+      (VP (MD could) 
+        (VP (VB be) 
+          (VP (VBN revised) 
+            (NP (-NONE- *-1) )))))
+    (, ,) 
+    (NP-SBJ (NNP Financial) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Currently) )
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBZ has) 
+      (NP 
+        (NP 
+          (QP (RB about) (CD six) (CD million) )
+          (JJ common) (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ-1 (DT all) (DT the) (NN debt) )
+        (VP (VBD was) 
+          (VP (VBN converted) 
+            (NP (-NONE- *-1) )))))
+    (, ,) 
+    (NP-SBJ-2 
+      (QP (RB about) (CD 13) (CD million) )
+      (JJ new) (NNS shares) )
+    (VP (MD would) 
+      (VP (VB be) 
+        (VP (VBN issued) 
+          (NP (-NONE- *-2) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ composite) (NN trading) ))
+    (NP-TMP (NNP Wednesday) )
+    (PP-LOC (IN on) 
+      (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))
+    (, ,) 
+    (NP-SBJ (NNP Financial) (NNP Corp.) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP ($ $) (CD 1.125) (-NONE- *U*) ))
+      (, ,) 
+      (ADJP-CLR (JJ unchanged) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN debt) )
+    (VP (VBZ consists) 
+      (PP-CLR (IN of) 
+        (NP 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 50) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (ADJP 
+                    (QP (CD 13) (CD 3\/8) )
+                    (NN %) )
+                  (VBN subordinated) (NNS notes) )
+                (ADJP (JJ due) 
+                  (NP-TMP (CD 1998) )))))
+          (, ,) 
+          (CC and)
+          (NP 
+            (NP 
+              (QP ($ $) (CD 25) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (ADJP (CD 9) (NN %) )
+                  (JJ convertible) (VBN subordinated) (NNS debentures) )
+                (ADJP (JJ due) 
+                  (NP-TMP (CD 2012) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Financial) (NNP Corp.) )
+    (ADVP (RB also) )
+    (VP (VBZ is) 
+      (VP (VBG proposing) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB exchange) 
+              (NP 
+                (NP (DT each) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (PRP$ its) (CD 130,000) (JJ outstanding) (NNS shares) )
+                    (PP (IN of) 
+                      (NP (JJ cumulative) (NN convertible) (VBN preferred) (NN series) (NNP A) (NN stock) )))))
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP (CD two) (NNS shares) )
+                  (PP (IN of) 
+                    (NP (NN common) )))))))))
+    (. .) ))

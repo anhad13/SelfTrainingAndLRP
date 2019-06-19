@@ -1,0 +1,52 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Control) (NNP Data) (NNP Corp.) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB sell) 
+            (NP 
+              (NP (PRP$ its) (JJ idle) (NN supercomputer) (NN manufacturing) (NN plant) )
+              (ADVP-LOC (RB here) ))
+            (PP-DTV (TO to) 
+              (NP (NNP Minnesota) (NNP Mining) (CC &) (NNP Manufacturing) (NNP Co.) ))
+            (PP-CLR (IN for) 
+              (NP 
+                (QP ($ $) (CD 5.8) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ tentative) (NN agreement) )
+    (VP (VBZ calls) 
+      (SBAR-CLR (IN for) 
+        (S 
+          (NP-SBJ (NNP 3M) )
+          (VP (TO to) 
+            (VP (VB use) 
+              (NP 
+                (NP (DT the) (JJ 115,000-square-foot) (NN plant) )
+                (CC and) 
+                (NP 
+                  (NP (CD 19) (NNS acres) )
+                  (PP (IN of) 
+                    (NP (NN land) ))))
+              (PP-CLR (IN for) 
+                (NP (NN research) (NNS laboratories) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Control) (NNP Data) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (VP (VBG seeking) 
+          (NP 
+            (NP (DT a) (NN buyer) )
+            (PP (IN for) 
+              (NP (DT the) (NN facility) )))
+          (SBAR-TMP (IN since) 
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (VBD folded) 
+                (NP (PRP$ its) (NNP ETA) (NNPS Systems) (NNP Inc.) (NN supercomputer) (NN unit) )
+                (NP-TMP (DT this) (JJ past) (NNP April) )))))))
+    (. .) ))

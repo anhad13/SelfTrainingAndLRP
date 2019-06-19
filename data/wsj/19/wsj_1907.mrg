@@ -1,0 +1,177 @@
+
+( (S 
+    (NP-SBJ (NNP Mesa) (NNP Airlines) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN takeover) (NN offer) )
+            (SBAR 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (VBD received) 
+                  (NP (-NONE- *T*-1) )
+                  (NP-TMP (RBR earlier) (DT this) (NN week) )
+                  (PP-DIR (IN from) 
+                    (NP (NNP StatesWest) (NNP Airlines) ))))))
+          (VP (VBZ is) 
+            (PP-PRP-PRD (IN for) 
+              (NP 
+                (NP (DT a) (NN combination) )
+                (PP (IN of) 
+                  (NP (NN cash) 
+                    (CC and)
+                    (NNS securities) ))
+                (VP (VBN valued) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS (NNP StatesWest) ))
+                  (PP-CLR (IN at) 
+                    (NP 
+                      (NP ($ $) (CD 10) (-NONE- *U*) )
+                      (NP-ADV (DT a) (NNP Mesa) (NN share) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) (NNS companies) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (JJ regional) (NNS carriers) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NNP Southwest) ))))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB When) )
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP (VBD made) 
+          (NP (DT the) (NN offer) )
+          (ADVP-TMP (-NONE- *T*-1) ))))
+    (, ,) 
+    (NP-SBJ-2 (NNP StatesWest) )
+    (VP 
+      (VP (VBD declined) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB disclose) 
+              (NP (NNS details) )))))
+      (CC and) 
+      (VP (VBD asked) 
+        (NP-3 (NNP Mesa) )
+        (S 
+          (NP-SBJ (-NONE- *-3) )
+          (VP (TO to) 
+            (VP (VB do) 
+              (NP (DT the) (JJ same) ))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (ADJP (NNP Farmington) 
+        (, ,)
+        (JJ N.M.-based) )
+      (NNP Mesa) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN offer) )
+          (VP (VBD was) 
+            (PP-PRP-PRD (IN for) 
+              (NP 
+                (NP 
+                  (NP ($ $) (CD 7) (-NONE- *U*) )
+                  (PP-LOC (IN in) 
+                    (NP (NN cash) )))
+                (CC and) 
+                (NP 
+                  (NP (JJ unspecified) (NNP StatesWest) (NNS securities) )
+                  (VP (VBN valued) 
+                    (NP (-NONE- *) )
+                    (PP-CLR (IN at) 
+                      (NP 
+                        (NP ($ $) (CD 3) (-NONE- *U*) )
+                        (NP-ADV (DT a) (NN share) )))))))))))
+    (. .) ))
+( (S 
+    (PP (VBN Based) 
+      (PP (IN on) 
+        (NP 
+          (NP (DT the) (NN number) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Mesa) (NNS shares) )
+              (ADJP (JJ outstanding) )
+              (VP (RB not) 
+                (ADVP-TMP (RB already) )
+                (VBN owned) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS (NNP StatesWest) ))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (JJ proposed) (NN takeover) )
+    (VP (MD would) 
+      (VP (VB have) 
+        (NP 
+          (NP (DT a) (NN value) )
+          (PP (IN of) 
+            (NP 
+              (QP (RB about) ($ $) (CD 15.3) (CD million) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP StatesWest) )
+    (VP (VBZ owns) 
+      (NP 
+        (NP (CD 7.25) (NN %) )
+        (PP (IN of) 
+          (NP (NNP Mesa) ))))
+    (. .) ))
+( (S 
+    (NP-TMP (JJ Last) (NN week) )
+    (, ,) 
+    (NP-SBJ (NNP Mesa) )
+    (VP (VBD rejected) 
+      (NP 
+        (NP (DT a) (JJ general) (NN proposal) 
+          (SBAR (-NONE- *ICH*-1) ))
+        (PP (IN from) 
+          (NP (JJS StatesWest) ))
+        (SBAR-1 (IN that) 
+          (S 
+            (NP-SBJ (DT the) (CD two) (NNS carriers) )
+            (VP (VB combine) )))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (NN response) )
+        (PP (TO to) 
+          (NP (DT the) (JJ specific) (NN offer) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Gary) (NNP Risley) )
+      (, ,) 
+      (NP (NNP Mesa) (NN vice) (NN president) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN management) )
+          (VP (MD will) 
+            (VP (VB ask) 
+              (NP-1 (NNS directors) )
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB employ) 
+                    (NP 
+                      (NP (DT a) (JJ financial) (NN consultant) )
+                      (SBAR 
+                        (WHNP-2 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-2) )
+                          (VP (TO to) 
+                            (VP (VB advise) 
+                              (NP (PRP them) ))))))))))))))
+    (. .) ))

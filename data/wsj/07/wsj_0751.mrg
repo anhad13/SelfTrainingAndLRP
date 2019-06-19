@@ -1,0 +1,82 @@
+
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (NNP Dime) (NNPS Savings) (NNP Bank) )
+        (PP (IN of) 
+          (NP (NNP New) (NNP York) )))
+      (VP (VBD was) 
+        (VP (VBN cleared) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS (DT the) (NNP Federal) (NNP Deposit) (NNP Insurance) (NNP Corp.) ))
+          (S-CLR 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB acquire) 
+                (NP 
+                  (NP (NNP Starpointe) (NNPS Savings) (NNP Bank) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Somerset) )
+                      (, ,) 
+                      (NP (NNP N.J.) )
+                      (, ,) )))))))))
+    (NP-SBJ (DT the) (NNS banks) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Starpointe) (NNS holders) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD approved) 
+            (NP (DT the) (NN plan) )
+            (NP-TMP (JJ last) (NNP April) ))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB receive) 
+        (NP 
+          (NP 
+            (NP ($ $) (CD 21) (-NONE- *U*) )
+            (PP (IN in) 
+              (NP (NN cash) ))
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) (CC or) 
+          (NP (DT a) 
+            (QP (JJ total) ($ $) (CD 63) (CD million) )
+            (-NONE- *U*) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NNP FDIC) )
+      (VP (VBD cleared) 
+        (NP (DT the) (NN move) )
+        (NP-TMP (NN yesterday) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-1 (DT the) (NNS banks) )
+      (VP (MD must) 
+        (VP (VB wait) 
+          (NP-TMP 
+            (QP (IN at) (JJS least) (CD 30) )
+            (NNS days) )
+          (PP-TMP (IN before) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VBG closing) 
+                (NP (DT the) (NN purchase) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT A) (NN closing) (NN date) )
+    (VP (VBZ has) (RB n't) 
+      (VP (VBN been) 
+        (VP (VBN set) 
+          (NP (-NONE- *-1) ))))
+    (. .) ))

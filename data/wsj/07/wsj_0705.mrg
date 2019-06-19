@@ -1,0 +1,81 @@
+
+( (S 
+    (NP-SBJ (NNP Bausch) (CC &) (NNP Lomb) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB introduce) 
+                  (NP-TMP (JJ next) (NN year) )
+                  (NP 
+                    (NP (DT a) (JJ new) (NN line) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNS sunglasses) )
+                        (VP (VBG containing) 
+                          (NP 
+                            (NP (NN melanin) )
+                            (, ,) 
+                            (NP 
+                              (NP (DT the) (NN pigment) )
+                              (SBAR 
+                                (WHNP-1 (WDT that) )
+                                (S 
+                                  (NP-SBJ (-NONE- *T*-1) )
+                                  (VP (VBZ protects) 
+                                    (PP-CLR (IN against) 
+                                      (NP 
+                                        (NP (NN damage) )
+                                        (PP (IN from) 
+                                          (NP (JJ ultraviolet) (NNS rays) ))))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ optical) (NNS products) (NN company) )
+    (VP (VBZ has) 
+      (VP (VBN signed) 
+        (NP (DT a) (NN licensing) (NN agreement) )
+        (PP-CLR (IN with) 
+          (NP 
+            (NP (NNP Photoprotective) (NNPS Technologies) (NNP Inc.) )
+            (, ,) 
+            (NP 
+              (NP (DT a) 
+                (ADJP 
+                  (ADVP (RB closely) )
+                  (JJ held) )
+                (NN firm) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (NNP San) (NNP Antonio) )
+                  (, ,) 
+                  (NP (NNP Texas) )))
+              (, ,) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBZ has) 
+                    (VP (VBN developed) 
+                      (NP 
+                        (NP (DT a) (NN method) )
+                        (SBAR 
+                          (WHADVP-2 (-NONE- 0) )
+                          (S 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (TO to) 
+                              (VP (VB incorporate) 
+                                (NP (DT the) (JJ synthetic) (NN melanin) )
+                                (PP-CLR (IN into) 
+                                  (NP (JJ plastic) (NNS lenses) ))
+                                (ADVP-MNR (-NONE- *T*-2) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))

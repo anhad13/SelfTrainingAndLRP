@@ -1,0 +1,76 @@
+
+( (S 
+    (NP-SBJ (NNP CRI) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reduced) 
+            (NP 
+              (NP (DT the) (VBN estimated) (NN cash) (NN distribution) )
+              (PP (IN for) 
+                (NP (PRP$ its) (NNP Capital) (NNP Housing) 
+                  (CC and)
+                  (NNP Mortgage) (NNPS Partners) (NNP Inc.) (NN trust) )))
+            (PP-DIR (TO to) 
+              (PP (IN between) 
+                (NP 
+                  (NP 
+                    (NP (CD 71) (NNS cents) )
+                    (CC and) 
+                    (NP (CD 74) (NNS cents) ))
+                  (NP-ADV (DT a) (NN share) ))))
+            (, ,) 
+            (PP-DIR (IN from) 
+              (PP (IN between) 
+                (NP 
+                  (NP (CD 75) (NNS cents) )
+                  (CC and) 
+                  (NP (CD 80) (NNS cents) ))))
+            (, ,) 
+            (PP-TMP (IN for) 
+              (NP 
+                (NP (DT the) (NN year) )
+                (VP (VBG ending) 
+                  (NP-TMP-CLR (NNP June) (CD 9) 
+                    (, ,)
+                    (CD 1990) ))))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (NN change) )
+        (PP (IN in) 
+          (NP 
+            (NP (JJ expected) (NN cash) (NNS distributions) )
+            (PP (IN from) 
+              (NP (DT the) (NNP Champs) (JJ real) (NN estate) (NN investment) (NN trust) )))))
+      (VP (VBZ stems) 
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (DT a) (VBN revised) (NN estimate) )
+            (PP (IN of) 
+              (NP (JJ administrative) (NNS costs) ))))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (NNP Jay) (NNP R.) (NNP Cohen) )
+      (, ,) 
+      (NP (NNP Champs) (NN executive) (NN vice) (NN president) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP CRI) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ sponsors) 
+            (NP (NNP Champs) ))))
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD (DT a) (JJ world-wide) (JJ real) (NN estate) (NN investment) (NN firm) ))
+    (. .) ))

@@ -1,0 +1,131 @@
+
+( (NP-HLN (NNS PAPERS) (: :) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Thomson) (NNP Corp.) (POS 's) )
+      (NNP Globe) (CC &) (NNP Mail) (NN newspaper) )
+    (PP-TMP (IN in) 
+      (NP (NNP November) ))
+    (VP (MD will) 
+      (VP (VB begin) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG transmitting) 
+            (NP (DT an) (JJ experimental) (NN edition) )
+            (PP-CLR (TO to) 
+              (NP 
+                (NP (VBN selected) (NNS subscribers) (POS ') )
+                (JJ facsimile) (NNS machines) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ four-page) (NN news) (NN summary) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN aimed) 
+          (NP (-NONE- *-1) )
+          (PP-DIR (IN at) 
+            (NP 
+              (NP (NNS readers) )
+              (PP-LOC 
+                (PP (IN outside) 
+                  (NP (NNP Canada) ))
+                (CC or) 
+                (PP (IN in) 
+                  (NP 
+                    (NP (JJ Canadian) (NNS locations) )
+                    (SBAR 
+                      (WHADVP-2 (WRB where) )
+                      (S 
+                        (NP-SBJ (DT the) (JJ national) (NN daily) )
+                        (VP (VBZ is) (RB n't) 
+                          (ADJP-PRD (JJ available) )
+                          (ADVP-LOC (-NONE- *T*-2) )
+                          (PP-TMP (IN on) 
+                            (NP 
+                              (NP (DT the) (NN day) )
+                              (PP (IN of) 
+                                (NP (NN publication) )))))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT the) (NNP U.S.) ))
+    (, ,) 
+    (S 
+      (NP-SBJ (DT the) (NNP Hartford) (NNP Courant) )
+      (VP (VBZ has) 
+        (NP (DT a) (JJ facsimile) (NN edition) )))
+    (CC and) 
+    (S 
+      (NP-SBJ (DT some) (JJ other) (NNS newspapers) )
+      (VP (VBP are) 
+        (VP (VBG considering) 
+          (NP (DT the) (NN idea) ))))
+    (. .) ))
+( (SBARQ-HLN 
+    (WHNP-2 (WP WHO) )
+    (SQ 
+      (NP-SBJ (-NONE- *T*-2) )
+      (VP (VBZ 'S) 
+        (NP-PRD (NNP NEWS) )))
+    (: :) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Michael) (NNP T.) (NNP Carr) )
+      (, ,) 
+      (NP 
+        (NP (VBG advertising) (NN director) )
+        (PP (IN of) 
+          (NP (NNP Playboy) (NN magazine) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (NN publisher) )
+            (PP (IN of) 
+              (NP (NNP National) (NNP Lampoon) 
+                (CC and)
+                (NNP Heavy) (NNP Metal) (NNS magazines) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG succeeding) 
+            (NP (NNP George) (NNP Agoglia) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT the) (JJ first) (NN management) (NN change) )
+        (SBAR-TMP (IN since) 
+          (S 
+            (NP-SBJ (NNS film-makers) (NNP Daniel) (NNP Grodnik) 
+              (CC and)
+              (NNP Tim) (NNP Matheson) )
+            (VP (VBD took) 
+              (NP-CLR (NN control) )
+              (PP-CLR (IN of) 
+                (NP (NNP National) (NNP Lampoon) (NNP Inc.) ))
+              (PP-TMP (IN in) 
+                (NP (NNP March) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP They) )
+    (VP 
+      (VP (VBP are) 
+        (VP (VBG looking) 
+          (PP-CLR (IN for) 
+            (NP 
+              (NP (DT a) (JJ new) (NN editor) )
+              (PP (IN for) 
+                (NP (NNP National) (NNP Lampoon) ))))))
+      (CC and) 
+      (VP (VBP are) 
+        (VP (VBG trying) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB sell) 
+                (NP (NNP Heavy) (NNP Metal) )))))))
+    (. .) ))

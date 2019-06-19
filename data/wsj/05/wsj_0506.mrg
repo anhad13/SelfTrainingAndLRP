@@ -1,0 +1,86 @@
+
+( (S 
+    (NP-SBJ (NNP McDonnell) (NNP Douglas) (NNP Corp.) )
+    (VP (VBD received) 
+      (NP 
+        (NP (NNS contracts) )
+        (VP (VBG totaling) 
+          (NP 
+            (QP ($ $) (CD 244.8) (CD million) )
+            (-NONE- *U*) ))
+        (PP (IN for) 
+          (NP 
+            (NP 
+              (NP (CD 72) (NN F-A-18) (NN aircraft) )
+              (PP (IN for) 
+                (NP (DT the) (NNP Navy) ))))
+          (CC and) 
+          (NP 
+            (NP (NN helicopter) (JJ spare) (NNS parts) )
+            (PP (IN for) 
+              (NP (DT the) (NNP Army) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Aerojet) (NNP General) (NNP Corp.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP (NNP GenCorp) (NNP Inc.) ))))
+    (, ,) 
+    (VP (VBD was) 
+      (VP (VBN awarded) 
+        (NP (-NONE- *-1) )
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (QP ($ $) (CD 40.1) (CD million) )
+              (-NONE- *U*) )
+            (NNP Air) (NNP Force) (NN contract) )
+          (PP (IN for) 
+            (NP (NNP Minuteman) (NN missile) (NN rocket) (NNS motors) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Rockwell) (NNP International) (NNP Corp.) )
+    (VP (VBD received) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 26.7) (CD million) )
+            (-NONE- *U*) )
+          (NNP Navy) (NN contract) )
+        (PP (IN for) 
+          (NP (JJ submarine) (JJ ballistic) (NNS missiles) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Honeywell) (NNP Inc.) )
+    (VP (VBD got) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 22.3) (CD million) )
+            (-NONE- *U*) )
+          (NNP Navy) (NN contract) )
+        (PP (IN for) 
+          (NP (NN aircraft) (NN missile) (VBG warning) (NNS sets) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Beech) (NNP Aircraft) (NNP Corp.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP (NNP Raytheon) (NNP Co.) )))
+      (, ,) )
+    (VP (VBD received) 
+      (NP 
+        (NP (DT an) 
+          (ADJP 
+            (QP ($ $) (CD 11.5) (CD million) )
+            (-NONE- *U*) )
+          (NNP Air) (NNP Force) (NN contract) )
+        (PP (IN for) 
+          (NP (NN C-12) (NN aircraft) (NN support) ))))
+    (. .) ))

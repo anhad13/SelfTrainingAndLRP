@@ -1,0 +1,103 @@
+
+( (S 
+    (NP-SBJ (DT The) (JJ average) (NN interest) (NN rate) )
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP (CD 8.337) (NN %) ))
+      (PP-LOC (IN at) 
+        (NP 
+          (NP 
+            (NP (NNP Citicorp) (POS 's) )
+            (ADJP 
+              (QP ($ $) (CD 50) (CD million) )
+              (-NONE- *U*) )
+            (JJ weekly) (NN auction) )
+          (PP (IN of) 
+            (NP 
+              (NP (JJ 91-day) (JJ commercial) (NN paper) )
+              (, ,) (CC or) 
+              (NP (JJ corporate) (NNS IOUs) )
+              (, ,) ))))
+      (PP-DIR (IN from) 
+        (NP (CD 8.292) (NN %) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (JJ last) (NN week) (POS 's) )
+            (NN sale) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Bids) )
+      (VP (VBG totaling) 
+        (NP 
+          (QP ($ $) (CD 475) (CD million) )
+          (-NONE- *U*) )))
+    (VP (VBD were) 
+      (VP (VBN submitted) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Accepted) (NNS bids) )
+    (VP (VBN ranged) 
+      (PP-CLR 
+        (PP (IN from) 
+          (NP (CD 8.328) (NN %) ))
+        (PP (TO to) 
+          (NP (CD 8.347) (NN %) ))))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ (NNP Citicorp) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (JJ average) (NN rate) )
+          (VP (VBD fell) 
+            (PP-DIR (TO to) 
+              (NP (CD 7.962) (NN %) ))
+            (PP-LOC (IN at) 
+              (NP 
+                (NP (PRP$ its) 
+                  (ADJP 
+                    (QP ($ $) (CD 50) (CD million) )
+                    (-NONE- *U*) )
+                  (NN auction) )
+                (PP (IN of) 
+                  (NP (JJ 182-day) (JJ commercial) (NN paper) ))))
+            (PP-DIR (IN from) 
+              (NP (CD 7.986) (NN %) )
+              (PP-LOC (IN at) 
+                (NP 
+                  (NP (JJ last) (NN week) (POS 's) )
+                  (NN sale) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Bids) )
+      (VP (VBG totaling) 
+        (NP 
+          (QP ($ $) (CD 425) (CD million) )
+          (-NONE- *U*) )))
+    (VP (VBD were) 
+      (VP (VBN submitted) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Accepted) (NNS bids) )
+    (VP (VBD were) (DT all) 
+      (PP-PRD (IN at) 
+        (NP (CD 7.962) (NN %) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN bank) (VBG holding) (NN company) )
+    (VP (MD will) 
+      (VP (VB auction) 
+        (NP 
+          (NP (DT another) 
+            (QP ($ $) (CD 50) (CD million) )
+            (-NONE- *U*) )
+          (PP (IN in) 
+            (NP (DT each) (NN maturity) )))
+        (NP-TMP (IN next) (NNP Tuesday) )))
+    (. .) ))

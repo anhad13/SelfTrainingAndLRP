@@ -1,0 +1,106 @@
+
+( (S-HLN 
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Follow) 
+      (PP-MNR (IN With) 
+        (NP (NN Care) )))))
+( (S 
+    (S (`` ``) 
+      (S-SBJ 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (VB Work) 
+            (ADVP-MNR (RB hard) )))
+        (, ,) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (VB play) 
+            (ADVP-MNR (RB hard) ))))
+      ('' '') 
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (NN advice) )
+          (VP 
+            (ADVP (RBS Best) )
+            (VBN taken) 
+            (NP (-NONE- *) )
+            (PP-MNR (IN with) 
+              (NP (DT some) (NN caution) ))))))
+    (, ,) (IN For) 
+    (S 
+      (NP-SBJ (PRP it) )
+      (VP (MD can) 
+        (VP (VB bring) 
+          (NP 
+            (NP (NN fitness) 
+              (CC and)
+              (NN success) )
+            (CC Or) 
+            (NP 
+              (NP (DT a) (NN state) )
+              (PP (IN of) 
+                (NP (JJ total) (NN exhaustion) )))))))
+    (. .) ))
+( (NP (: --) (NNP Edward) (NNP F.) (NNP Dempsey) (. .) ))
+( (NP-HLN (RB Double) (VB Check) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NN guest) )
+      (VP (VBD paid) 
+        (NP (PRP$ his) (NN bill) )
+        (PP-LOC (IN at) 
+          (NP (DT the) (NN resort) (NN hotel) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (SBAR-TMP (IN as) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD departed) )))
+      (NP-SBJ (PRP he) )
+      (VP (VBD noticed) 
+        (NP 
+          (NP (DT a) (NN sign) )
+          (VP (VBG saying) 
+            (, ,)
+            (`` ``) 
+            (SQ (VBP Have) 
+              (NP-SBJ (PRP You) )
+              (VP (VBN Left) 
+                (NP (NN Anything) ))
+              (. ?) )
+            ('' '') ))))))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (NN man) )
+      (VP 
+        (VP (VBD went) 
+          (ADVP-DIR (RB back) ))
+        (CC and) 
+        (VP (VBD spoke) 
+          (PP-CLR (TO to) 
+            (NP (DT the) (NN desk) (NN clerk) )))))
+    (: :) 
+    (S (`` ``) 
+      (S-TPC-1 
+        (NP-SBJ (DT That) (NN sign) )
+        (VP (VBZ is) 
+          (ADJP-PRD (JJ wrong) )))
+      (, ,) ('' '') 
+      (NP-SBJ (PRP he) )
+      (VP (VBD said) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (PRP It) )
+    (VP (MD should) 
+      (VP (VB read) 
+        (, ,)
+        (`` ``) 
+        (SQ (VBP Have) 
+          (NP-SBJ (PRP You) )
+          (NP 
+            (NP (NN Anything) )
+            (ADJP (VBN Left) )))))
+    (. ?) ('' '') ))
+( (NP (: --) (NNP Sam) (NNP Ewing) (. .) ))

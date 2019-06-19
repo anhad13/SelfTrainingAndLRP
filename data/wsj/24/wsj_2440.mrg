@@ -1,0 +1,210 @@
+
+( (S 
+    (NP-SBJ (NNP Business) (NNP Week) (NNS subscribers) )
+    (VP (MD may) 
+      (VP (VB hear) 
+        (S 
+          (NP-SBJ 
+            (NP (DT this) (NN week) (POS 's) )
+            (NN issue) )
+          (VP (VBG talking) 
+            (ADVP-CLR (RB back) )
+            (PP-CLR (TO to) 
+              (NP (PRP them) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT A) (JJ four-page) (NN ad) )
+        (PP (IN from) 
+          (NP (NNP Texas) (NNPS Instruments) (NNP Inc.) )))
+      (, ,) 
+      (VP (VBG running) 
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP 
+              (QP (RB approximately) (CD 140,000) )
+              (NNS issues) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NNP Oct.) (CD 20) (`` ``) 
+                  (NAC-TTL (NNP Corporate) (NNP Elite) )
+                  ('' '') (NN issue) )
+                (PP (IN of) 
+                  (NP (DT the) (NNP McGraw-Hill) (NNP Inc.) (NN publication) )))))))
+      (, ,) )
+    (VP (VBZ contains) 
+      (NP 
+        (NP (DT a) (NN speech) (NN synthesizer) )
+        (VP (VBN laminated) 
+          (NP (-NONE- *) )
+          (PP-LOC (IN between) 
+            (NP 
+              (NP (CD two) )
+              (PP (IN of) 
+                (NP (DT the) (NNS pages) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Readers) )
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP 
+            (VP (VBP pull) 
+              (PRT (RP off) )
+              (NP 
+                (NP (DT a) (NN piece) )
+                (PP (IN of) 
+                  (NP (NN tape) ))))
+            (CC and) 
+            (VP (VB press) 
+              (NP (DT a) (NN switch) ))))))
+    (VP (MD will) 
+      (VP (VB hear) 
+        (S 
+          (NP-SBJ (DT a) 
+            (ADJP 
+              (ADJP (JJ tiny) )
+              (PRN (: --) (CC but) 
+                (ADJP (RB distinctly) (JJ human-sounding) )
+                (: --) ))
+            (NN voice) )
+          (VP (VB announce) 
+            (, ,)
+            (`` ``) 
+            (S 
+              (NP-SBJ (PRP I) )
+              (VP (VBP am) 
+                (NP-PRD (DT the) (VBG talking) (NN chip) )))
+            (, ,) ('' '') 
+            (SBAR-TMP (IN as) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (VBZ launches) 
+                  (PP-DIR (IN into) 
+                    (NP 
+                      (NP (DT a) (JJ 15-second) (NN discourse) )
+                      (PP (IN on) 
+                        (NP (PRP$ its) (JJ own) (NNS attributes) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (VBG talking) (NN chip) )
+      (VP (VBZ is) (RB n't) 
+        (ADJP-PRD (JJ cheap) )))
+    (PRN (: --) 
+      (S 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (JJ per-ad) (NN cost) )
+            (PP (TO to) 
+              (NP (NNP Texas) (NNPS Instruments) )))
+          (VP (VBZ is) 
+            (NP-PRD 
+              (QP (IN about) ($ $) (CD 4) )
+              (-NONE- *U*) )))
+        (, ,) 
+        (CC and)
+        (S 
+          (NP-SBJ (DT that) )
+          (VP (VBZ 's) 
+            (PP-PRD (IN without) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG adding) 
+                  (PRT (RP in) )
+                  (NP 
+                    (NP (NNP Business) (NNP Week) (POS 's) )
+                    (NN charge) )))))))
+      (: --) )
+    (CC but) 
+    (S 
+      (NP-SBJ (NNP Texas) (NNPS Instruments) )
+      (VP (VBZ believes) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ is) 
+              (NP-PRD (DT a) (JJ first) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (JJ Previous) (NNS efforts) )
+      (VP (VBP have) 
+        (VP (VBN included) 
+          (NP 
+            (NP (JJ musical) (NNS ads) )
+            (, ,) 
+            (VP (VBG featuring) 
+              (NP 
+                (NP (JJ simple) (JJ tone-generating) (NNS chips) )
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBP play) 
+                      (NP (DT a) (NN tune) ))))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (DT the) (NN voice) (NN synthesizer) )
+        (PP-LOC (IN in) 
+          (NP (DT this) (NN effort) )))
+      (VP (VBZ is) 
+        (ADJP-PRD 
+          (ADVP (RB much) (RBR more) )
+          (JJ sophisticated) )
+        (, ,) 
+        (PP (IN with) 
+          (NP 
+            (NP (NN none) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (JJ robotic) (NN flatness) )
+                (SBAR 
+                  (WHNP-2 (IN that) )
+                  (S 
+                    (NP-SBJ-4 (NN one) )
+                    (VP (VBZ hears) 
+                      (NP (-NONE- *T*-2) )
+                      (, ,) 
+                      (PP (IN for) 
+                        (NP (NN example) ))
+                      (, ,) 
+                      (SBAR-TMP 
+                        (WHADVP-3 (WRB when) )
+                        (S 
+                          (NP-SBJ (-NONE- *-4) )
+                          (VP (VBG calling) 
+                            (NP (NN telephone) (NN directory) (NNS services) )
+                            (ADVP-TMP (-NONE- *T*-3) )))))))))))))
+    (. .) ))
+( (S 
+    (S (CC And) 
+      (PP (IN for) 
+        (NP 
+          (NP (DT those) )
+          (SBAR 
+            (WHNP-1 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBP miss) 
+                (NP (DT the) (NN message) )
+                (NP-TMP (DT the) (JJ first) (NN time) (IN around) ))))))
+      (, ,) (RB not) 
+      (NP-SBJ (-NONE- *) )
+      (VP (TO to) 
+        (VP (VB worry) )))
+    (: :) 
+    (S 
+      (NP-SBJ (CD Three) (JJ tiny) (NNS batteries) )
+      (VP (VBP provide) 
+        (NP 
+          (NP (JJ enough) (NN juice) )
+          (PP (IN for) 
+            (NP 
+              (QP (RB as) (JJ many) (IN as) (CD 650) )
+              (NNS replays) )))))
+    (. .) ))

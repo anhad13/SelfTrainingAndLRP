@@ -1,0 +1,38 @@
+
+( (S 
+    (NP-SBJ (JJ Swedish) (NN auto) 
+      (CC and)
+      (NN aerospace) (NN concern) (NNP Saab-Scania) (NNP AB) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD received) 
+            (NP 
+              (NP (DT a) 
+                (ADJP 
+                  (ADJP 
+                    (QP (CD 250) (CD million) )
+                    (NN krona) )
+                  (PRN 
+                    (-LRB- -LRB-)
+                    (ADJP 
+                      (QP ($ $) (CD 39) (CD million) )
+                      (-NONE- *U*) )
+                    (-RRB- -RRB-) ))
+                (NN order) )
+              (PP (-NONE- *ICH*-1) ))
+            (PP-CLR (IN from) 
+              (NP 
+                (NP (NNP Swiss) (NNP Crossair) )
+                (, ,) 
+                (NP 
+                  (NP (CD one) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Europe) (POS 's) )
+                      (VBG leading) (JJ regional) (NN air) (NNS companies) )))
+                (, ,) ))
+            (PP-1 (IN for) 
+              (NP (CD five) (NNP Saab) (NNP 340B) (NN turboprop) (NN commuter) (NN aircraft) ))))))
+    (. .) ))

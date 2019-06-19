@@ -1,0 +1,228 @@
+
+( (S 
+    (NP-SBJ 
+      (NAC (NNP Bank) 
+        (PP (IN of) 
+          (NP (NNP England) )))
+      (NNP Governor) (NNP Robin) (NNP Leigh-Pemberton) )
+    (VP (VBD urged) 
+      (S 
+        (NP-SBJ-1 (NNS banks) )
+        (VP (TO to) 
+          (VP (VB be) 
+            (ADJP-PRD (JJ cautious) )
+            (PP-LOC (IN in) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG financing) 
+                  (NP (JJ leveraged) (NNS buy-outs) ))))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 (`` ``) 
+      (NP-SBJ (NN Caution) )
+      (VP (MD should) (: ...) 
+        (VP (VB be) 
+          (NP-PRD 
+            (NP (DT the) (NN rule) )
+            (PP (IN of) 
+              (NP (DT the) (NN day) )))))
+      (, ,) ('' '') )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (NNP Mr.) (NNP Leigh-Pemberton) )
+    (PP-LOC (IN in) 
+      (NP 
+        (NP (DT a) (NN speech) )
+        (PP (TO to) 
+          (NP 
+            (NP (DT the) (NNP Association) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Corporate) (NNPS Treasurers) (POS ') )
+                (JJ annual) (NN dinner) ))))))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (PRP It) )
+    (VP (MD would) 
+      (VP (VB be) 
+        (VP (VBG damaging) 
+          (PP-CLR 
+            (PP (TO to) 
+              (NP (NN industry) ))
+            (CC and) 
+            (PP (TO to) 
+              (NP 
+                (NP 
+                  (NP (DT the) (JJ financial) (NN sector) )
+                  (PP (IN in) 
+                    (ADJP (JJ general) )))
+                (PRN 
+                  (, ,)
+                  (S-ADV 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB say) 
+                        (NP 
+                          (NP (NN nothing) )
+                          (PP (IN of) 
+                            (NP (NNS banks) ))))))
+                  (, ,) ))))
+          (SBAR-ADV (IN if) 
+            (S 
+              (NP-SBJ (NN prudence) )
+              (VP (VBZ does) (RB not) 
+                (VP (VB guide) 
+                  (NP 
+                    (NP (DT the) (NN financing) )
+                    (PP (IN of) 
+                      (NP (JJ leveraged) (NNS transactions) ))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ-1 (PRP$ His) (NNS remarks) )
+    (VP (VBD were) 
+      (VP (VBN distributed) 
+        (NP (-NONE- *-1) )
+        (PP-DIR (TO to) 
+          (NP (DT the) (NN press) ))
+        (SBAR-TMP (IN before) 
+          (S 
+            (NP-SBJ 
+              (NAC (NNP Chancellor) 
+                (PP (IN of) 
+                  (NP (DT the) (NNP Exchequer) )))
+              (NNP Nigel) (NNP Lawson) )
+            (VP (VBD announced) 
+              (NP (PRP$ his) (NN resignation) )
+              (NP-TMP (JJ last) (NN evening) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NAC (NNP Bank) 
+        (PP (IN of) 
+          (NP (NNP England) )))
+      (NNS officials) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ central) (NN bank) )
+          (VP (VBD had) 
+            (NP 
+              (NP (DT no) (NN comment) )
+              (PP (IN on) 
+                (NP 
+                  (NP (NNP Mr.) (NNP Lawson) (POS 's) )
+                  (NN resignation) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Leigh-Pemberton) )
+    (VP (VBD reiterated) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN exposure) )
+            (PP (IN of) 
+              (NP (NNP United) (NNP Kingdom) (NNS banks) ))
+            (PP (TO to) 
+              (NP (JJ leveraged) (NNS deals) )))
+          (VP (VBP have) (RB n't) 
+            (ADVP (RB yet) )
+            (VP (VBN reached) 
+              (NP (`` ``) (JJ worrying) (NNS levels) ))))))
+    (. .) ('' '') ))
+( (S 
+    (S-TPC-2 
+      (ADVP (RB However) )
+      (, ,) 
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (NN light) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NNS risks) )
+              (VP (VBN involved) 
+                (NP (-NONE- *) )
+                (PP-CLR (IN in) 
+                  (NP (JJ such) (NNS transactions) )))))))
+      (, ,) 
+      (NP-SBJ (NNS banks) )
+      (VP (MD should) 
+        (VP (VB satisfy) 
+          (NP (PRP themselves) )
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (PRP they) )
+              (VP (VBP have) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NNS skills) )
+                    (SBAR 
+                      (WHADVP-1 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB participate) 
+                            (PP-CLR (IN in) 
+                              (NP (DT this) (NN market) ))
+                            (ADVP-MNR (-NONE- *T*-1) ))))))
+                  (CC and) 
+                  (NP 
+                    (NP (JJ clear) (NN policy) (NNS guidelines) )
+                    (PP (IN on) 
+                      (NP 
+                        (NP (JJ acceptable) (NNS levels) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NN exposure) )
+                            (PP (TO to) 
+                              (NP (JJ such) (NNS transactions) ))))))))))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ other) (NNS comments) ))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNS takeovers) )
+          (VP (MD may) (RB not) 
+            (ADVP-TMP (RB always) )
+            (VP (VB be) 
+              (NP-PRD 
+                (NP (DT the) (RBS most) (JJ efficient) (NN way) )
+                (PP (IN of) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG securing) 
+                      (NP 
+                        (NP (DT a) (NN change) )
+                        (PP (IN of) 
+                          (NP (JJ corporate) (NN direction) (CC or) (NN strategy) ))))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT A) (JJ similar) (NN result) )
+      (VP (MD could) 
+        (ADVP-TMP (RB sometimes) )
+        (VP (VB be) 
+          (VP (VBN achieved) 
+            (, ,)
+            (NP (-NONE- *-1) )
+            (PP-MNR (IN at) 
+              (NP (JJR less) (NN cost) ))
+            (, ,) 
+            (PP-MNR (IN by) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG changing) 
+                  (NP (NNS managements) ))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (. .) ))

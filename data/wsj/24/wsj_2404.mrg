@@ -1,0 +1,671 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (JJ Dismal) (NNS sales) )
+      (PP-LOC (IN at) 
+        (NP (NNP General) (NNPS Motors) (NNP Corp.) )))
+    (VP (VBD dragged) 
+      (NP (DT the) (NNP U.S.) (NN car) 
+        (CC and)
+        (NN truck) (NN market) )
+      (ADVP-DIR (IN down) )
+      (PP-LOC (IN below) 
+        (NP (JJ year-ago) (NNS levels) ))
+      (PP-TMP (IN in) 
+        (NP 
+          (NP (JJ early) (NNP October) )
+          (, ,) 
+          (NP 
+            (NP (DT the) (JJ first) (NNS sales) (NN period) )
+            (PP (IN of) 
+              (NP (DT the) (CD 1990) (NN model) (NN year) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (CD eight) (JJ major) (JJ domestic) (NN auto) (NNS makers) )
+    (VP 
+      (VP (VBD sold) 
+        (NP 
+          (NP (CD 160,510) 
+            (ADJP (NNP North) (JJ American-made) )
+            (NNS cars) ))
+        (PP-TMP (IN in) 
+          (NP 
+            (NP (DT the) (JJ first) (CD 10) (NNS days) )
+            (PP (IN of) 
+              (NP (NNP October) ))))
+        (, ,) )
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 12.6) (NN %) )
+          (NN drop) )
+        (PP (IN from) 
+          (ADVP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (ADJP (RB Domestically) (VBN built) )
+      (NN truck) (NNS sales) )
+    (VP (VBD were) 
+      (ADVP-PRD (IN down) 
+        (NP (CD 10.4) (NN %) )
+        (PP (TO to) 
+          (NP (CD 86,555) 
+            (NX 
+              (NX (NNS pickups) )
+              (, ,) 
+              (NX (NNS vans) )
+              (CC and) 
+              (NX (NN sport) (NN utility) (NNS vehicles) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (DT The) (JJ heavy) (NN use) )
+      (PP (IN of) 
+        (NP (NNS incentives) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB clear) 
+                (PRT (RP out) )
+                (NP (CD 1989) (NNS models) )))))))
+    (VP (VBZ appears) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB have) 
+            (VP (VBN taken) 
+              (NP (DT the) (NN steam) )
+              (, ,) 
+              (ADVP-TMP 
+                (ADVP (IN at) (JJS least) )
+                (RB initially) )
+              (, ,) 
+              (PP-CLR (IN out) 
+                (PP (IN of) 
+                  (NP 
+                    (NP (CD 1990) (NN model) (NNS sales) )
+                    (, ,) 
+                    (SBAR 
+                      (WHNP-1 (WDT which) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (VBD began) 
+                          (ADVP (RB officially) )
+                          (NP-TMP-CLR (NNP Oct.) (CD 1) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT This) )
+    (VP (VBZ appears) 
+      (ADJP-PRD (RB particularly) (JJ true) )
+      (PP-LOC (IN at) 
+        (NP 
+          (NP (NNP GM) )
+          (, ,) 
+          (NP 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP 
+                  (VP (VBD had) 
+                    (NP (JJ strong) (NNS sales) )
+                    (PP-TMP (IN in) 
+                      (NP (NNP August) 
+                        (CC and)
+                        (NNP September) )))
+                  (CC but) 
+                  (VP (VBD saw) 
+                    (S 
+                      (NP-SBJ (PRP$ its) (JJ early) (NNP October) (NN car) 
+                        (CC and)
+                        (NN truck) (NNS results) )
+                      (VP (VB fall) 
+                        (NP-EXT (CD 26.3) (NN %) )
+                        (PP-DIR (IN from) 
+                          (NP 
+                            (NP (JJ last) (NN year) (POS 's) )
+                            (ADJP (RB unusually) (JJ high) )
+                            (NN level) ))))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Overall) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNS sales) )
+      (PP (IN of) 
+        (NP (DT all) (JJ domestic-made) (NNS vehicles) )))
+    (VP (VBD fell) 
+      (NP-EXT (CD 11.9) (NN %) )
+      (PP-DIR (IN from) 
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (IN ago) )))
+    (. .) ))
+( (S 
+    (PP (IN Without) 
+      (NP (NNP GM) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (JJ overall) (NNS sales) )
+      (PP (IN for) 
+        (NP (DT the) (JJ other) (NNP U.S.) (NNS automakers) )))
+    (VP (VBD were) 
+      (ADJP-PRD (RB roughly) (JJ flat) 
+        (PP (IN with) 
+          (NP (CD 1989) (NNS results) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (DT Some) )
+        (PP (IN of) 
+          (NP (DT the) (NNP U.S.) (NN auto) (NNS makers) )))
+      (VP (VBP have) 
+        (ADVP-TMP (RB already) )
+        (VP (VBN adopted) 
+          (NP 
+            (NP (NNS incentives) )
+            (PP-LOC (IN on) 
+              (NP (JJ many) (CD 1990) (NNS models) ))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ-1 (PRP they) )
+      (VP (MD may) 
+        (VP (VB have) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB broaden) 
+                (NP (PRP$ their) (NNS programs) ))))))
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB keep) 
+            (S 
+              (NP-SBJ (NNS sales) )
+              (ADVP-PRD (IN up) ))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP We) )
+      (VP (VBP 've) 
+        (VP (VBN created) 
+          (NP 
+            (NP (DT a) (NN condition) )
+            (SBAR 
+              (WHADVP-2 (WRB where) )
+              (, ,) 
+              (S 
+                (PP (IN without) 
+                  (NP (NNS incentives) ))
+                (, ,) 
+                (NP-SBJ (PRP it) )
+                (VP (VBZ 's) 
+                  (NP-PRD (DT a) (JJ tough) (NN market) )
+                  (ADVP-LOC (-NONE- *T*-2) ))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Tom) (NNP Kelly) )
+      (, ,) 
+      (NP 
+        (NP (NNS sales) (NN manager) )
+        (PP (IN for) 
+          (NP 
+            (NP (NNP Bill) (NNP Wink) (NNP Chevrolet) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NNP Dearborn) )
+                (, ,) 
+                (NP (NNP Mich) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Car) (NNS sales) )
+    (VP (VBD fell) 
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (NP (DT a) 
+              (ADJP (RB seasonally) (VBN adjusted) )
+              (JJ annual) (VBG selling) (NN rate) )
+            (PP (IN of) 
+              (NP 
+                (QP (CD 5.8) (CD million) )
+                (NNS vehicles) )))
+          (, ,) 
+          (NP 
+            (NP (DT the) (JJS lowest) )
+            (PP-TMP (IN since) 
+              (NP (NNP October) (CD 1987) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ poor) (NN performance) )
+    (VP (VBZ contrasts) 
+      (PP-CLR (IN with) 
+        (NP 
+          (NP (DT a) (JJ robust) (NN selling) (NN rate) )
+          (PP (IN of) 
+            (NP 
+              (QP (RB almost) (CD eight) )
+              (CD million) ))
+          (NP-TMP (JJ last) (NN month) ))))
+    (. .) ))
+( (S 
+    (ADVP (RB Furthermore) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNS dealers) )
+      (VP (VBD contacted) 
+        (NP-TMP (JJ late) (JJ last) (NN week) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (MD could) (RB n't) 
+            (VP (VB see) 
+              (NP 
+                (NP (DT any) (JJ immediate) (NN impact) )
+                (PP-LOC (IN on) 
+                  (NP (NNS sales) ))
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Friday) (POS 's) )
+                    (JJ steep) (NN market) (NN decline) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNP GM) (POS 's) )
+        (JJ domestic) (NN car) (NNS sales) )
+      (VP (VBD dropped) 
+        (NP-EXT (CD 24.3) (NN %) )))
+    (CC and) 
+    (S 
+      (NP-SBJ (PRP$ its) (JJ domestic) (NNS trucks) )
+      (VP (VBD were) 
+        (ADVP-PRD (IN down) 
+          (NP (DT an) 
+            (ADJP (RB even) (JJR steeper) )
+            (CD 28.7) (NN %) )
+          (PP (IN from) 
+            (NP-TMP 
+              (NP (DT the) (JJ same) (NN period) )
+              (ADVP 
+                (NP (DT a) (NN year) )
+                (IN ago) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT All) )
+      (PP (IN of) 
+        (NP (DT the) (NNP GM) (NNS divisions) ))
+      (PP (IN except) 
+        (NP (NNP Cadillac) )))
+    (VP (VBD showed) 
+      (NP (JJ big) (NNS declines) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Cadillac) )
+    (VP (VBD posted) 
+      (NP (DT a) 
+        (ADJP (CD 3.2) (NN %) )
+        (NN increase) )
+      (PP (IN despite) 
+        (NP 
+          (NP (JJ new) (NN competition) )
+          (PP (IN from) 
+            (NP 
+              (NP (NNP Lexus) )
+              (, ,) 
+              (NP 
+                (NP (DT the) (VBG fledging) (NN luxury-car) (NN division) )
+                (PP (IN of) 
+                  (NP (NNP Toyota) (NNP Motor) (NNP Corp) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Lexus) (NNS sales) )
+      (VP (VBD were) (RB n't) 
+        (ADJP-PRD (JJ available) )))
+    (: ;) 
+    (S 
+      (S 
+        (NP-SBJ-1 (DT the) (NNS cars) )
+        (VP (VBP are) 
+          (VP (VBN imported) 
+            (NP (-NONE- *-1) ))))
+      (CC and) 
+      (S 
+        (NP-SBJ (NNP Toyota) )
+        (VP (VBZ reports) 
+          (NP (PRP$ their) (NNS sales) )
+          (PP-TMP 
+            (ADVP (RB only) )
+            (IN at) 
+            (NP (NN month-end) )))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-3 
+        (NP (DT The) (NNS sales) (VBP drop) )
+        (PP (IN for) 
+          (NP (DT the) 
+            (NP 
+              (NP (NN No.) (CD 1) )
+              (NN car) (NN maker) ))))
+      (VP (MD may) 
+        (VP (VB have) 
+          (VP (VBN been) 
+            (VP (VBN caused) 
+              (NP (-NONE- *-3) )
+              (PP (IN in) 
+                (NP (NN part) ))
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT the) (NN end) )
+                  (PP (IN in) 
+                    (NP (NNP September) ))
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NN dealer) (NNS incentives) )
+                      (SBAR 
+                        (WHNP-1 (IN that) )
+                        (S 
+                          (NP-SBJ (NNP GM) )
+                          (VP (VBD offered) 
+                            (NP (-NONE- *T*-1) )
+                            (PP (IN in) 
+                              (NP 
+                                (NP (NN addition) )
+                                (PP (TO to) 
+                                  (NP 
+                                    (NP (NN consumer) (NNS rebates) )
+                                    (CC and) 
+                                    (NP (JJ low-interest) (NN financing) )))))))))))))))))
+    (, ,) 
+    (NP-SBJ (DT a) (NN company) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-TMP (JJ Last) (NN year) )
+    (, ,) 
+    (NP-SBJ (NNP GM) )
+    (VP (VBD had) 
+      (NP 
+        (NP (DT a) (JJ different) (NN program) )
+        (SBAR (-NONE- *ICH*-3) ))
+      (PP-LOC-CLR (IN in) 
+        (NP (NN place) ))
+      (SBAR-3 
+        (WHNP-2 (WDT that) )
+        (S 
+          (NP-SBJ-4 (-NONE- *T*-2) )
+          (VP (VBD continued) 
+            (S 
+              (NP-SBJ (-NONE- *-4) )
+              (VP (JJ rewarding) 
+                (NP (NNS dealers) )))
+            (SBAR-TMP (IN until) 
+              (S 
+                (NP-SBJ-1 (PDT all) (DT the) (CD 1989) (NNS models) )
+                (VP (VBD had) 
+                  (VP (VBN been) 
+                    (VP (VBN sold) 
+                      (NP (-NONE- *-1) ))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Aside) 
+      (PP (IN from) 
+        (NP (NNP GM) )))
+    (, ,) 
+    (NP-SBJ (JJ other) (NN car) (NNS makers) )
+    (VP (VBD posted) 
+      (NP 
+        (ADJP (RB generally) (VBN mixed) )
+        (NNS results) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ford) (NNP Motor) (NNP Co.) )
+    (VP (VBD had) 
+      (NP 
+        (NP 
+          (NP (DT a) 
+            (ADJP (CD 1.8) (NN %) )
+            (NN drop) )
+          (PP-LOC (IN in) 
+            (NP (JJ domestic) (NN car) (NNS sales) )))
+        (CC but) 
+        (NP 
+          (NP (DT a) 
+            (ADJP (CD 2.4) (NN %) )
+            (NN increase) )
+          (PP-LOC (IN in) 
+            (NP (JJ domestic) (NN truck) (NNS sales) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Chrysler) (NNP Corp.) )
+    (VP (VBD had) 
+      (NP 
+        (NP (DT a) 
+          (ADJP (CD 7.5) (NN %) )
+          (NN drop) )
+        (PP-LOC (IN in) 
+          (NP (NN car) (NNS sales) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG echoing) 
+          (NP 
+            (NP (PRP$ its) 
+              (ADJP (RB generally) (JJ slow) )
+              (NN performance) )
+            (NP-TMP (DT all) (NN year) )))))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (NNS sales) )
+        (PP (IN of) 
+          (NP (NNS trucks) )))
+      (, ,) 
+      (PP (VBG including) 
+        (NP 
+          (NP (DT the) (NN company) (POS 's) )
+          (JJ popular) (NNS minivans) ))
+      (, ,) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 4.3) (NN %) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Honda) (NNP Motor) (NNP Co.) (POS 's) )
+        (NNS sales) )
+      (PP (IN of) 
+        (NP 
+          (ADJP (RB domestically) (VBN built) )
+          (NNS vehicles) )))
+    (VP (VBD plunged) 
+      (NP-EXT (CD 21.7) (NN %) )
+      (PP-DIR (IN from) 
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (RBR earlier) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP 
+          (NP (NNP Honda) (POS 's) )
+          (NN plant) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP Marysville) )
+            (, ,) 
+            (NP (NNP Ohio) )
+            (, ,) )))
+      (VP (VBD was) 
+        (VP (VBG gearing) 
+          (PRT (RP up) )
+          (S-CLR 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB build) 
+                (NP (CD 1990) (NN model) (NNPS Accords) ))))))
+      (, ,) )
+    (NP-SBJ (DT a) (NNP Honda) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP We) )
+      (VP (VBP 're) 
+        (ADJP-PRD (RB really) (JJ confident) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ (NN everything) )
+              (VP (MD will) 
+                (VP (VB bounce) 
+                  (ADVP-DIR (RB back) 
+                    (PP (TO to) 
+                      (ADJP (JJ normal) ))))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD added) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (ADVP (RB Separately) )
+    (, ,) 
+    (NP-SBJ (NNP Chrysler) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (JJ firm) (NNS prices) )
+            (PP-LOC (IN on) 
+              (NP (PRP$ its) (JJ 1990-model) 
+                (NX 
+                  (NX (JJ domestic) (NNS cars) )
+                  (CC and) 
+                  (NX (NNS minivans) )))))
+          (VP (MD will) 
+            (VP (VB rise) 
+              (NP-EXT 
+                (NP (DT an) (NN average) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (CD 5) (NN %) )
+                    (PP (IN over) 
+                      (NP 
+                        (ADJP (RB comparably) (VBN equipped) )
+                        (CD 1989) (NNS models) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Firm) (NNS prices) )
+    (VP (VBD were) 
+      (ADVP (RB generally) )
+      (PP-PRD (IN in) 
+        (NP 
+          (NP (NN line) )
+          (PP (IN with) 
+            (NP 
+              (NP (DT the) (JJ tentative) (NNS prices) )
+              (VP (VBD announced) 
+                (NP (-NONE- *) )
+                (NP-TMP-CLR (RBR earlier) (DT this) (NN fall) )))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP (DT that) (NN time) ))
+    (, ,) 
+    (NP-SBJ (NNP Chrysler) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NN base) (NNS prices) )
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (NP-SBJ-1 (-NONE- *T*-2) )
+                (VP (VBP are) (RB n't) 
+                  (VP (VBN adjusted) 
+                    (NP (-NONE- *-1) )
+                    (PP-CLR (IN for) 
+                      (NP (NN equipment) (NNS changes) ))))))
+            (, ,) )
+          (VP (MD would) 
+            (VP (VB rise) 
+              (NP 
+                (QP (IN between) (CD 4) (NN %) 
+                  (CC and)
+                  (CD 9) (NN %) )
+                (-NONE- *U*) )
+              (PP-LOC (IN on) 
+                (NP (JJS most) (NN vehicle) )))))))
+    (. .) ))
+( (S 
+    (LST (SYM a) )
+    (: -) 
+    (NP-SBJ (NNS Totals) )
+    (VP (VBP include) 
+      (NP 
+        (NP (JJ only) (NN vehicle) (NNS sales) )
+        (VP (VBN reported) 
+          (NP (-NONE- *) )
+          (PP-MNR (IN in) 
+            (NP (NN period) )))))
+    (. .) ))
+( (FRAG 
+    (LST (SYM c) )
+    (: -) 
+    (NP (JJ Domestic) (NN car) )))
+( (S 
+    (NP (SYM d) )
+    (: -) 
+    (NP-SBJ (NN Percentage) (NN change) )
+    (VP (VBZ is) 
+      (ADJP-PRD 
+        (ADJP (JJR greater) )
+        (PP (IN than) 
+          (NP (CD 999) (NN %) ))))
+    (. .) ))
+( (S 
+    (NP (SYM x) )
+    (: -) 
+    (NP-SBJ (EX There) )
+    (VP (VBD were) 
+      (NP-PRD 
+        (NP 
+          (NP (CD 8) (VBG selling) (NNS days) )
+          (PP-TMP (IN in) 
+            (NP (DT the) 
+              (ADJP (RBS most) (JJ recent) )
+              (NN period) )))
+        (CC and) 
+        (NP 
+          (NP (CD 8) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RBR earlier) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Percentage) (NNS differences) )
+    (VP (VBN based) 
+      (PP-LOC-CLR (IN on) 
+        (NP 
+          (NP (JJ daily) (NNS sales) (NN rate) )
+          (CONJP (RB rather) (IN than) )
+          (NP (NNS sales) (NN volume) ))))
+    (. .) ))

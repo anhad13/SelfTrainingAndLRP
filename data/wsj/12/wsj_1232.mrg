@@ -1,0 +1,72 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Walter) (NNP M.) (NNP Brady) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (JJ senior) (NN vice) (NN president) )
+            (PP (IN of) 
+              (NP (DT this) (NN insurer) ))
+            (PP-LOC (IN in) 
+              (NP (DT the) (JJ Canadian) (NN head) (NN office) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (NN vice) )
+          (NN president) 
+          (PP-LOC (IN in) 
+            (NP (DT that) (NN office) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP John) (NNP B.) (NNP Foy) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD (JJ senior) (NN vice) (NN president) )))
+      (CC and) 
+      (VP (VBZ remains) 
+        (ADJP-PRD (JJ responsible) 
+          (PP (IN for) 
+            (NP (DT the) (JJ individual) (NN policy) (NNS services) (NN department) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Frank) (NNP J.) (NNP Ollari) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (JJ senior) (NN vice) (NN president) )
+            (PP (IN in) 
+              (NP 
+                (NP (NN charge) )
+                (PP (IN of) 
+                  (NP (DT the) (NN mortgage) (NN finance) (NN department) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (NP-PRD 
+          (NP (NN vice) (NN president) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN department) )
+              (, ,) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ-2 (-NONE- *T*-1) )
+                  (VP (VBD was) 
+                    (ADVP-TMP (RB formerly) )
+                    (VP (VBN called) 
+                      (S 
+                        (NP-SBJ (-NONE- *-2) )
+                        (NP-PRD (DT the) (JJ real) (NN estate) (NN department) )))))))))))
+    (. .) ))

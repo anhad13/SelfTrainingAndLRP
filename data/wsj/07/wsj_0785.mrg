@@ -1,0 +1,144 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (JJ Canadian) (NN production) )
+      (PP (IN of) 
+        (NP (NN market) (NN pulp) )))
+    (VP (VBD rose) 
+      (NP-EXT (CD 1) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (NNP September) )
+        (PP-TMP (IN from) 
+          (ADVP 
+            (NP (DT a) (NN year) )
+            (RB earlier) )))
+      (SBAR-ADV (IN as) 
+        (S 
+          (NP-SBJ (DT the) (NN industry) )
+          (VP (VBD operated) 
+            (PP-CLR (IN at) 
+              (NP 
+                (NP (CD 87) (NN %) )
+                (PP (IN of) 
+                  (NP (NN capacity) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP Canadian) (NNP Pulp) 
+        (CC and)
+        (NNP Paper) (NNP Association) )
+      (, ,) 
+      (NP (DT an) (NN industry) (NN group) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ Canadian) (NNS mills) )
+          (VP (VBD produced) 
+            (NP 
+              (NP (CD 532,000) (JJ metric) (NNS tons) )
+              (PP (IN of) 
+                (NP (NN market) (NN pulp) )))
+            (PP-TMP (IN in) 
+              (NP (NNP September) ))
+            (, ,) 
+            (PP (VBN compared) 
+              (PP (IN with) 
+                (NP 
+                  (NP (CD 527,000) (JJ metric) (NNS tons) )
+                  (ADVP-TMP 
+                    (NP (DT a) (NN year) )
+                    (RB earlier) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Market) (NN pulp) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (NN wood) (NN pulp) )
+        (VP (VBN sold) 
+          (NP (-NONE- *) )
+          (PP-LOC (IN on) 
+            (NP (DT the) (JJ open) (NN market) ))
+          (PP-CLR (TO to) 
+            (NP 
+              (NP (NNS producers) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN paper) )
+                  (CC and) 
+                  (NP (JJ other) (NNS products) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS statistics) )
+    (VP (VBP exclude) 
+      (NP 
+        (NP (NN pulp) )
+        (VP 
+          (VP (VBN consumed) 
+            (NP (-NONE- *) )
+            (PP-LOC (IN at) 
+              (NP (DT the) (VBG producing) (NN mill) )))
+          (CC or) 
+          (VP (VBN shipped) 
+            (NP (-NONE- *) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP (DT another) (NN mill) )
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ-2 (-NONE- *T*-1) )
+                    (VP (VBZ is) 
+                      (VP (JJ affiliated) 
+                        (NP (-NONE- *-2) )
+                        (PP-CLR (IN with) 
+                          (NP (DT the) (VBG producing) (NN mill) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Canada) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP 
+          (NP (DT the) (NN world) (POS 's) )
+          (JJS largest) (NN producer) )
+        (PP (IN of) 
+          (NP (NN market) (NN pulp) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP September) 
+      (ADJP (CD 87) (NN %) )
+      (NN operating) (NN rate) )
+    (VP 
+      (VP (VBN compared) 
+        (PP-CLR (IN with) 
+          (NP 
+            (NP (DT a) (NN rate) )
+            (PP (IN of) 
+              (NP (CD 101) (NN %) ))
+            (PP-TMP (IN in) 
+              (NP (NNP August) )))))
+      (CC but) 
+      (VP (VBD was) 
+        (ADJP-PRD (JJ unchanged) 
+          (PP-TMP (IN from) 
+            (ADVP 
+              (NP (DT a) (NN year) )
+              (RB earlier) )))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP 
+        (NP (DT the) (JJ first) (CD nine) (NNS months) )
+        (PP (IN of) 
+          (NP (DT this) (NN year) ))))
+    (NP-SBJ (NN output) )
+    (VP (VBD was) 
+      (NP-PRD (CD 5,377,000) (JJ metric) (NNS tons) )
+      (, ,) 
+      (ADVP (RB down) 
+        (PP (IN from) 
+          (NP (CD 5,441,000) (JJ metric) (NNS tons) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RB earlier) ))))
+    (. .) ))

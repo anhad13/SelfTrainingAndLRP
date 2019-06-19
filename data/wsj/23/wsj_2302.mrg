@@ -1,0 +1,102 @@
+
+( (S 
+    (NP-SBJ 
+      (NAC (NNP Ports) 
+        (PP (IN of) 
+          (NP (NNP Call) )))
+      (NNP Inc.) )
+    (VP (VBD reached) 
+      (NP (NNS agreements) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB sell) 
+              (NP (PRP$ its) (VBG remaining) (CD seven) (NN aircraft) )
+              (PP-DTV (TO to) 
+                (NP 
+                  (NP (NNS buyers) )
+                  (SBAR 
+                    (WHNP-2 (WDT that) )
+                    (S 
+                      (NP-SBJ-1 (-NONE- *T*-2) )
+                      (VP (VBD were) (RB n't) 
+                        (VP (VBN disclosed) 
+                          (NP (-NONE- *-1) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS agreements) )
+    (VP (VBP bring) 
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (DT a) (NN total) )
+          (PP (IN of) 
+            (NP (CD nine) ))))
+      (NP 
+        (NP (DT the) (NN number) )
+        (PP (IN of) 
+          (NP (NNS planes) ))
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (DT the) (NN travel) (NN company) )
+            (VP (VBZ has) 
+              (VP (VBN sold) 
+                (NP (-NONE- *T*-1) )
+                (NP-TMP (DT this) (NN year) )
+                (PP (IN as) 
+                  (NP 
+                    (NP (NN part) )
+                    (PP (IN of) 
+                      (NP (DT a) (NN restructuring) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (DT a) (NN portion) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) 
+                  (QP ($ $) (CD 32) (CD million) )
+                  (-NONE- *U*) )
+                (VP (VBN realized) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN from) 
+                    (NP (DT the) (NNS sales) ))))))
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBN used) 
+                (NP-2 (-NONE- *-1) )
+                (S-CLR 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB repay) 
+                      (NP 
+                        (NP (PRP$ its) (NN bank) (NN debt) )
+                        (CC and) 
+                        (NP 
+                          (NP (JJ other) (NNS obligations) )
+                          (VP (VBG resulting) 
+                            (PP-CLR (IN from) 
+                              (NP (DT the) 
+                                (ADJP (RB currently) (VBN suspended) )
+                                (JJ air-charter) (NNS operations) ))))))))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RBR Earlier) )
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD announced) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD would) 
+            (VP (VB sell) 
+              (NP 
+                (NP (PRP$ its) (VBG aging) (NN fleet) )
+                (PP (IN of) 
+                  (NP (NNP Boeing) (NNP Co.) (NNPS 707s) )))
+              (PP-PRP (IN because) (IN of) 
+                (NP (VBG increasing) (NN maintenance) (NNS costs) )))))))
+    (. .) ))

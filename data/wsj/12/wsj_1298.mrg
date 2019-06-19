@@ -1,0 +1,150 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Robert) (NNP J.) (NNP Penn) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (CC and) 
+        (NP (NN chief) (NN executive) (NN officer) ))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB take) 
+        (NP 
+          (NP (JJ early) (NN retirement) )
+          (PP (IN from) 
+            (NP (DT this) (NN steelmaker) )))
+        (NP-TMP (NNP Dec) (CD 31) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP William) (NNP S.) (NNP Leavitt) )
+      (, ,) 
+      (NP (NN chairman) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Mr.) (NNP Penn) )
+            (, ,) 
+            (ADJP 
+              (NP (CD 58) (NNS years) )
+              (JJ old) )
+            (, ,) )
+          (VP 
+            (VP (MD would) 
+              (VP (VB continue) 
+                (PP-CLR (IN as) 
+                  (NP (DT a) (NN consultant) ))))
+            (CC and) 
+            (VP (MD would) 
+              (VP (VB work) 
+                (PP-CLR (IN with) 
+                  (NP (DT the) (NN board) ))
+                (PP-LOC (IN in) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG selecting) 
+                      (NP (DT a) (NN successor) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP UNR) )
+    (ADVP-TMP (RB recently) )
+    (VP (VBD emerged) 
+      (PP-CLR (IN from) 
+        (NP 
+          (NP (NN bankruptcy-law) (NNS proceedings) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD left) 
+                (NP 
+                  (NP (CD 64) (NN %) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (VBN reorganized) (NN company) (POS 's) )
+                      (JJ common) (NN stock) )))
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (DT the) (NNS hands) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNS trustees) )
+                        (PP (IN of) 
+                          (NP (DT an) (NN asbestos-disease) (NNS claims) (NN trust) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD would) 
+            (VP (VB have) 
+              (NP (DT no) (JJ further) (NN comment) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Mr.) (NNP Leavitt) )
+      (, ,) 
+      (NP (CD 37) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD (NN chairman) ))
+        (ADVP-TMP (RBR earlier) 
+          (NP (DT this) (NN year) ))
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT the) (NN company) (POS 's) )
+            (JJ new) (NN board) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG having) 
+            (VP (VBN served) 
+              (PP-CLR (IN as) 
+                (NP 
+                  (NP (NN vice) (NN president) )
+                  (PP (IN for) 
+                    (NP (JJ legal) 
+                      (CC and)
+                      (JJ corporate) (NNS affairs) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (PRP$ His) (NN father) )
+      (, ,) 
+      (NP (NNP David) (NNP S.) (NNP Leavitt) )
+      (, ,) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (NN chairman) )
+        (CC and) 
+        (NP (NN chief) (NN executive) ))
+      (PP-TMP (IN until) 
+        (NP 
+          (NP (PRP$ his) (NN death) )
+          (PP-LOC (IN in) 
+            (NP (DT an) (NN accident) ))
+          (ADVP-TMP 
+            (ADVP 
+              (NP (CD five) (NNS years) )
+              (IN ago) )
+            (, ,) 
+            (SBAR 
+              (WHPP-2 (IN at) 
+                (WHNP (WDT which) (NN time) ))
+              (S 
+                (NP-SBJ-1 (NNP Mr.) (NNP Penn) )
+                (VP (VBD was) 
+                  (VP (VBN named) 
+                    (S 
+                      (NP-SBJ (-NONE- *-1) )
+                      (NP-PRD (NN president) ))
+                    (PP-TMP (-NONE- *T*-2) )))))))))
+    (. .) ))

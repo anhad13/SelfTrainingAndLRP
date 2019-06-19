@@ -1,0 +1,83 @@
+
+( (S 
+    (NP-SBJ (NNP Syms) (NNP Corp.) )
+    (VP (VBD completed) 
+      (NP 
+        (NP (DT the) (NN sale) )
+        (PP (IN of) 
+          (NP 
+            (NP (PRP$ its) (NNP A.) (NNP Sulka) (CC &) (NNP Co.) (NN subsidiary) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NNS men) (POS 's) )
+              (NN luxury) (NN haberdashery) )
+            (, ,) ))
+        (PP (TO to) 
+          (NP (NNP Luxco) (NNP Investments) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (SINV 
+    (S-TPC-2 
+      (SBAR-TMP (IN As) 
+        (S 
+          (NP-SBJ 
+            (NP 
+              (NP (NNP Syms) (POS 's) )
+              (`` ``) (JJ core) (NN business) )
+            (PP (IN of) 
+              (NP (JJ off-price) (NN retailing) )))
+          (VP (VBZ grows) )))
+      (, ,) 
+      (NP-SBJ 
+        (NP (DT a) (JJ small) (NN subsidiary) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ is) 
+              (ADJP-PRD (RB operationally) (JJ unrelated) )))))
+      (VP (VBZ becomes) 
+        (NP-PRD (DT a) (JJ difficult) (NN distraction) )))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP Marcy) (NNP Syms) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP (DT the) (NN parent) ))))
+    (, ,) 
+    (PP-LOC (IN in) 
+      (NP (DT a) (NN statement) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NN spokeswoman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Sulka) )
+          (VP (VBZ operates) 
+            (NP 
+              (NP (DT a) (NN total) )
+              (PP (IN of) 
+                (NP (CD seven) (NNS stores) )))
+            (UCP 
+              (PP-LOC (IN in) 
+                (NP (DT the) (NNP U.S.) ))
+              (CC and) 
+              (ADVP-LOC (RB overseas) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Syms) )
+    (VP (VBZ operates) 
+      (NP (CD 25) (JJ off-price) (NN apparel) (NNS stores) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NNP U.S.) )))
+    (. .) ))

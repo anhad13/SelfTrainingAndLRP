@@ -1,0 +1,201 @@
+
+( (S 
+    (S 
+      (NP-SBJ-1 (CD One) (NN company) )
+      (ADVP-TMP (RB recently) )
+      (VP (VBD was) 
+        (VP (VBN listed) 
+          (NP (-NONE- *-1) )
+          (PP-LOC (IN on) 
+            (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (DT another) )
+      (VP (MD will) 
+        (VP (VB join) 
+          (NP (DT the) (NNP Big) (NNP Board) )
+          (PP (IN from) 
+            (NP (DT the) (JJ over-the-counter) (NN market) ))
+          (NP-TMP (DT this) (NN week) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Putnam) (NNP Investment) (NNP Grade) (NNP Municipal) (NNP Trust) )
+      (, ,) 
+      (NP (NNP Boston) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN listed) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN with) 
+          (NP 
+            (NP (DT the) (NN symbol) )
+            (NP (NNP PGM) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ new) (JJ closed-end) (NN management) (NN investment) (NN company) )
+    (VP (VBZ trades) 
+      (NP 
+        (NP (NNS shares) )
+        (PP (IN of) 
+          (NP (JJ beneficial) (NN interest) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ invests) 
+      (ADVP (RB primarily) )
+      (PP-LOC-CLR (IN in) 
+        (NP (JJ tax-exempt) (JJ municipal) (NNS securities) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Hibernia) (NNP Corp.) )
+      (, ,) 
+      (NP (DT a) (NNP New) (NNP Orleans) (NN bank) (VBG holding) (NN company) )
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB join) 
+        (NP (DT the) (NNP Big) (NNP Board) (NNP Thursday) )
+        (PP-LOC (IN under) 
+          (NP (NNP HIB) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (CD Three) (NNS companies) )
+    (VP (VBD began) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG trading) 
+          (PP-MNR (IN over) 
+            (NP (DT the) (NN counter) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Exabyte) (NNP Corp.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) 
+          (NAC-LOC (NNP Boulder) 
+            (, ,)
+            (NNP Colo.) 
+            (, ,)
+            )
+          (NN maker) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ high-capacity) (NN tape) (NN cartridge) (NNS systems) )
+            (VP (VBN used) 
+              (NP-1 (-NONE- *) )
+              (S-CLR 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB back) 
+                    (PRT (RP up) )
+                    (NP (NN computer) (NN disk) (NNS drives) ))))))))
+      (, ,) )
+    (VP (VBD started) 
+      (NP (NNP OTC) (VBG trading) )
+      (PP (IN with) 
+        (NP (DT the) (NN symbol) (NNP EXBT) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP Rally) (POS 's) )
+        (NN Inc.) )
+      (, ,) 
+      (NP (DT a) 
+        (NAC-LOC (NNP Louisville) 
+          (, ,)
+          (NNP Ky.) 
+          (, ,)
+          )
+        (NN restaurant) (NN franchisor) )
+      (, ,) )
+    (VP (VBD started) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG trading) 
+          (PP (IN under) 
+            (NP (NNP RLLY) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Sierra) (NNP Tucson) (NNP Cos.) )
+      (, ,) 
+      (NP 
+        (NP (NNP Tucson) )
+        (, ,) 
+        (NP (NNP Ariz.) ))
+      (, ,) )
+    (VP (VBD started) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG trading) 
+          (PP-LOC (IN under) 
+            (NP (NNP STSN) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ operates) 
+      (NP 
+        (NP (JJ various) (NNS types) )
+        (PP (IN of) 
+          (NP (JJ addiction-treatment) (NNS facilities) ))))
+    (. .) ))
+( (S 
+    (ADVP (RB Separately) )
+    (, ,) 
+    (PP-LOC (IN on) 
+      (NP (DT the) (NNP Pacific) (NNP Stock) (NNP Exchange) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (JJ put) 
+        (CC and)
+        (JJ call) (NNS options) )
+      (PP (IN on) 
+        (NP 
+          (NP (DT the) (JJ common) (NN stock) )
+          (PP (IN of) 
+            (NP (NNP Aldus) (NNP Corp.) )))))
+    (VP (VBD started) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG trading) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Aldus) )
+      (, ,) 
+      (NP (NNP Seattle) )
+      (, ,) )
+    (VP (VBZ makes) 
+      (NP (NN computer) (NN software) (NNS products) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Options) )
+    (VP (VBP give) 
+      (NP (DT a) (NN holder) )
+      (NP 
+        (NP 
+          (NP (DT the) (NN right) )
+          (S (-NONE- *RNR*-1) ))
+        (, ,) 
+        (CONJP (CC but) (RB not) )
+        (NP 
+          (NP (DT the) (NN obligation) )
+          (S (-NONE- *RNR*-1) ))
+        (, ,) 
+        (S-1 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB buy) (CC or) (VB sell) 
+              (NP (DT a) (NN security) )
+              (PP-CLR (IN at) 
+                (NP (DT a) (VBN set) (NN price) ))
+              (PP-TMP (IN within) 
+                (NP 
+                  (NP (DT a) (VBN set) (NN period) )
+                  (PP (IN of) 
+                    (NP (NN time) )))))))))
+    (. .) ))

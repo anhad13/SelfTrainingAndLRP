@@ -1,0 +1,499 @@
+
+( (SBARQ 
+    (WHNP-1 (WP What) )
+    (SQ (VBZ 's) 
+      (NP-SBJ (-NONE- *T*-1) )
+      (PP-PRD (IN in) 
+        (NP (DT a) (NN name) )))
+    (. ?) ))
+( (FRAG 
+    (ADVP (RB Apparently) )
+    (NP (DT a) (NN lot) )
+    (, ,) 
+    (PP (VBG according) 
+      (PP (TO to) 
+        (NP 
+          (NP (DT the) (JJ British) (NN firm) )
+          (PP (IN of) 
+            (NP (NNP Deloitte) 
+              (, ,)
+              (NNP Haskins) (CC &) (NNP Sells) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ British) (NN firm) )
+    (VP (VBZ has) 
+      (VP (VBN begun) 
+        (NP (NN court) (NNS proceedings) )
+        (PP-LOC (IN in) 
+          (NP (NNP London) ))
+        (S-PRP 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB prevent) 
+              (NP 
+                (NP (DT the) (NN use) )
+                (PP (IN of) 
+                  (NP (DT the) (NN name) (`` ``) (NNP Deloitte) ('' '') ))
+                (PP (IN by) 
+                  (NP 
+                    (NP (NNP Deloitte) 
+                      (, ,)
+                      (NNP Haskins) (CC &) (NNP Sells) )
+                    (CC and) 
+                    (NP 
+                      (NP (NNP Touche) (NNP Ross) (CC &) (NNP Co.) ))))
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (NNP England) )
+                    (CC and) 
+                    (NP 
+                      (NP (DT the) (NN rest) )
+                      (PP (IN of) 
+                        (NP (DT the) (NN world) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ British) (NNP Deloitte) (NN firm) )
+    (ADVP-TMP (RB recently) )
+    (VP 
+      (VP (VBD withdrew) 
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (DT the) (NN merger) )
+            (PP (IN of) 
+              (NP (NNP Deloitte) 
+                (CC and)
+                (NNP Touche) (JJ world-wide) )))))
+      (CC and) 
+      (VP (VBD joined) 
+        (NP (NNP Coopers) (CC &) (NNP Lybrand) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP John) (NNP Bullock) )
+      (, ,) 
+      (NP 
+        (NP (JJ senior) (NN partner) )
+        (PP (IN of) 
+          (NP (NNP Deloitte) ))
+        (PP-LOC (IN in) 
+          (NP (DT the) (NNP U.K.) )))
+      (, ,) )
+    (VP (VBD said) (`` ``) 
+      (S 
+        (NP-SBJ-1 (DT the) (NN decision) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB start) 
+                (NP (DT these) (NNS proceedings) )))))
+        (VP (VBZ has) (RB n't) 
+          (VP (VBN been) 
+            (VP (VBN taken) 
+              (NP (-NONE- *-1) )
+              (ADVP-MNR (RB lightly) ))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Bullock) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ British) (NN firm) )
+          (VP (VBZ has) 
+            (VP (VBN used) 
+              (NP (DT the) (NN name) (`` ``) (NNP Deloitte) ('' '') )
+              (PP-TMP (IN since) 
+                (NP (CD 1845) )))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT the) (NNP U.S.) ))
+    (, ,) 
+    (NP-SBJ-1 (NNP Deloitte) 
+      (, ,)
+      (NNP Haskins) (CC &) (NNP Sells) )
+    (VP (VBD was) 
+      (VP (VBN known) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN as) 
+          (NP (NNP Haskins) (CC &) (NNP Sells) ))
+        (PP-TMP (IN until) 
+          (NP 
+            (NP (CD 1978) )
+            (, ,) 
+            (SBAR 
+              (WHADVP-2 (WRB when) )
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (VBD added) 
+                  (NP 
+                    (NP (DT the) (`` ``) (NNP Deloitte) ('' '') (NN name) )
+                    (PP (IN of) 
+                      (NP (PRP$ its) (JJ British) (NN affiliate) )))
+                  (ADVP-TMP (-NONE- *T*-2) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP John) (NNP C.) (NNP Burton) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN accounting) (NN professor) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP 
+              (NP (NNP Columbia) (NNP University) (POS 's) )
+              (NNP Graduate) (NNP School) )
+            (PP (IN of) 
+              (NP (NNP Business) )))))
+      (, ,) )
+    (VP (VBD said) (`` ``) 
+      (S 
+        (NP-SBJ (EX there) )
+        (VP (VBZ 's) 
+          (NP-PRD 
+            (NP (DT a) (NN lot) )
+            (PP (IN of) 
+              (NP (NN emotion) ))
+            (VP (VBN involved) 
+              (NP (-NONE- *) )
+              (PP-CLR (IN in) 
+                (NP 
+                  (NP (DT the) (NN name) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT an) (NN accounting) (NN firm) )
+                      (PP 
+                        (PP (IN with) 
+                          (NP (DT a) (JJ long) (NN history) ))
+                        (CC and) 
+                        (PP (IN with) 
+                          (NP 
+                            (NP (NNS roots) )
+                            (PP-LOC (IN in) 
+                              (NP 
+                                (NP (NNP England) )
+                                (, ,) 
+                                (SBAR 
+                                  (WHADVP-1 (WRB where) )
+                                  (S 
+                                    (NP-SBJ (NN accounting) )
+                                    (VP (VBZ predates) 
+                                      (NP (DT the) (NNP U.S.) )
+                                      (ADVP-LOC (-NONE- *T*-1) ))))))))))))))))))
+    (. .) ('' '') ))
+( (SINV 
+    (S-TPC-3 
+      (SBAR-ADV (IN Although) 
+        (S 
+          (NP-SBJ-1 (NNS accountants) )
+          (VP (VBP are) (RB n't) 
+            (VP (VBN noted) 
+              (NP-2 (-NONE- *-1) )
+              (PP-CLR (IN as) (`` ``) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (VBG being) 
+                    (ADJP-PRD (RB deeply) (JJ emotional) ))))))))
+      (, ,) 
+      (NP-SBJ (PRP they) )
+      (ADVP (RB really) )
+      (VP (VBP hold) 
+        (NP 
+          (NP (PRP it) )
+          (NP (DT all) ))
+        (PRT (RP in) )))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-3) ))
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Burton) )
+      (, ,) 
+      (NP 
+        (NP (JJ former) (JJ chief) (NN accountant) )
+        (PP (IN of) 
+          (NP (DT the) (NNP Securities) 
+            (CC and)
+            (NNP Exchange) (NNP Commission) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP J.) (NNP Michael) (NNP Cook) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (PP (IN of) 
+          (NP (NNP Deloitte) 
+            (, ,)
+            (NNP Haskins) (CC &) (NNP Sells) (NNP International) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBZ believes) 
+            (S 
+              (NP-SBJ 
+                (NP (DT the) (JJ legal) (NN action) )
+                (PP (IN by) 
+                  (NP (DT the) (JJ British) (NN firm) )))
+              (`` ``) 
+              (VP (TO to) 
+                (VP (VB be) 
+                  (PP-PRD (IN without) 
+                    (NP (NN merit) )))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Cook) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-TMP (JJ last) (NNP June) )
+          (, ,) 
+          (NP-SBJ 
+            (NP (DT the) (JJ international) (JJ executive) (NNS committes) )
+            (PP (IN of) 
+              (NP (NNP Deloitte) 
+                (CC and)
+                (NNP Touche) )))
+          (VP (VBD agreed) 
+            (PP-CLR (TO to) 
+              (NP (DT a) (JJ world-wide) (NN merger) ))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN merger) )
+      (VP (VBZ is) 
+        (VP (VBG proceeding) 
+          (PP-MNR (VBG according) 
+            (PP (TO to) 
+              (NP (NN plan) )))
+          (, ,) 
+          (PP (IN except) 
+            (PP (IN as) 
+              (PP (TO to) 
+                (NP 
+                  (NP (DT the) (NN withdrawal) )
+                  (PP (IN of) 
+                    (NP (DT the) (NNP Deloitte) (NNP U.K.) (NN firm) )))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Partners) )
+      (PP-LOC (IN at) 
+        (NP (JJ other) (NN accounting) (NNS firms) )))
+    (VP (VBP say) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 
+            (NP (DT the) (NNP Deloitte) (NN firm) )
+            (PP-LOC (IN in) 
+              (NP (DT the) (NNP U.K.) )))
+          (VP (VBZ is) 
+            (VP (VBG filing) 
+              (NP (DT the) (NN suit) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB get) 
+                    (PRT (RP even) )
+                    (PP-CLR (IN with) 
+                      (NP-2 (DT the) (VBN merged) (NNP Deloitte-Touche) (NN firm) ))
+                    (PP-CLR (IN for) 
+                      (S-NOM 
+                        (NP-SBJ (-NONE- *-2) )
+                        (VP (VBG keeping) 
+                          (NP (JJ major) (NN auditing) (NN work) )
+                          (PP-LOC-CLR (IN in) 
+                            (NP (NNP England) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (NNP General) (NNP Motors) (NNP Corp.) )
+      (, ,) 
+      (NP (DT a) (NNP Deloitte) (NN audit) (NN client) ))
+    (, ,) 
+    (PP (IN for) 
+      (NP (NN example) ))
+    (, ,) 
+    (VP (VBZ has) 
+      (VP (VBN agreed) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB keep) 
+              (NP (PRP$ its) 
+                (NX 
+                  (NX (JJ annual) 
+                    (ADJP 
+                      (QP ($ $) (CD 18) (CD million) )
+                      (-NONE- *U*) )
+                    (JJ world-wide) (NN audit) )
+                  (CC and) 
+                  (NX (VBN associated) (NN tax) (NN work) )))
+              (PP-CLR (IN with) 
+                (NP 
+                  (NP (DT the) (VBN merged) (NNP Deloitte-Touche) (NN firm) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-3 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ-1 (-NONE- *T*-3) )
+                      (VP (TO to) 
+                        (VP (VB be) 
+                          (VP (VBN known) 
+                            (NP (-NONE- *-1) )
+                            (PP-CLR (IN as) 
+                              (NP (NNP Deloitte) (CC &) (NNP Touche) ))
+                            (PP-LOC (IN in) 
+                              (NP (DT the) (NNP U.S.) ))))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP England) ))
+    (, ,) 
+    (NP-SBJ (DT this) )
+    (VP (MD would) 
+      (VP (VB mean) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (JJ British) (NNP Deloitte) )
+            (VP (MD would) 
+              (VP (VB lose) 
+                (NP 
+                  (NP (NN revenue) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (PRP$ its) (NN audit) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNP GM) (POS 's) )
+                          (NNP Vauxhill) (NN unit) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN defection) )
+      (PP (IN of) 
+        (NP 
+          (NP 
+            (NP (NNP Deloitte) (POS 's) )
+            (NNS affiliates) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (NNP Britain) )
+              (CC and) 
+              (NP (DT the) (NNP Netherlands) )))))
+      (PP (TO to) 
+        (NP (NNP Coopers) (CC &) (NNP Lybrand) )))
+    (VP (MD will) 
+      (VP (VB make) 
+        (S 
+          (NP-SBJ-1 (NNP Coopers) )
+          (NP-PRD 
+            (NP (CD one) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (JJS biggest) (NN accounting) (NNS firms) )
+                (PP-LOC (IN in) 
+                  (NP (NNP Europe) )))))
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG rivaling) 
+              (NP (NNP KPMG) (NNP Peat) (NNP Marwick) )
+              (ADVP-LOC (RB there) ))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN Although) 
+      (S 
+        (NP-SBJ-1 (NNP Coopers) )
+        (VP (VBZ has) (RB n't) 
+          (VP (VBN been) 
+            (VP (VBN courted) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS (JJ other) (JJ major) (NN accounting) (NNS firms) ))
+              (PP-CLR (IN for) 
+                (NP (DT a) (NN merger) )))))))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBZ is) 
+      (VP (VBG benefiting) 
+        (ADVP-MNR (RB greatly) )
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (NN fallout) )
+            (PP (IN from) 
+              (NP (DT the) (NNP Deloitte-Touche) (NN merger) ))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) ))
+    (, ,) 
+    (S 
+      (NP-SBJ 
+        (NP (NNP Harris) (NNP Amhowitz) )
+        (, ,) 
+        (NP 
+          (NP (JJ general) (NN counsel) )
+          (PP (IN of) 
+            (NP (NNP Coopers) )))
+        (, ,) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (NNP Coopers) )
+            (`` ``) 
+            (VP (VBD was) 
+              (ADJP-PRD (JJ aware) 
+                (PP (IN of) 
+                  (NP (DT the) (NN litigation) ))))))))
+    (, ,) ('' '') (CC but) 
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP (VBD declined) 
+        (NP (JJ further) (NN comment) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP He) )
+    (ADVP (RB also) )
+    (VP (VBD declined) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB comment) 
+            (PP-CLR (IN on) 
+              (NP 
+                (NP (DT the) (NN name) )
+                (SBAR 
+                  (WHNP-2 (IN that) )
+                  (S 
+                    (NP-SBJ (NNP Coopers) )
+                    (VP (MD would) 
+                      (VP (VB use) 
+                        (NP (-NONE- *T*-2) )
+                        (PP-LOC (IN in) 
+                          (NP (NNP England) ))
+                        (SBAR-ADV (IN if) 
+                          (S 
+                            (NP-SBJ (NNP Deloitte) (NNP UK) )
+                            (VP (VBD won) 
+                              (NP 
+                                (NP (PRP$ its) (NN litigation) )
+                                (SBAR 
+                                  (WHADVP-3 (-NONE- 0) )
+                                  (S 
+                                    (NP-SBJ (-NONE- *) )
+                                    (VP (TO to) 
+                                      (VP (VB keep) 
+                                        (NP (PRP$ its) (NN name) )
+                                        (ADVP-MNR (-NONE- *T*-3) )))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Coopers) )
+    (VP (VBZ uses) 
+      (NP (DT the) (NNP Coopers) (CC &) (NNP Lybrand) (NN name) )
+      (ADVP-LOC (JJ world-wide) ))
+    (. .) ))

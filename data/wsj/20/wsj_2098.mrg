@@ -1,0 +1,284 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Oncor) (NNP Inc.) )
+      (, ,) 
+      (NP 
+        (NP (NNP Gaithersburg) )
+        (, ,) 
+        (NP (NNP Md.) ))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD received) 
+            (NP 
+              (NP (NN approval) 
+                (S (-NONE- *ICH*-2) ))
+              (PP (IN from) 
+                (NP (DT the) (NNP U.S.) (NNP Food) 
+                  (CC and)
+                  (NNP Drug) (NNP Administration) ))
+              (S-2 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB market) 
+                    (NP 
+                      (NP (DT a) (JJ genetic) (NN test) )
+                      (SBAR 
+                        (WHNP-1 (WDT that) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-1) )
+                          (VP (MD will) 
+                            (VP (VB assist) 
+                              (PP-LOC-CLR (IN in) 
+                                (NP 
+                                  (NP (NN diagnosis) 
+                                    (CC and)
+                                    (NN treatment) )
+                                  (PP (IN of) 
+                                    (NP 
+                                      (NP (NN leukemia) )
+                                      (CC and) 
+                                      (NP (NN lymph) (NN cancer) ))))))))))))))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NNP B\/T) (NN gene) (NN rearrangement) (NN test) )
+      (VP (VBZ is) 
+        (ADJP-PRD 
+          (ADJP (RBR more) (JJ accurate) )
+          (PP (IN than) 
+            (NP (VBG existing) (NNS tests) )))
+        (PP (IN for) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG diagnosing) 
+              (NP 
+                (NP 
+                  (NP (DT the) (NN type) )
+                  (PP (IN of) 
+                    (NP (NN cancer) )))
+                (, ,) 
+                (SBAR 
+                  (SBAR (IN whether) 
+                    (S 
+                      (NP-SBJ (PRP it) )
+                      (VP (VBZ has) 
+                        (VP (VBN spread) ))))
+                  (CC or) 
+                  (SBAR (IN whether) 
+                    (S 
+                      (NP-SBJ (EX there) )
+                      (VP (VBZ is) 
+                        (NP-PRD 
+                          (NP (DT a) (NN recurrence) )
+                          (VP (VBG following) 
+                            (NP (NN treatment) )))))))))))))
+    (, ,) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ (NNP Oncor) (NNP President) (NNP Stephen) (NNP Turner) )
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Turner) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN test) )
+          (VP 
+            (VP 
+              (ADVP-PRP (RB initially) )
+              (MD will) 
+              (VP (VB be) 
+                (VP (VBN used) 
+                  (PP-MNR (IN in) 
+                    (NP 
+                      (NP (NN conjunction) )
+                      (PP (IN with) 
+                        (NP 
+                          (NP (NNS biopsies) )
+                          (CC and) 
+                          (NP (JJ other) (NNS tests) ))))))))
+            (, ,) (CC but) 
+            (VP 
+              (ADVP-TMP (RB eventually) )
+              (MD might) 
+              (VP (VB become) 
+                (NP-PRD 
+                  (NP (DT the) (NN benchmark) )
+                  (PP (IN for) 
+                    (NP (NN tumor) (NN analysis) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Turner) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN test) )
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBN shipped) 
+                (NP (-NONE- *-1) )
+                (PP-TMP (IN in) 
+                  (NP (CD 45) (NNS days) ))
+                (PP-DIR (TO to) 
+                  (NP 
+                    (NP (NNS hospitals) )
+                    (CC and) 
+                    (NP (JJ clinical) (NNS laboratories) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Dr.) (NNP Wyndham) (NNP Wilson) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN cancer) (NN treatment) (NN specialist) )
+        (PP (IN at) 
+          (NP (DT the) (NNP National) (NNP Cancer) (NNP Institute) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN test) )
+          (VP 
+            (VP (VBZ is) 
+              (VP 
+                (ADVP (RB widely) )
+                (VBN used) 
+                (PP-LOC-CLR (IN in) 
+                  (NP (NN research) (NNS centers) ))))
+            (CC but) 
+            (VP (VBZ is) (RB n't) 
+              (VP (VBG having) 
+                (NP (DT a) (JJ major) (NN impact) )
+                (SBAR-PRP (IN because) 
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBZ is) 
+                      (ADJP-PRD 
+                        (ADVP (RB only) (RB occasionally) )
+                        (JJ useful) 
+                        (PP (IN in) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (VBG choosing) 
+                              (NP (DT the) 
+                                (ADJP (JJS most) (JJ effective) )
+                                (NN treatment) ))))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 (CC But) 
+      (NP-SBJ-1 (DT the) (NN test) )
+      (VP (MD may) 
+        (VP (VB prove) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (ADJP-PRD (RBR more) (JJ sensitive) 
+                  (PP (IN in) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG determining) 
+                        (SBAR (IN whether) 
+                          (S 
+                            (NP-SBJ (DT a) (NN tumor) )
+                            (VP (VBZ has) 
+                              (VP (VBN spread) (CC or) (VBN returned) 
+                                (PP (VBG following) 
+                                  (NP (NN treatment) ))))))))))))))))
+    (, ,) 
+    (NP-SBJ (NNP Dr.) (NNP Wilson) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP We) )
+      (VP (VBP do) (RB n't) 
+        (VP (VB know) 
+          (ADVP-TMP (RB yet) )
+          (SBAR 
+            (WHADVP-2 (WRB how) 
+              (ADJP (JJ useful) ))
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP (VBZ 's) 
+                (VP (VBG going) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB be) 
+                        (ADVP-PRD (-NONE- *T*-2) )))))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP Oncor) )
+        (, ,) 
+        (NP 
+          (NP (DT a) (JJ six-year-old) (NN developer) )
+          (PP (IN of) 
+            (NP (JJ genetic) (JJ medical) (NNS tests) )))
+        (, ,) )
+      (VP (VBZ projects) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NN cancer) (NN test) )
+            (VP (MD will) 
+              (VP (VB help) 
+                (NP (PRP it) )
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB post) 
+                      (NP (PRP$ its) (JJ first-ever) (NN profit) )
+                      (PP-TMP (IN during) 
+                        (NP 
+                          (NP (DT the) (JJ first) (NN quarter) )
+                          (PP (IN of) 
+                            (NP (CD 1990) )))))))))))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Turner) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN company) )
+      (VP 
+        (VP (MD will) 
+          (VP (VB charge) 
+            (NP ($ $) (CD 35) (-NONE- *U*) )
+            (PP-CLR (IN for) 
+              (NP (DT a) (NN test) ))))
+        (CC and) 
+        (VP (VBZ projects) 
+          (NP 
+            (NP (IN about) 
+              (QP ($ $) (CD 2) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN in) 
+              (NP (NN revenue) ))
+            (PP (IN from) 
+              (NP (DT the) (NN test) ))
+            (PP-TMP (IN during) 
+              (NP 
+                (NP (DT the) (JJ first) (CD 12) (NNS months) )
+                (PP (IN of) 
+                  (NP (NN marketing) ))))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))

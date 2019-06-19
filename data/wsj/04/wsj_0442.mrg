@@ -1,0 +1,440 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Quotron) (NNP Systems) (NNP Inc.) )
+    (VP (VBZ plans) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB cut) 
+            (NP 
+              (NP 
+                (NP 
+                  (QP (RB about) (CD 400) ))
+                (PRN 
+                  (, ,)
+                  (CC or) 
+                  (NP (CD 16) (NN %) )
+                  (, ,) ))
+              (PP (IN of) 
+                (NP (PRP$ its) (CD 2,500) (NNS employees) )))
+            (PP-TMP (IN over) 
+              (NP (DT the) (JJ next) (JJ several) (NNS months) ))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-2 (`` ``) 
+      (NP-SBJ-1 (DT This) (NN action) )
+      (VP (MD will) 
+        (VP (VB continue) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB keep) 
+                (NP (NN operating) (NNS expenses) )
+                (PP-CLR (IN in) 
+                  (NP 
+                    (NP (NN line) )
+                    ('' '') 
+                    (PP (IN with) 
+                      (NP (NN revenue) ))))))))))
+    (, ,) 
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP J.) (NNP David) (NNP Hann) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (NN president) )
+          (CC and) 
+          (NP (JJ chief) (JJ executive) (NN officer) ))
+        (PP (IN of) 
+          (NP 
+            (ADJP (NNP Los) (JJ Angeles-based) )
+            (NNP Quotron) ))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (DT The) (NN move) )
+        (PP (IN by) 
+          (NP 
+            (NP (DT the) (JJ financial) (NN information) 
+              (CC and)
+              (NNS services) (NN subsidiary) )
+            (PP (IN of) 
+              (NP (NNP Citicorp) )))))
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (DT a) (`` ``) (NN response) )
+          (PP (TO to) 
+            (NP 
+              (NP (VBG changing) (NNS conditions) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (DT the) (JJ retail) (NNS securities) (NN industry) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-1 (WDT which) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBZ has) 
+                        (VP (VBN been) 
+                          (VP (VBG contracting) ('' '') 
+                            (PP-TMP (IN since) 
+                              (NP 
+                                (NP (NNP October) (CD 1987) (POS 's) )
+                                (NN stock) (NN market) (NN crash) ))))))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN executive) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Quotron) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (VB Citicorp) )
+          (VP (VBD purchased) 
+            (NP (-NONE- *T*-1) )
+            (PP-TMP (IN in) 
+              (NP (CD 1986) )))))
+      (, ,) )
+    (VP (VBZ provides) 
+      (NP 
+        (NP (NN price) (NNS quotations) )
+        (PP (IN for) 
+          (NP 
+            (NP (NNS securities) )
+            (, ,) 
+            (ADVP (RB particularly) )
+            (NP (NNS stocks) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Quotron) )
+    (ADVP (RB also) )
+    (VP (VBZ provides) 
+      (NP 
+        (NP (NN trading) 
+          (CC and)
+          (JJ other) (NNS systems) )
+        (, ,) 
+        (NP 
+          (NP (NNS services) )
+          (PP (IN for) 
+            (NP (NN brokerage) (NNS firms) )))
+        (, ,) 
+        (CC and)
+        (NP (JJ communications-network) (NNS services) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Independent) (NNS providers) )
+      (PP (IN of) 
+        (NP (JJ financial) (NN information) ))
+      (, ,) 
+      (PP (VBG including) 
+        (NP (NN Quotron) ))
+      (, ,) )
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (PP-PRD (IN under) 
+          (NP (DT some) (NN pressure) ))
+        (SBAR-ADV (IN as) 
+          (S 
+            (NP-SBJ-1 (DT the) (JJ major) (NNS securities) (NNS houses) )
+            (VP (VBP try) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB regain) 
+                    (NP 
+                      (NP (PRP$ their) (NN hold) )
+                      (PP 
+                        (PP (IN on) 
+                          (NP 
+                            (NP (DT the) (NN production) )
+                            (PP (IN of) 
+                              (NP (NN market) (NNS data) ))))
+                        (CC and) 
+                        (PP (IN on) 
+                          (NP (DT the) (JJ related) (NN revenue) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Shearson) 
+        (, ,)
+        (NNP Goldman) 
+        (, ,)
+        (NNP Sachs) (CC &) (NNP Co.) )
+      (, ,) 
+      (NP (NNP Morgan) (NNP Stanley) (CC &) (NNP Co.) )
+      (CC and) 
+      (NP (NNP Salomon) (NNP Inc.) ))
+    (VP (VBP are) 
+      (VP (VBG discussing) 
+        (NP 
+          (NP (NN formation) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT a) (NN group) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (TO to) 
+                    (VP (VB sell) 
+                      (NP (JJ securities-price) (NNS data) ))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-3 
+      (NP-SBJ 
+        (NP (DT The) (NN job) (NNS cuts) )
+        (, ,) 
+        (SBAR 
+          (WHNP-2 (-NONE- 0) )
+          (S 
+            (NP-SBJ-1 (-NONE- *T*-2) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (VP (VBN made) 
+                  (NP (-NONE- *-1) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (DT a) (NN number) )
+                      (PP (IN of) 
+                        (NP (NNS areas) ))))
+                  (PP-LOC (IN at) 
+                    (NP (JJ various) (NN job) (NNS levels) )))))))
+        (, ,) )
+      (VP (VBP are) (`` ``) 
+        (NP-PRD 
+          (NP (DT a) (NN streamlining) )
+          (PP (IN of) 
+            (NP (NNS operations) )))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT a) (NN spokeswoman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))
+( (S-1 
+    (S 
+      (NP-SBJ (DT The) (NN company) )
+      (VP (VBZ has) 
+        (NP (DT no) (JJ immediate) (NNS plans) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB close) 
+                (NP (DT any) (NNS operations) )))))))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP she) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (CC but) 
+    (S 
+      (NP-SBJ (NNP Quotron) )
+      (VP (MD may) 
+        (VP (VB subcontract) 
+          (NP 
+            (NP (DT some) (NN work) )
+            (SBAR 
+              (WHNP-2 (IN that) )
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (VBZ has) 
+                  (VP (VBN been) 
+                    (VP (VBG doing) 
+                      (NP (-NONE- *T*-2) )
+                      (ADVP-MNR (NN in-house) ))))))
+            (, ,) 
+            (PP (VBG including) 
+              (NP 
+                (NP (NN refurbishment) 
+                  (CC and)
+                  (NN production) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Quotron) (CD 1000) (NN equipment) )
+                    (VP (VBN used) 
+                      (NP (-NONE- *) )
+                      (PP-LOC-CLR (IN in) 
+                        (S-NOM 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (VBG delivering) 
+                            (NP (JJ financial) (NNS data) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN spokeswoman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN move) )
+          (VP (VBZ is) (RB n't) 
+            (ADVP (RB directly) )
+            (NP-PRD 
+              (NP (DT a) (NN response) )
+              (PP (TO to) 
+                (NP 
+                  (NP 
+                    (NP (NNP Quotron) (POS 's) )
+                    (NN loss) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (PRP$ its) (CD two) (JJS biggest) (NNS customers) )
+                      (, ,) 
+                      (NP 
+                        (NP (NNP Merrill) (NNP Lynch) (CC &) (NNP Co.) )
+                        (CC and) 
+                        (NP 
+                          (NP (NNP American) (NNP Express) (NNP Co.) (POS 's) )
+                          (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc.) ))))
+                  (, ,) 
+                  (PP (TO to) 
+                    (NP (NNP Automated) (NNP Data) (NNP Processing) (NNP Inc.) ))
+                  (NP-TMP (RB earlier) (DT this) (NN year) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN spokeswoman) )
+    (VP (VBD noted) 
+      (SBAR (DT that) 
+        (S 
+          (NP-TMP (JJ last) (NN week) )
+          (, ,) 
+          (NP-SBJ 
+            (NP (NNP Kidder) 
+              (, ,)
+              (NNP Peabody) (CC &) (NNP Co.) )
+            (, ,) 
+            (NP 
+              (NP (DT the) (NNS securities) (NN subsidiary) )
+              (PP (IN of) 
+                (NP (NNP General) (NNP Electric) (NNP Co.) )))
+            (, ,) )
+          (VP (VBD chose) 
+            (NP 
+              (NP (DT a) (NNP Quotron) (NN subsidiary) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (TO to) 
+                    (VP (VB provide) 
+                      (NP (JJ order-processing) (NNS services) ))))))))))
+    (. .) ))
+( (S (CC And) 
+    (NP-TMP (NNP Oct.) (CD 24) )
+    (, ,) 
+    (NP-SBJ (NNP Quotron) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB market) 
+              (NP 
+                (NP (DT the) (VBN automated) (NN trading) (NN system) )
+                (PP (IN of) 
+                  (NP (JJ broker-dealer) (NNP Chapdelaine) (NNP Government) (NNP Securities) (NNP Inc) ))))))))
+    (. .) ))
+((SINV 
+    (S-TPC-2 
+      (NP-SBJ (NNP Quotron) )
+      (VP (VBZ is) (RB n't) 
+        (ADJP-PRD (JJ profitable) )
+        (PP-LOC (IN on) 
+          (NP 
+            (NP (NNP Citicorp) (POS 's) )
+            (NNS books) ))
+        (PP-PRP (IN because) (IN of) 
+          (NP 
+            (NP (DT the) (NN interest) (VBZ charges) )
+            (SBAR 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ-3 (DT the) (NNP New) (NNP York) (NN bank) (VBG holding) (NN company) )
+                (VP (VBD incurred) 
+                  (NP (-NONE- *T*-1) )
+                  (PP-LOC-CLR (IN in) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *-3) )
+                      (VP (VBG buying) 
+                        (NP (DT the) (JJ financial-data) (NN concern) )
+                        (PP-CLR (IN for) 
+                          (NP 
+                            (QP ($ $) (CD 680) (CD million) )
+                            (-NONE- *U*) ))))))))))))
+    (, ,) 
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (NP-SBJ 
+      (NP (NNP Ronald) (NNP I.) (NNP Mandle) )
+      (, ,) 
+      (NP 
+        (NP (NN analyst) )
+        (PP (IN for) 
+          (NP (NNP Sanford) (NNP C.) (NNP Bernstein) (CC &) (NNP Co) ))))
+    (. .) ))
+( (S 
+    (S-TPC-1 (CC But) 
+      (NP-SBJ (NNP Citicorp) )
+      (`` ``) 
+      (VP (VBZ does) 
+        (VP (VB view) 
+          (NP-2 (NNP Quotron) )
+          (-RRB- -RRB-) 
+          (PP-CLR (IN as) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (VBG being) 
+                (ADJP-PRD (JJ crucial) 
+                  (PP (TO to) 
+                    (NP (DT the) (NNS financial-services) (NN business) )))
+                (PP-TMP (IN in) 
+                  (NP (DT the) (CD 1990s) ))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT the) (NN analyst) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-TMP (DT This) (NN past) (NN summer) )
+    (, ,) 
+    (NP-SBJ (NNP Quotron) )
+    (VP (VBD sold) 
+      (NP 
+        (NP (PRP$ its) (JJ customer-service) (NN unit) )
+        (, ,) 
+        (VP (VBG employing) 
+          (NP (CD 600) ))
+        (, ,) )
+      (PP-DTV (TO to) 
+        (NP 
+          (NP (NNP Phoenix) (NNP Technologies) (NNP Inc.) )
+          (, ,) 
+          (NP 
+            (NP (DT a) 
+              (ADJP (RB closely) (VBN held) )
+              (JJ computer-service) (NN firm) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NNP Valley) (NNP Forge) )
+                (, ,) 
+                (NP (NNP Pa) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))

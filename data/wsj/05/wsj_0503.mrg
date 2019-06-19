@@ -1,0 +1,105 @@
+
+( (S 
+    (NP-SBJ (NNP Karstadt) (NNP AG) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS sales) )
+            (PP (IN for) 
+              (NP (PRP$ its) (JJ domestic) (NN group) )))
+          (VP (VBD rose) 
+            (NP-EXT (CD 4.6) (NN %) )
+            (PP-TMP (IN in) 
+              (NP 
+                (NP (DT the) (JJ first) (CD nine) (NNS months) )
+                (PP (IN of) 
+                  (NP (CD 1989) ))))
+            (PP-DIR (IN from) 
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (RBR earlier) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) 
+      (ADJP (JJ West) (JJ German) )
+      (VBG retailing) (NN group) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NNS results) )
+            (PP (IN of) 
+              (NP (DT the) (JJ first) (CD three) (NNS quarters) )))
+          (VP (VBP suggest) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (MD will) 
+                  (VP (VB meet) 
+                    (NP 
+                      (NP (PRP$ its) (NN profit) (NN goal) )
+                      (PP (IN for) 
+                        (NP (DT the) (NN year) )))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (NNS Earnings) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (DT the) (NN department-store) (NN division) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ generates) 
+                  (NP 
+                    (NP (DT the) (NN bulk) )
+                    (PP (IN of) 
+                      (NP (NN profit) ))))))
+            (, ,) )))
+      (VP (MD should) 
+        (VP (VB remain) 
+          (ADJP-PRD 
+            (ADVP (IN at) (JJS least) )
+            (JJ stable) )
+          (, ,) 
+          (SBAR-ADV (IN while) 
+            (S 
+              (NP-SBJ-3 
+                (NP (NN income) )
+                (PP-LOC (IN at) 
+                  (NP (DT the) (NN mail-order) 
+                    (CC and)
+                    (NN tourism) (NNS units) )))
+              (VP (VBZ is) 
+                (ADJP-PRD (JJ likely) 
+                  (S 
+                    (NP-SBJ (-NONE- *-3) )
+                    (VP (TO to) 
+                      (VP (VB fall) 
+                        (ADVP-MNR (RB slightly) )
+                        (PP-DIR (IN from) 
+                          (NP-TMP (CD 1988) ))))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Karstadt) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB give) 
+        (NP 
+          (NP (DT any) 
+            (NX 
+              (NX (NN group) (NNS sales) )
+              (CC or) 
+              (NX (NN profit) (NNS figures) )))
+          (PP (IN for) 
+            (NP (DT the) (JJ first) (CD nine) (NNS months) )))))
+    (. .) ))

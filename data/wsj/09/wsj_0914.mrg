@@ -1,0 +1,85 @@
+
+( (S 
+    (NP-SBJ (NNP ALAMCO) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NN board) )
+          (VP (VBZ has) 
+            (VP (VBN approved) 
+              (NP (DT a) (JJ 1-for-10) (NN reverse) (NN stock) (NN split) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) 
+        (NAC-LOC (NNP Clarksburg) 
+          (, ,)
+          (NNP W.Va.) 
+          (, ,)
+          )
+        (NN producer) )
+      (PP (IN of) 
+        (NP (NN gas) 
+          (CC and)
+          (NN oil) ))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ wants) 
+            (S 
+              (NP-SBJ (NNS shareholders) )
+              (VP (TO to) 
+                (VP (VB approve) 
+                  (NP (DT the) (NN split) )
+                  (SBAR-PRP (IN because) 
+                    (S 
+                      (NP-SBJ (PRP it) )
+                      (VP (MD would) (`` ``) 
+                        (VP (VB enhance) 
+                          (NP 
+                            (NP (DT the) (NN marketability) ('' '') 
+                              (CC and)
+                              (NN trading) )
+                            (PP (IN of) 
+                              (NP (DT the) (NN stock) ))))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ-1 (-NONE- *) )
+        (VP (VBN approved) 
+          (NP (-NONE- *-1) )
+          (PP-LOC (IN at) 
+            (NP 
+              (NP (DT a) (NN shareholder) (NN meeting) )
+              (PP-TMP (IN in) 
+                (NP (NNP December) )))))))
+    (, ,) 
+    (S 
+      (NP-SBJ 
+        (NP (DT the) (NN number) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS shares) )
+            (ADJP (JJ outstanding) ))))
+      (VP (MD would) 
+        (VP (VB decrease) 
+          (PP-DIR (TO to) 
+            (NP 
+              (QP (CD five) (CD million) )))
+          (PP-DIR (IN from) 
+            (NP 
+              (QP (CD 50) (CD million) ))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (IN par) (NN value) )
+      (VP (MD would) 
+        (VP (VB rise) 
+          (PP-DIR (TO to) 
+            (NP (CD 10) (NNS cents) ))
+          (PP-DIR (IN from) 
+            (NP (DT a) (NN penny) )))))
+    (. .) ))

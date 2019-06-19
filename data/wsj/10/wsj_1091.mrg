@@ -1,0 +1,243 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Quickview) (NNPS Systems) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD filed) 
+            (NP (DT a) (NN lawsuit) )
+            (PP-CLR (IN against) 
+              (NP (NNP Apple) (NNP Computer) (NNP Inc.) )))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG claiming) 
+          (NP 
+            (NP (NN patent) (NN infringement) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT an) (NN element) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Apple) (POS 's) )
+                    (JJ popular) (NNP HyperCard) (NN software) (NN program) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN suit) )
+      (, ,) 
+      (VP (VBN filed) 
+        (NP (-NONE- *) )
+        (PP-LOC (IN in) 
+          (NP (NNP Minneapolis) (JJ federal) (NN court) )))
+      (, ,) )
+    (VP (VBZ claims) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNP Apple) )
+          (VP (VBD violated) 
+            (NP 
+              (NP (DT a) (NNP Quickview) (NN patent) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBZ allows) 
+                    (S 
+                      (NP-SBJ (NN computer) (NNS users) )
+                      (VP (TO to) 
+                        (VP (VB display) (`` ``) 
+                          (NP 
+                            (NP (JJ only) (NNS portions) )
+                            (PP (IN of) 
+                              (NP (JJ multiple) (NNS fields) )))
+                          (PP-LOC (IN on) 
+                            (NP (DT a) (NN computer) (NN screen) ))
+                          (PP (IN with) 
+                            (NP (DT the) (NN ability) 
+                              (S 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (TO to) 
+                                  (VP (VB see) 
+                                    (NP 
+                                      (NP (DT the) (JJ entire) (NNS contents) )
+                                      (PP (IN of) 
+                                        (NP (DT any) (VBN given) (NN field) )))))))))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ-2 (DT The) (NNP HyperCard) (NN program) )
+    (VP 
+      (VP (VBZ allows) 
+        (S 
+          (NP-SBJ (NNS users) )
+          (VP (TO to) 
+            (VP (VB design) 
+              (NP 
+                (NP (NNS applications) )
+                (PP (IN for) 
+                  (NP (NNP Macintosh) (NNS computers) )))
+              (PP (IN without) 
+                (S-NOM 
+                  (NP-SBJ-1 (-NONE- *) )
+                  (VP (VBG having) 
+                    (S 
+                      (NP-SBJ (-NONE- *-1) )
+                      (VP (TO to) 
+                        (VP (VB be) 
+                          (NP-PRD (NN hardcore) (NNS programmers) )))))))))))
+      (CC and) 
+      (VP (VBZ is) 
+        (VP (VBN distributed) 
+          (NP (-NONE- *-2) )
+          (PP-CLR (IN with) 
+            (NP 
+              (NP (DT every) (NNP Macintosh) )
+              (VP (VBN sold) 
+                (NP (-NONE- *) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ 's) 
+        (NP-PRD 
+          (NP (CD one) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) 
+                (ADJP (RBS most) (JJ popular) )
+                (NN computer) (NNS programs) )
+              (PP (IN of) 
+                (NP (DT all) (NN time) )))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (NNS analysts) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-1 (DT the) (NNP Quickview) (NN suit) )
+            (VP (VBZ does) (RB n't) 
+              (VP (VB appear) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB bode) 
+                      (NP 
+                        (NP (JJ major) (NNS difficulties) )
+                        (PP (IN for) 
+                          (NP (NNP Apple) ))))))))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (NN technology) )
+        (PP (IN at) 
+          (NP (NN issue) )))
+      (`` ``) 
+      (VP (VBZ is) (RB not) 
+        (NP-PRD 
+          (NP (DT an) (VBG underlying) (NN technology) )
+          (PP (IN of) 
+            (NP (NNP HyperCard) )))
+        (PP (TO to) 
+          (NP (PRP$ my) (NN knowledge) ))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (NNP Danny) (NNP Goodman) )
+      (, ,) 
+      (NP (DT a) 
+        (ADJP (NNP San) (JJ Francisco-area) )
+        (NNP HyperCard) (NN program) (NN developer) ))
+    (. .) ))
+( (S 
+    (ADVP (RB Nonetheless) )
+    (, ,) 
+    (NP-SBJ (DT the) (NN suit) )
+    (VP (VBZ seeks) 
+      (NP 
+        (NP (JJ unspecified) (NNS damages) )
+        (SBAR 
+          (WHNP-1 (IN that) )
+          (S 
+            (NP-SBJ 
+              (NP (DT an) (NN attorney) )
+              (PP (IN for) 
+                (NP (NNP Quickview) )))
+            (VP (VBD claimed) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (MD could) 
+                    (VP (VB run) 
+                      (PP-CLR (IN into) 
+                        (NP 
+                          (NP (DT the) (NNS millions) )
+                          (PP (IN of) 
+                            (NP (NNS dollars) )))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP Cupertino) 
+        (, ,)
+        (NNP Calif.) ))
+    (, ,) 
+    (NP-SBJ (NNP Apple) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ believes) 
+            (SBAR 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (DT the) (NN case) )
+                  (VP (VBZ has) 
+                    (NP (DT no) (NN merit) ))))
+              (, ,) 
+              (CC and)
+              (SBAR (DT that) 
+                (S 
+                  (NP-SBJ (NNP HyperCard) )
+                  (VP (VBZ does) (RB not) 
+                    (VP (VB infringe) 
+                      (NP (`` ``) 
+                        (NP (DT any) (JJ valid) (NNS claims) )
+                        ('' '') 
+                        (PP (IN of) 
+                          (NP (DT the) (NNP Quickview) (NNS patents) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD filed) 
+            (NP 
+              (NP (DT an) (NN action) )
+              (PP (IN of) 
+                (NP (PRP$ its) (JJ own) )))
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (JJ federal) (NN court) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (NNP San) (NNP Jose) )
+                    (, ,) 
+                    (NP (NNP Calif.) )
+                    (, ,) ))))
+            (S-ADV 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VBG seeking) 
+                (NP (DT a) (NN declaration) 
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ 
+                        (NP (NNP Quickview) (POS 's) )
+                        (NNS claims) )
+                      (VP (VBP are) 
+                        (ADJP-PRD (JJ invalid) )))))))))))
+    (. .) ))

@@ -1,0 +1,40 @@
+
+( (X (SYM @) ))
+( (NP 
+    (NP 
+      (NP (NNP Money) (NNP Market) (NNS Deposits) )
+      (: -) 
+      (NP (SYM a) ))
+    (NP (CD 6.23) (NN %) )))
+( (NP 
+    (NP (SYM a) )
+    (: -) 
+    (NP 
+      (NP (JJ Average) (NN rate) )
+      (VP (VBN paid) 
+        (NP (-NONE- *) )
+        (NP-TMP (NN yesterday) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (CD 100) (JJ large) (NNS banks) 
+              (CC and)
+              (NNS thrifts) )
+            (PP-LOC (IN in) 
+              (NP (DT the) (CD 10) (JJS largest) (JJ metropolitan) (NNS areas) ))))
+        (SBAR-ADV (IN as) 
+          (S 
+            (NP-SBJ-1 (-NONE- *) )
+            (VP (VBN compiled) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS (NNP Bank) (NNP Rate) (NNP Monitor) )))))))
+    (. .) ))
+( (NP 
+    (NP (SYM b) )
+    (: -) 
+    (NP (JJ Current) (JJ annual) (NN yield) )
+    (. .) ))
+( (NP 
+    (NP (VBN Guaranteed) (NN minimum) )
+    (NP (CD 6) (NN %) )
+    (. .) ))

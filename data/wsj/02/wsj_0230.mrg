@@ -1,0 +1,102 @@
+
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNS Sales) )
+        (PP (IN of) 
+          (NP (JJ new) (NNS cars) ))
+        (PP-LOC (IN in) 
+          (NP (NNP Europe) )))
+      (VP (VBD fell) 
+        (NP-EXT (CD 4.2) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))
+        (PP-DIR (IN from) 
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RB earlier) ))))
+    (CC and) 
+    (S 
+      (NP-SBJ (NNS analysts) )
+      (VP (VBP say) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-1 (DT the) (NN market) )
+            (VP (MD could) 
+              (VP (VB continue) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB soften) )))
+                (PP-TMP (IN in) 
+                  (NP (DT the) (NNS months) (RB ahead) ))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN After) 
+      (NP 
+        (NP (DT a) (JJ stronger-than-expected) (NN pace) )
+        (NP-TMP (RB early) (DT this) (NN year) )))
+    (, ,) 
+    (NP-SBJ (NNS analysts) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN market) )
+          (, ,) 
+          (PP-TMP (IN after) 
+            (NP 
+              (NP (DT a) (NN series) )
+              (PP (IN of) 
+                (NP (JJ sharp) (NNS swings) ))
+              (PP-LOC (IN in) 
+                (NP (JJ recent) (NNS months) ))))
+          (, ,) 
+          (ADVP-TMP (RB now) )
+          (VP (VBZ shows) 
+            (NP 
+              (NP (NNS signs) )
+              (PP (IN of) 
+                (NP (VBG retreating) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Statistics) )
+      (PP (IN from) 
+        (NP 
+          (NP (CD 12) (NNS countries) )
+          (SBAR 
+            (WHNP-75 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-75) )
+              (ADVP (RB normally) )
+              (VP (VBP account) 
+                (PP-CLR (IN for) 
+                  (NP 
+                    (NP (CD 94) (NN %) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (JJ non-communist) (NNP Europe) (POS 's) )
+                        (NN passenger) (NN car) (NNS sales) ))))))))))
+    (VP (VBD showed) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ new) (NN car) (NNS registrations) )
+          (VP (VBD totaled) 
+            (NP (CD 911,606) )
+            (PP-TMP (IN in) 
+              (NP (NNP September) ))
+            (, ,) 
+            (ADVP 
+              (ADVP (RB down) 
+                (NP (CD 21) (NN %) )
+                (PP (IN from) 
+                  (NP-TMP (NNP August) )))
+              (CC and) 
+              (ADVP (RB down) 
+                (NP (CD 4.2) (NN %) )
+                (PP (IN for) 
+                  (NP 
+                    (NP (DT the) (NN year) )
+                    (PP (TO to) 
+                      (NP (NN date) ))))))))))
+    (. .) ))

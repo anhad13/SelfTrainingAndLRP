@@ -1,0 +1,269 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP Food) 
+      (CC and)
+      (NNP Drug) (NNP Administration) )
+    (VP (VBD banned) 
+      (NP 
+        (NP (DT all) (NNS imports) )
+        (PP (IN of) 
+          (NP (NNS mushrooms) ))
+        (PP (IN from) 
+          (NP (NNP China) )))
+      (PP (IN in) 
+        (NP 
+          (NP (NN response) )
+          (PP (TO to) 
+            (NP 
+              (NP (DT a) (NN rash) )
+              (PP (IN of) 
+                (NP 
+                  (NP (JJ food-poisoning) (NNS outbreaks) )
+                  (VP (VBN linked) 
+                    (NP (-NONE- *) )
+                    (PP-CLR (TO to) 
+                      (NP (VBN canned) (JJ Chinese) (NNS mushrooms) ))))))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN agency) )
+      (VP (VBZ has) 
+        (VP (VBN concluded) 
+          (SBAR (DT that) 
+            (S 
+              (NP-SBJ (NN contamination) )
+              (VP (MD may) 
+                (VP (VB be) 
+                  (ADJP-PRD (JJ widespread) )
+                  (PP-LOC (IN throughout) 
+                    (NP 
+                      (NP (DT the) (JJ mushroom-processing) (NN industry) )
+                      (PP-LOC (IN in) 
+                        (NP (NNP China) )))))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (DT an) (NNP FDA) (NN spokesman) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) )
+      (NP-TMP (NN yesterday) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN agency) )
+    (VP (MD wo) (RB n't) 
+      (VP (VB allow) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS mushrooms) )
+            (SBAR 
+              (WHNP-2 (WDT that) )
+              (S 
+                (NP-SBJ-3 (-NONE- *T*-2) )
+                (VP (VBD were) 
+                  (VP 
+                    (VP (VBN canned) 
+                      (NP (-NONE- *-3) ))
+                    (CC or) 
+                    (VP (VBN packed) 
+                      (NP (-NONE- *-3) )
+                      (PP-MNR (IN in) 
+                        (NP (NN brine) )))
+                    (PP-LOC (IN at) 
+                      (NP (DT any) (JJ Chinese) (NN plant) )))))))
+          (VP (TO to) 
+            (VP (VB enter) 
+              (NP (DT the) (NNP U.S.) )
+              (SBAR-TMP (IN until) (`` ``) 
+                (S 
+                  (NP-SBJ-1 (JJ satisfactory) (JJ sanitation-control) (NNS measures) 
+                    (S (-NONE- *ICH*-4) ))
+                  (VP (VBP are) 
+                    (VP (VBN implemented) 
+                      (NP (-NONE- *-1) )
+                      (PP-LOC (IN in) 
+                        (NP (NNP China) ))
+                      (S-4 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB prevent) ('' '') 
+                            (NP (JJ bacterial) (NN contamination) )))))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN On) 
+      (NP (NNP May) (CD 19) ))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NNP FDA) )
+    (VP (VBD began) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG detaining) 
+          (NP 
+            (NP (JJ Chinese) (NNS mushrooms) )
+            (PP-LOC (IN in) 
+              (NP (JJ 68-ounce) (NNS cans) )))))
+      (SBAR-TMP (IN after) 
+        (S 
+          (NP-SBJ-2 
+            (NP 
+              (QP (RBR more) (IN than) (CD 100) )
+              (NNS people) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NNP Mississippi) )
+                (, ,) 
+                (NP (NNP New) (NNP York) )
+                (CC and) 
+                (NP (NNP Pennsylvania) ))))
+          (VP (VBD became) 
+            (ADJP-PRD (RB ill) )
+            (PP-PRP (IN from) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (VBG eating) 
+                  (NP (VBN tainted) (NNS mushrooms) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ subsequent) (NNS tests) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN agency) )
+    (VP (VBD found) 
+      (NP-2 
+        (NP (JJ smaller-size) (NNS cans) )
+        (PP (IN from) 
+          (NP (JJ several) (JJ Chinese) (NNS plants) )))
+      (S-CLR 
+        (NP-SBJ-1 (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB be) 
+            (VP 
+              (ADVP-MNR (RB similarly) )
+              (VBN contaminated) 
+              (NP (-NONE- *-1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS outbreaks) )
+    (VP (VBD were) 
+      (VP (VBN traced) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (NN staphylococcus) (NN aureus) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (NN type) )
+              (PP (IN of) 
+                (NP (NNS bacteria) ))
+              (SBAR 
+                (WHNP-2 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-2) )
+                  (VP (VBZ produces) 
+                    (NP 
+                      (NP (DT a) (NN toxin) )
+                      (ADJP (JJ capable) 
+                        (PP (IN of) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (VBG surviving) 
+                              (NP 
+                                (NP (DT the) (JJ high) (NNS temperatures) )
+                                (VP (VBN used) 
+                                  (NP (-NONE- *) )
+                                  (PP-LOC (IN in) 
+                                    (S-NOM 
+                                      (NP-SBJ (-NONE- *) )
+                                      (VP (VBG canning) 
+                                        (NP (NNS vegetables) )))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN recall) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NNS mushrooms) )
+          (VP (VBN blamed) 
+            (NP (-NONE- *) )
+            (PP-CLR (IN for) 
+              (NP (DT the) (NN food) (NN poisoning) ))))))
+    (VP (VBD began) 
+      (PP-TMP (IN in) 
+        (NP (JJ early) (NNP March) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (CD 1987) ))
+    (, ,) 
+    (NP-SBJ (NNP China) )
+    (VP (VBD exported) 
+      (NP 
+        (NP 
+          (QP (CD 65) (CD million) )
+          (NNS pounds) )
+        (PP (IN of) 
+          (NP (NNS mushrooms) ))
+        (, ,) 
+        (VP (VBN valued) 
+          (NP (-NONE- *) )
+          (PP-CLR (IN at) 
+            (NP 
+              (QP ($ $) (CD 47) (CD million) )
+              (-NONE- *U*) )))
+        (, ,) )
+      (PP-DIR-CLR (TO to) 
+        (NP (DT the) (NNP U.S.) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS shipments) )
+    (VP (VBD went) 
+      (PP-DIR 
+        (ADVP (RB mostly) )
+        (TO to) 
+        (NP 
+          (NP (JJ food-service) (NNS distributors) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBP supply) 
+                (NP (NNS pizzerias) 
+                  (CC and)
+                  (NNS restaurants) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN spokesman) )
+      (PP (IN for) 
+        (NP (DT the) (NNP Chinese) (NNP Embassy) )))
+    (ADVP-LOC (RB here) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NNP Beijing) (NN government) )
+          (VP 
+            (VP (VBZ has) 
+              (VP (VBN taken) 
+                (NP (`` ``) (JJ many) (JJ effective) (NNS measures) ('' '') 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB stop) 
+                        (NP (DT the) (NN mushroom) (NN contamination) )))))))
+            (CC and) 
+            (VP (VBZ is) 
+              (VP 
+                (ADVP (RB further) )
+                (VBG investigating) 
+                (NP (DT the) (VBG underlying) (NNS causes) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD predicted) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN problem) )
+          (VP (MD will) 
+            (VP (VB be) 
+              (VP (VBN solved) 
+                (NP (-NONE- *-1) )
+                (`` ``) 
+                (ADVP-TMP (RB very) (RB soon) )))))))
+    (. .) ('' '') ))

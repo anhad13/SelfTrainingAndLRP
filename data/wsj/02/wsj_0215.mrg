@@ -1,0 +1,96 @@
+
+( (S 
+    (NP-SBJ (NNP Alltel) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB acquire) 
+              (NP 
+                (NP (DT the) (CD 55) (NN %) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Pond) (NNP Branch) (NNP Telephone) (NNP Company) (NNP Inc.) (POS 's) )
+                    (JJ cellular) (NN franchise) ))
+                (SBAR 
+                  (WHNP-1 (IN that) )
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBZ does) (RB n't) 
+                      (VP (VB own) 
+                        (NP (-NONE- *T*-1) )
+                        (ADVP-TMP (RB already) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Alltel) )
+    (VP (VBZ holds) 
+      (NP 
+        (NP (CD 45) (NN %) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN franchise) )
+            (, ,) 
+            (SBAR 
+              (WHNP-59 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-59) )
+                (VP (VBZ has) 
+                  (NP 
+                    (NP (NNS operations) )
+                    (PP-LOC (IN in) 
+                      (NP 
+                        (NP 
+                          (NP (NNP Aiken) )
+                          (, ,) 
+                          (NP (NNP S.C.) ))
+                        (, ,) 
+                        (CC and)
+                        (NP 
+                          (NP (NNP Augusta) )
+                          (, ,) 
+                          (NP (NNP Ga) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Alltel) )
+      (, ,) 
+      (SBAR 
+        (WHNP-60 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-60) )
+          (VP (VBZ provides) 
+            (NP (JJ local) (NN telephone) (NN service) )
+            (PP-LOC (IN in) 
+              (NP (CD 25) (NNS states) )))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD exercised) 
+            (NP 
+              (NP (PRP$ its) (NN right) )
+              (PP (IN of) 
+                (NP (JJ first) (NN refusal) )))
+            (PP-TMP (VBG following) 
+              (NP 
+                (NP (DT an) (NN offer) 
+                  (S (-NONE- *ICH*-1) ))
+                (PP (IN from) 
+                  (NP (DT an) (JJ undisclosed) (JJ third) (NN party) ))
+                (S-1 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB acquire) 
+                      (NP 
+                        (NP (DT the) (NN majority) (NN position) )
+                        (PP-LOC (IN in) 
+                          (NP (DT the) (NN franchise) ))))))))))))
+    (. .) ))

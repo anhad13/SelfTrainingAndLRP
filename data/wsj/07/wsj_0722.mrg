@@ -1,0 +1,153 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Calgene) (NNP Inc.) )
+      (CC and) 
+      (NP (NNP Gustafson) (NNP Inc.) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP plan) 
+            (NP 
+              (NP (DT a) (JJ joint) (NN project) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (TO to) 
+                    (VP (VB develop) 
+                      (NP 
+                        (NP (JJ biological) (NNS products) )
+                        (SBAR 
+                          (WHNP-2 (-NONE- 0) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-2) )
+                            (VP (TO to) 
+                              (VP (VB control) 
+                                (NP 
+                                  (NP (JJ such) (NN plant) (NNS diseases) )
+                                  (PP (IN as) 
+                                    (NP 
+                                      (NP (NN aflatoxin) )
+                                      (, ,) 
+                                      (NP (DT a) (JJ potent) (JJ cancer-causing) (NN agent) ))))))))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (NN plan) ))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NNS companies) )
+    (VP (MD will) 
+      (VP (VB use) 
+        (NP 
+          (NP (NNP Calgene) (POS 's) )
+          (JJ patented) (NN technology) )
+        (S-CLR 
+          (NP-SBJ-2 (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB encapsulate) 
+              (NP 
+                (NP (NNS microbes) )
+                (PP (JJ such) (IN as) 
+                  (NP 
+                    (NP (NN Bacillus) (NNS subtilis) )
+                    (, ,) 
+                    (NP (DT a) (NN bacterium) )
+                    (, ,) )))
+              (S-PRP 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB enhance) 
+                    (NP (PRP$ their) (JJ biological) (NN activity) )
+                    (PP-CLR (IN against) 
+                      (NP (NN plant) (NNS diseases) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Calgene) )
+      (, ,) 
+      (NP (DT an) (JJ agricultural) (NN biotechnology) (NN concern) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ initial) (NN work) )
+          (VP (MD will) 
+            (VP (VB concentrate) 
+              (PP-CLR (IN on) 
+                (NP 
+                  (NP (DT a) (JJ proprietary) (NN strain) )
+                  (PP (IN of) 
+                    (NP (NN Bacillus) (NNS subtilis) ))
+                  (SBAR 
+                    (WHNP-1 (WDT which) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBZ has) 
+                        (VP (VBN shown) 
+                          (NP 
+                            (NP (NN promise) )
+                            (PP (IN for) 
+                              (S-NOM 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (VBG controlling) 
+                                  (NP (NN aflatoxin) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN strain) )
+    (VP (VBD was) 
+      (VP 
+        (VP (VBN discovered) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS (NNP Morinaga) (CC &) (NNP Co.) )))
+        (CC and) 
+        (VP (VBN licensed) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (TO to) 
+            (NP 
+              (NP (NNP Gustafson) )
+              (, ,) 
+              (NP 
+                (NP (DT a) (NN unit) )
+                (PP (IN of) 
+                  (NP (NNP Uniroyal) (NNP Chemical) (NNP Co) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NN Aflatoxin) )
+    (VP (VBZ is) 
+      (VP (VBN released) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (NNS molds) ))
+        (PP-TMP (IN during) 
+          (NP (NN grain) 
+            (CC and)
+            (NN seed) (NN storage) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ recent) (NN appearance) )
+      (PP (IN of) 
+        (NP (NN aflatoxin) ))
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (JJ such) (NNS foods) )
+          (PP (IN as) 
+            (NP 
+              (NP (NN corn) )
+              (CC and) 
+              (NP (NN peanut) (NN butter) ))))))
+    (VP (VBZ has) 
+      (VP (VBN sparked) 
+        (NP 
+          (NP (JJ public) (NN concern) )
+          (CC and) 
+          (NP 
+            (NP (NN consumer) (NN scrutiny) )
+            (PP (IN of) 
+              (NP (NN food) (NN handling) 
+                (CC and)
+                (NN storage) (NNS procedures) ))))))
+    (. .) ))

@@ -1,0 +1,71 @@
+
+( (S 
+    (NP-SBJ (NNP Cincinnati) (NNP Microwave) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD introduced) 
+            (NP (CD two) (NN radar) (NNS detectors) )))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (CD One) (NN unit) )
+        (, ,) 
+        (VP (VBD called) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (NP-PRD (DT the) (NNP Escort) )))
+        (, ,) )
+      (VP (VBZ uses) 
+        (NP (DT a) (JJ new) (JJ digital) (JJ signal-processing) (NN technology) )
+        (S-CLR 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB detect) 
+              (NP (NN radar) (NNS signals) )
+              (ADVP-TMP 
+                (ADVP (RB much) (RBR sooner) )
+                (SBAR (IN than) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBD was) 
+                      (ADVP-TMP (RB previously) )
+                      (ADJP-PRD (JJ possible) ))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (DT The) (JJ other) )
+        (, ,) 
+        (VP (VBN called) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (NP-PRD (DT the) (NNP Solo) )))
+        (, ,) )
+      (VP 
+        (VP (VBZ is) 
+          (ADJP-PRD (NN battery) (VBN operated) ))
+        (CC and) 
+        (VP (VBZ is) 
+          (NP-PRD 
+            (NP (DT the) (JJ first) (JJ high-performance) (NN radar) (NN detector) )
+            (SBAR 
+              (WHNP-1 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ does) (RB n't) 
+                  (VP (VB need) 
+                    (NP (DT a) (NN power) (NN cord) )))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))

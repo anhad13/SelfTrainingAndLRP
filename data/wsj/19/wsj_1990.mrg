@@ -1,0 +1,98 @@
+
+( (S 
+    (NP-SBJ (NNP Crown) (NNP Resources) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD reached) 
+            (NP (DT a) (JJ definitive) (NN agreement) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB acquire) 
+                    (NP 
+                      (NP (DT the) (NNP Gold) (NNP Texas) (NNP Resources) (NNP Ltd.) (NNS shares) )
+                      (SBAR 
+                        (WHNP-1 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (PRP it) )
+                          (VP (VBZ does) (RB n't) 
+                            (ADVP-TMP (RB already) )
+                            (VP (JJ own) 
+                              (NP (-NONE- *T*-1) ))))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (VBN proposed) (NN agreement) ))
+    (, ,) 
+    (NP-SBJ (NNP Gold) (NNP Texas) (NNS holders) )
+    (VP (MD will) 
+      (VP (VB receive) 
+        (NP (CD 1.43) (NNP Crown) (NNS shares) )
+        (PP (IN for) 
+          (NP 
+            (NP (DT each) )
+            (PP (IN of) 
+              (NP (DT the) 
+                (QP (CD 1.1) (CD million) )
+                (NNP Gold) (NNP Texas) (NNS shares) ))
+            (VP (RB not) (VBN owned) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (NNP Crown) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP-1 (WDT which) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (ADVP-TMP (RB already) )
+                      (VP (VBZ owns) 
+                        (NP (CD 65) (NN %) )))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN arrangement) )
+      (VP (VBZ is) 
+        (ADJP-PRD (JJ subject) 
+          (PP (TO to) 
+            (NP 
+              (NP (NN approval) )
+              (PP (IN by) 
+                (NP 
+                  (NP (DT the) (NNP Supreme) (NNP Court) )
+                  (PP (IN of) 
+                    (NP (NNP British) (NNP Columbia) (NN province) )))))))))
+    (, ,) 
+    (NP-SBJ (NNP Crown) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (NNP Gold) (NNP Texas) )
+      (VP (VBZ is) 
+        (VP (VBN based) 
+          (NP (-NONE- *-1) )
+          (PP-LOC-CLR (IN in) 
+            (NP 
+              (NP (NNP Vancouver) )
+              (, ,) 
+              (NP (NNP British) (NNP Columbia) ))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-2 (NNP Crown) (NNP Resources) )
+      (VP (VBZ is) 
+        (VP (VBN based) 
+          (NP (-NONE- *-2) )
+          (PP-LOC-CLR (IN in) 
+            (NP (NNP Denver) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Both) )
+    (VP (VBP are) 
+      (NP-PRD (NN mining) (NNS concerns) ))
+    (. .) ))

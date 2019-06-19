@@ -1,0 +1,76 @@
+
+( (S 
+    (NP-SBJ-1 (DT The) (NNP Treasury) )
+    (VP (NNS plans) 
+      (S 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB raise) 
+            (NP 
+              (NP 
+                (QP ($ $) (CD 175) (CD million) )
+                (-NONE- *U*) )
+              (PP (IN in) 
+                (NP (JJ new) (NN cash) )))
+            (NP-TMP (NNP Thursday) )
+            (PP-MNR (IN by) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-2) )
+                (VP 
+                  (VP (VBG selling) 
+                    (NP 
+                      (NP 
+                        (QP (RB about) ($ $) (CD 9.75) (CD billion) )
+                        (-NONE- *U*) )
+                      (PP (IN of) 
+                        (NP (JJ 52-week) (NNS bills) ))))
+                  (CC and) 
+                  (VP (VBG redeeming) 
+                    (NP 
+                      (NP ($ $) (CD 9.58) (CD billion) (-NONE- *U*) )
+                      (PP (IN of) 
+                        (NP (VBG maturing) (NNS bills) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS bills) )
+    (VP 
+      (VP (MD will) 
+        (VP (VB be) 
+          (VP (VBN dated) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (NP-PRD (NNP Oct.) (CD 26) )))))
+      (CC and) 
+      (VP (MD will) 
+        (VP (VB mature) 
+          (NP-TMP (NNP Oct.) (CD 25) 
+            (, ,)
+            (CD 1990) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (ADJP-PRD (JJ available) 
+          (PP (IN in) 
+            (NP 
+              (NP (JJ minimum) (NNS denominations) )
+              (PP (IN of) 
+                (NP ($ $) (CD 10,000) (-NONE- *U*) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Bids) )
+    (VP (MD must) 
+      (VP (VB be) 
+        (VP (VBN received) 
+          (NP (-NONE- *-1) )
+          (PP-TMP (IN by) 
+            (NP (CD 1) (RB p.m.) (NNP EDT) ))
+          (NP-TMP (NNP Thursday) )
+          (PP-LOC 
+            (PP (IN at) 
+              (NP (DT the) (NNP Treasury) ))
+            (CC or) 
+            (PP (IN at) 
+              (NP (NNP Federal) (NNP Reserve) (NNS banks) (CC or) (NNS branches) ))))))
+    (. .) ))

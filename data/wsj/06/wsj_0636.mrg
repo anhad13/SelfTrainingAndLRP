@@ -1,0 +1,102 @@
+
+( (S 
+    (NP-SBJ-1 (DT The) (NNP NBC) (NN network) )
+    (VP (VBD canceled) 
+      (NP 
+        (NP (PRP$ its) (JJ first) (JJ new) (NN series) )
+        (PP (IN of) 
+          (NP (DT the) (NN fall) (NN TV) (NN season) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG killing) 
+          (NP 
+            (NP (NNP Mel) (NNP Brooks) (POS 's) )
+            (JJ wacky) (NN hotel) (NN comedy) (`` ``) 
+            (NX-TTL (NNP The) (NNP Nutt) (NNP House) )))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN show) )
+      (, ,) 
+      (NP 
+        (NP (CD one) )
+        (PP (IN of) 
+          (NP (CD five) (JJ new) (NNP NBC) (NN series) )))
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (JJ second) (NN casualty) )
+        (PP (IN of) 
+          (NP (DT the) (CD three) (NNS networks) )))
+      (ADVP-TMP (RB so) (RB far) )
+      (NP-TMP (DT this) (NN fall) ))
+    (. .) ))
+( (S 
+    (NP-TMP (JJ Last) (NN week) )
+    (NP-SBJ (NNP CBS) (NNP Inc.) )
+    (VP (VBD canceled) (`` ``) 
+      (NP-TTL 
+        (NP (NNP The) (NNP People) )
+        (ADVP-LOC (NNP Next) (NNP Door) )))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP NBC) (POS 's) )
+      (NN comedy) )
+    (VP 
+      (VP (VBD had) 
+        (VP (VBN aired) 
+          (NP-TMP (NNS Wednesdays) )
+          (PP-TMP (IN at) 
+            (NP (CD 9:30) (NN p.m.) ))))
+      (CC and) 
+      (VP 
+        (PP-LOC (IN in) 
+          (NP (CD five) (NNS outings) ))
+        (VBD had) 
+        (VP (VBN drawn) 
+          (NP 
+            (NP (DT an) (NN average) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (QP (JJ only) (CD 13.2) )
+                  (NN %) )
+                (PP (IN of) 
+                  (NP (NNS homes) )))))
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG lagging) 
+              (PP-CLR (IN behind) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NNP Jamie) (NNP Lee) (NNP Curtis) (NN comedy) (`` ``) 
+                      (NX-TTL (NNP Anything) (NNP But) (NNP Love) )
+                      ('' '') )
+                    (PP-LOC (IN on) 
+                      (NP (NNP ABC) )))
+                  (CC and) 
+                  (NP 
+                    (NP (NNP CBS) (POS 's) )
+                    (JJ one-hour) (NN drama) (`` ``) 
+                    (NX-TTL (NNP Jake) (NNP and) (NNP the) (NNP Fatman) )))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP NBC) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP (NNP General) (NNP Electric) (NNP Co.) )))
+      (, ,) )
+    (VP (VBZ has) (RB n't) 
+      (VP (VBN decided) 
+        (PP-CLR (IN on) 
+          (NP 
+            (NP (DT a) (JJ permanent) (NN replacement) )
+            (PP (IN for) 
+              (NP (DT the) (VBN canceled) (NN series) ))))))
+    (. .) ))

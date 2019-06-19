@@ -1,0 +1,99 @@
+
+( (S 
+    (NP-SBJ (NNP UGI) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NNP AmeriGas) (NN subsidiary) )
+          (VP (VBD completed) 
+            (NP 
+              (NP (DT the) 
+                (ADJP (RB previously) (JJ announced) )
+                (NN sale) )
+              (PP (IN of) 
+                (NP 
+                  (NP (PRP$ its) 
+                    (NX 
+                      (NX (NN air) (NN separation) (NN plant) )
+                      (CC and) 
+                      (NX (JJ related) (NNS assets) )))
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (NNP Waukesha) )
+                      (, ,) 
+                      (NP (NNP Wis.) )
+                      (, ,) ))))
+              (PP (TO to) 
+                (NP 
+                  (NP (NNP AGA) (NNP Gas) (NNP Inc.) )
+                  (, ,) 
+                  (NP (NNP Cleveland) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN price) )
+    (VP (VBD was) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN transaction) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP UGI) (POS 's) )
+            (VBG continuing) (NN program) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP 
+                  (VP (VB shed) 
+                    (NP 
+                      (NP (NNP AmeriGas) (POS 's) )
+                      (JJ industrial) (NN gas) (NNS interests) ))
+                  (CC and) 
+                  (VP (VB expand) 
+                    (NP 
+                      (NP (DT the) (NN subsidiary) (POS 's) )
+                      (NN propane) (NN business) )))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN Since) 
+      (NP (NNP June) ))
+    (, ,) 
+    (NP-SBJ-1 (NNP AmeriGas) )
+    (VP (VBZ has) 
+      (VP 
+        (VP (VBN netted) 
+          (NP 
+            (NP 
+              (QP (JJR more) (IN than) ($ $) (CD 100) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN from) 
+              (NP (JJ industrial) (NN gas) (NNS divestitures) ))))
+        (CC and) 
+        (VP (VBD reinvested) 
+          (NP 
+            (QP (JJR more) (IN than) ($ $) (CD 50) (CD million) )
+            (-NONE- *U*) )
+          (S-PRP 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB acquire) 
+                (NP (CD three) (NN propane) (NNS distributors) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP UGI) )
+    (VP 
+      (VP (VBZ is) 
+        (NP-PRD (DT a) (NN gas) 
+          (CC and)
+          (JJ electric) (NN utility) ))
+      (CC and) 
+      (VP (VBZ distributes) 
+        (NP (NN propane) )
+        (ADVP-LOC (RB nationally) )
+        (PP-MNR (IN through) 
+          (NP (PRP$ its) (NNP AmeriGas) (NN subsidiary) ))))
+    (. .) ))

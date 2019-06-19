@@ -1,0 +1,176 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Viacom) (NNP Inc.) )
+      (, ,) 
+      (NP-LOC (NNP New) (NNP York) )
+      (, ,) )
+    (VP (VBD reported) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP$ its) (JJ third-quarter) (NN loss) )
+          (VP (VBD widened) 
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 21.7) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD 41) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) ))
+            (PP 
+              (ADVP (RB primarily) )
+              (IN because) (IN of) 
+              (NP 
+                (NP (NN interest) (NN expense) )
+                (PP (IN of) 
+                  (NP 
+                    (QP ($ $) (CD 70.1) (CD million) )
+                    (-NONE- *U*) ))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP 
+      (NP (DT A) (NN year) )
+      (RB ago) )
+    (, ,) 
+    (NP-SBJ (NNP Viacom) )
+    (VP (VBD had) 
+      (NP 
+        (NP (DT a) (JJ net) (NN loss) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 56.9) (CD million) )
+              (-NONE- *U*) )
+            (, ,) (CC or) 
+            (NP 
+              (NP ($ $) (CD 1.07) (-NONE- *U*) )
+              (NP-ADV (DT a) (NN share) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Interest) (NN expense) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (CD 1988) (JJ third) (NN quarter) )))
+    (VP (VBD was) 
+      (NP-PRD 
+        (QP ($ $) (CD 75.3) (CD million) )
+        (-NONE- *U*) ))
+    (. .) ))
+( (S 
+    (S 
+      (PP-TMP (IN In) 
+        (NP (DT the) (JJ year-ago) (NN quarter) ))
+      (, ,) 
+      (NP-SBJ (NNP Viacom) )
+      (ADVP (RB also) )
+      (VP (VBD paid) 
+        (NP 
+          (NP (JJ preferred) (NN stock) (NNS dividends) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 17) (CD million) )
+              (-NONE- *U*) )))))
+    (: ;) 
+    (S 
+      (NP-SBJ (NNP Viacom) )
+      (VP (VBD exchanged) 
+        (NP (PRP$ its) (JJ preferred) (NN stock) )
+        (PP-CLR (IN for) 
+          (NP (NN debt) ))
+        (PP-TMP (IN in) 
+          (NP (NNP March) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS communications) 
+      (CC and)
+      (NN entertainment) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NN revenue) )
+          (VP (VBD rose) 
+            (PP-DIR (TO to) 
+              (NP 
+                (QP ($ $) (CD 345.5) (CD million) )
+                (-NONE- *U*) ))
+            (, ,) 
+            (PP-DIR (IN from) 
+              (NP 
+                (QP ($ $) (CD 311.6) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Viacom) )
+    (VP (VBD attributed) 
+      (NP (DT the) (NN improvement) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (JJR higher) (NNS earnings) )
+          (PP (IN from) 
+            (NP (NNS operations) ))
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (PRP$ its) (NNS networks) (NN segment) )
+              (, ,) 
+              (SBAR 
+                (WHNP-1 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBZ includes) 
+                    (NP (DT the) (NNP MTV) 
+                      (CC and)
+                      (NNP Showtime) (NNS networks) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Viacom) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (ADVP (RB also) )
+          (VP (VBD restructured) 
+            (NP (NN bank) (NN debt) )
+            (PP-LOC (IN under) 
+              (NP 
+                (NP (DT a) 
+                  (ADJP 
+                    (QP ($ $) (CD 1.5) (CD billion) )
+                    (-NONE- *U*) )
+                  (JJ unsecured) (NN bank) (NN agreement) )
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBZ offers) 
+                      (NP (JJ significant) (NN interest) (NN rate) (NNS savings) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Sumner) (NNP M.) (NNP Redstone) )
+      (, ,) 
+      (NP 
+        (NP (NNP Viacom) (POS 's) )
+        (NN chairman) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Viacom) )
+          (`` ``) 
+          (VP 
+            (VP (VBD emerged) 
+              (PP-DIR (IN from) 
+                (NP (PRP$ our) (JJ leveraged) (NN buy-out) (NN structure) )))
+            (CC and) 
+            (VP (VBD gained) 
+              (NP (JJ substantial) 
+                (UCP (NN operating) 
+                  (CC and)
+                  (JJ financial) )
+                (NN flexibility) )
+              (PP (IN through) ('' '') 
+                (NP (DT the) (NN bank) (NN pact) )))))))
+    (. .) ))

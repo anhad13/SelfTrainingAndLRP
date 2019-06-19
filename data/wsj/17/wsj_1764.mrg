@@ -1,0 +1,71 @@
+
+( (S 
+    (NP-SBJ (DT This) (NN magazine) 
+      (CC and)
+      (NN book) (NN publisher) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (CD three) (NNS men) )
+          (VP (VBD were) 
+            (VP (VBN elected) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (NP-PRD (NNS directors) ))
+              (, ,) 
+              (S-ADV 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG increasing) 
+                  (NP (DT the) (NN board) )
+                  (PP-DIR (TO to) 
+                    (NP (CD 10) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBP are) (: :) 
+      (NP-PRD 
+        (NP 
+          (NP (NNP James) (NNP R.) (NNP Eiszner) )
+          (, ,) 
+          (UCP 
+            (ADJP 
+              (NP (CD 62) (NNS years) )
+              (JJ old) )
+            (CC and) 
+            (NP 
+              (NP 
+                (NP (NN chairman) )
+                (CC and) 
+                (NP (NN chief) (JJ executive) (NN officer) ))
+              (PP (IN of) 
+                (NP (NNP CPC) (NNP International) (NNP Inc.) )))))
+        (: ;) 
+        (NP 
+          (NP (NNP Robert) (NNP G.) (NNP Schwartz) )
+          (, ,) 
+          (NP (CD 61) )
+          (, ,) 
+          (NP 
+            (NP 
+              (NP (NN chairman) )
+              (, ,) 
+              (NP (NN president) )
+              (CC and) 
+              (NP (NN chief) (JJ executive) (NN officer) ))
+            (PP (IN of) 
+              (NP (NNP Metropolitan) (NNP Life) (NNP Insurance) (NNP Co.) ))))
+        (, ,) 
+        (CC and)
+        (NP 
+          (NP (NNP Walter) (NNP V.) (NNP Shipley) )
+          (, ,) 
+          (NP (CD 53) )
+          (, ,) 
+          (NP 
+            (NP 
+              (NP (NN chairman) )
+              (CC and) 
+              (NP (NN chief) (JJ executive) (NN officer) ))
+            (PP (IN of) 
+              (NP (NNP Chemical) (NNP Banking) (NNP Corp) ))))))
+    (. .) ))

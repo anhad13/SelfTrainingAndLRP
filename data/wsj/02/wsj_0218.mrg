@@ -1,0 +1,68 @@
+
+( (S 
+    (NP-SBJ-32 (NNP Hani) (NNP Zayadi) )
+    (VP (VBD was) 
+      (VP (VBN appointed) 
+        (S 
+          (NP-SBJ (-NONE- *-32) )
+          (NP-PRD 
+            (NP 
+              (NP (NN president) )
+              (CC and) 
+              (NP (JJ chief) (NN executive) (NN officer) ))
+            (PP (IN of) 
+              (NP (DT this) 
+                (ADJP (RB financially) (JJ troubled) )
+                (NN department) (NN store) (NN chain) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (ADJP-PRD (JJ effective) 
+            (NP-TMP (NNP Nov.) (CD 15) )))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-32) )
+          (VP (VBG succeeding) 
+            (NP 
+              (NP (NNP Frank) (NNP Robertson) )
+              (, ,) 
+              (SBAR 
+                (WHNP-61 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-61) )
+                  (VP (VBZ is) 
+                    (VP (VBG retiring) 
+                      (ADVP-TMP (RB early) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Zayadi) )
+    (VP (VBD was) 
+      (ADVP-TMP (RB previously) )
+      (NP-PRD 
+        (NP 
+          (NP (NN president) )
+          (CC and) 
+          (NP (JJ chief) (VBG operating) (NN officer) ))
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Zellers) (NNP Inc.) )
+            (, ,) 
+            (NP 
+              (NP (DT a) (JJ retail) (NN chain) )
+              (SBAR 
+                (WHNP-2 (WDT that) )
+                (S 
+                  (NP-SBJ-33 (-NONE- *T*-2) )
+                  (VP (VBZ is) 
+                    (VP (VBN owned) 
+                      (NP (-NONE- *-33) )
+                      (PP (IN by) 
+                        (NP-LGS 
+                          (NP (JJ Toronto-based) 
+                            (NP (NNP Hudson) (POS 's) )
+                            (NNP Bay) (NNP Co.) )
+                          (, ,) 
+                          (NP 
+                            (NP (NNP Canada) (POS 's) )
+                            (JJS largest) (NN department) (NN store) (NN operator) ))))))))))))
+    (. .) ))

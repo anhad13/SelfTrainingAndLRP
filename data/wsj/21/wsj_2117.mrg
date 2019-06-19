@@ -1,0 +1,107 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (DT A) (NN seat) )
+      (PP-LOC (IN on) 
+        (NP 
+          (NP (DT the) (NNP Chicago) (NNP Board) )
+          (PP (IN of) 
+            (NP (NNP Trade) )))))
+    (VP (VBD was) 
+      (VP (VBN sold) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN for) 
+          (NP ($ $) (CD 390,000) (-NONE- *U*) ))
+        (, ,) 
+        (ADVP (RB down) 
+          (NP ($ $) (CD 5,000) (-NONE- *U*) )
+          (PP (IN from) 
+            (NP (DT the) (JJ previous) (NN sale) )
+            (NP-TMP (JJ last) (NNP Tuesday) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Seats) )
+    (ADVP-TMP (RB currently) )
+    (VP (VBP are) 
+      (VP (VBN quoted) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN at) 
+          (NP 
+            (NP 
+              (NP ($ $) (CD 353,500) (-NONE- *U*) )
+              (VP (NN bid) 
+                (NP (-NONE- *) )))
+            (, ,) 
+            (NP 
+              (NP ($ $) (CD 405,000) (-NONE- *U*) )
+              (VP (VBN asked) 
+                (NP (-NONE- *) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN record) (NN price) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT a) (JJ full) (NN membership) )
+          (PP-LOC (IN on) 
+            (NP (DT the) (NN exchange) )))))
+    (VP (VBZ is) 
+      (NP-PRD ($ $) (CD 550,000) (-NONE- *U*) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (VBN set) 
+          (NP (-NONE- *-2) )
+          (NP-TMP 
+            (NP (NNP Aug.) (CD 31) )
+            (, ,) 
+            (NP (CD 1987) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT An) (NN associate) (NN member) (NN seat) )
+    (VP (VBD was) 
+      (VP (VBN sold) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN for) 
+          (NP ($ $) (CD 228,000) (-NONE- *U*) ))
+        (, ,) 
+        (ADVP (IN up) 
+          (NP ($ $) (CD 8,000) (-NONE- *U*) )
+          (PP (IN from) 
+            (NP (DT the) (JJ previous) (NN sale) )
+            (NP-TMP (NNP Oct.) (CD 4) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (JJ Associate) (NN member) (NNS seats) )
+    (ADVP-TMP (RB currently) )
+    (VP (VBP are) 
+      (VP (VBN quoted) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN at) 
+          (NP 
+            (NP 
+              (NP ($ $) (CD 225,000) (-NONE- *U*) )
+              (VP (NN bid) 
+                (NP (-NONE- *) )))
+            (, ,) 
+            (NP 
+              (NP ($ $) (CD 256,000) (-NONE- *U*) )
+              (VP (VBN asked) 
+                (NP (-NONE- *) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN record) (NN price) )
+      (PP (IN for) 
+        (NP (JJ associate) (NN membership) )))
+    (VP (VBZ is) 
+      (NP-PRD ($ $) (CD 275,000) (-NONE- *U*) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (VBN set) 
+          (NP (-NONE- *-2) )
+          (NP-TMP (NNP Aug.) (CD 30) 
+            (, ,)
+            (CD 1988) ))))
+    (. .) ))

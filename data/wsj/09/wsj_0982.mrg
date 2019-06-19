@@ -1,0 +1,446 @@
+
+( (S 
+    (NP-SBJ (NNS Investors) )
+    (VP (VBD poured) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 2.8) (CD billion) )
+          (-NONE- *U*) )
+        (ADJP (RBR more) ))
+      (PP-CLR (IN into) 
+        (NP (JJ money-market) (JJ mutual) (NNS funds) ))
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJS latest) (NN week) ))
+      (PP (IN despite) 
+        (NP 
+          (NP (JJ further) (NNS declines) )
+          (PP (IN in) 
+            (NP (NNS yields) )))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNS Assets) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (CD 400) (JJ taxable) (NNS funds) )
+            (VP (VBN tracked) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (NNP IBC\/Donoghue) (POS 's) )
+                  (NNP Money) (NNP Fund) (NNP Report) ))))))
+      (VP (VBD jumped) 
+        (PP-DIR (TO to) 
+          (NP 
+            (QP ($ $) (CD 351.2) (CD billion) )
+            (-NONE- *U*) ))
+        (PP-TMP (IN in) 
+          (NP 
+            (NP (DT the) (NN week) )
+            (VP (VBD ended) 
+              (NP-TMP (NNP Tuesday) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) 
+      (ADJP (NNP Holliston) 
+        (, ,)
+        (JJ Mass.-based) )
+      (NN newsletter) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Assets) )
+    (VP (VBD soared) 
+      (NP-EXT 
+        (QP ($ $) (CD 4.5) (CD billion) )
+        (-NONE- *U*) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJ previous) (NN week) )))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Meanwhile) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (JJ average) (NN yield) )
+      (PP (IN on) 
+        (NP (JJ taxable) (NNS funds) )))
+    (VP 
+      (VP (VBD dropped) 
+        (NP-EXT 
+          (NP (RB nearly) (DT a) (NN tenth) )
+          (PP (IN of) 
+            (NP (DT a) (NN percentage) (NN point) ))))
+      (, ,) 
+      (NP-ADV 
+        (NP (DT the) (JJS largest) (NN drop) )
+        (PP-TMP (IN since) 
+          (NP (NN midsummer) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ average) (JJ seven-day) (NN compound) (NN yield) )
+      (, ,) 
+      (SBAR 
+        (WHNP-2 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-2) )
+          (VP (VBZ assumes) 
+            (SBAR 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ-1 (NNS dividends) )
+                  (VP (VBP are) 
+                    (VP (VBN reinvested) 
+                      (NP (-NONE- *-1) )))))
+              (CC and) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ (JJ current) (NNS rates) )
+                  (VP (VBP continue) 
+                    (PP-TMP-CLR (IN for) 
+                      (NP (DT a) (NN year) )))))))))
+      (, ,) )
+    (VP (VBD fell) 
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (CD 8.47) (NN %) )
+          (, ,) 
+          (NP 
+            (NP (PRP$ its) (JJS lowest) )
+            (PP-TMP (IN since) 
+              (NP (JJ late) (JJ last) (NN year) )))
+          (, ,) ))
+      (PP-DIR (IN from) 
+        (NP (CD 8.55) (NN %) )
+        (NP-TMP 
+          (NP (DT the) (NN week) )
+          (ADVP (IN before) )))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP (NNP Donoghue) (POS 's) ))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (JJR Lower) (NNS yields) )
+      (VP (VBP are) 
+        (ADVP (RB just) )
+        (VP (VBG reflecting) 
+          (NP (JJR lower) (JJ short-term) (NN interest) (NNS rates) ))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Brenda) (NNP Malizia) (NNP Negus) )
+      (, ,) 
+      (NP 
+        (NP (NN editor) )
+        (PP (IN of) 
+          (NP (NNP Money) (NNP Fund) (NNP Report) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Money) (NNS funds) )
+    (VP (VBP invest) 
+      (PP-CLR (IN in) 
+        (NP 
+          (NP (JJ such) (NNS things) )
+          (PP (IN as) 
+            (NP 
+              (NP 
+                (NP (JJ short-term) (NNP Treasury) (NNS securities) )
+                (, ,) 
+                (NP (JJ commercial) (NN paper) )
+                (CC and) 
+                (NP 
+                  (NP (NNS certificates) )
+                  (PP (IN of) 
+                    (NP (NN deposit) ))))
+              (, ,) 
+              (SBAR 
+                (WHNP-1 
+                  (WHNP (DT all) )
+                  (WHPP (IN of) 
+                    (WHNP (WDT which) )))
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBP have) 
+                    (VP (VBN been) 
+                      (VP (VBG posting) 
+                        (NP (JJR lower) (NN interest) (NNS rates) )
+                        (PP-TMP (IN since) 
+                          (NP (JJ last) (NN spring) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Individual) (NNS investors) )
+    (VP (MD can) 
+      (ADVP (RB still) )
+      (VP (VB get) 
+        (NP 
+          (NP (JJR better) (NNS yields) )
+          (PP (IN on) 
+            (NP (NN money) (NNS funds) ))
+          (PP (IN than) 
+            (PP (IN on) 
+              (NP (JJ many) (JJ other) (JJ short-term) (NNS instruments) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN yield) )
+      (PP (IN on) 
+        (NP 
+          (NP (JJ six-month) (NNP Treasury) (NNS bills) )
+          (VP (VBN sold) 
+            (NP (-NONE- *) )
+            (PP-LOC (IN at) 
+              (NP 
+                (NP (NNP Monday) (POS 's) )
+                (NN auction) ))))))
+    (, ,) 
+    (PP (IN for) 
+      (NP (NN example) ))
+    (, ,) 
+    (VP (VBD was) 
+      (NP-PRD 
+        (QP (RB just) (CD 7.77) )
+        (NN %) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ average) (NN yield) )
+      (PP (IN on) 
+        (NP 
+          (NP (JJ six-month) (NNS CDs) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 50,000) (CC or) (JJR less) )
+              (-NONE- *U*) ))))
+      (PP-LOC (IN at) 
+        (NP (JJ major) (NNS banks) )))
+    (VP (VBD was) 
+      (NP-PRD (CD 7.96) (NN %) )
+      (PP-TMP (IN in) 
+        (NP 
+          (NP (DT the) (NN week) )
+          (VP (VBD ended) 
+            (NP-TMP (NNP Tuesday) ))))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (NNP Banxquote) (NNP Money) (NNPS Markets) )
+            (, ,) 
+            (NP (DT a) (NNP New) (NNP York) (NN information) (NN service) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (CD One) (NN way) )
+      (SBAR 
+        (WHADVP-1 (IN that) )
+        (S 
+          (NP-SBJ (NN money) (NN fund) (NNS managers) )
+          (VP (VBP boost) 
+            (NP (NNS yields) )
+            (PP-LOC (IN in) 
+              (NP (DT a) (VBG declining) (NN rate) (NN environment) ))
+            (ADVP-MNR (-NONE- *T*-1) )))))
+    (VP (VBZ is) 
+      (PP-PRD (IN by) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG extending) 
+            (NP 
+              (NP (DT the) (NNS maturities) )
+              (PP (IN of) 
+                (NP (PRP$ their) (NNS investments) )))
+            (, ,) 
+            (SBAR-PRP (IN so) 
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (MD can) 
+                  (VP (VB earn) 
+                    (NP (DT the) (JJ current) (JJR higher) (NNS rates) )
+                    (PP-TMP (IN for) 
+                      (NP (DT a) (JJR longer) (NN period) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ average) (NN maturity) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (JJ taxable) (NNS funds) )
+          (SBAR 
+            (WHNP-1 (DT that) )
+            (S 
+              (NP-SBJ (NNP Donoghue) (POS 's) )
+              (VP (VBZ follows) 
+                (NP (-NONE- *T*-1) )))))))
+    (VP (VBN increased) 
+      (PP-EXT (IN by) 
+        (NP (CD two) (NNS days) ))
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJS latest) (NN week) ))
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (CD 40) (NNS days) )
+          (, ,) 
+          (NP 
+            (NP (PRP$ its) (JJS longest) )
+            (PP-TMP (IN since) 
+              (NP (NNP August) ))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (PRP They) )
+        (VP (VBP 're) 
+          (VP (VBG anticipating) 
+            (NP 
+              (NP (JJ further) (NNS declines) )
+              (PP (IN in) 
+                (NP (NNS rates) ))))))
+      (CC and) 
+      (S 
+        (NP-SBJ-2 (PRP they) )
+        (VP (VBP 're) 
+          (VP (VBG going) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB get) 
+                  (NP (PRP them) )
+                  (, ,) 
+                  (ADVP-MNR (RB slowly) ))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Walter) (NNP Frank) )
+      (, ,) 
+      (NP 
+        (NP (NN chief) (NN economist) )
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (NNP Donoghue) (NNP Organization) )
+            (, ,) 
+            (NP 
+              (NP (NN publisher) )
+              (PP (IN of) 
+                (NP (NNP Money) (NNP Fund) (NNP Report) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Average) (NN maturity) )
+    (VP (VBD was) 
+      (ADJP-PRD 
+        (ADJP (RB as) (JJ short) )
+        (PP (IN as) 
+          (NP (CD 29) (NNS days) )))
+      (PP-TMP (IN at) 
+        (NP 
+          (NP (DT the) (NN start) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT this) (NN year) )
+              (, ,) 
+              (SBAR 
+                (WHADVP-1 (WRB when) )
+                (S 
+                  (NP-SBJ (JJ short-term) (NN interest) (NNS rates) )
+                  (VP (VBD were) 
+                    (VP (VBG moving) 
+                      (ADVP-MNR (RB steadily) )
+                      (ADVP-DIR (RB upward) )
+                      (ADVP-TMP (-NONE- *T*-1) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ average) (JJ seven-day) (NN compound) (NN yield) )
+      (PP (IN of) 
+        (NP (DT the) (NNS funds) )))
+    (VP (VBD reached) 
+      (NP (CD 9.62) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (JJ late) (NNP April) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ highest-yielding) (NNS funds) )
+    (VP (VBP are) 
+      (ADVP (RB still) )
+      (PP-PRD (IN above) 
+        (NP (CD 9) (NN %) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ top-performing) (NN fund) )
+      (PP-TMP (IN in) 
+        (NP (DT the) (JJS latest) (NN week) )))
+    (VP (VBD was) 
+      (NP-PRD (NNP Dreyfus) (NNP Worldwide) (NNP Dollar) )
+      (, ,) 
+      (PP (IN with) 
+        (NP 
+          (NP (DT a) (JJ seven-day) (NN compound) (NN yield) )
+          (PP (IN of) 
+            (NP (CD 9.45) (NN %) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN fund) )
+    (VP (VBZ invests) 
+      (ADVP (RB heavily) )
+      (PP-CLR (IN in) 
+        (NP 
+          (NP (JJ dollar-denominated) (JJ money-market) (NNS securities) )
+          (ADVP-LOC (RB overseas) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ is) 
+      (ADVP-TMP (RB currently) )
+      (VP 
+        (VP (VBG waiving) 
+          (NP (NN management) (NNS fees) ))
+        (, ,) 
+        (SBAR-ADV 
+          (WHNP-1 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ contributes) 
+              (PP-CLR (TO to) 
+                (NP (DT the) (JJR higher) (NN yield) )))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (JJ average) (JJ seven-day) (JJ simple) (NN yield) )
+        (PP (IN of) 
+          (NP (DT the) (CD 400) (NNS funds) )))
+      (VP (VBD fell) 
+        (PP-DIR (TO to) 
+          (NP (CD 8.14) (NN %) ))
+        (PP-DIR (IN from) 
+          (NP (CD 8.21) (NN %) ))))
+    (, ,) 
+    (NP-SBJ (NNP Donoghue) (POS 's) )
+    (VP (VBD reported) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (JJ average) (JJ 30-day) (JJ simple) (NN yield) )
+      (VP (VBD slid) 
+        (PP-DIR (TO to) 
+          (NP (CD 8.22) (NN %) ))
+        (PP-DIR (IN from) 
+          (NP (CD 8.26) (NN %) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (DT the) (JJ average) (JJ 30-day) (NN compound) (NN yield) )
+      (VP (VBD fell) 
+        (PP-DIR (TO to) 
+          (NP (CD 8.56) (NN %) ))
+        (PP-DIR (IN from) 
+          (NP (CD 8.60) (NN %) ))))
+    (. .) ))

@@ -1,0 +1,78 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Silicon) (NNPS Graphics) (NNP Inc.) (POS 's) )
+      (NN first-quarter) (NN profit) )
+    (VP (VBD rose) 
+      (ADVP-MNR (RB sharply) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 5.2) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP (CD 28) (NNS cents) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 1) (CD million) )
+            (-NONE- *U*) )
+          (, ,) (CC or) 
+          (NP 
+            (NP (CD six) (NNS cents) )
+            (NP-ADV (DT a) (NN share) )))
+        (, ,) 
+        (ADVP-TMP 
+          (NP (DT a) (NN year) )
+          (RB ago) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN maker) )
+      (PP (IN of) 
+        (NP (NN computer) (NNS workstations) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT a) (NN surge) )
+            (PP (IN of) 
+              (NP (NN government) (NNS orders) )))
+          (VP (VBN contributed) 
+            (PP-CLR (TO to) 
+              (NP (DT the) (NN increase) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 95) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 86.4) (CD million) )
+          (-NONE- *U*) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP ($ $) (CD 44.3) (CD million) )
+          (-NONE- *U*) )
+        (NP-TMP 
+          (NP (DT the) (NN year) )
+          (ADJP (RB earlier) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (JJ national) (JJ over-the-counter) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBD closed) 
+      (NP-TMP (NN yesterday) )
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 23.25) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP (CD 25) (NNS cents) )))
+    (. .) ))

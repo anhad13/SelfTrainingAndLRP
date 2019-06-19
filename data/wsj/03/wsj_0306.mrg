@@ -1,0 +1,183 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NN Farm) (NNS prices) )
+        (PP-TMP (IN in) 
+          (NP (NNP October) )))
+      (VP (VBD edged) 
+        (ADVP-CLR (RB up) 
+          (NP-ADV (CD 0.7) (NN %) )
+          (PP-TMP (IN from) 
+            (NP (NNP September) )))
+        (SBAR-TMP (IN as) 
+          (S 
+            (NP-SBJ (JJ raw) (NN milk) (NNS prices) )
+            (VP (VBD continued) 
+              (NP (PRP$ their) (NN rise) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Agriculture) (NNP Department) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (NN Milk) )
+        (VP (VBN sold) 
+          (NP (-NONE- *) )
+          (PP-DTV (TO to) 
+            (NP 
+              (NP (DT the) (NN nation) (POS 's) )
+              (NN dairy) (NNS plants) 
+              (CC and)
+              (NNS dealers) ))))
+      (VP (VBD averaged) 
+        (NP 
+          (NP ($ $) (CD 14.50) (-NONE- *U*) )
+          (PP (IN for) 
+            (NP (DT each) (CD hundred) (NNS pounds) )))
+        (, ,) 
+        (ADVP 
+          (ADVP (RB up) 
+            (NP-ADV (CD 50) (NNS cents) )
+            (PP-TMP (IN from) 
+              (NP (NNP September) )))
+          (CC and) 
+          (ADVP (RB up) 
+            (NP-ADV ($ $) (CD 1.50) (-NONE- *U*) )
+            (PP-TMP (IN from) 
+              (NP (NNP October) (CD 1988) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN department) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (JJ Commercial) (NNS vegetables) )
+        (, ,) 
+        (VP (VBN led) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (NN lettuce) 
+              (CC and)
+              (NNS tomatoes) )))
+        (, ,) )
+      (VP (VBD rose) 
+        (NP-EXT (CD 19) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (NNP October) ))))
+    (: ;) 
+    (S 
+      (NP-SBJ 
+        (NP (NNS oranges) )
+        (CC and) 
+        (NP (JJ other) (NNS fruits) ))
+      (VP (VBD rose) 
+        (NP-EXT (CD 5) (NN %) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Broiler) (NNS prices) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 6.5) (NNS cents) )
+      (PP-TMP (IN in) 
+        (NP (NNP October) ))
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (CD 30.6) (NNS cents) )
+          (NP-ADV (DT a) (NN pound) )))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ (NN turkey) (NNS prices) )
+          (VP (VBD rose) 
+            (NP-EXT 
+              (NP (CD 1.2) (NNS cents) )
+              (NP-ADV (DT a) (NN pound) ))
+            (PP-DIR (TO to) 
+              (NP (CD 38.5) (NNS cents) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Egg) (NNS prices) )
+    (VP (VBD averaged) 
+      (NP 
+        (NP (CD 64.2) (NNS cents) )
+        (NP-ADV (DT a) (NN dozen) ))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP-ADV (CD 0.2) (NN cent) )
+        (PP-TMP (IN from) 
+          (NP (NNP September) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Hogs) )
+    (VP (VBD rose) 
+      (NP-EXT ($ $) (CD 3.40) (-NONE- *U*) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP ($ $) (CD 46.80) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN hundredweight) )))
+      (PP-TMP (IN in) 
+        (NP (NNP October) ))
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (S 
+            (NP-SBJ (NN beef) (NNS cattle) )
+            (VP (VBD slipped) 
+              (NP-EXT (CD 80) (NNS cents) )
+              (PP-DIR (TO to) 
+                (NP 
+                  (NP ($ $) (CD 67.40) (-NONE- *U*) )
+                  (PP (IN for) 
+                    (NP (DT each) (CD hundred) (NNS pounds) ))))))
+          (CC and) 
+          (S 
+            (NP-SBJ (NNS calves) )
+            (VP (VBD dropped) 
+              (NP-EXT (CD 90) (NNS cents) )
+              (PP-DIR (TO to) 
+                (NP ($ $) (CD 90.20) (-NONE- *U*) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNS Soybeans) )
+      (VP (VBD averaged) 
+        (NP 
+          (NP ($ $) (CD 5.28) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN bushel) ))
+        (, ,) 
+        (ADVP (RB down) 
+          (NP-ADV (CD 42) (NNS cents) )
+          (PP-TMP (IN from) 
+            (NP (NNP September) )))))
+    (: ;) 
+    (S 
+      (S 
+        (NP-SBJ (NN corn) )
+        (VP (VBD averaged) 
+          (NP ($ $) (CD 2.20) (-NONE- *U*) )
+          (, ,) 
+          (ADVP (RB down) 
+            (NP-ADV (CD seven) (NNS cents) ))))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP-SBJ (NN sorghum) (NN grain) )
+        (VP (VBD averaged) 
+          (NP 
+            (NP ($ $) (CD 3.61) (-NONE- *U*) )
+            (PP (IN for) 
+              (NP (DT each) (CD hundred) (NNS pounds) )))
+          (, ,) 
+          (ADVP (RB down) 
+            (NP-ADV (CD 19) (NNS cents) ))
+          (, ,) 
+          (PP (VBG according) 
+            (PP (TO to) 
+              (NP (DT the) (NN department) ))))))
+    (. .) ))

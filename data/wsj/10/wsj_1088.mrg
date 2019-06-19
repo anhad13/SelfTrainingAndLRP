@@ -1,0 +1,27 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Dennis) (NNP R.) (NNP Mangino) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ general) (NN manager) )
+        (PP (IN of) 
+          (NP (NNP EniChem) (NNPS Americas) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP 
+              (NP (NN vice) (NN president) )
+              (PP (IN of) 
+                (NP (NN research) 
+                  (CC and)
+                  (NN development) )))
+            (, ,) 
+            (NP 
+              (NP (DT a) (JJ new) (NN post) )
+              (PP-LOC (IN at) 
+                (NP (DT this) (NN steel) (NN company) )))))))
+    (. .) ))

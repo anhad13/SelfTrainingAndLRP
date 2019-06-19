@@ -1,0 +1,67 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Jacobs) (NNP Engineering) (NNP Group) (NNP Inc.) (POS 's) )
+      (NNP Jacobs) (NNP International) (NN unit) )
+    (VP (VBD was) 
+      (VP (VBN selected) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB design) 
+              (CC and)
+              (VB build) 
+              (NP 
+                (NP (DT a) (JJ microcomputer-systems) (NN manufacturing) (NN plant) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (NNP County) (NNP Kildare) )
+                    (, ,) 
+                    (NP (NNP Ireland) )
+                    (, ,) )))
+              (PP (IN for) 
+                (NP (NNP Intel) (NNP Corp) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Jacobs) )
+    (VP (VBZ is) 
+      (NP-PRD (DT an) (JJ international) (NN engineering) 
+        (CC and)
+        (NN construction) (NN concern) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Total) (NN capital) (NN investment) )
+      (PP-LOC (IN at) 
+        (NP (DT the) (NN site) )))
+    (VP (MD could) 
+      (VP (VB be) 
+        (ADJP-PRD 
+          (QP (RB as) (JJ much) (IN as) ($ $) (CD 400) (CD million) )
+          (-NONE- *U*) )
+        (, ,) 
+        (PP (VBG according) 
+          (PP (TO to) 
+            (NP (NNP Intel) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ 150,000-square-foot) (NN plant) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN constructed) 
+          (NP (-NONE- *-1) )
+          (PP-LOC (IN on) 
+            (NP 
+              (NP (DT a) (JJ 55-acre) (NN site) )
+              (PP-LOC (IN near) 
+                (NP (NNP Dublin) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Jacobs) (NNP Engineering) (NNS officials) )
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-1) )
+          (PP-CLR (IN for) 
+            (NP (NN comment) )))))
+    (. .) ))

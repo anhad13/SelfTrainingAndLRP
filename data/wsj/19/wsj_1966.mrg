@@ -1,0 +1,76 @@
+
+( (S 
+    (NP-SBJ (NNP McCormick) (NNP Capital) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (PRP$ its) (NN tender) (NN offer) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB buy) 
+                    (PRT (RP back) )
+                    (NP 
+                      (NP 
+                        (NP 
+                          (QP (RB as) (JJ many) (IN as) (CD 1.1) (CD million) ))
+                        (, ,) (CC or) 
+                        (NP (CD 44) (NN %) )
+                        (, ,) )
+                      (PP (IN of) 
+                        (NP (PRP$ its) (JJ common) (NNS shares) )))
+                    (PP (IN at) 
+                      (NP 
+                        (NP ($ $) (CD 3) (-NONE- *U*) )
+                        (ADVP (RB apiece) )))))))
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (VBD expired) 
+                  (NP-TMP (NNP Friday) (NN evening) ))))
+            (, ,) )
+          (VP (VBD was) 
+            (VP (VBN oversubscribed) 
+              (NP (-NONE- *-1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN developer) 
+        (CC and)
+        (NN manager) )
+      (PP (IN of) 
+        (NP (JJ futures-investment) (JJ limited) (NNS partnerships) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ preliminary) (NNS results) )
+          (VP (VBP indicate) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ-1 
+                  (QP (RB about) (CD 1,749,000) )
+                  (NNS shares) )
+                (VP (VBD had) 
+                  (VP (VBN been) 
+                    (VP (VBN tendered) 
+                      (NP (-NONE- *-1) )
+                      (, ,) 
+                      (S-ADV 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (VBG giving) 
+                          (NP 
+                            (NP (DT a) (JJ preliminary) (NN proration) (NN factor) )
+                            (PP (IN of) 
+                              (NP (CD 0.6287) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ final) (NN proration) (NN factor) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN announced) 
+          (NP (-NONE- *-1) )
+          (NP-TMP (NNP Monday) ))))
+    (. .) ))

@@ -1,0 +1,221 @@
+
+( (S 
+    (NP-SBJ (NNP President) (NNP Bush) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-2 
+            (NP (CD three) (NNS members) )
+            (PP (IN of) 
+              (NP (PRP$ his) (NN cabinet) )))
+          (VP (MD will) 
+            (VP (VB lead) 
+              (NP (DT a) (JJ presidential) (NN mission) )
+              (PP-DIR (TO to) 
+                (NP (NNP Poland) ))
+              (S-PRP 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB gauge) 
+                    (SBAR 
+                      (WHADVP-1 (WRB how) )
+                      (S 
+                        (NP-SBJ (DT the) (NNP U.S.) )
+                        (VP (MD can) 
+                          (VP (VB help) 
+                            (NP 
+                              (NP (DT the) (JJ new) (JJ non-Communist) (NN government) (POS 's) )
+                              (JJ economic) (NNS changes) )
+                            (ADVP-MNR (-NONE- *T*-1) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Bush) )
+    (VP (VBD announced) 
+      (ADVP-TMP 
+        (NP (JJ several) (NNS weeks) )
+        (RB ago) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (PRP he) )
+          (VP (VBD intended) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB send) 
+                  (NP 
+                    (NP (JJ such) (DT a) (NN mission) )
+                    (, ,) 
+                    (VP (VBN composed) 
+                      (NP (-NONE- *) )
+                      (PP-CLR (IN of) 
+                        (NP 
+                          (NP (JJ top) (NN government) (NNS aides) )
+                          (CC and) 
+                          (NP (NN business) 
+                            (CC and)
+                            (NN labor) (NNS leaders) ))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN mission) )
+      (VP (MD will) 
+        (VP (VB visit) 
+          (NP (NNP Poland) )
+          (PP-TMP 
+            (PP (IN from) 
+              (NP (NNP Nov.) (CD 29) ))
+            (PP (TO to) 
+              (NP (NNP Dec.) (CD 2) ))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP White) (NNP House) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (NNS remarks) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP (DT a) (NNP White) (NNP House) (NN ceremony) )
+            (VP (VBG marking) 
+              (NP (NNP Polish) (NNP Heritage) (NNP Month) ))))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Bush) )
+    (VP (VBD announced) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Agriculture) (NNP Secretary) (NNP Clayton) (NNP Yeutter) )
+            (, ,) 
+            (NP (NNP Commerce) (NNP Secretary) (NNP Robert) (NNP Mosbacher) )
+            (CC and) 
+            (NP (NNP Labor) (NNP Secretary) (NNP Elizabeth) (NNP Dole) ))
+          (VP (MD will) 
+            (VP (VB lead) 
+              (NP (DT the) (NNP U.S.) (NN group) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Michael) (NNP Boskin) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNP Council) )
+            (PP (IN of) 
+              (NP (NNP Economic) (NNP Advisers) )))))
+      (, ,) )
+    (ADVP (RB also) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (NP-PRD (DT a) (NN member) )))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP White) (NNP House) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP 
+              (NP (NNP Charles) (NNP Harper) )
+              (, ,) 
+              (NP 
+                (NP (NN chairman) )
+                (PP (IN of) 
+                  (NP (NNP ConAgra) (NNP Inc.) )))
+              (, ,) )
+            (CC and) 
+            (NP 
+              (NP (NNP John) (NNP McGillicuddy) )
+              (, ,) 
+              (NP 
+                (NP (NN chairman) )
+                (PP (IN of) 
+                  (NP (NNP Manufacturers) (NNP Hanover) (NNP Corp.) )))
+              (, ,) ))
+          (VP (MD will) 
+            (VP (VB be) 
+              (PP-LOC-PRD (IN among) 
+                (NP 
+                  (NP (DT a) (NN group) )
+                  (PP (IN of) 
+                    (NP 
+                      (QP (IN at) (JJS least) (CD 15) )
+                      (NN business) 
+                      (CC and)
+                      (NN labor) (NNS representatives) ))
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (JJ presidential) (NN mission) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP Bush) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (DT the) (NN group) )
+          (VP (VBZ is) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) (`` ``) 
+                (VP (VB focus) 
+                  (PP-CLR (IN on) 
+                    (NP 
+                      (NP (JJ economic) (NNS sectors) )
+                      (SBAR 
+                        (WHADVP-1 (WRB where) )
+                        (S 
+                          (NP-SBJ (NNP U.S.) (NN expertise) 
+                            (CC and)
+                            (NN cooperation) )
+                          (VP (MD can) 
+                            (ADVP (RB indeed) )
+                            (VP (VB make) 
+                              (NP (DT a) (NN difference) )
+                              (ADVP-LOC (-NONE- *T*-1) ))))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ-1 (NNP Mr.) (NNP Bush) )
+    (VP 
+      (VP (VBZ has) 
+        (VP (VBN asked) 
+          (NP-3 (NNP Congress) )
+          (S 
+            (NP-SBJ (-NONE- *-3) )
+            (VP (TO to) 
+              (VP (VB provide) 
+                (NP 
+                  (NP 
+                    (QP (JJR more) (IN than) ($ $) (CD 400) (CD million) )
+                    (-NONE- *U*) )
+                  (PP-CLR (IN in) 
+                    (NP 
+                      (NP (JJ economic) (NN aid) )
+                      (CC and) 
+                      (NP (NN food) (NNS grants) ))))
+                (PP (IN for) 
+                  (NP 
+                    (NP (NNP Poland) (POS 's) )
+                    (JJ new) (NN government) )))))))
+      (, ,) (CC but) 
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (VP (VBN chided) 
+            (NP-4 (-NONE- *-1) )
+            (PP (IN by) 
+              (NP-LGS (NNS Democrats) ))
+            (PP-CLR (IN for) 
+              (S-NOM 
+                (NP-SBJ-2 (-NONE- *-4) )
+                (VP (VBG failing) 
+                  (S 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (TO to) 
+                      (VP (VB do) 
+                        (NP (JJR more) )))))))))))
+    (. .) ))

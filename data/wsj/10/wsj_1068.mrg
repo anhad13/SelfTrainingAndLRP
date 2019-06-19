@@ -1,0 +1,75 @@
+
+( (S 
+    (NP-SBJ (NNP Kennametal) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ intends) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB acquire) 
+                  (NP (NNP J&L) (NNP America) (NNP Inc.) )
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (NP 
+                        (QP ($ $) (CD 44) (CD million) )
+                        (-NONE- *U*) )
+                      (IN plus) 
+                      (NP 
+                        (NP (DT a) (NN consideration) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (RB as) (JJ much) )
+                            (PP (IN as) 
+                              (NP 
+                                (NP (DT an) (JJ additional) 
+                                  (QP ($ $) (CD 12) (CD million) )
+                                  (-NONE- *U*) )
+                                (, ,) 
+                                (ADJP (JJ payable) 
+                                  (PP-TMP (IN over) 
+                                    (NP (CD five) (NNS years) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Kennametal) )
+    (VP (VBZ is) 
+      (NP-PRD (DT a) 
+        (ADJP (NNS carbide-products) 
+          (CC and)
+          (NNS cutting-tools) )
+        (NN company) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN J&L) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WP$ whose) (JJ principal) (NNS offices) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBP are) 
+            (PP-LOC-PRD (IN in) 
+              (NP (NNP Detroit) )))))
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (JJ mail-order) (NN distributer) )
+        (PP (IN of) 
+          (NP (JJ industrial) (NNS tools) 
+            (CC and)
+            (NNS supplies) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN acquisition) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ subject) 
+        (PP (TO to) 
+          (NP 
+            (NP (NN approval) )
+            (PP (IN by) 
+              (NP 
+                (NP (NNP Kennametal) (POS 's) )
+                (NN board) ))))))
+    (. .) ))

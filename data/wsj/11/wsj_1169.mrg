@@ -1,0 +1,144 @@
+
+( (S 
+    (NP-SBJ (NNP Murata) (NNP Mfg.) (NNP Co.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) 
+            (VP (VBG establishing) 
+              (NP 
+                (NP (DT a) (NN subsidiary) )
+                (SBAR (-NONE- *ICH*-2) ))
+              (PP-LOC (IN in) 
+                (NP (NNP Britain) ))
+              (SBAR-2 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (TO to) 
+                    (VP (VB produce) 
+                      (NP 
+                        (NP (JJ electric) (NNS parts) )
+                        (, ,) 
+                        (PP (VBG including) 
+                          (NP (JJ ceramic) (NNS condensers) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP Tokyo) (NN maker) )
+      (PP (IN of) 
+        (NP (JJ ceramic) (NNS capacitors) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD purchased) 
+            (NP 
+              (NP (DT a) (NN plant) )
+              (PP-LOC (IN in) 
+                (NP (NNP Plymouth) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB disclose) 
+        (NP 
+          (NP (DT a) (NN purchase) (NN price) )
+          (CC or) 
+          (NP (NN capitalization) (NNS figures) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Murata) )
+    (VP (VBD said) 
+      (, ,)
+      (ADVP (RB however) )
+      (, ,) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB invest) 
+              (NP 
+                (NP 
+                  (QP (RB about) (CD 1.4) (CD billion) )
+                  (NN yen) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP 
+                    (QP ($ $) (CD 9.9) (CD million) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) ))
+              (PP-CLR (IN in) 
+                (NP (DT the) (JJ new) (NN company) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NN Production) )
+    (VP (VBZ is) 
+      (VP (VBN slated) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB begin) 
+              (PP-TMP (IN in) 
+                (NP (NNP April) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN company) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ has) 
+            (NP 
+              (NP (DT a) (JJ European) (NN foothold) )
+              (, ,) 
+              (NP 
+                (NP (NNP Murata) (NNP Europe) (NNP Management) (NNP G.m.b) (. .) (NNP H.) )
+                (PP-LOC (IN in) 
+                  (NP (NNP Germany) )))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (DT the) (JJS latest) (NN venture) )
+          (VP (VBZ is) 
+            (VP (VBN designed) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB meet) 
+                    (NP 
+                      (NP (NN demand) )
+                      (PP (IN for) 
+                        (NP (JJ electric) (NNS parts) ))
+                      (PP-LOC (IN in) 
+                        (NP (NNP European) (NNP Community) (NNS countries) )))
+                    (ADVP-TMP (RB ahead) 
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT the) (NN creation) )
+                          (PP (IN of) 
+                            (NP (DT the) (JJ unified) (NN market) )))))
+                    (PP-TMP (IN by) 
+                      (NP 
+                        (NP (DT the) (NN end) )
+                        (PP (IN of) 
+                          (NP (CD 1992) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Murata) )
+    (VP (VBZ expects) 
+      (NP 
+        (NP (NNS sales) )
+        (PP-LOC (IN at) 
+          (NP (DT the) (NN unit) ))
+        (PP (IN of) 
+          (NP 
+            (QP (RB about) (CD 1.5) (CD billion) )
+            (NN yen) ))
+        (PP-TMP (IN in) 
+          (NP (DT the) (JJ first) (NN year) ))))
+    (. .) ))

@@ -1,0 +1,59 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Australia) (POS 's) )
+      (NN inflation) )
+    (VP 
+      (VP (VBZ is) 
+        (VP (VBN expected) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB rise) 
+                (ADJP 
+                  (ADJP (RB as) (JJ high) )
+                  (PP (IN as) 
+                    (NP (CD 8.3) (NN %) )))
+                (PP-TMP (IN in) 
+                  (NP 
+                    (NP (DT the) (NN quarter) )
+                    (VP (VBG ending) 
+                      (NP-TMP (NNP March) (CD 30) )))))))))
+      (, ,) (CC but) 
+      (VP (MD could) 
+        (VP (VB fall) 
+          (PP-DIR (TO to) 
+            (NP 
+              (QP (IN around) (CD 7) )
+              (NN %) ))
+          (PP-TMP (IN by) 
+            (NP (NNP June) ))))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP (NNS economists) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN government) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN consumer) (NN price) (NN index) )
+          (VP 
+            (VP (VBD rose) 
+              (NP-EXT-1 (CD 2.3) (NN %) )
+              (PP-TMP (IN in) 
+                (NP 
+                  (NP (DT the) (NN quarter) )
+                  (VP (VBD ended) 
+                    (NP-TMP (NNP Sept.) (CD 30) ))))
+              (PP-DIR-2 (IN from) 
+                (NP-TMP (DT the) (JJ previous) (NN quarter) )))
+            (CC and) 
+            (VP 
+              (NP-EXT=1 (CD 8) (NN %) )
+              (PP-DIR=2 (IN from) 
+                (ADVP-TMP 
+                  (NP (DT a) (NN year) )
+                  (IN ago) )))))))
+    (. .) ))

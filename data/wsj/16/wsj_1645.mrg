@@ -1,0 +1,45 @@
+
+( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP Sheldon) (NNP B.) (NNP Lubar) )
+        (, ,) 
+        (NP 
+          (NP (NN chairman) )
+          (PP (IN of) 
+            (NP (NNP Lubar) (CC &) (NNP Co.) )))
+        (, ,) )
+      (CC and) 
+      (NP 
+        (NP (NNP John) (NNP L.) (NNP Murray) )
+        (, ,) 
+        (NP 
+          (NP (NN chairman) )
+          (PP (IN of) 
+            (NP (NNP Universal) (NNP Foods) (NNP Corp.) )))
+        (, ,) ))
+    (VP (VBD were) 
+      (VP (VBN elected) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT the) (NN board) )
+            (PP (IN of) 
+              (NP (DT this) (NN engine) (NN maker) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBP succeed) 
+      (NP 
+        (NP 
+          (NP (NNP Robert) (NNP W.) (NNP Kasten) )
+          (CC and) 
+          (NP (NNP John) (NNP R.) (NNP Parker) ))
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD reached) 
+              (NP (DT the) (JJ mandatory) (NN retirement) (NN age) ))))))
+    (. .) ))

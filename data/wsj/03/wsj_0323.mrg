@@ -1,0 +1,130 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Bouygues) (NNP S.A.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ diversified) (NN construction) (NN concern) )
+        (VP (VBN based) 
+          (NP (-NONE- *) )
+          (PP-LOC-CLR (IN in) 
+            (NP (NNP Paris) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP$ its) (JJ consolidated) (NN profit) )
+            (PP (IN for) 
+              (NP (DT the) (CD 1989) (JJ first) (NN half) )))
+          (, ,) 
+          (PP-TMP (IN after) 
+            (NP 
+              (NP (NNS payments) )
+              (PP (TO to) 
+                (NP (NN minority) (NNS interests) ))))
+          (, ,) 
+          (VP (VBD surged) 
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP (CD 188) (CD million) )
+                  (JJ French) (NNS francs) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP 
+                    (QP ($ $) (CD 30.2) (CD million) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) )))
+            (PP-DIR (IN from) 
+              (NP (CD 65) (CD million) (NNS francs) )
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (RBR earlier) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Revenue) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 21) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 22.61) (CD billion) )
+          (NNS francs) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (CD 18.69) (CD billion) )
+          (NNS francs) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB specify) 
+        (NP 
+          (NP (NNS reasons) )
+          (PP (IN for) 
+            (NP (DT the) (JJ strong) (NNS earnings) (NN gain) )))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (NNP Bouygues) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (JJ first-half) (NN profit) )
+          (VP (VBZ is) (RB n't) 
+            (ADJP-PRD (JJ indicative) 
+              (PP (IN of) 
+                (NP (DT the) (JJ full-year) (NN trend) )))
+            (PP-PRP (IN because) (IN of) 
+              (NP 
+                (NP (DT the) 
+                  (ADJP (RB highly) (JJ seasonal) )
+                  (NN nature) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (JJ many) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (NN company) (POS 's) )
+                        (NNS activities) ))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP 
+        (NP (DT all) )
+        (PP (IN of) 
+          (NP (CD 1988) ))))
+    (, ,) 
+    (NP-SBJ (NNS Bouygues) )
+    (VP (VBD had) 
+      (NP 
+        (NP (JJ consolidated) (NN profit) )
+        (PP (IN of) 
+          (NP 
+            (QP (CD 519) (CD million) )
+            (NNS francs) )))
+      (, ,) 
+      (PP-TMP (IN after) 
+        (NP 
+          (NP (NNS payments) )
+          (PP (TO to) 
+            (NP (NN minority) (NNS interests) ))))
+      (, ,) 
+      (PP (IN on) 
+        (NP 
+          (NP (NN revenue) )
+          (PP (IN of) 
+            (NP 
+              (QP (CD 50) (CD billion) )
+              (NNS francs) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN group) )
+    (VP (VBZ has) 
+      (VP (VBN forecast) 
+        (NP 
+          (NP (CD 1989) (NN revenue) )
+          (PP (IN of) 
+            (NP 
+              (QP (CD 56.9) (CD billion) )
+              (NNS francs) )))))
+    (. .) ))

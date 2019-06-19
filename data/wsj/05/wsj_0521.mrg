@@ -1,0 +1,29 @@
+
+( (S 
+    (NP-SBJ (DT The) 
+      (ADJP (RB closely) (VBN held) )
+      (NN supermarket) (NN chain) )
+    (VP (VBD named) 
+      (S 
+        (NP-SBJ (NNP Frank) (NNP Nicastro) )
+        (NP-PRD 
+          (NP (NN vice) (NN president) )
+          (CC and) 
+          (NP (NN treasurer) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ 47-year-old) (NNP Mr.) (NNP Nicastro) )
+    (VP (VBZ joins) 
+      (NP (NNP Grand) (NNP Union) )
+      (PP (IN from) 
+        (NP 
+          (NP (NNP Singer) (NNP Co.) )
+          (, ,) 
+          (SBAR-LOC 
+            (WHADVP-1 (WRB where) )
+            (S 
+              (NP-SBJ (PRP he) )
+              (VP (VBD was) 
+                (NP-PRD (NN treasurer) )
+                (ADVP-LOC (-NONE- *T*-1) )))))))
+    (. .) ))

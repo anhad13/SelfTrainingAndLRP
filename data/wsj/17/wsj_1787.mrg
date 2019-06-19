@@ -1,0 +1,102 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Affiliated) (NNPS Bankshares) )
+      (PP (IN of) 
+        (NP (NNP Colorado) (NNP Inc.) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB sell) 
+                  (NP 
+                    (NP (PRP$ its) 
+                      (ADJP (CD 10) (NN %) )
+                      (NN interest) )
+                    (PP (IN in) 
+                      (NP (NNP Rocky) (NNP Mountain) (NNP Bankcard) (NNPS Systems) )))
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (QP ($ $) (CD 18.5) (CD million) )
+                      (-NONE- *U*) ))
+                  (PP-DTV (TO to) 
+                    (NP 
+                      (NP 
+                        (NP (NNP Colorado) (NNP National) (NNP Bank) )
+                        (PP (IN of) 
+                          (NP (NNP Denver) )))
+                      (CC and) 
+                      (NP 
+                        (NP (NNP Central) (NNP Bank) )
+                        (PP (IN of) 
+                          (NP (NNP Denver) ))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Colorado) (NNP National) )
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (DT a) (NN unit) )
+          (PP (IN of) 
+            (NP (NNP Colorado) (NNP National) (NNPS Bankshares) (NNP Inc.) )))))
+    (CC and) 
+    (S 
+      (NP-SBJ (NNP Central) )
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (DT a) (NN unit) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP First) (NNP Bank) (NNP System) )
+              (PP (IN of) 
+                (NP (NNP Minneapolis) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (VBN Affiliated) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB record) 
+                  (NP 
+                    (NP (DT a) (NN pretax) (NN gain) )
+                    (PP (IN of) 
+                      (NP 
+                        (QP (IN about) ($ $) (CD 18.5) (CD million) )
+                        (-NONE- *U*) ))
+                    (PP (IN from) 
+                      (NP 
+                        (NP (DT the) (NN sale) )
+                        (PP (IN of) 
+                          (NP (DT the) (NN credit-card) (NN business) ))
+                        (, ,) 
+                        (SBAR 
+                          (WHNP-1 (WDT which) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-1) )
+                            (VP (MD should) 
+                              (VP 
+                                (ADVP (RBR more) (IN than) )
+                                (VBN offset) 
+                                (NP 
+                                  (NP (DT any) (NN reduction) )
+                                  (PP-LOC (IN in) 
+                                    (NP 
+                                      (NP (DT the) (VBG carrying) (NN value) )
+                                      (PP (IN of) 
+                                        (NP 
+                                          (NP 
+                                            (NP (JJ real) (NN estate) )
+                                            (CC and) 
+                                            (NP (NN real-estate) (NNS loans) ))
+                                          (PP-LOC (IN on) 
+                                            (NP (PRP$ its) (NNS books) )))))))))))))))))))))
+    (. .) ))

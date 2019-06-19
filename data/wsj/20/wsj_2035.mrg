@@ -1,0 +1,95 @@
+
+( (S 
+    (NP-SBJ (DT The) (VBG following) (NNS issues) )
+    (VP (VBD were) 
+      (ADVP-TMP (RB recently) )
+      (VP (VBN filed) 
+        (PP-LOC-CLR (IN with) 
+          (NP (DT the) (NNPS Securities) 
+            (CC and)
+            (NNP Exchange) (NNP Commission) ))))
+    (: :) ))
+( (NP-HLN 
+    (NP 
+      (NP 
+        (NP (NNP Canada) (POS 's) )
+        (NNP Province) )
+      (PP (IN of) 
+        (NP (NNP Nova) (NNP Scotia) )))
+    (, ,) 
+    (NP 
+      (NP (NN shelf) (NN offering) )
+      (PP (IN of) 
+        (NP 
+          (NP 
+            (QP (IN up) (TO to) ($ $) (CD 550) (CD million) )
+            (-NONE- *U*) )
+          (PP (IN of) 
+            (NP (NNS debentures) )))))
+    (. .) ))
+( (NP-HLN 
+    (NP 
+      (NP (NNP Golar) (NNP Gas) (NNP Holding) (NNP Co.) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN subsidiary) )
+        (PP (IN of) 
+          (NP (NNP Gotaas-Larsen) (NNP Shipping) (NNP Corp.) ))))
+    (, ,) 
+    (NP 
+      (NP (VBG offering) )
+      (PP (IN of) 
+        (NP 
+          (ADJP 
+            (QP ($ $) (CD 280) (CD million) )
+            (-NONE- *U*) )
+          (RB first) (VBD preferred) (NN ship) (NN mortgage) (NNS notes) )))
+    (, ,) 
+    (PP-MNR (IN via) 
+      (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNPS Markets) ))
+    (. .) ))
+( (NP-HLN 
+    (NP (NNP H.F.) (NNP Ahmanson) (CC &) (NNP Co.) )
+    (, ,) 
+    (NP 
+      (NP (NN offering) )
+      (PP (IN of) 
+        (NP 
+          (NP (CD four) (CD million) (NNS shares) )
+          (PP (IN of) 
+            (NP 
+              (NP (JJ noncumulative) (JJ convertible) (VBN preferred) (NN stock) )
+              (, ,) 
+              (NP (NNP Series) (NNP B.) ))))))
+    (, ,) 
+    (PP-MNR (IN via) 
+      (NP 
+        (NP (NNP Goldman) 
+          (, ,)
+          (NNP Sachs) (CC &) (NNP Co) )
+        (, ,) 
+        (NP (NNP First) (NNP Boston) (NNP Corp.) )
+        (, ,) 
+        (CC and)
+        (NP (NNP Merrill) (NNP Lynch) )))
+    (. .) ))
+( (NP 
+    (NP (NNP Shared) (NNPS Technologies) (NNP Inc.) )
+    (, ,) 
+    (NP 
+      (NP (NN offering) )
+      (PP (IN of) 
+        (NP 
+          (ADJP (CD 2.5) (CD million) )
+          (JJ common) (NNS shares) )))
+    (, ,) 
+    (PP-MNR (IN via) 
+      (NP 
+        (NP (NNP Smetek) 
+          (, ,)
+          (NNP Van) (NNP Horn) (CC &) (NNP Cormack) (NNP Inc.) )
+        (CC and) 
+        (NP (NNP Oakes) 
+          (, ,)
+          (NNP Fitzwilliams) (CC &) (NNP Co) )))
+    (. .) ))

@@ -1,0 +1,228 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP Food) 
+      (CC and)
+      (NNP Drug) (NNP Administration) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-3 (NNP American) (NNP Home) (NNP Products) (NNP Corp.) )
+          (VP (VBD agreed) 
+            (S 
+              (NP-SBJ (-NONE- *-3) )
+              (VP (TO to) 
+                (VP (VB recall) 
+                  (NP 
+                    (NP (JJ certain) (JJ generic) (NNS drugs) )
+                    (SBAR 
+                      (WHNP-2 (WDT that) )
+                      (S 
+                        (NP-SBJ-1 (-NONE- *T*-2) )
+                        (VP (VBD were) 
+                          (VP (VBN produced) 
+                            (NP (-NONE- *-1) )
+                            (PP (IN by) 
+                              (NP-LGS 
+                                (NP (PRP$ its) (NNP Quantum) (NNP Pharmics) (NN unit) )
+                                (PP-LOC (IN in) 
+                                  (NP 
+                                    (NP (NNP Amityville) )
+                                    (, ,) 
+                                    (NP (NNP N.Y) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Quantum) )
+    (VP (VBD stopped) 
+      (VP (VBG shipping) 
+        (NP (DT the) (NNS drugs) )
+        (NP-TMP (JJ last) (NN month) )
+        (, ,) 
+        (PP-TMP (VBG following) 
+          (NP 
+            (NP (DT a) (JJ federal) (NN investigation) )
+            (VP (VBG regarding) 
+              (NP 
+                (NP (NN information) )
+                (SBAR 
+                  (WHNP-1 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ-2 (DT the) (NN company) )
+                    (VP (VBD supplied) 
+                      (NP (-NONE- *T*-1) )
+                      (S-PRP 
+                        (NP-SBJ (-NONE- *-2) )
+                        (VP (TO to) 
+                          (VP (VB obtain) 
+                            (NP (CD three) (NN drug) (NNS approvals) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP FDA) )
+    (VP (VBD requested) 
+      (NP 
+        (NP (DT the) (NN recall) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Quantum) (POS 's) )
+            (NN mioxidil) (NNS tablets) 
+            (, ,)
+            (NN chlorazepate) (NN dipotassium) (NNS tablets) 
+            (CC and)
+            (NN meclofenamate) (NN sodium) (NNS capsules) )))
+      (SBAR-PRP (IN because) 
+        (PRN 
+          (, ,)
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD said) 
+              (SBAR (-NONE- 0) 
+                (S (-NONE- *T*-2) ))))
+          (, ,) )
+        (S-2 
+          (NP-SBJ-1 
+            (NP (DT the) (NN size) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN production) (NNS runs) )
+                (VP (VBN submitted) 
+                  (NP (-NONE- *) )
+                  (PP-PRP (IN for) 
+                    (NP (NN testing) ))
+                  (S-PRP 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB gain) 
+                        (NP (NNP FDA) (NN approval) ))))))))
+          (VP (VBD was) 
+            (PP-LOC (IN in) 
+              (NP (DT each) (NN case) ))
+            (VP (VBD misrepresented) 
+              (NP (-NONE- *-1) )
+              (PP-CLR (IN as) 
+                (ADJP 
+                  (ADJP (RB much) (JJR larger) )
+                  (SBAR (IN than) 
+                    (S 
+                      (NP-SBJ (PRP it) )
+                      (ADVP (RB actually) )
+                      (VP (VBD was) 
+                        (ADJP-PRD (-NONE- *?*) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP American) (NNP Home) (NNP Products) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP (NNP New) (NNP York) )))
+      (, ,) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB recall) 
+            (NP 
+              (NP (CD four) (JJ other) (NNS products) )
+              (, ,) 
+              (NP (NN trazadone) 
+                (, ,)
+                (NN doxepin) 
+                (, ,)
+                (NN diazepam) 
+                (CC and)
+                (NN lorazapam) ))
+            (, ,) 
+            (PP-PRP (IN because) (IN of) 
+              (NP 
+                (NP (NNS concerns) )
+                (PP (IN about) 
+                  (NP 
+                    (NP (NNS data) )
+                    (VP (VBN submitted) 
+                      (NP (-NONE- *) )
+                      (PP-LOC (IN in) 
+                        (NP (PRP$ their) (JJ original) (NN approval) (NNS applications) ))
+                      (PP-LOC (IN before) 
+                        (NP (DT the) (NNP FDA) )))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-2 
+      (NP-SBJ-1 
+        (NP (DT No) (NN safety) (NNS problems) )
+        (PP (IN with) 
+          (NP (DT the) (NNS products) )))
+      (VP (VBP are) 
+        (VP (VBN known) 
+          (NP (-NONE- *-1) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP FDA) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT An) (NNP FDA) (NN spokesperson) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS drugs) )
+          (VP (VBP are) 
+            (ADVP-TMP (RB still) )
+            (ADJP-PRD (JJ available) )
+            (PP-LOC (IN under) 
+              (NP (JJ other) (NN brand) (NNS names) ))))))
+    (. .) ))
+( (S 
+    (NP-TMP (JJ Last) (NN month) )
+    (, ,) 
+    (NP-SBJ (NNP American) (NNP Home) (NNP Products) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD was) 
+            (VP (VBG suspending) 
+              (NP 
+                (NP (NN production) 
+                  (CC and)
+                  (NN distribution) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT all) (CD 21) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP Quantum) (POS 's) )
+                        (JJ generic) (NN drug) (NNS products) )))))
+              (PP (VBG pending) 
+                (NP 
+                  (NP (DT the) (NN completion) )
+                  (PP (IN of) 
+                    (NP (DT an) (JJ exhaustive) (JJ internal) (NN audit) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP (RB also) )
+    (ADVP-TMP (RB temporarily) )
+    (VP (VBD closed) 
+      (NP (NNP Quantum) )
+      (, ,) 
+      (PP-PRP (IN because) (IN of) 
+        (NP 
+          (NP (DT the) (JJ internal) (NN investigation) )
+          (, ,) (RB as) (RB well) (IN as) 
+          (NP 
+            (NP (DT the) (NNP FDA) (POS 's) )
+            (JJ ongoing) (NN inquiry) ))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading) ))
+    (, ,) 
+    (NP-SBJ (NNP American) (NNP Home) (NNP Products) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 75) (NNS cents) )
+      (PP-DIR (TO to) 
+        (NP ($ $) (CD 105) (-NONE- *U*) ))
+      (PP-TMP (IN on) 
+        (NP (NNP Friday) )))
+    (. .) ))

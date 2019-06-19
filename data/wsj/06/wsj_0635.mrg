@@ -1,0 +1,141 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Ciba-Geigy) (NNP AG) )
+      (, ,) 
+      (NP (DT the) (JJ big) (JJ Swiss) (NNS chemicals) (NN company) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD agreed) 
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT a) (NN letter) )
+                (PP (IN of) 
+                  (NP (NN intent) ))))
+            (PP-CLR (IN with) 
+              (NP (NNP Corning) (NNP Inc.) ))
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB acquire) 
+                  (NP 
+                    (NP 
+                      (NP (NNP Corning) (POS 's) )
+                      (ADJP (CD 50) (NN %) )
+                      (NN share) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP Ciba) (NNP Corning) (NNPS Diagnostics) (NNP Corp.) )
+                        (, ,) 
+                        (VP (VBN based) 
+                          (NP (-NONE- *) )
+                          (PP-LOC-CLR (IN in) 
+                            (NP 
+                              (NP (NNP Medfield) )
+                              (, ,) 
+                              (NP (NNP Mass) ))))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP Ciba) (NNP Corning) )
+        (, ,) 
+        (SBAR 
+          (WHNP-51 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-51) )
+            (VP (VBD had) 
+              (VP (VBN been) 
+                (NP-PRD 
+                  (NP (DT a) (JJ 50-50) (NN venture) )
+                  (PP (IN between) 
+                    (NP 
+                      (NP (JJ Basel-based) (NNP Ciba-Geigy) )
+                      (CC and) 
+                      (NP (NNP Corning) ))))))))
+        (, ,) )
+      (VP (VBZ has) 
+        (NP 
+          (NP (JJ annual) (NNS sales) )
+          (PP (IN of) 
+            (NP 
+              (QP (RB about) ($ $) (CD 300) (CD million) )
+              (-NONE- *U*) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN announcement) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNS Terms) )
+      (PP (IN of) 
+        (NP (DT the) (NN transaction) )))
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Ciba) (NNP Corning) )
+    (VP (VBZ makes) 
+      (NP 
+        (NP 
+          (NP (JJ clinical) (NNS diagnostics) (NNS systems) )
+          (CC and) 
+          (NP (JJ related) (NNS products) ))
+        (PP (IN for) 
+          (NP (DT the) (NN medical-care) (NN industry) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN announcement) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN acquisition) )
+          (VP (MD should) 
+            (VP (VB be) 
+              (VP (VBN completed) 
+                (NP (-NONE- *-1) )
+                (PP-TMP (IN by) 
+                  (NP (NNP December) ))
+                (SBAR-TMP (IN after) 
+                  (S 
+                    (S 
+                      (NP-SBJ-2 (DT a) (JJ definitive) (NN agreement) )
+                      (VP (VBZ is) 
+                        (VP (VBN completed) 
+                          (NP (-NONE- *-2) ))))
+                    (CC and) 
+                    (S 
+                      (NP-SBJ-3 (JJ regulatory) (NN approval) )
+                      (VP (VBZ is) 
+                        (VP (VBN received) 
+                          (NP (-NONE- *-3) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Ciba-Geigy) )
+    (VP (VBZ intends) 
+      (S 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB develop) 
+            (NP (DT the) (NNP Ciba) (NNP Corning) (NN unit) )
+            (PP-CLR (IN into) 
+              (NP (DT a) (`` ``) (JJ substantial) (NN business) ))
+            (, ,) ('' '') 
+            (S-ADV 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (VBG making) 
+                (S 
+                  (NP-SBJ (DT the) (NN unit) )
+                  (NP-PRD 
+                    (NP (DT an) (`` ``) (JJ integral) (NN part) ('' '') )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP Ciba-Geigy) (POS 's) )
+                        (`` ``) (JJ comprehensive) (NN disease) (NN management) (NN concept) ))))))))))
+    (. .) ))

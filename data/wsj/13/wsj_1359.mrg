@@ -1,0 +1,231 @@
+
+( (S 
+    (NP-SBJ (DT The) (NNP National) (NNP Highway) (NNP Traffic) (NNP Safety) (NNP Administration) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (MD will) 
+            (VP (VB start) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (VBG enforcing) 
+                  (NP 
+                    (NP (JJR stiffer) (NNS regulations) )
+                    (PP (-NONE- *ICH*-1) ))))
+              (NP-TMP-CLR (NNP Jan.) (CD 31) )
+              (PP-1 (IN for) 
+                (NP 
+                  (NP 
+                    (ADJP (JJ so-called) (JJ gray-market) )
+                    (NNS imports) )
+                  (PP (IN of) 
+                    (NP (NNS vehicles) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS regulations) )
+      (, ,) 
+      (VP (VBN required) 
+        (NP (-NONE- *) )
+        (PP-LOC (IN under) 
+          (NP 
+            (NP (NN legislation) )
+            (VP (VBN enacted) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS (NNP Congress) ))
+              (NP-TMP (JJ last) (NN year) )))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB apply) 
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (NNS imports) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNS vehicles) )
+                (SBAR 
+                  (WHNP-1 (WDT that) )
+                  (S 
+                    (NP-SBJ-2 (-NONE- *T*-1) )
+                    (VP 
+                      (VP (VBD were) (RB n't) 
+                        (VP (VBN built) 
+                          (NP-3 (-NONE- *-2) )
+                          (S-PRP-CLR 
+                            (NP-SBJ (-NONE- *-3) )
+                            (VP (TO to) 
+                              (VP (VB meet) 
+                                (NP (NNP U.S.) (NN government) (NN auto) (NN safety) (NNS standards) ))))))
+                      (CC and) 
+                      (VP (VBD were) 
+                        (VP (VBN intended) 
+                          (PP-CLR (IN for) 
+                            (NP 
+                              (NP (NN use) )
+                              (UCP-LOC 
+                                (PP (IN in) 
+                                  (NP (NNP Europe) ))
+                                (CC or) 
+                                (ADVP (RB elsewhere) (RB abroad) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP U.S.) (NNS officials) )
+    (VP (VBD estimated) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (JJ gray-market) (NNS imports) )
+          (VP (VBP total) 
+            (NP 
+              (NP 
+                (NP 
+                  (QP (RB about) (CD 2,100) )
+                  (NNS units) )
+                (NP-ADV (DT a) (NN year) ))
+              (, ,) 
+              (NP 
+                (NP (DT a) (JJ small) (NN part) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) 
+                      (QP (JJR more) (IN than) (CD three) (CD million) )
+                      (NNS vehicles) )
+                    (VP (VBN exported) 
+                      (NP (-NONE- *) )
+                      (PP-DIR (TO to) 
+                        (NP (DT the) (NNP U.S.) ))
+                      (NP-TMP (DT each) (NN year) ))))))))))
+    (. .) ))
+( (S 
+    (PP (VBG According) 
+      (PP (TO to) 
+        (NP (DT the) (NNP NHTSA) )))
+    (, ,) 
+    (NP-SBJ (DT the) (JJ new) (NNS regulations) )
+    (VP (MD will) 
+      (VP (VB prohibit) 
+        (NP-4 
+          (NP (NN anyone) )
+          (ADJP (JJ other) 
+            (PP (IN than) 
+              (NP 
+                (NP 
+                  (NP (DT an) (NN importer) )
+                  (SBAR 
+                    (WHNP-1 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBZ has) 
+                        (VP (VBN registered) 
+                          (PP-CLR (IN with) 
+                            (NP (DT the) (NNP U.S.) (NN government) )))))))
+                (, ,) (CC or) 
+                (NP 
+                  (NP (DT a) (NN person) )
+                  (SBAR 
+                    (WHNP-2 (WP who) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-2) )
+                      (VP (VBZ has) 
+                        (NP 
+                          (NP (DT a) (NN contract) )
+                          (PP (IN with) 
+                            (NP (DT a) (JJ registered) (NN importer) )))))))
+                (, ,) ))))
+        (PP-CLR (IN from) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-4) )
+            (ADVP (RB permanently) )
+            (VP (VBG importing) 
+              (NP 
+                (NP (DT a) (NN vehicle) )
+                (SBAR 
+                  (WHNP-3 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-3) )
+                    (VP (VBZ does) (RB n't) 
+                      (VP (VB meet) 
+                        (NP (DT the) (NNP U.S.) (NN auto) (NN safety) (NNS standards) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (JJ registered) (NN importer) )
+    (VP (MD would) 
+      (VP (VB be) 
+        (VP (VBN required) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB bring) 
+                (NP (JJ such) (NNS vehicles) )
+                (PP-CLR (IN into) 
+                  (NP 
+                    (NP (NN compliance) )
+                    (PP (IN with) 
+                      (NP (DT the) (NNP U.S.) (NN safety) (NNS standards) )))))))
+          (, ,) 
+          (PP (VBN compared) 
+            (PP (IN with) 
+              (NP 
+                (NP (DT the) (JJ current) (NN situation) )
+                (SBAR 
+                  (WHPP-2 (IN in) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP-SBJ (NN anyone) )
+                    (VP (MD can) 
+                      (VP 
+                        (VP (VB bring) 
+                          (PRT (RP in) )
+                          (NP (JJ such) (NNS vehicles) ))
+                        (CC and) 
+                        (VP (VB modify) 
+                          (NP-3 (PRP them) )
+                          (S-CLR 
+                            (NP-SBJ (-NONE- *-3) )
+                            (VP (TO to) 
+                              (VP (VB meet) 
+                                (NP (DT the) (NNP U.S.) (NNS standards) )))))
+                        (PP-LOC (-NONE- *T*-2) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Congress) )
+    (VP (VBD tightened) 
+      (NP 
+        (NP (NN auto) (NN safety) (NNS standards) )
+        (PP (IN for) 
+          (NP (JJ gray-market) (NNS imports) )))
+      (SBAR-TMP (IN after) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP U.S.) (NN auto) (NNS dealers) )
+            (, ,) 
+            (PP (VBG including) 
+              (NP (JJ franchised) (NN foreign-car) (NNS dealers) ))
+            (, ,) )
+          (VP (VBD complained) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ-1 (PRP they) )
+                (ADVP (RB often) )
+                (VP (VBD were) 
+                  (VP (VBN blamed) 
+                    (NP (-NONE- *-1) )
+                    (SBAR-TMP 
+                      (WHADVP-2 (WRB when) )
+                      (S 
+                        (NP-SBJ 
+                          (NP (DT the) (JJ second) 
+                            (CC and)
+                            (JJ third) (NNS buyers) )
+                          (PP (IN of) 
+                            (NP (JJ such) (NNS vehicles) )))
+                        (VP (VBD found) 
+                          (SBAR (IN that) 
+                            (S 
+                              (NP-SBJ (DT the) (NNS cars) )
+                              (VP (MD could) (RB n't) 
+                                (VP (VB meet) 
+                                  (NP (NNP U.S.) (NN auto) (NN safety) (NNS standards) )))))
+                          (ADVP-TMP (-NONE- *T*-2) ))))))))))))
+    (. .) ))

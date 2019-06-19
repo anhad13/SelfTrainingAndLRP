@@ -1,0 +1,464 @@
+
+( (S 
+    (NP-SBJ-1 (NNP Bethlehem) (NNP Steel) (NNP Corp.) )
+    (VP (VBZ has) 
+      (VP (VBN agreed) 
+        (PP (IN in) 
+          (NP (NN principle) ))
+        (S 
+          (NP-SBJ-2 (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB form) 
+              (NP (DT a) (JJ joint) (NN venture) )
+              (PP-CLR (IN with) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NN world) (POS 's) )
+                    (JJ second-largest) (NN steelmaker) )
+                  (, ,) 
+                  (NP 
+                    (NP (NNP Usinor-Sacilor) )
+                    (PP (IN of) 
+                      (NP (NNP France) )))
+                  (, ,) ))
+              (S-PRP 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB modernize) 
+                    (NP 
+                      (NP (DT a) (NN portion) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNP Bethlehem) (POS 's) )
+                          (VBG ailing) (NNP BethForge) (NN division) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN venture) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ involves) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG adding) 
+                (NP 
+                  (NP (JJ sophisticated) (NN equipment) )
+                  (SBAR 
+                    (WHNP-3 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-3) )
+                      (VP (TO to) 
+                        (VP (VB make) 
+                          (NP (NN cast-iron) (NN mill) (NNS rolls) )))))))))))
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT a) (JJ two-pronged) (NN effort) )
+            (SBAR 
+              (WHNP-4 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *T*-4) )
+                (VP (TO to) 
+                  (VP (VB shore) 
+                    (PRT (RP up) )
+                    (NP 
+                      (NP (DT a) (NN division) )
+                      (SBAR 
+                        (WHNP-2 (WDT that) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-2) )
+                          (VP (VBZ has) 
+                            (VP (VBN posted) 
+                              (NP (VBG continuing) (NN operating) (NNS losses) )
+                              (PP-TMP (IN for) 
+                                (NP (JJ several) (NNS years) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ other) (NN element) )
+    (VP (VBZ includes) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG consolidating) 
+          (NP 
+            (NP (NNP BethForge) (POS 's) )
+            (NN press-forge) (NNS operations) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ entire) (NN division) )
+    (VP (VBZ employs) 
+      (NP 
+        (QP (IN about) (CD 850) )
+        (NNS workers) ))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (DT the) (JJ joint) (NN venture) )
+        (VP (VBZ affects) 
+          (NP 
+            (NP (RB only) (DT a) (JJ small) (NN part) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Bethlehem) (POS 's) )
+                (NNS operations) ))))))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ significant) )
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ marks) 
+            (NP 
+              (NP (DT the) (JJ first) (NN time) )
+              (SBAR 
+                (WHADVP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ 
+                    (NP (DT the) (NN nation) (POS 's) )
+                    (NN No.) (CD 2) (NN steelmaker) )
+                  (VP (VBZ has) 
+                    (VP (VBN joined) 
+                      (NP (NNS forces) )
+                      (PP-CLR (IN with) 
+                        (NP (DT a) (JJ foreign) (NN partner) ))
+                      (ADVP-TMP (-NONE- *T*-1) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Wall) (NNP Street) (NNS analysts) )
+    (VP (VBP have) 
+      (VP (VBN criticized) 
+        (NP (NNP Bethlehem) )
+        (PP-CLR (IN for) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (RB not) (VBG following) 
+              (NP (PRP$ its) (JJ major) (NNS competitors) )
+              (PP-CLR (IN in) 
+                (S-NOM 
+                  (NP-SBJ-1 (-NONE- *) )
+                  (VP (VBG linking) 
+                    (PP-CLR (IN with) 
+                      (NP (DT a) (JJ foreign) (NN company) ))
+                    (S-PRP 
+                      (NP-SBJ (-NONE- *-1) )
+                      (VP (TO to) 
+                        (VP 
+                          (VP (VB share) 
+                            (NP (NNS costs) ))
+                          (CC and) 
+                          (VP (VB provide) 
+                            (NP 
+                              (NP (NN technology) )
+                              (SBAR 
+                                (WHNP-2 (-NONE- 0) )
+                                (S 
+                                  (NP-SBJ (-NONE- *T*-2) )
+                                  (VP (TO to) 
+                                    (VP 
+                                      (VP (VB modernize) 
+                                        (NP (JJ old) (NNS facilities) ))
+                                      (CC or) 
+                                      (VP (VB build) 
+                                        (NP (JJ new) (NNS ones) )))))))))))))))))))
+    (. .) ))
+( (SINV 
+    (S-TPC-1 (`` ``) 
+      (NP-SBJ (PRP We) )
+      (VP (VBP think) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ 's) 
+              (NP-PRD 
+                (NP (DT a) (NN step) )
+                (PP (IN in) 
+                  (NP (DT the) (JJ right) (NN direction) ))
+                (PP (IN for) 
+                  (NP (NNP Bethlehem) )))))))
+      (, ,) ('' '') )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Felix) (NNP Bello) )
+      (, ,) 
+      (NP 
+        (NP (NNP WEFA) (NNP Group) (POS 's) )
+        (JJ international) (NN steel) (NN analyst) ))
+    (. .) ))
+( (S (`` ``) 
+    (S 
+      (NP-SBJ 
+        (NP (PRP It) )
+        (S (-NONE- *EXP*-1) ))
+      (VP (VBZ 's) 
+        (ADJP-PRD (JJ important) )
+        (S-1 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB share) 
+              (NP (DT the) (NN risk) ))))))
+    (FRAG 
+      (CC and)
+      (ADVP (RB even) (RBR more) (RB so) 
+        (SBAR 
+          (WHADVP-2 (WRB when) )
+          (S 
+            (NP-SBJ (DT the) (NN market) )
+            (VP (VBZ has) 
+              (ADVP (RB already) )
+              (VP (VBN peaked) 
+                (ADVP-TMP (-NONE- *T*-2) )))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN move) )
+          (VP (MD could) 
+            (VP (VB be) 
+              (NP-PRD 
+                (NP (DT the) (NN beginning) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (NP (DT a) (JJR broader) (NN relationship) )
+                      (PP (IN between) 
+                        (NP (DT the) (CD two) (NNS companies) )))
+                    (, ,) 
+                    (NP 
+                      (NP (NN one) )
+                      (SBAR 
+                        (WHNP-1 (WDT that) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-1) )
+                          (VP (MD could) 
+                            (VP (VB open) 
+                              (PRT (RP up) )
+                              (NP (JJ new) (NNS markets) )
+                              (PP-BNF (IN for) 
+                                (NP (NNP Bethlehem) )))))))))))))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP Bethlehem) )
+      (VP (VBD had) 
+        (NP (JJ little) (NN choice) 
+          (ADVP (CC but) )
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB go) 
+                (PP-CLR (IN with) 
+                  (NP (DT a) (JJ European) (NN steelmaker) ))))))
+        (, ,) 
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (PRP$ its) (NNS competitors) )
+            (ADVP (RB already) )
+            (VP (VB have) 
+              (VP (VBN tapped) 
+                (NP (DT the) (JJ Japanese) 
+                  (CC and)
+                  (JJ South) (JJ Korean) (NN industry) (NNS leaders) )))))))
+    (, ,) 
+    (NP-SBJ (NNS analysts) )
+    (VP (VBD noted) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP 
+        (NP (NNS terms) )
+        (PP (IN of) 
+          (NP (DT the) (NN agreement) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Usinor) (POS 's) )
+        (NNP Chavanne-Ketin) (NN unit) )
+      (CC and) 
+      (NP (NNP Bethlehem) ))
+    (VP (MD would) 
+      (VP (VB establish) 
+        (NP 
+          (NP (DT a) (JJ modernized) (NN facility) )
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (TO to) 
+                (VP (VB make) 
+                  (NP (NN cast-iron) (NN mill) (NNS rolls) ))))))
+        (PP-LOC (IN at) 
+          (NP 
+            (NP 
+              (NP (DT the) (NN company) (POS 's) )
+              (NN cast-iron) (NN shop) )
+            (ADVP-LOC (RB here) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-3 
+      (NP (NNS Terms) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) (NN venture) )
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (NP-SBJ-2 (-NONE- *T*-1) )
+              (VP (MD would) 
+                (VP (VB be) 
+                  (VP 
+                    (ADVP-MNR (RB jointly) )
+                    (VBN owned) 
+                    (NP (-NONE- *-2) )
+                    (PP (IN by) 
+                      (NP-LGS (DT both) (NNS companies) )))))))
+          (, ,) )))
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-3) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNP Usinor) (NN unit) )
+    (VP (VBZ has) 
+      (VP (VBN agreed) 
+        (S 
+          (NP-SBJ-2 (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB provide) 
+              (NP (NN technology) 
+                (CC and)
+                (NN expertise) )
+              (S-PRP 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB install) 
+                    (NP (DT a) (JJ so-called) (NN spin) (NN caster) )
+                    (PP-TMP (IN by) 
+                      (NP (JJ early) (JJ next) (NN fall) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN caster) )
+    (VP (VBZ improves) 
+      (NP 
+        (NP (DT the) (JJ metallurgical) (NN quality) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN iron) (NN mill) (NNS rolls) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBP are) 
+                  (ADVP (RB basically) )
+                  (NP-PRD 
+                    (NP (JJ huge) (VBG rolling) (NNS pins) )
+                    (VP (VBN used) 
+                      (NP-2 (-NONE- *) )
+                      (S-CLR 
+                        (NP-SBJ (-NONE- *-2) )
+                        (VP (TO to) 
+                          (VP (VB flatten) (CC or) (VB shape) 
+                            (NP (NN steel) (NNS products) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Bethlehem) )
+    (VP (VBZ is) 
+      (ADVP (RB also) )
+      (VP (VBG working) 
+        (PP-CLR (IN with) 
+          (NP (DT the) (NNP United) (NNPS Steelworkers) (NN union) ))
+        (S-PRP 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB consolidate) 
+              (NP 
+                (NP 
+                  (NP (NNP BethForge) (POS 's) )
+                  (CD two) (NN machine) (NNS shops) )
+                (CC and) 
+                (NP 
+                  (NP (CD four) (NN heat-treatment) (NNS facilities) )
+                  (PP (IN of) 
+                    (NP (DT the) (NN press-forge) (NNS operations) )))))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP (RB Once) 
+      (S 
+        (NP-SBJ (DT the) (NN consolidation) )
+        (VP (VBZ is) 
+          (ADJP-PRD (JJ complete) ))))
+    (, ,) 
+    (NP-SBJ-1 (NNP Bethlehem) )
+    (VP (VBZ plans) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB concentrate) 
+            (NP (PRP$ its) (NNS forgings) (NN business) )
+            (PP-CLR (IN on) 
+              (NP 
+                (NP (JJ nuclear) (NN fabrication) )
+                (, ,) 
+                (NP (VBN hardened) (NN steel) )
+                (CC and) 
+                (NP 
+                  (NP (JJ large-diameter) (NN steel) (NNS rolls) )
+                  (PP (IN for) 
+                    (NP (VBG rolling) (NNS mills) )))
+                (CC and) 
+                (NP (VBN selected) (NN custom-die) (NNS applications) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Bethlehem) )
+    (VP (VBD said) 
+      (ADVP-TMP (RBR earlier) 
+        (NP (DT this) (NN year) ))
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBD planned) 
+            (S 
+              (NP-SBJ-2 (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (NN restructure) 
+                  (NP (DT the) (NNP BethForge) (NN division) )
+                  (S-PRP 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (TO to) 
+                      (VP (VB improve) 
+                        (NP (PRP$ its) (NN cost) (NN structure) )))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT the) (JJ second) (NN quarter) ))
+    (, ,) 
+    (NP-SBJ (NNP Bethlehem) )
+    (VP (VBD posted) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 50) (CD million) )
+            (-NONE- *U*) )
+          (NN charge) )
+        (ADJP (JJ related) 
+          (PP (TO to) 
+            (NP (PRP$ its) (NNS plans) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB realign) 
+                    (NP (DT the) (NN division) )))))))))
+    (. .) ))

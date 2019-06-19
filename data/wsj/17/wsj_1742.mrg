@@ -1,0 +1,132 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Sony) (NNP Corp.) )
+      (, ,) 
+      (NP-LOC (NNP New) (NNP York) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (PRP$ its) (NNS bids) )
+            (PP (IN for) 
+              (NP 
+                (NP (NNP Columbia) (NNPS Pictures) (NNP Entertainment) (NNP Inc.) )
+                (CC and) 
+                (NP (NNP Guber-Peters) (NNP Entertainment) (NNP Co.) ))))
+          (VP (VBP have) 
+            (VP (VBN been) 
+              (VP (VBN cleared) 
+                (NP (-NONE- *-1) )
+                (PP (IN by) 
+                  (NP-LGS (JJ federal) (JJ antitrust) (NNS regulators) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ Japanese) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (VBG waiting) (NN period) )
+            (PP-LOC (IN under) 
+              (NP (DT the) (NNP Hart-Scott-Rodino) (JJ antitrust) (NN act) ))
+            (PP (IN for) 
+              (NP 
+                (NP 
+                  (NP (DT the) 
+                    (ADJP 
+                      (QP ($ $) (CD 3.4) (CD billion) )
+                      (-NONE- *U*) )
+                    (NN bid) )
+                  (PP (IN for) 
+                    (NP (NNP Columbia) )))
+                (CC and) 
+                (NP 
+                  (NP (DT the) 
+                    (ADJP 
+                      (QP ($ $) (CD 200) (CD million) )
+                      (-NONE- *U*) )
+                    (NN offer) )
+                  (PP (IN for) 
+                    (NP (NNP Guber-Peters) ))))))
+          (VP (VBD expired) 
+            (NP-TMP (NNP Monday) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Sony) )
+    (VP 
+      (VP (VBZ has) 
+        (VP (VBN agreed) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB buy) 
+                (NP (DT both) (NNS companies) ))))))
+      (, ,) (CC but) 
+      (VP (VBZ is) 
+        (PP-LOC-PRD (IN in) 
+          (NP 
+            (NP (DT a) (JJ legal) (NN battle) )
+            (PP (IN with) 
+              (NP (NNP Warner) (NNPS Communications) (NNP Inc.) ))
+            (PP (IN over) 
+              (NP 
+                (NP (DT the) (NNS services) )
+                (PP (IN of) 
+                  (NP (NNS producers) (NNP Peter) (NNP Guber) 
+                    (CC and)
+                    (NNP Jon) (NNP Peters) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (DT a) (NN filing) )
+        (PP (IN with) 
+          (NP (DT the) (NNPS Securities) 
+            (CC and)
+            (NNP Exchange) (NNP Commission) ))))
+    (, ,) 
+    (NP-SBJ (NNP Sony) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 
+            (NP (CD two) (JJR more) (NNS suits) )
+            (VP (-NONE- *ICH*-2) ))
+          (VP (VBP have) 
+            (VP (VBN been) 
+              (VP (VBN filed) 
+                (NP (-NONE- *-1) )
+                (VP-2 (VBG opposing) 
+                  (NP 
+                    (NP (DT the) (NN company) (POS 's) )
+                    (NN agreement) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB buy) 
+                          (NP (NNP Columbia) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Sony) )
+    (VP (VBD added) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (DT a) (NN hearing) )
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (VP (VBN set) 
+                (NP (-NONE- *-1) )
+                (PP-CLR (IN for) 
+                  (NP 
+                    (NP (NNP Thursday) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (NNP Delaware) (NNP Chancery) (NNP Court) ))))
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (CD one) )
+                    (PP (IN of) 
+                      (NP (DT the) (NNS suits) ))))))))))
+    (. .) ))

@@ -1,0 +1,118 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (JJ Sharp) (NNS increases) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT the) (NN price) )
+            (PP (IN of) 
+              (NP (JJ fresh) (NN produce) )))))
+      (VP (VBD caused) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Spain) (POS 's) )
+            (NNP September) (NN consumer) (NN price) (NN index) )
+          (VP (TO to) 
+            (VP (VB shoot) 
+              (ADVP-DIR (RB up) )
+              (NP-EXT (CD 1.1) (NN %) )
+              (PP-DIR (IN from) 
+                (NP (DT the) (JJ previous) (NN month) ))
+              (, ,) 
+              (S-ADV 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG pushing) 
+                  (NP 
+                    (NP (DT the) (JJ annual) (NN rate) )
+                    (PP (IN of) 
+                      (NP (NN inflation) )))
+                  (PP-DIR (TO to) 
+                    (NP (CD 6.8) (NN %) )))))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNP National) (NNP Institute) )
+      (PP (IN of) 
+        (NP (NNP Statistics) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) ))
+      (NP-TMP (NNP Friday) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ monthly) (NN increase) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (RB highest) )
+        (VP (VBN recorded) 
+          (NP (-NONE- *) )
+          (PP-TMP (IN in) 
+            (NP (DT the) (JJ past) (CD four) (NNS years) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (DT The) (NN index) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD registered) 
+            (NP (CD 156.8) )
+            (PP-TMP (IN at) 
+              (NP 
+                (NP (DT the) (NN end) )
+                (PP (IN of) 
+                  (NP (NNP September) )))))))
+      (, ,) )
+    (VP 
+      (VP (VBZ has) 
+        (NP 
+          (NP (DT a) (NN base) )
+          (PP (IN of) 
+            (NP (CD 100) ))
+          (VP (NN set) 
+            (NP (-NONE- *) )
+            (PP-TMP (IN in) 
+              (NP (CD 1983) )))))
+      (CC and) 
+      (VP (VBZ is) (RB n't) 
+        (VP 
+          (ADVP (RB seasonally) )
+          (VBN adjusted) 
+          (NP (-NONE- *-2) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Prices) )
+    (VP (VBP have) 
+      (VP (VBN risen) 
+        (NP-EXT (CD 5.9) (NN %) )
+        (PP-TMP (IN in) 
+          (NP 
+            (NP (DT the) (JJ first) (CD nine) (NNS months) )
+            (PP (IN of) 
+              (NP (DT the) (NN year) ))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG outstripping) 
+            (NP (CC both) 
+              (NP 
+                (NP (DT the) (JJ initial) 
+                  (ADJP (CD 3) (NN %) )
+                  (NN inflation) (NN goal) )
+                (VP (VBN set) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS 
+                      (NP (DT the) (NN government) )
+                      (PP (IN of) 
+                        (NP (NNP Socialist) (NNP Prime) (NNP Minister) (NNP Felipe) (NNP Gonzalez) ))))))
+              (CC and) 
+              (NP 
+                (NP (DT the) (JJ second) 
+                  (, ,)
+                  (VBN revised) (NN goal) )
+                (PP (IN of) 
+                  (NP (CD 5.8) (NN %) ))))))))
+    (. .) ))

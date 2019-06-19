@@ -1,0 +1,46 @@
+
+( (S 
+    (NP-SBJ (NNP Northrop) (NNP Corp.) )
+    (VP (VBD received) 
+      (NP 
+        (NP (DT a) 
+          (ADJP 
+            (QP ($ $) (CD 93.5) (CD million) )
+            (-NONE- *U*) )
+          (NN contract) )
+        (PP (IN by) 
+          (NP (DT the) (NNP U.S.) (NNP Air) (NNP Force) ))
+        (PP (IN for) 
+          (NP 
+            (NP (NN production) (NN tooling) 
+              (CC and)
+              (NN test) (NN equipment) )
+            (PP (IN for) 
+              (NP (DT the) (NNP Tacit) (NNP Rainbow) (NN defense-suppression) (NN missile) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN contract) )
+    (VP 
+      (VP (VBZ provides) 
+        (NP (JJ additional) (NN equipment) )
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (NNP Northrop) )
+            (, ,) 
+            (NP 
+              (NP (DT the) (JJ prime) (NN contractor) )
+              (PP (IN on) 
+                (NP (DT the) (NN missile) )))
+            (, ,) )))
+      (CC and) 
+      (VP 
+        (ADVP (RB also) )
+        (VBZ supports) 
+        (NP 
+          (NP (DT a) (CD 1990) (NN purchase) )
+          (PP (IN of) 
+            (NP 
+              (NP (CD 90) (NNS missiles) )
+              (PP (IN for) 
+                (NP (JJ follow-on) (NN flight) (NNS tests) )))))))
+    (. .) ))

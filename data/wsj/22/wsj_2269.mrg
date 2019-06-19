@@ -1,0 +1,191 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Whirlpool) (NNP Corp.) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Benton) (NNP Harbor) )
+        (, ,) 
+        (NP (NNP Mich.) )
+        (, ,) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) 
+            (VP (VBN developed) 
+              (NP (DT a) (NN process) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB recover) 
+                      (NP 
+                        (NP 
+                          (NP 
+                            (ADJP (RB environmentally) (JJ harmful) )
+                            (NNS chlorofluorocarbons) )
+                          (, ,) (CC or) 
+                          (NP (NNS CFCs) )
+                          (, ,) )
+                        (SBAR 
+                          (WHNP-1 (WDT that) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-1) )
+                            (VP 
+                              (ADVP-TMP (RB previously) )
+                              (VBD entered) 
+                              (NP (DT the) (NN atmosphere) )
+                              (PP-TMP (IN during) 
+                                (NP 
+                                  (NP (JJ in-home) (NN repair) )
+                                  (PP (IN of) 
+                                    (NP (NNS refrigerators) 
+                                      (CC and)
+                                      (NNS freezers) )))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN maker) )
+      (PP (IN of) 
+        (NP (NN home) (NNS appliances) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN process) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBZ involves) 
+                  (NP 
+                    (NP (DT the) (NN use) )
+                    (PP (IN of) 
+                      (NP (DT a) (JJ multilayer) (NN plastic) (NN bag) ))
+                    (PP (IN during) 
+                      (NP (NNS repairs) ))
+                    (SBAR-PRP 
+                      (WHNP-2 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-2) )
+                        (VP (TO to) 
+                          (VP 
+                            (VP (VB capture) 
+                              (NP (DT the) (JJ gaseous) (NN substance) ))
+                            (CC and) 
+                            (VP (NN transport) 
+                              (NP (PRP it) )
+                              (PP-DIR (TO to) 
+                                (NP (DT a) (VBG recycling) (NN center) )))))))))))
+            (, ,) )
+          (VP 
+            (VP (VBZ is) 
+              (ADVP-TMP (RB already) )
+              (PP-PRD (IN in) 
+                (NP (NN use) ))
+              (PP-LOC (IN at) 
+                (NP 
+                  (NP (DT a) (NN number) )
+                  (PP (IN of) 
+                    (NP (PRP$ its) (NN service) (NNS centers) )))))
+            (, ,) 
+            (CC and)
+            (VP (MD will) 
+              (VP (VB be) 
+                (ADJP-PRD (JJ available) 
+                  (PP (TO to) 
+                    (NP (DT all) (VBN authorized) (NN repair) (NNS centers) )))
+                (PP-TMP (IN by) 
+                  (NP (NN spring) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJR Earlier) (NNS repairs) )
+    (VP (VBD vented) 
+      (NP (DT the) (NNS CFCs) )
+      (PP-DIR (IN out) 
+        (PP (IN of) 
+          (NP (DT the) (NN home) )))
+      (PP (IN through) 
+        (NP (DT a) (NN hose) ))
+      (PP-DIR 
+        (ADVP (RB directly) )
+        (IN into) 
+        (NP (DT the) (NN atmosphere) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS CFCs) )
+    (VP (VBP are) 
+      (VP 
+        (ADVP-LOC (RB widely) )
+        (VBN used) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (IN as) 
+          (NP 
+            (NP (NNS solvents) )
+            (, ,) 
+            (NP (NNS coolants) )
+            (CC and) 
+            (NP (NN fire) (NNS suppressants) )))))
+    (. .) ))
+( (S (CC But) 
+    (S 
+      (NP-SBJ-1 (PRP$ their) (NN use) )
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (VP (VBN linked) 
+            (NP (-NONE- *-1) )
+            (PP-CLR (TO to) 
+              (NP 
+                (NP (DT a) 
+                  (ADJP (RB potentially) (JJ dangerous) )
+                  (NN depletion) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NNP Earth) (POS 's) )
+                    (NN ozone) (NN layer) ))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-2 
+        (NP (DT a) (NN number) )
+        (PP (IN of) 
+          (NP (NNS companies) )))
+      (VP (VBP are) 
+        (VP (VBG seeking) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB curtail) 
+                (NP 
+                  (NP (NN use) )
+                  (, ,) (CC or) 
+                  (NP 
+                    (ADVP (IN at) (JJS least) )
+                    (NN emission) )
+                  (, ,) 
+                  (PP (IN of) 
+                    (NP (DT the) (NN substance) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Whirpool) )
+    (VP (VBD said) 
+      (, ,)
+      (S (`` ``) 
+        (NP-SBJ (PRP We) )
+        (VP (VBP see) 
+          (NP (DT this) (NN process) )
+          (PP-CLR (IN as) 
+            (NP 
+              (NP (DT a) 
+                (ADJP (JJ small) (CC but) (JJ important) )
+                (NN step) )
+              (PP (IN toward) 
+                (NP 
+                  (NP (JJ eventual) (NN elimination) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP CFC) (NN use) )
+                      (PP-LOC (IN in) 
+                        (NP (NN appliance) (NN manufacture) )))))))))))
+    (. .) ))

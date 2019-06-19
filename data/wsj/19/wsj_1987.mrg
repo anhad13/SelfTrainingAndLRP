@@ -1,0 +1,205 @@
+
+( (S 
+    (NP-SBJ (NNP Dallas) (NN investor) (NNP Harold) (NNP C.) (NNP Simmons) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD raised) 
+            (NP 
+              (NP (PRP$ his) (NN stake) )
+              (PP-LOC (IN in) 
+                (NP (NNP Lockheed) (NNP Corp.) )))
+            (PP-DIR (TO to) 
+              (NP (CD 10.62) (NN %) ))
+            (PP-DIR (IN from) 
+              (NP 
+                (NP (CD 10.43) (NN %) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN aerospace) 
+                      (CC and)
+                      (NN electronics) (NN concern) (POS 's) )
+                    (JJ common) (NNS shares) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (NNP Securities) 
+        (CC and)
+        (NNP Exchange) (NNP Commission) (NN filing) ))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Simmons) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP he) )
+            (CC and) 
+            (NP 
+              (NP (NNS companies) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (PRP he) )
+                  (VP (VBZ controls) 
+                    (NP (-NONE- *T*-1) ))))
+              (, ,) 
+              (NP 
+                (NP (NNP NL) (NNP Industries) (NNP Inc.) )
+                (CC and) 
+                (NP (NNP NL) (NNP Chemicals) (NNP Inc.) ))
+              (, ,) ))
+          (VP (VBP hold) 
+            (NP 
+              (NP (CD 6,744,600) (NNS shares) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP Lockheed) )
+                  (, ,) 
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Calabasas) )
+                      (, ,) 
+                      (NP (NNP Calif) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBP include) 
+      (NP 
+        (NP (CD 122,700) (NNS shares) )
+        (VP (VBD bought) 
+          (NP (-NONE- *) )
+          (NP-TMP (NNP Friday) )
+          (PP-CLR (IN for) 
+            (NP 
+              (NP 
+                (QP (IN between) ($ $) (CD 47.125) 
+                  (CC and)
+                  ($ $) (CD 48) )
+                (-NONE- *U*) )
+              (ADVP (DT each) ))))))
+    (. .) ))
+( (S 
+    (PP-CLR (IN In) 
+      (NP 
+        (NP (JJ composite) (NN trading) )
+        (PP-LOC (IN on) 
+          (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))))
+    (, ,) 
+    (NP-SBJ (NNP Lockheed) )
+    (VP (VBD closed) 
+      (PP-CLR (IN at) 
+        (NP 
+          (NP ($ $) (CD 46.125) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) )))
+      (, ,) 
+      (ADVP (RB down) 
+        (NP (CD 12.5) (NNS cents) )))
+    (. .) ))
+( (S 
+    (NP-TMP (RBR Earlier) (DT this) (NN week) )
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Simmons) )
+    (VP (VBD objected) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (VBN published) (NNS reports) )
+          (VP (VBG quoting) 
+            (NP-1 (PRP him) )
+            (PP-CLR (IN as) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG saying) 
+                  (SBAR (-NONE- 0) 
+                    (S 
+                      (NP-SBJ-2 (PRP he) )
+                      (VP (VBD planned) 
+                        (S 
+                          (NP-SBJ (-NONE- *-2) )
+                          (VP (TO to) 
+                            (VP (VB sell) 
+                              (NP (PRP$ his) (NNP Lockheed) (NN stake) )
+                              (SBAR-PRP (IN because) (`` ``) 
+                                (S 
+                                  (NP-SBJ-3 (DT the) (NN defense) (NN industry) )
+                                  (VP (VBZ seems) 
+                                    (S 
+                                      (NP-SBJ (-NONE- *-3) )
+                                      (VP (TO to) 
+                                        (VP (VB be) 
+                                          (VP (VBG getting) 
+                                            (ADJP-PRD (RBR more) (JJ uncertain) )))))))))))))))))))))
+    (. .) ('' '') ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Valhi) (NNP Inc.) )
+      (, ,) 
+      (NP 
+        (NP (DT another) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Mr.) (NNP Simmons) (POS ') )
+            (NNS companies) )))
+      (, ,) )
+    (VP (VBD responded) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT an) (NN article) )
+          (NP-TMP (NNP Monday) )
+          (PP-LOC (IN in) 
+            (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal) ))
+          (, ,) 
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD credited) 
+                (NP 
+                  (NP (DT a) (NN story) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NNP Sunday) (NNP Los) (NNP Angeles) (NNP Daily) (NNP News) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Valhi) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS articles) )
+          (VP (VBD did) (RB n't) 
+            (VP 
+              (ADVP-MNR (RB accurately) )
+              (VB reflect) 
+              (NP 
+                (NP (NNP Valhi) )
+                (CC and) 
+                (NP 
+                  (NP 
+                    (NP (PRP$ its) (NNS affiliates) (POS ') )
+                    (NNS intentions) )
+                  (PP (IN toward) 
+                    (NP (NNP Lockheed) )))))))))
+    (. .) ))
+( (S-1 
+    (ADVP (RB Instead) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (NNP Valhi) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (NP-SBJ (PRP they) )
+    (VP (MD may) 
+      (VP (VB increase) 
+        (, ,)
+        (VB decrease) (CC or) (VB retain) 
+        (NP (PRP$ their) (NNP Lockheed) (NNS holdings) )
+        (, ,) 
+        (PP (VBG depending) 
+          (PP (IN on) 
+            (NP 
+              (NP (DT a) (NN number) )
+              (PP (IN of) 
+                (NP (NNS conditions) )))))))
+    (. .) ))

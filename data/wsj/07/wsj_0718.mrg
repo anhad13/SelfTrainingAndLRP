@@ -1,0 +1,100 @@
+
+( (S 
+    (NP-SBJ (NNP Shell) (NNP Canada) (NNP Ltd.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB build) 
+                  (NP (DT a) (NNS lubricants) (NN blending) 
+                    (CC and)
+                    (NN packaging) (NN plant) )
+                  (PP-LOC (IN at) 
+                    (NP 
+                      (NP (NNP Brockville) )
+                      (, ,) 
+                      (NP (NNP Ontario) )))
+                  (, ,) 
+                  (SBAR (IN with) 
+                    (S 
+                      (NP-SBJ-2 (NNS start-up) )
+                      (VP (VBN scheduled) 
+                        (NP (-NONE- *-2) )
+                        (PP-TMP-CLR (IN for) 
+                          (NP (CD 1992) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN plant) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (MD will) 
+                  (VP (VB replace) 
+                    (NP 
+                      (NP (JJR older) (NN lubricant) 
+                        (CC and)
+                        (NN grease) (NN manufacturing) (NNS plants) )
+                      (PP-LOC (IN in) 
+                        (NP (NNP Montreal) 
+                          (CC and)
+                          (NNP Toronto) )))))))
+            (, ,) )
+          (VP (MD will) 
+            (VP (VB cost) 
+              (NP 
+                (NP 
+                  (QP (IN about) (CD 50) (CD million) )
+                  (JJ Canadian) (NNS dollars) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP 
+                    (QP ($ US$) (CD 42.5) (CD million) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) ))
+              (S-CLR 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB build) 
+                    (NP (-NONE- *?*) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Brockville) )
+    (VP (VBZ is) 
+      (ADVP-PRD 
+        (NP 
+          (QP (IN about) (CD 100) )
+          (NNS miles) )
+        (RB east) 
+        (PP (IN of) 
+          (NP (NNP Toronto) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Shell) (NNP Canada) )
+      (, ,) 
+      (NP (DT an) (NN oil) 
+        (CC and)
+        (NN gas) (NN producer) 
+        (CC and)
+        (NN marketer) )
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN unit) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Royal) (NNP Dutch\/Shell) (NNP Group) )
+            (, ,) 
+            (NP (DT an) (JJ Anglo-Dutch) (NN concern) )))))
+    (. .) ))

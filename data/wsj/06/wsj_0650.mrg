@@ -1,0 +1,76 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Sun) (NNPS Microsystems) (NNP Inc.) )
+      (, ,) 
+      (NP (DT a) (NN computer) (NN maker) )
+      (, ,) )
+    (VP (VBD announced) 
+      (NP 
+        (NP (DT the) (NN effectiveness) )
+        (PP (IN of) 
+          (NP 
+            (NP (PRP$ its) (NN registration) (NN statement) )
+            (PP (IN for) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 125) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN of) 
+                  (NP 
+                    (ADJP 
+                      (QP (CD 6) (CD 3\/8) )
+                      (NN %) )
+                    (JJ convertible) (JJ subordinated) (NNS debentures) ))
+                (ADJP (JJ due) 
+                  (NP-TMP (NNP Oct.) (CD 15) 
+                    (, ,)
+                    (CD 1999) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NNS debentures) )
+          (VP (VBP are) 
+            (VP (VBG being) 
+              (VP 
+                (VP (VBN issued) 
+                  (NP (-NONE- *-1) )
+                  (PP (IN at) 
+                    (NP 
+                      (NP (DT an) (NN issue) (NN price) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP ($ $) (CD 849) (-NONE- *U*) )
+                          (PP (IN for) 
+                            (NP (DT each) 
+                              (ADJP ($ $) (CD 1,000) (-NONE- *U*) )
+                              (JJ principal) (NN amount) )))))))
+                (CC and) 
+                (VP (VBP are) 
+                  (ADJP-PRD (JJ convertible) )
+                  (PP-TMP (IN at) 
+                    (NP 
+                      (NP (DT any) (NN time) )
+                      (ADVP (RB prior) 
+                        (PP (TO to) 
+                          (NP (NN maturity) )))))
+                  (PP (IN at) 
+                    (NP 
+                      (NP (DT a) (NN conversion) (NN price) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP ($ $) (CD 25) (-NONE- *U*) )
+                          (NP-ADV (DT a) (NN share) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS debentures) )
+    (VP (VBP are) 
+      (ADJP-PRD (JJ available) )
+      (PP (IN through) 
+        (NP (NNP Goldman) 
+          (, ,)
+          (NNP Sachs) (CC &) (NNP Co) )))
+    (. .) ))

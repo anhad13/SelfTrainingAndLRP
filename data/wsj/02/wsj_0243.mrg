@@ -1,0 +1,104 @@
+
+( (S 
+    (NP-SBJ (NNP International) (NNP Lease) (NNP Finance) (NNP Corp.) )
+    (VP (VBD announced) 
+      (NP 
+        (NP (DT a) (NN leasing) (NN contract) )
+        (PP (IN with) 
+          (NP (NN charter) (NN carrier) (JJ American) (NNP Trans) (NNP Air) (NNP Inc.) ))
+        (, ,) 
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT a) (NN transaction) )
+            (VP (VBG involving) 
+              (NP (CD six) (NNP Boeing) (NNP Co.) (NNS 757-200s) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN value) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NNS jets) )
+          (, ,) 
+          (PP (VBG including) 
+            (NP (NNS spares) ))
+          (, ,) )))
+    (VP (VBZ is) 
+      (PP-PRD (IN in) 
+        (NP 
+          (NP (NN excess) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 250) (CD million) )
+              (-NONE- *U*) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (CD Two) )
+      (PP (IN of) 
+        (NP (DT the) (NNS 757-200s) )))
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (JJ new) (NNS aircraft) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ-78 (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (VP (VBN delivered) 
+                  (NP (-NONE- *-78) )
+                  (PP-DIR (TO to) 
+                    (NP 
+                      (NP (NNP American) (NNP Trans) (NNP Air) )
+                      (, ,) 
+                      (NP 
+                        (NP (DT the) (JJ main) (NN subsidiary) )
+                        (PP (IN of) 
+                          (NP (NNP Amtran) (NNP Inc.) )))
+                      (, ,) ))
+                  (PP-TMP (IN in) 
+                    (NP 
+                      (NP (NNP December) (CD 1991) )
+                      (CC and) 
+                      (NP (NNP January) (CD 1992) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-79 
+      (NP (CD Four) )
+      (PP (IN of) 
+        (NP (DT the) (NNS planes) )))
+    (VP (VBD were) 
+      (VP (VBN purchased) 
+        (NP (-NONE- *-79) )
+        (PP (IN by) 
+          (NP-LGS (NNP International) (NNP Lease) ))
+        (PP-CLR (IN from) 
+          (NP (NNP Singapore) (NNPS Airlines) ))
+        (PP-LOC (IN in) 
+          (NP (DT a) 
+            (ADJP (RB previously) (JJ announced) )
+            (NN transaction) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-3 
+        (NP (NN Delivery) )
+        (PP (IN of) 
+          (NP-2 (DT the) (JJ first) (NN aircraft) )))
+      (VP (VBZ is) 
+        (VP (VBN set) 
+          (NP (-NONE- *-3) )
+          (PP-CLR-1 (IN for) 
+            (NP (JJ early) (NNP November) )))))
+    (, ,) 
+    (S 
+      (NP=2 (DT a) (NN second) )
+      (PP-CLR=1 (IN for) 
+        (NP (NNP December) )))
+    (CC and) 
+    (S 
+      (NP=2 (CD two) )
+      (PP-CLR=1 (IN for) 
+        (NP (NNP April) (CD 1990) )))
+    (. .) ))

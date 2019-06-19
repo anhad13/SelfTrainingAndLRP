@@ -1,0 +1,43 @@
+
+( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP France) (POS 's) )
+        (NN unemployment) (NN rate) )
+      (VP (VBD was) 
+        (ADJP-PRD (JJ steady) )
+        (PP (IN at) 
+          (NP (DT a) 
+            (ADJP 
+              (ADVP (RB seasonally) )
+              (VBN adjusted) )
+            (CD 9.5) (NN %) ))
+        (PP-TMP (IN in) 
+          (NP (NNP September) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Social) (NNPS Affairs) (NNP Ministry) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP September) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN number) )
+      (PP (IN of) 
+        (NP (JJ jobless) )))
+    (VP (VBD rose) 
+      (NP-EXT (CD 0.1) (NN %) )
+      (PP-TMP (IN from) 
+        (NP (DT the) (JJ previous) (NN month) ))
+      (PP-DIR (TO to) 
+        (NP (CD 2.5) (CD million) ))
+      (PP (IN on) 
+        (NP (DT a) 
+          (ADJP 
+            (ADVP (RB seasonally) )
+            (VBN adjusted) )
+          (NN basis) )))
+    (. .) ))

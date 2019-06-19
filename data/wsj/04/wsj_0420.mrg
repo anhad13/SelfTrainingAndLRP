@@ -1,0 +1,60 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Sherwin-Williams) (NNP Co.) )
+      (CC and) 
+      (NP (NNP Whittaker) (NNP Corp.) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP 've) 
+            (VP (VBN discontinued) 
+              (NP 
+                (NP (NNS talks) )
+                (PP (IN toward) 
+                  (NP 
+                    (NP (DT a) (JJ definitive) (NN agreement) )
+                    (PP (VBG regarding) 
+                      (NP 
+                        (NP 
+                          (NP (NNP Sherwin-Williams) (POS ') )
+                          (NN acquisition) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NNP Whittaker) (POS 's) )
+                            (NN chemical) (NN coating) (NN group) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNS companies) )
+    (VP (VBD reached) 
+      (NP 
+        (NP (DT an) (NN agreement) )
+        (PP (IN in) 
+          (NP (NN principle) ))
+        (PP (IN for) 
+          (NP (DT the) (NN sale) )))
+      (PP-TMP (IN in) 
+        (NP (NNP August) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Cleveland-based) (NNP Sherwin-Williams) )
+    (VP (VBZ produces) 
+      (NP (NNS paints) 
+        (CC and)
+        (NNS coatings) )
+      (, ,) 
+      (SBAR-ADV (IN while) 
+        (S 
+          (NP-SBJ (DT the) 
+            (ADJP (NNP Los) (JJ Angeles-based) )
+            (NNP Whittaker) (NNS coatings) (NN group) )
+          (VP (VBZ produces) 
+            (NP (JJ industrial) (NNS coatings) )))))
+    (. .) ))

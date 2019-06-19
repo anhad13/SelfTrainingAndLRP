@@ -1,0 +1,166 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Furukawa) (NNP Electric) (NNP Co.) )
+      (, ,) 
+      (NP 
+        (NP (CD one) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Japan) (POS 's) )
+            (VBG leading) (JJ electric) (NN wire) 
+            (CC and)
+            (NN cable) (NNS manufacturers) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (JJ unconsolidated) (JJ pretax) (NN profit) )
+            (PP-TMP (IN in) 
+              (NP 
+                (NP (DT the) (JJ fiscal) (JJ first) (NN half) )
+                (VP (VBN ended) 
+                  (NP (-NONE- *) )
+                  (NP-TMP-CLR (NNP Sept.) (CD 30) )))))
+          (VP (VBD fell) 
+            (NP-EXT (CD 5.3) (NN %) )
+            (PP-DIR (TO to) 
+              (NP 
+                (NP 
+                  (QP (CD 6.11) (CD billion) )
+                  (NNS yen) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP 
+                    (QP ($ $) (CD 43.1) (CD million) )
+                    (-NONE- *U*) )
+                  (-RRB- -RRB-) )))
+            (PP-DIR (IN from) 
+              (NP 
+                (NP 
+                  (QP (CD 6.45) (CD billion) )
+                  (NNS yen) )
+                (NP-TMP 
+                  (NP (DT a) (NN year) )
+                  (ADVP (RB earlier) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Sales) )
+    (VP (VBN increased) 
+      (NP-EXT (CD 11.9) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 279.39) (CD billion) )
+          (NNS yen) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (CD 249.68) (CD billion) )
+          (NNS yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Net) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 1) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 3.23) (CD billion) )
+          (NNS yen) ))
+      (PP-DIR (IN from) 
+        (NP 
+          (QP (CD 3.26) (CD billion) )
+          (NNS yen) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Pershare) (NN net) )
+    (VP (VBD fell) 
+      (PP-DIR (TO to) 
+        (NP (CD 4.97) (NNS yen) ))
+      (PP-DIR (IN from) 
+        (NP (CD 5.40) (NNS yen) )))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (NP-SBJ-2 
+        (NP (DT The) (VBG growing) (NNS sales) )
+        (VP (VBN sustained) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (JJ domestic) (NN demand) ))))
+      (VP (VBD failed) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB counter) 
+              (NP 
+                (NP 
+                  (NP (VBG rising) (NN material) (NN metal) (NNS costs) )
+                  (CC and) 
+                  (NP (VBG declining) (NN profitability) ))
+                (PP-LOC (IN in) 
+                  (NP (JJ overseas) (NN construction) ))))))))
+    (, ,) 
+    (NP-SBJ (NNP Furukawa) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (VBN Rolled) (NN copper) (NN product) (NNS sales) )
+    (VP (VBD were) 
+      (NP-PRD 
+        (NP (JJ major) (NNS contributors) )
+        (PP (TO to) 
+          (NP (JJ overall) (NNS sales) (NN growth) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Sales) )
+      (PP (IN by) 
+        (NP (NN category) )))
+    (VP (VBD rose) 
+      (NP-EXT (CD 24) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 35.23) (CD billion) )
+          (NNS yen) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG reflecting) 
+          (NP 
+            (NP (VBN increased) (NN production) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NN automobile) 
+                  (, ,)
+                  (JJR airconditioner) 
+                  (CC and)
+                  (JJ electric) (NN machine) (NNS industries) )
+                (, ,) 
+                (SBAR 
+                  (WHNP-1 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBP are) 
+                      (NP-PRD 
+                        (NP (JJ major) (NNS users) )
+                        (PP (IN of) 
+                          (NP (NN wire) 
+                            (CC and)
+                            (NN cable) (NNS products) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNS Sales) )
+      (PP (IN for) 
+        (NP (JJ electric) (NNS wires) 
+          (CC and)
+          (NNS cables) )))
+    (VP (VBD rose) 
+      (NP-EXT (CD 13.2) (NN %) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 153.93) (CD billion) )
+          (NNS yen) )))
+    (. .) ))

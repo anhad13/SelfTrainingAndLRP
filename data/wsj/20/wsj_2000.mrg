@@ -1,0 +1,111 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Rockwell) (NNP International) (NNP Corp.) (POS 's) )
+      (NNP Tulsa) (NN unit) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD signed) 
+            (NP 
+              (NP (DT a) (JJ tentative) (NN agreement) )
+              (VP (VBG extending) 
+                (NP 
+                  (NP 
+                    (NP (PRP$ its) (NN contract) 
+                      (S (-NONE- *ICH*-1) ))
+                    (PP (IN with) 
+                      (NP (NNP Boeing) (NNP Co.) )))
+                  (S-1 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB provide) 
+                        (NP 
+                          (NP (JJ structural) (NNS parts) )
+                          (PP (IN for) 
+                            (NP 
+                              (NP (NNP Boeing) (POS 's) )
+                              (CD 747) (NNS jetliners) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Rockwell) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN agreement) )
+          (VP (VBZ calls) 
+            (SBAR-CLR (IN for) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (TO to) 
+                  (VP (VB supply) 
+                    (NP (CD 200) (JJ additional) (JJ so-called) (NNS shipsets) )
+                    (PP (IN for) 
+                      (NP (DT the) (NNS planes) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT These) )
+    (VP (VBP include) 
+      (, ,)
+      (PP-LOC (IN among) 
+        (NP (JJ other) (NNS parts) ))
+      (, ,) 
+      (NP 
+        (NP 
+          (NP (DT each) (NN jetliner) (POS 's) )
+          (CD two) (JJ major) (NNS bulkheads) )
+        (, ,) 
+        (NP (DT a) (NN pressure) (NN floor) )
+        (, ,) 
+        (NP (NN torque) (NN box) )
+        (, ,) 
+        (NP 
+          (NP (VBN fixed) (VBG leading) (NNS edges) )
+          (PP (IN for) 
+            (NP (DT the) (NNS wings) )))
+        (CC and) 
+        (NP (DT an) (JJ aft) (NN keel) (NN beam) )))
+    (. .) ))
+( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (VBG existing) (NN contract) ))
+    (PRN 
+      (, ,)
+      (NP-SBJ (NNP Rockwell) )
+      (VP (VBD said) )
+      (, ,) )
+    (NP-SBJ (PRP it) )
+    (VP (VBZ has) 
+      (ADVP-TMP (RB already) )
+      (VP (VBN delivered) 
+        (NP 
+          (NP (CD 793) )
+          (PP (IN of) 
+            (NP (DT the) (NNS shipsets) )))
+        (PP-CLR (TO to) 
+          (NP (NNP Boeing) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Rockwell) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP El) (NNP Segundo) )
+            (, ,) 
+            (NP (NNP Calif.) )
+            (, ,) ))))
+    (VP (VBZ is) 
+      (NP-PRD (DT an) 
+        (UCP (NN aerospace) 
+          (, ,)
+          (NNS electronics) 
+          (, ,)
+          (JJ automotive) 
+          (CC and)
+          (NNS graphics) )
+        (NN concern) ))
+    (. .) ))

@@ -1,0 +1,115 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NNP Home) (NNP Beneficial) (NNP Corp.) )
+      (, ,) 
+      (NP 
+        (NP (NNP Richmond) )
+        (, ,) 
+        (NP (NNP Va.) ))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (VBD contracted) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB sell) 
+                  (NP 
+                    (NP (PRP$ its) 
+                      (ADJP (CD 50) (NN %) )
+                      (NN interest) )
+                    (PP-LOC (IN in) 
+                      (NP (DT a) (JJ Richmond-area) (NN shopping) (NN mall) )))
+                  (PP-DTV (TO to) 
+                    (NP 
+                      (NP (DT a) (NN buyer) )
+                      (SBAR 
+                        (WHNP-1 (DT that) )
+                        (S 
+                          (NP-SBJ-3 (-NONE- *T*-1) )
+                          (VP (VBD was) (RB n't) 
+                            (VP (VBN identified) 
+                              (NP (-NONE- *-3) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN life-insurance) (NN holding) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN sale) )
+          (VP (MD would) 
+            (VP (VB result) 
+              (PP-CLR (IN in) 
+                (NP 
+                  (NP (DT an) (JJ after-tax) (NN gain) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (QP (IN about) ($ $) (CD 32) (CD million) )
+                        (-NONE- *U*) )
+                      (, ,) (CC or) 
+                      (NP 
+                        (NP ($ $) (CD 3.09) (-NONE- *U*) )
+                        (NP-ADV (DT a) (NN share) ))))))
+              (, ,) 
+              (PP-TMP (IN in) 
+                (NP 
+                  (NP (DT the) (JJ first) (NN quarter) )
+                  (PP (IN of) ))))))))))
+( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB adopt) 
+              (NP (JJ new) (NN accounting) (NNS standards) )
+              (PP-TMP (IN in) 
+                (NP (DT the) (JJ first) (NN quarter) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN change) )
+    (VP (MD will) 
+      (VP (VB result) 
+        (PP-CLR (IN in) 
+          (NP 
+            (NP (DT a) (NN charge) )
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (QP (IN about) ($ $) (CD 8.5) (CD million) )
+                  (-NONE- *U*) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP (CD 82) (NNS cents) )
+                  (NP-ADV (DT a) (NN share) ))
+                (, ,) ))))
+        (PP-PRP (IN because) (IN of) 
+          (NP 
+            (NP (DT an) (NN increase) )
+            (PP-LOC (IN in) 
+              (NP (JJ deferred) (NN income-tax) (NN liability) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP 
+        (NP (DT the) (JJ first) (NN quarter) )
+        (PP (IN of) 
+          (NP (CD 1988) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBN earned) 
+      (NP 
+        (NP 
+          (QP ($ $) (CD 10) (CD million) )
+          (-NONE- *U*) )
+        (, ,) (CC or) 
+        (NP 
+          (NP (CD 94) (NNS cents) )
+          (NP-ADV (DT a) (NN share) ))))
+    (. .) ))

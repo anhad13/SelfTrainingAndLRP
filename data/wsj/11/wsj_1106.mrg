@@ -1,0 +1,131 @@
+
+( (S 
+    (NP-SBJ 
+      (NP (NN Oil) (NNS imports) )
+      (PP (TO to) 
+        (NP (NNP Japan) )))
+    (VP (VBD rose) 
+      (NP-EXT (CD 12) (NN %) )
+      (PP-TMP (IN in) 
+        (NP (NNP September) ))
+      (PP-DIR (IN from) 
+        (NP (JJ year-earlier) (NNS levels) ))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP 
+            (NP (NNS statistics) )
+            (VP (VBN released) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP 
+                    (NP (DT the) (NN government) (POS 's) )
+                    (NNP Ministry) )
+                  (PP (IN of) 
+                    (NP (NNP International) (NNP Trade) 
+                      (CC and)
+                      (NNP Industry) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS imports) )
+      (, ,) 
+      (VP (VBG totaling) 
+        (NP 
+          (QP (CD 98.5) (CD million) )
+          (NNS barrels) ))
+      (, ,) )
+    (VP (VBD were) 
+      (ADJP-PRD 
+        (ADJP 
+          (NP (CD 11) (NN %) )
+          (JJR lower) )
+        (PP (IN than) 
+          (NP (NNP August) (NNS levels) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ year-on-year) (NN rise) )
+    (VP (VBD was) 
+      (PP-PRP-PRD 
+        (PP 
+          (ADVP (RB partly) )
+          (IN because) (IN of) 
+          (NP 
+            (NP (JJR higher) (NN demand) )
+            (PP (IN for) 
+              (NP (NN petroleum) (NNS products) ))))
+        (, ,) 
+        (CC and)
+        (PP 
+          (ADVP (RB partly) )
+          (IN because) (IN of) 
+          (NP 
+            (NP (NN tax) (NNS changes) )
+            (PP-TMP (IN in) 
+              (NP (CD 1988) ))
+            (SBAR 
+              (WHNP-1 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBD left) 
+                  (NP (NN oil) (NNS companies) )
+                  (PP-CLR (IN with) 
+                    (NP 
+                      (NP (JJ high) (NNS inventories) )
+                      (PP-TMP (IN in) 
+                        (NP (DT the) (JJ late-summer\/early-FALL) (NN PERIOD) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNS Imports) )
+        (PP (IN of) 
+          (NP (NN crude) ))
+        (PP (IN from) 
+          (NP (DT the) (NNP Middle) (NNP East) )))
+      (VP (VBD grew) 
+        (NP-EXT (CD 17) (NN %) )
+        (PP-DIR (IN from) 
+          (NP (JJ year-earlier) (NNS levels) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (ADJP (JJ Southeast) (JJ Asian) )
+        (NN crude) (NNS imports) )
+      (VP (VBD grew) 
+        (NP-EXT (CD 43) (NN %) )))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (JJ Mideast) (NN crude) (NNS imports) )
+        (VP (VBD were) 
+          (ADJP-PRD (JJR higher) )
+          (PP (VBN compared) 
+            (PP (IN with) 
+              (NP (JJ year-earlier) (NNS levels) ))))))
+    (, ,) 
+    (NP-SBJ (PRP they) )
+    (VP (VBD fell) 
+      (NP-EXT (CD 18) (NN %) )
+      (PP (VBN compared) 
+        (PP (IN with) 
+          (NP (NNP August) (NNS imports) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (ADJP (JJ Southeast) (JJ Asian) )
+      (NN crude) (NNS imports) )
+    (, ,) 
+    (ADVP (RB however) )
+    (, ,) 
+    (VP (VBD were) 
+      (ADJP-PRD 
+        (ADJP 
+          (NP (CD 3.6) (NN %) )
+          (JJR higher) )
+        (PP (IN than) 
+          (NP (NNP August) ))))
+    (. .) ))
