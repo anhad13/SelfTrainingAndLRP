@@ -37,7 +37,7 @@ class Parser(nn.Module):
         lstm1_out = lstm1_out.transpose(0,1).transpose(1,2)
         
         # conv_out: bsz, hidden, seq_len-1
-        conv_out = self.conv1(lstm1_out)
+        conv_out = F.relu(self.conv1(lstm1_out))
         conv_out = conv_out.transpose(1,2).transpose(0,1)
         
         lstm2_out, _ = self.lstm2(conv_out)
@@ -47,4 +47,4 @@ class Parser(nn.Module):
         ff2_out = self.ff2(self.tanh(ff1_out))
         
         # ff2_out: batch_size, seq_len-1, 2
-        return ff2_out
+        return ff2_out.squeeze(2)

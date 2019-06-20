@@ -1,6 +1,7 @@
 import sys, os
 import re
 
+import numpy
 import torch
 import nltk
 from nltk.corpus import ptb
@@ -56,6 +57,28 @@ def tree2list(tree):
     return []
 
 
+def build_tree(depth, sen):
+    assert len(depth) == len(sen)
+    
+    if len(depth) == 1:
+        parse_tree = sen[0]
+    else:
+        idx_max = numpy.argmax(depth)
+        parse_tree = []
+        if len(sen[:idx_max]) > 0:
+            tree0 = build_tree(depth[:idx_max], sen[:idx_max])
+            parse_tree.append(tree0)
+        tree1 = sen[idx_max]
+        if len(sen[idx_max + 1:]) > 0:
+            tree2 = build_tree(depth[idx_max + 1:], sen[idx_max + 1:])
+            tree1 = [tree1, tree2]
+        if parse_tree == []:
+            parse_tree = tree1
+        else:
+            parse_tree.append(tree1)
+    return parse_tree
+
+
 def filter_words(tree):
     words = []
     for w, tag in tree.pos():
@@ -78,7 +101,7 @@ def load_trees(ids, vocab=None, grow_vocab=True):
     '''
     if not vocab:
         vocab = {'<pad>': 0, '<unk>': 1}
-    all_sents, all_trees, all_dists, all_brackets = [], [], [], []
+    all_sents, all_trees, all_dists, all_brackets, all_words = [], [], [], [], []
     for id in ids:
         #sentences = ptb.parsed_sents(id)
         ptb = BracketParseCorpusReader('', id)
@@ -96,14 +119,15 @@ def load_trees(ids, vocab=None, grow_vocab=True):
             # Binarize tree.
             nltk.treetransforms.chomsky_normal_form(sent)
             treelist = tree2list(sent)
-            brackets = get_brackets(sent)[0]
-            
+            brackets = get_brackets(treelist)[0]
+
             all_sents.append(torch.LongTensor(idx))
             all_trees.append(treelist)
             all_dists.append(torch.FloatTensor(list2distance(treelist)[0]))
             all_brackets.append(brackets)
+            all_words.append(words)
 
-    return all_sents, all_dists, all_trees, all_brackets, vocab
+    return all_sents, all_dists, all_trees, all_brackets, all_words, vocab
 
 
 def main(path):
