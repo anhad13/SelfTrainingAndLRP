@@ -47,7 +47,7 @@ def eval_fct(model, dataset):
         print(y)
         print(preds)
         print()
-        pred_tree = build_tree([-1] + list(preds.data[0]), sent)
+        pred_tree = build_tree(list(preds.data[0]), sent)
         pred_brackets = get_brackets(pred_tree)[0]
 
         overlap = pred_brackets.intersection(gold_brackets)

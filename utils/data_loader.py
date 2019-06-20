@@ -58,24 +58,15 @@ def tree2list(tree):
 
 
 def build_tree(depth, sen):
-    assert len(depth) == len(sen)
-    
-    if len(depth) == 1:
-        parse_tree = sen[0]
-    else:
-        idx_max = numpy.argmax(depth)
-        parse_tree = []
-        if len(sen[:idx_max]) > 0:
-            tree0 = build_tree(depth[:idx_max], sen[:idx_max])
-            parse_tree.append(tree0)
-        tree1 = sen[idx_max]
-        if len(sen[idx_max + 1:]) > 0:
-            tree2 = build_tree(depth[idx_max + 1:], sen[idx_max + 1:])
-            tree1 = [tree1, tree2]
-        if parse_tree == []:
-            parse_tree = tree1
-        else:
-            parse_tree.append(tree1)
+    assert len(depth) == len(sen) - 1
+    if len(sen)==1 or len(sen) == 2:
+        return sen
+    parse_tree=[]
+    idx_max = numpy.argmax(depth)
+    if len(sen[:idx_max+1]) >= 1:
+        parse_tree.append(build_tree(depth[:idx_max],sen[:idx_max+1]))
+    if len(sen[idx_max+1:]) >= 1:
+        parse_tree.append(build_tree(depth[idx_max+1:],sen[idx_max+1:]))
     return parse_tree
 
 
