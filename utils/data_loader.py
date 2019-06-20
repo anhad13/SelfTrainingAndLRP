@@ -77,7 +77,7 @@ def load_trees(ids, vocab=None, grow_vocab=True):
        4) the brackets as tuples
     '''
     if not vocab:
-        vocab = {'<unk>': 0}
+        vocab = {'<pad>': 0, '<unk>': 1}
     all_sents, all_trees, all_dists, all_brackets = [], [], [], []
     for id in ids:
         #sentences = ptb.parsed_sents(id)
@@ -123,10 +123,10 @@ def main(path):
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
 
-    train_data = load_trees(train_file_ids)
-    valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab=False)
-    test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False)
-    rest_data = load_trees(rest_file_ids, vocab=train_data[-1], grow_vocab=False)
+    train_data = load_trees(train_file_ids[:1])
+    valid_data = load_trees(valid_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
+    test_data = load_trees(test_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
+    rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) + len(rest_data[0])
     print('Number of sentences loaded: ' + str(number_sentences))
 
