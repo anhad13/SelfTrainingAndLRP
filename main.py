@@ -12,16 +12,17 @@ from utils.data_loader import build_tree, get_brackets
 def ranking_loss(pred, gold, mask):
     loss = 0.
     for i in range(0, pred.shape[1]):
-        masked = ((gold[:, i] - pred[:, i]) ** 2) * mask[:, i].float()
-        loss = loss + masked.sum()
-#        for j in range(i+1, pred.shape[1]):  # assuming target_dist has same length at pred_dist
-#            t_dist = gold[:,i] - gold[:,j]
-#            p_dist = pred[:,i] - pred[:,j]
-#            possible_loss = (t_dist - p_dist) ** 2
-##            signed = torch.sign(t_dist) * p_dist
-##            possible_loss = 1.0 * (0. - signed)
-##            possible_loss = torch.clamp(possible_loss, 0.0, 1000.0)
-#            loss += torch.mean(possible_loss)
+    #masked = ((gold[:, i] - pred[:, i]) ** 2) * mask[:, i].float()
+    #loss = loss + masked.sum()
+        for j in range(i+1, pred.shape[1]):  # assuming target_dist has same length at pred_dist
+            t_dist = gold[:,i] - gold[:,j]
+            p_dist = pred[:,i] - pred[:,j]
+            possible_loss = (t_dist - p_dist) ** 2
+            signed = torch.sign(t_dist) * p_dist
+            possible_loss = 1.0 * (1. - signed)
+            possible_loss = torch.clamp(possible_loss, 0.0, 1000.0)
+            possible_loss = possible_loss * mask[:,j].float()
+            loss += torch.mean(possible_loss)
     return loss
 
 
