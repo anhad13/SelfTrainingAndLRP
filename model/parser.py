@@ -2,6 +2,7 @@ import numpy
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 from torch.autograd import Variable
 
 
@@ -26,21 +27,26 @@ class Parser(nn.Module):
         self.tanh = nn.Tanh()
 
     
-    def forward(self, input):
+    def forward(self, input, mask):
         # TODO: include dropout
         
         # emb: seq_len, emb_size
         emb = self.embed(input)
+        packed_sequence = pack_padded_sequence(emb, mask.data.sum(dim=1), batch_first=True, enforce_sorted=False)
         
         # lstm1_out: seq_len, batch, num_directions * hidden_size
-        lstm1_out, _ = self.lstm1(emb.unsqueeze(1))
-        lstm1_out = lstm1_out.transpose(0,1).transpose(1,2)
+        lstm1_out, _ = self.lstm1(packed_sequence)
+        lstm1_out, _ = pad_packed_sequence(lstm1_out, batch_first=True)
+        lstm1_out = lstm1_out.transpose(1,2)  #.transpose(0,1)
         
         # conv_out: bsz, hidden, seq_len-1
         conv_out = F.relu(self.conv1(lstm1_out))
-        conv_out = conv_out.transpose(1,2).transpose(0,1)
+        conv_out = conv_out.transpose(1,2)  #.transpose(0,1)
+        short_mask = mask.sum(dim=1) - torch.ones_like(mask.sum(dim=1))
         
-        lstm2_out, _ = self.lstm2(conv_out)
+        packed_sequence = pack_padded_sequence(conv_out, short_mask, batch_first=True, enforce_sorted=False)
+        lstm2_out, _ = self.lstm2(packed_sequence)
+        lstm2_out, _ = pad_packed_sequence(lstm2_out, batch_first=True)
         lstm2_out = lstm2_out.transpose(0,1)
         
         ff1_out = self.ff1(lstm2_out)
