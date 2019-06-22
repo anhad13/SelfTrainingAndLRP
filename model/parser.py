@@ -7,7 +7,31 @@ from torch.autograd import Variable
 
 
 class Parser(nn.Module):
-    def __init__(self, nemb, nhid, nvoc, dropout=0.0):
+
+
+    def embedded_dropout(self, embed, words, dropout=0.1, scale=None):
+        if dropout:
+            mask = embed.weight.data.new().resize_((embed.weight.size(0), 1)).bernoulli_(1 - dropout).expand_as(embed.weight) / (1 - dropout)
+            masked_embed_weight = mask * embed.weight
+        else:
+            masked_embed_weight = embed.weight
+        if scale:
+            masked_embed_weight = scale.expand_as(masked_embed_weight) * masked_embed_weight
+        padding_idx = embed.padding_idx
+        if padding_idx is None:
+            padding_idx = -1
+        X = torch.nn.functional.embedding(
+            words,
+            masked_embed_weight,
+            padding_idx,
+            embed.max_norm,
+            embed.norm_type,
+            embed.scale_grad_by_freq,
+            embed.sparse,
+        )
+        return X
+
+    def __init__(self, nemb, nhid, nvoc, dropout=0.3):
         super(Parser, self).__init__()
         
         self.nvoc = nvoc
@@ -31,17 +55,18 @@ class Parser(nn.Module):
         # TODO: include dropout
         
         # emb: seq_len, emb_size
-        emb = self.embed(input)
+        emb = self.embedded_dropout(self.embed, input)
         packed_sequence = pack_padded_sequence(emb, mask.data.sum(dim=1), batch_first=True, enforce_sorted=False)
         
         # lstm1_out: seq_len, batch, num_directions * hidden_size
         lstm1_out, _ = self.lstm1(packed_sequence)
         lstm1_out, _ = pad_packed_sequence(lstm1_out, batch_first=True)
         lstm1_out = lstm1_out.transpose(1,2)  #.transpose(0,1)
-        
+        lstm1_out = self.dropout1(lstm1_out)
         # conv_out: bsz, hidden, seq_len-1
         conv_out = F.relu(self.conv1(lstm1_out))
         conv_out = conv_out.transpose(1,2)  #.transpose(0,1)
+        conv_out = self.dropout1(conv_out)
         short_mask = mask.sum(dim=1) - torch.ones_like(mask.sum(dim=1))
         
         packed_sequence = pack_padded_sequence(conv_out, short_mask, batch_first=True, enforce_sorted=False)
