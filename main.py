@@ -59,7 +59,7 @@ def eval_fct(model, dataset):
     return numpy.mean(f1_list)
 
 
-def batchify(dataset, batch_size=10, padding_idx=0):
+def batchify(dataset, batch_size=2, padding_idx=0):
     batches = []
     i = 0
     while i + batch_size < len(dataset[0]):
