@@ -9,27 +9,13 @@ from torch.autograd import Variable
 class Parser(nn.Module):
 
 
-    def embedded_dropout(self, embed, words, dropout=0.1, scale=None):
+    def embedded_dropout(self, embed, words, dropout=0.2, scale=None):
         if dropout:
-            mask = embed.weight.data.new().resize_((embed.weight.size(0), 1)).bernoulli_(1 - dropout).expand_as(embed.weight) / (1 - dropout)
+            mask = embed.weight.data.new().resize_((embed.weight.size(0), 1)).bernoulli_(1 - dropout).expand_as(embed.weight) 
             masked_embed_weight = mask * embed.weight
         else:
             masked_embed_weight = embed.weight
-        if scale:
-            masked_embed_weight = scale.expand_as(masked_embed_weight) * masked_embed_weight
-        padding_idx = embed.padding_idx
-        if padding_idx is None:
-            padding_idx = -1
-        X = torch.nn.functional.embedding(
-            words,
-            masked_embed_weight,
-            padding_idx,
-            embed.max_norm,
-            embed.norm_type,
-            embed.scale_grad_by_freq,
-            embed.sparse,
-        )
-        return X
+        return torch.nn.functional.embedding(words, masked_embed_weight)
 
     def __init__(self, nemb, nhid, nvoc, dropout=0.3):
         super(Parser, self).__init__()
@@ -37,8 +23,6 @@ class Parser(nn.Module):
         self.nvoc = nvoc
         self.nemb = nemb
         self.nhid = nhid
-        self.drop = nn.Dropout(dropout)
-        
         self.embed = nn.Embedding(self.nvoc, self.nemb, padding_idx=0)
         
         self.lstm1 = nn.LSTM(self.nemb, self.nhid, num_layers=1, bidirectional=True)
@@ -73,7 +57,7 @@ class Parser(nn.Module):
         lstm2_out, _ = self.lstm2(packed_sequence)
         lstm2_out, _ = pad_packed_sequence(lstm2_out, batch_first=True)
         lstm2_out = lstm2_out.transpose(0,1)
-        
+        lstm2_out = self.dropout1(lstm2_out)
         ff1_out = self.ff1(lstm2_out)
         ff2_out = self.ff2(self.tanh(ff1_out))
         
