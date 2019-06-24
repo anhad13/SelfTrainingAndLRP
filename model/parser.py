@@ -27,11 +27,14 @@ class Parser(nn.Module):
         self.tanh = nn.Tanh()
 
     
-    def forward(self, input, mask):
+    def forward(self, input, mask, cuda):
         # emb: seq_len, emb_size
         emb = self.embed(input)
         if self.training:
-            emb_drop_mask = (torch.FloatTensor(input.shape).uniform_() > self.dropout_emb).float()  # TODO: make parameter!
+            if cuda:
+                emb_drop_mask = (torch.FloatTensor(input.shape).uniform_() > self.dropout_emb).float()  # TODO: make parameter!
+            else:
+                emb_drop_mask = (torch.FloatTensor(input.shape).cuda().uniform_() > self.dropout_emb).float()
             emb = torch.mul(emb, emb_drop_mask.unsqueeze(2))
 
         packed_sequence = pack_padded_sequence(emb, mask.data.sum(dim=1), batch_first=True, enforce_sorted=False)

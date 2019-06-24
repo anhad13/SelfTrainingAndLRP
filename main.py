@@ -59,7 +59,7 @@ def eval_fct(model, dataset):
     return numpy.mean(f1_list)
 
 
-def batchify(dataset, batch_size=2, padding_idx=0):
+def batchify(dataset, cuda = False, batch_size=2, padding_idx=0):
     batches = []
     i = 0
     while i + batch_size < len(dataset[0]):
@@ -86,19 +86,22 @@ def batchify(dataset, batch_size=2, padding_idx=0):
             current_y.append(ex_y.unsqueeze(0))
             current_mask_x.append(mask_x.unsqueeze(0))
             current_mask_y.append(mask_y.unsqueeze(0))
-
-        batches.append((torch.cat(current_x), torch.cat(current_y),
-                        torch.cat(current_mask_x), torch.cat(current_mask_y)))
+        if cuda:
+            batches.append((torch.cat(current_x).cuda(), torch.cat(current_y).cuda(),
+                            torch.cat(current_mask_x).cuda(), torch.cat(current_mask_y).cuda()))
+        else:
+            batches.append((torch.cat(current_x), torch.cat(current_y),
+                            torch.cat(current_mask_x), torch.cat(current_mask_y)))
         i += batch_size
 
     return batches
 
 
-def train_fct(train_data, valid_data, vocab, nemb=100, nhid=300, epochs=300):
+def train_fct(train_data, valid_data, vocab, cuda=False,  nemb=100, nhid=300, epochs=300):
     model = Parser(nemb, nhid, len(vocab))
     optimizer = optim.Adam(model.parameters())
     batchify(train_data)
-    train = batchify(train_data)
+    train = batchify(train_data, cuda = cuda)
     print(len(train))
     
     for epoch in range(epochs):
@@ -107,7 +110,7 @@ def train_fct(train_data, valid_data, vocab, nemb=100, nhid=300, epochs=300):
         shuffle(train)
         for (x, y, mask_x, mask_y) in train:
             optimizer.zero_grad()
-            preds = model(x, mask_x)
+            preds = model(x, mask_x, cuda)
             loss = ranking_loss(preds.transpose(0, 1), y, mask_y)
             av_loss += loss
             loss.backward()
@@ -121,11 +124,20 @@ def train_fct(train_data, valid_data, vocab, nemb=100, nhid=300, epochs=300):
         print('F1: ' + str(f1))
     return None
 
-
+is_cuda = False
+gpu_device = 0
 if __name__ == '__main__':
     '''
        For now, the first argument is the path to the data.
        # TODO: use a reasonable argument parser!
     '''
+
+    if torch.cuda.is_available():
+        print("You are not using CUDA.")
+    else:
+        is_cuda = True
+        torch.cuda.set_device(gpu_device)
+        print("You are using CUDA.")
+
     train_data, valid_data, test_data = data_loader.main(sys.argv[1])
-    train_fct(train_data, valid_data, valid_data[-1])
+    train_fct(train_data, valid_data, valid_data[-1], is_cuda)
