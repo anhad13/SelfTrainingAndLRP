@@ -9,8 +9,8 @@ from torch.autograd import Variable
 class Parser(nn.Module):
 
 
-    def embedded_dropout(self, embed, words, dropout=0.2, scale=None):
-        if dropout:
+    def embedded_dropout(self, embed, words, is_eval = False, dropout=0.2, scale=None):
+        if dropout and not is_eval:
             mask = embed.weight.data.new().resize_((embed.weight.size(0), 1)).bernoulli_(1 - dropout).expand_as(embed.weight) 
             masked_embed_weight = mask * embed.weight
         else:
@@ -38,8 +38,8 @@ class Parser(nn.Module):
     def forward(self, input, mask):
         # TODO: include dropout
         
-        # emb: seq_len, emb_size
-        emb = self.embedded_dropout(self.embed, input)
+        # emb: seq_len, emb_size\
+        emb = self.embedded_dropout(self.embed, input, is_eval = not self.training)
         packed_sequence = pack_padded_sequence(emb, mask.data.sum(dim=1), batch_first=True, enforce_sorted=False)
         
         # lstm1_out: seq_len, batch, num_directions * hidden_size
