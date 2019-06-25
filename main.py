@@ -1,4 +1,5 @@
 import sys
+import argparse
 from random import shuffle
 import numpy
 import torch
@@ -120,7 +121,7 @@ def LM_criterion(input, targets, targets_mask, ntokens):
     return loss
 
 
-def train_fct(train_data, valid_data, vocab, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=2, use_prpn=True):
+def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=2):
     if use_prpn:
         print('Using PRPN.')
         model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.2, False, False, 0)
@@ -150,13 +151,14 @@ def train_fct(train_data, valid_data, vocab, cuda=False,  nemb=100, nhid=300, ep
                 loss = ranking_loss(preds.transpose(0, 1), y, mask_y)
             av_loss += loss
             loss.backward()
+            torch.nn.utils.clip_grad_norm(model.parameters(), 1.)
             optimizer.step()
             if count % 100 == 0:
                 print("Epoch: "+str(epoch)+" -- batch: "+str(count))
             count+=1
         av_loss /= len(train)
         print("Training time for epoch in sec: ", (time.time()-epoch_start_time))
-        f1 = eval_fct(model, train_data, use_prpn, cuda)
+        f1 = eval_fct(model, valid_data, use_prpn, cuda)
         
         print('End of epoch ' + str(epoch))
         print('Loss: ' + str(av_loss.data))
@@ -165,10 +167,12 @@ def train_fct(train_data, valid_data, vocab, cuda=False,  nemb=100, nhid=300, ep
 
 
 if __name__ == '__main__':
-    '''
-       For now, the first argument is the path to the data.
-       # TODO: use a reasonable argument parser!
-    '''
+    parser = argparse.ArgumentParser(description='Parsing and grammar induction')
+    parser.add_argument('--data', type=str, default='data/', help='location of the data corpus')
+    parser.add_argument('--unsupervised', action='store_true',
+                        help='for unsupervised, use PRPN; otherwise, use the parser')
+    args = parser.parse_args()
+    
     is_cuda = False
     gpu_device = 0
     if not torch.cuda.is_available():
@@ -178,5 +182,5 @@ if __name__ == '__main__':
         torch.cuda.set_device(gpu_device)
         print("You are using CUDA.")
 
-    train_data, valid_data, test_data = data_loader.main(sys.argv[1])
-    train_fct(train_data, valid_data, valid_data[-1], is_cuda)
+    train_data, valid_data, test_data = data_loader.main(args.data)
+    train_fct(train_data, valid_data, valid_data[-1], args.unsupervised, is_cuda)
