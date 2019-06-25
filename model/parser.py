@@ -31,7 +31,7 @@ class Parser(nn.Module):
         # emb: seq_len, emb_size
         emb = self.embed(input)
         if self.training:
-            if cuda:
+            if not cuda:
                 emb_drop_mask = (torch.FloatTensor(input.shape).uniform_() > self.dropout_emb).float()  # TODO: make parameter!
             else:
                 emb_drop_mask = (torch.FloatTensor(input.shape).cuda().uniform_() > self.dropout_emb).float()

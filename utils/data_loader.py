@@ -106,7 +106,9 @@ def load_trees(ids, vocab=None, grow_vocab=True):
                     else:
                         word = '<unk>'
                 idx.append(vocab[word])
-            
+            if len(words)<=1:
+                continue
+                print("skipping")
             # Binarize tree.
             nltk.treetransforms.chomsky_normal_form(sent)
             treelist = tree2list(sent)
@@ -138,9 +140,9 @@ def main(path):
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
 
-    train_data = load_trees(train_file_ids[:1])
-    valid_data = load_trees(valid_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
-    test_data = load_trees(test_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
+    train_data = load_trees(train_file_ids)
+    valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab=False)
+    test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False)
     rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) + len(rest_data[0])
     print('Number of sentences loaded: ' + str(number_sentences))

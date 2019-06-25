@@ -3,7 +3,7 @@ from random import shuffle
 import numpy
 import torch
 import torch.optim as optim
-
+import time
 from utils import data_loader
 from model.parser import Parser
 from utils.data_loader import build_tree, get_brackets
@@ -26,7 +26,7 @@ def ranking_loss(pred, gold, mask):
     return loss
 
 
-def eval_fct(model, dataset):
+def eval_fct(model, dataset, cuda = False):
     model.eval()
     prec_list = []
     reca_list = []
@@ -35,10 +35,13 @@ def eval_fct(model, dataset):
         #for i in range(1):
         x = dataset[0][i]
         y = dataset[1][i]
+        if cuda:
+            x = x.cuda()
+            y = y.cuda()
         gold_brackets = dataset[3][i]
         sent = dataset[4][i]
 
-        preds = model(x.unsqueeze(0), torch.ones_like(x.unsqueeze(0))).transpose(0, 1)
+        preds = model(x.unsqueeze(0), torch.ones_like(x.unsqueeze(0)), cuda).transpose(0, 1)
         pred_tree = build_tree(list(preds.data[0]), sent)
         pred_brackets = get_brackets(pred_tree)[0]
 
@@ -103,9 +106,12 @@ def train_fct(train_data, valid_data, vocab, cuda=False,  nemb=100, nhid=300, ep
     batchify(train_data)
     train = batchify(train_data, cuda = cuda)
     print(len(train))
-    
+    if cuda:
+        model.cuda()    
     for epoch in range(epochs):
         model.train()
+        count = 0
+        epoch_start_time = time.time()
         av_loss = 0.
         shuffle(train)
         for (x, y, mask_x, mask_y) in train:
@@ -115,9 +121,12 @@ def train_fct(train_data, valid_data, vocab, cuda=False,  nemb=100, nhid=300, ep
             av_loss += loss
             loss.backward()
             optimizer.step()
+            if count % 100 == 0:
+                print("Epoch: "+str(epoch)+" batch "+str(count))
+            count+=1
         av_loss /= len(train)
-        
-        f1 = eval_fct(model, train_data)
+        print("Training time for epoch in sec: ", (time.time()-epoch_start_time))
+        f1 = eval_fct(model, valid_data, cuda)
         
         print('Epoch: ' + str(epoch))
         print('Loss: ' + str(av_loss.data))
@@ -132,7 +141,7 @@ if __name__ == '__main__':
        # TODO: use a reasonable argument parser!
     '''
 
-    if torch.cuda.is_available():
+    if not torch.cuda.is_available():
         print("You are not using CUDA.")
     else:
         is_cuda = True
