@@ -29,6 +29,28 @@ def ranking_loss(pred, gold, mask):
     return loss
 
 
+def build_tree_prpn(depth, sen):
+    assert len(depth) == len(sen)
+    
+    if len(depth) == 1:
+        parse_tree = sen[0]
+    else:
+        idx_max = numpy.argmax(depth)
+        parse_tree = []
+        if len(sen[:idx_max]) > 0:
+            tree0 = build_tree_prpn(depth[:idx_max], sen[:idx_max])
+            parse_tree.append(tree0)
+        tree1 = sen[idx_max]
+        if len(sen[idx_max + 1:]) > 0:
+            tree2 = build_tree_prpn(depth[idx_max + 1:], sen[idx_max + 1:])
+            tree1 = [tree1, tree2]
+        if parse_tree == []:
+            parse_tree = tree1
+        else:
+            parse_tree.append(tree1)
+    return parse_tree
+
+
 def eval_fct(model, dataset, use_prpn, cuda=False):
     model.eval()
     prec_list = []
@@ -49,8 +71,8 @@ def eval_fct(model, dataset, use_prpn, cuda=False):
             hidden = model.init_hidden(1)
             _, hidden = model(x, hidden)
             gates = model.gates.squeeze(0).unsqueeze(1)
-            preds = gates[1:-2].unsqueeze(1)
-            pred_tree = build_tree(list(preds.data), sent[1:-1])
+            preds = gates[1:-1]
+            pred_tree = build_tree_prpn(list(preds.data), sent[1:-1])
         else:
             preds = model(x.unsqueeze(0), torch.ones_like(x.unsqueeze(0)), cuda).transpose(0, 1)
             pred_tree = build_tree(list(preds.data[0]), sent[1:-1])
