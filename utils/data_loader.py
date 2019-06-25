@@ -131,7 +131,7 @@ def main(path):
     for (path, _, fnames) in os.walk(path):
         for fname in fnames:
             id = path + '/' + fname
-            if 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/21/wsj_2172.mrg':
+            if 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/21/wsj_2199.mrg':
                 train_file_ids.append(id)
             elif 'data/wsj/22/wsj_2200.mrg' <= id <= 'data/wsj/22/wsj_2299.mrg':
                 valid_file_ids.append(id)
