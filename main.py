@@ -143,7 +143,7 @@ def LM_criterion(input, targets, targets_mask, ntokens):
     return loss
 
 
-def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=2):
+def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=32):
     if use_prpn:
         print('Using PRPN.')
         model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.0, False, False, 0)
@@ -152,7 +152,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         model = Parser(nemb, nhid, len(vocab))
     optimizer = optim.Adam(model.parameters())
     train = batchify(train_data, batch_size, cuda = cuda)
-    print('Number of training sentences: ' + str(len(train)))
+    print('Number of training batches: ' + str(len(train)))
     if cuda:
         model.cuda()    
     for epoch in range(epochs):
