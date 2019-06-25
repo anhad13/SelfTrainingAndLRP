@@ -3,9 +3,11 @@ from random import shuffle
 import numpy
 import torch
 import torch.optim as optim
-
+import torch.nn.functional as F
+import time
 from utils import data_loader
 from model.parser import Parser
+from model.prpn import PRPN
 from utils.data_loader import build_tree, get_brackets
 
 
@@ -26,7 +28,7 @@ def ranking_loss(pred, gold, mask):
     return loss
 
 
-def eval_fct(model, dataset):
+def eval_fct(model, dataset, use_prpn, cuda=False):
     model.eval()
     prec_list = []
     reca_list = []
@@ -35,11 +37,22 @@ def eval_fct(model, dataset):
         #for i in range(1):
         x = dataset[0][i]
         y = dataset[1][i]
+        if cuda:
+            x = x.cuda()
+            y = y.cuda()
         gold_brackets = dataset[3][i]
         sent = dataset[4][i]
 
-        preds = model(x.unsqueeze(0), torch.ones_like(x.unsqueeze(0))).transpose(0, 1)
-        pred_tree = build_tree(list(preds.data[0]), sent)
+        if use_prpn:
+            x = x.unsqueeze(1)
+            hidden = model.init_hidden(1)
+            _, hidden = model(x, hidden)
+            gates = model.gates.squeeze(0).unsqueeze(1)
+            preds = gates[1:].unsqueeze(1)
+            pred_tree = build_tree(list(preds.data), sent)
+        else:
+            preds = model(x.unsqueeze(0), torch.ones_like(x.unsqueeze(0)), cuda).transpose(0, 1)
+            pred_tree = build_tree(list(preds.data[0]), sent)
         pred_brackets = get_brackets(pred_tree)[0]
 
         overlap = pred_brackets.intersection(gold_brackets)
@@ -59,7 +72,7 @@ def eval_fct(model, dataset):
     return numpy.mean(f1_list)
 
 
-def batchify(dataset, batch_size=2, padding_idx=0):
+def batchify(dataset, batch_size, cuda = False, padding_idx=0):
     batches = []
     i = 0
     while i + batch_size < len(dataset[0]):
@@ -86,37 +99,64 @@ def batchify(dataset, batch_size=2, padding_idx=0):
             current_y.append(ex_y.unsqueeze(0))
             current_mask_x.append(mask_x.unsqueeze(0))
             current_mask_y.append(mask_y.unsqueeze(0))
-
-        batches.append((torch.cat(current_x), torch.cat(current_y),
-                        torch.cat(current_mask_x), torch.cat(current_mask_y)))
+        if cuda:
+            batches.append((torch.cat(current_x).cuda(), torch.cat(current_y).cuda(),
+                            torch.cat(current_mask_x).cuda(), torch.cat(current_mask_y).cuda()))
+        else:
+            batches.append((torch.cat(current_x), torch.cat(current_y),
+                            torch.cat(current_mask_x), torch.cat(current_mask_y)))
         i += batch_size
 
     return batches
 
 
-def train_fct(train_data, valid_data, vocab, nemb=100, nhid=300, epochs=300):
-    model = Parser(nemb, nhid, len(vocab))
+def LM_criterion(input, targets, targets_mask, ntokens):
+    targets_mask = targets_mask.contiguous().view(-1)
+    targets = targets.contiguous().view(-1)
+    input = input.view(-1, ntokens)
+    input = F.log_softmax(input, dim=-1)
+    loss = torch.gather(input, 1, targets[:, None]).view(-1)
+    loss = (-loss * targets_mask.float()).sum() / targets_mask.sum()
+    return loss
+
+
+def train_fct(train_data, valid_data, vocab, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=2, use_prpn=True):
+    if use_prpn:
+        model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.2, False, False, 0)
+    else:
+        model = Parser(nemb, nhid, len(vocab))
     optimizer = optim.Adam(model.parameters())
-    batchify(train_data)
-    train = batchify(train_data)
+    train = batchify(train_data, batch_size, cuda = cuda)
     print(len(train))
-    
+    if cuda:
+        model.cuda()    
     for epoch in range(epochs):
         model.train()
+        count = 0
+        epoch_start_time = time.time()
         av_loss = 0.
         shuffle(train)
         for (x, y, mask_x, mask_y) in train:
             optimizer.zero_grad()
-            preds = model(x, mask_x)
-            loss = ranking_loss(preds.transpose(0, 1), y, mask_y)
+            if use_prpn:
+                hidden = model.init_hidden(batch_size)
+                output, _ = model(x.transpose(1, 0), hidden)
+                loss = LM_criterion(output, x.transpose(1, 0),
+                                    mask_x.transpose(1, 0), len(vocab))
+            else:
+                preds = model(x, mask_x, cuda)
+                loss = ranking_loss(preds.transpose(0, 1), y, mask_y)
             av_loss += loss
             loss.backward()
             optimizer.step()
+            if count % 100 == 0:
+                print("Epoch: "+str(epoch)+" -- batch: "+str(count))
+            count+=1
         av_loss /= len(train)
+        print("Training time for epoch in sec: ", (time.time()-epoch_start_time))
+        f1 = eval_fct(model, valid_data, use_prpn, cuda)
         
-        f1 = eval_fct(model, train_data)
-        
-        print('Epoch: ' + str(epoch))
+        print('End of epoch ' + str(epoch))
         print('Loss: ' + str(av_loss.data))
         print('F1: ' + str(f1))
     return None
@@ -127,5 +167,14 @@ if __name__ == '__main__':
        For now, the first argument is the path to the data.
        # TODO: use a reasonable argument parser!
     '''
+    is_cuda = False
+    gpu_device = 0
+    if not torch.cuda.is_available():
+        print("You are not using CUDA.")
+    else:
+        is_cuda = True
+        torch.cuda.set_device(gpu_device)
+        print("You are using CUDA.")
+
     train_data, valid_data, test_data = data_loader.main(sys.argv[1])
-    train_fct(train_data, valid_data, valid_data[-1])
+    train_fct(train_data, valid_data, valid_data[-1], is_cuda)
