@@ -133,14 +133,14 @@ def train_fct(train_data, valid_data, vocab, cuda=False,  nemb=100, nhid=300, ep
         print('F1: ' + str(f1))
     return None
 
-is_cuda = False
-gpu_device = 0
+
 if __name__ == '__main__':
     '''
        For now, the first argument is the path to the data.
        # TODO: use a reasonable argument parser!
     '''
-
+    is_cuda = False
+    gpu_device = 0
     if not torch.cuda.is_available():
         print("You are not using CUDA.")
     else:
