@@ -54,7 +54,7 @@ class Parser(nn.Module):
         lstm2_out, _ = self.lstm2(packed_sequence)
         lstm2_out, _ = pad_packed_sequence(lstm2_out, batch_first=True)
         lstm2_out = lstm2_out.transpose(0,1)
-        lstm2_out = self.dropout(lstm2_out)
+        lstm2_out = self.dropout(lstm2_out[1:-1])
         ff1_out = self.ff1(lstm2_out)
         ff1_out = self.dropout(self.tanh(ff1_out))
         ff2_out = self.ff2(ff1_out)

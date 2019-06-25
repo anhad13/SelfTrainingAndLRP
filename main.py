@@ -48,11 +48,11 @@ def eval_fct(model, dataset, use_prpn, cuda=False):
             hidden = model.init_hidden(1)
             _, hidden = model(x, hidden)
             gates = model.gates.squeeze(0).unsqueeze(1)
-            preds = gates[1:].unsqueeze(1)
-            pred_tree = build_tree(list(preds.data), sent)
+            preds = gates[2:-1].unsqueeze(1)
+            pred_tree = build_tree(list(preds.data), sent[1:-1])
         else:
             preds = model(x.unsqueeze(0), torch.ones_like(x.unsqueeze(0)), cuda).transpose(0, 1)
-            pred_tree = build_tree(list(preds.data[0]), sent)
+            pred_tree = build_tree(list(preds.data[0]), sent[1:-1])
         pred_brackets = get_brackets(pred_tree)[0]
 
         overlap = pred_brackets.intersection(gold_brackets)
@@ -122,12 +122,14 @@ def LM_criterion(input, targets, targets_mask, ntokens):
 
 def train_fct(train_data, valid_data, vocab, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=2, use_prpn=True):
     if use_prpn:
+        print('Using PRPN.')
         model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.2, False, False, 0)
     else:
+        print('Using supervised parser.')
         model = Parser(nemb, nhid, len(vocab))
     optimizer = optim.Adam(model.parameters())
     train = batchify(train_data, batch_size, cuda = cuda)
-    print(len(train))
+    print('Number of training sentences: ' + str(len(train)))
     if cuda:
         model.cuda()    
     for epoch in range(epochs):
@@ -140,9 +142,9 @@ def train_fct(train_data, valid_data, vocab, cuda=False,  nemb=100, nhid=300, ep
             optimizer.zero_grad()
             if use_prpn:
                 hidden = model.init_hidden(batch_size)
-                output, _ = model(x.transpose(1, 0), hidden)
-                loss = LM_criterion(output, x.transpose(1, 0),
-                                    mask_x.transpose(1, 0), len(vocab))
+                output, _ = model(x.transpose(1, 0)[:-1], hidden)
+                loss = LM_criterion(output, x.transpose(1, 0)[1:],
+                                    mask_x.transpose(1, 0)[1:], len(vocab))
             else:
                 preds = model(x, mask_x, cuda)
                 loss = ranking_loss(preds.transpose(0, 1), y, mask_y)
@@ -154,7 +156,7 @@ def train_fct(train_data, valid_data, vocab, cuda=False,  nemb=100, nhid=300, ep
             count+=1
         av_loss /= len(train)
         print("Training time for epoch in sec: ", (time.time()-epoch_start_time))
-        f1 = eval_fct(model, valid_data, use_prpn, cuda)
+        f1 = eval_fct(model, train_data, use_prpn, cuda)
         
         print('End of epoch ' + str(epoch))
         print('Loss: ' + str(av_loss.data))

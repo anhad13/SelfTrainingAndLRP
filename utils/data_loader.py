@@ -91,13 +91,13 @@ def load_trees(ids, vocab=None, grow_vocab=True):
        4) the brackets as tuples
     '''
     if not vocab:
-        vocab = {'<pad>': 0, '<unk>': 1}
+        vocab = {'<pad>': 0, '<bos>': 1, '<eos>': 2, '<unk>': 3}
     all_sents, all_trees, all_dists, all_brackets, all_words = [], [], [], [], []
     for id in ids:
         #sentences = ptb.parsed_sents(id)
         ptb = BracketParseCorpusReader('', id)
         for sent in ptb.parsed_sents():
-            words = filter_words(sent)
+            words = ['<bos>'] + filter_words(sent) + ['<eos>']
             idx = []
             for word in words:
                 if word not in vocab:
@@ -106,7 +106,7 @@ def load_trees(ids, vocab=None, grow_vocab=True):
                     else:
                         word = '<unk>'
                 idx.append(vocab[word])
-            if len(words)<=1:
+            if len(words)<=3:
                 continue
                 print("skipping")
             # Binarize tree.
