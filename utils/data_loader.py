@@ -147,7 +147,6 @@ def main(path):
     rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) + len(rest_data[0])
     print('Number of sentences loaded: ' + str(number_sentences))
-
     return train_data, valid_data, test_data
 
 
