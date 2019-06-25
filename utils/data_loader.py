@@ -141,7 +141,7 @@ def main(path):
                 rest_file_ids.append(id)
 
     train_data = load_trees(train_file_ids[:1])
-    valid_data = load_trees(valid_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
+    valid_data = load_trees(valid_file_ids[:1], vocab=train_data[-1], grow_vocab=True)
     test_data = load_trees(test_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
     rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) + len(rest_data[0])
