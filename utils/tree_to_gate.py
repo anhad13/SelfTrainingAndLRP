@@ -1,7 +1,8 @@
 #l : length of sentence, tree is list.
-def tree_to_gates(tree, l):
+def tree_to_gates(tree):
+	l = leafno(tree)
 	arr = [0] * l
-	assign_recursively(tree, arr, 0)
+	assign_recursively(tree, arr, 0, max = l)
 	return arr
 
 
@@ -27,4 +28,4 @@ def leafno(x):
 if __name__ == '__main__':
 	#example: tree:  [[['a', 'b'], 'c'], ['d', 'e']],
 	#no of tokens: 5
-	print(tree_to_gates([[['a', 'b'], 'c'], ['d', 'e']], 5))
+	print(tree_to_gates([[['a', 'b'], 'c'], ['d', 'e']]))
