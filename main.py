@@ -98,7 +98,7 @@ def eval_fct(model, dataset, use_prpn, cuda=False):
 def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0):
     batches = []
     i = 0
-    while i + batch_size < len(dataset[0]):
+    while i + batch_size <= len(dataset[0]):
         x = dataset[0][i:i+batch_size]
         if use_prpn:
             y = dataset[5][i:i+batch_size]  # gates
