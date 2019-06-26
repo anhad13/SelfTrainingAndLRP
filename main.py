@@ -188,7 +188,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
             count+=1
         av_loss /= len(train)
         print("Training time for epoch in sec: ", (time.time()-epoch_start_time))
-        f1 = eval_fct(model, valid_data, use_prpn, cuda)
+        f1 = eval_fct(model, train_data, use_prpn, cuda)
         
         print('End of epoch ' + str(epoch))
         print('Loss: ' + str(av_loss.data))
