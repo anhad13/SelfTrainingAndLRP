@@ -23,3 +23,8 @@ def leafno(x):
 		return 1
 	else:
 		return leafno(x[0]) + leafno(x[1])
+
+if __name__ == '__main__':
+	#example: tree:  [[['a', 'b'], 'c'], ['d', 'e']],
+	#no of tokens: 5
+	print(tree_to_gates([[['a', 'b'], 'c'], ['d', 'e']], 5))
