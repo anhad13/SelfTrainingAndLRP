@@ -132,7 +132,7 @@ def main(path):
     valid_file_ids = []
     test_file_ids = []
     rest_file_ids = []
-    for (path, _, fnames) in os.walk(path):
+    for (path, _, fnames) in sorted(os.walk(path)):
         for fname in fnames:
             id = path + '/' + fname
             if 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/21/wsj_2199.mrg':
@@ -144,7 +144,7 @@ def main(path):
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
 
-    train_data = load_trees(train_file_ids[:1])
+    train_data = load_trees(train_file_ids[:2])
     valid_data = load_trees(valid_file_ids[:1], vocab=train_data[-1], grow_vocab=True)
     test_data = load_trees(test_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
     rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
