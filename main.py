@@ -143,7 +143,7 @@ def LM_criterion(input, targets, targets_mask, ntokens):
     return loss
 
 
-def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=32):
+def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=3):
     if use_prpn:
         print('Using PRPN.')
         model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.0, False, False, 0)
@@ -181,7 +181,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
             count+=1
         av_loss /= len(train)
         print("Training time for epoch in sec: ", (time.time()-epoch_start_time))
-        f1 = eval_fct(model, valid_data, use_prpn, cuda)
+        f1 = eval_fct(model, train_data, use_prpn, cuda)
         
         print('End of epoch ' + str(epoch))
         print('Loss: ' + str(av_loss.data))
