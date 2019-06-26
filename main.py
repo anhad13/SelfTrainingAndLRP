@@ -147,7 +147,7 @@ def LM_criterion(input, targets, targets_mask, ntokens):
 
 
 def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=1,
-              alpha=1., beta=0.):
+              alpha=0.):
     if use_prpn:
         print('Using PRPN.')
         model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.0, False, False, 0)
@@ -175,7 +175,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                 loss1 = ranking_loss(gates, y, mask_y)
                 loss2 = LM_criterion(output, torch.cat([x.transpose(1, 0)[1:], zeros], dim=0),
                                     torch.cat([mask_x.transpose(1, 0)[1:], zeros], dim=0), len(vocab))
-                loss = alpha * loss1 + beta * loss2
+                loss = alpha * loss1 + (1 - alpha) * loss2
             else:
                 preds = model(x, mask_x, cuda)
                 loss = ranking_loss(preds.transpose(0, 1), y, mask_y)
@@ -201,6 +201,8 @@ if __name__ == '__main__':
     parser.add_argument('--data', type=str, default='data/', help='location of the data corpus')
     parser.add_argument('--PRPN', action='store_true',
                         help='use PRPN; otherwise, use the parser')
+    parser.add_argument('--alpha', type=float, default=0.,
+                        help='weight of the SUPERVISED loss for PRPN; 0. means UNSUPERVISED (default)')
     args = parser.parse_args()
     
     is_cuda = False
@@ -213,4 +215,4 @@ if __name__ == '__main__':
         print("You are using CUDA.")
 
     train_data, valid_data, test_data = data_loader.main(args.data)
-    train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda)
+    train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha)
