@@ -22,14 +22,24 @@ class ParsingNetwork(nn.Module):
         
         self.drop = nn.Dropout(dropout)
         
+        # New:
+        self.lstm1 = nn.LSTM(self.ninp, self.nhid, num_layers=1, bidirectional=False)
+        
         # Attention layers
         self.gate = nn.Sequential(nn.Dropout(dropout),
-                                  nn.Conv1d(ninp, nhid, (nlookback + 1)),
+                                  nn.Conv1d(nhid, nhid, (nlookback + 1)),
                                   nn.BatchNorm1d(nhid),
                                   nn.ReLU(),
-                                  nn.Dropout(dropout),
-                                  nn.Conv1d(nhid, 2, 1, groups=2),
-                                  nn.Sigmoid())
+                                  nn.Dropout(dropout))
+            
+        self.lstm2 = nn.LSTM(self.nhid, self.nhid, num_layers=1, bidirectional=False)
+    
+        self.ff1 = nn.Linear(self.nhid, self.nhid)
+        self.ff2 = nn.Linear(self.nhid, 2)
+        self.tanh = nn.Tanh()
+        
+        #self.conv = nn.Conv1d(nhid, 2, 1, groups=2)
+                                  #nn.Sigmoid())
     
     
     def forward(self, emb, parser_state):
@@ -39,7 +49,18 @@ class ParsingNetwork(nn.Module):
         emb_last = torch.cat([emb_last, emb], dim=0)
         emb = emb_last.transpose(0, 1).transpose(1, 2)  # bsz, ninp, ntimestep + nlookback
         
-        gates = self.gate(emb)  # bsz, 2, ntimestep
+        #print(emb.shape)
+        lstm1_out = self.lstm1(emb.transpose(1, 2))[0].transpose(1, 2)
+        #print(lstm1_out.shape)
+        #exit()
+        
+        pre_gates = self.gate(lstm1_out)  # bsz, 2, ntimestep
+        lstm2_out = self.lstm2(pre_gates.transpose(1, 2))[0].transpose(1, 2)
+        
+        ff1_out = self.ff1(lstm2_out.transpose(1, 2))
+        ff1_out = self.drop(self.tanh(ff1_out))
+        gates = self.ff2(ff1_out).transpose(1, 2)  # bsz, 2, seq_len
+        
         gate = gates[:, 0, :]
         gate_next = gates[:, 1, :]
         cum_gate = torch.cat([cum_gate, gate], dim=1)

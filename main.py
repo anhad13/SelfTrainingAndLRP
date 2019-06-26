@@ -95,12 +95,15 @@ def eval_fct(model, dataset, use_prpn, cuda=False):
     return numpy.mean(f1_list)
 
 
-def batchify(dataset, batch_size, cuda = False, padding_idx=0):
+def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0):
     batches = []
     i = 0
     while i + batch_size < len(dataset[0]):
         x = dataset[0][i:i+batch_size]
-        y = dataset[1][i:i+batch_size]
+        if use_prpn:
+            y = dataset[5][i:i+batch_size]  # gates
+        else:
+            y = dataset[1][i:i+batch_size]  # distances
 
         max_len = 0
         for ex in x:
@@ -143,7 +146,8 @@ def LM_criterion(input, targets, targets_mask, ntokens):
     return loss
 
 
-def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=32):
+def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=1,
+              alpha=1., beta=0.):
     if use_prpn:
         print('Using PRPN.')
         model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.0, False, False, 0)
@@ -151,7 +155,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         print('Using supervised parser.')
         model = Parser(nemb, nhid, len(vocab))
     optimizer = optim.Adam(model.parameters())
-    train = batchify(train_data, batch_size, cuda = cuda)
+    train = batchify(train_data, batch_size, use_prpn, cuda = cuda)
     print('Number of training batches: ' + str(len(train)))
     if cuda:
         model.cuda()    
@@ -167,8 +171,11 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                 hidden = model.init_hidden(batch_size)
                 output, _ = model(x.transpose(1, 0), hidden)
                 zeros = torch.zeros((mask_x.shape[0],)).unsqueeze(0).long()
-                loss = LM_criterion(output, torch.cat([x.transpose(1, 0)[1:], zeros], dim=0),
+                gates = model.gates.transpose(1, 0)[1:-1].transpose(1, 0)
+                loss1 = ranking_loss(gates, y, mask_y)
+                loss2 = LM_criterion(output, torch.cat([x.transpose(1, 0)[1:], zeros], dim=0),
                                     torch.cat([mask_x.transpose(1, 0)[1:], zeros], dim=0), len(vocab))
+                loss = alpha * loss1 + beta * loss2
             else:
                 preds = model(x, mask_x, cuda)
                 loss = ranking_loss(preds.transpose(0, 1), y, mask_y)
@@ -192,8 +199,8 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Parsing and grammar induction')
     parser.add_argument('--data', type=str, default='data/', help='location of the data corpus')
-    parser.add_argument('--unsupervised', action='store_true',
-                        help='for unsupervised, use PRPN; otherwise, use the parser')
+    parser.add_argument('--PRPN', action='store_true',
+                        help='use PRPN; otherwise, use the parser')
     args = parser.parse_args()
     
     is_cuda = False
@@ -206,4 +213,4 @@ if __name__ == '__main__':
         print("You are using CUDA.")
 
     train_data, valid_data, test_data = data_loader.main(args.data)
-    train_fct(train_data, valid_data, valid_data[-1], args.unsupervised, is_cuda)
+    train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda)

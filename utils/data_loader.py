@@ -6,6 +6,7 @@ import torch
 import nltk
 from nltk.corpus import ptb
 from nltk.corpus import BracketParseCorpusReader
+from utils.tree_to_gate import tree_to_gates
 
 
 word_tags = ['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NNP', 'NNPS', 'PDT',
@@ -89,10 +90,11 @@ def load_trees(ids, vocab=None, grow_vocab=True):
        2) a torch.FloatTensor containing the corresponding distances between words
        3) the original sentence with in bracket format
        4) the brackets as tuples
+       5) the gate values for training PRPN in a supervised way
     '''
     if not vocab:
         vocab = {'<pad>': 0, '<bos>': 1, '<eos>': 2, '<unk>': 3}
-    all_sents, all_trees, all_dists, all_brackets, all_words = [], [], [], [], []
+    all_sents, all_trees, all_dists, all_brackets, all_words, all_gates = [], [], [], [], [], []
     for id in ids:
         #sentences = ptb.parsed_sents(id)
         ptb = BracketParseCorpusReader('', id)
@@ -112,6 +114,7 @@ def load_trees(ids, vocab=None, grow_vocab=True):
             # Binarize tree.
             nltk.treetransforms.chomsky_normal_form(sent)
             treelist = tree2list(sent)
+            gate_values = tree_to_gates(treelist)
             brackets = get_brackets(treelist)[0]
 
             all_sents.append(torch.LongTensor(idx))
@@ -119,8 +122,9 @@ def load_trees(ids, vocab=None, grow_vocab=True):
             all_dists.append(torch.FloatTensor(list2distance(treelist)[0]))
             all_brackets.append(brackets)
             all_words.append(words)
+            all_gates.append(torch.FloatTensor(gate_values))
 
-    return all_sents, all_dists, all_trees, all_brackets, all_words, vocab
+    return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, vocab
 
 
 def main(path):
@@ -140,10 +144,10 @@ def main(path):
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
 
-    train_data = load_trees(train_file_ids)
-    valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab=True)
-    test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False)
-    rest_data = load_trees(rest_file_ids, vocab=train_data[-1], grow_vocab=False)
+    train_data = load_trees(train_file_ids[:1])
+    valid_data = load_trees(valid_file_ids[:1], vocab=train_data[-1], grow_vocab=True)
+    test_data = load_trees(test_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
+    rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) + len(rest_data[0])
     print('Number of sentences loaded: ' + str(number_sentences))
     
