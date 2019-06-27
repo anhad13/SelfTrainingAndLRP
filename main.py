@@ -11,6 +11,7 @@ from utils import data_loader
 from model.parser import Parser
 from model.prpn import PRPN
 from utils.data_loader import build_tree, get_brackets
+import torch.nn as nn
 
 
 def ranking_loss(pred, gold, mask):
@@ -106,10 +107,9 @@ def batchify(dataset, batch_size, train_gates, cuda = False, padding_idx=0):
     while i + batch_size <= len(dataset[0]):
         x = dataset[0][i:i+batch_size]
         if train_gates:
-            y = dataset[1][i:i+batch_size]  # [5] for gates
+            y = dataset[5][i:i+batch_size]  # [5] for gates
         else:
-            y = dataset[5][i:i+batch_size]  # distances
-
+            y = dataset[1][i:i+batch_size]  # distances
         max_len = 0
         for ex in x:
             if ex.shape[0] > max_len:
@@ -179,7 +179,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         model = torch.load(load_from, map_location=device)
 
     optimizer = optim.Adam(model.parameters())
-    train = batchify(train_data, batch_size, use_prpn, cuda = cuda)
+    train = batchify(train_data, batch_size, train_gates, cuda = cuda)
     print('Number of training batches: ' + str(len(train)))
     if cuda:
         model.cuda()    
