@@ -101,12 +101,12 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False):
     return numpy.mean(f1_list)
 
 
-def batchify(dataset, batch_size, train_gates, cuda = False, padding_idx=0):
+def batchify(dataset, batch_size, use_prpn, train_gates, cuda = False, padding_idx=0):
     batches = []
     i = 0
     while i + batch_size <= len(dataset[0]):
         x = dataset[0][i:i+batch_size]
-        if train_gates:
+        if use_prpn and train_gates:
             y = dataset[5][i:i+batch_size]  # [5] for gates
         else:
             y = dataset[1][i:i+batch_size]  # distances
@@ -194,7 +194,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
     if batch_size > len(train_data[0]):
         print('Reducing batch size to ' + str(len(train_data[0])) + ' due to train set size.')
         batch_size = len(train_data[0])
-    train = batchify(train_data, batch_size, train_gates, cuda = cuda)
+    train = batchify(train_data, batch_size, use_prpn, train_gates, cuda = cuda)
     print('Number of training batches: ' + str(len(train)))
     if cuda:
         model.cuda()    
