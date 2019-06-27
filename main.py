@@ -265,6 +265,7 @@ if __name__ == '__main__':
     parser.add_argument('--alpha', type=float, default=0.,
                         help='weight of the SUPERVISED loss for PRPN; 0. means UNSUPERVISED (default)')
     parser.add_argument('--batch', type=int, default=16, help='batch size')
+    parser.add_argument('--epochs', type=int, default=500, help='num of epochs')
     parser.add_argument('--supervision_limit', type=int, default=10, help='amount examples with supervision')
     args = parser.parse_args()
     
@@ -280,4 +281,4 @@ if __name__ == '__main__':
     train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit)
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_gates=(not args.train_distances), parse_with_gates=(not args.parse_with_distances),
-              save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch)
+              save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs)
