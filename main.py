@@ -160,7 +160,7 @@ def LM_criterion(input, targets, targets_mask, ntokens):
     return loss
 
 
-def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=1,
+def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=3,
               alpha=0., train_gates=False, parse_with_gates=True, save_to=None, load_from=None, eval_on='dev'):
     if save_to:
         if '/' in save_to:
@@ -215,7 +215,6 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                 loss2 = LM_criterion(output, torch.cat([x.transpose(1, 0)[1:], zeros], dim=0),
                                      torch.cat([mask_x.transpose(1, 0)[1:], zeros], dim=0), len(vocab))
                 loss = alpha * loss1 + (1 - alpha) * loss2
-                loss = loss1
             else:
                 preds = model(x, mask_x, cuda)
                 loss = ranking_loss(preds.transpose(0, 1), y, mask_y)
