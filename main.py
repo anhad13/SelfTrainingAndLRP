@@ -152,10 +152,10 @@ def LM_criterion(input, targets, targets_mask, ntokens):
 
 
 def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=1,
-              alpha=0., train_gates=False, parse_with_gates=True, model_path=None):
-    if model_path:
-        if '/' in model_path:
-            os.makedirs('/'.join(model_path.split('/')[:-1]), exist_ok=True)
+              alpha=0., train_gates=False, parse_with_gates=True, save_to=None, load_from=None):
+    if save_to:
+        if '/' in save_to:
+            os.makedirs('/'.join(save_to.split('/')[:-1]), exist_ok=True)
     if use_prpn:
         info = 'Using PRPN, '
         if alpha == 0.:
@@ -173,6 +173,11 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
     else:
         print('Using supervised parser.')
         model = Parser(nemb, nhid, len(vocab))
+    if load_from:
+        print('Loading pretrained model from ' + load_from + '.')
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        model = torch.load(load_from, map_location=device)
+
     optimizer = optim.Adam(model.parameters())
     train = batchify(train_data, batch_size, use_prpn, cuda = cuda)
     print('Number of training batches: ' + str(len(train)))
@@ -212,9 +217,9 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         av_loss /= len(train)
         print("Training time for epoch in sec: ", (time.time()-epoch_start_time))
         f1 = eval_fct(model, train_data, use_prpn, parse_with_gates, cuda)
-        if model_path:
+        if save_to:
             print('Storing current model...')
-            torch.save(model, model_path)
+            torch.save(model, save_to)
         
         print('End of epoch ' + str(epoch))
         print('Loss: ' + str(av_loss.data))
@@ -226,6 +231,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Parsing and grammar induction')
     parser.add_argument('--data', type=str, default='data/', help='location of the data corpus')
     parser.add_argument('--save', type=str, default=None, help='path where model will be stored')
+    parser.add_argument('--load', type=str, default=None, help='path to load a model from')
     parser.add_argument('--PRPN', action='store_true',
                         help='use PRPN; otherwise, use the parser')
     parser.add_argument('--train_distances', action='store_true',
@@ -248,4 +254,4 @@ if __name__ == '__main__':
     train_data, valid_data, test_data = data_loader.main(args.data)
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_gates=(not args.train_distances), parse_with_gates=(not args.parse_with_distances),
-              model_path=args.save)
+              save_to=args.save, load_from=args.load)
