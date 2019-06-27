@@ -118,24 +118,33 @@ def batchify(dataset, batch_size, train_gates, cuda = False, padding_idx=0):
         current_y = []
         current_mask_x = []
         current_mask_y = []
+        current_mask_m = []
         for ex_x, ex_y in zip(x, y):
             mask_x = torch.ones_like(ex_x)
             mask_y = torch.ones_like(ex_y, dtype=torch.long)
+            repl_x = ex_x
             while ex_x.shape[0] < max_len:
                 ex_x = torch.cat((ex_x, torch.LongTensor([padding_idx])))
                 ex_y = torch.cat((ex_y, torch.FloatTensor([padding_idx])))
                 mask_x = torch.cat((mask_x, torch.LongTensor([padding_idx])))
                 mask_y = torch.cat((mask_y, torch.LongTensor([padding_idx])))
+            if train_gates:
+                # 1 - > -1 is valid
+                mask_m = torch.cat((torch.zeros(1), torch.ones(len(repl_x[1:-1])), torch.zeros(max_len-len(repl_x[1:-1])-1)))
+            else:
+                # 2 -> -1
+                mask_m = torch.cat((torch.zeros(2), torch.ones(len(repl_x[1:-1])), torch.zeros(max_len-len(repl_x[1:-1])-2)))                
             current_x.append(ex_x.unsqueeze(0))
             current_y.append(ex_y.unsqueeze(0))
             current_mask_x.append(mask_x.unsqueeze(0))
             current_mask_y.append(mask_y.unsqueeze(0))
+            current_mask_m.append(mask_m.unsqueeze(0))
         if cuda:
             batches.append((torch.cat(current_x).cuda(), torch.cat(current_y).cuda(),
-                            torch.cat(current_mask_x).cuda(), torch.cat(current_mask_y).cuda()))
+                            torch.cat(current_mask_x).cuda(), torch.cat(current_mask_y).cuda(),torch.cat(current_mask_m).cuda()))
         else:
             batches.append((torch.cat(current_x), torch.cat(current_y),
-                            torch.cat(current_mask_x), torch.cat(current_mask_y)))
+                            torch.cat(current_mask_x), torch.cat(current_mask_y), torch.cat(current_mask_m)))
         i += batch_size
 
     return batches
@@ -189,17 +198,19 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         epoch_start_time = time.time()
         av_loss = 0.
         shuffle(train)
-        for (x, y, mask_x, mask_y) in train:
+        for (x, y, mask_x, mask_y, mask_m) in train:
             optimizer.zero_grad()
             if use_prpn:
                 hidden = model.init_hidden(batch_size)
                 output, _ = model(x.transpose(1, 0), hidden)
                 zeros = torch.zeros((mask_x.shape[0],)).unsqueeze(0).long()
                 if train_gates:  # training PRPN directly
-                    gates = model.gates.transpose(1, 0)[1:-1].transpose(1, 0)
+                    gates = model.gates * mask_m
+                    gates = gates.transpose(0,1)[1:-1].transpose(0,1)
                     loss1 = ranking_loss(gates, y, mask_y)
                 else:  # multi-task training on distances
-                    distances = model.distances.transpose(1, 0)[2:-1].transpose(1, 0)
+                    distances = model.distances * mask_m
+                    distances = distances.transpose(0,1)[2:-1].transpose(0,1)
                     loss1 = ranking_loss(distances, y, mask_y)
                 loss2 = LM_criterion(output, torch.cat([x.transpose(1, 0)[1:], zeros], dim=0),
                                      torch.cat([mask_x.transpose(1, 0)[1:], zeros], dim=0), len(vocab))
