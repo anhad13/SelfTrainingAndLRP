@@ -37,6 +37,9 @@ class ParsingNetwork(nn.Module):
         self.ff1 = nn.Linear(self.nhid, self.nhid)
         self.ff2 = nn.Linear(self.nhid, 2)
         self.tanh = nn.Tanh()
+    
+        self.dist_ff = nn.Linear(self.nhid, 1)
+        self.distances = None
         
         #self.conv = nn.Conv1d(nhid, 2, 1, groups=2)
                                   #nn.Sigmoid())
@@ -60,6 +63,8 @@ class ParsingNetwork(nn.Module):
         ff1_out = self.ff1(lstm2_out.transpose(1, 2))
         ff1_out = self.drop(self.tanh(ff1_out))
         gates = self.ff2(ff1_out).transpose(1, 2)  # bsz, 2, seq_len
+        
+        self.distances = self.dist_ff(ff1_out).transpose(1, 2).squeeze(1)
         
         gate = gates[:, 0, :]
         gate_next = gates[:, 1, :]

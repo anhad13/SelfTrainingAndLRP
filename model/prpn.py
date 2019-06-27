@@ -43,6 +43,7 @@ class PRPN(nn.Module):
                                      
         self.attentions = None
         self.gates = None
+        self.distances = None
                                              
         self.init_weights()
 
@@ -101,6 +102,7 @@ class PRPN(nn.Module):
                                                                                       
         self.attentions = torch.stack(attentions, dim=0)
         self.gates = gate
+        self.distances = self.parser.distances
 
         output_h = torch.stack(output_h, dim=0)
         output_memory = torch.stack(output_memory, dim=0)

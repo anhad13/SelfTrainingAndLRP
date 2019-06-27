@@ -51,7 +51,7 @@ def build_tree_prpn(depth, sen):
     return parse_tree
 
 
-def eval_fct(model, dataset, use_prpn, cuda=False):
+def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False):
     model.eval()
     prec_list = []
     reca_list = []
@@ -70,9 +70,13 @@ def eval_fct(model, dataset, use_prpn, cuda=False):
             x = x.unsqueeze(1)
             hidden = model.init_hidden(1)
             _, hidden = model(x, hidden)
-            gates = model.gates.squeeze(0).unsqueeze(1)
-            preds = gates[1:-1]
-            pred_tree = build_tree_prpn(list(preds.data), sent[1:-1])
+            if parse_with_gates:  # "normal" way of parsing with PRPN
+                gates = model.gates.squeeze(0).unsqueeze(1)
+                preds = gates[1:-1]
+                pred_tree = build_tree_prpn(list(preds.data), sent[1:-1])
+            else:  # parse using supervised distances
+                preds = model.distances.transpose(1, 0)[2:-1].squeeze(0)
+                pred_tree = build_tree(list(preds.data), sent[1:-1])
         else:
             preds = model(x.unsqueeze(0), torch.ones_like(x.unsqueeze(0)), cuda).transpose(0, 1)
             pred_tree = build_tree(list(preds.data[0]), sent[1:-1])
@@ -91,7 +95,7 @@ def eval_fct(model, dataset, use_prpn, cuda=False):
         reca_list.append(reca)
         f1_list.append(f1)
     
-    # TODO: This is very weird for F1, reconsider.
+    # Sentence-level F1.
     return numpy.mean(f1_list)
 
 
@@ -101,7 +105,7 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0):
     while i + batch_size <= len(dataset[0]):
         x = dataset[0][i:i+batch_size]
         if use_prpn:
-            y = dataset[5][i:i+batch_size]  # gates
+            y = dataset[1][i:i+batch_size]  # [5] for gates
         else:
             y = dataset[1][i:i+batch_size]  # distances
 
@@ -147,9 +151,20 @@ def LM_criterion(input, targets, targets_mask, ntokens):
 
 
 def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=1,
-              alpha=0.):
+              alpha=0., train_gates=False, parse_with_gates=True):
     if use_prpn:
-        print('Using PRPN.')
+        info = 'Using PRPN, '
+        if alpha == 0.:
+            info += 'unsupervised.'
+        elif train_gates:
+            info += 'training gate values directly.'
+        else:
+            info += 'training on distances in a multi-task fashion.'
+        if parse_with_gates:
+            info += '\nUsing gate values for parsing.'
+        else:
+            info += '\nUsing distances for parsing.'
+        print(info)
         model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.0, False, False, 0)
     else:
         print('Using supervised parser.')
@@ -171,8 +186,12 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                 hidden = model.init_hidden(batch_size)
                 output, _ = model(x.transpose(1, 0), hidden)
                 zeros = torch.zeros((mask_x.shape[0],)).unsqueeze(0).long()
-                gates = model.gates.transpose(1, 0)[1:-1].transpose(1, 0)
-                loss1 = ranking_loss(gates, y, mask_y)
+                if train_gates:  # training PRPN directly
+                    gates = model.gates.transpose(1, 0)[1:-1].transpose(1, 0)
+                    loss1 = ranking_loss(gates, y, mask_y)
+                else:  # multi-task training on distances
+                    distances = model.distances.transpose(1, 0)[2:-1].transpose(1, 0)
+                    loss1 = ranking_loss(distances, y, mask_y)
                 loss2 = LM_criterion(output, torch.cat([x.transpose(1, 0)[1:], zeros], dim=0),
                                     torch.cat([mask_x.transpose(1, 0)[1:], zeros], dim=0), len(vocab))
                 loss = alpha * loss1 + (1 - alpha) * loss2
@@ -188,7 +207,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
             count+=1
         av_loss /= len(train)
         print("Training time for epoch in sec: ", (time.time()-epoch_start_time))
-        f1 = eval_fct(model, train_data, use_prpn, cuda)
+        f1 = eval_fct(model, train_data, use_prpn, parse_with_gates, cuda)
         
         print('End of epoch ' + str(epoch))
         print('Loss: ' + str(av_loss.data))
@@ -201,6 +220,10 @@ if __name__ == '__main__':
     parser.add_argument('--data', type=str, default='data/', help='location of the data corpus')
     parser.add_argument('--PRPN', action='store_true',
                         help='use PRPN; otherwise, use the parser')
+    parser.add_argument('--train_distances', action='store_true',
+                        help='train the distances (instead of the PRPN gate values) directly')
+    parser.add_argument('--parse_with_distances', action='store_true',
+                        help='use distances to build the parse tree for eval (instead of gate values)')
     parser.add_argument('--alpha', type=float, default=0.,
                         help='weight of the SUPERVISED loss for PRPN; 0. means UNSUPERVISED (default)')
     args = parser.parse_args()
@@ -215,4 +238,5 @@ if __name__ == '__main__':
         print("You are using CUDA.")
 
     train_data, valid_data, test_data = data_loader.main(args.data)
-    train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha)
+    train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
+              train_gates=(not args.train_distances), parse_with_gates=(not args.parse_with_distances))
