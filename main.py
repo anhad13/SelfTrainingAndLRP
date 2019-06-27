@@ -210,7 +210,10 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
             if use_prpn:
                 hidden = model.init_hidden(batch_size)
                 output, _ = model(x.transpose(1, 0), hidden)
-                zeros = torch.zeros((mask_x.shape[0],)).unsqueeze(0).long()
+                if cuda:
+                    zeros = torch.zeros((mask_x.shape[0],)).unsqueeze(0).cuda().long()
+                else:
+                    zeros = torch.zeros((mask_x.shape[0],)).unsqueeze(0).long()
                 if train_gates:  # training PRPN directly
                     gates = model.gates * mask_m
                     gates = gates.transpose(0,1)[1:-1].transpose(0,1)
