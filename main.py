@@ -188,6 +188,9 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         model = torch.load(load_from, map_location=device)
 
     optimizer = optim.Adam(model.parameters())
+    if batch_size > len(train_data[0]):
+        print('Reducing batch size to ' + str(len(train_data[0])) + ' due to train set size.')
+        batch_size = len(train_data[0])
     train = batchify(train_data, batch_size, train_gates, cuda = cuda)
     print('Number of training batches: ' + str(len(train)))
     if cuda:
@@ -257,6 +260,7 @@ if __name__ == '__main__':
                         help='use distances to build the parse tree for eval (instead of gate values)')
     parser.add_argument('--alpha', type=float, default=0.,
                         help='weight of the SUPERVISED loss for PRPN; 0. means UNSUPERVISED (default)')
+    parser.add_argument('--batch', type=int, default=16, help='batch size')
     args = parser.parse_args()
     
     is_cuda = False
@@ -271,4 +275,4 @@ if __name__ == '__main__':
     train_data, valid_data, test_data = data_loader.main(args.data)
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_gates=(not args.train_distances), parse_with_gates=(not args.parse_with_distances),
-              save_to=args.save, load_from=args.load, eval_on=args.eval_on)
+              save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch)
