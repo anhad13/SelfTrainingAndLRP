@@ -100,15 +100,15 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False):
     return numpy.mean(f1_list)
 
 
-def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0):
+def batchify(dataset, batch_size, train_gates, cuda = False, padding_idx=0):
     batches = []
     i = 0
     while i + batch_size <= len(dataset[0]):
         x = dataset[0][i:i+batch_size]
-        if use_prpn:
+        if train_gates:
             y = dataset[1][i:i+batch_size]  # [5] for gates
         else:
-            y = dataset[1][i:i+batch_size]  # distances
+            y = dataset[5][i:i+batch_size]  # distances
 
         max_len = 0
         for ex in x:
@@ -152,7 +152,7 @@ def LM_criterion(input, targets, targets_mask, ntokens):
 
 
 def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=1,
-              alpha=0., train_gates=False, parse_with_gates=True, save_to=None, load_from=None):
+              alpha=0., train_gates=False, parse_with_gates=True, save_to=None, load_from=None, eval_on='dev'):
     if save_to:
         if '/' in save_to:
             os.makedirs('/'.join(save_to.split('/')[:-1]), exist_ok=True)
@@ -202,8 +202,9 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                     distances = model.distances.transpose(1, 0)[2:-1].transpose(1, 0)
                     loss1 = ranking_loss(distances, y, mask_y)
                 loss2 = LM_criterion(output, torch.cat([x.transpose(1, 0)[1:], zeros], dim=0),
-                                    torch.cat([mask_x.transpose(1, 0)[1:], zeros], dim=0), len(vocab))
+                                     torch.cat([mask_x.transpose(1, 0)[1:], zeros], dim=0), len(vocab))
                 loss = alpha * loss1 + (1 - alpha) * loss2
+                loss = loss1
             else:
                 preds = model(x, mask_x, cuda)
                 loss = ranking_loss(preds.transpose(0, 1), y, mask_y)
@@ -216,12 +217,17 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
             count+=1
         av_loss /= len(train)
         print("Training time for epoch in sec: ", (time.time()-epoch_start_time))
-        f1 = eval_fct(model, train_data, use_prpn, parse_with_gates, cuda)
+        print('End of epoch ' + str(epoch) + '. Evaluation on ' + eval_on + '.')
+        if eval_on == 'train':
+            f1 = eval_fct(model, train_data, use_prpn, parse_with_gates, cuda)
+        elif eval_on == 'test':
+            f1 = eval_fct(model, test_data, use_prpn, parse_with_gates, cuda)
+        else:
+            f1 = eval_fct(model, valid_data, use_prpn, parse_with_gates, cuda)
         if save_to:
             print('Storing current model...')
             torch.save(model, save_to)
-        
-        print('End of epoch ' + str(epoch))
+
         print('Loss: ' + str(av_loss.data))
         print('F1: ' + str(f1))
     return None
@@ -234,6 +240,7 @@ if __name__ == '__main__':
     parser.add_argument('--load', type=str, default=None, help='path to load a model from')
     parser.add_argument('--PRPN', action='store_true',
                         help='use PRPN; otherwise, use the parser')
+    parser.add_argument('--eval_on', type=str, default='dev', help='[train|dev|test]')
     parser.add_argument('--train_distances', action='store_true',
                         help='train the distances (instead of the PRPN gate values) directly')
     parser.add_argument('--parse_with_distances', action='store_true',
@@ -254,4 +261,4 @@ if __name__ == '__main__':
     train_data, valid_data, test_data = data_loader.main(args.data)
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_gates=(not args.train_distances), parse_with_gates=(not args.parse_with_distances),
-              save_to=args.save, load_from=args.load)
+              save_to=args.save, load_from=args.load, eval_on=args.eval_on)
