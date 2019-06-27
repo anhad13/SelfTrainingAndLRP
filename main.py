@@ -133,7 +133,10 @@ def batchify(dataset, batch_size, train_gates, cuda = False, padding_idx=0):
                 mask_m = torch.cat((torch.zeros(1), torch.ones(len(repl_x[1:-1])), torch.zeros(max_len-len(repl_x[1:-1])-1)))
             else:
                 # 2 -> -1
-                mask_m = torch.cat((torch.zeros(2), torch.ones(len(repl_x[1:-1])), torch.zeros(max_len-len(repl_x[1:-1])-2)))                
+                mask_m = torch.cat((torch.zeros(2), torch.ones(len(repl_x[1:-1])), torch.zeros(max_len-len(repl_x[1:-1])-2)))
+            for_supervision_limit = torch.clamp(ex_y, 0.0, 1.0).long()
+            mask_y = for_supervision_limit * mask_y  # setting mask_y to zero for examples without supervision
+
             current_x.append(ex_x.unsqueeze(0))
             current_y.append(ex_y.unsqueeze(0))
             current_mask_x.append(mask_x.unsqueeze(0))
@@ -202,6 +205,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         av_loss = 0.
         shuffle(train)
         for (x, y, mask_x, mask_y, mask_m) in train:
+            
             optimizer.zero_grad()
             if use_prpn:
                 hidden = model.init_hidden(batch_size)
@@ -261,6 +265,7 @@ if __name__ == '__main__':
     parser.add_argument('--alpha', type=float, default=0.,
                         help='weight of the SUPERVISED loss for PRPN; 0. means UNSUPERVISED (default)')
     parser.add_argument('--batch', type=int, default=16, help='batch size')
+    parser.add_argument('--supervision_limit', type=int, default=10, help='amount examples with supervision')
     args = parser.parse_args()
     
     is_cuda = False
@@ -272,7 +277,7 @@ if __name__ == '__main__':
         torch.cuda.set_device(gpu_device)
         print("You are using CUDA.")
 
-    train_data, valid_data, test_data = data_loader.main(args.data)
+    train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit)
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_gates=(not args.train_distances), parse_with_gates=(not args.parse_with_distances),
               save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch)

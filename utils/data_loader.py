@@ -83,7 +83,7 @@ def filter_words(tree):
     return words
 
 
-def load_trees(ids, vocab=None, grow_vocab=True):
+def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1):
     '''
        This returns
        1) a list of torch.LongTensors containing the indices of all not filtered words of each sentence
@@ -95,6 +95,7 @@ def load_trees(ids, vocab=None, grow_vocab=True):
     if not vocab:
         vocab = {'<pad>': 0, '<bos>': 1, '<eos>': 2, '<unk>': 3}
     all_sents, all_trees, all_dists, all_brackets, all_words, all_gates = [], [], [], [], [], []
+    counter = 0
     for id in ids:
         #sentences = ptb.parsed_sents(id)
         ptb = BracketParseCorpusReader('', id)
@@ -119,15 +120,21 @@ def load_trees(ids, vocab=None, grow_vocab=True):
 
             all_sents.append(torch.LongTensor(idx))
             all_trees.append(treelist)
-            all_dists.append(torch.FloatTensor(list2distance(treelist)[0]))
             all_brackets.append(brackets)
             all_words.append(words)
-            all_gates.append(torch.FloatTensor(gate_values))
+            if supervision_limit > -1 and counter >= supervision_limit:
+                all_dists.append(torch.zeros_like(torch.FloatTensor(list2distance(treelist)[0])))
+                all_gates.append(torch.zeros_like(torch.FloatTensor(gate_values)))
+            else:
+                all_dists.append(torch.FloatTensor(list2distance(treelist)[0]))
+                all_gates.append(torch.FloatTensor(gate_values))
+
+            counter += 1
 
     return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, vocab
 
 
-def main(path):
+def main(path, supervision_limit=-1):
     train_file_ids = []
     valid_file_ids = []
     test_file_ids = []
@@ -144,7 +151,7 @@ def main(path):
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
 
-    train_data = load_trees(train_file_ids[:1])
+    train_data = load_trees(train_file_ids[:2], supervision_limit=supervision_limit)
     valid_data = load_trees(valid_file_ids[:1], vocab=train_data[-1], grow_vocab=True)
     test_data = load_trees(test_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
     rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
