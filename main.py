@@ -269,7 +269,7 @@ if __name__ == '__main__':
                         help='weight of the SUPERVISED loss for PRPN; 0. means UNSUPERVISED (default)')
     parser.add_argument('--batch', type=int, default=16, help='batch size')
     parser.add_argument('--epochs', type=int, default=100, help='num of epochs')
-    parser.add_argument('--supervision_limit', type=int, default=10, help='amount examples with supervision')
+    parser.add_argument('--supervision_limit', type=int, default=-1, help='amount examples with supervision')
     args = parser.parse_args()
     
     is_cuda = False
