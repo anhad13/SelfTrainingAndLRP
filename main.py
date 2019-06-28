@@ -198,7 +198,8 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
     train = batchify(train_data, batch_size, use_prpn, train_gates, cuda = cuda)
     print('Number of training batches: ' + str(len(train)))
     if cuda:
-        model.cuda()    
+        model.cuda()
+    max_f1 = -1
     for epoch in range(epochs):
         model.train()
         count = 0
@@ -237,7 +238,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                 print("Epoch: "+str(epoch)+" -- batch: "+str(count))
             count+=1
         av_loss /= len(train)
-        print("Training time for epoch in sec: ", (time.time()-epoch_start_time))
+        print("Training time for epoch in sec: ", round((time.time()-epoch_start_time), 4))
         print('End of epoch ' + str(epoch) + '. Evaluation on ' + eval_on + '.')
         if eval_on == 'train':
             f1 = eval_fct(model, train_data, use_prpn, parse_with_gates, cuda)
@@ -248,9 +249,14 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         if save_to:
             print('Storing current model...')
             torch.save(model, save_to)
+        if f1 > max_f1:
+            max_f1 = f1
+            if save_to:
+                print('Storing new best model...')
+                torch.save(model, save_to + '.best')
 
         print('Loss: ' + str(av_loss.data))
-        print('F1: ' + str(f1))
+        print('F1: ' + str(round(f1, 6)) + ' (best: ' + str(round(max_f1, 6)) + ')')
     return None
 
 
