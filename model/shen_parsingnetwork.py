@@ -48,7 +48,7 @@ class ShenParsingNetwork(nn.Module):
         pre_gates = self.gate(emb)  # bsz, 2, ntimestep
         gates = self.gate2(pre_gates)
         
-        self.distances = self.dist_ff(pre_gates.transpose(1, 2))
+        self.distances = self.dist_ff(pre_gates.transpose(1, 2)).squeeze(2)
         
         gate = gates[:, 0, :]
         gate_next = gates[:, 1, :]
