@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 #SBATCH -t48:00:00
-#SBATCH --mem=10GB
+#SBATCH --mem=32GB
 #SBATCH --gres=gpu:1
 #SBATCH --output=logs/uns.shen.%j.out
 #SBATCH --mail-type=END
