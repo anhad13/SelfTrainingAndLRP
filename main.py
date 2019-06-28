@@ -221,7 +221,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                     gates = gates.transpose(0,1)[1:-1].transpose(0,1)
                     loss1 = ranking_loss(gates, y, mask_y)
                 else:  # multi-task training on distances
-                    distances = model.distances * mask_m
+                    distances = model.distances.squeeze(2) * mask_m
                     distances = distances.transpose(0,1)[2:-1].transpose(0,1)
                     loss1 = ranking_loss(distances, y, mask_y)
                 loss2 = LM_criterion(output, torch.cat([x.transpose(1, 0)[1:], zeros], dim=0),
