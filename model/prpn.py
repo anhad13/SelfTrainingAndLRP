@@ -6,6 +6,7 @@ import torch
 import torch.nn as nn
 
 from model.parsingnetwork import ParsingNetwork
+from model.shen_parsingnetwork import ShenParsingNetwork
 from model.predictnetwork import PredictNetwork
 from model.readingnetwork import ReadingNetwork
 
@@ -16,7 +17,7 @@ class PRPN(nn.Module):
     def __init__(self, ntoken, ninp, nhid, nlayers,
                  nslots=5, nlookback=1, resolution=0.1,
                  dropout=0.4, idropout=0.4, rdropout=0.1,
-                 tie_weights=False, hard=False, res=1):
+                 tie_weights=False, hard=False, res=1, use_orig_prpn=True):
         super(PRPN, self).__init__()
         
         self.nhid = nhid
@@ -29,9 +30,16 @@ class PRPN(nn.Module):
         self.idrop = nn.Dropout(idropout)
         self.rdrop = nn.Dropout(rdropout)
         
+        self.use_orig_prpn = use_orig_prpn
+        
         # Feedforward layers
         self.encoder = nn.Embedding(ntoken, ninp)
-        self.parser = ParsingNetwork(ninp, nhid, nslots, nlookback, resolution, idropout, hard)
+        if self.use_orig_prpn:
+            print('Using the parsing network from Shen et al.')
+            self.parser = ShenParsingNetwork(ninp, nhid, nslots, nlookback, resolution, idropout, hard)
+        else:
+            print('Using a modified parsing network.')
+            self.parser = ParsingNetwork(ninp, nhid, nslots, nlookback, resolution, idropout, hard)
         self.reader = nn.ModuleList([ReadingNetwork(ninp, nhid, nslots, dropout=dropout, idropout=idropout), ] +
                                     [ReadingNetwork(nhid, nhid, nslots, dropout=idropout, idropout=idropout)
                                      for i in range(nlayers - 1)])

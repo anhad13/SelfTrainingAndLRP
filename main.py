@@ -164,7 +164,8 @@ def LM_criterion(input, targets, targets_mask, ntokens):
 
 
 def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=3,
-              alpha=0., train_gates=False, parse_with_gates=True, save_to=None, load_from=None, eval_on='dev'):
+              alpha=0., train_gates=False, parse_with_gates=True, save_to=None, load_from=None, eval_on='dev',
+              use_orig_prpn=False):
     if save_to:
         if '/' in save_to:
             os.makedirs('/'.join(save_to.split('/')[:-1]), exist_ok=True)
@@ -181,7 +182,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         else:
             info += '\nUsing distances for parsing.'
         print(info)
-        model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.0, False, False, 0)
+        model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.0, False, False, 0, use_orig_prpn=use_orig_prpn)
     else:
         print('Using supervised parser.')
         model = Parser(nemb, nhid, len(vocab))
@@ -260,6 +261,8 @@ if __name__ == '__main__':
     parser.add_argument('--load', type=str, default=None, help='path to load a model from')
     parser.add_argument('--PRPN', action='store_true',
                         help='use PRPN; otherwise, use the parser')
+    parser.add_argument('--shen', action='store_true',
+                        help='use parsing network from Shen et al.')
     parser.add_argument('--eval_on', type=str, default='dev', help='[train|dev|test]')
     parser.add_argument('--train_distances', action='store_true',
                         help='train the distances (instead of the PRPN gate values) directly')
@@ -284,4 +287,5 @@ if __name__ == '__main__':
     train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit)
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_gates=(not args.train_distances), parse_with_gates=(not args.parse_with_distances),
-              save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs)
+              save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs,
+              use_orig_prpn=args.shen)
