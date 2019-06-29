@@ -293,10 +293,14 @@ if __name__ == '__main__':
         print('Loading pretrained model from ' + args.load + '.')
         outfile = args.load + '_output_' + str(time.time())
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        model = torch.load(load_from, map_location=device) 
-        if eval_on == 'train':
+        model = torch.load(args.load, map_location=device) 
+        parse_with_gates = (not args.parse_with_distances)
+        use_prpn = args.PRPN
+        cuda = torch.cuda.is_available()
+        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit) 
+        if args.eval_on == 'train':
             f1 = eval_fct(model, train_data, use_prpn, parse_with_gates, cuda, outfile)
-        elif eval_on == 'test':
+        elif args.eval_on == 'test':
             f1 = eval_fct(model, test_data, use_prpn, parse_with_gates, cuda, outfile)
         else:
             f1 = eval_fct(model, valid_data, use_prpn, parse_with_gates, cuda, outfile)
