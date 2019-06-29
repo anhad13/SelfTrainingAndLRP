@@ -12,6 +12,7 @@ from model.parser import Parser
 from model.prpn import PRPN
 from utils.data_loader import build_tree, get_brackets
 import torch.nn as nn
+import pickle
 
 
 def ranking_loss(pred, gold, mask):
@@ -53,11 +54,12 @@ def build_tree_prpn(depth, sen):
     return parse_tree
 
 
-def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False):
+def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file=None):
     model.eval()
     prec_list = []
     reca_list = []
     f1_list = []
+    outf = []
     for i in range(len(dataset[0])):
         #for i in range(1):
         x = dataset[0][i]
@@ -96,7 +98,11 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False):
         prec_list.append(prec)
         reca_list.append(reca)
         f1_list.append(f1)
+        outf.append({'f1': f1, 'example': sent, 'pred_tree': pred_tree})
     
+    if output_file:
+        f = open(output_file, "wb")
+        pickle.dump(outf, f)
     # Sentence-level F1.
     return numpy.mean(f1_list)
 
@@ -279,8 +285,23 @@ if __name__ == '__main__':
     parser.add_argument('--batch', type=int, default=16, help='batch size')
     parser.add_argument('--epochs', type=int, default=100, help='num of epochs')
     parser.add_argument('--supervision_limit', type=int, default=-1, help='amount examples with supervision')
+    parser.add_argument('--eval_only', action='store_true', help='should it do only eval')
     args = parser.parse_args()
     
+    if args.eval_only:
+        assert args.load != None
+        print('Loading pretrained model from ' + args.load + '.')
+        outfile = args.load + '_output_' + str(time.time())
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        model = torch.load(load_from, map_location=device) 
+        if eval_on == 'train':
+            f1 = eval_fct(model, train_data, use_prpn, parse_with_gates, cuda, outfile)
+        elif eval_on == 'test':
+            f1 = eval_fct(model, test_data, use_prpn, parse_with_gates, cuda, outfile)
+        else:
+            f1 = eval_fct(model, valid_data, use_prpn, parse_with_gates, cuda, outfile)
+        print(f1)
+        exit()
     is_cuda = False
     gpu_device = 0
     if not torch.cuda.is_available():
