@@ -275,7 +275,7 @@ if __name__ == '__main__':
     parser.add_argument('--shen', action='store_true',
                         help='use parsing network from Shen et al.')
     parser.add_argument('--eval_on', type=str, default='dev', help='[train|dev|test]')
-    parser.add_argument('--train_beta', type=float, default=1.0,
+    parser.add_argument('--beta', type=float, default=1.0,
                         help='0: train distances, 1: train gates')
     parser.add_argument('--parse_with_distances', action='store_true',
                         help='use distances to build the parse tree for eval (instead of gate values)')
@@ -297,6 +297,6 @@ if __name__ == '__main__':
 
     train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit)
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
-              train_beta = args.train_beta, parse_with_gates=(not args.parse_with_distances),
+              train_beta = args.beta, parse_with_gates=(not args.parse_with_distances),
               save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs,
               use_orig_prpn=args.shen)
