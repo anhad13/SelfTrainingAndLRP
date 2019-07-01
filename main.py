@@ -284,7 +284,7 @@ if __name__ == '__main__':
     parser.add_argument('--batch', type=int, default=16, help='batch size')
     parser.add_argument('--epochs', type=int, default=100, help='num of epochs')
     parser.add_argument('--supervision_limit', type=int, default=-1, help='amount examples with supervision')
-    parser.add_argument('--eval_without_training', action='store_true', help='should it do only eval')
+    parser.add_argument('--eval_only', action='store_true', help='flag for eval without training')
     args = parser.parse_args()
     is_cuda = False
     gpu_device = 0
@@ -295,7 +295,7 @@ if __name__ == '__main__':
         torch.cuda.set_device(gpu_device)
         print("You are using CUDA.")
 
-    if args.eval_without_training:
+    if args.eval_only:
         assert args.load != None
         print('Loading pretrained model from ' + args.load + '.')
         outfile = args.load + '_output_' + str(time.time())
