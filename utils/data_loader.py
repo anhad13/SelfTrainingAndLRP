@@ -83,7 +83,7 @@ def filter_words(tree):
     return words
 
 
-def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1):
+def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervised_model=False):
     '''
        This returns
        1) a list of torch.LongTensors containing the indices of all not filtered words of each sentence
@@ -118,23 +118,27 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1):
             gate_values = tree_to_gates(treelist)
             brackets = get_brackets(treelist)[0]
 
-            all_sents.append(torch.LongTensor(idx))
-            all_trees.append(treelist)
-            all_brackets.append(brackets)
-            all_words.append(words)
             if supervision_limit > -1 and counter >= supervision_limit:
+                if supervised_model:
+                    break
                 all_dists.append(torch.zeros_like(torch.FloatTensor(list2distance(treelist)[0])))
                 all_gates.append(torch.zeros_like(torch.FloatTensor(gate_values)))
             else:
                 all_dists.append(torch.FloatTensor(list2distance(treelist)[0]))
                 all_gates.append(torch.FloatTensor(gate_values))
+            all_sents.append(torch.LongTensor(idx))
+            all_trees.append(treelist)
+            all_brackets.append(brackets)
+            all_words.append(words)
 
             counter += 1
+        if supervision_limit > -1 and counter >= supervision_limit and supervised_model:
+            break
 
     return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, vocab
 
 
-def main(path, supervision_limit=-1):
+def main(path, supervision_limit=-1, supervised_model=False):
     train_file_ids = []
     valid_file_ids = []
     test_file_ids = []
@@ -151,9 +155,9 @@ def main(path, supervision_limit=-1):
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
 
-    train_data = load_trees(train_file_ids, supervision_limit=supervision_limit)
+    train_data = load_trees(train_file_ids, supervision_limit=supervision_limit, supervised_model=supervised_model)
     valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab=True)
-    test_data = load_trees(test_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
+    test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False)
     rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) + len(rest_data[0])
     print('Number of sentences loaded: ' + str(number_sentences))
