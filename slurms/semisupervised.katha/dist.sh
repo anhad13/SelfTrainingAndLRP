@@ -2,7 +2,7 @@
 #
 #SBATCH -t48:00:00
 #SBATCH --mem=40GB
-#SBATCH --output=logs/dist
+#SBATCH --output=logs/dist_%j
 #SBATCH --mail-type=END
 #SBATCH --mail-user=kann@nyu.edu
 

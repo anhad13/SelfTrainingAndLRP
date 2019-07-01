@@ -2,7 +2,7 @@
 #
 #SBATCH -t48:00:00
 #SBATCH --mem=40GB
-#SBATCH --output=logs/semisupervised.katha.g+d
+#SBATCH --output=logs/semisupervised.katha.g+d_%j
 #SBATCH --mail-type=END
 #SBATCH --mail-user=kann@nyu.edu
 
