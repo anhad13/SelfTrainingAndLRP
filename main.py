@@ -234,7 +234,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                 loss = alpha * loss1 + (1 - alpha) * loss2
             else:
                 preds = model(x, mask_x, cuda)
-                loss = ranking_loss(preds.transpose(0, 1), y, mask_y)
+                loss = ranking_loss(preds.transpose(0, 1), yd, mask_yd)
             av_loss += loss
             loss.backward()
             torch.nn.utils.clip_grad_norm(model.parameters(), 1.)
