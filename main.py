@@ -12,6 +12,7 @@ from model.parser import Parser
 from model.prpn import PRPN
 from utils.data_loader import build_tree, get_brackets
 import torch.nn as nn
+import pickle
 
 
 def ranking_loss(pred, gold, mask):
@@ -53,11 +54,12 @@ def build_tree_prpn(depth, sen):
     return parse_tree
 
 
-def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False):
+def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file=None):
     model.eval()
     prec_list = []
     reca_list = []
     f1_list = []
+    outf = []
     for i in range(len(dataset[0])):
         #for i in range(1):
         x = dataset[0][i]
@@ -90,13 +92,16 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False):
         reca = float(len(overlap)) / (len(gold_brackets) + 1e-8)
         if len(gold_brackets) == 0:
             reca = 1.
-            if len(pred_brackets) == 0:
+            if len(pred_brackets) == 0: 
                 prec = 1.
         f1 = 2 * prec * reca / (prec + reca + 1e-8)
         prec_list.append(prec)
         reca_list.append(reca)
         f1_list.append(f1)
-    
+        outf.append({'f1': f1, 'example': sent, 'pred_tree': pred_tree, 'preds': preds, 'parse_with_gates': parse_with_gates, 'gold': gold_brackets})    
+    if output_file:
+        f = open(output_file, "wb")
+        pickle.dump(outf, f)
     # Sentence-level F1.
     return numpy.mean(f1_list)
 
@@ -279,8 +284,8 @@ if __name__ == '__main__':
     parser.add_argument('--batch', type=int, default=16, help='batch size')
     parser.add_argument('--epochs', type=int, default=100, help='num of epochs')
     parser.add_argument('--supervision_limit', type=int, default=-1, help='amount examples with supervision')
+    parser.add_argument('--eval_only', action='store_true', help='flag for eval without training')
     args = parser.parse_args()
-    
     is_cuda = False
     gpu_device = 0
     if not torch.cuda.is_available():
@@ -290,6 +295,21 @@ if __name__ == '__main__':
         torch.cuda.set_device(gpu_device)
         print("You are using CUDA.")
 
+    if args.eval_only:
+        assert args.load != None
+        print('Loading pretrained model from ' + args.load + '.')
+        outfile = args.load + '_output_' + str(time.time())
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        model = torch.load(args.load, map_location=device) 
+        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit) 
+        if args.eval_on == 'train':
+            f1 = eval_fct(model, train_data, args.PRPN, (not args.parse_with_distances), is_cuda, outfile)
+        elif args.eval_on == 'test':
+            f1 = eval_fct(model, test_data, args.PRPN, (not args.parse_with_distances), is_cuda, outfile)
+        else:
+            f1 = eval_fct(model, valid_data, args.PRPN, (not args.parse_with_distances), is_cuda, outfile)
+        print("F1: " + str(f1))
+        exit()
     train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit)
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_gates=(not args.train_distances), parse_with_gates=(not args.parse_with_distances),
