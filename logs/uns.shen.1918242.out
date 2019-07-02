@@ -1,0 +1,921 @@
+You are using CUDA.
+Number of sentences loaded: 41479
+Using PRPN, unsupervised.
+Using gate values for parsing.
+Using the parsing network from Shen et al.
+Number of training batches: 2481
+/beegfs/kk120/anaconda3/lib/python3.7/site-packages/torch/nn/functional.py:1386: UserWarning: nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.
+  warnings.warn("nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.")
+/beegfs/kk120/anaconda3/lib/python3.7/site-packages/torch/nn/functional.py:1374: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+main.py:235: UserWarning: torch.nn.utils.clip_grad_norm is now deprecated in favor of torch.nn.utils.clip_grad_norm_.
+  torch.nn.utils.clip_grad_norm(model.parameters(), 1.)
+Epoch: 0 -- batch: 0
+Epoch: 0 -- batch: 100
+Epoch: 0 -- batch: 200
+Epoch: 0 -- batch: 300
+Epoch: 0 -- batch: 400
+Epoch: 0 -- batch: 500
+Epoch: 0 -- batch: 600
+Epoch: 0 -- batch: 700
+Epoch: 0 -- batch: 800
+Epoch: 0 -- batch: 900
+Epoch: 0 -- batch: 1000
+Epoch: 0 -- batch: 1100
+Epoch: 0 -- batch: 1200
+Epoch: 0 -- batch: 1300
+Epoch: 0 -- batch: 1400
+Epoch: 0 -- batch: 1500
+Epoch: 0 -- batch: 1600
+Epoch: 0 -- batch: 1700
+Epoch: 0 -- batch: 1800
+Epoch: 0 -- batch: 1900
+Epoch: 0 -- batch: 2000
+Epoch: 0 -- batch: 2100
+Epoch: 0 -- batch: 2200
+Epoch: 0 -- batch: 2300
+Epoch: 0 -- batch: 2400
+Training time for epoch in sec:  2390.1554
+End of epoch 0. Evaluation on dev.
+Storing current model...
+Storing new best model...
+Loss: tensor(6.6771, device='cuda:0')
+F1: 0.402665 (best: 0.402665)
+Epoch: 1 -- batch: 0
+Epoch: 1 -- batch: 100
+Epoch: 1 -- batch: 200
+Epoch: 1 -- batch: 300
+Epoch: 1 -- batch: 400
+Epoch: 1 -- batch: 500
+Epoch: 1 -- batch: 600
+Epoch: 1 -- batch: 700
+Epoch: 1 -- batch: 800
+Epoch: 1 -- batch: 900
+Epoch: 1 -- batch: 1000
+Epoch: 1 -- batch: 1100
+Epoch: 1 -- batch: 1200
+Epoch: 1 -- batch: 1300
+Epoch: 1 -- batch: 1400
+Epoch: 1 -- batch: 1500
+Epoch: 1 -- batch: 1600
+Epoch: 1 -- batch: 1700
+Epoch: 1 -- batch: 1800
+Epoch: 1 -- batch: 1900
+Epoch: 1 -- batch: 2000
+Epoch: 1 -- batch: 2100
+Epoch: 1 -- batch: 2200
+Epoch: 1 -- batch: 2300
+Epoch: 1 -- batch: 2400
+Training time for epoch in sec:  2543.1392
+End of epoch 1. Evaluation on dev.
+Storing current model...
+Storing new best model...
+Loss: tensor(5.8752, device='cuda:0')
+F1: 0.447546 (best: 0.447546)
+Epoch: 2 -- batch: 0
+Epoch: 2 -- batch: 100
+Epoch: 2 -- batch: 200
+Epoch: 2 -- batch: 300
+Epoch: 2 -- batch: 400
+Epoch: 2 -- batch: 500
+Epoch: 2 -- batch: 600
+Epoch: 2 -- batch: 700
+Epoch: 2 -- batch: 800
+Epoch: 2 -- batch: 900
+Epoch: 2 -- batch: 1000
+Epoch: 2 -- batch: 1100
+Epoch: 2 -- batch: 1200
+Epoch: 2 -- batch: 1300
+Epoch: 2 -- batch: 1400
+Epoch: 2 -- batch: 1500
+Epoch: 2 -- batch: 1600
+Epoch: 2 -- batch: 1700
+Epoch: 2 -- batch: 1800
+Epoch: 2 -- batch: 1900
+Epoch: 2 -- batch: 2000
+Epoch: 2 -- batch: 2100
+Epoch: 2 -- batch: 2200
+Epoch: 2 -- batch: 2300
+Epoch: 2 -- batch: 2400
+Training time for epoch in sec:  2553.1064
+End of epoch 2. Evaluation on dev.
+Storing current model...
+Loss: tensor(5.5470, device='cuda:0')
+F1: 0.444391 (best: 0.447546)
+Epoch: 3 -- batch: 0
+Epoch: 3 -- batch: 100
+Epoch: 3 -- batch: 200
+Epoch: 3 -- batch: 300
+Epoch: 3 -- batch: 400
+Epoch: 3 -- batch: 500
+Epoch: 3 -- batch: 600
+Epoch: 3 -- batch: 700
+Epoch: 3 -- batch: 800
+Epoch: 3 -- batch: 900
+Epoch: 3 -- batch: 1000
+Epoch: 3 -- batch: 1100
+Epoch: 3 -- batch: 1200
+Epoch: 3 -- batch: 1300
+Epoch: 3 -- batch: 1400
+Epoch: 3 -- batch: 1500
+Epoch: 3 -- batch: 1600
+Epoch: 3 -- batch: 1700
+Epoch: 3 -- batch: 1800
+Epoch: 3 -- batch: 1900
+Epoch: 3 -- batch: 2000
+Epoch: 3 -- batch: 2100
+Epoch: 3 -- batch: 2200
+Epoch: 3 -- batch: 2300
+Epoch: 3 -- batch: 2400
+Training time for epoch in sec:  2547.4165
+End of epoch 3. Evaluation on dev.
+Storing current model...
+Storing new best model...
+Loss: tensor(5.3397, device='cuda:0')
+F1: 0.46978 (best: 0.46978)
+Epoch: 4 -- batch: 0
+Epoch: 4 -- batch: 100
+Epoch: 4 -- batch: 200
+Epoch: 4 -- batch: 300
+Epoch: 4 -- batch: 400
+Epoch: 4 -- batch: 500
+Epoch: 4 -- batch: 600
+Epoch: 4 -- batch: 700
+Epoch: 4 -- batch: 800
+Epoch: 4 -- batch: 900
+Epoch: 4 -- batch: 1000
+Epoch: 4 -- batch: 1100
+Epoch: 4 -- batch: 1200
+Epoch: 4 -- batch: 1300
+Epoch: 4 -- batch: 1400
+Epoch: 4 -- batch: 1500
+Epoch: 4 -- batch: 1600
+Epoch: 4 -- batch: 1700
+Epoch: 4 -- batch: 1800
+Epoch: 4 -- batch: 1900
+Epoch: 4 -- batch: 2000
+Epoch: 4 -- batch: 2100
+Epoch: 4 -- batch: 2200
+Epoch: 4 -- batch: 2300
+Epoch: 4 -- batch: 2400
+Training time for epoch in sec:  2546.4633
+End of epoch 4. Evaluation on dev.
+Storing current model...
+Storing new best model...
+Loss: tensor(5.1811, device='cuda:0')
+F1: 0.474017 (best: 0.474017)
+Epoch: 5 -- batch: 0
+Epoch: 5 -- batch: 100
+Epoch: 5 -- batch: 200
+Epoch: 5 -- batch: 300
+Epoch: 5 -- batch: 400
+Epoch: 5 -- batch: 500
+Epoch: 5 -- batch: 600
+Epoch: 5 -- batch: 700
+Epoch: 5 -- batch: 800
+Epoch: 5 -- batch: 900
+Epoch: 5 -- batch: 1000
+Epoch: 5 -- batch: 1100
+Epoch: 5 -- batch: 1200
+Epoch: 5 -- batch: 1300
+Epoch: 5 -- batch: 1400
+Epoch: 5 -- batch: 1500
+Epoch: 5 -- batch: 1600
+Epoch: 5 -- batch: 1700
+Epoch: 5 -- batch: 1800
+Epoch: 5 -- batch: 1900
+Epoch: 5 -- batch: 2000
+Epoch: 5 -- batch: 2100
+Epoch: 5 -- batch: 2200
+Epoch: 5 -- batch: 2300
+Epoch: 5 -- batch: 2400
+Training time for epoch in sec:  2549.0691
+End of epoch 5. Evaluation on dev.
+Storing current model...
+Storing new best model...
+Loss: tensor(5.0545, device='cuda:0')
+F1: 0.479149 (best: 0.479149)
+Epoch: 6 -- batch: 0
+Epoch: 6 -- batch: 100
+Epoch: 6 -- batch: 200
+Epoch: 6 -- batch: 300
+Epoch: 6 -- batch: 400
+Epoch: 6 -- batch: 500
+Epoch: 6 -- batch: 600
+Epoch: 6 -- batch: 700
+Epoch: 6 -- batch: 800
+Epoch: 6 -- batch: 900
+Epoch: 6 -- batch: 1000
+Epoch: 6 -- batch: 1100
+Epoch: 6 -- batch: 1200
+Epoch: 6 -- batch: 1300
+Epoch: 6 -- batch: 1400
+Epoch: 6 -- batch: 1500
+Epoch: 6 -- batch: 1600
+Epoch: 6 -- batch: 1700
+Epoch: 6 -- batch: 1800
+Epoch: 6 -- batch: 1900
+Epoch: 6 -- batch: 2000
+Epoch: 6 -- batch: 2100
+Epoch: 6 -- batch: 2200
+Epoch: 6 -- batch: 2300
+Epoch: 6 -- batch: 2400
+Training time for epoch in sec:  2546.3529
+End of epoch 6. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.9476, device='cuda:0')
+F1: 0.472883 (best: 0.479149)
+Epoch: 7 -- batch: 0
+Epoch: 7 -- batch: 100
+Epoch: 7 -- batch: 200
+Epoch: 7 -- batch: 300
+Epoch: 7 -- batch: 400
+Epoch: 7 -- batch: 500
+Epoch: 7 -- batch: 600
+Epoch: 7 -- batch: 700
+Epoch: 7 -- batch: 800
+Epoch: 7 -- batch: 900
+Epoch: 7 -- batch: 1000
+Epoch: 7 -- batch: 1100
+Epoch: 7 -- batch: 1200
+Epoch: 7 -- batch: 1300
+Epoch: 7 -- batch: 1400
+Epoch: 7 -- batch: 1500
+Epoch: 7 -- batch: 1600
+Epoch: 7 -- batch: 1700
+Epoch: 7 -- batch: 1800
+Epoch: 7 -- batch: 1900
+Epoch: 7 -- batch: 2000
+Epoch: 7 -- batch: 2100
+Epoch: 7 -- batch: 2200
+Epoch: 7 -- batch: 2300
+Epoch: 7 -- batch: 2400
+Training time for epoch in sec:  2546.8752
+End of epoch 7. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.8518, device='cuda:0')
+F1: 0.472074 (best: 0.479149)
+Epoch: 8 -- batch: 0
+Epoch: 8 -- batch: 100
+Epoch: 8 -- batch: 200
+Epoch: 8 -- batch: 300
+Epoch: 8 -- batch: 400
+Epoch: 8 -- batch: 500
+Epoch: 8 -- batch: 600
+Epoch: 8 -- batch: 700
+Epoch: 8 -- batch: 800
+Epoch: 8 -- batch: 900
+Epoch: 8 -- batch: 1000
+Epoch: 8 -- batch: 1100
+Epoch: 8 -- batch: 1200
+Epoch: 8 -- batch: 1300
+Epoch: 8 -- batch: 1400
+Epoch: 8 -- batch: 1500
+Epoch: 8 -- batch: 1600
+Epoch: 8 -- batch: 1700
+Epoch: 8 -- batch: 1800
+Epoch: 8 -- batch: 1900
+Epoch: 8 -- batch: 2000
+Epoch: 8 -- batch: 2100
+Epoch: 8 -- batch: 2200
+Epoch: 8 -- batch: 2300
+Epoch: 8 -- batch: 2400
+Training time for epoch in sec:  2545.9455
+End of epoch 8. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.7693, device='cuda:0')
+F1: 0.476563 (best: 0.479149)
+Epoch: 9 -- batch: 0
+Epoch: 9 -- batch: 100
+Epoch: 9 -- batch: 200
+Epoch: 9 -- batch: 300
+Epoch: 9 -- batch: 400
+Epoch: 9 -- batch: 500
+Epoch: 9 -- batch: 600
+Epoch: 9 -- batch: 700
+Epoch: 9 -- batch: 800
+Epoch: 9 -- batch: 900
+Epoch: 9 -- batch: 1000
+Epoch: 9 -- batch: 1100
+Epoch: 9 -- batch: 1200
+Epoch: 9 -- batch: 1300
+Epoch: 9 -- batch: 1400
+Epoch: 9 -- batch: 1500
+Epoch: 9 -- batch: 1600
+Epoch: 9 -- batch: 1700
+Epoch: 9 -- batch: 1800
+Epoch: 9 -- batch: 1900
+Epoch: 9 -- batch: 2000
+Epoch: 9 -- batch: 2100
+Epoch: 9 -- batch: 2200
+Epoch: 9 -- batch: 2300
+Epoch: 9 -- batch: 2400
+Training time for epoch in sec:  2548.156
+End of epoch 9. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.6940, device='cuda:0')
+F1: 0.476826 (best: 0.479149)
+Epoch: 10 -- batch: 0
+Epoch: 10 -- batch: 100
+Epoch: 10 -- batch: 200
+Epoch: 10 -- batch: 300
+Epoch: 10 -- batch: 400
+Epoch: 10 -- batch: 500
+Epoch: 10 -- batch: 600
+Epoch: 10 -- batch: 700
+Epoch: 10 -- batch: 800
+Epoch: 10 -- batch: 900
+Epoch: 10 -- batch: 1000
+Epoch: 10 -- batch: 1100
+Epoch: 10 -- batch: 1200
+Epoch: 10 -- batch: 1300
+Epoch: 10 -- batch: 1400
+Epoch: 10 -- batch: 1500
+Epoch: 10 -- batch: 1600
+Epoch: 10 -- batch: 1700
+Epoch: 10 -- batch: 1800
+Epoch: 10 -- batch: 1900
+Epoch: 10 -- batch: 2000
+Epoch: 10 -- batch: 2100
+Epoch: 10 -- batch: 2200
+Epoch: 10 -- batch: 2300
+Epoch: 10 -- batch: 2400
+Training time for epoch in sec:  2547.7058
+End of epoch 10. Evaluation on dev.
+Storing current model...
+Storing new best model...
+Loss: tensor(4.6266, device='cuda:0')
+F1: 0.480069 (best: 0.480069)
+Epoch: 11 -- batch: 0
+Epoch: 11 -- batch: 100
+Epoch: 11 -- batch: 200
+Epoch: 11 -- batch: 300
+Epoch: 11 -- batch: 400
+Epoch: 11 -- batch: 500
+Epoch: 11 -- batch: 600
+Epoch: 11 -- batch: 700
+Epoch: 11 -- batch: 800
+Epoch: 11 -- batch: 900
+Epoch: 11 -- batch: 1000
+Epoch: 11 -- batch: 1100
+Epoch: 11 -- batch: 1200
+Epoch: 11 -- batch: 1300
+Epoch: 11 -- batch: 1400
+Epoch: 11 -- batch: 1500
+Epoch: 11 -- batch: 1600
+Epoch: 11 -- batch: 1700
+Epoch: 11 -- batch: 1800
+Epoch: 11 -- batch: 1900
+Epoch: 11 -- batch: 2000
+Epoch: 11 -- batch: 2100
+Epoch: 11 -- batch: 2200
+Epoch: 11 -- batch: 2300
+Epoch: 11 -- batch: 2400
+Training time for epoch in sec:  2547.5703
+End of epoch 11. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.5660, device='cuda:0')
+F1: 0.479486 (best: 0.480069)
+Epoch: 12 -- batch: 0
+Epoch: 12 -- batch: 100
+Epoch: 12 -- batch: 200
+Epoch: 12 -- batch: 300
+Epoch: 12 -- batch: 400
+Epoch: 12 -- batch: 500
+Epoch: 12 -- batch: 600
+Epoch: 12 -- batch: 700
+Epoch: 12 -- batch: 800
+Epoch: 12 -- batch: 900
+Epoch: 12 -- batch: 1000
+Epoch: 12 -- batch: 1100
+Epoch: 12 -- batch: 1200
+Epoch: 12 -- batch: 1300
+Epoch: 12 -- batch: 1400
+Epoch: 12 -- batch: 1500
+Epoch: 12 -- batch: 1600
+Epoch: 12 -- batch: 1700
+Epoch: 12 -- batch: 1800
+Epoch: 12 -- batch: 1900
+Epoch: 12 -- batch: 2000
+Epoch: 12 -- batch: 2100
+Epoch: 12 -- batch: 2200
+Epoch: 12 -- batch: 2300
+Epoch: 12 -- batch: 2400
+Training time for epoch in sec:  2547.0418
+End of epoch 12. Evaluation on dev.
+Storing current model...
+Storing new best model...
+Loss: tensor(4.5121, device='cuda:0')
+F1: 0.491363 (best: 0.491363)
+Epoch: 13 -- batch: 0
+Epoch: 13 -- batch: 100
+Epoch: 13 -- batch: 200
+Epoch: 13 -- batch: 300
+Epoch: 13 -- batch: 400
+Epoch: 13 -- batch: 500
+Epoch: 13 -- batch: 600
+Epoch: 13 -- batch: 700
+Epoch: 13 -- batch: 800
+Epoch: 13 -- batch: 900
+Epoch: 13 -- batch: 1000
+Epoch: 13 -- batch: 1100
+Epoch: 13 -- batch: 1200
+Epoch: 13 -- batch: 1300
+Epoch: 13 -- batch: 1400
+Epoch: 13 -- batch: 1500
+Epoch: 13 -- batch: 1600
+Epoch: 13 -- batch: 1700
+Epoch: 13 -- batch: 1800
+Epoch: 13 -- batch: 1900
+Epoch: 13 -- batch: 2000
+Epoch: 13 -- batch: 2100
+Epoch: 13 -- batch: 2200
+Epoch: 13 -- batch: 2300
+Epoch: 13 -- batch: 2400
+Training time for epoch in sec:  2547.775
+End of epoch 13. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.4580, device='cuda:0')
+F1: 0.482345 (best: 0.491363)
+Epoch: 14 -- batch: 0
+Epoch: 14 -- batch: 100
+Epoch: 14 -- batch: 200
+Epoch: 14 -- batch: 300
+Epoch: 14 -- batch: 400
+Epoch: 14 -- batch: 500
+Epoch: 14 -- batch: 600
+Epoch: 14 -- batch: 700
+Epoch: 14 -- batch: 800
+Epoch: 14 -- batch: 900
+Epoch: 14 -- batch: 1000
+Epoch: 14 -- batch: 1100
+Epoch: 14 -- batch: 1200
+Epoch: 14 -- batch: 1300
+Epoch: 14 -- batch: 1400
+Epoch: 14 -- batch: 1500
+Epoch: 14 -- batch: 1600
+Epoch: 14 -- batch: 1700
+Epoch: 14 -- batch: 1800
+Epoch: 14 -- batch: 1900
+Epoch: 14 -- batch: 2000
+Epoch: 14 -- batch: 2100
+Epoch: 14 -- batch: 2200
+Epoch: 14 -- batch: 2300
+Epoch: 14 -- batch: 2400
+Training time for epoch in sec:  2547.1062
+End of epoch 14. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.4129, device='cuda:0')
+F1: 0.480876 (best: 0.491363)
+Epoch: 15 -- batch: 0
+Epoch: 15 -- batch: 100
+Epoch: 15 -- batch: 200
+Epoch: 15 -- batch: 300
+Epoch: 15 -- batch: 400
+Epoch: 15 -- batch: 500
+Epoch: 15 -- batch: 600
+Epoch: 15 -- batch: 700
+Epoch: 15 -- batch: 800
+Epoch: 15 -- batch: 900
+Epoch: 15 -- batch: 1000
+Epoch: 15 -- batch: 1100
+Epoch: 15 -- batch: 1200
+Epoch: 15 -- batch: 1300
+Epoch: 15 -- batch: 1400
+Epoch: 15 -- batch: 1500
+Epoch: 15 -- batch: 1600
+Epoch: 15 -- batch: 1700
+Epoch: 15 -- batch: 1800
+Epoch: 15 -- batch: 1900
+Epoch: 15 -- batch: 2000
+Epoch: 15 -- batch: 2100
+Epoch: 15 -- batch: 2200
+Epoch: 15 -- batch: 2300
+Epoch: 15 -- batch: 2400
+Training time for epoch in sec:  2548.1918
+End of epoch 15. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.3683, device='cuda:0')
+F1: 0.488003 (best: 0.491363)
+Epoch: 16 -- batch: 0
+Epoch: 16 -- batch: 100
+Epoch: 16 -- batch: 200
+Epoch: 16 -- batch: 300
+Epoch: 16 -- batch: 400
+Epoch: 16 -- batch: 500
+Epoch: 16 -- batch: 600
+Epoch: 16 -- batch: 700
+Epoch: 16 -- batch: 800
+Epoch: 16 -- batch: 900
+Epoch: 16 -- batch: 1000
+Epoch: 16 -- batch: 1100
+Epoch: 16 -- batch: 1200
+Epoch: 16 -- batch: 1300
+Epoch: 16 -- batch: 1400
+Epoch: 16 -- batch: 1500
+Epoch: 16 -- batch: 1600
+Epoch: 16 -- batch: 1700
+Epoch: 16 -- batch: 1800
+Epoch: 16 -- batch: 1900
+Epoch: 16 -- batch: 2000
+Epoch: 16 -- batch: 2100
+Epoch: 16 -- batch: 2200
+Epoch: 16 -- batch: 2300
+Epoch: 16 -- batch: 2400
+Training time for epoch in sec:  2546.5369
+End of epoch 16. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.3263, device='cuda:0')
+F1: 0.490168 (best: 0.491363)
+Epoch: 17 -- batch: 0
+Epoch: 17 -- batch: 100
+Epoch: 17 -- batch: 200
+Epoch: 17 -- batch: 300
+Epoch: 17 -- batch: 400
+Epoch: 17 -- batch: 500
+Epoch: 17 -- batch: 600
+Epoch: 17 -- batch: 700
+Epoch: 17 -- batch: 800
+Epoch: 17 -- batch: 900
+Epoch: 17 -- batch: 1000
+Epoch: 17 -- batch: 1100
+Epoch: 17 -- batch: 1200
+Epoch: 17 -- batch: 1300
+Epoch: 17 -- batch: 1400
+Epoch: 17 -- batch: 1500
+Epoch: 17 -- batch: 1600
+Epoch: 17 -- batch: 1700
+Epoch: 17 -- batch: 1800
+Epoch: 17 -- batch: 1900
+Epoch: 17 -- batch: 2000
+Epoch: 17 -- batch: 2100
+Epoch: 17 -- batch: 2200
+Epoch: 17 -- batch: 2300
+Epoch: 17 -- batch: 2400
+Training time for epoch in sec:  2543.2937
+End of epoch 17. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.2903, device='cuda:0')
+F1: 0.48898 (best: 0.491363)
+Epoch: 18 -- batch: 0
+Epoch: 18 -- batch: 100
+Epoch: 18 -- batch: 200
+Epoch: 18 -- batch: 300
+Epoch: 18 -- batch: 400
+Epoch: 18 -- batch: 500
+Epoch: 18 -- batch: 600
+Epoch: 18 -- batch: 700
+Epoch: 18 -- batch: 800
+Epoch: 18 -- batch: 900
+Epoch: 18 -- batch: 1000
+Epoch: 18 -- batch: 1100
+Epoch: 18 -- batch: 1200
+Epoch: 18 -- batch: 1300
+Epoch: 18 -- batch: 1400
+Epoch: 18 -- batch: 1500
+Epoch: 18 -- batch: 1600
+Epoch: 18 -- batch: 1700
+Epoch: 18 -- batch: 1800
+Epoch: 18 -- batch: 1900
+Epoch: 18 -- batch: 2000
+Epoch: 18 -- batch: 2100
+Epoch: 18 -- batch: 2200
+Epoch: 18 -- batch: 2300
+Epoch: 18 -- batch: 2400
+Training time for epoch in sec:  2534.8088
+End of epoch 18. Evaluation on dev.
+Storing current model...
+Storing new best model...
+Loss: tensor(4.2539, device='cuda:0')
+F1: 0.493256 (best: 0.493256)
+Epoch: 19 -- batch: 0
+Epoch: 19 -- batch: 100
+Epoch: 19 -- batch: 200
+Epoch: 19 -- batch: 300
+Epoch: 19 -- batch: 400
+Epoch: 19 -- batch: 500
+Epoch: 19 -- batch: 600
+Epoch: 19 -- batch: 700
+Epoch: 19 -- batch: 800
+Epoch: 19 -- batch: 900
+Epoch: 19 -- batch: 1000
+Epoch: 19 -- batch: 1100
+Epoch: 19 -- batch: 1200
+Epoch: 19 -- batch: 1300
+Epoch: 19 -- batch: 1400
+Epoch: 19 -- batch: 1500
+Epoch: 19 -- batch: 1600
+Epoch: 19 -- batch: 1700
+Epoch: 19 -- batch: 1800
+Epoch: 19 -- batch: 1900
+Epoch: 19 -- batch: 2000
+Epoch: 19 -- batch: 2100
+Epoch: 19 -- batch: 2200
+Epoch: 19 -- batch: 2300
+Epoch: 19 -- batch: 2400
+Training time for epoch in sec:  2532.838
+End of epoch 19. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.2204, device='cuda:0')
+F1: 0.484197 (best: 0.493256)
+Epoch: 20 -- batch: 0
+Epoch: 20 -- batch: 100
+Epoch: 20 -- batch: 200
+Epoch: 20 -- batch: 300
+Epoch: 20 -- batch: 400
+Epoch: 20 -- batch: 500
+Epoch: 20 -- batch: 600
+Epoch: 20 -- batch: 700
+Epoch: 20 -- batch: 800
+Epoch: 20 -- batch: 900
+Epoch: 20 -- batch: 1000
+Epoch: 20 -- batch: 1100
+Epoch: 20 -- batch: 1200
+Epoch: 20 -- batch: 1300
+Epoch: 20 -- batch: 1400
+Epoch: 20 -- batch: 1500
+Epoch: 20 -- batch: 1600
+Epoch: 20 -- batch: 1700
+Epoch: 20 -- batch: 1800
+Epoch: 20 -- batch: 1900
+Epoch: 20 -- batch: 2000
+Epoch: 20 -- batch: 2100
+Epoch: 20 -- batch: 2200
+Epoch: 20 -- batch: 2300
+Epoch: 20 -- batch: 2400
+Training time for epoch in sec:  2531.0372
+End of epoch 20. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.1911, device='cuda:0')
+F1: 0.487946 (best: 0.493256)
+Epoch: 21 -- batch: 0
+Epoch: 21 -- batch: 100
+Epoch: 21 -- batch: 200
+Epoch: 21 -- batch: 300
+Epoch: 21 -- batch: 400
+Epoch: 21 -- batch: 500
+Epoch: 21 -- batch: 600
+Epoch: 21 -- batch: 700
+Epoch: 21 -- batch: 800
+Epoch: 21 -- batch: 900
+Epoch: 21 -- batch: 1000
+Epoch: 21 -- batch: 1100
+Epoch: 21 -- batch: 1200
+Epoch: 21 -- batch: 1300
+Epoch: 21 -- batch: 1400
+Epoch: 21 -- batch: 1500
+Epoch: 21 -- batch: 1600
+Epoch: 21 -- batch: 1700
+Epoch: 21 -- batch: 1800
+Epoch: 21 -- batch: 1900
+Epoch: 21 -- batch: 2000
+Epoch: 21 -- batch: 2100
+Epoch: 21 -- batch: 2200
+Epoch: 21 -- batch: 2300
+Epoch: 21 -- batch: 2400
+Training time for epoch in sec:  2531.8968
+End of epoch 21. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.1603, device='cuda:0')
+F1: 0.490671 (best: 0.493256)
+Epoch: 22 -- batch: 0
+Epoch: 22 -- batch: 100
+Epoch: 22 -- batch: 200
+Epoch: 22 -- batch: 300
+Epoch: 22 -- batch: 400
+Epoch: 22 -- batch: 500
+Epoch: 22 -- batch: 600
+Epoch: 22 -- batch: 700
+Epoch: 22 -- batch: 800
+Epoch: 22 -- batch: 900
+Epoch: 22 -- batch: 1000
+Epoch: 22 -- batch: 1100
+Epoch: 22 -- batch: 1200
+Epoch: 22 -- batch: 1300
+Epoch: 22 -- batch: 1400
+Epoch: 22 -- batch: 1500
+Epoch: 22 -- batch: 1600
+Epoch: 22 -- batch: 1700
+Epoch: 22 -- batch: 1800
+Epoch: 22 -- batch: 1900
+Epoch: 22 -- batch: 2000
+Epoch: 22 -- batch: 2100
+Epoch: 22 -- batch: 2200
+Epoch: 22 -- batch: 2300
+Epoch: 22 -- batch: 2400
+Training time for epoch in sec:  2532.2888
+End of epoch 22. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.1288, device='cuda:0')
+F1: 0.486498 (best: 0.493256)
+Epoch: 23 -- batch: 0
+Epoch: 23 -- batch: 100
+Epoch: 23 -- batch: 200
+Epoch: 23 -- batch: 300
+Epoch: 23 -- batch: 400
+Epoch: 23 -- batch: 500
+Epoch: 23 -- batch: 600
+Epoch: 23 -- batch: 700
+Epoch: 23 -- batch: 800
+Epoch: 23 -- batch: 900
+Epoch: 23 -- batch: 1000
+Epoch: 23 -- batch: 1100
+Epoch: 23 -- batch: 1200
+Epoch: 23 -- batch: 1300
+Epoch: 23 -- batch: 1400
+Epoch: 23 -- batch: 1500
+Epoch: 23 -- batch: 1600
+Epoch: 23 -- batch: 1700
+Epoch: 23 -- batch: 1800
+Epoch: 23 -- batch: 1900
+Epoch: 23 -- batch: 2000
+Epoch: 23 -- batch: 2100
+Epoch: 23 -- batch: 2200
+Epoch: 23 -- batch: 2300
+Epoch: 23 -- batch: 2400
+Training time for epoch in sec:  2531.356
+End of epoch 23. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.1033, device='cuda:0')
+F1: 0.490558 (best: 0.493256)
+Epoch: 24 -- batch: 0
+Epoch: 24 -- batch: 100
+Epoch: 24 -- batch: 200
+Epoch: 24 -- batch: 300
+Epoch: 24 -- batch: 400
+Epoch: 24 -- batch: 500
+Epoch: 24 -- batch: 600
+Epoch: 24 -- batch: 700
+Epoch: 24 -- batch: 800
+Epoch: 24 -- batch: 900
+Epoch: 24 -- batch: 1000
+Epoch: 24 -- batch: 1100
+Epoch: 24 -- batch: 1200
+Epoch: 24 -- batch: 1300
+Epoch: 24 -- batch: 1400
+Epoch: 24 -- batch: 1500
+Epoch: 24 -- batch: 1600
+Epoch: 24 -- batch: 1700
+Epoch: 24 -- batch: 1800
+Epoch: 24 -- batch: 1900
+Epoch: 24 -- batch: 2000
+Epoch: 24 -- batch: 2100
+Epoch: 24 -- batch: 2200
+Epoch: 24 -- batch: 2300
+Epoch: 24 -- batch: 2400
+Training time for epoch in sec:  2532.3116
+End of epoch 24. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.0763, device='cuda:0')
+F1: 0.483722 (best: 0.493256)
+Epoch: 25 -- batch: 0
+Epoch: 25 -- batch: 100
+Epoch: 25 -- batch: 200
+Epoch: 25 -- batch: 300
+Epoch: 25 -- batch: 400
+Epoch: 25 -- batch: 500
+Epoch: 25 -- batch: 600
+Epoch: 25 -- batch: 700
+Epoch: 25 -- batch: 800
+Epoch: 25 -- batch: 900
+Epoch: 25 -- batch: 1000
+Epoch: 25 -- batch: 1100
+Epoch: 25 -- batch: 1200
+Epoch: 25 -- batch: 1300
+Epoch: 25 -- batch: 1400
+Epoch: 25 -- batch: 1500
+Epoch: 25 -- batch: 1600
+Epoch: 25 -- batch: 1700
+Epoch: 25 -- batch: 1800
+Epoch: 25 -- batch: 1900
+Epoch: 25 -- batch: 2000
+Epoch: 25 -- batch: 2100
+Epoch: 25 -- batch: 2200
+Epoch: 25 -- batch: 2300
+Epoch: 25 -- batch: 2400
+Training time for epoch in sec:  2532.7566
+End of epoch 25. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.0516, device='cuda:0')
+F1: 0.493068 (best: 0.493256)
+Epoch: 26 -- batch: 0
+Epoch: 26 -- batch: 100
+Epoch: 26 -- batch: 200
+Epoch: 26 -- batch: 300
+Epoch: 26 -- batch: 400
+Epoch: 26 -- batch: 500
+Epoch: 26 -- batch: 600
+Epoch: 26 -- batch: 700
+Epoch: 26 -- batch: 800
+Epoch: 26 -- batch: 900
+Epoch: 26 -- batch: 1000
+Epoch: 26 -- batch: 1100
+Epoch: 26 -- batch: 1200
+Epoch: 26 -- batch: 1300
+Epoch: 26 -- batch: 1400
+Epoch: 26 -- batch: 1500
+Epoch: 26 -- batch: 1600
+Epoch: 26 -- batch: 1700
+Epoch: 26 -- batch: 1800
+Epoch: 26 -- batch: 1900
+Epoch: 26 -- batch: 2000
+Epoch: 26 -- batch: 2100
+Epoch: 26 -- batch: 2200
+Epoch: 26 -- batch: 2300
+Epoch: 26 -- batch: 2400
+Training time for epoch in sec:  2532.0058
+End of epoch 26. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.0278, device='cuda:0')
+F1: 0.492088 (best: 0.493256)
+Epoch: 27 -- batch: 0
+Epoch: 27 -- batch: 100
+Epoch: 27 -- batch: 200
+Epoch: 27 -- batch: 300
+Epoch: 27 -- batch: 400
+Epoch: 27 -- batch: 500
+Epoch: 27 -- batch: 600
+Epoch: 27 -- batch: 700
+Epoch: 27 -- batch: 800
+Epoch: 27 -- batch: 900
+Epoch: 27 -- batch: 1000
+Epoch: 27 -- batch: 1100
+Epoch: 27 -- batch: 1200
+Epoch: 27 -- batch: 1300
+Epoch: 27 -- batch: 1400
+Epoch: 27 -- batch: 1500
+Epoch: 27 -- batch: 1600
+Epoch: 27 -- batch: 1700
+Epoch: 27 -- batch: 1800
+Epoch: 27 -- batch: 1900
+Epoch: 27 -- batch: 2000
+Epoch: 27 -- batch: 2100
+Epoch: 27 -- batch: 2200
+Epoch: 27 -- batch: 2300
+Epoch: 27 -- batch: 2400
+Training time for epoch in sec:  2534.6525
+End of epoch 27. Evaluation on dev.
+Storing current model...
+Loss: tensor(4.0052, device='cuda:0')
+F1: 0.491139 (best: 0.493256)
+Epoch: 28 -- batch: 0
+Epoch: 28 -- batch: 100
+Epoch: 28 -- batch: 200
+Epoch: 28 -- batch: 300
+Epoch: 28 -- batch: 400
+Epoch: 28 -- batch: 500
+Epoch: 28 -- batch: 600
+Epoch: 28 -- batch: 700
+Epoch: 28 -- batch: 800
+Epoch: 28 -- batch: 900
+Epoch: 28 -- batch: 1000
+Epoch: 28 -- batch: 1100
+Epoch: 28 -- batch: 1200
+Epoch: 28 -- batch: 1300
+Epoch: 28 -- batch: 1400
+Epoch: 28 -- batch: 1500
+Epoch: 28 -- batch: 1600
+Epoch: 28 -- batch: 1700
+Epoch: 28 -- batch: 1800
+Epoch: 28 -- batch: 1900
+Epoch: 28 -- batch: 2000
+Epoch: 28 -- batch: 2100
+Epoch: 28 -- batch: 2200
+Epoch: 28 -- batch: 2300
+Epoch: 28 -- batch: 2400
+Training time for epoch in sec:  2533.2351
+End of epoch 28. Evaluation on dev.
+Storing current model...
+Storing new best model...
+Loss: tensor(3.9815, device='cuda:0')
+F1: 0.49435 (best: 0.49435)
+Epoch: 29 -- batch: 0
+Epoch: 29 -- batch: 100
+Epoch: 29 -- batch: 200
+Epoch: 29 -- batch: 300
+Epoch: 29 -- batch: 400
+Epoch: 29 -- batch: 500
+Epoch: 29 -- batch: 600
+Epoch: 29 -- batch: 700
+Epoch: 29 -- batch: 800
+Epoch: 29 -- batch: 900
+Epoch: 29 -- batch: 1000
+Epoch: 29 -- batch: 1100
+Epoch: 29 -- batch: 1200
+Epoch: 29 -- batch: 1300
+Epoch: 29 -- batch: 1400
+Epoch: 29 -- batch: 1500
+Epoch: 29 -- batch: 1600
+Epoch: 29 -- batch: 1700
+Epoch: 29 -- batch: 1800
+Epoch: 29 -- batch: 1900
+Epoch: 29 -- batch: 2000
+Epoch: 29 -- batch: 2100
+Epoch: 29 -- batch: 2200
+Epoch: 29 -- batch: 2300
+Epoch: 29 -- batch: 2400
+Training time for epoch in sec:  2530.8615
+End of epoch 29. Evaluation on dev.
+Storing current model...
+Loss: tensor(3.9595, device='cuda:0')
+F1: 0.491723 (best: 0.49435)
