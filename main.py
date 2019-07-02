@@ -322,7 +322,7 @@ if __name__ == '__main__':
         train_data, valid_data, test_data = data_loader.main(args.data, vocabulary = vocab, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.))
     else:
         train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.))        
-    if not args.vocabulary and args.dump_vocabulary:
+    if args.dump_vocabulary:
         pickle.dump(valid_data[-1], open("dict.pkl","wb"))
         print("Saving Vocab to file.")
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
