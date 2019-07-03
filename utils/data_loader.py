@@ -154,7 +154,7 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None):
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
 
-    train_data = load_trees(train_file_ids, vocab=vocabulary, grow_vocab=False, supervision_limit=supervision_limit, supervised_model=supervised_model)
+    train_data = load_trees(train_file_ids, vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model)
     valid_data = load_trees(valid_file_ids, vocab=vocabulary, grow_vocab= (vocabulary==None))
     test_data = load_trees(test_file_ids, vocab=vocabulary, grow_vocab=False)
     rest_data = load_trees(rest_file_ids[:1], vocab=vocabulary, grow_vocab=False)
