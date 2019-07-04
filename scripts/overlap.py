@@ -34,6 +34,8 @@ def get_stats(outputs):
 				partial_agree[match_no]+=1
 				av_lenth[match_no].append(len(outputs[0][j]['example']))
 				av_f1[match_no].append(numpy.mean(f1s))
+		if j%1000==0:
+			print(str(j)+"-evaluated.")
 	for k in av_lenth:
 		print("Matching "+str(k)+" reports: "+str(partial_agree[k]))
 		print("Average F1 of those sentences: " + str(av_f1[k]))
