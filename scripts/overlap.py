@@ -36,8 +36,8 @@ def get_stats(outputs):
 		print("Matching "+str(k)+" reports: "+str(partial_agree[k]))
 		print("Average F1 of those sentences: " + str(numpy.mean(av_f1[k])))
 		print("Av Length of sentences: " + str(numpy.mean(av_lenth[k])))
-		print("Min Length: "+str(nump.min(av_lenth[k])))
-		print("Max Length: "+str(nump.max(av_lenth[k])))
+		print("Min Length: "+str(numpy.min(av_lenth[k])))
+		print("Max Length: "+str(numpy.max(av_lenth[k])))
 
 # Example call: python scripts
 if __name__ == '__main__':
