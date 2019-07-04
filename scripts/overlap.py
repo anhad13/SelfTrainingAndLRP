@@ -21,25 +21,23 @@ def get_stats(outputs):
 		for i in range(numReports):
 			brackets.append(sorted(get_brackets(outputs[i][j]['pred_tree'])[0]))
 			f1s.append(outputs[i][j]['f1'])
-		matched_nos = []
+		best_match = 1
 		for i in range(numReports):
 			match_no = 0
 			for k in range(numReports):
 				if brackets[k]==brackets[i]:
 					match_no += 1
-			if (match_no in matched_nos):
-				continue
-			else:
-				matched_nos.append(match_no)
-				partial_agree[match_no]+=1
-				av_lenth[match_no].append(len(outputs[0][j]['example']))
-				av_f1[match_no].append(numpy.mean(f1s))
-		if j%1000==0:
-			print(str(j)+"-evaluated.")
+			if best_match < match_no:
+				best_match = match_no
+		partial_agree[best_match]+=1
+		av_lenth[best_match].append(len(outputs[0][j]['example']))
+		av_f1[best_match].append(numpy.mean(f1s))
 	for k in av_lenth:
 		print("Matching "+str(k)+" reports: "+str(partial_agree[k]))
 		print("Average F1 of those sentences: " + str(numpy.mean(av_f1[k])))
 		print("Av Length of sentences: " + str(numpy.mean(av_lenth[k])))
+		print("Min Length: "+str(nump.min(av_lenth[k])))
+		print("Max Length: "+str(nump.max(av_lenth[k])))
 
 # Example call: python scripts
 if __name__ == '__main__':
