@@ -38,20 +38,20 @@ def get_stats(outputs):
 		assert len(x) == numSent
 	numReports = len(outputs)
 	agree = 0
-	fullagree_f1 = []
-	for i in range(numSent):
+	fullagree_f1 = [];av_lenth=[]
+	for j in range(numSent):
 		overlap = None
 		avf1 = []
-		for j in range(numReports):
+		for i in range(numReports):
 			avf1.append(outputs[i][j]['f1'])
 			if not overlap:
 				overlap = get_brackets(outputs[i][j]['pred_tree'])[0]
 			else:
 				overlap = overlap.intersection(get_brackets(outputs[i][j]['pred_tree'])[0])
-		if sorted(overlap) == sorted(get_brackets(outputs[i][0]['pred_tree'])[0]):
+		if sorted(overlap) == sorted(get_brackets(outputs[0][j]['pred_tree'])[0]):
 			agree += 1
-			fullagree_f1.append(numpy.mean(avf1))
-	print("Number of full agreements: " + str(agree) + " / "+ str(numSent) +" with av F1: " + str(numpy.average(fullagree_f1)))
+			fullagree_f1.append(numpy.mean(avf1));av_lenth.append(len(outputs[0][j]['example']))
+	print("Number of full agreements: " + str(agree) + " / "+ str(numSent) +" with av length: "+str(numpy.average(av_lenth))+" with av F1: " + str(numpy.average(fullagree_f1)))
 
 
 
@@ -63,6 +63,5 @@ if __name__ == '__main__':
     outputs = []
     for x in out_files:
     	print("Extracting " + str(x))
-    	import pdb;pdb.set_trace()
-    	outputs.append(torch.load(open(x, "rb"), map_location="cpu"))
+    	outputs.append(pickle.load(open(x, "rb")))
     get_stats(outputs)
