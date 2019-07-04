@@ -290,6 +290,8 @@ if __name__ == '__main__':
     parser.add_argument('--epochs', type=int, default=100, help='num of epochs')
     parser.add_argument('--supervision_limit', type=int, default=-1, help='amount examples with supervision')
     parser.add_argument('--eval_only', action='store_true', help='flag for eval without training')
+    parser.add_argument('--vocabulary', type=str, default=None, help='vocab pickled file path')
+    parser.add_argument('--dump_vocabulary', action='store_true', help='flag for dumping vocab.')
     args = parser.parse_args()
     is_cuda = False
     gpu_device = 0
@@ -315,8 +317,16 @@ if __name__ == '__main__':
             f1 = eval_fct(model, valid_data, args.PRPN, (not args.parse_with_distances), is_cuda, outfile)
         print("F1: " + str(f1))
         exit()
-    train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.))
+    if args.vocabulary:
+        vocab =  pickle.load(open(args.vocabulary, "rb"))
+        train_data, valid_data, test_data = data_loader.main(args.data, vocabulary = vocab, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.))
+    else:
+        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.))        
+    if args.dump_vocabulary:
+        pickle.dump(valid_data[-1], open("dict.pkl","wb"))
+        print("Saving Vocab to file.")
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_beta = args.beta, parse_with_gates=(not args.parse_with_distances),
               save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs,
               use_orig_prpn=args.shen)
+    
