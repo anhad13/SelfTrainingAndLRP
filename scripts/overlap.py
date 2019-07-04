@@ -4,33 +4,6 @@ sys.path.append(".")
 from utils.data_loader import build_tree, get_brackets
 import numpy
 import torch
-# p1 = pickle.load(open("UNSUP_0000", "rb"))
-# p2 = pickle.load(open("UNSUP_1111", "rb"))
-# p3 = pickle.load(open("UNSUP_2222", "rb"))
-# total = 0
-# agree = 0
-# buckets = {0: 0, 0.25: 0, 0.5:0, 0.75:0}
-# for x in zip(p1, p2, p3):
-# 	overlap = x[0].intersection(x[1])
-# 	overlap = x[2].intersection(overlap)
-# 	max_len = max([len(y) for y in x])
-# 	if max_len == 0:
-# 		continue
-# 	total += 1
-# 	overlap_p = float(len(overlap))/float(max_len)
-# 	if overlap_p < 0.25:
-# 		buckets[0] += 1
-# 	elif overlap_p < 0.5:
-# 		buckets[0.25] += 1
-# 	elif overlap_p < 0.75:
-# 		buckets[0.5] += 1
-# 	else:
-# 		buckets[0.75] += 1
-# 	if sorted(x[0]) == sorted(x[1]) == sorted(x[1]):
-# 		agree += 1
-# print(agree)
-# print(total)
-# print(buckets)
 
 def get_stats(outputs):
 	numSent = len(outputs[0])
@@ -38,23 +11,33 @@ def get_stats(outputs):
 		assert len(x) == numSent
 	numReports = len(outputs)
 	agree = 0
-	fullagree_f1 = [];av_lenth=[]
+	fullagree_f1 = []
+	av_lenth = {2: [], 3: [], 4: [], 5: []}
+	av_f1 = {2: [], 3: [], 4: [], 5: []}
+	partial_agree = {2: 0, 3: 0, 4: 0, 5: 0}
 	for j in range(numSent):
-		overlap = None
-		avf1 = []
+		brackets = []
+		f1s = []
 		for i in range(numReports):
-			avf1.append(outputs[i][j]['f1'])
-			if not overlap:
-				overlap = get_brackets(outputs[i][j]['pred_tree'])[0]
+			brackets.append(sorted(get_brackets(outputs[i][j]['pred_tree'])[0]))
+			f1s.append(outputs[i][j]['f1'])
+		for i in range(numReports):
+			match_no = 0
+			matched_nos =[]
+			for k in range(numReports):
+				if brackets[k]==brackets[i]:
+					match_no += 1
+			if match_no < 2 or (match_no in matched_nos):
+				continue
 			else:
-				overlap = overlap.intersection(get_brackets(outputs[i][j]['pred_tree'])[0])
-		if sorted(overlap) == sorted(get_brackets(outputs[0][j]['pred_tree'])[0]):
-			agree += 1
-			fullagree_f1.append(numpy.mean(avf1));av_lenth.append(len(outputs[0][j]['example']))
-	print("Number of full agreements: " + str(agree) + " / "+ str(numSent) +" with av length: "+str(numpy.average(av_lenth))+" with av F1: " + str(numpy.average(fullagree_f1)))
-
-
-
+				matched_nos.append(matched_no)
+				partial_agree[match_no]+=1
+				av_lenth[match_no].append(len(outputs[0][j]['example']))
+				av_f1[match_no].append(numpy.mean(f1s))
+	for k in av_lenth:
+		print("Matching "+str(k)+" reports: "+str(partial_agree[k]))
+		print("Average F1 of those sentences: " + str(av_f1[k]))
+		print("Av Length of sentences: " + str(av_f1[k]))
 
 # Example call: python scripts
 if __name__ == '__main__':
