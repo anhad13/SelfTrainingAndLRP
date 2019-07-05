@@ -7,12 +7,12 @@ import torch
 from utils import data_loader
 
 def extract_hm():
-	train_data, valid_data, test_data = data_loader_str.main("data/")
+	train_data, valid_data, test_data = data_loader.main("data/")
 	hm = {}
 	for i in range(len(train_data[0])):
-		hm[" ".join(train_data[4][i])] = [train[0][i], train[1][i], train[2][i], train[3][i], train[4][i], train[5][i], train_data[6][i]]
+		hm[" ".join(train_data[4][i])] = [train_data[0][i], train_data[1][i], train_data[2][i], train_data[3][i], train_data[4][i], train_data[5][i]
 	print("Extracted hashmap to goldtrees.")
-	return hm
+	return hm, train_data[-1]
 
 def f1compute(pred_brackets, gold_brackets):
 	overlap = pred_brackets.intersection(gold_brackets)    
@@ -42,7 +42,7 @@ def get_stats(outputs):
 	for j in range(numSent):
 		brackets = []
 		f1s = []
-		fulldata = hm[" ".join(outputs[0][j]['example'])]
+		fulldata, vocab = hm[" ".join(outputs[0][j]['example'])]
 		gold_brackets = fulldata[3]
 		for i in range(numReports):
 			brackets.append(sorted(get_brackets(outputs[i][j]['pred_tree'])[0]))
@@ -73,7 +73,8 @@ def get_stats(outputs):
 			if best_match == 5:
 				for i in range(7):
 					todump[i].append(fulldata[i])
-	pickle.dump(open("5match.data", "wb"))
+	todump[6] = vocab
+	pickle.dump(todump, open("5match.data", "wb"))
 
 
 	for k in av_lenth:
