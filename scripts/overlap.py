@@ -41,7 +41,7 @@ def get_stats(outputs):
 			av_f1_diff[best_match].append(numpy.mean(best_matchf1s)-numpy.mean(f1s))
 	for k in av_lenth:
 		print("Matching "+str(k)+" reports: "+str(partial_agree[k]))
-		print("Average F1 of those sentences: " + str(numpy.mean(av_f1[k])))
+		print("Average F1 of those sentences: " + str(numpy.mean(av_f1[k]))+" .. av diff: "+str(numpy.mean(av_f1_diff[k])))
 		print("Av Length of sentences: " + str(numpy.mean(av_lenth[k])))
 		print("Min Length: "+str(numpy.min(av_lenth[k])))
 		print("Max Length: "+str(numpy.max(av_lenth[k])))
