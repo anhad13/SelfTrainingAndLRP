@@ -38,7 +38,11 @@ def get_stats(outputs):
 			partial_agree[best_match]+=1
 			av_lenth[best_match].append(len(outputs[0][j]['example']))
 			av_f1[best_match].append(numpy.mean(best_matchf1s))
-			av_f1_diff[best_match].append(numpy.mean(best_matchf1s)-numpy.mean(f1s))
+			not_match_f1s = []
+			for el in f1s:
+				if el not in best_matchf1s:
+					not_match_f1s.append(el)
+			av_f1_diff[best_match].append(numpy.mean(best_matchf1s)-numpy.mean(not_match_f1s))
 	for k in av_lenth:
 		print("Matching "+str(k)+" reports: "+str(partial_agree[k]))
 		print("Average F1 of those sentences: " + str(numpy.mean(av_f1[k]))+" .. av diff: "+str(numpy.mean(av_f1_diff[k])))
