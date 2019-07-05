@@ -10,12 +10,12 @@ def extract_hm():
 	train_data, valid_data, test_data = data_loader.main("data/")
 	hm = {}
 	for i in range(len(train_data[0])):
-		hm[" ".join(train_data[4][i])] = [train_data[0][i], train_data[1][i], train_data[2][i], train_data[3][i], train_data[4][i], train_data[5][i]
+		hm[" ".join(train_data[4][i])] = [train_data[0][i], train_data[1][i], train_data[2][i], train_data[3][i], train_data[4][i], train_data[5][i]]
 	print("Extracted hashmap to goldtrees.")
 	return hm, train_data[-1]
 
 def f1compute(pred_brackets, gold_brackets):
-	overlap = pred_brackets.intersection(gold_brackets)    
+    overlap = pred_brackets.intersection(gold_brackets)    
     prec = float(len(overlap)) / (len(pred_brackets) + 1e-8)
     reca = float(len(overlap)) / (len(gold_brackets) + 1e-8)
     if len(gold_brackets) == 0:
@@ -38,11 +38,11 @@ def get_stats(outputs):
 	av_f1_diff = {2: [], 3: [], 4: [], 5: []}
 	partial_agree = {2: 0, 3: 0, 4: 0, 5: 0}
 	todump = [[],[],[],[],[],[],[]]
-	hm = extract_hm()
+	hm, vocab = extract_hm()
 	for j in range(numSent):
 		brackets = []
 		f1s = []
-		fulldata, vocab = hm[" ".join(outputs[0][j]['example'])]
+		fulldata =  hm[" ".join(outputs[0][j]['example'])]
 		gold_brackets = fulldata[3]
 		for i in range(numReports):
 			brackets.append(sorted(get_brackets(outputs[i][j]['pred_tree'])[0]))
@@ -71,7 +71,7 @@ def get_stats(outputs):
 					not_match_f1s.append(el)
 			av_f1_diff[best_match].append(numpy.mean(best_matchf1s)-numpy.mean(not_match_f1s))
 			if best_match == 5:
-				for i in range(7):
+				for i in range(6):
 					todump[i].append(fulldata[i])
 	todump[6] = vocab
 	pickle.dump(todump, open("5match.data", "wb"))
