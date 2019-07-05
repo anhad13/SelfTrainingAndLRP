@@ -12,9 +12,10 @@ def get_stats(outputs):
 	numReports = len(outputs)
 	agree = 0
 	fullagree_f1 = []
-	av_lenth = {1: [], 2: [], 3: [], 4: [], 5: []}
-	av_f1 = {1: [], 2: [], 3: [], 4: [], 5: []}
-	partial_agree = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0}
+	av_lenth = {2: [], 3: [], 4: [], 5: []}
+	av_f1 = {2: [], 3: [], 4: [], 5: []}
+	av_f1_diff = {2: [], 3: [], 4: [], 5: []}
+	partial_agree = {2: 0, 3: 0, 4: 0, 5: 0}
 	for j in range(numSent):
 		brackets = []
 		f1s = []
@@ -22,16 +23,22 @@ def get_stats(outputs):
 			brackets.append(sorted(get_brackets(outputs[i][j]['pred_tree'])[0]))
 			f1s.append(outputs[i][j]['f1'])
 		best_match = 1
+		best_matchf1s=None
 		for i in range(numReports):
 			match_no = 0
+			matchf1s=[]			
 			for k in range(numReports):
 				if brackets[k]==brackets[i]:
 					match_no += 1
+					matchf1s.append(f1s[k])
 			if best_match < match_no:
 				best_match = match_no
-		partial_agree[best_match]+=1
-		av_lenth[best_match].append(len(outputs[0][j]['example']))
-		av_f1[best_match].append(numpy.mean(f1s))
+				best_matchf1s = matchf1s
+		if best_match > 1:
+			partial_agree[best_match]+=1
+			av_lenth[best_match].append(len(outputs[0][j]['example']))
+			av_f1[best_match].append(numpy.mean(best_matchf1s))
+			av_f1_diff[best_match].append(numpy.mean(best_matchf1s)-numpy.mean(f1s))
 	for k in av_lenth:
 		print("Matching "+str(k)+" reports: "+str(partial_agree[k]))
 		print("Average F1 of those sentences: " + str(numpy.mean(av_f1[k])))
