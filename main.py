@@ -292,6 +292,7 @@ if __name__ == '__main__':
     parser.add_argument('--eval_only', action='store_true', help='flag for eval without training')
     parser.add_argument('--vocabulary', type=str, default=None, help='vocab pickled file path')
     parser.add_argument('--dump_vocabulary', action='store_true', help='flag for dumping vocab.')
+    parser.add_argument('--train_from_pickle',type='str',default= None, help='loading training data from pickled file.')
     args = parser.parse_args()
     is_cuda = False
     gpu_device = 0
@@ -319,9 +320,9 @@ if __name__ == '__main__':
         exit()
     if args.vocabulary:
         vocab =  pickle.load(open(args.vocabulary, "rb"))
-        train_data, valid_data, test_data = data_loader.main(args.data, vocabulary = vocab, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.))
+        train_data, valid_data, test_data = data_loader.main(args.data, vocabulary = vocab, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.), pickled_file_path =args.train_from_pickle)
     else:
-        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.))        
+        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.), pickled_file_path =args.train_from_pickle)        
     if args.dump_vocabulary:
         pickle.dump(valid_data[-1], open("dict.pkl","wb"))
         print("Saving Vocab to file.")
