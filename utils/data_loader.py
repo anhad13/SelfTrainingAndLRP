@@ -7,7 +7,7 @@ import nltk
 from nltk.corpus import ptb
 from nltk.corpus import BracketParseCorpusReader
 from utils.tree_to_gate import tree_to_gates
-
+import pickle
 
 word_tags = ['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NNP', 'NNPS', 'PDT',
              'POS', 'PRP', 'PRP$', 'RB', 'RBR', 'RBS', 'RP', 'SYM', 'TO', 'UH', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ',
@@ -113,7 +113,7 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
                 continue
                 print("skipping")
             # Binarize tree.
-            #nltk.treetransforms.chomsky_normal_form(sent)
+            nltk.treetransforms.chomsky_normal_form(sent)
             treelist = tree2list(sent)
             gate_values = tree_to_gates(treelist)
             brackets = get_brackets(treelist)[0]
@@ -153,12 +153,13 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pi
                 test_file_ids.append(id)
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
+    train_data = load_trees(train_file_ids, vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model)
     if pickled_file_path == None:
         train_data = load_trees(train_file_ids, vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model)
     else:
         train_data = pickle.load(open(pickled_file_path, "rb"))
         vocabulary = train_data[-1]
-    valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab=(vocabulary==None))
+    valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab= (vocabulary==None))
     test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False)
     rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) + len(rest_data[0])

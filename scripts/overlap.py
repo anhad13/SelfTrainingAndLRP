@@ -82,15 +82,16 @@ def get_stats(outputs):
 				if el not in best_matchf1s:
 					not_match_f1s.append(el)
 			av_f1_diff[best_match].append(numpy.mean(best_matchf1s)-numpy.mean(not_match_f1s))
-			if best_match == 5:
-				for i in [0, 4]:
+			if best_match == 4 or best_match == 5:
+				for i in [4]:
 					todump[i].append(fulldata[i])
-				todump[1].append(list2distance(besttree))
+				todump[0].append(torch.LongTensor(fulldata[0]))         
+				todump[1].append(torch.FloatTensor(list2distance(besttree)[0]))
 				todump[2].append(besttree)
 				todump[3].append(get_brackets(besttree)[0])
-				todump[5].append(tree_to_gates(besttree))
+				todump[5].append(torch.FloatTensor(tree_to_gates(besttree)))
 	todump[6] = vocab
-	pickle.dump(todump, open("5match.data", "wb"))
+	pickle.dump(todump, open("4match.data", "wb"))
 
 
 	for k in av_lenth:
