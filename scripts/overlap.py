@@ -5,7 +5,7 @@ from utils.data_loader import build_tree, get_brackets
 import numpy
 import torch
 from utils import data_loader
-
+from utils.tree_to_gate import tree_to_gates
 def extract_hm():
 	train_data, valid_data, test_data = data_loader.main("data/")
 	hm = {}
@@ -24,6 +24,14 @@ def f1compute(pred_brackets, gold_brackets):
         	prec = 1.
     f1 = 2 * prec * reca / (prec + reca + 1e-8)
     return f1
+
+def list2distance(tree_ar):
+    if type(tree_ar) != list:
+        return [], 0
+    ld, lh = list2distance(tree_ar[0])
+    rd, rh = list2distance(tree_ar[1])
+    hh = max([lh, rh])+1
+    return ld + [hh] + rd, hh
 
 
 def get_stats(outputs):
@@ -50,17 +58,21 @@ def get_stats(outputs):
 			computed_f1 = f1compute(pred_brackets, gold_brackets)
 			f1s.append(computed_f1)
 		best_match = 1
-		best_matchf1s=None	
+		best_matchf1s=None
+		besttree = None	
 		for i in range(numReports):
 			match_no = 0
-			matchf1s=[]			
+			matchf1s = []
+			predtree = None
 			for k in range(numReports):
 				if brackets[k]==brackets[i]:
 					match_no += 1
 					matchf1s.append(f1s[k])
+					predtree = outputs[i][]['pred_tree']
 			if best_match < match_no:
 				best_match = match_no 
 				best_matchf1s = matchf1s
+				besttree = predtree
 		if best_match > 1:
 			partial_agree[best_match]+=1
 			av_lenth[best_match].append(len(outputs[0][j]['example']))
@@ -71,8 +83,12 @@ def get_stats(outputs):
 					not_match_f1s.append(el)
 			av_f1_diff[best_match].append(numpy.mean(best_matchf1s)-numpy.mean(not_match_f1s))
 			if best_match == 5:
-				for i in range(6):
+				for i in [0, 4]:
 					todump[i].append(fulldata[i])
+		todump[1].append(list2distance(treebesttree))
+		todump[2].append(treebesttree)
+		todump[3].append(get_brackets(treebesttree)[0])
+		todump[5].append(tree_to_gates(tree))
 	todump[6] = vocab
 	pickle.dump(todump, open("5match.data", "wb"))
 
