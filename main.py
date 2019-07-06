@@ -292,7 +292,7 @@ if __name__ == '__main__':
     parser.add_argument('--eval_only', action='store_true', help='flag for eval without training')
     parser.add_argument('--vocabulary', type=str, default=None, help='vocab pickled file path')
     parser.add_argument('--dump_vocabulary', action='store_true', help='flag for dumping vocab.')
-    parser.add_argument('--train_from_pickle',type='str',default= None, help='loading training data from pickled file.')
+    parser.add_argument('--train_from_pickle',type=str,default= None, help='loading training data from pickled file.')
     args = parser.parse_args()
     is_cuda = False
     gpu_device = 0

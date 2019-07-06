@@ -68,7 +68,7 @@ def get_stats(outputs):
 				if brackets[k]==brackets[i]:
 					match_no += 1
 					matchf1s.append(f1s[k])
-					predtree = outputs[i][]['pred_tree']
+					predtree = outputs[i][j]['pred_tree']
 			if best_match < match_no:
 				best_match = match_no 
 				best_matchf1s = matchf1s
@@ -85,10 +85,10 @@ def get_stats(outputs):
 			if best_match == 5:
 				for i in [0, 4]:
 					todump[i].append(fulldata[i])
-		todump[1].append(list2distance(treebesttree))
-		todump[2].append(treebesttree)
-		todump[3].append(get_brackets(treebesttree)[0])
-		todump[5].append(tree_to_gates(tree))
+				todump[1].append(list2distance(besttree))
+				todump[2].append(besttree)
+				todump[3].append(get_brackets(besttree)[0])
+				todump[5].append(tree_to_gates(besttree))
 	todump[6] = vocab
 	pickle.dump(todump, open("5match.data", "wb"))
 
