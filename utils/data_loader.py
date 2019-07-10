@@ -94,7 +94,7 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
     '''
     if not vocab:
         vocab = {'<pad>': 0, '<bos>': 1, '<eos>': 2, '<unk>': 3}
-    all_sents, all_trees, all_dists, all_brackets, all_words, all_gates = [], [], [], [], [], []
+    all_sents, all_trees, all_dists, all_brackets, all_words, all_gates, skip_sup = [], [], [], [], [], [], []
     counter = 0
     for id in ids:
         #sentences = ptb.parsed_sents(id)
@@ -122,9 +122,11 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
                     break
                 all_dists.append(torch.zeros_like(torch.FloatTensor(list2distance(treelist)[0])))
                 all_gates.append(torch.zeros_like(torch.FloatTensor(gate_values)))
+                skip_sup.append(False)
             else:
                 all_dists.append(torch.FloatTensor(list2distance(treelist)[0]))
                 all_gates.append(torch.FloatTensor(gate_values))
+                skip_sup.append(True)
             all_sents.append(torch.LongTensor(idx))
             all_trees.append(treelist)
             all_brackets.append(brackets)
@@ -134,7 +136,7 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
         if supervision_limit > -1 and counter >= supervision_limit and supervised_model:
             break
 
-    return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, vocab
+    return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, skip_sup, vocab
 
 
 def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None):
@@ -154,8 +156,8 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None):
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
 
-    train_data = load_trees(train_file_ids, vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model)
-    valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab= (vocabulary==None))
+    train_data = load_trees(train_file_ids[:10], vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model)
+    valid_data = load_trees(valid_file_ids[:10], vocab=train_data[-1], grow_vocab= (vocabulary==None))
     test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False)
     rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) + len(rest_data[0])

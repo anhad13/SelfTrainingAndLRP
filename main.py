@@ -114,6 +114,7 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
         x = dataset[0][i:i+batch_size]
         yg = dataset[5][i:i+batch_size]  # [5] for gates
         yd = dataset[1][i:i+batch_size]  # distances
+        skip_sup = dataset[6][i:i+batch_size]  # distances
         max_len = 0
         for ex in x:
             if ex.shape[0] > max_len:
@@ -126,6 +127,7 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
         current_mask_yg = []
         current_mask_mg = []
         current_mask_md = []
+        skip_no = 0
         for ex_x, ex_yg, ex_yd in zip(x, yg, yd):
             mask_x = torch.ones_like(ex_x)
             mask_yg = torch.ones_like(ex_yg, dtype=torch.long)
@@ -146,7 +148,6 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
             mask_yg = for_supervision_limitg * mask_yg  # setting mask_y to zero for examples without supervision
             for_supervision_limitd = torch.clamp(ex_yd, 0.0, 1.0).long()
             mask_yd = for_supervision_limitd * mask_yd  # setting mask_y to zero for examples without supervision
-
             current_x.append(ex_x.unsqueeze(0))
             current_yg.append(ex_yg.unsqueeze(0))
             current_yd.append(ex_yd.unsqueeze(0))
@@ -157,7 +158,10 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
             current_mask_md.append(mask_md.unsqueeze(0))
         supervision_type = ["unsupervised"]
         if training_method == 'interleave':
-            supervision_type = ["supervised", "unsupervised"]
+            if max(skip_sup) == False: #null supervision on this:
+                supervision_type = ["unsupervised"]
+            else:
+                supervision_type = ["supervised", "unsupervised"]
         elif training_method == 'supervised':
             supervision_type = ["supervised"]
         elif training_method == 'semisupervised':
@@ -170,7 +174,22 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
                 batches.append((torch.cat(current_x), torch.cat(current_yd), torch.cat(current_yg),
                                 torch.cat(current_mask_x), torch.cat(current_mask_yd), torch.cat(current_mask_yg), torch.cat(current_mask_mg), torch.cat(current_mask_md), is_batch_supervised))
         i += batch_size
-
+    if training_method == "interleave": # interleave batches based on [-1]
+        supervised_batches = []
+        unsupervised_batches = []
+        for batch in batches:
+            if batch[-1] == "supervised":
+                supervised_batches.append(batch)
+            else:
+                unsupervised_batches.append(batch)
+        batches = []
+        supi = 0
+        unsupi = 0
+        for i in range(max(len(supervised_batches), len(unsupervised_batches))):
+            batches.append(supervised_batches[supi])
+            batches.append(unsupervised_batches[unsupi])
+            supi = (supi + 1)%len(supervised_batches)
+            unsupi = (unsupi + 1)%len(unsupervised_batches)
     return batches
 
 
