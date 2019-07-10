@@ -13,6 +13,7 @@ from model.prpn import PRPN
 from utils.data_loader import build_tree, get_brackets
 import torch.nn as nn
 import pickle
+import math
 
 
 def ranking_loss(pred, gold, mask):
@@ -106,7 +107,7 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file
     return numpy.mean(f1_list)
 
 
-def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, training_method = "unsupervised"):
+def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, training_method = "unsupervised", training_ratio = 0.5):
     #batching options = interleave, supervised, unsupervised
     batches = []
     i = 0
@@ -174,6 +175,10 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
                 batches.append((torch.cat(current_x), torch.cat(current_yd), torch.cat(current_yg),
                                 torch.cat(current_mask_x), torch.cat(current_mask_yd), torch.cat(current_mask_yg), torch.cat(current_mask_mg), torch.cat(current_mask_md), is_batch_supervised))
         i += batch_size
+    if training_ratio == 1.0 and training_method == 'interleave':
+        training_method = "supervised"
+    elif training_ratio == 0.0 and training_method == 'interleave':
+        training_method = "unsupervised"
     if training_method == "interleave": # interleave batches based on [-1]
         supervised_batches = []
         unsupervised_batches = []
@@ -185,11 +190,28 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
         batches = []
         supi = 0
         unsupi = 0
-        for i in range(max(len(supervised_batches), len(unsupervised_batches))):
-            batches.append(supervised_batches[supi])
-            batches.append(unsupervised_batches[unsupi])
-            supi = (supi + 1)%len(supervised_batches)
-            unsupi = (unsupi + 1)%len(unsupervised_batches)
+        lens = len(supervised_batches)
+        lenu = len(unsupervised_batches)
+        no_super = lens
+        print("Init batches: no of supervised: "+str(lens)+", no of UNS: "+str(lenu))
+        if lens < lenu:
+            no_super = math.ceil(max(lenu*(training_ratio/(1-training_ratio)), lens))
+            is_super = numpy.zeros(no_super + lenu)
+            is_super[0: no_super] = 1
+            print("Applying ratio: no of supervised: "+str(no_super)+", no of unsupervised: " +str(lenu))
+        else:
+            no_unsuper = math.ceil(max(lens * (1-training_ratio)/training_ratio, lenu))
+            is_super = numpy.ones(no_unsuper + lens)
+            is_super[0: no_unsuper] = 0
+            print("Applying ratio: no of supervised: "+str(lens)+", no of unsupervised: " +str(no_unsuper))
+        shuffle(is_super)
+        for i in range(len(is_super)):
+            if is_super[i] == 1:
+                batches.append(supervised_batches[supi])
+                supi = (supi + 1)%len(supervised_batches)
+            else:
+                batches.append(unsupervised_batches[unsupi])
+                unsupi = (unsupi + 1)%len(unsupervised_batches)
     return batches
 
 
@@ -205,7 +227,7 @@ def LM_criterion(input, targets, targets_mask, ntokens):
 
 def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=3,
               alpha=0., train_beta=1.0, parse_with_gates=True, save_to=None, load_from=None, eval_on='dev',
-              use_orig_prpn=False, training_method='unsupervised'):
+              use_orig_prpn=False, training_method='unsupervised', training_ratio=0.5):
     if save_to:
         if '/' in save_to:
             os.makedirs('/'.join(save_to.split('/')[:-1]), exist_ok=True)
@@ -231,7 +253,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
     if batch_size > len(train_data[0]):
         print('Reducing batch size to ' + str(len(train_data[0])) + ' due to train set size.')
         batch_size = len(train_data[0])
-    train = batchify(train_data, batch_size, use_prpn, cuda = cuda, training_method = training_method)
+    train = batchify(train_data, batch_size, use_prpn, cuda = cuda, training_method = training_method, training_ratio=training_ratio)
     print('Number of training batches: ' + str(len(train)))
     if cuda:
         model.cuda()
@@ -324,6 +346,9 @@ if __name__ == '__main__':
     parser.add_argument('--vocabulary', type=str, default=None, help='vocab pickled file path')
     parser.add_argument('--dump_vocabulary', action='store_true', help='flag for dumping vocab.')
     parser.add_argument('--training_method', type=str, default='unsupervised', help='unsupervised/supervised/interleave/semisupervised')
+    parser.add_argument('--training_ratio', type=float, default=0.5,
+                        help='1: all batches SUP, 0: all UNSUP')
+    
     args = parser.parse_args()
     is_cuda = False
     gpu_device = 0
@@ -360,5 +385,5 @@ if __name__ == '__main__':
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_beta = args.beta, parse_with_gates=(not args.parse_with_distances),
               save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs,
-              use_orig_prpn=args.shen, training_method=args.training_method)
+              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio)
     
