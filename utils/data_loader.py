@@ -94,7 +94,7 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
     '''
     if not vocab:
         vocab = {'<pad>': 0, '<bos>': 1, '<eos>': 2, '<unk>': 3}
-    all_sents, all_trees, all_dists, all_brackets, all_words, all_gates = [], [], [], [], [], []
+    all_sents, all_trees, all_dists, all_brackets, all_words, all_gates, skip_sup = [], [], [], [], [], [], []
     counter = 0
     for id in ids:
         #sentences = ptb.parsed_sents(id)
@@ -122,9 +122,11 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
                     break
                 all_dists.append(torch.zeros_like(torch.FloatTensor(list2distance(treelist)[0])))
                 all_gates.append(torch.zeros_like(torch.FloatTensor(gate_values)))
+                skip_sup.append(False)
             else:
                 all_dists.append(torch.FloatTensor(list2distance(treelist)[0]))
                 all_gates.append(torch.FloatTensor(gate_values))
+                skip_sup.append(True)
             all_sents.append(torch.LongTensor(idx))
             all_trees.append(treelist)
             all_brackets.append(brackets)
@@ -134,7 +136,7 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
         if supervision_limit > -1 and counter >= supervision_limit and supervised_model:
             break
 
-    return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, vocab
+    return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, skip_sup, vocab
 
 
 def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pickled_file_path=None):

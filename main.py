@@ -13,6 +13,7 @@ from model.prpn import PRPN
 from utils.data_loader import build_tree, get_brackets
 import torch.nn as nn
 import pickle
+import math
 
 
 def ranking_loss(pred, gold, mask):
@@ -106,13 +107,15 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file
     return numpy.mean(f1_list)
 
 
-def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0):
+def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, training_method = "unsupervised", training_ratio = 0.5):
+    #batching options = interleave, supervised, unsupervised
     batches = []
     i = 0
     while i + batch_size <= len(dataset[0]):
         x = dataset[0][i:i+batch_size]
         yg = dataset[5][i:i+batch_size]  # [5] for gates
         yd = dataset[1][i:i+batch_size]  # distances
+        skip_sup = dataset[6][i:i+batch_size]  # distances
         max_len = 0
         for ex in x:
             if ex.shape[0] > max_len:
@@ -125,6 +128,7 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0):
         current_mask_yg = []
         current_mask_mg = []
         current_mask_md = []
+        skip_no = 0
         for ex_x, ex_yg, ex_yd in zip(x, yg, yd):
             mask_x = torch.ones_like(ex_x)
             mask_yg = torch.ones_like(ex_yg, dtype=torch.long)
@@ -145,7 +149,6 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0):
             mask_yg = for_supervision_limitg * mask_yg  # setting mask_y to zero for examples without supervision
             for_supervision_limitd = torch.clamp(ex_yd, 0.0, 1.0).long()
             mask_yd = for_supervision_limitd * mask_yd  # setting mask_y to zero for examples without supervision
-
             current_x.append(ex_x.unsqueeze(0))
             current_yg.append(ex_yg.unsqueeze(0))
             current_yd.append(ex_yd.unsqueeze(0))
@@ -154,14 +157,61 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0):
             current_mask_yg.append(mask_yg.unsqueeze(0))
             current_mask_mg.append(mask_mg.unsqueeze(0))
             current_mask_md.append(mask_md.unsqueeze(0))
-        if cuda:
-            batches.append((torch.cat(current_x).cuda(), torch.cat(current_yd).cuda(), torch.cat(current_yg).cuda(),
-                            torch.cat(current_mask_x).cuda(), torch.cat(current_mask_yd).cuda(), torch.cat(current_mask_yg).cuda() ,torch.cat(current_mask_mg).cuda(), torch.cat(current_mask_md).cuda()))
-        else:
-            batches.append((torch.cat(current_x), torch.cat(current_yd), torch.cat(current_yg),
-                            torch.cat(current_mask_x), torch.cat(current_mask_yd), torch.cat(current_mask_yg), torch.cat(current_mask_mg), torch.cat(current_mask_md)))
+        supervision_type = ["unsupervised"]
+        if training_method == 'interleave':
+            if max(skip_sup) == False: #null supervision on this:
+                supervision_type = ["unsupervised"]
+            else:
+                supervision_type = ["supervised", "unsupervised"]
+        elif training_method == 'supervised':
+            supervision_type = ["supervised"]
+        elif training_method == 'semisupervised':
+            supervision_type = ["semisupervised"]
+        for is_batch_supervised in supervision_type:
+            if cuda:
+                batches.append((torch.cat(current_x).cuda(), torch.cat(current_yd).cuda(), torch.cat(current_yg).cuda(),
+                                torch.cat(current_mask_x).cuda(), torch.cat(current_mask_yd).cuda(), torch.cat(current_mask_yg).cuda() ,torch.cat(current_mask_mg).cuda(), torch.cat(current_mask_md).cuda(), is_batch_supervised))
+            else:
+                batches.append((torch.cat(current_x), torch.cat(current_yd), torch.cat(current_yg),
+                                torch.cat(current_mask_x), torch.cat(current_mask_yd), torch.cat(current_mask_yg), torch.cat(current_mask_mg), torch.cat(current_mask_md), is_batch_supervised))
         i += batch_size
-
+    if training_ratio == 1.0 and training_method == 'interleave':
+        training_method = "supervised"
+    elif training_ratio == 0.0 and training_method == 'interleave':
+        training_method = "unsupervised"
+    if training_method == "interleave": # interleave batches based on [-1]
+        supervised_batches = []
+        unsupervised_batches = []
+        for batch in batches:
+            if batch[-1] == "supervised":
+                supervised_batches.append(batch)
+            else:
+                unsupervised_batches.append(batch)
+        batches = []
+        supi = 0
+        unsupi = 0
+        lens = len(supervised_batches)
+        lenu = len(unsupervised_batches)
+        no_super = lens
+        print("Init batches: no of supervised: "+str(lens)+", no of UNS: "+str(lenu))
+        if lens < lenu:
+            no_super = math.ceil(max(lenu*(training_ratio/(1-training_ratio)), lens))
+            is_super = numpy.zeros(no_super + lenu)
+            is_super[0: no_super] = 1
+            print("Applying ratio: no of supervised: "+str(no_super)+", no of unsupervised: " +str(lenu))
+        else:
+            no_unsuper = math.ceil(max(lens * (1-training_ratio)/training_ratio, lenu))
+            is_super = numpy.ones(no_unsuper + lens)
+            is_super[0: no_unsuper] = 0
+            print("Applying ratio: no of supervised: "+str(lens)+", no of unsupervised: " +str(no_unsuper))
+        shuffle(is_super)
+        for i in range(len(is_super)):
+            if is_super[i] == 1:
+                batches.append(supervised_batches[supi])
+                supi = (supi + 1)%len(supervised_batches)
+            else:
+                batches.append(unsupervised_batches[unsupi])
+                unsupi = (unsupi + 1)%len(unsupervised_batches)
     return batches
 
 
@@ -177,7 +227,7 @@ def LM_criterion(input, targets, targets_mask, ntokens):
 
 def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=3,
               alpha=0., train_beta=1.0, parse_with_gates=True, save_to=None, load_from=None, eval_on='dev',
-              use_orig_prpn=False):
+              use_orig_prpn=False, training_method='unsupervised', training_ratio=0.5):
     if save_to:
         if '/' in save_to:
             os.makedirs('/'.join(save_to.split('/')[:-1]), exist_ok=True)
@@ -203,7 +253,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
     if batch_size > len(train_data[0]):
         print('Reducing batch size to ' + str(len(train_data[0])) + ' due to train set size.')
         batch_size = len(train_data[0])
-    train = batchify(train_data, batch_size, use_prpn, cuda = cuda)
+    train = batchify(train_data, batch_size, use_prpn, cuda = cuda, training_method = training_method, training_ratio=training_ratio)
     print('Number of training batches: ' + str(len(train)))
     if cuda:
         model.cuda()
@@ -214,10 +264,13 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         epoch_start_time = time.time()
         av_loss = 0.
         shuffle(train)
-        for (x, yd, yg, mask_x, mask_yd, mask_yg, mask_mg, mask_md) in train:
-            
+        for (x, yd, yg, mask_x, mask_yd, mask_yg, mask_mg, mask_md, training_method) in train:
             optimizer.zero_grad()
             if use_prpn:
+                if training_method == "unsupervised":
+                    alpha = 0.0
+                elif training_method == "supervised":
+                    alpha = 1.0
                 hidden = model.init_hidden(batch_size)
                 output, _ = model(x.transpose(1, 0), hidden)
                 if cuda:
@@ -293,6 +346,9 @@ if __name__ == '__main__':
     parser.add_argument('--vocabulary', type=str, default=None, help='vocab pickled file path')
     parser.add_argument('--dump_vocabulary', action='store_true', help='flag for dumping vocab.')
     parser.add_argument('--train_from_pickle',type=str,default= None, help='loading training data from pickled file.')
+    parser.add_argument('--training_method', type=str, default='unsupervised', help='unsupervised/supervised/interleave/semisupervised')
+    parser.add_argument('--training_ratio', type=float, default=0.5,
+                        help='1: all batches SUP, 0: all UNSUP')
     args = parser.parse_args()
     is_cuda = False
     gpu_device = 0
@@ -302,7 +358,7 @@ if __name__ == '__main__':
         is_cuda = True
         torch.cuda.set_device(gpu_device)
         print("You are using CUDA.")
-
+    print("training method: " + str(args.training_method))
     if args.eval_only:
         assert args.load != None
         print('Loading pretrained model from ' + args.load + '.')
@@ -328,6 +384,5 @@ if __name__ == '__main__':
         print("Saving Vocab to file.")
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_beta = args.beta, parse_with_gates=(not args.parse_with_distances),
-              save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs,
-              use_orig_prpn=args.shen)
-    
+              save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs,             
+              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio)
