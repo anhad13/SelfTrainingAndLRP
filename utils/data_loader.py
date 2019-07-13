@@ -126,7 +126,10 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
             else:
                 all_dists.append(torch.FloatTensor(list2distance(treelist)[0]))
                 all_gates.append(torch.FloatTensor(gate_values))
-                skip_sup.append(True)
+                if supervised_model==False:
+                   skip_sup.append(False)
+                else:
+                   skip_sup.append(True)
             all_sents.append(torch.LongTensor(idx))
             all_trees.append(treelist)
             all_brackets.append(brackets)
@@ -160,14 +163,15 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pi
     else: # assumption: supervised load from pickle and all data is UNSUP
         pickled_training_data = pickle.load(open(pickled_file_path, "rb"))
         train_data = load_trees(train_file_ids, vocab=pickled_training_data[-1], grow_vocab= False)
-        for i in range(pickled_training_data[0]):
+        print(str(len(pickled_training_data[0]))+"_______LEN")
+        for i in range(len(pickled_training_data[0])):
             train_data[0].append(pickled_training_data[0][i])
             train_data[1].append(pickled_training_data[1][i])
             train_data[2].append(pickled_training_data[2][i])
             train_data[3].append(pickled_training_data[3][i])
             train_data[4].append(pickled_training_data[4][i])
             train_data[5].append(pickled_training_data[5][i])
-            train_data[6].append(False)
+            train_data[6].append(True)
         vocabulary = pickled_training_data[-1]
     valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab= (vocabulary==None))
     test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False)

@@ -41,10 +41,10 @@ def get_stats(outputs):
 	numReports = len(outputs)
 	agree = 0
 	fullagree_f1 = []
-	av_lenth = {2: [], 3: [], 4: [], 5: []}
-	av_f1 = {2: [], 3: [], 4: [], 5: []}
-	av_f1_diff = {2: [], 3: [], 4: [], 5: []}
-	partial_agree = {2: 0, 3: 0, 4: 0, 5: 0}
+	av_lenth = {2: [], 3: [], 4: [], 5: [],6: [],7: [],8: [],9: []}
+	av_f1 = {2: [], 3: [], 4: [], 5: [],6: [],7: [],8: [],9: []}
+	av_f1_diff = {2: [], 3: [], 4: [], 5: [],6: [],7: [],8: [],9: []}
+	partial_agree = {2: 0, 3: 0, 4: 0, 5: 0,6: 0,7: 0 ,8 : 0,9 : 0}
 	todump = [[],[],[],[],[],[],[]]
 	hm, vocab = extract_hm()
 	for j in range(numSent):
@@ -82,7 +82,7 @@ def get_stats(outputs):
 				if el not in best_matchf1s:
 					not_match_f1s.append(el)
 			av_f1_diff[best_match].append(numpy.mean(best_matchf1s)-numpy.mean(not_match_f1s))
-			if best_match == 4 or best_match == 5:
+			if best_match >= 9:
 				for i in [4]:
 					todump[i].append(fulldata[i])
 				todump[0].append(torch.LongTensor(fulldata[0]))         
@@ -91,7 +91,7 @@ def get_stats(outputs):
 				todump[3].append(get_brackets(besttree)[0])
 				todump[5].append(torch.FloatTensor(tree_to_gates(besttree)))
 	todump[6] = vocab
-	pickle.dump(todump, open("4match.data", "wb"))
+	pickle.dump(todump, open("9match.data", "wb"))
 
 
 	for k in av_lenth:
