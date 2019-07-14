@@ -142,7 +142,7 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
     return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, skip_sup, vocab
 
 
-def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pickled_file_path=None):
+def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pickled_file_path=None, bagging=False):
     train_file_ids = []
     valid_file_ids = []
     test_file_ids = []
@@ -171,7 +171,10 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pi
             train_data[3].append(pickled_training_data[3][i])
             train_data[4].append(pickled_training_data[4][i])
             train_data[5].append(pickled_training_data[5][i])
-            train_data[6].append(True)
+            if not bagging:
+                train_data[6].append(True)
+            else:
+                train_data[6].append(False)
         vocabulary = pickled_training_data[-1]
     valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab= (vocabulary==None))
     test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False)

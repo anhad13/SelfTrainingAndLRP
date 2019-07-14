@@ -349,6 +349,7 @@ if __name__ == '__main__':
     parser.add_argument('--training_method', type=str, default='unsupervised', help='unsupervised/supervised/interleave/semisupervised')
     parser.add_argument('--training_ratio', type=float, default=0.5,
                         help='1: all batches SUP, 0: all UNSUP')
+    parser.add_argument('--bagging', action='store_true', help='if using pickled random forest data.')
     args = parser.parse_args()
     is_cuda = False
     gpu_device = 0
@@ -385,4 +386,4 @@ if __name__ == '__main__':
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_beta = args.beta, parse_with_gates=(not args.parse_with_distances),
               save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs,             
-              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio)
+              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio, bagging=args.bagging)
