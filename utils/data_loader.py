@@ -162,7 +162,11 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pi
         train_data = load_trees(train_file_ids, vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model)
     else: # assumption: supervised load from pickle and all data is UNSUP
         pickled_training_data = pickle.load(open(pickled_file_path, "rb"))
-        train_data = load_trees(train_file_ids, vocab=pickled_training_data[-1], grow_vocab= False)
+        if bagging:
+            print("INIT TO ZERO...")
+            train_data = [[],[],[],[],[],[],[], pickled_training_data[-1]]
+        else:
+            train_data = load_trees(train_file_ids, vocab=pickled_training_data[-1], grow_vocab= False)
         print(str(len(pickled_training_data[0]))+"_______LEN")
         for i in range(len(pickled_training_data[0])):
             train_data[0].append(pickled_training_data[0][i])

@@ -353,6 +353,8 @@ if __name__ == '__main__':
     args = parser.parse_args()
     is_cuda = False
     gpu_device = 0
+    if args.bagging:
+        print("bagging...")
     if not torch.cuda.is_available():
         print("You are not using CUDA.")
     else:
@@ -366,7 +368,7 @@ if __name__ == '__main__':
         outfile = args.load + '_output_' + str(time.time())
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         model = torch.load(args.load, map_location=device) 
-        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit) 
+        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, bagging=args.bagging) 
         if args.eval_on == 'train':
             f1 = eval_fct(model, train_data, args.PRPN, (not args.parse_with_distances), is_cuda, outfile)
         elif args.eval_on == 'test':
@@ -377,13 +379,13 @@ if __name__ == '__main__':
         exit()
     if args.vocabulary:
         vocab =  pickle.load(open(args.vocabulary, "rb"))
-        train_data, valid_data, test_data = data_loader.main(args.data, vocabulary = vocab, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.), pickled_file_path =args.train_from_pickle)
+        train_data, valid_data, test_data = data_loader.main(args.data, vocabulary = vocab, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.), pickled_file_path =args.train_from_pickle, bagging=args.bagging)
     else:
-        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.), pickled_file_path =args.train_from_pickle)        
+        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.), pickled_file_path =args.train_from_pickle, bagging=args.bagging)        
     if args.dump_vocabulary:
         pickle.dump(valid_data[-1], open("dict.pkl","wb"))
         print("Saving Vocab to file.")
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_beta = args.beta, parse_with_gates=(not args.parse_with_distances),
               save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs,             
-              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio, bagging=args.bagging)
+              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio)
