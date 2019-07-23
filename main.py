@@ -7,13 +7,16 @@ import torch
 import torch.optim as optim
 import torch.nn.functional as F
 import time
-from utils import data_loader
+from utils import data_loader, ctb_data
 from model.parser import Parser
 from model.prpn import PRPN
 from utils.data_loader import build_tree, get_brackets
 import torch.nn as nn
 import pickle
 import math
+from os import listdir
+from os.path import isfile, join, isdir
+
 
 
 def ranking_loss(pred, gold, mask):
@@ -350,7 +353,13 @@ if __name__ == '__main__':
     parser.add_argument('--training_ratio', type=float, default=0.5,
                         help='1: all batches SUP, 0: all UNSUP')
     parser.add_argument('--bagging', action='store_true', help='if using pickled random forest data.')
+    parser.add_argument('--treebank', type= str, default='ptb', help='ptb/ctb')
     args = parser.parse_args()
+    if args.treebank == "ctb":
+        print("Using chinese treebank")
+        data_loader = ctb_data
+    else:
+        print("Using english treebank")
     is_cuda = False
     gpu_device = 0
     if args.bagging:
