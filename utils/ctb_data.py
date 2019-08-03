@@ -170,7 +170,7 @@ def convert_ctb5_to_backeted(ctb_root):
 
 
 
-def main(data = 'data/ctb/',supervision_limit=-1, supervised_model=False, vocabulary=None, pickled_file_path=None, bagging=False):
+def main(data = 'data/ctb/',supervision_limit=-1, supervised_model=False, vocabulary=None, pickled_file_path=None, bagging=False, semisupervised=False):
     path = "data/ctb/"
     ctb = convert_ctb5_to_backeted(path)
     training = list(range(1, 815 + 1)) + list(range(1001, 1136 + 1))

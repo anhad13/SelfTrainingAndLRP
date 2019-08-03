@@ -83,7 +83,7 @@ def filter_words(tree):
     return words
 
 
-def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervised_model=False):
+def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervised_model=False, semisupervised=False):
     '''
        This returns
        1) a list of torch.LongTensors containing the indices of all not filtered words of each sentence
@@ -118,7 +118,7 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
             gate_values = tree_to_gates(treelist)
             brackets = get_brackets(treelist)[0]
             if supervision_limit > -1 and counter >= supervision_limit:
-                if supervised_model:
+                if (not semisupervised) and supervised_model:
                     break
                 all_dists.append(torch.zeros_like(torch.FloatTensor(list2distance(treelist)[0])))
                 all_gates.append(torch.zeros_like(torch.FloatTensor(gate_values)))
@@ -126,7 +126,7 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
             else:
                 all_dists.append(torch.FloatTensor(list2distance(treelist)[0]))
                 all_gates.append(torch.FloatTensor(gate_values))
-                if supervised_model==False:
+                if semisupervised==False and supervised_model==False:
                    skip_sup.append(False)
                 else:
                    skip_sup.append(True)
@@ -142,7 +142,7 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
     return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, skip_sup, vocab
 
 
-def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pickled_file_path=None, bagging=False):
+def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pickled_file_path=None, bagging=False, semisupervised=False):
     train_file_ids = []
     valid_file_ids = []
     test_file_ids = []
@@ -159,7 +159,7 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pi
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
     if pickled_file_path == None:
-        train_data = load_trees(train_file_ids, vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model)
+        train_data = load_trees(train_file_ids, vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model, semisupervised=semisupervised)
     else: # assumption: supervised load from pickle and all data is UNSUP
         pickled_training_data = pickle.load(open(pickled_file_path, "rb"))
         if bagging:
