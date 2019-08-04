@@ -79,7 +79,7 @@ def checkoserrror(path):
             raise
 
 
-def load_trees(ctb, ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervised_model=False):
+def load_trees(path, ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervised_model=False):
     '''
        This returns
        1) a list of torch.LongTensors containing the indices of all not filtered words of each sentence
@@ -94,18 +94,19 @@ def load_trees(ctb, ids, vocab=None, grow_vocab=True, supervision_limit=-1, supe
     counter = 0
     files = []
     dontexist = 0
-    for fid in ids:
-        f = 'chtb_%03d.fid' % fid
-        if fid > 1000:
-            f = 'chtb_%04d.fid' % fid
-        try:
-            ctb.parsed_sents(f)
-            files.append(f)
-        except OSError as exception:
-            dontexist +=1
-    print(str(dontexist)+ " failed.")
-    for id in files:
-        for sent in ctb.parsed_sents(id):
+    ctb = convert_ctb5_to_backeted(path, ids)
+    # for fid in ids:
+    #     # f = 'chtb_%03d.fid' % fid
+    #     # if fid > 1000:
+    #     #     f = 'chtb_%04d.fid' % fid
+    #     f = fid
+    #     try:
+    #         ctb.parsed_sents()[f]
+    #         files.append(f)
+    #     except OSError as exception:
+    #         dontexist +=1
+    for id in ids:
+        for sent in ctb.parsed_sents()[id]:
             words = ['<bos>'] + filter_words(sent) + ['<eos>']
             idx = []
             for word in words:
@@ -146,11 +147,22 @@ def load_trees(ctb, ids, vocab=None, grow_vocab=True, supervision_limit=-1, supe
     return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, skip_sup, vocab
 
 
-def convert_ctb5_to_backeted(ctb_root):
+def convert_ctb5_to_backeted(ctb_root, ids):
     ctb_root = join(ctb_root, 'bracketed')
     fids = [f for f in listdir(ctb_root) if isfile(join(ctb_root, f)) and f.endswith('.fid')]
     lines = []
-    for f in fids:
+    files = []
+    out = open(ctb_root+"files.ctb", "w")
+    for fid in ids:
+        f = 'chtb_%03d.fid' % fid
+        if fid > 1000:
+            f = 'chtb_%04d.fid' % fid
+        files.append(f)
+    doesnt_exist = 0
+    for f in files:
+        if not os.path.exists(join(ctb_root, f)):
+            doesnt_exist+=1
+            continue
         with open(join(ctb_root, f), encoding='GB2312') as src:
             in_s_tag = False
             try:
@@ -160,24 +172,24 @@ def convert_ctb5_to_backeted(ctb_root):
                     elif line.startswith('</S>'):
                         in_s_tag = False
                     elif in_s_tag:
-                        lines.append(line)
+                        out.write(line)
             except:
                 # The last file throws encoding error at the very end, doesn't affect sentences.
                 pass
-    from nltk.corpus import BracketParseCorpusReader, LazyCorpusLoader
-    ctb = LazyCorpusLoader('ctb', BracketParseCorpusReader, r'chtb_.*\.fid', tagset='unknown')
+    print(doesnt_exist)
+    ctb = BracketParseCorpusReader('' , ctb_root+'files.ctb')
     return ctb
 
 
 
 def main(data = 'data/ctb/',supervision_limit=-1, supervised_model=False, vocabulary=None, pickled_file_path=None, bagging=False, semisupervised=False):
     path = "data/ctb/"
-    ctb = convert_ctb5_to_backeted(path)
+    #ctb = convert_ctb5_to_backeted(path)
     training = list(range(1, 815 + 1)) + list(range(1001, 1136 + 1))
     development = list(range(886, 931 + 1)) + list(range(1148, 1151 + 1))
     test = list(range(816, 885 + 1)) + list(range(1137, 1147 + 1))
     if pickled_file_path == None:
-        train_data = load_trees(ctb, training, vocab=vocabulary, grow_vocab=(vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model)
+        train_data = load_trees(path, training, vocab=vocabulary, grow_vocab=(vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model)
     else: # assumption: supervised load from pickle and all data is UNSUP
         pickled_training_data = pickle.load(open(pickled_file_path, "rb"))
         train_data = load_trees(train_file_ids, vocab=pickled_training_data[-1], grow_vocab= False)
@@ -194,8 +206,8 @@ def main(data = 'data/ctb/',supervision_limit=-1, supervised_model=False, vocabu
             else:
                 train_data[6].append(False)
         vocabulary = pickled_training_data[-1]
-    valid_data = load_trees(ctb, development, vocab=train_data[-1], grow_vocab= (vocabulary==None))
-    test_data = load_trees(ctb, test, vocab=train_data[-1], grow_vocab=False)
+    valid_data = load_trees(path, development, vocab=train_data[-1], grow_vocab= (vocabulary==None))
+    test_data = load_trees(path, test, vocab=train_data[-1], grow_vocab=False)
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) 
     print('Number of sentences loaded: ' + str(number_sentences))
     
