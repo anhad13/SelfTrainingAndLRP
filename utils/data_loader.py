@@ -83,7 +83,7 @@ def filter_words(tree):
     return words
 
 
-def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervised_model=False, semisupervised=False):
+def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervised_model=False, semisupervised=False, binarize=False):
     '''
        This returns
        1) a list of torch.LongTensors containing the indices of all not filtered words of each sentence
@@ -113,7 +113,8 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
                 continue
                 print("skipping")
             # Binarize tree.
-            nltk.treetransforms.chomsky_normal_form(sent)
+            if binarize:
+                nltk.treetransforms.chomsky_normal_form(sent)
             treelist = tree2list(sent)
             gate_values = tree_to_gates(treelist)
             brackets = get_brackets(treelist)[0]
@@ -159,14 +160,14 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pi
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
     if pickled_file_path == None:
-        train_data = load_trees(train_file_ids, vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model, semisupervised=semisupervised)
+        train_data = load_trees(train_file_ids, vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model, semisupervised=semisupervised, binarize=True)
     else: # assumption: supervised load from pickle and all data is UNSUP
         pickled_training_data = pickle.load(open(pickled_file_path, "rb"))
         if bagging:
             print("INIT TO ZERO...")
             train_data = [[],[],[],[],[],[],[], pickled_training_data[-1]]
         else:
-            train_data = load_trees(train_file_ids, vocab=pickled_training_data[-1], grow_vocab= False)
+            train_data = load_trees(train_file_ids, vocab=pickled_training_data[-1], grow_vocab= False, binarize=True)
         print(str(len(pickled_training_data[0]))+"_______LEN")
         for i in range(len(pickled_training_data[0])):
             train_data[0].append(pickled_training_data[0][i])
