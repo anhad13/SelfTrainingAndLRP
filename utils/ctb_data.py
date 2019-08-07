@@ -105,8 +105,8 @@ def load_trees(path, ids, vocab=None, grow_vocab=True, supervision_limit=-1, sup
     #         files.append(f)
     #     except OSError as exception:
     #         dontexist +=1
-    for id in ids:
-        for sent in ctb.parsed_sents()[id]:
+    for id in [1]:
+        for sent in ctb.parsed_sents():
             words = ['<bos>'] + filter_words(sent) + ['<eos>']
             idx = []
             for word in words:
