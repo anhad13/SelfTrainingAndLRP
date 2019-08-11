@@ -183,7 +183,7 @@ def convert_ctb5_to_backeted(ctb_root, ids):
 
 
 
-def main(data = 'data/ctb/',supervision_limit=-1, supervised_model=False, vocabulary=None, pickled_file_path=None, bagging=False, semisupervised=False):
+def main(data = 'data/ctb/',supervision_limit=-1, supervised_model=False, vocabulary=None, pickled_file_path=None, bagging=False, semisupervised=False, force_binarize=False):
     path = "data/ctb/"
     #ctb = convert_ctb5_to_backeted(path)
     training = list(range(1, 815 + 1)) + list(range(1001, 1136 + 1))
@@ -207,8 +207,8 @@ def main(data = 'data/ctb/',supervision_limit=-1, supervised_model=False, vocabu
             else:
                 train_data[6].append(False)
         vocabulary = pickled_training_data[-1]
-    valid_data = load_trees(path, development, vocab=train_data[-1], grow_vocab= (vocabulary==None))
-    test_data = load_trees(path, test, vocab=train_data[-1], grow_vocab=False)
+    valid_data = load_trees(path, development, vocab=train_data[-1], grow_vocab= (vocabulary==None), binarize= force_binarize)
+    test_data = load_trees(path, test, vocab=train_data[-1], grow_vocab=False, binarize= force_binarize)
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) 
     print('Number of sentences loaded: ' + str(number_sentences))
     

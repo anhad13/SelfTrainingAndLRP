@@ -1,0 +1,43 @@
+
+This directory contains version 2.0 of the NEGRA corpus.
+The contents of the files are:
+
+negra-corpus.tar.gz	All of the following files are combined in
+			this gzip:ed tar file. This is the only file
+			that you need to download. In case of problems,
+			please retrieve the single files or
+			contact us.
+
+negra-corpus.export	The complete corpus data in export format
+			(see exformat3.ps).
+negra-corpus.cfg        The corpus converted to context-free structures
+			(i.e., all crossing branches are transformed to
+			traces)
+negra-corpus.penn	The corpus converted to the Penn Treebank format,
+			(a bracketed structure, crossing branches are
+			converted to traces).
+			All left and right round brackets () in the text
+			are replaced by *LRB* and *RRB*.
+negra-corpus.sent	The raw sentence data.
+negra-corpus.tt		Words and parts-of-speech from the corpus
+			(one token and tag per line).
+negra-corpus.lex	A list of words from the corpus, together with
+			frequencies and part-of-speech information.
+exformat3.ps		A description of the export format.
+stts.asc		A description of the part-of-speech tags
+edges.html		A description of the edge labels
+nodes.html		A description of the node labels
+
+Please refer to
+	http://www.coli.uni-sb.de/sfb378/negra-corpus/
+for further information on the corpus or contact
+	Geert-Jan M. Kruijff
+	Universitaet des Saarlandes
+	Computerlinguistik
+	P.O.Box 151150
+	D-66041 Saarbruecken
+	Germany
+	gj@coli.uni-sb.de
+
+
+

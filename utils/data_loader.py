@@ -143,7 +143,7 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
     return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, skip_sup, vocab
 
 
-def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pickled_file_path=None, bagging=False, semisupervised=False):
+def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pickled_file_path=None, bagging=False, semisupervised=False, force_binarize=False):
     train_file_ids = []
     valid_file_ids = []
     test_file_ids = []
@@ -182,8 +182,8 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pi
                 train_data[6].append(False)
         vocabulary = pickled_training_data[-1]
     valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab= (vocabulary==None))
-    test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False)
-    rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False)
+    test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False, binarize= force_binarize)
+    rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False, binarize= force_binarize)
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) + len(rest_data[0])
     print('Number of sentences loaded: ' + str(number_sentences))
     

@@ -7,7 +7,7 @@ import torch
 import torch.optim as optim
 import torch.nn.functional as F
 import time
-from utils import data_loader, ctb_data
+from utils import data_loader, ctb_data, german_data
 from model.parser import Parser
 from model.prpn import PRPN
 from utils.data_loader import build_tree, get_brackets
@@ -355,10 +355,14 @@ if __name__ == '__main__':
     parser.add_argument('--bagging', action='store_true', help='if using pickled random forest data.')
     parser.add_argument('--treebank', type= str, default='ptb', help='ptb/ctb')
     parser.add_argument('--semisupervised', action='store_true', help='do both supervi and unsupervi/useful for supervision limit types')
+    parser.add_argument('--force_binarize', action='store_true', help='force for binary comparison for F1 calc')
     args = parser.parse_args()
     if args.treebank == "ctb":
         print("Using chinese treebank")
         data_loader = ctb_data
+    elif args.treebank == "negra":
+        print("Using german (negra) corpus")
+        data_loader = german_data
     else:
         print("Using english treebank")
     is_cuda = False
@@ -378,7 +382,7 @@ if __name__ == '__main__':
         outfile = args.load + '_output_' + str(time.time())
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         model = torch.load(args.load, map_location=device) 
-        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, bagging=args.bagging,semisupervised = args.semisupervised) 
+        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, bagging=args.bagging,semisupervised = args.semisupervised, force_binarize = args.force_binarize) 
         if args.eval_on == 'train':
             f1 = eval_fct(model, train_data, args.PRPN, (not args.parse_with_distances), is_cuda, outfile)
         elif args.eval_on == 'test':
@@ -389,9 +393,9 @@ if __name__ == '__main__':
         exit()
     if args.vocabulary:
         vocab =  pickle.load(open(args.vocabulary, "rb"))
-        train_data, valid_data, test_data = data_loader.main(args.data, vocabulary = vocab, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.), pickled_file_path =args.train_from_pickle, bagging=args.bagging,semisupervised = args.semisupervised)
+        train_data, valid_data, test_data = data_loader.main(args.data, vocabulary = vocab, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.), pickled_file_path =args.train_from_pickle, bagging=args.bagging,semisupervised = args.semisupervised, force_binarize = args.force_binarize)
     else:
-        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.), pickled_file_path =args.train_from_pickle, bagging=args.bagging ,semisupervised = args.semisupervised)        
+        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.), pickled_file_path =args.train_from_pickle, bagging=args.bagging ,semisupervised = args.semisupervised, force_binarize = args.force_binarize)        
     if args.dump_vocabulary:
         pickle.dump(valid_data[-1], open("dict.pkl","wb"))
         print("Saving Vocab to file.")
