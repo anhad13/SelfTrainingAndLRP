@@ -7,7 +7,7 @@ import torch
 import torch.optim as optim
 import torch.nn.functional as F
 import time
-from utils import data_loader, ctb_data, german_data
+from utils import data_loader, ctb_data, german_data, arabic_data
 from model.parser import Parser
 from model.prpn import PRPN
 from utils.data_loader import build_tree, get_brackets
@@ -363,6 +363,9 @@ if __name__ == '__main__':
     elif args.treebank == "negra":
         print("Using german (negra) corpus")
         data_loader = german_data
+    elif args.treebank == "arabic":
+        print("Using arabic treebank")
+        data_loader = arabic_data        
     else:
         print("Using english treebank")
     is_cuda = False
