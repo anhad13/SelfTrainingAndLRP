@@ -9,4 +9,4 @@
 
 model_no=$1
 
-python -u main.py --save trained_models/UNS.shen.${model_no} --batch 16 --epochs 30 --PRPN --shen
+python -u main.py --save trained_models/UNS_${model_no} --batch 64 --epochs 30 --PRPN --shen
