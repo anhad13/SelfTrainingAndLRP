@@ -1,0 +1,155 @@
+<su id=p1su1>
+
+
+( (IP (NP-PN-SBJ (NR 美国) )
+      (VP (ADVP (AD 太) )
+	  (VP (VA 霸气) ) )
+      (SP 了) ) ) 
+
+<su id=p1su2>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 听说)
+	  (IP-OBJ (NP-PN-SBJ (NR 陈炳德) )
+		  (VP (PP-TMP (P 在)
+			      (NP (IP (NP-SBJ (-NONE- *pro*))
+				      (VP (DP-TMP (DT 这)
+						  (CLP (M 次) ) )
+					  (VP (VV 访)
+					      (NP-PN-OBJ (NR 美) ) ) ) )
+				  (NP (NN 期间) ) ) )
+		      (PU ，)
+		      (VP (VV 说)
+			  (AS 了)
+			  (NP-OBJ (QP (CD 一)
+				      (CLP (M 句) ) )
+				  (CP (WHNP-1 (-NONE- *OP*))
+				      (CP (IP (NP-SBJ (-NONE- *T*-1))
+					      (VP (VV 赞美)
+						  (NP-OBJ (NR 美国) ) ) )
+					  (DEC 的) ))
+				  (NP (NN 话) ) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su3>
+
+
+( (IP (PU “)
+      (NP-PN-SBJ (NR 美国) )
+      (VP (ADVP (AD 太) )
+	  (VP (VA 霸气) ) )
+      (SP 了)
+      (PU ”)
+      (PU ，) ) ) 
+
+<su id=p1su4>
+
+
+( (CP-Q (IP (NP-SBJ (-NONE- *pro*))
+	    (VP (ADVP-WH (AD 怎么) )
+		(VP (VV 能)
+		    (VP (ADVP (AD 这样) )
+			(VP (VV 赞扬)
+			    (NP-OBJ-PN (NR 美国) )
+			    (IP (NP-SBJ (-NONE- *PRO*))
+				(VP (VV 继续)
+				    (VP (VV 卖)
+					(NP-OBJ (NN 武器) )
+					(PP-BNF (P 给)
+						(NP-PN (NR 台湾) ) ) ) ) ) ) ) ) ) )
+	(SP 呢)
+	(PU ？) ) ) 
+
+<su id=p1su5>
+
+
+( (IP (NP-SBJ (PU “)
+	      (NN 霸气)
+	      (PU ”) )
+      (VP (VC 是)
+	  (NP-PRD (QP (CLP (M 个) ) )
+		  (NP (NN 褒义词) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su6>
+
+
+( (IP (IP-CND (NP-SBJ (-NONE- *pro*))
+	      (VP (ADVP (CS 要) )
+		  (VP (VC 是)
+		      (NP-PRD (PN 我) ) ) ) )
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 就) )
+	  (VP (VV 说)
+	      (IP-SBJ (NP-PN-SBJ (NR 美国) )
+		      (VP (ADVP (AD 太) )
+			  (VP (VA 霸道) ) )
+		      (SP 了) ) ) )
+      (PU 。) ) ) 
+
+<su id=p2su1>
+
+
+( (IP (NP-TPC (NN 世界)
+	      (NN 名言) )
+      (PU ：)
+      (IP (PU “)
+	  (NP-SBJ (NN 中国人) )
+	  (VP (VV 具有)
+	      (NP-OBJ (NN 奴隶性) ) )
+	  (PU ”) )
+      (PU ！！) ) ) 
+
+<su id=p2su2>
+
+
+( (CP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 真的) )
+	      (VP (VC 是)
+		  (NP-PRD (NN 奴颜婢膝) ) ) ) )
+      (SP 啊)
+      (PU ！！) ) ) 
+
+<su id=p2su3>
+
+
+( (IP (NP-SBJ (QP (CD 一点) )
+	      (NP (NN 骨气) ) )
+      (VP (ADVP (AD 都) )
+	  (VP (VE 没有) ) )
+      (PU 。) ) ) 
+
+<su id=p3su1>
+
+
+( (UCP (IP (NP-SBJ (QP (CD 一点) )
+		   (NP (NN 骨气) ) )
+	   (VP (ADVP (AD 都) )
+	       (VP (VE 没有) ) ) )
+       (PU ，)
+       (NP (CP (WHNP-1 (-NONE- *OP*))
+	       (CP (IP (NP-SBJ (-NONE- *T*-1))
+		       (VP (VA 典型) ) )
+		   (DEC 的) ))
+	   (NP (NN 奴颜婢膝) ) )
+       (PU 。) ) ) 
+
+<su id=p4su1>
+
+
+( (IP (NP-PN-SBJ (NR 美国) )
+      (VP (ADVP (AD 很) )
+	  (VP (VA 霸道) ) )
+      (PU ，) ) ) 
+
+<su id=p4su2>
+
+
+( (IP (NP-TMP (NT 现在) )
+      (NP-PN-SBJ (NR 韩国) )
+      (VP (ADVP (AD 也) )
+	  (VP (VA 霸道) ) )
+      (SP 了)
+      (PU 。) ) ) 
+

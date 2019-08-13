@@ -1,0 +1,155 @@
+<DOC>
+<DOCID>HK.19970708.0016</DOCID>
+<HEADER>
+<DATE>1997-07-08</DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=5605>
+( (NP-HLN (NP-PN (NR 信兴))
+	  (NP (NN 阅读)
+	      (NN 奖励)
+	      (NN 计划))))
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=5606>
+( (IP (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (VV 来自)
+				  (NP-OBJ (QP (CD 六百二十二)
+					      (CLP (M 间)))
+					  (NP (NN 学校)))))
+			  (DEC 的)))
+		  (QP (CD 一百一十)
+		      (CLP (M 名)))
+		  (NP (NN 学生)))
+	  (VP (NP-TMP (NT 明日)
+		      (PRN (PU （)
+			   (NP (NT 星期三))
+			   (PU ）)))
+	      (PP-LOC (P 在)
+		      (LCP (NP (NP (NP-PN (NR 信兴))
+				   (NP (NN 阅读)
+				       (NN 奖励)
+				       (NN 计划)))
+			       (NP (NN 颁奖)
+				   (NN 典礼)))
+			   (LC 上)))
+	      (VP (VV 获颁)
+		  (NP-OBJ (NN 奖杯)
+			  (PU 、)
+			  (NN 书券)
+			  (CC 及)
+			  (NN 奖状)))))
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (NP-LOC (DP (DT 同))
+		      (NP (NN 场)))
+	      (ADVP (AD 并))
+	      (VP (VV 会)
+		  (VP (VV 展出)
+		      (NP-OBJ (NP (CP (WHNP-2 (-NONE- *OP*))
+				      (IP (NP-SBJ (-NONE- *T*-2))
+					  (VP (VV 获奖))))
+				  (NP (NN 学生)))
+			      (NP (NN 作品)))))))
+      (PU 。)) )
+</S>
+</P>
+<P>
+<S ID=5607>
+( (IP (NP-SBJ (DNP (NP (NN 阅读)
+		       (NN 奖励)
+		       (NN 计划))
+		   (DEG 的))
+	      (NP (NN 目的)))
+      (PU ，)
+      (VP (VV 在)
+	  (IP-IMP (NP-SBJ (-NONE- *pro*))
+		  (VP (VP (VV 培养)
+			  (NP-OBJ (DNP (NP (NN 学生))
+				       (DEG 的))
+				  (ADJP (JJ 良好))
+				  (NP (NN 阅读)
+				      (NN 习惯))))
+		      (PU ，)
+		      (VP (VV 提高)
+			  (NP-OBJ (DNP (NP (NN 学生))
+				       (DEG 的))
+				  (NP (NN 阅读)
+				      (CC 及)
+				      (NN 语文))
+				  (NP (NN 能力))))
+		      (PU ，)
+		      (CC 且)
+		      (VP (VV 鼓励)
+			  (NP-OBJ (NN 学生))
+			  (IP (NP-SBJ (-NONE- *PRO*))
+			      (VP (VV 运用)
+				  (NP-OBJ (NN 图书馆)
+					  (NN 资源))))))))
+      (PU 。)))
+</S>
+</P>
+<P>
+<S ID=5608>
+( (IP (IP (NP-SBJ-1 (NP-PN (NR 信兴))
+		    (NP (NN 阅读)
+			(NN 奖励)
+			(NN 计划)))
+	  (VP (VP (PP-LGS (P 由)
+			  (NP-PN=5 (NN 教育署)
+				   (NN 图书馆组)))
+		  (VP (VV 主办)
+		      (NP-OBJ (-NONE- *-1))))
+	      (PU ，)
+	      (VP (PP-LGS (NP-PN=5 (NP-PN (NR 信兴))
+				   (NP (NN 教育)
+				       (CC 及)
+				       (NN 慈善))
+				   (NP (NN 基金))))
+		  (VP (VV 赞助)
+		      (NP-OBJ (-NONE- *-1))))))
+      (PU ，)
+      (IP (NP-SBJ (NP (NN 小五)
+		      (CC 至)
+		      (NN 中五))
+		  (NP (NN 学生)))
+	  (VP (ADVP (AD 均))
+	      (VP (VV 可)
+		  (VP (VV 参加)))))
+      (PU 。)))
+</S>
+</P>
+<P>
+<S ID=5609>
+( (IP (IP (NP-SBJ (NN 阅读)
+		  (NN 奖励)
+		  (NN 计划))
+	  (VP (ADVP (AD 非常))
+	      (VP (VV 受)
+		  (NP-OBJ (NN 欢迎)))))
+      (PU ，)
+      (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (IP (NP-SBJ (-NONE- *T*-1))
+			  (VP (VV 参加))))
+		  (NP (NN 学校)
+		      (CC 与)
+		      (NN 学生)
+		      (NN 人数)))
+	  (VP (DP-ADV (DT 每)
+		      (CLP (M 年)))
+	      (VP (VV 递增))))
+      (PU 。)))
+</S>
+</P>
+<P>
+<S ID=5610>
+( (FRAG (VV 完)))
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

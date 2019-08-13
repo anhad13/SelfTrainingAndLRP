@@ -1,0 +1,115 @@
+<su id=p1su1>
+
+
+( (IP (NP-PN-SBJ (NR 日))
+      (VP (VV 称)
+	  (IP-OBJ (NP-SBJ (NP (PN 我))
+			  (NP (NN 海军)
+			      (NN 舰艇)
+			      (NN 编队)))
+		  (VP (VV 通过)
+		      (NP-OBJ (NP (NP-PN (NR 冲绳))
+				  (NP (NN 附近)))
+			      (NP (NN 公海))))))
+      (PU ！)) ) 
+
+<su id=p1su2>
+
+
+( (IP (PP-MNR (P 据)
+	      (IP (NP-PN-SBJ (NR 日本)
+			     (NR NHK)
+			     (NN 电视台))
+		  (VP (NP-TMP (NT 11月)
+			      (NT 23日)
+			      (NN 消息))
+		      (VP (VV 称)))))
+      (PU ，)
+      (PP-MNR (P 经)
+	      (IP (NP-SBJ (NP-PN (NR 日本))
+			  (NP (NN 海上)
+			      (NN 自卫队)
+			      (NN 海上))
+			  (NP (NN 巡逻机)))
+		  (VP (VV 确认))))
+      (PU ，)
+      (NP-TMP (NP-PN (NR 北京)
+		     (NN 时间))
+	      (NP (NT 11月)
+		  (NT 22日)
+		  (CC 至)
+		  (NT 23日)))
+      (PU ，)
+      (NP-SBJ (NP-PN (NR 中国))
+	      (NP (NP (NN 海军)
+		      (NN 舰艇)
+		      (NN 编队))
+		  (QP (CD 6)
+		      (CLP (M 艘)))
+		  (NP (NN 舰艇))))
+      (VP (VP (ADVP (AD 相继))
+	      (VP (VV 通过)
+		  (NP-OBJ (NP (NP-PN (NR 冲绳))
+			      (NP (NN 本岛)))
+			  (PU -)
+			  (NP (LCP (NP-PN (NR 宫古岛))
+				   (LC 之间))
+			      (NP (NN 公海)))
+			  (NP (NN 水道)))))
+	  (VP (VV 驶向)
+	      (NP-PN-OBJ (NR 太平洋))))
+      (PU 。)) ) 
+
+<su id=p2su1>
+
+
+( (IP-Q (NP-SBJ (NN 老残))
+	(PU ，)
+	(VP (VP (VV 跑到)
+		(NP-OBJ (PN 这里)))
+	    (VP (VP (VV 喊)
+		    (VP (VV 万岁)))
+		(VP (VV 来))))
+	(SP 了)
+	(PU ？)) ) 
+
+<su id=p3su1>
+
+
+( (CP-Q (IP (NP-SBJ (NN 日倭))
+	    (VP (ADVP (AD 不))
+		(VP (VC 是)
+		    (VP (ADVP (AD 整天))
+			(VP (VV 叫嚷)
+			    (AS 着)
+			    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+				    (VP (VV 要)
+					(VP (VV 围堵)
+					    (NP-PN-OBJ (NR 中国))))))))))
+	(SP 吗)) ) 
+
+<su id=p3su2>
+
+
+( (CP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 围)
+	      (AS 个)
+	      (NP-OBJ (NN 屌))))
+      (SP 啊)) ) 
+
+<su id=p3su3>
+
+
+( (CP (IP (NP-SBJ (DNP (NP-PN (NR 中国))
+		       (DEG 的))
+		  (NP (NN 战略)
+		      (NN 轰炸机)))
+	  (VP (ADVP (AD 还))
+	      (VP (VV 没有)
+		  (VP (VP (VV 围绕)
+			  (NP-OBJ (NP (PN 你))
+				  (NP (QP (CD 三))
+				      (NP (NN 岛)))))
+		      (VP (VV 绕圈圈))))))
+      (SP 呢)) ) 
+

@@ -1,0 +1,102 @@
+<DOC>
+<DOCID>HK.19970702.0006</DOCID>
+<HEADER>
+<DATE>1997-07-02</DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=5204>
+( (IP-HLN (NP-SBJ (NN 电视)
+		  (NN 新闻)
+		  (NN 报道))
+	  (VP (ADVP (AD 不))
+	      (VP (VA 正确)))))
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=5205>
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (NP-TMP (NT 今日)
+		      (PRN (PU （)
+			   (NP (NT 星期三))
+			   (PU ）)))
+	      (VP (VE 有)
+		  (IP-OBJ (NP-SBJ (NN 电视台)
+				  (NN 新闻)
+				  (NN 报道))
+			  (VP (VV 指)
+			      (IP-OBJ (PP-PRP (P 由於)
+					      (NP (ADJP (JJ 连场))
+						  (NP (NN 大雨))))
+				      (PU ，)
+				      (NP-PN-SBJ (NN 水务署))
+				      (VP (PP-LOC (P 在)
+						  (NP (NN 城门)
+						      (NN 水塘)))
+					  (VP (VP (VV 开启)
+						  (NP-OBJ (NN 水闸)))
+					      (VP (VV 排洪))))))))))
+      (PU ，)
+      (IP (NP-SBJ (NP (DP (DT 该))
+		      (NP (NN 署)))
+		  (NP (NN 发言人)))
+	  (VP (VV 说)
+	      (PU ∶)
+	      (IP-OBJ (PU 「)
+		      (NP-TPC (DP (DT 该))
+			      (NP (NN 报道)))
+		      (NP-SBJ (NN 内容))
+		      (VP (ADVP (AD 不))
+			  (VP (VA 正确))))))
+      (PU 。)
+      (PU 」)))
+</S>
+</P>
+<P>
+<S ID=5206>
+( (IP (PU 「)
+      (IP (NP-SBJ (DP (DT 所有))
+		  (DNP (NP-PN (NR 香港))
+		       (DEG 的))
+		  (NP (NN 水塘)))
+	  (VP (ADVP (AD 都))
+	      (VP (VV 设有)
+		  (NP-OBJ (NN 溢洪道)))))
+      (PU ，)
+      (IP (PP-TMP (P 当)
+		  (LCP (IP (NP-SBJ (NN 水塘))
+			   (VP (VV 注满)
+			       (NP-OBJ (NN 水))))
+		       (LC 後)))
+	  (PU ，)
+	  (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (VV 过剩)))
+			  (DEC 的)))
+		  (NP (NN 水)))
+	  (VP (ADVP (AD 就))
+	      (VP (VV 会)
+		  (VP (ADVP (AD 自动))
+		      (PP-DIR (P 由)
+			      (NP (NN 溢洪道)))
+		      (ADVP (AD 逐渐))
+		      (VP (VV 流走))))))
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 毋))
+	      (VP (VV 须要)
+		  (VP (VV 进行)
+		      (NP-OBJ (NN 排洪))))))
+      (PU 。)
+      (PU 」)))
+</S>
+</P>
+<P>
+<S ID=5207>
+( (FRAG (VV 完)))
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

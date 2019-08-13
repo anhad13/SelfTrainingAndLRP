@@ -1,0 +1,633 @@
+<su id=p1su1>
+
+
+( (IP (NP-TMP (NP (NT 昨晚)
+		  (PRN (PU （)
+		       (NP (NT 4日) )
+		       (PU ）) ) )
+	      (NP (NP (NT 7时)
+		      (NT 40分) )
+		  (ADVP (AD 许) ) ) )
+      (PU ，)
+      (NP-LOC (CP (WHNP-1 (-NONE- *OP*))
+		  (IP (NP-SBJ (-NONE- *T*-1))
+		      (VP (NP-LOC (NP (NP-PN (NR 中环线) )
+				      (NP (NN 高架) ) )
+				  (NP (NP-PN (NR 浦东) )
+				      (NP (NN 段) ) )
+				  (NP (NP-PN (NR 罗山路) )
+				      (NP (NN 出口) ) ) )
+			  (ADVP (AD 不) )
+			  (VP (VV 到)
+			      (QP (CD 800)
+				  (CLP (M 米) ) ) ) ) ))
+	      (NP (NN 处) ) )
+      (PU ，)
+      (NP-SBJ (NP (QP (CD 一)
+		      (CLP (M 辆) ) )
+		  (NP-PN (NR 宝马) )
+		  (NP (NN 轿车) ) )
+	      (CC 和)
+	      (NP (QP (CD 一)
+		      (CLP (M 辆) ) )
+		  (NP-PN (NR 奔驰) )
+		  (NP (NN 轿车) ) ) )
+      (VP (PP-LOC (P 在)
+		  (LCP (IP (NP-SBJ (-NONE- *pro*))
+			   (VP (VV 追逐) ) )
+		       (LC 中) ) )
+	  (VP (VV 发生)
+	      (NP-OBJ (NN 碰撞) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su2>
+
+
+( (IP (LCP-TMP (IP (NP-SBJ (NN 事) )
+		   (VP (VV 发) ) )
+	       (LC 后) )
+      (PU ，)
+      (IP-SBJ (NP-SBJ (DNP (LCP (NP (QP (CD 两)
+					(CLP (M 辆) ) )
+				    (NP (NN 车) ) )
+				(LC 上) )
+			   (DEG 的) )
+		      (NP (NN 人员) ) )
+	      (VP (VV 互殴) ) )
+      (PU ，)
+      (VP (VV 导致)
+	  (IP-OBJ (NP-SBJ (NP (NP-PN (NR 奔驰) )
+			      (NP (NN 轿车) ) )
+			  (NP (NN 司机) ) )
+		  (VP (ADVP (AD 当场) )
+		      (VP (VV 身亡) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su3>
+
+
+( (IP (NP-TMP (NT 当时) )
+      (PU ，)
+      (NP-SBJ (NP (QP (CD 一)
+		      (CLP (M 辆) ) )
+		  (NP-PN (NR 宝马) )
+		  (NP (NN 轿车) ) )
+	      (CC 和)
+	      (NP (QP (CD 一)
+		      (CLP (M 辆) ) )
+		  (NP-PN (NR 奔驰) )
+		  (NP (NN 轿车) ) ) )
+      (VP (PP-TMP (P 在)
+		  (LCP (IP (NP-SBJ (-NONE- *pro*))
+			   (VP (ADVP (AD 急速) )
+			       (VP (VV 追逐) ) ) )
+		       (LC 中) ) )
+	  (VP (VV 发生)
+	      (NP-OBJ (NN 碰撞) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su4>
+
+
+( (IP (IP (NP-TMP (NT 这时) )
+	  (PU ，)
+	  (LCP-SBJ (NP (NP-PN (NR 宝马) )
+		       (NP (NN 轿车) ) )
+		   (LC 上) )
+	  (VP (VV 下来)
+	      (NP-OBJ (QP (CD 数) )
+		      (NP (NN 人) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (PP-ADV (P 与)
+		      (NP (NP (NP-PN (NR 奔驰) )
+			      (NP (NN 轿车) ) )
+			  (NP (NN 司机) ) ) )
+	      (VP (VP (ADVP (AD 先) )
+		      (VP (VC 是)
+			  (VP (VV 发生)
+			      (NP-OBJ (NN 口角) ) ) ) )
+		  (PU ，)
+		  (VP (ADVP (AD 继而) )
+		      (VP (VV 爆发)
+			  (NP-OBJ (NN 打斗) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su5>
+
+
+( (IP (NP-SBJ-1 (NP (NP-PN (NR 奔驰) )
+		    (NP (NN 车) ) )
+		(NP (NN 司机) ) )
+      (VP (VP (VV 势单力薄) )
+	  (PU ，)
+	  (VP (ADVP (AD 很)
+		    (AD 快) )
+	      (VP (SB 被)
+		  (VP (VV 围殴)
+		      (NP-OBJ (-NONE- *-1))) ) )
+	  (PU ，)
+	  (VP (DVP (ADVP (AD 渐渐) )
+		   (DEV 地) )
+	      (VP (VPT (VV 招架)
+		       (AD 不)
+		       (VV 住) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su6>
+
+
+( (IP (IP (ADVP (AD 突然) )
+	  (PU ，)
+	  (NP-SBJ (PN 他) )
+	  (VP (VP (VV 受到)
+		  (NP-OBJ (QP (CD 几)
+			      (CLP (M 下) ) )
+			  (NP (NN 重击) ) ) )
+	      (PU ，)
+	      (VP (VV 瘫倒)
+		  (PP-LOC (P 在)
+			  (LCP (NP (NN 地) )
+			       (LC 上) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 脸色) )
+	  (VP (VA 惨白) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 不) )
+	      (VP (VV 能)
+		  (VP (VV 动弹) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su7>
+
+
+( (IP (NP-SBJ (DNP (LCP (NP (NP-PN (NR 宝马) )
+			    (NP (NN 轿车) ) )
+			(LC 上) )
+		   (DEG 的) )
+	      (QP (CD 几) )
+	      (NP (NN 人) ) )
+      (VP (VP (VV 见状) )
+	  (PU ，)
+	  (VP (ADVP (AD 立即) )
+	      (VP (VSB (VV 驾车)
+		       (VV 逃逸) ) ) ))
+      (PU 。) ) ) 
+
+<su id=p3su1>
+
+
+( (IP (NP-TMP (CP (WHPP-1 (-NONE- *OP*))
+		  (CP (IP (NP-SBJ (-NONE- *pro*))
+			  (VP (PP-TMP (-NONE- *T*-1))
+			      (VP (VV 注意)
+				  (NP-OBJ (NN 交通)
+					  (NN 安全)
+					  (NN 法规) ) )))
+		      (DEC 的) ))
+	      (NP (NN 同时) ) )
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 更) )
+	  (VP (VV 要)
+	      (VP (VV 注重)
+		  (NP-OBJ (DNP (NP (NP (PN 本身) )
+				   (NP (NN 内涵) ) )
+			       (DEG 的) )
+			  (NP (NN 修养) ) ) ) ) ) ) ) 
+
+<su id=p4su1>
+
+
+( (NP (DNP (NP (NN 富二代) )
+	   (DEG 的) )
+      (NP (NN 战斗) )
+      (PU 。) ) ) 
+
+<su id=p6su1>
+
+
+( (CP (CP (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 何必) ) )
+	  (SP 啊) )
+      (CP (IP (NP-SBJ (NN 和气) )
+	      (VP (VV 生财)) )
+	  (SP 吗) )
+      (PU ，) ) ) 
+
+<su id=p9su1>
+
+
+( (IP (NP-SBJ (NN 有钱人) )
+      (VP (ADVP (AD 就是) )
+	  (VP (VV 与众不同) ) ) ) ) 
+
+<su id=p12su1>
+
+
+( (NP (CP (WHNP-1 (-NONE- *OP*))
+	  (CP (IP (NP-SBJ (-NONE- *T*-1))
+		  (VP (VA 地地道道) ) )
+	      (DEC 的) ))
+      (NP (NN 财大气粗) ) ) ) 
+
+<su id=p15su1>
+
+
+( (UCP (INTJ (IJ 屁) )
+       (PU ！)
+       (IP (NP-SBJ (-NONE- *pro*))
+	   (VP (ADVP (AD 没) )
+	       (VP (VV 看到)
+		   (IP-OBJ (NP-SBJ (DNP (NP-PN (NR 奔驰) )
+					(DEG 的) )
+				   (NP (NN 车牌) ) )
+			   (VP (VC 是)
+			       (NP-PRD (DNP (NP-PN (NR 南通) )
+					    (DEG 的) ) ) ) ) ) ) )
+       (PU ！) ) ) 
+
+<su id=p15su2>
+
+
+( (CP-Q (IP (IP-SBJ (NP-SBJ (QP (CD 2)
+				(CLP (M 个) ) )
+			    (NP (NN 江苏人) ) )
+		    (VP (PP-LOC (P 在)
+				(NP-PN (NR 上海) ) )
+			(VP (VV 发生)
+			    (NP-OBJ (DNP (NP (PN 这样) )
+					 (DEG 的) )
+				    (NP (NN 事情) ) ) ) ) )
+	    (VP (ADVP (AD 不) )
+		(ADVP (AD 就) )
+		(VP (VC 是)
+		    (IP-PRD (CP (WHNP-1 (-NONE- *OP*))
+				(CP (IP (NP-SBJ (PN 我们) )
+					(VP (MSP 所)
+					    (VP (VV 说)
+						(IP-OBJ (-NONE- *T*-1))) ) )
+				    (DEC 的) ))
+			    (IP (NP-SBJ (NN 狗) )
+				(VP (VV 咬)
+				    (NP-OBJ (NN 狗) ) ) ) ) ) ) )
+	(SP 吗)
+	(PU ？) ) ) 
+
+<su id=p15su3>
+
+
+( (CP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 只不过) )
+	      (VP (VC 是)
+		  (VP (VV 给)
+		      (NP-OBJ (NP-PN (NR 上海) )
+			      (ADJP (JJ 老) )
+			      (NP (NN 乌龟) ) )
+		      (IP (NP-SBJ (-NONE- *PRO*))
+			  (VP (VV 笑笑) ) ) ) ) ) )
+      (SP 罢了)
+      (PU ！！) ) ) 
+
+<su id=p15su4>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VA 悲哀) )
+      (PU ！) ) ) 
+
+<su id=p19su1>
+
+
+( (IP (NP-SBJ (PN 我) )
+      (VP (VV 看)
+	  (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		  (VP (VP (ADVP (AD 不) )
+			  (VP (VC 是)
+			      (IP-PRD (NP-SBJ (-NONE- *pro*))
+				      (VP (VV 仗势欺人) ) ) ) )
+		      (CC 而)
+		      (VP (VC 是)
+			  (IP-PRD (NP-SBJ (NN 狗) )
+				  (VP (VV 咬)
+				      (NP-OBJ (NN 狗) ) ) ) ) ) ) ) ) ) 
+
+<su id=p28su1>
+
+
+( (IP (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+		  (VP (VE 有)
+		      (NP-OBJ (NN 钱) ) ) )
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (VP (ADVP (AD 不) )
+		  (ADVP (AD 好好) )
+		  (VP (VV 生活) ) )
+	      (PU ，)
+	      (VP (VV 出来)
+		  (VP (VV 打架) ) ) ) )
+      (PU ，)
+      (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+		  (VP (VV 看来) ) )
+	  (NP-SBJ (DNP (NP (PN 你们) )
+		       (DEG 的) )
+		  (NP (NN 钱) ) )
+	  (VP (ADVP (AD 真) )
+	      (VP (VA 多) ) ) )
+      (PU ，) ) ) 
+
+<su id=p29su1>
+
+
+( (IP-Q (ADVP-WH (AD 难道) )
+	(NP-SBJ (PN 这) )
+	(VP (ADVP (AD 也) )
+	    (VP (VC 是)
+		(NP-PRD (DNP (NP (DNP (NP (ADJP (JJ 现) )
+					  (NP (NN 阶段) ) )
+				      (DEG 的) )
+				 (NP (NN 社会主义)
+				     (NN 社会) ) )
+			     (DEG 的) )
+			(NP (NN 特色) ) ) ) )
+	(PU ？)
+	(PU ！) ) ) 
+
+<su id=p37su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 真是) )
+	      (VP (VV 无语) ) ) )
+      (PU ，)
+      (IP (NP-TMP (NT 现在) )
+	  (NP-SBJ (NR 宝马)
+		  (NN 哥) )
+	  (VP (ADVP (AD 这么) )
+	      (VP (VA 嚣张) ) ) )
+      (PU ！) ) ) 
+
+<su id=p37su2>
+
+
+( (NP (CP (WHNP-1 (-NONE- *OP*))
+	  (CP (IP (NP-SBJ (NN 天) )
+		  (VP (VV 煞)
+		      (NP-OBJ (-NONE- *T*-1))) )
+	      (DEC 的) ))) ) 
+
+<su id=p38su1>
+
+
+( (IP-Q (NP-PN-SBJ (NR 奔驰) )
+	(VP (VV 打)
+	    (NP-PN-OBJ (NR 宝马) ) )
+	(PU ？) ) ) 
+
+<su id=p38su2>
+
+
+( (UCP (IP (NP-SBJ (-NONE- *pro*))
+	   (VP (VA 可笑) ) )
+       (PU 。)
+       (CP (IP (NP-SBJ (-NONE- *pro*))
+	       (VP (NP-PRD (NN 纨绔子弟) ) ) )
+	   (SP 啊) )
+       (PU 。) ) ) 
+
+<su id=p38su3>
+
+
+( (CP-CND (ADVP (CS 如果) )
+	  (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+			  (CP (IP (NP-TMP (NT 当时) )
+				  (NP-SBJ (PN 他) )
+				  (VP (VV 撞)
+				      (NP-OBJ (-NONE- *T*-1))) )
+			      (DEC 的) )))
+	      (VP (VC 是)
+		  (NP-PRD-PN (NR 兰博基尼) ) ) )
+	  (PU 。) ) ) 
+
+<su id=p38su4>
+
+
+( (UCP (IP (ADVP (AD 那) )
+	   (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		       (CP (IP (NP-SBJ (-NONE- *T*-1))
+			       (VP (VV 死) ) )
+			   (DEC 的) )))
+	   (VP (ADVP (AD 就) )
+	       (VP (VC 是)
+		   (NP-PRD (PN 他) ) ) )
+	   (SP 了) )
+       (PU 。)
+       (INTJ (IJ 呵) )
+       (PU 。) ) ) 
+
+<su id=p39su1>
+
+
+( (IP (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+		  (VP (VE 有)
+		      (NP-OBJ (NN 钱) ) )
+		  (SP 了) )
+	  (PU ，)
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 就) )
+	      (VP (VV 会)
+		  (VP (ADVP (AD 乱) )
+		      (VP (VV 来) ) ) ) ) )
+      (PU ；)
+      (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+		  (VP (VV 出事)
+		      (AS 了) ) )
+	  (PU ，)
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 就) )
+	      (VP (VV 跑路) ) )
+	  (SP 了) )
+      (PU ......) ) ) 
+
+<su id=p43su1>
+
+
+( (IP (IP-SBJ (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+			  (CP (IP (NP-SBJ (-NONE- *T*-1))
+				  (VP (VA 富有) ) )
+			      (DEC 的) ))
+		      (NP (NN 人) ) )
+	      (VP (VV 缺)
+		  (NP-OBJ (NN 社会)
+			  (NN 责任感) ) ) )
+      (PU ，)
+      (VP (ADVP (AD 将) )
+	  (PP-BNF (P 给)
+		  (NP (NN 社会) ) )
+	  (VP (VV 带来)
+	      (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+			  (CP (IP (NP-SBJ (-NONE- *T*-2))
+				  (VP (ADVP (AD 更) )
+				      (VP (VA 大) ) ) )
+			      (DEC 的) ))
+		      (NP (NN 危害) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p43su2>
+
+
+( (UCP (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+		   (VP (VE 有)
+		       (NP-OBJ (NN 钱) ) ) )
+	   (NP-SBJ (-NONE- *pro*))
+	   (VP (ADVP (AD 多) )
+	       (VP (VV 做)
+		   (NP-OBJ (NN 好事) ) ) ) )
+       (PU ，)
+       (CP (IP (NP-SBJ (NN 人民) )
+	       (VP (VV 会)
+		   (VP (VV 记得) ) ) )
+	   (SP 的) )
+       (PU 。) ) ) 
+
+<su id=p43su3>
+
+
+( (IP (IP (IP-SBJ (NP-SBJ (NN 人) )
+		  (VP (VV 活着) ) )
+	  (VP (ADVP (AD 不) )
+	      (VP (VC 是)
+		  (PP-PRD (P 为)
+			  (NP (DNP (NP (NN 一时) )
+				   (DEG 之) )
+			      (NP (NN 勇) ) ) ) ) ) )
+      (PU ，)
+      (IP (IP-ADV (NP-SBJ (NN 钱) )
+		  (VP (ADVP (AD 再) )
+		      (VP (VA 多) ) ) )
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 也) )
+	      (VP (VP (VPT (VV 卖)
+			   (AD 不)
+			   (VV 到) )
+		      (NP-OBJ (NN 生命) ) )
+		  (VP (VPT (VV 卖)
+			   (AD 不)
+			   (VV 到) )
+		      (NP-OBJ (NN 后悔药) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p49su1>
+
+
+( (IP (IP (CP-TPC-1 (IP (NP-SBJ (-NONE- *pro*))
+			(VP (VV 学习)
+			    (NP-PN-OBJ (NR 北京) ) ) )
+		    (SP 呢) )
+	  (NP-SBJ (PN 我) )
+	  (VP (VV 看)
+	      (IP-OBJ (CP-SBJ (-NONE- *T*-1))
+		      (VP (VC 是) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VE 有)
+	      (NP-OBJ (DP (DT 什么) )
+		      (NP (NN 用) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 显摆)
+	      (NP-OBJ (PN 什么) ) ) )
+      (PU ，)
+      (IP (NP-TPC (NN 中国人) )
+	  (NP-SBJ (CP (WHNP-2 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-2))
+			      (VP (VE 有)
+				  (NP-OBJ (NN 钱) ) ) )
+			  (DEC 的) )))
+	  (VP (VA 多的是) ) )
+      (PU 。) ) ) 
+
+<su id=p49su2>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 鄙视)
+	  (NP-PN-OBJ (NR 宝马) ) )
+      (PU ，) ) ) 
+
+<su id=p62su1>
+
+
+( (UCP (INTJ (IJ 唉) )
+       (PU ，)
+       (NP (CP (WHNP-1 (-NONE- *OP*))
+	       (CP (IP (NP-SBJ (-NONE- *T*-1))
+		       (VP (VA 可怜) ) )
+		   (DEC 的) ))
+	   (NP (NN 人) ) )
+       (IJ 啊)
+       (PU 。) ) ) 
+
+<su id=p62su2>
+
+
+( (CP (CP (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (ADVP (AD 还是) )
+		  (ADVP (AD 不) )
+		  (ADVP (AD 够) )
+		  (VP (VA 牛气) ) ) )
+	  (SP 啊) )
+      (PU ，)
+      (CP (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+		      (VP (VE 有)
+			  (NP-OBJ (NN 能耐) ) ) )
+	      (NP-SBJ (-NONE- *pro*))
+	      (VP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+			  (VP (VV 打死)
+			      (NP-OBJ (NN 人) ) ) )
+		  (ADVP (AD 别) )
+		  (VP (VV 跑) ) ) )
+	  (SP 啊) )
+      (PU ！) ) ) 
+
+<su id=p66su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 太) )
+	  (VP (VA 过分) ) )
+      (SP 了)
+      (PU 。) ) ) 
+
+<su id=p66su2>
+
+
+( (IP (NP-SBJ (NP-PN (NR 宝马) )
+	      (DP (DT 那)
+		  (CLP (M 帮) ) )
+	      (NP (NN 人) ) )
+      (VP (VV 该)
+	  (VP (VV 枪毙) ) )
+      (PU 。) ) ) 
+
+<su id=p75su1>
+
+
+( (IP (NP-SBJ (NP-PN (NR 宝马) )
+	      (NP (NN 司机) ) )
+      (VP (ADVP (AD 也) )
+	  (ADVP (AD 不) )
+	  (VP (VV 想想)
+	      (PU ，)
+	      (IP-OBJ (ADVP (AD 或许) )
+		      (NP-SBJ (DP (DT 下)
+				  (QP (CD 一)
+				      (CLP (M 个) ) ) )
+			      (NP-PN (NR 奔驰) )
+			      (NP (NN 司机) ) )
+		      (VP (ADVP (AD 就) )
+			  (VP (VC 是)
+			      (NP-PRD (PN 他)
+				      (PN 自己) ) ) )
+		      (SP 了) ) ) )
+      (PU 。。。。。) ) ) 
+

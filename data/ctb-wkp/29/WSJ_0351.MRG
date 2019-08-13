@@ -1,0 +1,223 @@
+<su id=p1su1>
+
+
+( (IP (NP-SBJ (NN 中国人) )
+      (VP (ADVP-WH (AD 为啥) )
+	  (VP (VV 喜欢)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 造假) ) ) ) ) ) ) 
+
+<su id=p1su2>
+
+
+( (UCP (IP (NP-SBJ (NN 中国人) )
+	   (VP (ADVP-WH (AD 为啥) )
+	       (VP (VV 喜欢)
+		   (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			   (VP (VV 造假) ) ) ) ) )
+       (PU ，)
+       (NP (NP (ADJP (JJ 假) )
+	       (NP (NN 酒) ) )
+	   (PU ，)
+	   (NP (ADJP (JJ 假) )
+	       (NP (NN 药) ) )
+	   (PU ，)
+	   (NP (ADJP (JJ 假) )
+	       (NP (NN 食品) ) )
+	   (PU ，)
+	   (NP (ADJP (JJ 假) )
+	       (NP (NN 官员) ) )
+	   (PU ，)
+	   (NP (ADJP (JJ 假) )
+	       (NP (NN 军人) ) ) )
+       (PU ，)
+       (IP (NP-SBJ (ADVP (AD 凡是) )
+		   (NP (CP (WHNP-1 (-NONE- *OP*))
+			   (CP (IP (NP-SBJ (-NONE- *pro*))
+				   (VP (VV 可以)
+				       (VP (VV 造)
+					   (NP-OBJ (-NONE- *T*-1))) ) )
+			       (DEC 的) ))) )
+	   (VP (ADVP (AD 都) )
+	       (VP (VE 有)
+		   (NP-PRD (CP (WHNP-2 (-NONE- *OP*))
+			       (CP (IP (NP-SBJ (-NONE- *T*-2))
+				       (VP (VA 假) ) )
+				   (DEC 的) ))) ) ) )
+       (PU ，)
+       (CP (IP (IP-SBJ (NP-SBJ (-NONE- *pro*))
+		       (VP (VV 造假) ) )
+	       (VP (VC 是)
+		   (VP (VE 有)
+		       (NP-OBJ (ADJP (JJ 光荣) )
+			       (NP (NN 历史) ) ) ) ) )
+	   (SP 的) )
+       (PU 。) ) ) 
+
+<su id=p1su3>
+
+
+( (IP (IP (NP-SBJ (PN 这) )
+	  (VP (ADVP (AD 其实) )
+	      (ADVP (AD 就) )
+	      (VP (VC 是)
+		  (NP-PRD (DNP (NP (NP (NT 现在) )
+				   (NP (NN 社会) )
+				   (QP (CD 诸多) )
+				   (NP (NN 弊端) ) )
+			       (DEG 的) )
+			  (NP (NN 源头) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (DNP (NP (NN 文化) )
+		       (DEG 的) )
+		  (NP (NN 基因) ) )
+	  (VP (ADVP (AD 在) )
+	      (VP (VV 发酵) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su4>
+
+
+( (IP (IP (NP-PN-SBJ (NR 岳飞) )
+	  (VP (VV 抗)
+	      (NP-PN-OBJ (NR 金) ) ) )
+      (PU ，)
+      (IP (NP-PN-SBJ (NR 金) )
+	  (VP (VC 为)
+	      (NP-PRD (DP-WH (DT 何) )
+		      (NP (NN 族) ) ) ) )
+      (PRN (PU （)
+	   (IP (NP-SBJ (DNP (QP (CD 99%) )
+			    (DEG 的) )
+		       (NP (NN 人) ) )
+	       (VP (ADVP (AD 不) )
+		   (VP (VV 知道) ) ) )
+	   (PU ）) ) ) ) 
+
+<su id=p1su5>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 就) )
+	      (VP (VC 是)
+		  (NP-PRD (NN 满人) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (LB 被)
+				  (CP-OBJ (WHNP-2 (-NONE- *OP*))
+					  (IP (NP-SBJ (DP (DT 同)
+							  (QP (CD 一)
+							      (CLP (M 块) ) ) )
+						      (NP (NN 石头) ) )
+					      (VP (VV 绊倒)
+						  (NP-OBJ (-NONE- *T*-2))
+						  (QP-EXT (CD 2)
+							  (CLP (M 次) ) ) ) )) ) )
+			  (DEC 的) ))
+		  (NP (NN 民族) ) )
+	  (PU ，)
+	  (VP (VP (ADVP (AD 居然) )
+		  (VP (VV 恬不知耻) ) )
+	      (PU ，)
+	      (VP (VV 改头换面) )
+	      (PU ，)
+	      (VP (VP (VV 改)
+		      (NP-OBJ (NN 史) ) )
+		  (VP (VV 称)
+		      (NP-PN-OBJ (NR 后金) ) ) ) ) )
+      (PU ，)
+      (IP (IP-TMP (NP-PN-SBJ (NP (NT 辛亥) )
+			     (NP (NN 革命) ) )
+		  (VP (QP-PRD (CD 100)
+			      (CLP (M 年) ) ) ) )
+	  (PU ，)
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 还原)
+	      (NP-OBJ (DNP (NP (NN 历史) )
+			   (DEG 的) )
+		      (NP (NN 真相) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su6>
+
+
+( (IP (IP (NP-SBJ (NN 满族) )
+	  (VP (ADVP (AD 实) )
+	      (ADVP (AD 已) )
+	      (VP (VV 亡) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 汉人) )
+	  (VP (VV 当)
+	      (VP (VV 自强) ) ) )
+      (PU 。) ) ) 
+
+<su id=p2su1>
+
+
+( (IP (IP (NP-TPC (DP (DT 这)
+		      (CLP (M 个) ) )
+		  (NP (NN 问题) ) )
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 问)
+	      (DER 得)
+	      (VP-EXT (VA 怪) ) ) )
+      (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+		  (VP (VV 造假) ) )
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (PP-LOC (P 在)
+		      (NP-PN (NR 华) ) )
+	      (VP (VV 赚)
+		  (NP-OBJ (NN 钱) )
+		  (VP-EXT (VA 快) ))) ) ) ) 
+
+<su id=p3su1>
+
+
+( (UCP (IP (NP-TPC (NN 历史) )
+	   (NP-SBJ (-NONE- *pro*))
+	   (VP (ADVP (AD 都) )
+	       (VP (VV 可以)
+		   (VP (VV 造假) ) ) ) )
+       (PU ，)
+       (CP (IP (NP-SBJ (-NONE- *pro*))
+	       (VP (ADVP (AD 还) )
+		   (VP (VE 有)
+		       (NP-OBJ (DP (DT 啥) )
+			       (NP (CP (WHNP-1 (-NONE- *OP*))
+				       (CP (IP (NP-SBJ (-NONE- *T*-1))
+					       (VP (ADVP (AD 不) )
+						   (VP (VV 可以) ) ) )
+					   (DEC 的) ))) ) ) ) )
+	   (SP 呢) ) ) ) 
+
+<su id=p3su2>
+
+
+( (IP-Q (IP-ADV (NP-SBJ (-NONE- *pro*))
+		(VP (VV 想)
+		    (NP-OBJ (NT 当年) ) ) )
+	(PU ，)
+	(NP-TMP (CP (WHPP-1 (-NONE- *OP*))
+		    (CP (IP (NP-PN-SBJ (NR 大汉) )
+			    (VP (PP-TMP (-NONE- *T*-1))
+				(VP (VV 兴起) )))
+			(DEC 之) ))
+		(NP (NN 时) ) )
+	(PU ，)
+	(NP-SBJ-WH (PN 谁) )
+	(VP (VV 敢)
+	    (VP (VV 篡改)
+		(NP-OBJ (NN 历史) ) ) )
+	(PU ？) ) ) 
+
+<su id=p3su3>
+
+
+( (IP (NP-SBJ (NN 皇上) )
+      (VP (ADVP (AD 都) )
+	  (VP (VA 难) ) ) ) ) 
+
+<su id=p5su1>
+
+

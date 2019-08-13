@@ -1,0 +1,101 @@
+<DOC>
+<DOCID>ART119</DOCID>
+<HEADER>
+    <DATE></DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=2335>
+( (IP-HLN (NP-SBJ (QP (OD 第八) 
+                      (CLP (M 届))) 
+                  (NP-PN (NR 安第斯) 
+			 (NN 议会)) 
+		  (NP (NN 会议))) 
+          (VP (VV 开幕))) ) 
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=2336>
+( (IP (NP-SBJ (QP (OD 第八) 
+                  (CLP (M 届))) 
+              (NP-PN (NR 安第斯) 
+		     (NN 议会)) 
+	      (NP (NN 会议))) 
+      (VP (NP-TMP (NT 十三日)) 
+          (PP-LOC (P 在) 
+                  (NP-PN (NR 利马))) 
+          (VP (VV 开幕))) 
+      (PU 。)) ) 
+</S>
+<S ID=2337>
+( (IP (NP-PN-SBJ (NP-APP (NP-PN (NR 秘鲁)) 
+			 (NP (NN 总统))) 
+                 (NP-PN (NR 阿尔贝托·藤森))) 
+      (VP (VV 主持) 
+          (AS 了) 
+          (NP-OBJ (NN 开幕式))) 
+      (PU 。)) ) 
+</S>
+</P>
+<P>
+<S ID=2338>
+( (IP (NP-PN-SBJ (NR 藤森) 
+                 (NN 总统)) 
+      (VP (PP-LOC (P 在) 
+                  (LCP (NP (NN 开幕式)) 
+                      (LC 上))) 
+          (VP (VV 呼吁) 
+	      (NP-OBJ (NP-PN (NR 安第斯)) 
+		      (NP (NN 国家)))
+	      (IP (NP-SBJ (-NONE- *PRO*)) 
+		  (VP (VP (ADVP (AD 共同)) 
+			  (VP (VV 努力) 
+			      (IP (NP-SBJ (-NONE- *PRO*)) 
+				  (VP (VV 实现) 
+				      (NP-OBJ (NN 地区) 
+					      (NN 一体化)))))) 
+		      (PU ，) 
+		      (VP (MSP 以) 
+			  (VP (VV 摆脱) 
+			      (NP-OBJ (CP-APP (IP (NP-SBJ (-NONE- *pro*)) 
+						  (VP (ADVP (AD 不)) 
+						      (VP (VA 发达)))) 
+					      (DEC 的)) 
+				      (NP (NN 状况))))))))) 
+      (PU 。)) ) 
+</S>
+</P>
+<P>
+<S ID=2339>
+( (IP (IP (NP-SBJ (PN 他)) 
+          (VP (ADVP (AD 还)) 
+              (VP (VV 呼吁) 
+		  (NP-OBJ (DP (DT 各)) 
+			  (NP (NN 国)))
+		  (IP (NP-SBJ (-NONE- *PRO*))
+		      (VP (VP (VCD (VV 团结) 
+				   (VV 一致))) 
+			  (VP (VV 对付) 
+			      (NP-OBJ (NN 外债) 
+				      (PU 、) 
+				      (NN 贩毒) 
+				      (CC 以及) 
+				      (NN 暴力) 
+				      (NN 活动)))))))) 
+      (PU ，) 
+      (IP (NP-SBJ (DP (DT 本) 
+                      (CLP (M 届))) 
+                  (NP-PN (NR 安第斯) 
+			 (NN 议会)) 
+		  (NP (NN 会议))) 
+          (VP (ADVP (AD 将)) 
+              (VP (VV 延续) 
+		  (PP (P 到) 
+		      (NP (NT 十六日)))))) 
+      (PU 。)) ) 
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

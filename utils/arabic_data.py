@@ -184,7 +184,7 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pi
             print("INIT TO ZERO...")
             train_data = [[],[],[],[],[],[],[], pickled_training_data[-1]]
         else:
-            train_data = load_trees(path + 'training.penn', vocab=pickled_training_data[-1], grow_vocab= False, binarize=True)
+            train_data = load_trees(path + '26', vocab=pickled_training_data[-1], grow_vocab= False, binarize=True)
         print(str(len(pickled_training_data[0]))+"_______LEN")
         for i in range(len(pickled_training_data[0])):
             train_data[0].append(pickled_training_data[0][i])

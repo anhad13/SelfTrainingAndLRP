@@ -1,0 +1,80 @@
+<su id=p1su1>
+
+
+( (IP (IP (NP-SBJ-1 (NP-PN (NR 深圳) )
+		    (QP (CD 一) )
+		    (NP (NN 女子) ) )
+	  (VP (VP (VV 逆行) )
+	      (VP (SB 被)
+		  (VP (VV 罚)
+		      (NP-OBJ (-NONE- *-1))) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 女子) )
+	  (VP (VP (VV 撕)
+		  (NP-OBJ (NN 罚单) ) )
+	      (CC 而且)
+	      (VP (VV 试图)
+		  (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			  (VP (VP (VP (VV 开车) )
+				  (VP (VV 冲撞)
+				      (NP-OBJ (NN 交警) ) ) )
+			      (VP (VV 逼迫)
+				  (NP-OBJ (PN 其) )
+				  (IP (NP-SBJ (-NONE- *PRO*))
+				      (VP (VV 放行) ) ) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p2su1>
+
+
+( (IP-Q (NP-SBJ (NP (PN 她) )
+		(NP (NN 爸) ) )
+	(VP (ADVP-WH (AD 难道) )
+	    (ADVP (AD 也) )
+	    (VP (VV 叫)
+		(NP-OBJ-PN (NR 李刚) ) ) )
+	(PU ？) ) ) 
+
+<su id=p3su1>
+
+
+( (NP (CP (WHNP-1 (-NONE- *OP*))
+	  (CP (IP (NP-SBJ (-NONE- *T*-1))
+		  (VP (VCD (VA 龌龊)
+			   (VA 无耻) ) ) )
+	      (DEC 之) ))
+      (NP (NN 人) )
+      (PU ！！) ) ) 
+
+<su id=p4su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 应该)
+	      (VP (VP (ADVP (AD 立即) )
+		      (ADVP (AD 刑事) )
+		      (VP (VV 拘留) ) )
+		  (PU ，)
+		  (VP (VV 判)
+		      (NP-OBJ (PN 它) )
+		      (AS 个)
+		      (QP-EXT (QP (CD 十)
+				  (CLP (M 年) ) )
+			      (QP (CD 八)
+				  (CLP (M 年) ) ) ) ) ) ) )
+      (PU 。)
+      (IP (LCP-SBJ (NP (NN 马路) )
+		   (LC 上) )
+	  (VP (ADVP (AD 就) )
+	      (VP (VC 是)
+		  (IP-PRD (NP-SBJ (NP (DP (DT 这)
+					  (CLP (M 种) ) )
+				      (NP (NN 人) ) )
+				  (PU ，)
+				  (NP (DP (DT 这)
+					  (CLP (M 种) ) )
+				      (NP (NN 车) ) ) )
+			  (VP (ADVP (AD 太) )
+			      (VP (VA 多) ) ) ) ) ) )
+      (PU ！) ) ) 
+

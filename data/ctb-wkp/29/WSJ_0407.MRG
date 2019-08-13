@@ -1,0 +1,111 @@
+<DOC>
+<DOCID>CB035023.BFW</DOCID>
+<HEADER>
+<DATE>1994-04-23</DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=3269>
+( (IP-HLN (NP-SBJ (NP-PN (NR 中国) 
+			 (NN 外交部)) 
+                  (NP (NN 发言人))) 
+          (VP (PP (P 就) 
+                  (IP (NP-PN-SBJ (NR 尼克松)) 
+                      (VP (VV 逝世)))) 
+              (VP (VV 表示) 
+		  (NP-OBJ (NN 哀悼))))) ) 
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=3270>
+( (FRAG  (NR 新华社) 
+         (NR 北京) 
+         (NT 四月) 
+         (NT 二十三日) 
+         (NN 电) )) 
+</S>
+<S ID=3271>
+( (IP (NP-SBJ (NP-PN (NR 中国) 
+		     (NR 外交部)) 
+              (NP (NN 发言人))) 
+      (VP (NP-TMP (NT 今天)) 
+          (PP (P 就) 
+              (IP (NP-SBJ (NP-APP (NP-PN (NR 美国)) 
+				  (ADJP (JJ 前)) 
+				  (NP (NN 总统))) 
+			  (NP-PN (NR 尼克松))) 
+                  (VP (NP-TMP (NP (NT 二十二日)) 
+                              (NP (NN 晚))) 
+                      (VP (VV 病逝))))) 
+          (VP (VV 表示) 
+	      (NP-OBJ (NN 哀悼)))) 
+      (PU 。)) ) 
+</S>
+</P>
+<P>
+<S ID=3272>
+( (IP (NP-SBJ (DP (DT 这) 
+                  (CLP (M 位))) 
+              (NP (NN 发言人))) 
+      (VP (PP-TMP (P 在) 
+                  (LCP (IP (NP-SBJ (-NONE- *pro*)) 
+			   (VP (VV 回答) 
+			       (NP-OBJ (NN 记者) 
+				       (NN 提问)))) 
+		       (LC 时))) 
+          (VP (VV 说) 
+	      (PU ，) 
+	      (IP-OBJ (NP-TMP (CP (WHNP-1 (-NONE- *OP*)) 
+				  (IP (NP-SBJ (NP-APP (NP-PN (NR 美国)) 
+						      (ADJP (JJ 前)) 
+						      (NP (NN 总统))) 
+					      (NP-PN (NR 尼克松) 
+						     (NN 先生))) 
+				      (VP (NP-TMP (-NONE- *T*-1)) 
+					  (VP (VV 患病))))) 
+			      (NP (NN 期间))) 
+		      (PU ，) 
+		      (NP-SBJ (NP-SBJ (NR 中国)) 
+			      (NP (NN 领导人))) 
+		      (VP (ADVP (AD 曾)) 
+			  (PP-MNR (P 通过) 
+				  (NP (NP-PN (NR 中国)) 
+				      (ADJP (JJ 驻美)) 
+				      (NP (NN 大使)))) 
+			  (VP (VV 转达) 
+			      (NP-OBJ (NN 慰问))))))) 
+      (PU 。)) ) 
+</S>
+<S ID=3273>
+( (IP (PP-DIR (P 对) 
+	      (NP (DNP (NP (PN 他)) 
+		       (DEG 的)) 
+		  (NP (NN 逝世)))) 
+      (PU ，) 
+      (NP-SBJ (PN 我们)) 
+      (VP (ADVP (AD 深))
+	  (VP (VV 表)
+	      (NP-OBJ (NN 哀悼)))) 
+      (PU 。)) ) 
+</S>
+<S ID=3274>
+( (IP (NP-SBJ (NP-PN (NR 中国)) 
+	      (NP (NN 国家)) 
+	      (ADJP (JJ 主要)) 
+	      (NP (NN 领导人))) 
+      (VP (ADVP (AD 已)) 
+	  (VP (VP (VV 发) 
+		  (NP-OBJ (NN 唁电))) 
+	      (VP (VV 致悼)))) 
+      (PU 。)) ) 
+</S>
+<S ID=3275>
+( (FRAG  (PU （) 
+	 (VV 完) 
+	 (PU ）) )) 
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

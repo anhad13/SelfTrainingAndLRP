@@ -1,0 +1,628 @@
+<su id=p1su1>
+
+
+( (IP-Q (NP-TMP (NT 今天))
+	(PU ;)
+	(NP-SBJ-WH (PN 谁))
+	(VP (VV 能)
+	    (VP (VP (VV 帮)
+		    (NP-OBJ (NP (PN 咱))
+			    (NP (NP (NN 国企)
+				    (NN 职工))
+				(CC 和)
+				(NP (ADJP (JJ 退休))
+				    (ADJP (JJ 老))
+				    (NP (NN 同志))))))
+		(VP (VV 说)
+		    (NP-OBJ (QP (CLP (M 句)))
+			    (ADJP (JJ 公道))
+			    (NP (NN 话))))))
+	(PU ？)) ) 
+
+<su id=p1su2>
+
+
+( (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 改革)
+		  (QP-EXT (CD 三＋)
+			  (CLP (M 年)))))
+      (IP (IP (NP-SBJ (NN 社会))
+	      (VP (VV 进步)))
+	  (IP (NP-SBJ (NN 国家))
+	      (VP (VCD (VA 富裕)
+		       (VA 强盛)))))
+      (SP 了)
+      (PU 。)) ) 
+
+<su id=p1su3>
+
+
+( (IP (NP-SBJ (NP-PN (NR 邓公))
+	      (DP (DT 那)
+		  (CLP (M 句)))
+	      (PU ;)
+	      (CP-APP (IP (IP (NP-SBJ (NN 贫穷))
+			      (VP (ADVP (AD 不))
+				  (VP (VC 是)
+				      (NP-PRD (NN 社会主义)))))
+			  (PU ，)
+			  (IP (NP-SBJ (NN 社会主义))
+			      (VP (VC 是)
+				  (IP-PRD (NP-SBJ (NN 全国)
+						  (NN 人民))
+					  (VP (ADVP (AD 共同))
+					      (VP (VA 富裕)))))))
+		      (DEC 的))
+	      (ADJP (JJ 糈典))
+	      (NP (NN 名言)))
+      (VP (ADVP (AD 至今))
+	  (VP (VP (VV 让)
+		  (NP-OBJ (NN 人))
+		  (IP (NP-SBJ (-NONE- *PRO*))
+		      (VP (VP (VRD (VV 回想)
+				   (VV 起来)))
+			  (VP (ADVP (AD 还))
+			      (ADVP (AD 那么))
+			      (VP (VV 温暖))))))
+	      (VP (NP-OBJ (NN 人心))
+		  (IP (NP-SBJ (-NONE- *PRO*))
+		      (VP (ADVP (AD 难以))
+			  (VP (VV 忘怀)))))))
+      (PU .......)
+      (PU 。)) ) 
+
+<su id=p1su4>
+
+
+( (IP (IP (ADVP (AD 而))
+	  (NP-TMP (NT 今天))
+	  (NP-SBJ (DNP (NP (NN 改革))
+		       (DEG 的))
+		  (NP (NN 成果)))
+	  (VP (ADVP (AD 却))
+	      (VP (VV 让)
+		  (NP-OBJ (QP (CD 一)
+			      (CLP (ADJP (JJ 少))
+				   (CLP (M 部分))))
+			  (NP (NN 人)))
+		  (IP (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 享受))))))
+      (IP (NP-SBJ (NN 公务员)
+		  (CC 和)
+		  (NN 教师))
+	  (VP (NP-PRD (ADJP (JJ 高))
+		      (NP (NN 工资)))))
+      (PU 。)) ) 
+
+<su id=p1su5>
+
+
+( (IP (NP-SBJ (NP (ADJP (JJ 国有))
+		  (NP (NN 垄断))
+		  (NP (NN 企业)))
+	      (NP-APP (NN 石油)
+		      (PU ，)
+		      (NN 电力)
+		      (PU ，)
+		      (NN 通讯)
+		      (PU ，)
+		      (NN 烟草)
+		      (PU ，)
+		      (NN 经融)))
+      (VP (NP-PRD (ADJP (JJ 高))
+		  (NP (NN 工资))))
+      (PU 。)) ) 
+
+<su id=p1su6>
+
+
+( (IP (IP (NP-SBJ (NP (NN 国企))
+		  (NP (NN 高管)))
+	  (VP (NP-PRD (NP (NN 天价))
+		      (NP (NN 年薪)))))
+      (CC 而)
+      (IP (NP-SBJ (NP (NP (NP (NN 国企))
+			  (ADJP (JJ 普通))
+			  (NP (NN 职工)))
+		      (CC 和)
+		      (NP (ADJP (JJ 退休))
+			  (NP (NN 职工))))
+		  (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (VA 可怜)))
+			  (DEC 的)))
+		  (DP (DT 那)
+		      (CLP (M 点)))
+		  (NP (NN 工资)
+		      (CC 和)
+		      (NN 退休金)))
+	  (VP (ADVP (AD 确实))
+	      (VP (VV 叫)
+		  (NP-OBJ (NN 人))
+		  (IP (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 心寒))))))
+      (PU ！)) ) 
+
+<su id=p1su7>
+
+
+( (IP (NP-TPC-1 (CP (WHNP-2 (-NONE- *OP*))
+		    (IP (NP-SBJ (NN 人们))
+			(VP (VV 呼吁)
+			    (AS 了)
+			    (NP-OBJ (-NONE- *T*-2))
+			    (QP-EXT (CD 多)
+				    (CLP (M 年))))))
+		(IP-APP (NP-SBJ (-NONE- *pro*))
+			(VP (VV 要求)
+			    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+				    (VP (VP (VV 缩小)
+					    (NP-OBJ (NN 贫富)
+						    (NN 差距)))
+					(VP (VV 取消)
+					    (NP-OBJ (DNP (NP (NN 退休)
+							     (NN 双轨制))
+							 (DEG 的))
+						    (NP (ADJP (ADVP (AD 不))
+							      (ADJP (JJ 合理)))
+							(NP (NN 分配)))))))))
+		(NP (NN 要求)))
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 至今))
+	  (VP (VV 无人问津)
+	      (NP-OBJ (-NONE- *T*-1))))
+      (PU 。)) ) 
+
+<su id=p1su8>
+
+
+( (CP-Q (IP (NP-SBJ (-NONE- *pro*))
+	    (VP (NP-TMP (NT 今天))
+		(ADVP (AD 又))
+		(VP (VE 有)
+		    (IP-OBJ (NP-SBJ-WH (PN 谁))
+			    (VP (VV 能)
+				(VP (PP-BNF (P 为)
+					    (NP (DP (DT 这些))
+						(DNP (ADJP (JJ 弱势))
+						     (DEG 的))
+						(NP (NN 劳动者))))
+				    (VP (VV 说)
+					(NP-OBJ (QP (CLP (M 句)))
+						(ADJP (JJ 公道))
+						(NP (NN 话))))))))))
+	(SP 呢)
+	(PU ？)) ) 
+
+<su id=p7su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VE 没有)))
+      (PU ,)
+      (IP (NP-SBJ (PN 谁))
+	  (VP (ADVP (AD 也))
+	      (ADVP (AD 不))
+	      (VP (VV 会)
+		  (VP (VP (VV 帮)
+			  (NP-OBJ (PN 你)))
+		      (VP (VV 说话))))))
+      (PU ,)) ) 
+
+<su id=p7su2>
+
+
+( (IP (IP (NP-TPC-1 (NP (DNP (NP (NN 权力))
+			     (DEG 的))
+			(NP (NN 傲慢)))
+		    (CC 和)
+		    (NP (DNP (NP (NN 官员))
+			     (DEG 的))
+			(NP (NN 腐败))))
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 有目共睹)
+	      (NP-OBJ (-NONE- *T*-1))))
+      (PU ,)
+      (IP (NP-SBJ (PN 他们))
+	  (VP (VV 会)
+	      (VP (PP-BNF (P 为)
+			  (NP (ADJP (JJ 弱势))
+			      (NP (NN 群))))
+		  (VP (VV 办事))))
+	  (PU ,)
+	  (CP-CND (ADVP (CS 除非))
+		  (IP (NP-SBJ (NN 太阳))
+		      (VP (PP-DIR (P 从)
+				  (NP (NN 西边)))
+			  (VP (VV 出来))))))
+      (PU !)) ) 
+
+<su id=p9su1>
+
+
+( (IP (ADVP (AD 所以))
+      (NP-SBJ (PN 我))
+      (VP (VV 说)
+	  (IP-OBJ (NP-SBJ (DNP (NP (NT 当今))
+			       (DEG 的))
+			  (ADJP (JJ 主要))
+			  (NP (NN 社会)
+			      (NN 矛盾)))
+		  (VP (VP (VC 是)
+			  (IP-PRD (NP-SBJ (-NONE- *pro*))
+				  (VP (VV 分吃)
+				      (NP-OBJ (NN 改革)
+					      (NN 桃子)))))
+		      (PU 。)
+		      (VP (ADVP (AD 不))
+			  (VP (VC 是)
+			      (IP-PRD (NP-SBJ (-NONE- *pro*))
+				      (VP (VV 骂)
+					  (NP-OBJ (NN 汉奸)))))))))
+      (PU 。)) ) 
+
+<su id=p10su1>
+
+
+( (IP (NP-SBJ (PN 我))
+      (VP (BA 把)
+	  (IP-OBJ (NP-SBJ-1 (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+					(VP (VV 改)
+					    (NP-OBJ (NN 双轨制))))
+				    (DEC 的))
+			    (NP (NN 希望)))
+		  (VP (VV 寄托)
+		      (NP-PN-IO (NR 重庆))
+		      (NP-OBJ (-NONE- *-1)))))
+      (PU ，)) ) 
+
+<su id=p10su2>
+
+
+( (IP (IP (NP-SBJ (NN 毛左))
+	  (VP (VV 反对)))
+      (PU ，)
+      (IP (NP-SBJ (NN 毛左))
+	  (VP (VV 叶公好龙)))
+      (PU 。)) ) 
+
+<su id=p11su1>
+
+
+( (IP-Q (IP-ADV (NP-SBJ (-NONE- *pro*))
+		(VP (ADVP (AD 再))
+		    (VP (VV 加)
+			(QP-OBJ (CD 一百)))))
+	(PU ,)
+	(NP-SBJ (NN 意下))
+	(VP-WH (VV 如何))
+	(PU ?)) ) 
+
+<su id=p12su1>
+
+
+( (UCP (IP (NP-SBJ (NN 仆人))
+	   (VP (QP-ADV (CD 一)
+		       (CLP (M 次)))
+	       (VP (VV 涨)
+		   (QP-OBJ (CD 1000多)
+			   (CLP (M 元))))))
+       (CC 还有)
+       (IP (NP-TPC-1 (DP (DT 什么))
+		     (NP (NN 医药费)))
+	   (NP-SBJ (-NONE- *pro*))
+	   (VP (ADVP (AD 全))
+	       (VP (VV 报销)
+		   (NP-OBJ (-NONE- *T*-1)))))
+       (PU ，)
+       (NP (QP (QP (CD 一)
+		   (CLP (M 年)))
+	       (QP (CD 一)
+		   (CLP (M 次))))
+	   (NP (NN 旅游费)))
+       (PU ，)
+       (UCP (IP (NP-SBJ (-NONE- *pro*))
+		(VP (VV 论)
+		    (NP-OBJ (NN 官职)
+			    (NN 大小))))
+	    (NP (NN 补助费)))
+       (PU 。)) ) 
+
+<su id=p12su2>
+
+
+( (IP (IP (NP-SBJ (NN 主人))
+	  (VP (QP-ADV (CD 一)
+		      (CLP (M 次)))
+	      (VP (VV 涨)
+		  (QP-OBJ (CD 100多)
+			  (CLP (M 元))))))
+      (IP (NP-SBJ (PN 其它))
+	  (VP (NP-FOC-1 (PN 啥))
+	      (ADVP (AD 都))
+	      (VP (VE 没有)
+		  (NP-OBJ (-NONE- *-1)))))
+      (PU 。)) ) 
+
+<su id=p12su3>
+
+
+( (IP-IJ (IP (NP-TPC (ADVP (JJ 如此))
+		     (NP (NN 分配)
+			 (NN 制度)))
+	     (NP-SBJ (-NONE- *pro*))
+	     (VP (VV 谈)
+		 (NP-OBJ (DP (DT 何))
+			 (NP (NN 公平)))))
+	 (PU ，)
+	 (IP (NP-SBJ (NN 公正)
+		     (PU ，)
+		     (NN 合理))
+	     (VP (ADVP (AD 如此))
+		 (VP (VV 彰显))))
+	 (IP (NP-SBJ (NN 社会)
+		     (NN 公平))
+	     (VP (ADVP (AD 只))
+		 (VP (VE 有)
+		     (IP-OBJ (NP-SBJ (NN 天))
+			     (VP (VV 知道))))))
+	 (PU ！！！)) ) 
+
+<su id=p13su1>
+
+
+( (CP (IP (NP-SBJ (PN 这))
+	  (VP (ADVP (AD 可))
+	      (VP (VC 是)
+		  (NP-PRD (DNP (NP (DP (DT 那)
+				       (CLP (M 位)))
+				   (NP (NP-PN (NR 朱))
+				       (NP (NN 总))))
+			       (DEG 的))
+			  (QP (CD 一))
+			  (ADJP (JJ 大))
+			  (NP (PU “)
+			      (NN 政绩)
+			      (PU ”))))))
+      (SP 啦)
+      (PU ！)) ) 
+
+<su id=p14su1>
+
+
+( (IP-IJ (NP-SBJ (PN 你)
+		 (PN 我))
+	 (VP (ADVP (AD 就))
+	     (VP (VC 是)
+		 (NP-PRD (DP (DT 这)
+			     (CLP (M 次)))
+			 (DNP (NP (NN 变革))
+			      (DEG 的))
+			 (NP (NN 牺牲品)))))
+	 (PU ！！！！)) ) 
+
+<su id=p15su1>
+
+
+( (IP (NP-SBJ (NN 政府))
+      (VP (ADVP (AD 不))
+	  (VP (VV 代表)
+	      (NP-OBJ (NN 工人))))
+      (PU ！)) ) 
+
+<su id=p15su2>
+
+
+( (IP-IJ (NP-SBJ (-NONE- *pro*))
+	 (VP (VV 奈何))
+	 (PU ！)) ) 
+
+<su id=p17su1>
+
+
+( (IP (NP-SBJ (NP (NP (NP-PN (NR 重庆))
+		      (NP (NN 财政局)))
+		  (NP (ADJP (JJ 退休))
+		      (NP (NN 干部))))
+	      (NP (NN 工资)))
+      (VP (LCP-TMP (NP (NT 今年))
+		   (LC 底))
+	  (ADVP (AD 又))
+	  (VP (VV 上调))
+	  (PU ，)
+	  (PP-ADV (P 如)
+		  (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+				  (CP (IP (NP-SBJ (-NONE- *T*-1))
+					  (VP (NP-ADV (ADJP (JJ 原))
+						      (NP (NN 月)))
+					      (VP (VV 拿)
+						  (QP-OBJ (CD 3000多)))))
+				      (DEC 的))))
+		      (PU ，)
+		      (VP (NP-TMP (NT 现在))
+			  (ADVP (AD 已经))
+			  (VP (VRD (VV 上调)
+				   (VV 到))
+			      (QP-OBJ (CD 4000多)))))))
+      (PU ，)) ) 
+
+<su id=p17su2>
+
+
+( (IP (IP (ADVP (AD 但是))
+	  (NP-SBJ (DNP (NP (DNP (NP (NP (PN 我们))
+				    (NP (NN 企业)))
+				(DEG 的))
+			   (NP (ADJP (JJ 退休))
+			       (NP (NN 人员))))
+		       (DEG 的))
+		  (NP (NN 工资)))
+	  (VP (NP-TMP (NT 现在))
+	      (ADVP (AD 仍然))
+	      (VP (VC 是)
+		  (QP-PRD (CD 1000多)
+			  (CLP (M 元))))))
+      (PU ，)
+      (IP (NP-SBJ (NP (QP (CD 两))
+		      (NP (NN 极)))
+		  (NP (NN 分化)))
+	  (VP (ADVP (AD 在))
+	      (VP (VV 扩大))))
+      (PU ！)) ) 
+
+<su id=p17su3>
+
+
+( (IP (NP-SBJ (PN 谁))
+      (VP (VV 能)
+	  (VP (PP-BNF (P 为)
+		      (NP (ADJP (JJ 弱势))
+			  (NP (NN 工人))))
+	      (VP (VV 说话))))
+      (PU ！)) ) 
+
+<su id=p18su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 回)
+	  (NP-OBJ (QP (OD 16))
+		  (NP (NN 楼))))
+      (PU ：)) ) 
+
+<su id=p18su2>
+
+
+( (IP-IJ (NP-PN-SBJ (NR 重庆))
+	 (VP (VP (VV 能够)
+		 (VP (BA 将)
+		     (IP-OBJ (NP-SBJ (NN 退休)
+				     (NN 养老)
+				     (NP (NN 双轨制)))
+			     (VP (VP (VV 深化)
+				     (NP-OBJ (NN 改革)))
+				 (VP (VV 成为)
+				     (NP-OBJ (NN 单轨制)))))))
+	     (PU ，)
+	     (VP (PP-ADV (P 离)
+			 (NP (NP (PN 他))
+			     (DNP (NP (PU “)
+				      (NN 共富)
+				      (PU ”))
+				  (DEG 的))
+			     (NP (NN 目标))))
+		 (PU ，)
+		 (VP (VV 走出)
+		     (AS 了)
+		     (QP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+				 (CP (IP (NP-SBJ (-NONE- *T*-1))
+					 (VP (VA 坚实)))
+				     (DEC 的)))
+			     (QP (CD 一)
+				 (CLP (M 步)))))))
+	 (PU ！)
+	 (INTJ (IJ 哈哈))
+	 (PU ！)) ) 
+
+<su id=p31su2>
+
+
+( (IP-Q (NP-SBJ (NP (PN 我))
+		(NP (NN 专家)))
+	(VP (ADVP-WH (AD 是否))
+	    (ADVP (AD 又))
+	    (VP (VV 会)
+		(VP (VCP (VV 分折)
+			 (VC 为)
+			 (VC 是))
+		    (NP-OBJ (DNP (NP (NP-PN (NR 美国))
+				     (CC 及)
+				     (NP (NN 西方)
+					 (NN 外部)
+					 (NN 势力)))
+				 (DEG 的))
+			    (NP (NN 阴谋))))))
+	(PU ？？？)
+	(PU **)) ) 
+
+<su id=p32su1>
+
+
+( (UCP (IP (NP-SBJ (NN 仆人))
+	   (VP (QP-ADV (CD 一)
+		       (CLP (M 次)))
+	       (VP (VV 涨)
+		   (QP-OBJ (CD 1000多)
+			   (CLP (M 元))))))
+       (CC 还有)
+       (IP (NP-TPC-1 (DP (DT 什么))
+		     (NP (NN 医药费)))
+	   (NP-SBJ (-NONE- *pro*))
+	   (VP (ADVP (AD 全))
+	       (VP (VV 报销)
+		   (NP-OBJ (-NONE- *T*-1)))))
+       (PU ，)
+       (NP (QP (QP (CD 一)
+		   (CLP (M 年)))
+	       (QP (CD 一)
+		   (CLP (M 次))))
+	   (NP (NN 旅游费)))
+       (PU ，)
+       (UCP (IP (NP-SBJ (-NONE- *pro*))
+		(VP (VV 论)
+		    (NP-OBJ (NN 官职)
+			    (NN 大小))))
+	    (NP (NN 补助费)))
+       (PU 。)) ) 
+
+<su id=p32su2>
+
+
+( (IP (IP (NP-SBJ (NN 主人))
+	  (VP (QP-ADV (CD 一)
+		      (CLP (M 次)))
+	      (VP (VV 涨)
+		  (QP-OBJ (CD 100多)
+			  (CLP (M 元))))))
+      (IP (NP-TPC (PN 其它))
+	  (NP-SBJ (PN 啥))
+	  (VP (ADVP (AD 都))
+	      (VP (VE 没有))))
+      (PU 。)) ) 
+
+<su id=p32su3>
+
+
+( (IP-IJ (IP (NP-TPC (ADJP (JJ 如此))
+		     (NP (NN 分配)
+			 (NN 制度)))
+	     (NP-SBJ (-NONE- *pro*))
+	     (VP (VV 谈)
+		 (NP-OBJ (DP (DT 何))
+			 (NP (NN 公平)))))
+	 (PU ，)
+	 (IP (NP-SBJ (NN 公正)
+		     (PU ，)
+		     (NN 合理))
+	     (VP (ADVP (AD 如此))
+		 (VP (VV 彰显))))
+	 (IP (NP-SBJ (NN 社会)
+		     (NN 公平))
+	     (VP (ADVP (AD 只))
+		 (VP (VE 有)
+		     (IP-OBJ (NP-SBJ (NN 天))
+			     (VP (VV 知道))))))
+	 (PU ！！！)) ) 
+
+<su id=p33su1>
+
+
+( (IP-Q (NP-SBJ (PN 谁))
+	(VP (VV 叫)
+	    (NP-OBJ (PN 你们))
+	    (IP (NP-SBJ (-NONE- *PRO*))
+		(VP (VV 站错)
+		    (AS 了)
+		    (NP-OBJ (NN 队)))))
+	(PU ？)) ) 
+

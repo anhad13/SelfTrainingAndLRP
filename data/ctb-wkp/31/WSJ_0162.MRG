@@ -1,0 +1,107 @@
+<DOC>
+<DOCID>ART128</DOCID>
+<HEADER>
+    <DATE></DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=2350>
+( (IP-HLN (NP-SBJ (NP-PN (NR 伊拉克)) 
+                  (NP (NN 外长))) 
+          (VP (ADVP (AD 将)) 
+              (VP (VV 访问) 
+		  (NP-PN-OBJ (NR 苏联))))) ) 
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=2351>
+( (FRAG  (DT 本) 
+         (NN 报) 
+         (NR 莫斯科) 
+         (NT ２月) 
+         (NT １３日) 
+         (NN 电) 
+         (NN 记者) 
+         (NR 周象光) 
+         (VV 报道) 
+         (PU ：) )) 
+</S>
+<S ID=2352>
+( (IP (NP-SBJ (NP-APP (NR 苏联) 
+		      (NN 总统) 
+		      (NN 新闻) 
+		      (NN 发言人)) 
+	      (NP-PN (NR 伊格纳坚科))) 
+      (VP (NP-TMP (NT 今天) 
+                  (NT 下午)) 
+          (PP-TMP (P 在) 
+		  (LCP (NP (NN 新闻) 
+			   (NN 发布会)) 
+		       (LC 上))) 
+          (VP (VV 说) 
+	      (PU ，) 
+	      (IP (PP-MNR (P 根据) 
+			  (NP (DNP (NP (CP (WHNP-1 (-NONE- *OP*)) 
+					   (CP (IP (NP-SBJ (-NONE- *T*-1)) 
+						   (VP (ADVP (AD 正)) 
+						       (PP-LOC (P 在) 
+							       (NP-PN (NR 伊拉克))) 
+						       (VP (VV 访问)))) 
+					       (DEC 的))) 
+				       (NP-APP (NN 总统) 
+					       (NN 特使)) 
+				       (NP-PN (NR 普里马科夫))) 
+				   (DEG 的)) 
+			      (NP (NN 报告)))) 
+		  (PU ，) 
+		  (NP-SBJ (NP-APP (NP-PN (NR 伊拉克)) 
+				  (NP (NN 外交) 
+				      (NN 部长))) 
+			  (NP-PN (NR 阿齐兹))) 
+		  (VP (PP (P 受) 
+			  (NP (DNP (NP-APP (NP (NP-PN (NR 伊拉克)) 
+					       (NP (NN 总统))) 
+					   (NP-PN (NR 萨达姆))) 
+				   (DEG 的)) 
+			      (NP (NN 委托)))) 
+		      (PU ，) 
+		      (ADVP (AD 将)) 
+		      (PP-TMP (P 于) 
+			      (NP (NT ２月) 
+				  (NT １７日))) 
+		      (VP (VP (VV 前来) 
+			      (NP-PN-OBJ (NR 莫斯科))) 
+			  (PU ，) 
+			  (VP (ADVP (AD 以便)) 
+			      (PP (P 同) 
+				  (NP-PN (NR 苏联))) 
+			      (VP (VV 继续) 
+				  (VP (VV 举行) 
+				      (NP-OBJ (NN 会谈)))))))))) 
+      (PU 。)) ) 
+</S>
+</P>
+<P>
+<S ID=2353>
+( (IP (NP-PN-SBJ (NR 伊格纳坚科)) 
+      (VP (VV 说) 
+	  (PU ，) 
+	  (IP (NP-TMP (CP (WHPP-1 (-NONE- *OP*)) 
+			  (IP (NP-PN-SBJ (NR 阿齐兹)) 
+			      (VP (PP-TMP (-NONE- *T*-1)) 
+				  (VP (VV 在) 
+				      (NP-PN-OBJ (NR 莫斯科)))))) 
+		      (NP (NN 期间))) 
+	      (PU ，) 
+	      (NP-PN-SBJ (NR 戈尔巴乔夫) 
+			 (NN 总统)) 
+	      (VP (VV 可能) 
+		  (VP (VV 会见) 
+		      (NP-OBJ (PN 他)))))) 
+      (PU 。)) ) 
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

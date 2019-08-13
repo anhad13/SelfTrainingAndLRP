@@ -1,0 +1,66 @@
+<DOC>
+<DOCID> CNR20001024.1700.1214 </DOCID>
+<DOCTYPE SOURCE="broadcast news"> NEWS STORY </DOCTYPE>
+<DATETIME> 10/24/2000 17:20:14.71 </DATETIME>
+<BODY>
+<TEXT>
+<TURN>
+( (IP (NP-SBJ (NP-APP (NP (NP-PN (NR 南联盟))
+			  (NP-PN (NR 塞尔维亚)
+				 (NN 共和国))
+			  (NP (NN 政府)))
+		      (NP (NN 总理)))
+	      (NP-PN (NR 马里亚诺维奇)))
+      (VP (NP-TMP (NT 日前))
+	  (ADVP (AD 已))
+	  (PP-DIR (P 向)
+		  (NP (NP-PN (NR 塞尔维亚))
+		      (NP (NN 议会))))
+	  (VP (VV 递交)
+	      (AS 了)
+	      (NP-OBJ (NN 辞呈))))
+      (PU 。))) 
+( (IP (NP-SBJ (PN 他))
+      (VP (PP-LOC (P 在)
+		  (LCP (NP (NN 辞呈))
+		       (LC 中)))
+	  (VP (VV 说)
+	      (PU ：)
+	      (IP-OBJ (PP-PRP (P 鉴于)
+			      (IP (NP-SBJ (DP (DT 各))
+					  (NP (NN 党派)))
+				  (VP (ADVP (AD 已))
+				      (PP-DIR (P 就)
+					      (IP (NP-SBJ (-NONE- *pro*)) 
+						  (VP (ADVP (AD 提前))
+						      (VP (VV 举行)
+							  (NP-OBJ (NP (NP-PN (NR 塞尔维亚))
+								      (NP (NN 议会)))
+								  (NP (NN 选举)))))))
+				      (VP (VV 达成)
+					  (NP-OBJ (NN 协议))))))
+		      (PU ，)
+		      (NP-SBJ (PN 他))
+		      (VP (VP (VV 决定)
+			      (IP-OBJ (NP-SBJ (-NONE- *PRO*)) 
+				      (VP (PP-DIR (P 向)
+						  (NP (NP-PN (NR 塞))
+						      (NP (NN 议会))))
+					  (VP (VV 递交)
+					      (NP-OBJ (NN 辞呈))))))
+			  (PU ，)
+			  (VP (ADVP (AD 以便))
+			      (PP-BNF (P 为)
+				      (NP (DNP (NP (DP (DT 这)
+						       (QP (CD 一)))
+						   (NP (NN 协议)))
+					       (DEG 的))
+					  (NP (NN 实施))))
+			      (VP (VV 创造)
+				  (NP-OBJ (NN 条件))))))))
+      (PU 。))) 
+</TURN>
+</TEXT>
+</BODY>
+<ENDTIME> 10/24/2000 17:20:35.28 </ENDTIME>
+</DOC>

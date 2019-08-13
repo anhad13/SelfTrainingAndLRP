@@ -1,0 +1,517 @@
+<su id=p1su1>
+
+
+( (UCP (IP (ADVP (AD 首先) )
+	   (NP-SBJ (-NONE- *pro*))
+	   (VP (VV BS)
+	       (ADVP-EXT (AD 下) )
+	       (NP-OBJ (DNP (NP-PN (NR 广州) )
+			    (DEG 的) )
+		       (NP (NN 地铁) ) ) ) )
+       (PU ，)
+       (CP (IP (NP-SBJ (-NONE- *pro*))
+	       (VP (ADVP (AD 也) )
+		   (ADVP (AD 太) )
+		   (ADVP (AD 踏马的) )
+		   (VP (VA 挤)
+		       (AS 了) ) ) )
+	   (SP 吧) )
+       (PU 。) ) ) 
+
+<su id=p1su2>
+
+
+( (IP (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (VA 缺德) ) )
+			  (DEC 的) ))
+		  (NP (NN 人) ) )
+	  (VP (ADVP (AD 也) )
+	      (VP (VA 多) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (DP (DT 神马) )
+		  (CP (WHNP-2 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-2))
+			      (VP (VCD (VV 吵架)
+				       (VV 窜队) ) ) )
+			  (DEC 的) ))
+		  (NP (NN 人) ) )
+	  (VP (QP-PRD (CD 一)
+		      (CLP (ADJP (JJ 大) )
+			   (CLP (M 堆) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su3>
+
+
+( (IP (IP (NP-SBJ (PN 我) )
+	  (VP (ADVP (AD 不) )
+	      (VP (VC 是)
+		  (VP (VV 说)
+		      (NP-OBJ (DP (DT 所有) )
+			      (NP (NN 人) ) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (PN 我) )
+			      (VP (VV 说)
+				  (NP-OBJ (-NONE- *T*-1))) )
+			  (DEC 的) )))
+	  (VP (NP-PRD (QP (CD 一)
+			  (CLP (ADJP (JJ 小) )
+			       (CLP (M 部分) ) ) )
+		      (NP (NN 人) ) ) ) )
+      (PU ，)
+      (IP-IMP (NP-SBJ (-NONE- *pro*))
+	      (VP (ADVP (AD 别) )
+		  (VP (VV 喷)
+		      (NP-OBJ (PN 我) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su4>
+
+
+( (UCP (IP (NP-SBJ (NP (NN 小弟) )
+		   (NP (PN 我) ) )
+	   (PU ，)
+	   (VP (ADVP (AD 比较) )
+	       (VP (VV 喜欢)
+		   (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			   (VP (VV 废话) ) ) ) ) )
+       (PU ，)
+       (CP (IP (NP-SBJ (PN 我) )
+	       (VP (ADVP (AD 就) )
+		   (ADVP (AD 慢慢) )
+		   (VP (VV 说) ) ) )
+	   (SP 吧) )
+       (PU ！) ) ) 
+
+<su id=p1su5>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (IP-TMP (NP-SBJ (-NONE- *PRO*))
+		  (VP (NP-TMP (NT 今天) )
+		      (VP (VV 下班) ) ) )
+	  (VP (VP (PP-ADV (P 和)
+			  (NP (QP (CD 一) )
+			      (NP (NN 哥们) ) ) )
+		  (ADVP (AD 一起) )
+		  (VP (VP (VV 挤)
+			  (NP-OBJ (NN 地铁) ) )
+		      (VP (VRD (VV 挤)
+			       (VV 到) )
+			  (IP-OBJ (NP-SBJ (-NONE- *pro*))
+				  (VP (VV 半死) ) ) ) ) )
+	      (PU ，)
+	      (VP (VP (VV 下)
+		      (NP-OBJ (NN 地铁) ) )
+		  (VP (VV 走回)
+		      (NP-OBJ (NN 宿舍) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su6>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VP (ADVP (AD 大老远) )
+	      (ADVP (AD 就) )
+	      (VP (VV 看到)
+		  (IP-OBJ (NP-SBJ (QP (CD 一)
+				      (CLP (ADJP (JJ 大) )
+					   (CLP (M 群) ) ) )
+				  (NP (NN 人) ) )
+			  (VP (ADVP (AD 在) )
+			      (VP (VP (VV 围)
+				      (AS 着) )
+				  (VP (VV 观看)
+				      (NP-OBJ (PN 什么) ) ) ) ) ) ) )
+	  (PU ，)
+	  (VP (ADVP (AD 很) )
+	      (VP (VA 好奇)
+		  (IP-OBJ (NP-SBJ (-NONE- *pro*))
+			  (VP (VC 是)
+			      (IP-PRD (NP-SBJ (DP (DT 神马) )
+					      (NP (NN 东西) ) )
+				      (VP (ADVP (AD 这么) )
+					  (VP (VV 值得)
+					      (NP-OBJ (NN 围观) ) ) ) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su7>
+
+
+( (IP (NP-SBJ (NP (PN 我们) )
+	      (DP (DT 这)
+		  (QP (CD 两)
+		      (CLP (M 个) ) ) )
+	      (CP (WHNP-1 (-NONE- *OP*))
+		  (CP (IP (NP-SBJ (-NONE- *T*-1))
+			  (VP (VE 有)
+			      (AS 着)
+			      (NP-OBJ (NN 好奇心) ) ) )
+		      (DEC 的) ))
+	      (NP (NN 213)
+		  (NN 青年) ) )
+      (PU ，)
+      (VP (VP (VV 加紧)
+	      (NP-OBJ (NN 脚步) ) )
+	  (VP (VRD (VV 围观)
+		   (VV 去) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su8>
+
+
+( (UCP (IP (IP (NP-SBJ-1 (DP (DT 这) )
+			 (NP (NN 哥们) ) )
+	       (IP (CC 不是)
+		   (IP (VP (SB 被)
+			   (VP (VV 饿坏)
+			       (NP-OBJ (-NONE- *-1))) )
+		       (SP 了) )))
+	   (CC 就是)
+	   (IP (NP-SBJ (NN 脑袋) )
+	       (VP (LB 被)
+		   (CP-OBJ (WHNP-2 (-NONE- *OP*))
+			   (IP (NP-SBJ (ADJP (JJ 大) )
+				       (NP (NN 铁门) ) )
+			       (VP (MSP 给)
+				   (VP (VV 夹)
+				       (NP-OBJ (-NONE- *T*-2))) ) )) )
+	       (SP 了) ) )
+       (CP (IP (NP-SBJ (-NONE- *pro*))
+	       (VP (ADVP (AD 不) )
+		   (VP (VV 怕)
+		       (VP (VV 得病) ) ) ) )
+	   (SP 啊) )
+       (PU ，)
+       (PU ……) ) ) 
+
+<su id=p1su9>
+
+
+( (UCP (IP (NP-SBJ (QP (CD 一)
+		       (CLP (M 只) ) )
+		   (DNP (ADJP (JJ 大大) )
+			(DEG 的) )
+		   (NP (NN 老鼠) ) )
+	   (VP (SB 被)
+	       (VP (VV 扒光)
+		   (AS 了)
+		   (NP-OBJ (NN 毛) ) ) ) )
+       (PU ，)
+       (CP (IP (NP-SBJ (PN 我) )
+	       (VP (ADVP (AD 还) )
+		   (VP (VV 以为)
+		       (IP-OBJ (NP-SBJ (-NONE- *pro*))
+			       (VP (VC 是)
+				   (NP-PRD (NN 兔子) ) ) ) ) ) )
+	   (SP 呢) )
+       (PU 。)
+       (IP (NP-SBJ (-NONE- *pro*))
+	   (VP (VV 听)
+	       (IP-OBJ (NP-SBJ (PN 他们) )
+		       (VP (VV 说)
+			   (IP-OBJ (NP-SBJ (-NONE- *pro*))
+				   (VP (VC 是)
+				       (NP-PRD (NN 老鼠) ) ) ) ) ) ) )
+       (PU 。。) ) ) 
+
+<su id=p1su10>
+
+
+( (IP (NP-SBJ (NN 旁边) )
+      (VP (ADVP (AD 还) )
+	  (VP (VE 有)
+	      (IP-OBJ (NP-SBJ (NP (NP (NP (PN 我们) )
+				      (NP (NN 宿舍) ) )
+				  (NP (NN 隔壁) ) )
+			      (QP (CD 一) )
+			      (NP (NN 哥们) ) )
+		      (VP (VP (VV 拿)
+			      (AS 着)
+			      (NP-OBJ (NN 手机) ) )
+			  (VP (ADVP (AD 在) )
+			      (VP (VV 拍)
+				  (NP-OBJ (NN 视频) ) ) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su11>
+
+
+( (UCP (IP (NP-SBJ (-NONE- *pro*))
+	   (VP (VV 问)
+	       (NP-IO (PN 他) )
+	       (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		       (VP (VP (VV 派去) )
+			   (VP (VV 干)
+			       (NP-OBJ (PN 嘛) ) ) ) ) ) )
+       (PU ！)
+       (CP (IP (NP-SBJ (-NONE- *pro*))
+	       (VP (PP-MNR (P 用)
+			   (NP (NP-PN (NR 联通) )
+			       (ADJP (JJ 红) )
+			       (NP (NN 围脖) ) ) )
+		   (VP (VV 传上)
+		       (NP-OBJ (NN 微博) ) ) ) )
+	   (SP 呗) )
+       (PU ！) ) ) 
+
+<su id=p1su12>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 太) )
+	      (VP (VA 恶心) ) )
+	  (SP 了) )
+      (PU ，)
+      (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (VV 要)
+				  (VP (VV 看) ) ) )
+			  (DEC 的) )))
+	  (VP (NP-ADV (PN 自己) )
+	      (VP (VV 搜去) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (PN 我) )
+	  (VP (VV 打)
+	      (NP-OBJ (NN 马赛克) ) ) )
+      (PU ~) ) ) 
+
+<su id=p1su13>
+
+
+( (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 回去) ) )
+      (NP-SBJ (-NONE- *pro*))
+      (VP (VV 害)
+	  (NP-OBJ (PN 我) )
+	  (IP (NP-SBJ (-NONE- *PRO*))
+	      (VP (NP-TMP (QP (CD 一)
+			      (CLP (M 个) ) )
+			  (NP (NN 晚上) ) )
+		  (VP (VP (ADVP (AD 都) )
+			  (VP (VA 恶心)
+			      (AS 着) ) )
+		      (PU ，)
+		      (VP (VPT (VV 吃)
+			       (AD 不)
+			       (VV 下) )
+			  (NP-OBJ (NN 饭) ) ) ) ) ) )
+      (PU ！) ) ) 
+
+<su id=p1su14>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VP (NP-TMP (NT 晚上) )
+		  (VP (VV 上)
+		      (NP-OBJ (NN 微薄) ) ) )
+	      (PU ，)
+	      (VP (ADVP (AD 还) )
+		  (ADVP (AD 真) )
+		  (VP (VV 看到)
+		      (NP-OBJ (NP (NP (NN 隔壁) )
+				  (DP (DT 那) )
+				  (NP (NN 丫的) ) )
+			      (NP (NN 微博)
+				  (NN 视频) ) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 还) )
+	      (ADVP (AD 真) )
+	      (VP (VP (VRD (VV 拍)
+			   (VV 上去) ) )
+		  (VP (VV 传)
+		      (NP-OBJ (NN 微博) ) ) ) )
+	  (SP 了) )
+      (PU 。) ) ) 
+
+<su id=p1su15>
+
+
+( (CP (IP (IP-ADV (NP-SBJ (DP (DT 这)
+			      (CLP (M 个) ) )
+			  (NP (NN 林) ) )
+		  (VP (VA 大) )
+		  (SP 了) )
+	  (ADVP (AD 真是) )
+	  (NP-SBJ (DP (DT 什么) )
+		  (NP (NN 鸟) ) )
+	  (VP (ADVP (AD 都) )
+	      (VP (VE 有) ) ) )
+      (SP 啊)
+      (PU ！！) ) ) 
+
+<su id=p2su1>
+
+
+( (IP-Q (INTJ (IJ 哇靠) )
+	(PU ，)
+	(NP-TPC-1 (DP (DT 这) )
+		  (NP (NN 东西) ) )
+	(NP-SBJ (-NONE- *pro*))
+	(VP (ADVP (AD 也) )
+	    (VP (VV 能)
+		(VP (VV 吃)
+		    (NP-OBJ (-NONE- *T*-1))) ) )
+	(PU ？？) ) ) 
+
+<su id=p3su1>
+
+
+( (IP (IP (NP-SBJ (PN 我) )
+	  (VP (VV 表示)
+	      (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		      (VP (VV 吃)
+			  (AS 过) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (ADVP (AD 还) )
+				  (VP (VA 不错) ) ) )
+			  (DEC 的) ))
+		  (NP (NN 味道) ) )) ) ) 
+
+<su id=p4su1>
+
+
+( (CP (IP (ADVP (AD 事实上) )
+	  (NP-SBJ (NN 老鼠)
+		  (NN 肉) )
+	  (VP (ADVP (AD 挺) )
+	      (VP (VA 好吃) ) ) )
+      (SP 的) ) ) 
+
+<su id=p5su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (DVP (ADVP (AD 深深) )
+	       (DEV 地) )
+	  (VP (VRD (VV 感受)
+		   (VV 到) )
+	      (IP-OBJ (DNP (NP (NP-PN (NR 广州) )
+			       (NP (NN 人民) ) )
+			   (DEG 的) )
+		      (IP (NP-SBJ (-NONE- *pro*))
+			  (VP (PP-MNR (P 以)
+				      (NP (NN 食) ) )
+			      (VP (VV 为)
+				  (NP-OBJ (NN 天) ) ) ) ) ) ) ) ) ) 
+
+<su id=p6su1>
+
+
+( (CP (CP (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (ADVP (AD 不) )
+		  (ADVP (AD 就) )
+		  (VP (VC 是)
+		      (VP (VV 吃)
+			  (NP-OBJ (QP (CLP (M 个) ) )
+				  (NP (NN 老鼠) ) ) ) ) ) )
+	  (SP 嘛) )
+      (PU ，)
+      (CP-Q (IP (NP-SBJ (-NONE- *pro*))
+		(VP (VP (VE 有)
+			(NP-OBJ (NN 必要) ) )
+		    (VP (VV 这样) ) ) )
+	    (SP 吗) )
+      (PU ？) ) ) 
+
+<su id=p7su1>
+
+
+( (IP (IP (NP-SBJ (PN 我) )
+	  (VP (ADVP (AD 了个) )
+	      (VP (VV 去) ) ) )
+      (PU ，)
+      (IP (NP-SBJ-SBJ (NP (PN 你) )
+		      (NP (NN 朋友) ) )
+	  (VP (ADVP (AD 还) )
+	      (VP (VP (VE 有)
+		      (NP-OBJ (NN 心思) ) )
+		  (VP (VP (VRD (VV 拍)
+			       (VV 下来) ) )
+		      (VP (VV 发)
+			  (NP-OBJ (ADJP (JJ 红) )
+				  (NP (NN 围脖) ) ) ) ) ) ) ) ) ) 
+
+<su id=p8su1>
+
+
+( (UCP (CP (IP (NP-SBJ (-NONE- *pro*))
+	       (VP (VA 犀利) ) )
+	   (SP 啊) )
+       (PU 。。)
+       (IP-Q (NP-TPC-1 (NN 老鼠) )
+	     (NP-SBJ (-NONE- *pro*))
+	     (VP (ADVP-WH (AD 怎么) )
+		 (VP (VV 杀)
+		     (NP-OBJ (-NONE- *T*-1))) ) )
+       (PU ？)
+       (IP (NP-SBJ (-NONE- *pro*))
+	   (VP (ADVP (AD 真) )
+	       (VP (VV 想)
+		   (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			   (VP (VV 看看) ) ) ) ) ) ) ) 
+
+<su id=p10su1>
+
+
+( (UCP (IP-Q (NP-SBJ (-NONE- *pro*))
+	     (VP (VC 是)
+		 (IP-PRD (IP (NP-SBJ (PN 你) )
+			     (VP (VA 奇怪) ) )
+			 (CC 还是)
+			 (IP (NP-SBJ (PN 人家) )
+			     (VP (VA 奇怪) ) ) ) ) )
+       (PU ？)
+       (CP (IP (NP-SBJ (-NONE- *pro*))
+	       (VP (VV 用得着)
+		   (NP-OBJ (ADJP (ADVP (AD 这么) )
+				 (ADJP (JJ 大) ) )
+			   (NP (NN 反应) ) ) ) )
+	   (SP 嘛) ) ) ) 
+
+<su id=p11su1>
+
+
+( (UCP (CP (IP (NP-SBJ (NN 好奇) )
+	       (VP (VV 害死)
+		   (NP-OBJ (NN 人) ) ) )
+	   (SP 啊) )
+       (PU ，)
+       (IP (NP-SBJ (-NONE- *pro*))
+	   (VP (VV 叫)
+	       (NP-OBJ (PN 你) )
+	       (IP (NP-SBJ (-NONE- *PRO*))
+		   (VP (ADVP (AD 乱) )
+		       (VP (VV 看) ) ) ) ) ) ) ) 
+
+<su id=p12su1>
+
+
+( (UCP (IP (NP-SBJ (NN 老鼠)
+		   (NN 肉) )
+	   (VP (ADVP (AD 很) )
+	       (VP (VE 有)
+		   (NP-OBJ (NN 嚼头) ) ) ) )
+       (PU ，)
+       (CP (IP (NP-SBJ (-NONE- *pro*))
+	       (VP (VA 真) ) )
+	   (SP 的) ) ) ) 
+
+<su id=p14su1>
+
+
+( (IP (IP (NP-SBJ (NN 广州人) )
+	  (VP (NP-FOC-1 (PN 什么) )
+	      (ADVP (AD 都) )
+	      (VP (VV 吃)
+		  (NP-OBJ (-NONE- *-1))) ) )
+      (PU ，)
+      (VP-SBJ (ADVP (AD 果然) )
+	      (VP (VV 名不虚传) ) ) ) ) 
+

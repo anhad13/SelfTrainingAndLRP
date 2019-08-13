@@ -1,0 +1,62 @@
+<su id=p1su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (PP-MNR (P 用)
+		  (NP (ADJP (JJ 实际) )
+		      (NP (NN 行动) ) ) )
+	  (VP (VV 抗击)
+	      (IP-OBJ (NP-PN-SBJ (NR 美国) )
+		      (VP (VV 售)
+			  (NP-OBJ (NN 武器) )
+			  (PP-BNF (P 给)
+				  (NP-PN (NR 台湾) ) ) ) ) ) ) ) ) 
+
+<su id=p1su2>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (PP-MNR (P 用)
+		  (NP (NP (ADJP (JJ 实际) )
+			  (NP (NN 行动) ) )
+		      (NP (NN 真材实料) ) ) )
+	  (VP (VV 给)
+	      (NP-IO-PN (NR 美国) )
+	      (NP-OBJ (ADJP (JJ 注命) )
+		      (NP (NN 打击) ) ) ) ) ) ) 
+
+<su id=p2su1>
+
+
+( (IP (NP-SBJ (PN 那) )
+      (VP (VC 是)
+	  (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *pro*))
+			      (VP (VRD (VV 做)
+				       (VV 出来) )
+				  (NP-OBJ (-NONE- *T*-1))) )
+			  (DEC 的) ))) ) ) ) 
+
+<su id=p3su1>
+
+
+( (IP (NP-SBJ (NN 熟) )
+      (VP (VP (ADVP (AD 不) )
+	      (VP (VC 是)
+		  (IP-PRD (NP-SBJ (NN 心) )
+			  (VP (VV 变老) ) ) ) )
+	  (PU ，)
+	  (CC 而)
+	  (VP (VC 是)
+	      (IP-PRD (NP-SBJ (-NONE- *pro*))
+		      (VP (IP-ADV (NP-SBJ (NN 眼泪) )
+				  (VP (PP-LOC (P 在)
+					      (LCP (NP (NN 眼) )
+						   (LC 里) ) )
+				      (VP (VV 打转) ) ) )
+			  (ADVP (AD 却) )
+			  (ADVP (AD 还) )
+			  (VP (VV 保持)
+			      (NP-OBJ (NN 微笑) ) ) ) ) ) )
+      (PU 。) ) ) 
+

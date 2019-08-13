@@ -1,0 +1,40 @@
+<su id=p2su1>
+
+
+( (IP (NP-SBJ (NP-PN (NR 金))
+	      (NP (NN 家)))
+      (VP (ADVP (AD 早晚))
+	  (VP (VV 会)
+	      (VP (VV 听到)
+		  (NP-OBJ (NN 炮声)))))
+      (PU ！)) ) 
+
+<su id=p3su1>
+
+
+( (IP-Q (NP-SBJ (-NONE- *pro*))
+	(VP (ADVP (AD 又))
+	    (VP (VV 少)
+		(QP-OBJ (CD 一)
+			(CLP (M 个)))))
+	(PU ？)) ) 
+
+<su id=p6su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 大快人心)))
+      (IP (NP-SBJ (ADVP (AD 又))
+		  (NP (QP (CD 一))
+		      (SKIP (NOI l))
+		      (NP (NN 渎｀材))))
+	  (VP (VV 死))
+	  (SP 了))
+      (PU .......)) ) 
+
+<su id=p8su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 胡言乱语))) ) 
+

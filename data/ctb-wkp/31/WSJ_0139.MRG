@@ -1,0 +1,153 @@
+<su id=headline_su1> 
+
+
+( (CP (IP (NP-PN-SBJ (NR 中国) )
+	  (VP (ADVP (AD 不) )
+	      (VP (VV 能)
+		  (VP (ADVP (AD 老是) )
+		      (DVP (VP (VA 被动) )
+			   (DEV 的) )
+		      (VP (VV 任由)
+			  (NP-OBJ (NN 美帝) )
+			  (IP (NP-SBJ (-NONE- *PRO*))
+			      (VP (VV 玩)
+				  (NP-OBJ (DP (DT 什么) )
+					  (ADJP (JJ 巧) )
+					  (NP (NN 实力) ) ) ) ) ) ) ) ) )
+      (SP 嘛) ) ) 
+
+<su id=p1su1>
+
+
+( (IP (NP-PN-SBJ (NR 毛)
+		 (NN 主席) )
+      (VP (ADVP (AD 都) )
+	  (VP (VV 说)
+	      (AS 了)
+	      (CP-OBJ (IP (IP-SBJ (NP-SBJ (-NONE- *pro*))
+				  (VP (VP (VV 来) )
+				      (CC 而)
+				      (VP (ADVP (AD 不) )
+					  (VP (VV 往) ) ) ) )
+			  (VP (VC 非)
+			      (NP-PRD (NN 礼) ) ) )
+		      (SP 也) ) ) ) ) ) 
+
+<su id=p1su2>
+
+
+( (IP (NP-SBJ (DNP (NP (NN 后辈) )
+		   (DEG 的) ) )
+      (VP (ADVP (AD 都) )
+	  (VP (VV 忘)
+	      (NP-OBJ (PN 之) )
+	      (LCP-LOC (NP (NN 脑) )
+		       (LC 后) ) ) )
+      (SP 了) ) ) 
+
+<su id=p1su3>
+
+
+( (IP (NP-SBJ (DNP (NP-PN (NR 老毛) )
+		   (DEG 的) )
+	      (NP (NN 斗争)
+		  (NN 策略) ) )
+      (VP (ADVP (AD 还) )
+	  (VP (VC 是)
+	      (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+			  (CP (IP (NP-SBJ (-NONE- *T*-1))
+				  (VP (ADVP (AD 很) )
+				      (VP (VA 管用) ) ) )
+			      (DEC 的) ))) ) )
+      (CP-CND (ADVP (CS 不管) )
+	      (IP (NP-SBJ (PN 大家) )
+		  (VP (PP-DIR (P 对)
+			      (NP (PN 他) ) )
+		      (VP (VE 有)
+			  (NP-OBJ (DNP (NP (PN 这样)
+					   (PN 那样) )
+				       (DEG 的) )
+				  (NP (NN 看法)
+				      (CC 与)
+				      (NN 不满) ) ) ) ) ) ) ) ) 
+
+<su id=p1su4>
+
+
+( (CP (IP (NP-SBJ (PN 咱) )
+	  (VP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+		      (VP (VE 没)
+			  (NP-OBJ (NN 事) ) ) )
+	      (ADVP (AD 就) )
+	      (VP (VP (VV 到)
+		      (NP-OBJ (NP (PN 他) )
+			      (NP (NN 后院) ) ) )
+		  (VP (VCD (VV 转悠)
+			   (VV 转悠) ) ) ) ) )
+      (SP 嘛) ) ) 
+
+<su id=p1su5>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 不) )
+	  (VP (VV 能)
+	      (VP (ADVP (AD 老是) )
+		  (VP (VV 任由)
+		      (NP-OBJ (PN 他) )
+		      (IP (NP-SBJ (-NONE- *PRO*))
+			  (VP (VP (VP (VP (VV 来)
+					  (LCP-OBJ (NP (DNP (NP (PN 咱) )
+							    (DEG 的) )
+						       (NP (NN 院子) ) )
+						   (LC 里) ) )
+				      (VP (VV 放火) ) )
+				  (OTH (DNP (NP (PN 什么) )
+					    (DEG 的) ) ))
+			      (VP (VV 挑)
+				  (NP-OBJ (NN 是非) ) ))) ) ) ) ) ) ) 
+
+<su id=p5su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 看看)
+	  (IP-OBJ (NP-PN-SBJ (NR 奥巴马) )
+		  (VP (ADVP (AD 有) )
+		      (VP (VV 去)
+			  (VP (VV 见)
+			      (NP-OBJ (ADJP (JJ 老) )
+				      (NP (NN 秃驴) ) ) ) ) )
+		  (SP 了) ) ) ) ) 
+
+<su id=p6su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+		      (VP (VE 没)
+			  (NP-OBJ (DP (DT 啥) )
+				  (NP (NN 事) ) ) ) )
+	      (ADVP (AD 就) )
+	      (ADVP (AD 多) )
+	      (PP-ADV (P 与)
+		      (NP-PN (NR 查韦斯) ) )
+	      (VP (VV 套套)
+		  (NP-OBJ (NN 近乎) ) ) ) )
+      (INTJ (IJ 哈哈哈) ) ) ) 
+
+<su id=p7su1>
+
+
+( (CP (IP (IP-ADV (NP-SBJ (PN 你) )
+		  (VP (VV 卖)
+		      (NP-OBJ (NN 武器) )
+		      (PP-BNF (P 给)
+			      (NP (NP (PN 我) )
+				  (NP-PN (NR 台湾省) ) ) ) ) )
+	  (NP-SBJ (PN 我) )
+	  (VP (ADVP (AD 就) )
+	      (VP (VV 得)
+		  (VP (VV 礼尚往来) ) ) ) )
+      (SP 啊) ) ) 
+

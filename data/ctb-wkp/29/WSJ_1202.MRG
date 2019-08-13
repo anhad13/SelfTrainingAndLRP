@@ -1,0 +1,596 @@
+<su id=p1su1>
+
+
+( (NP (DNP (IP-NOM (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+			       (IP (NP-SBJ (-NONE- *T*-1))
+				   (VP (VV 植树) ) ))
+			   (NP (NN 老人) ) )
+		   (VP (VV 在)
+		       (NP-PN-OBJ (NR 山东)
+				  (NR 枣庄) ) ) )
+	   (DEG 的) )
+      (NP (NN 惨案) ) ) ) 
+
+<su id=p1su2>
+
+
+( (NP (DNP (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+			   (IP (NP-SBJ (-NONE- *T*-1))
+			       (VP (VV 植树) ) ))
+		       (NP (NN 老人) ) )
+	       (VP (VV 在)
+		   (NP-PN-OBJ (NR 山东)
+			      (NR 枣庄) ) ) )
+	   (DEG 的) )
+      (NP (NN 惨案) ) ) ) 
+
+<su id=p1su3>
+
+
+( (NP (CP (WHNP-1 (-NONE- *OP*))
+	  (CP (IP (NP-SBJ (NP-APP (NP-PN (NR 山东)
+					 (NR 枣庄市)
+					 (NR 山亭区) )
+				  (NP (NN 林业局)
+				      (NN 干部) ) )
+			  (NP-PN (NR 倪守堂) ) )
+		  (VP (VV 销售)
+		      (NP-OBJ (-NONE- *T*-1))) )
+	      (DEC 的) ))
+      (ADJP (JJ 假) )
+      (NP (NN 皂荚)
+	  (NN 种子)
+	  (PU 、)
+	  (NN 种苗) )
+      (PU 。) ) ) 
+
+<su id=p1su4>
+
+
+( (IP (NP-PN-SBJ (NR 向天敏) )
+      (VP (VV 推广)
+	  (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		  (VP (PP-LOC (P 在)
+			      (NP (NP-PN (NR 河北) )
+				  (NP-PN (NR 丰宁)
+					 (PU 、)
+					 (NR 玉田)
+					 (PU 、)
+					 (NR 元氏)
+					 (PU 、)
+					 (NR 无极)
+					 (PU 、)
+					 (NR 望都)
+					 (PU 、)
+					 (NR 易县) ) ) )
+		      (PU ，)
+		      (VP (VV 请)
+			  (NP-OBJ (NN 农民) )
+			  (IP (NP-SBJ (-NONE- *PRO*))
+			      (VP (VV 造林)
+				  (QP-EXT (CD 3万)
+					  (CLP (M 亩) ) ) ) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su5>
+
+
+( (IP (PP-PRP (P 由于)
+	      (NP (NP (NN 种子)
+		      (PU 、)
+		      (NN 种苗) )
+		  (NP (NN 质量)
+		      (NN 问题) ) ) )
+      (PU ，)
+      (IP (IP (IP-SBJ (NP-SBJ (-NONE- *pro*))
+		      (VP (VV 造林) ) )
+	      (VP (ADVP (AD 不) )
+		  (VP (VV 成活) ) ) )
+	  (PU ，)
+	  (IP (NP-SBJ (NN 经济) )
+	      (VP (VP (VV 损失) )
+		  (VP (VA 惨重) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su6>
+
+
+( (IP (NP-PN-SBJ (NR 向天敏) )
+      (VP (VP (ADVP (AD 已) )
+	      (VP (VV 卖掉)
+		  (NP-OBJ (DP (DT 全部) )
+			  (NP (NN 家产) ) ) ) )
+	  (PU ，)
+	  (VP (ADVP (AD 未) )
+	      (VP (VV 获)
+		  (NP-OBJ (NP (NN 国家)
+			      (PU 、)
+			      (NN 农民) )
+			  (QP (CD 一)
+			      (CLP (M 分) ) )
+			  (NP (NN 钱) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su7>
+
+
+( (IP (IP (NP-SBJ (NN 法院) )
+	  (VP (ADVP (AD 不) )
+	      (VP (VV 许)
+		  (NP-OBJ (NN 国家)
+			  (NN 林业局) )
+		  (IP (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 作)
+			  (NP-OBJ (NN 鉴定) ) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (NP-ADV (QP (CD 两) )
+		      (NP (NN 审) ) )
+	      (VP (VP (VV 判)
+		      (IP-OBJ (NP-PN-SBJ (NR 向天敏) )
+			      (VP (VV 赔偿)
+				  (QP-OBJ (NP (NN 苗)
+					      (NN 款) )
+					  (QP (CD 200万)
+					      (CLP (M 元) ) ))) ) )
+		  (PU ，)
+		  (CC 而)
+		  (VP (ADVP (AD 不) )
+		      (VP (VV 判)
+			  (IP-OBJ (NP-SBJ (NN 售假者) )
+				  (VP (VV 赔)
+				      (NP-OBJ (DNP (NP (NN 用户) )
+						   (DEG 的) )
+					      (NP (NN 经济)
+						  (NN 损失) ) ) ) ) ) ) ) ) )
+      (PU ，)
+      (IP-Q (NP-SBJ (NN 公道) )
+	    (VP-WH (VV 何在) ) )
+      (PU ？) ) ) 
+
+<su id=p1su8>
+
+
+( (IP (NP-TMP (NT 目前) )
+      (NP-SBJ (PN 你) )
+      (VP (VP (VV 去)
+	      (NP-PN-OBJ (NR 凤凰)
+			 (NR 网罗天下) ) )
+	  (VP (VV 去)
+	      (VP (VPT (VV 看)
+		       (CD 一)
+		       (VV 看) )
+		  (PRN (PU （)
+		       (NP (DNP (NP (NP-PN (NR 山东省)
+					   (NR 枣庄市)
+					   (NR 市中区) )
+				    (NP (NN 人民)
+					(NN 法院) ) )
+				(DEG 的) )
+			   (NP (NN 情况) ) )
+		       (PU ）) ) ) ) ) ) ) 
+
+<su id=p1su9>
+
+
+( (UCP (IP (NP-SBJ (-NONE- *pro*))
+	   (VP (ADVP (AD 正好) )
+	       (VP (VC 是)
+		   (NP-PRD (CP (WHNP-2 (-NONE- *OP*))
+			       (CP (IP (NP-SBJ (QP (CD 一)
+						   (CLP (M 个) ) )
+					       (CP (WHNP-1 (-NONE- *OP*))
+						   (CP (IP (NP-SBJ (-NONE- *T*-1))
+							   (VP (VV 贪赃枉法) ) )
+						       (DEC 的) ))
+					       (NP (NN 法官) ) )
+				       (VP (VV 办)
+					   (NP-OBJ (-NONE- *T*-2))) )
+				   (DEC 的) ))
+			   (NP (NN 案) ) ) ) ) )
+       (PU ，)
+       (IP (IP (NP-SBJ (NN 苍天) )
+	       (VP (VV 在)
+		   (NP-OBJ (NN 上) ) ) )
+	   (PU ，)
+	   (IP (NP-SBJ (NN 良心) )
+	       (VP (VV 何在) ) ) )
+       (PU ，)
+       (CP-Q (IP (NP-PN-SBJ (NR 中国) )
+		 (VP (ADVP (AD 还) )
+		     (VP (VE 有)
+			 (NP-OBJ (NN 王法) ) ) ) )
+	     (SP 吗) )
+       (PU ？) ) ) 
+
+<su id=p1su10>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 谢谢)
+	      (IP-OBJ (NP-SBJ (NN 先生)
+			      (PU 、)
+			      (NN 女士们) )
+		      (VP (VV 声讨) ) )) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 还)
+	      (NP-IO (NN 老人) )
+	      (NP-OBJ (QP (CD 一)
+			  (CLP (M 个) ) )
+		      (NP (NN 公道) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 死而无怨) ) )
+      (PU 。) ) ) 
+
+<su id=p2su1>
+
+
+( (IP (NP-PN-SBJ (NR 倪守堂) )
+      (VP (IP (VP (VCD (VV 销售)
+		       (VV 贩卖) )
+		  (NP-OBJ (ADJP (JJ 假) )
+			  (NP (NN 种子) ) ) ) )
+	  (VP (VV 应该)
+	      (VP (VV 受到)
+		  (NP-OBJ (DNP (NP (NN 法律) )
+			       (DEG 的) )
+			  (NP (NN 严惩) ) ) ) ) ) ) ) 
+
+<su id=p3su1>
+
+
+( (IP (IP (NP-SBJ (NN 水) )
+	  (VP (ADVP (AD 太) )
+	      (VP (VA 深) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (VV 捞到)
+				  (NP-OBJ (NN 好处) ) ) )
+			  (DEC 的) ))
+		  (NP (NN 人) ) )
+	  (VP (ADVP (AD 太) )
+	      (VP (VA 多) ) ) )
+      (PU ，)
+      (IP (ADVP (AD 所以) )
+	  (NP-SBJ (DP (DT 这)
+		      (CLP (M 个) ) )
+		  (NP (NN 锅) ) )
+	  (VP (ADVP (AD 太) )
+	      (ADVP (AD 难) )
+	      (VP (VV 揭开) ) ) ) ) ) 
+
+<su id=p5su1>
+
+
+( (IP (IP-SBJ (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 售)
+		  (NP-OBJ (ADJP (JJ 假) )
+			  (NP (NN 种子) ) ) ) )
+      (PU -)
+      (VP (VA 缺德) ) ) ) 
+
+<su id=p10su1>
+
+
+( (IP (NP-SBJ (NP-APP (NP-PN (NR 枣庄)
+			     (NR 山亭) )
+		      (NP (NN 林业局)
+			  (NN 干部) ) )
+	      (NP-PN (NR 倪守堂) ) )
+      (VP (VP (ADVP (AD 私) )
+	      (VP (VV 刻)
+		  (NP-OBJ (NN 公章) ) ) )
+	  (PU ，)
+	  (VP (VV 销售)
+	      (NP-OBJ (ADJP (JJ 假) )
+		      (NP (NN 皂荚)
+			  (NN 种子) ) ) ) )
+      (PU ,) ) ) 
+
+<su id=p10su2>
+
+
+( (IP (IP (NP-SBJ (NP (PN 我们) )
+		  (NP (NN 国家) ) )
+	  (VP (VP (VC 是)
+		  (NP-PRD (NN 法制)
+			  (NN 国家) ) )
+	      (PU ，)
+	      (VP (ADVP (AD 不) )
+		  (VP (VV 容许)
+		      (IP-OBJ (NP-SBJ (-NONE- *pro*))
+			      (VP (VP (VV 藐视)
+				      (NP-OBJ (NN 法律) ) )
+				  (PU 、)
+				  (VP (VV 无视)
+				      (NP-OBJ (NN 法律) ) ) ) ) ) ) ) )
+      (PU .)
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 支持)
+	      (NP-OBJ (NN 鉴定) ) ) )
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 还)
+	      (NP-OBJ (NN 百姓)
+		      (NN 公道) ) ) )
+      (PU 。) ) ) 
+
+<su id=p10su3>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VP (VV 严惩)
+	      (NP-OBJ (NN 贪官) ) )
+	  (PU ，)
+	  (VP (VV 维护)
+	      (NP-OBJ (NN 法律)
+		      (NN 尊严) ) ) )
+      (PU 。) ) ) 
+
+<su id=p11su1>
+
+
+( (IP (IP-SBJ (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 坑害)
+		  (NP-OBJ (NN 百姓) ) ) )
+      (VP (VV 天理难容) )
+      (PU ！) ) ) 
+
+<su id=p14su1>
+
+
+( (IP (IP-SBJ (NP-SBJ (NN 林业)
+		      (NN 干部) )
+	      (VP (VV 售)
+		  (NP-OBJ (ADJP (JJ 假) )
+			  (NP (NN 种子) ) ) ) )
+      (VP (VA 可耻) )
+      (PU 。) ) ) 
+
+<su id=p15su1>
+
+
+( (IP (IP-SBJ (NP-SBJ (NN 林业)
+		      (NN 干部) )
+	      (VP (VP (VV 售)
+		      (NP-OBJ (ADJP (JJ 假) )
+			      (NP (NN 种子) ) ) )
+		  (PU 、)
+		  (VP (VV 坑害)
+		      (NP-OBJ (NN 农户) ) ) ) )
+      (PU ，)
+      (VP (VV 丧尽天良) )
+      (PU 。) ) ) 
+
+<su id=p16su1>
+
+
+( (IP (IP (NP-SBJ (NN 林业)
+		  (NN 干部局) )
+	  (VP (VV 破坏)
+	      (NP-OBJ (NN 植树)
+		      (NN 造林) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 胆子) )
+	  (VP (ADVP (AD 真) )
+	      (VP (VA 大) ) ) )
+      (PU 。) ) ) 
+
+<su id=p17su1>
+
+
+( (IP (IP (NP-SBJ (NN 林业)
+		  (NN 干部) )
+	  (VP (VP (VV 售)
+		  (NP-OBJ (ADJP (JJ 假) )
+			  (NP (NN 种子) ) ) )
+	      (PU ，)
+	      (VP (VV 坑害)
+		  (NP-OBJ (NN 农户) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 心) )
+	  (VP (ADVP (AD 不) )
+	      (VP (VC 是)
+		  (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+			      (CP (IP (NP-SBJ (-NONE- *T*-1))
+				      (VP (NP-ADV (NN 肉) )
+					  (VP (VV 长) )))
+				  (DEC 的) ))) ) ) )
+      (PU 。) ) ) 
+
+<su id=p18su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 怎么) )
+	      (ADVP (AD 又) )
+	      (VP (VC 是)
+		  (IP-PRD (NP-SBJ (NN 贪官) )
+			  (VP (VV 欺负)
+			      (NP-OBJ (NN 老百姓) ) ) ) ) ) )
+      (PU ，)
+      (IP-Q (NP-SBJ (-NONE- *pro*))
+	    (VP (ADVP (AD 还) )
+		(VP (VE 有没有)
+		    (NP-OBJ (NN 王法) ) ) )
+	    (SP 了) )
+      (PU ？) ) ) 
+
+<su id=p19su1>
+
+
+( (IP (IP (NP-SBJ (NN 林业)
+		  (NN 干部) )
+	  (VP (VP (VV 售)
+		  (NP-OBJ (ADJP (JJ 假) )
+			  (NP (NN 种子) ) ) )
+	      (PU ，)
+	      (VP (VV 坑)
+		  (NP-OBJ (NP (NN 农户) )
+			  (QP (CD 十)
+			      (CLP (M 年) ) )
+			  (NP (NN 心血) ) ) ) ) )
+      (PU ，)
+      (IP-Q (NP-SBJ (NN 天理) )
+	    (VP-WH (VV 何在) ) )
+      (PU ？) ) ) 
+
+<su id=p20su1>
+
+
+( (IP (INTJ (IJ 呵呵) )
+      (NP-SBJ (PN 我) )
+      (VP (ADVP (AD 就) )
+	  (VP (VV 看看) ) ) ) ) 
+
+<su id=p20su2>
+
+
+( (IP (NP-SBJ (NN 老人) )
+      (VP (VA 辛苦) )
+      (SP 了) ) ) 
+
+<su id=p20su3>
+
+
+( (IP (NP-SBJ (NN 百姓) )
+      (VP (VV 支持)
+	  (NP-OBJ (PN 你) ) ) ) ) 
+
+<su id=p21su1>
+
+
+( (IP (IP (NP-SBJ (NN 林业)
+		  (NN 干部) )
+	  (VP (VP (ADVP (AD 私) )
+		  (VP (VV 刻)
+		      (NP-OBJ (NN 公章) ) ) )
+	      (PU ，)
+	      (VP (VV 销售)
+		  (NP-OBJ (ADJP (JJ 假) )
+			  (NP (NN 种子)
+			      (PU 、)
+			      (NN 种苗) ) ) )
+	      (PU ，)
+	      (VP (VV 坑害)
+		  (NP-OBJ (NP (NN 农户) )
+			  (QP (CD 十)
+			      (CLP (M 年) ) )
+			  (NP (NN 心血) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 还) )
+	      (VP (VE 有没有)
+		  (NP-OBJ (NN 王法) ) ) ) ) ) ) 
+
+<su id=p22su1>
+
+
+( (IP (NP-SBJ (NN 老人) )
+      (VP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+		  (VP (VV 遇到)
+		      (NP-OBJ (DNP (NP (PN 这样) )
+				   (DEG 的) )
+			      (NP (NN 林业)
+				  (NN 干部) ) ) ) )
+	  (PU ，)
+	  (ADVP (AD 真) )
+	  (ADVP (AD 够) )
+	  (VP (VA 倒霉) ) )
+      (PU 。) ) ) 
+
+<su id=p22su2>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 支持)
+	  (ADVP-EXT (AD 一下) ) )
+      (PU 。) ) ) 
+
+<su id=p23su1>
+
+
+( (IP (NP-SBJ (NN 老人) )
+      (VP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+		  (VP (VV 遇上)
+		      (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+				  (CP (IP (NP-SBJ (-NONE- *T*-1))
+					  (VP (ADVP (AD 这样) )
+					      (VP (VA 黑心) ) ) )
+				      (DEC 的) ))
+			      (NP (NN 林业)
+				  (NN 干部) ) ) ) )
+	  (PU ，)
+	  (ADVP (AD 真) )
+	  (ADVP (AD 够) )
+	  (VP (VA 倒霉) ) )
+      (PU 。) ) ) 
+
+<su id=p23su2>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 支持)
+	  (ADVP-EXT (AD 一下) ) )
+      (PU 。) ) ) 
+
+<su id=p24su1>
+
+
+( (IP (NP-TPC (CP (WHNP-1 (-NONE- *OP*))
+		  (CP (IP (NP-SBJ (-NONE- *T*-1))
+			  (VP (VP (ADVP (AD 私) )
+				  (VP (VV 刻)
+				      (NP-OBJ (NN 公章) ) ) )
+			      (VP (VV 坑害)
+				  (NP-OBJ (NN 百姓) ) ) ) )
+		      (DEC 的) ))
+	      (NP (NN 贪官) ) )
+      (PU ！)
+      (NP-SBJ (NN 历史) )
+      (VP (VV 会)
+	  (VP (VV 审判)
+	      (NP-OBJ (PN 你) ) ) )
+      (PU ！) ) ) 
+
+<su id=p24su2>
+
+
+( (IP (NP-SBJ (DNP (NP (PN 你) )
+		   (DEG 的) )
+	      (NP (NN 后人) ) )
+      (VP (VV 会)
+	  (VP (PP-PRP (P 因为)
+		      (NP (NP (PN 你) )
+			  (DNP (NP (NT 今天) )
+			       (DEG 的) )
+			  (NP (NN 所作所为) ) ) )
+	      (VP (VV 遭到)
+		  (NP-OBJ (NN 天谴) ) ) ) )
+      (PU ！) ) ) 
+
+<su id=p26su1>
+
+
+( (IP (IP (NP-SBJ (NP (PN 我们) )
+		  (NP (NN 国家) ) )
+	  (VP (VP (VC 是)
+		  (NP-PRD (NN 法制)
+			  (NN 国家) ) )
+	      (PU ，)
+	      (VP (ADVP (AD 不) )
+		  (VP (VV 容许)
+		      (IP-OBJ (NP-SBJ (-NONE- *pro*))
+			      (VP (VP (VV 藐视)
+				      (NP-OBJ (NN 法律) ) )
+				  (PU 、)
+				  (VP (VV 无视)
+				      (NP-OBJ (NN 法律) ) ) ) ) ) ) ) )
+      (PU .)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 支持)
+	      (NP-OBJ (NN 鉴定) ) ) ) ) ) 
+

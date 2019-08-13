@@ -1,0 +1,502 @@
+<su id=p1su1>
+
+
+( (CP-IMP (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 开始)
+		  (VP (PP-PRP (P 为)
+			      (IP (NP-SBJ (PN 我们) )
+				  (VP (VV 活到)
+				      (QP-OBJ (CD 150)
+					      (CLP (M 岁) ) ) ) ) )
+		      (VP (VV 做)
+			  (NP-OBJ (NN 准备) ) ) ) ) )
+	  (SP 吧) ) ) 
+
+<su id=p1su2>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (DP-TMP (DT 前)
+		  (QP (CD 两)
+		      (CLP (M 天) ) ) )
+	  (PP-LOC (P 在)
+		  (LCP (NP (QP (CD 一) )
+			   (NP (NN 博客) ) )
+		       (LC 上) ) )
+	  (VP (VV 看到)
+	      (IP-OBJ (NP-SBJ (NP-APP (NP (NN 长命)
+					  (NN 研究)
+					  (NN 基金会) )
+				      (ADJP (JJ 首席) )
+				      (NP (NN 科学家) ) )
+			      (NP-PN (NR de)
+				     (NR Grey) ) )
+		      (VP (VP (VV 发表)
+			      (NP-OBJ (NN 演讲) ) )
+			  (VP (VV 说)
+			      (IP-OBJ (PU “)
+				      (PP-TMP (P 在)
+					      (LCP (QP (DNP (NP (NT 未来) )
+							    (DEG 的) )
+						       (QP (CD 二十五)
+							   (CLP (M 年) ) ) )
+						   (LC 间) ) )
+				      (PU ，)
+				      (NP-SBJ (PN 我们) )
+				      (VP (VP (VE 有)
+					      (NP-OBJ (DNP (QP (CD 50%) )
+							   (DEG 的) )
+						      (NP (NN 可能性) ) ) )
+					  (VP (BA 将)
+					      (IP-OBJ (NP-SBJ-1 (NN 衰老) )
+						      (VP (VV 控制)
+							  (NP-OBJ (-NONE- *-1))
+							  (PP-LOC (P 在)
+								  (LCP (NP (NN 医疗)
+									   (NN 水平) )
+								       (LC 之内) ) ) ) ) ) ) ) ) ) ) ) )
+      (PU 。)
+      (PU ”) ) ) 
+
+<su id=p1su3>
+
+
+( (IP (CP-CND (ADVP (CS 如果) )
+	      (CP (IP (NP-SBJ (DNP (NP-PN (NR de)
+					  (NR Grey) )
+				   (DEG 的) )
+			      (NP (NN 预测) ) )
+		      (VP (VA 正确) ) )
+		  (SP 的话) ) )
+      (PU ，)
+      (NP-SBJ (QP (OD 第一)
+		  (CLP (M 个) ) )
+	      (CP (WHNP-1 (-NONE- *OP*))
+		  (CP (IP (NP-SBJ (-NONE- *T*-1))
+			  (VP (VV 能)
+			      (VP (VV 过上)
+				  (NP-OBJ (QP (CD 150)
+					      (CLP (M 岁) ) )
+					  (NP (NN 生日) ) ) ) ) )
+		      (DEC 的) ))
+	      (NP (NN 人) ) )
+      (VP (ADVP (AD 已经) )
+	  (VP (VV 出生) ) )
+      (SP 了)
+      (PU 。) ) ) 
+
+<su id=p1su4>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 话说)
+	  (IP-OBJ (NP-TMP (NT 现在) )
+		  (NP-SBJ (NN 长寿) )
+		  (VP (VV 变得)
+		      (VP (ADVP (AD 有点) )
+			  (VP (VA 可怕) ) ) )
+		  (SP 了) ) )
+      (PU ，) ) ) 
+
+<su id=p1su5>
+
+
+( (IP-Q (IP-ADV (NP-SBJ (-NONE- *pro*))
+		(VP (PP-MNR (P 按照)
+			    (IP (NP-SBJ (-NONE- *pro*))
+				(VP (QP-ADV (CD 60)
+					    (CLP (M 岁) ) )
+				    (VP (VV 退休) ) ) ) )
+		    (VP (VV 算) ) ) )
+	(PU ，)
+	(IP-CND (NP-SBJ (-NONE- *pro*))
+		(VP (ADVP (CS 如果) )
+		    (VP (VV 活到)
+			(QP-OBJ (CD 150)
+				(CLP (M 岁) ) ) ) ) )
+	(PU ，)
+	(NP-SBJ (PN 我们) )
+	(VP (VV 要)
+	    (VP (PP-MNR (P 靠)
+			(NP (NN 养老金) ) )
+		(VP (VV 活上)
+		    (QP-DIR (CD 90)
+			    (CLP (M 年) ) ) ) ) )
+	(PU ？)
+	(PU ！) ) ) 
+
+<su id=p1su6>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 看来)
+	      (IP-OBJ (NP-SBJ (DNP (NP (NN 社保) )
+				   (DEG 的) )
+			      (NP (NN 担子) ) )
+		      (VP (ADVP (AD 太) )
+			  (VP (VA 重) ) )
+		      (SP 了))))
+      (PU ，)
+      (IP (PP-ADV (P 除了)
+		  (NP (DNP (NP (NN 老年人) )
+			   (DEG 的) )
+		      (NP (NN 高龄)
+			  (NN 再就业) ) ) )
+	  (PU ，)
+	  (NP-SBJ (NN 商业)
+		  (NN 养老)
+		  (NN 保险) )
+	  (VP (VC 是)
+	      (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+			  (CP (IP (NP-SBJ (-NONE- *T*-1))
+				  (VP (VV 必须) ) )
+			      (DEC 的) ))) )
+	  (SP 了) )
+      (PU 。) ) ) 
+
+<su id=p1su7>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 最好) )
+	  (VP (VV 选择)
+	      (NP-OBJ (NP (QP (CD 一)
+			      (CLP (M 个) ) )
+			  (NP (NN 两全险) ) )
+		      (PU ，)
+		      (NP-APP (NP (CP (WHNP-1 (-NONE- *OP*))
+				      (CP (IP (NP-SBJ (-NONE- *T*-1))
+					      (VP (ADVP (AD 既) )
+						  (VP (VE 有)
+						      (NP-OBJ (NN 生存)
+							      (NN 保障) ) ) ) )
+					  (DEC 的) )))
+			      (PU ，)
+			      (NP (CP (WHNP-2 (-NONE- *OP*))
+				      (CP (IP (NP-SBJ (-NONE- *T*-2))
+					      (VP (ADVP (AD 又) )
+						  (VP (VE 有)
+						      (NP-OBJ (NN 养老)
+							      (NN 规划) ) ) ) )
+					  (DEC 的) ))) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p4su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 还) )
+	      (ADVP (AD 真) )
+	      (VP (VC 是) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (IP-CND (NP-SBJ (-NONE- *PRO*))
+		      (VP (ADVP (CS 要是) )
+			  (VP (VE 没有)
+			      (NP-OBJ (NN 保险) ) ) ) )
+	      (ADVP (AD 就) )
+	      (ADVP (AD 只) )
+	      (VP (VV 能)
+		  (VP (VV 当)
+		      (NP-OBJ (ADJP (JJ 高龄) )
+			      (NP (NN 实习生) ) ) ) ) )
+	  (SP 了) )
+      (PU ，)
+      (INTJ (IJ 哈哈哈) )
+      (PU 。) ) ) 
+
+<su id=p4su2>
+
+
+( (UCP (IP (DP-TMP (DT 前)
+		   (QP (CD 两)
+		       (CLP (M 天) ) ) )
+	   (NP-SBJ (NN 电视) )
+	   (VP (ADVP (AD 刚) )
+	       (VP (VV 报到) ) ) )
+       (PU ，)
+       (CP (IP (NP-SBJ (-NONE- *pro*))
+	       (VP (NP-TMP (NT 现在) )
+		   (ADVP (AD 很) )
+		   (VP (VV 流行) ) ) )
+	   (SP 的) )
+       (PU .) ) ) 
+
+<su id=p5su1>
+
+
+( (IP (NP-PN-TPC-1 (NR 中航)
+		   (NR 三星) )
+      (NP-SBJ (PN 我) )
+      (VP (VP (ADVP (AD 也) )
+	      (VP (VV 听说)
+		  (AS 过)
+		  (NP-PN-OBJ (-NONE- *T*-1))) )
+	  (PU ，)
+	  (VP (VV 听说)
+	      (IP-OBJ (NP-SBJ (NN 服务) )
+		      (VP (ADVP (AD 很) )
+			  (VP (VA 好) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p5su2>
+
+
+( (UCP (IP (NP-SBJ (NT 现在) )
+	   (VP (VV 应该)
+	       (VP (VC 是)
+		   (NP-PRD (NP (QP (OD 6) )
+			       (NP (NN 周年) ) )
+			   (NP (NN 活动) ) ) ) ) )
+       (PU ，)
+       (CP (IP (NP-SBJ (-NONE- *pro*))
+	       (VP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+			   (VP (NP-TMP (DP (DT 这)
+					   (CLP (M 个) ) )
+				       (NP (NN 时间) ) )
+			       (VP (VV 去)
+				   (VP (VV 投保) ) ) ) )
+		   (ADVP (AD 还) )
+		   (VP (VV 能)
+		       (VP (VV 升级)
+			   (NP-OBJ (NN 会员)
+				   (NN 权益) ) ) ) ) )
+	   (SP 呢) )
+       (PU 。) ) ) 
+
+<su id=p6su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 真心) )
+	  (VP (VV 希望)
+	      (IP-OBJ (NP-SBJ (PN 自己) )
+		      (VP (ADVP (AD 也) )
+			  (VP (VV 能)
+			      (VP (VV 过上)
+				  (NP-OBJ (QP (CD 一百五十)
+					      (CLP (M 岁) ) )
+					  (NP (NN 生日) ) ) ) ) ) ) ) ) ) ) 
+
+<su id=p7su1>
+
+
+( (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+	      (VP (ADVP (AD 再) )
+		  (VP (VV 过)
+		      (QP-OBJ (CD 几)
+			      (CLP (M 年) ) ) ) ) )
+      (NP-SBJ (PN 我) )
+      (VP (ADVP (AD 就) )
+	  (VP (VV 可以)
+	      (VP (VV 退休) ) ) )
+      (SP 了)
+      (PU 。) ) ) 
+
+<su id=p7su2>
+
+
+( (INTJ (IJ 呵呵)
+	(PU 。) ) ) 
+
+<su id=p7su3>
+
+
+( (CP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 领)
+	      (NP-OBJ (NN 退休金) ) )
+	  (SP 了) )
+      (SP 呢) ) ) 
+
+<su id=p8su1>
+
+
+( (CP-Q (IP (QP-SBJ (CD 150)
+		    (CLP (M 岁) ) )
+	    (VP (ADVP (AD 不) )
+		(ADVP (AD 大) )
+		(VP (VV 可能) ) ) )
+	(SP 吧)
+	(PU ！)
+	(PU ？) ) ) 
+
+<su id=p9su1>
+
+
+( (IP (NP-SBJ (PN 我) )
+      (VP (ADVP (AD 不) )
+	  (VP (VV 奢望)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 活)
+			  (VP-EXT (ADVP (AD 这么) )
+				  (VP (VA 久) ) ) ) ) ) )
+      (SP 了) ) ) 
+
+<su id=p10su1>
+
+
+( (IP (NP-SBJ (PN 我) )
+      (VP (IP-CND (NP-SBJ (-NONE- *PRO*))
+		  (VP (ADVP (CS 只要) )
+		      (VP (VV 活到)
+			  (QP-OBJ (CD 80)
+				  (CLP (M 岁) ) ) ) ) )
+	  (ADVP (AD 就) )
+	  (ADVP (AD 很) )
+	  (VP (VV 满足) ) )
+      (SP 了) ) ) 
+
+<su id=p11su1>
+
+
+( (UCP (IP (NP-SBJ (-NONE- *pro*))
+	   (VP (VA 晕) ) )
+       (PU ，)
+       (CP (IP (ADVP (AD 那) )
+	       (NP-SBJ (-NONE- *pro*))
+	       (VP (VP (VV 要)
+		       (VP (VV 赚)
+			   (NP-OBJ (QP (CD 多少) )
+				   (NP (NN 钱) ) ) ) )
+		   (VP (ADVP (AD 才) )
+		       (VP (VV 够)
+			   (VP (VV 养老) ) ))) )
+	   (SP 啊) ) ) ) 
+
+<su id=p12su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VA 郁闷) ) )
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 人) )
+		  (VP (VV 要)
+		      (VP (VV 活到)
+			  (QP-OBJ (CD 70)
+				  (CLP (M 岁) ) ) ) ) )
+	  (VP (ADVP (AD 就) )
+	      (ADVP (AD 很) )
+	      (ADVP (AD 不) )
+	      (VP (VA 容易) ) )
+	  (SP 了) ) ) ) 
+
+<su id=p13su1>
+
+
+( (CP-IMP (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+			  (VP (ADVP (AD 真) )
+			      (VP (VV 能)
+				  (VP (VV 活到)
+				      (QP-OBJ (CD 150)
+					      (CLP (M 岁) ) ) ) ) ) )
+		  (VP (VV 再说) ) ) )
+	  (SP 吧) ) ) 
+
+<su id=p14su1>
+
+
+( (CP-Q (IP (NP-SBJ (DP (DT 这) )
+		    (NP (NN 事) ) )
+	    (VP (ADVP (AD 还) )
+		(ADVP (AD 不) )
+		(VP (VV 确定) ) ) )
+	(SP 吧)
+	(PU ？) ) ) 
+
+<su id=p14su2>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 怎么) )
+	  (VP (VV 能)
+	      (VP (VV 活)
+		  (VP-EXT (ADVP (AD 这么) )
+			  (VP (VA 久) ) ) ) ) ) ) ) 
+
+<su id=p15su1>
+
+
+( (IP (CP-CND (ADVP (CS 要是) )
+	      (IP (NP-SBJ (NN 人人) )
+		  (VP (ADVP (AD 都) )
+		      (VP (VE 有)
+			  (VP (ADVP (AD 这么) )
+			      (VP (VV 长寿) ) ) ) ) ) )
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 就) )
+	  (VP (VA 好) ) )
+      (SP 了) ) ) 
+
+<su id=p16su1>
+
+
+( (IP (NP-TMP (DP (DT 那) )
+	      (NP (NN 时候) ) )
+      (NP-SBJ (NN 养老)
+	      (NN 保险) )
+      (VP (VV 可能)
+	  (VP (ADVP (AD 就) )
+	      (VP (VV 要)
+		  (VP (VV 交到)
+		      (QP-OBJ (CD 100)
+			      (CLP (M 岁) ) ) ) ) ) )
+      (SP 了) ) ) 
+
+<su id=p17su1>
+
+
+( (IP (ADVP (AD 那) )
+      (NP-SBJ (PN 我) )
+      (VP (ADVP (AD 不) )
+	  (ADVP (AD 就) )
+	  (VP (VP (VA 多)
+		  (AS 了)
+		  (QP-EXT (CD 50多)
+			  (CLP (M 年) ) ) )
+	      (VP (VV 要)
+		  (VP (VV 熬) ) ) ) )
+      (SP 了) ) ) 
+
+<su id=p18su1>
+
+
+( (IP (IP (NP-SBJ (PN 我) )
+	  (VP (ADVP (AD 已经) )
+	      (VP (VV 买)
+		  (AS 了)
+		  (NP-OBJ (NN 商业)
+			  (NN 养老)
+			  (NN 保险) ) ) )
+	  (SP 了) )
+      (IP (IP-CND (NP-SBJ (-NONE- *pro*))
+		  (VP (ADVP (CS 要是) )
+		      (ADVP (AD 真) )
+		      (VP (VV 能)
+			  (VP (VV 活到)
+			      (QP-OBJ (CD 150)
+				      (CLP (M 岁) ) ) ) ) ) )
+	  (NP-SBJ (PN 我) )
+	  (VP (ADVP (AD 也) )
+	      (ADVP (AD 不) )
+	      (VP (VV 怕) ) ) ) ) ) 
+
+<su id=p19su1>
+
+
+( (CP-Q (IP (NP-WH-SBJ (PN 神马) )
+	    (VP (VC 是)
+		(NP-PRD (NN 两全险) ) ) )
+	(SP 啊)
+	(PU ？) ) ) 
+
+<su id=p19su2>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VNV (VV 能)
+	       (AD 不)
+	       (VV 能) )
+	  (VP (VRD (VV 解释)
+		   (VA 清楚) ) ) ) ) ) 
+

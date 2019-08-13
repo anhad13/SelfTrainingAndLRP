@@ -1,0 +1,145 @@
+<su id=p1su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (DP-TMP (DT 这)
+		      (QP (CD 两)
+			  (CLP (M 天) ) ) )
+	      (VP (VV 看)
+		  (NP-OBJ (NN 新闻) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 说)
+	      (IP-OBJ (NP-SBJ (NN 国家) )
+		      (VP (VV 下调)
+			  (NP-OBJ (NN 存款)
+				  (NN 准备金)
+				  (NN 率) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su2>
+
+
+( (UCP (IP (NP-SBJ (-NONE- *pro*))
+	   (VP (VP (VV 美其名曰) )
+	       (VP (VV 说)
+		   (IP-OBJ (NP-SBJ (-NONE- *pro*))
+			   (VP (VP (VC 是)
+				   (VP (VV 帮助)
+				       (NP-OBJ (NN 老百姓) )
+				       (IP (NP-SBJ (-NONE- *PRO*))
+					   (VP (VV 缓解)
+					       (NP-OBJ (NN 压力) ) ) ) ))
+			       (OTH (NP (PN 神马) )
+				    (DEG 的))) ) )))
+       (PU ，)
+       (CC 但)
+       (CP (IP (IP-SBJ (NP-SBJ (PN 我) )
+		       (VP (ADVP (AD 一) )
+			   (VP (VV 看) ) ) )
+	       (NP-SBJ (DNP (NP (DP (DT 这) )
+				(NP (NN 房地产) ) )
+			    (DEG 的) )
+		       (NP (NN 股市) ) )
+	       (VP (VC 是)
+		   (VP (ADVP (AD 直线) )
+		       (VP (VV 上升) ) ) ) )
+	   (SP 啊) )
+       (PU ！) ) ) 
+
+<su id=p1su3>
+
+
+( (CP (CP (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (VNV (VC 是)
+		       (AD 不)
+		       (VC 是) )
+		  (NP-PRD (CP-APP (IP (NP-SBJ (NN 政策) )
+				      (VP (VA 宽松) ) )
+				  (DEC 的) )
+			  (QP (CD 一)
+			      (CLP (M 个) ) )
+			  (NP (NN 信号) ) ) ) )
+	  (SP 啊) )
+      (PU ，)
+      (CP-Q (IP (IP (NP-SBJ (PN 这) )
+		    (VP (ADVP (AD 不) )
+			(VP (VV 会)
+			    (VP (VV 重蹈)
+				(NP-OBJ (DNP (NP (NT 09年) )
+					     (DEG 的) )
+					(NP (NN 覆辙) ) ) ) ) ) )
+		(PU ，)
+		(IP (NP-SBJ (NN 房价) )
+		    (VP (ADVP (AD 又) )
+			(VP (VRD (VV 涨)
+				 (VV 回去) ) ) ) ) )
+	    (SP 吧) )
+      (PU ？) ) ) 
+
+<su id=p2su1>
+
+
+( (IP (NP-TPC (DNP (NP (NN 房价) )
+		   (DEG 的) )
+	      (NP (NN 涨跌) ) )
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 主要) )
+	  (ADVP (AD 还是) )
+	  (VP (VV 看)
+	      (NP-OBJ (NP (PU “)
+			  (NN 限购)
+			  (PU ”) )
+		      (NP (NN 政策) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p4su1>
+
+
+( (IP (IP-SBJ (NP-SBJ (NN 房子) )
+	      (VP (VV 涨价) ) )
+      (VP (VC 是)
+	  (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (VA 必然) ) )
+			  (DEC 的) ))
+		  (NP (NN 趋势) ) ) )
+      (PU ！！) ) ) 
+
+<su id=p6su1>
+
+
+( (CP-Q (IP (IP-ADV (NP-SBJ (DNP (NP (NN 房地产) )
+				 (DEG 的) )
+			    (NP (NN 股市) ) )
+		    (VP (ADVP (AD 直线) )
+			(VP (VV 上升) ) ) )
+	    (PU ，)
+	    (NP-SBJ (NN 房价) )
+	    (VP (VV 能)
+		(VP (VV 降) ) ) )
+	(SP 吗)
+	(PU ？) ) ) 
+
+<su id=p9su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADJP (AD 总) )
+	      (VP (VV 调控) ) ) )
+      (PU ，)
+      (IP (IP-CND (NP-SBJ (-NONE- *pro*))
+		  (VP (ADVP (CS 只要) )
+		      (ADVP (AD 没) )
+		      (VP (VV 达到)
+			  (IP-OBJ (NP-SBJ (NN 人人) )
+				  (VP (VP (VE 有)
+					  (NP-OBJ (NN 楼) ) )
+				      (VP (VV 住) ) ) ) ) ) )
+	  (PU ，)
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 肯定) )
+	      (ADVP (AD 还) )
+	      (VP (VV 要)
+		  (VP (VV 反弹) ) ) ))) ) 
+

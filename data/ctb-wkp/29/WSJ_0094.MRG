@@ -1,0 +1,497 @@
+<seg id="1">
+( (NP-HLN (NN 官员)
+	  (CC 和)
+	  (NN 百姓))) 
+</seg>
+
+<seg id="2">
+( (FRAG (QP (CD 613305)))) 
+</seg>
+
+<seg id="3">
+( (IP (NP-SBJ (NN 火))
+      (VP (VV 炼)
+	  (NP-OBJ (NN 光))))) 
+</seg>
+
+<seg id="4">
+( (IP (IP (NP-SBJ (NN 官员))
+	  (VP (VV 称)
+	      (NP-OBJ (NN 百姓))
+	      (IP (NP-SBJ (-NONE- *PRO*))
+		  (VP (VC 为)
+		      (NP-PRD (NN 衣食)
+			      (NN 父母))))))
+      (PU ，)
+      (IP (NP-SBJ (NN 百姓))
+	  (VP (VV 称)
+	      (NP-OBJ (NN 官员))
+	      (IP (NP-SBJ (-NONE- *PRO*))
+		  (VP (VC 为)
+		      (NP-PRD (NN 人民)
+			      (NN 公仆))))))
+      (PU ；))) 
+</seg>
+
+<seg id="5">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 吃饭)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 增加)
+			  (NP-OBJ (NN 营养))))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 吃饭)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 填饱)
+			  (NP-OBJ (NN 肚皮))))))
+      (PU ；))) 
+</seg>
+
+<seg id="6">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 讲话)))
+	  (VP (VV 叫)
+	      (NP-OBJ (NN 指示))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 讲话)))
+	  (VP (VV 叫)
+	      (NP-OBJ (NN 意见))))
+      (PU ；))) 
+</seg>
+
+<seg id="7">
+( (IP (IP (NP-SBJ (DNP (NP (NN 官员))
+		       (DEG 的))
+		  (NP (NN 孩子)))
+	  (VP (VV 叫)
+	      (NP-OBJ (NN 千斤))))
+      (PU ，)
+      (IP (NP-SBJ (DNP (NP (NN 百姓))
+		       (DEG 的))
+		  (NP (NN 孩子)))
+	  (VP (VV 叫)
+	      (NP-OBJ (NN 丫头))))
+      (PU ；))) 
+</seg>
+
+<seg id="8">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 挪窝)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 交流)))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 挪窝)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 移民)))))
+      (PU ；))) 
+</seg>
+
+<seg id="9">
+( (IP (IP (NP-SBJ (NN 官员))
+	  (VP (VP (VV 喝酒))
+	      (VP (ADVP (AD 不))
+		  (VP (VV 买)
+		      (NP-OBJ (NN 酒))))))
+      (PU ，)
+      (IP (NP-SBJ (NN 百姓))
+	  (VP (VP (VV 买)
+		  (NP-OBJ (NN 酒)))
+	      (VP (ADVP (AD 不))
+		  (VP (VV 喝酒)))))
+      (PU ；))) 
+</seg>
+
+<seg id="10">
+( (IP (IP (NP-SBJ (NN 官员))
+	  (VP (ADVP (AD 逢年过节))
+	      (VP (VV 收礼))))
+      (PU ，)
+      (IP (NP-SBJ (NN 百姓))
+	  (VP (ADVP (AD 逢年过节))
+	      (VP (VV 送礼))))
+      (PU ；))) 
+</seg>
+
+<seg id="11">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 住)
+		      (NP-OBJ (QP (OD 三))
+			      (NP (M 楼)))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 生活)
+			  (PP (P 在)
+			      (LCP (NP (NN 群众))
+				   (LC 中间)))))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 住)
+		      (NP-OBJ (NN 顶楼))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (NN 群众)
+			      (NN 利益))
+		      (VP (VV 高于)
+			  (NP-OBJ (PN 一切))))))
+      (PU ；))) 
+</seg>
+
+<seg id="12">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 吃喝)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (NP-PRP (NN 业务))
+			  (VP (VV 招待))))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 吃喝)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 铺张浪费)))))
+      (PU ；))) 
+</seg>
+
+<seg id="13">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 进)
+		      (NP-OBJ (NN 舞厅))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 贴近)
+			  (NP-OBJ (NN 群众))))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 进)
+		      (NP-OBJ (NN 舞厅))))
+	  (VP-SBJ (VV 叫)
+		  (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			  (VV 不务正业))))
+      (PU ；))) 
+</seg>
+
+<seg id="14">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 外出)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 旅游)))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 外出)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 打工)))))
+      (PU ；))) 
+</seg>
+
+<seg id="15">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 上学)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (NN 知识))
+		      (VP (VV 更新)))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 上学)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 混)
+			  (NP-OBJ (CLP (M 张))
+				  (NP (NN 文凭)))))))
+      (PU ；))) 
+</seg>
+
+<seg id="16">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (ADVP (AD 到处))
+		      (VP (VV 走))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 考察)))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (ADVP (AD 到处))
+		      (VP (VV 走))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 流浪)))))
+      (PU ；))) 
+</seg>
+
+<seg id="17">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 进)
+		      (NP-OBJ (NN 衙门))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 上班)))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 进)
+		      (NP-OBJ (NN 衙门))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 上访)))))
+      (PU ；))) 
+</seg>
+
+<seg id="18">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 打人)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 维护)
+			  (NP-OBJ (NN 社会)
+				  (NN 稳定))))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 打人)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 扰乱)
+			  (NP-OBJ (NN 社会)
+				  (NN 治安))))))
+      (PU ；))) 
+</seg>
+
+<seg id="19">
+( (IP (IP (NP-SBJ (NN 官员))
+	  (VP (ADVP (AD 个个))
+	      (VP (VV 要)
+		  (VP (VV 减肥)))))
+      (PU ，)
+      (IP (NP-SBJ (NN 百姓))
+	  (VP (ADVP (AD 人人))
+	      (ADVP (AD 都))
+	      (VP (VV 缺)
+		  (NP-OBJ (NN 钙)))))
+      (PU ；))) 
+</seg>
+
+<seg id="20">
+( (IP (IP (NP-SBJ (NN 官员))
+	  (VP (VP (VV 下乡))
+	      (VP (VV 前呼后拥))))
+      (PU ，)
+      (IP (NP-SBJ (NN 百姓))
+	  (VP (VP (VV 上访))
+	      (VP (VV 孤苦伶仃))))
+      (PU ；))) 
+</seg>
+
+<seg id="21">
+( (IP (IP (NP-SBJ (NN 官员))
+	  (VP (VV 盼)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 过年)))))
+      (PU ，)
+      (IP (NP-SBJ (NN 百姓))
+	  (VP (VV 愁)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 过节)))))
+      (PU ；))) 
+</seg>
+
+<seg id="22">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 拍)
+		      (NP-OBJ (NN 桌子))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 大发雷霆)))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 拍)
+		      (NP-OBJ (NN 桌子))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 企图)
+			  (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+				  (VP (VV 行凶)))))))
+      (PU ；))) 
+</seg>
+
+<seg id="23">
+( (IP (IP (NP-SBJ (DNP (NP (NN 官员))
+		       (DEG 的))
+		  (NP (NN 孩子)))
+	  (VP (VV 要)
+	      (VP (VV 出国))))
+      (PU ，)
+      (IP (NP-SBJ (DNP (NP (NN 百姓))
+		       (DEG 的))
+		  (NP (NN 娃娃)))
+	  (VP (VV 想)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 念书)))))
+      (PU ；))) 
+</seg>
+
+<seg id="24">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 晒)
+		      (QP-EXT (CD 一)
+			      (CLP (M 次)))
+		      (NP-OBJ (NN 太阳))))
+	  (VP (VV 叫)
+	      (NP-OBJ (NN 日光浴))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 歇)
+		      (QP-EXT (CD 一)
+			      (CLP (M 次)))
+		      (NP-OBJ (NN 阴凉))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 享清福)))))
+      (PU ；))) 
+</seg>
+
+<seg id="25">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 到)
+		      (NP-OBJ (NN 农村))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 体验)
+			  (NP-OBJ (NN 生活))))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 进)
+		      (NP-OBJ (NN 城市))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 大开眼界)))))
+      (PU ；))) 
+</seg>
+
+<seg id="26">
+( (IP (IP (NP-SBJ (NN 官员))
+	  (VP (VV 怕)
+	      (IP-OBJ (NP-SBJ (NN 百姓))
+		      (VP (VV 上访)))))
+      (PU ，)
+      (IP (NP-SBJ (NN 百姓))
+	  (VP (VV 怕)
+	      (IP-OBJ (NP-SBJ (NN 官员))
+		      (VP (VV 催粮)))))
+      (PU ；))) 
+</seg>
+
+<seg id="27">
+( (IP (IP-SBJ (IP-SBJ (NP-SBJ (NN 官员))
+		      (VP (VV 犯错误)))
+	      (VP (VV 叫)
+		  (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			  (VP (VV 情有可原)))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 犯错误)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 蓄谋已久)))))
+      (PU ；))) 
+</seg>
+
+<seg id="28">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 包)
+		      (NP-OBJ (NN 二奶))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 与民同乐)))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 耍)
+		      (NP-OBJ (NN 小姐))))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VCD (VV 卖淫)
+			       (VV 嫖娼))))))
+      (PU ；))) 
+</seg>
+
+<seg id="29">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 发财)))
+	  (VP (VV 叫)
+	      (NP-OBJ (ADJP (JJ 灰色))
+		      (NP (NN 收入)))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VA 有钱)))
+	  (VP (VV 叫)
+	      (NP-OBJ (ADJP (JJ 非法))
+		      (NP (NN 所得)))))
+      (PU ；))) 
+</seg>
+
+<seg id="30">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 违法)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 失误)))))
+      (PU ，)
+      (IP (NP-SBJ (NN 百姓)
+		  (VV 违法))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 犯罪)))))
+      (PU ；))) 
+</seg>
+
+<seg id="31">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VA 没钱)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VA 廉洁)))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VA 没钱)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VA 贫穷)))))
+      (PU ；))) 
+</seg>
+
+<seg id="32">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 得病)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 呕心沥血)))
+	      (PU ，)))
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 得病)))
+	  (VP (VV 叫)
+	      (NP-OBJ (NN 天灾人祸))))
+      (PU ；))) 
+</seg>
+
+<seg id="33">
+( (IP (IP (IP-SBJ (NP-SBJ (NN 官员))
+		  (VP (VV 死)
+		      (AS 了)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 永垂不朽)))))
+      (PU ，)
+      (IP (IP-SBJ (NP-SBJ (NN 百姓))
+		  (VP (VV 死)
+		      (AS 了)))
+	  (VP (VV 叫)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 脱离)
+			  (NP-OBJ (NN 苦海))))))
+      (PU 。))) 
+</seg>
+

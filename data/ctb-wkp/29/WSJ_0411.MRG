@@ -1,0 +1,71 @@
+<DOC>
+<DOCID>HK.19970703.0016</DOCID>
+<HEADER>
+<DATE>1997-07-03</DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=5321>
+( (IP-HLN (NP-SBJ (NP-PN (NR 塞拉利昂))
+		  (NP (NN 邮递)
+		      (NN 服务)))
+	  (VP (VV 暂停))))
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=5322>
+( (IP (NP-SBJ (NP-APP (NN 邮政署)
+		      (NN 署长))
+	      (NP-PN (NR 霍文)))
+      (VP (NP-TMP (NT 今日)
+		  (PRN (PU （)
+		       (NP (NT 星期四))
+		       (PU ）)))
+	  (VP (VV 宣布)
+	      (PU ，)
+	      (IP-OBJ (PP-PRP (P 由於)
+			      (NP (NP-PN (NR 塞拉利昂))
+				  (DNP (NP (NT 目前))
+				       (DEG 的))
+				  (NP (NN 政局))))
+		      (PU ，)
+		      (NP-SBJ (DP (DT 所有))
+			      (NP (NN 空邮)
+				  (PU 、)
+				  (NN 平邮))
+			      (NP (NN 服务))
+			      (PU ，)
+			      (PRN (VP (VV 包括)
+				       (NP-OBJ (NN 信件)
+					       (CC 和)
+					       (NN 包裹)))))
+		      (PU ，)
+		      (VP (LCP-TMP (PP (P 由)
+				       (NP (NN 即时)))
+				   (LC 起))
+			  (PU ，)
+			  (VP (VV 暂停)
+			      (NP-OBJ (NN 服务)))))))
+      (PU 。)))
+</S>
+<S ID=5323>
+((IP (PP-TMP (P 当)
+	    (LCP (IP (NP-SBJ (NN 服务))
+		     (VP (VV 恢复)))
+		 (LC 时)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (AD 将))
+	(ADVP (AD 另行))
+	(VP (VV 宣布)))
+    (PU 。)))
+</S>
+</P>
+<P>
+<S ID=5324>
+( (FRAG (VV 完)))
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

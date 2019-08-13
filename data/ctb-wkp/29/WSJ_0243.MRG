@@ -1,0 +1,80 @@
+<su id=headline_su1> 
+
+
+( (CP (IP (NP-SBJ (NN 股市) )
+	  (VP (VV 会)
+	      (VP (VRD (VA 熊)
+		       (VV 到) )
+		  (NP-OBJ (QP (OD 十八) )
+			  (NP (NN 大) ) ) ) ) )
+      (SP 吗) ) ) 
+
+<su id=p1su1>
+
+
+( (IP (IP-CND (NP-SBJ (-NONE- *pro*))
+	      (VP (ADVP (CS 要) )
+		  (VP (VV 问)
+		      (IP-OBJ (NP-TPC (NN 股市) )
+			      (NP-SBJ (NN 底) )
+			      (VP (VE 有)
+				  (VP (ADVP (AD 多) )
+				      (VP (VA 深) ) ) ) ) ) ) )
+      (PU ，)
+      (NP-PN-SBJ (NR 黑嘴) )
+      (VP (VV 会)
+	  (VP (VV 告诉)
+	      (NP-IO (PN 你) )
+	      (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		      (VP (VE 有)
+			  (VP (ADVP (AD 多) )
+			      (VP (VA 深) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su2>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 天天) )
+	  (ADVP (AD 都) )
+	  (VP (VC 是)
+	      (NP-PRD (NN 底) ) ) )
+      (PU 。) ) ) 
+
+<su id=p2su1>
+
+
+( (NP (CP (WHNP-1 (-NONE- *OP*))
+	  (CP (IP (NP-SBJ (-NONE- *T*-1))
+		  (VP (ADVP (AD 很) )
+		      (VP (VA 大) ) ) )
+	      (DEC 的) ))
+      (NP (NN 利空) ) ) ) 
+
+<su id=p3su1>
+
+
+( (UCP (CP-IMP (IP (NP-SBJ (-NONE- *pro*))
+		   (VP (VV 跌) ) )
+	       (SP 吧) )
+       (CP-IMP (IP (NP-SBJ (-NONE- *pro*))
+		   (VP (VV 跌) ) )
+	       (SP 吧) )
+       (PU ，)
+       (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+		   (VP (VV 破)
+		       (QP-OBJ (CD 一千) ) ) )
+	   (NP-SBJ (PN 我) )
+	   (VP (ADVP (AD 就) )
+	       (VP (VV 进) ) ) )
+       (PU 。) ) ) 
+
+<su id=p4su1>
+
+
+( (IP (NP-SBJ (NN 股市)
+	      (NN 路线图) )
+      (VP (ADVP (AD 已经) )
+	  (ADVP (AD 很) )
+	  (VP (VA 清晰) ) ) ) ) 
+

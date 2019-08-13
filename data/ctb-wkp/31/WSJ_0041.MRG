@@ -1,0 +1,128 @@
+<su id=p1su1>
+
+
+( (IP (NP-SBJ (NN 限购) )
+      (VP (VP (BA 把)
+	      (IP-OBJ (NP-SBJ (NN 资金) )
+		      (VP (PP-DIR (P 从)
+				  (NP (NN 一线)
+				      (NN 城市) ) )
+			  (VP (VV 挤到)
+			      (NP-OBJ (NP (NN 二)
+					  (NN 三线) )
+				      (NP (NN 城市) ) ) ) ) ) )
+	  (PU ，)
+	  (VP (NP-TMP (NT 现在) )
+	      (ADVP (AD 又) )
+	      (VP (VV 要)
+		  (VP (BA 把)
+		      (IP-OBJ (NP-SBJ (PN 它们) )
+			      (VP (PP-DIR (P 从)
+					  (NP (NP (NN 二)
+						  (NN 三线) )
+					      (NP (NN 城市) ) ) )
+				  (VP (VV 挤到)
+				      (NP-OBJ (NP (NN 四)
+						  (NN 五线) )
+					      (NP (NN 城市) ) ) ) ) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su2>
+
+
+( (IP (IP (NP-SBJ (NN 泡沫) )
+	  (VP (ADVP (AD 在) )
+	      (VP (VV 转移) ) ) )
+      (PU ，)
+      (IP (NP-TPC-1 (ADJP (JJ 根本) )
+		    (NP (NN 问题) ) )
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 没有)
+	      (VP (VV 解决)
+		  (NP-OBJ (-NONE- *T*-1))) ) )
+      (PU ，)
+      (IP (NP-SBJ (ADJP (JJ 热) )
+		  (NP (NN 钱) ) )
+	  (VP (ADVP (AD 依然) )
+	      (VP (VE 没有)
+		  (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+			      (CP (IP (NP-SBJ (-NONE- *T*-2))
+				      (VP (VA 理想) ) )
+				  (DEC 的) ))
+			  (NP (NN 释放)
+			      (NN 渠道) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p2su1>
+
+
+( (IP (NP-SBJ (NP (NP (NN 二)
+		      (NN 三线) )
+		  (NP (NN 城市) ) )
+	      (NP (NN 居民) ) )
+      (VP (VV 要)
+	  (VP (VV 遭殃) ) )
+      (SP 了) ) ) 
+
+<su id=p3su1>
+
+
+( (IP (ADVP (AD 就是说) )
+      (NP-SBJ (NN 政府) )
+      (VP (VV 默认)
+	  (IP-OBJ (NP-SBJ (NN 开发商) )
+		  (VP (VV 赚取)
+		      (NP-OBJ (NP (CP (WHNP-1 (-NONE- *OP*))
+				      (CP (IP (NP-SBJ (-NONE- *T*-1))
+					      (VP (ADVP (AD 更) )
+						  (VP (VA 穷) ) ) )
+					  (DEC 的) ))
+				  (NP (ADJP (JJ 小) )
+				      (NP (NN 城市) ) )
+				  (NP (NN 人) ) )
+			      (NP (NN 钱) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p6su1>
+
+
+( (IP (IP (NP-TPC-1 (NN 房价) )
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 真的) )
+	      (VP (VV 怕怕)
+		  (NP-OBJ (-NONE- *T*-1))) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 天天) )
+	      (VP (VE 有)
+		  (IP-OBJ (NP-SBJ (NN 人) )
+			  (VP (ADVP (AD 在) )
+			      (VP (VV 炒)
+				  (NP-OBJ (NN 房) ) ) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p6su2>
+
+
+( (IP (INTJ (IJ 唉) )
+      (PU ，)
+      (NP-SBJ (NP (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (VA 普通) ) )
+			  (DEC 的) ))
+		  (NP (NN 老百姓) ) )
+	      (IJ 啊) )
+      (PU ，)
+      (VP (ADVP (AD 真) )
+	  (ADVP (AD 不) )
+	  (VP (VV 知道)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (ADVP (AD 何时) )
+			  (ADVP (AD 才) )
+			  (VP (VV 会)
+			      (VP (VV 拥有)
+				  (NP-OBJ (NP (PN 自己) )
+					  (DNP (ADJP (JJ 真正) )
+					       (DEG 的) )
+					  (NP (NN 房子) ) ) ) ) ) ) ) ) ) ) 
+

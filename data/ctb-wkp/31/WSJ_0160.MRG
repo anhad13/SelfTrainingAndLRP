@@ -1,0 +1,143 @@
+<DOC>
+<DOCID>ART116</DOCID>
+<HEADER>
+    <DATE></DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=2327>
+( (IP-HLN (NP-PN-SBJ (NR 苏联)) 
+          (VP (VV 发明) 
+              (NP-OBJ (ADJP (JJ 灭蚊)) 
+                      (ADJP (JJ 新)) 
+                      (NP (NN 方法))))) ) 
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=2328>
+( (IP (PP (P 据) 
+          (IP (NP-PN-SBJ (NP-PN (NR 苏联)) 
+                         (NP-PN (NP-TTL (PU 《) 
+                                        (NN 科学) 
+                                        (CC 与) 
+                                        (NN 生活) 
+                                        (PU 》)) 
+                                (NP (NN 杂志)))) 
+              (VP (VV 报道)))) 
+      (PU ，) 
+      (NP-SBJ (NP-PN (NR 莫斯科)) 
+              (NP (NN 生物学家))) 
+      (VP (VV 发现) 
+          (PU ，) 
+          (IP-OBJ (NP-SBJ (NN 植物) 
+                          (NN 细胞) 
+                          (NN 霉素)) 
+                  (VP (CC 不仅) 
+                      (VP (VV 能够) 
+                          (VP (VV 抑制) 
+                              (NP-OBJ (DNP (NP (NN 蚊子) 
+					       (NN 体内) 
+					       (NN 疟原虫)) 
+					   (DEG 的)) 
+                                      (NP (NN 繁殖))))) 
+                      (PU ，) 
+                      (CC 而且) 
+                      (VP (ADVP (AD 还)) 
+                          (VP (VV 可) 
+			      (VP (VV 灭杀) 
+				  (NP-OBJ (NN 蚊子)))))))) 
+      (PU 。)) ) 
+</S>
+<S ID=2329>
+( (IP (NP-SBJ (DP (DT 这) 
+                  (CLP (M 种))) 
+              (NP (NN 方法))) 
+      (VP (ADVP (AD 不)) 
+          (VP (VV 会) 
+	      (VP (VV 污染) 
+		  (NP-OBJ (NN 环境))))) 
+      (PU 。)) ) 
+</S>
+<S ID=2330>
+( (IP (NP-SBJ (NN 生物学家)) 
+      (VP (BA 把) 
+          (IP (NP-SBJ (NN 植物) 
+		      (NN 细胞) 
+		      (NN 霉素)) 
+	      (VP (VP (PP (P 同) 
+			  (NP (NN 珍珠粉))) 
+		      (VP (VV 混合))) 
+		  (PU ，) 
+		  (VP (VV 制成) 
+		      (NP-OBJ (ADJP (JJ 颗粒状)) 
+			      (NP (NN 药剂))))))) 
+      (PU 。)) ) 
+</S>
+<S ID=2331>
+( (IP (NP-SBJ (DP (DT 这) 
+                  (CLP (M 种))) 
+              (NP (NN 药剂))) 
+      (VP (PP-LOC (P 在) 
+                  (LCP (NP (NN 水)) 
+                      (LC 中))) 
+          (VP (VV 会) 
+	      (VP (ADVP (AD 逐渐)) 
+		  (VP (VRD (VV 释放) 
+			   (VV 出)) 
+		      (NP-OBJ (NN 植物) 
+			      (NN 细胞) 
+			      (NN 霉素)))))) 
+      (PU 。)) ) 
+</S>
+<S ID=2332>
+( (IP (NP-SBJ (NN 蚊子)) 
+      (VP (LCP-TMP (IP (NP-SBJ (-NONE- *pro*)) 
+		       (VP (VV 进食))) 
+		   (LC 时)) 
+          (ADVP (AD 就)) 
+          (VP (VV 会) 
+	      (VP (BA 把) 
+		  (IP (NP-SBJ (NN 植物) 
+			      (NN 细胞) 
+			      (NN 霉素)) 
+		      (VP (VV 吸入) 
+			  (NP-OBJ (NN 体内))))))) 
+      (PU 。)) ) 
+</S>
+<S ID=2333>
+( (IP (NP-SBJ (NN 实验)) 
+      (VP (VV 表明) 
+          (PU ，) 
+          (IP (NP-SBJ (-NONE- *pro*)) 
+	      (VP (PP-MNR (P 用) 
+			  (NP (DP (DT 这) 
+				  (CLP (M 种))) 
+			      (NP (NN 方法)))) 
+		  (VP (VV 可) 
+		      (VP (VV 使) 
+			  (NP-OBJ (CP-APP (IP (NP-SBJ (NN 蚊子)) 
+					      (VP (VV 传播) 
+						  (NP-OBJ (NN 疟疾)))) 
+					  (DEC 的)) 
+				  (NP (NN 机会))) 
+			  (IP (NP-SBJ (-NONE- *PRO*)) 
+			      (VP (VRD (VV 减少) 
+				       (VV 到)) 
+				  (QP-OBJ (DNP (ADJP (JJ 原来)) 
+					       (DEG 的)) 
+					  (QP (CD 七十分之一) 
+					      (CC 至) 
+					      (CD 八十分之一)))))))))) 
+      (PU 。)) ) 
+</S>
+<S ID=2334>
+( (FRAG  (PU （) 
+         (P 据) 
+         (NR 新华社) 
+         (PU ）) )) 
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

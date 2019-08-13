@@ -1,0 +1,73 @@
+<su id=p5su1>
+
+
+( (IP (IP (NP-SBJ (PN 我) )
+	  (VP (ADVP (AD 也) )
+	      (VP (VA 好奇)
+		  (DER 的)
+		  (ADVP-EXT (AD 很) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (DP (DT 这)
+		      (CLP (M 个) ) )
+		  (DNP (NP (NP-PN (NR 楼兰) )
+			   (NP (NN 装扮) ) )
+		       (DEG 的) )
+		  (NP (NN 女女) ) )
+	  (VP (VP (ADVP (AD 到底) )
+		  (VP (VC 是)
+		      (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+				  (CP (IP (NP-SBJ (-NONE- *T*-1))
+					  (VP (VV 干)
+					      (NP-OBJ (PN 嘛) ) ) )
+				      (DEC 的) ))) ) )
+	      (PU ，)
+	      (VP (NP-LOC (PN 哪里) )
+		  (VP (VV 来) ) ) ) ) ) ) 
+
+<su id=p6su1>
+
+
+( (CP (CP (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (VC 是)
+		  (IP-PRD (NP-SBJ (NN 演员) )
+			  (VP (VSB (VV 出来)
+				   (VV 吃饭) ) ) )))
+	  (SP 的))
+      (SP 吧)
+      (PU 。)
+      (PU ·) ) ) 
+
+<su id=p7su1>
+
+
+( (IP (NP-SBJ (QP (CD 大多数) )
+	      (NP (NN 人) ) )
+      (VP (ADVP (AD 不) )
+	  (VP (VC 是)
+	      (VP (ADVP (AD 在) )
+		  (VP (VV 吃)
+		      (NP-PN-OBJ (NR 麦当劳) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p7su2>
+
+
+( (CP (CP (IP (NP-SBJ (DNP (NP (NN 醉翁) )
+			   (DEG 之) )
+		      (NP (NN 间) ) )
+	      (VP (ADVP (AD 不) )
+		  (VP (VV 在)
+		      (NP-OBJ (NN 酒) ) ) ) )
+	  (SP 呀) )
+      (PU ，)
+      (CP (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (ADVP (AD 只) )
+		  (VP (VV 想)
+		      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			      (VP (VV 去)
+				  (VP (VV 看)
+				      (NP-OBJ (NP-PN (NR 楼兰) )
+					      (NP (NN 女) ) ) ) ) ) ) ) )
+	  (SP 呀) )
+      (PU 。) ) ) 
+

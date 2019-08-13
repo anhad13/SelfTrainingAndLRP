@@ -1,0 +1,392 @@
+<su id=p1su1>
+
+
+( (IP (NP-PN-SBJ (NR 中国) )
+      (VP (VV 需要)
+	  (NP-OBJ (NN 战争) ) ) ) ) 
+
+<su id=p1su2>
+
+
+( (IP (NP-PN-SBJ (NR 中国) )
+      (VP (VV 需要)
+	  (NP-OBJ (NN 战争) ) )
+      (PU ，) ) ) 
+
+<su id=p1su3>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VP (ADVP (AD 首先) )
+	      (PP-DIR (P 向)
+		      (NP-PN (NR 日本) ) )
+	      (VP (VV 进攻) ) )
+	  (PU ，)
+	  (VP (ADVP (AD 继而) )
+	      (PP-DIR (P 向)
+		      (NP-PN (NR 美国) ) )
+	      (VP (VV 宣战) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su4>
+
+
+( (IP (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+		  (VP (ADVP (AD 到时) )
+		      (VP (VV 考虑)
+			  (NP-OBJ (DNP (NP (PN 自身) )
+				       (DEG 的) )
+				  (NP (NN 利益) ) ) ) ) )
+	  (PU ，)
+	  (NP-PN-SBJ (NR 俄罗斯)
+		     (PU ，)
+		     (NR 欧盟) )
+	  (VP (ADVP (AD 肯定) )
+	      (VP (VP (VV 会)
+		      (VP (VV 保持)
+			  (NP-OBJ (NN 中立) ) ) )
+		  (VP (MSP 而)
+		      (VP (ADVP (AD 大) )
+			  (VP (VV 发)
+			      (NP-OBJ (NN 战争)
+				      (NN 财) ) ) ) ) ) ) )
+      (PU ，)
+      (IP (IP-CND (NP-SBJ (-NONE- *pro*))
+		  (VP (ADVP (CS 即使) )
+		      (VP (VPT (VV 拿)
+			       (AD 不)
+			       (VV 下) )
+			  (NP-OBJ (DP (DT 整)
+				      (CLP (M 个) ) )
+				  (NP-PN (NR 日本) ) ) ) ) )
+	  (PU ，)
+	  (QP-SBJ (CD 半)
+		  (CLP (M 个) ) )
+	  (VP (ADVP (AD 也) )
+	      (VP (VV 行) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VP (VV 依托)
+		  (NP-OBJ (NP (PN 其) )
+			  (CP (WHNP-1 (-NONE- *OP*))
+			      (CP (IP (NP-SBJ (-NONE- *T*-1))
+				      (VP (VA 先进) ) )
+				  (DEC 的) ))
+			  (NP (NN 工业)
+			      (NN 技术) ) ) )
+	      (VP (VV 振兴)
+		  (NP-OBJ (NN 民族)
+			  (NN 工业) ) ) ) )
+      (PU ！) ) ) 
+
+<su id=p1su5>
+
+
+( (IP (NP-SBJ (DNP (NP (NN 战争) )
+		   (DEG 的) )
+	      (NP (NN 结果) ) )
+      (VP (ADVP (AD 也许) )
+	  (VP (VV 会)
+	      (VP (VC 是)
+		  (VP (VV 两败俱伤) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su6>
+
+
+( (IP (NP-SBJ (PN 我们) )
+      (VP (VP (VV 损失)
+	      (AS 了)
+	      (NP-OBJ (NN 经济) ) )
+	  (VP (VV 获得)
+	      (AS 了)
+	      (NP-OBJ (NN 技术) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su7>
+
+
+( (IP (IP (NP-PN-SBJ (NR 美国) )
+	  (VP (VV 损失)
+	      (AS 了)
+	      (NP-OBJ (NN 经济)
+		      (CC 和)
+		      (NN 霸权)
+		      (NN 地位) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 风光) )
+	  (VP (ADVP (AD 不) )
+	      (VP (VV 再) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su8>
+
+
+( (IP (IP (NP-SBJ (NN 世界)
+		  (NN 格局) )
+	  (VP (ADVP (AD 重新) )
+	      (VP (VV 划分) ) ) )
+      (PU ，)
+      (IP (NP-PN-SBJ (NR 欧盟) )
+	  (VP (VP (ADVP (AD 已) )
+		  (ADVP (AD 不) )
+		  (VP (VC 是)
+		      (NP-PRD (DNP (NP-PN (NR 美国) )
+				   (DEG 的) )
+			      (NP (NN 附庸) ) ) ) )
+	      (PU ，)
+	      (VP (VV 独霸)
+		  (NP-OBJ (QP (CD 一) )
+			  (NP (NN 方) ) ) ) ) )
+      (PU ，)
+      (IP (PP-ADV (P 和)
+		  (NP-PN (NR 俄罗斯)
+			 (PU ，)
+			 (NR 中国)
+			 (PU ，)
+			 (NR 美国) ) )
+	  (NP-SBJ (QP (CD 四) )
+		  (NP (NN 足) ) )
+	  (VP (VV 鼎立) ) )
+      (PU ，)
+      (IP (NP-SBJ (PN 这) )
+	  (VP (ADVP (AD 正) )
+	      (VP (VC 是)
+		  (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+			      (CP (IP (NP-SBJ (PN 大家) )
+				      (VP (MSP 所)
+					  (VP (VV 期望)
+					      (NP-OBJ (-NONE- *T*-1))) ) )
+				  (DEC 的) ))) ) ) )
+      (PU ！) ) ) 
+
+<su id=p1su9>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VP (ADVP (AD 不) )
+		  (VP (VV 要)
+		      (VP (VV 相信)
+			  (IP-OBJ (IP-SBJ (NP-SBJ (PN 我们) )
+					  (VP (ADVP (AD 这样) )
+					      (ADVP (AD 和平) )
+					      (VP (VRD (VV 发展)
+						       (VV 下去) ) ) ) )
+				  (VP (VV 会)
+				      (VP (VV 创造)
+					  (NP-OBJ (NN 奇迹) ) ) ) ) ) ) )
+	      (PU ，)
+	      (VP (VV 要)
+		  (VP (VV 相信)
+		      (NP-OBJ (NN 历史) ) ) ) ) )
+      (PU ，)
+      (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+		  (VP (VP (ADVP (AD 在) )
+			  (VP (VV 发展)
+			      (NP-EXT (QP (CLP (M 个) ) )
+				      (NP (QP (CD 百)
+					      (CLP (M 年) ) ) ) ) ) )
+		      (VP (ADVP (AD 不) )
+			  (VP (LB 被)
+			      (CP-OBJ (WHNP-1 (-NONE- *OP*))
+				      (IP (NP-PN-SBJ (NR 美国) )
+					  (VP (VV 蚕食)
+					      (NP-OBJ (-NONE- *T*-1))) )) ) ) ) )
+	  (PU ，)
+	  (NP-SBJ (PN 自己) )
+	  (VP (ADVP (AD 也) )
+	      (VP (VV 要)
+		  (VP (VV 乱掉) ) ) ) )
+      (PU ！) ) ) 
+
+<su id=p1su10>
+
+
+( (IP (IP (NP-SBJ (NN 乱世) )
+	  (VP (VV 出)
+	      (NP-OBJ (NN 英雄) ) ) )
+      (PU ，)
+      (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+		  (VP (VE 没有)
+		      (NP-OBJ (NN 英雄) ) ))
+	  (PU ，)
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (VE 没有)
+	      (NP-OBJ (NN 领袖) ) ) ) ) ) 
+
+<su id=p1su11>
+
+
+( (UCP (NP (NN 伟人) )
+       (PU ，)
+       (IP (NP-SBJ (PN 我们) )
+	   (VP (ADVP (AD 就) )
+	       (VP (VC 是)
+		   (NP-PRD (QP (CD 一)
+			       (CLP (M 盘) ) )
+			   (NP (NN 散沙) ) ) ) ))
+       (PU ！) ) ) 
+
+<su id=p1su12>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VP (ADVP (AD 不) )
+		  (VP (VV 要)
+		      (VP (VV 相信)
+			  (NP-OBJ (PN 自己) ) ) ) )
+	      (PU ，)
+	      (VP (VV 要)
+		  (VP (VV 相信)
+		      (NP-OBJ (NN 科学) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+		      (VP (VE 没有)
+			  (NP-OBJ (NN 侵略)
+				  (NN 掠夺) ) ) )
+	      (PU ，)
+	      (ADVP (AD 就) )
+	      (ADVP (AD 不) )
+	      (VP (VV 会)
+		  (VP (VE 有)
+		      (NP-OBJ (NN 复兴) ) ) ) ) )
+      (PU ！) ) ) 
+
+<su id=p1su13>
+
+
+( (IP (IP (NP-SBJ (NP (NN 战争) )
+		  (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (ADVP (AD 最) )
+				  (VP (VA 坏) ) ) )
+			  (DEC 的) ))
+		  (NP (NN 结局) ) )
+	  (VP (ADVP (AD 就) )
+	      (VP (VC 是)
+		  (IP-PRD (NP-SBJ (-NONE- *pro*))
+			  (VP (VV 求和) )) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (PN 我们) )
+	  (VP (VE 有)
+	      (NP-OBJ (NN 核武) ) ) )
+      (PU ，)
+      (IP-Q (NP-SBJ (PN 他们) )
+	    (VP (ADVP (AD 又) )
+		(VP (VV 能)
+		    (VP (VV 奈)
+			(NP-IO (PN 我) )
+			(NP-OBJ-WH (PN 何) ) ) ) ) )
+      (PU ？) ) ) 
+
+<su id=p1su14>
+
+
+( (IP (IP (NP-SBJ (NN 百姓) )
+	  (VP (ADVP (AD 不) )
+	      (VP (VV 怕)
+		  (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			  (VP (VV 死) ) ) ) ) )
+      (PU ，)
+      (IP (NP-TPC-1 (CP (WHNP-2 (-NONE- *OP*))
+			(CP (IP (NP-SBJ (-NONE- *T*-2))
+				(VP (VV 怕)
+				    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+					    (VP (VV 死) ) ) ) )
+			    (DEC 的) )))
+	  (NP-SBJ (PN 你) )
+	  (VP (VV 知道)
+	      (NP-OBJ (-NONE- *T*-1))) )
+      (PU ；) ) ) 
+
+<su id=p1su15>
+
+
+( (IP (IP (NP-SBJ (NN 百姓) )
+	  (VP (ADVP (AD 不) )
+	      (VP (VA 弱智) ) ) )
+      (PU ，)
+      (IP (NP-TPC-2 (CP (WHNP-1 (-NONE- *OP*))
+			(CP (IP (NP-SBJ (-NONE- *T*-1))
+				(VP (VA 弱智) ) )
+			    (DEC 的) )))
+	  (NP-SBJ (NN 你) )
+	  (VP (ADVP (AD 也) )
+	      (VP (VV 知道)
+		  (NP-OBJ (-NONE- *T*-2))) ) )
+      (PU ；) ) ) 
+
+<su id=p1su16>
+
+
+( (IP (IP (NP-SBJ (NN 钱) )
+	  (VP (VA 多) )
+	  (SP 了) )
+      (PU ，)
+      (IP (NP-SBJ (NN 女人) )
+	  (VP (VA 多) )
+	  (SP 了) )
+      (PU ，)
+      (IP (NP-SBJ (NN 胆子) )
+	  (VP (VA 小) )
+	  (SP 了) )
+      (PU ！) ) ) 
+
+<su id=p1su17>
+
+
+( (IP (IP (NP-SBJ (NN 百姓) )
+	  (VP (ADVP (AD 就) )
+	      (VP (VC 是)
+		  (NP-PRD (QP (CD 一)
+			      (CLP (M 盘) ) )
+			  (NP (NN 棋) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 臭香) )
+	  (VP (ADVP (AD 全) )
+	      (VP (VV 靠)
+		  (NP-OBJ (PN 你) ) ) )
+	  (SP 了) )
+      (PU ！) ) ) 
+
+<su id=p2su1>
+
+
+( (IP (PP-LOC (P 在)
+	      (NP (DNP (NP (PN 自己) )
+		       (DEG 的) )
+		  (NP (NN 家)
+		      (NN 门口) ) ) )
+      (NP-SBJ (PN 我) )
+      (VP (ADVP (AD 不) )
+	  (VP (VV 信)
+	      (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		      (VP (VPT (VV 打)
+			       (AD 不)
+			       (VV 赢) ) ) ) ) )
+      (PU ！) ) ) 
+
+<su id=p2su2>
+
+
+( (NP (NN 天时)
+      (PU ，)
+      (NN 地利)
+      (PU ，)
+      (NN 人和)
+      (PU ！) ) ) 
+
+<su id=p3su1>
+
+
+( (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		  (CP (IP (NP-SBJ (-NONE- *T*-1))
+			  (VP (VV 当官) ) )
+		      (DEC 的) )))
+      (VP (ADVP (AD 不) )
+	  (VP (VV 愿意)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 打) ) ) ) )
+      (PU 。) ) ) 
+

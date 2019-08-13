@@ -1,0 +1,775 @@
+<su id=p1su1>
+
+
+( (IP (IP (NP-PN-SBJ (NP (PN wo) )
+		     (NP (NR 河南)
+			 (NR 新野) ) )
+	  (VP (VV 发生)
+	      (NP-OBJ (ADJP (JJ 严重) )
+		      (NP (NN 校车)
+			  (NN 事故) ) ) ) )
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 已) )
+	      (VP (VE 有)
+		  (IP-OBJ (NP-SBJ (QP (CD 7) )
+				  (NP (NN 人) ) )
+			  (VP (VV 死亡) ) ) ) ) )
+      (IP (NP-SBJ (NN 其中) )
+	  (VP (NP-PRD (QP (CD 6)
+			  (CLP (M 名) ) )
+		      (NP (NN 小学生) ) ) ) ) ) ) 
+
+<su id=p1su2>
+
+
+( (IP (NP-TMP (NT 2011年)
+	      (NT 10月)
+	      (NT 14日)
+	      (NT 下午)
+	      (NT 1时)
+	      (NT 19分) )
+      (PU ，)
+      (LCP-LOC (NP-PN (NR 新野县)
+		      (NR 上港乡)
+		      (NN 工业)
+		      (NN 园区) )
+	       (LC 内) )
+      (LCP-LOC (NP (NN 区间)
+		   (NN 道路) )
+	       (LC 上) )
+      (NP-SBJ (QP (CD 一)
+		  (CLP (M 辆) ) )
+	      (NP (NR 金杯)
+		  (NN 牌) )
+	      (NP (NN 面包车) )
+	      (PRN (PU （)
+		   (NP (NP (NN 车号) )
+		       (PU ：)
+		       (NP-PN (NR 豫)
+			      (NN R998BB) ) )
+		   (PU ）) ) )
+      (VP (PP-ADV (P 与)
+		  (NP (QP (CD 一)
+			  (CLP (M 辆) ) )
+		      (NP-PN (NR 东风)
+			     (NN 牌) )
+		      (NP (NN 运砂车) )
+		      (PRN (PU （)
+			   (NP (NP (NN 车号) )
+			       (PU ：)
+			       (NP-PN (NR 鄂)
+				      (NN FA1241) ) )
+			   (PU ）) ) ) )
+	  (VP (VV 发生)
+	      (NP-OBJ (NN 侧面)
+		      (NN 相撞) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su3>
+
+
+( (IP (IP (NP-SBJ (NN 事故) )
+	  (VP (VV 造成)
+	      (IP-OBJ (NP-SBJ (NP (NN 面包车)
+				  (NN 司机) )
+			      (PU 、)
+			      (NP (QP (CD 4)
+				      (CLP (M 名) ) )
+				  (NP (NN 学生) ) ) )
+		      (VP (ADVP (AD 当场) )
+			  (VP (VV 死亡) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 另) )
+	      (VP (VE 有)
+		  (IP-OBJ (NP-SBJ (NP (QP (CD 一)
+					  (CLP (M 名) ) )
+				      (NP (NN 教师) ) )
+				  (CC 和)
+				  (NP (QP (CD 17)
+					  (CLP (M 名) ) )
+				      (NP (NN 学生) ) ) )
+			  (VP (NP-ADV (ADJP (JJ 不同) )
+				      (NP (NN 程度) ) )
+			      (VP (VV 受伤) ) ) ) ) ) )
+      (PU ，)
+      (IP (NP-TPC (QP (CD 几)
+		      (CLP (M 名) ) )
+		  (NP (NN 学生) ) )
+	  (NP-SBJ (NN 伤势) )
+	  (VP (VA 严重) ) )
+      (PU ，)
+      (IP (NP-SBJ (QP (CD 2)
+		      (CLP (M 名) ) )
+		  (NP (NN 学生) ) )
+	  (VP (PP-LOC (P 在)
+		      (LCP (NP (CP (WHPP-1 (-NONE- *OP*))
+				   (IP (NP-SBJ (-NONE- *pro*))
+				       (VP (PP-ADV (-NONE- *T*-1))
+					   (VP (VV 送往)
+					       (NP-OBJ (NN 医院) ) ))))
+			       (NP (NN 路) ) )
+			   (LC 上) ) )
+	      (VP (VV 去世) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su4>
+
+
+( (IP (NP-TMP (NT 目前) )
+      (PU ，)
+      (IP (IP (NP-SBJ (NN 伤员) )
+	      (VP (ADVP (AD 正) )
+		  (PP-LOC (P 在)
+			  (NP (NN 县医院) ) )
+		  (VP (VV 接受)
+		      (NP-OBJ (NN 治疗) ) ) ) )
+	  (PU ，)
+	  (IP (NP-SBJ (NP (NN 运沙车) )
+		      (ADJP (JJ 肇事) )
+		      (NP (NN 司机) ) )
+	      (VP (VV 在逃) ) )
+	  (PU ，)
+	  (IP (NP-SBJ (NN 公安)
+		      (NN 机关) )
+	      (VP (ADVP (AD 正在) )
+		  (VP (VV 追缉) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su10>
+
+
+( (IP (NP-TMP (NN 夜里) )
+      (NP (NN 医院)
+	  (NN 住院部)
+	  (NN 门前) )
+      (VP (ADVP (AD 一直) )
+	  (VP (VV 停放)
+	      (AS 着)
+	      (SKIP (NOI 的) )
+	      (NP-OBJ (NN 警车) ) ) ) ) ) 
+
+<su id=p1su11>
+
+
+( (IP (NP-SBJ (NN 事故) )
+      (VP (VC 是)
+	  (IP-PRD (NP-SBJ (QP (CD 一)
+			      (CLP (M 个) ) )
+			  (CP (WHNP-1 (-NONE- *OP*))
+			      (CP (IP (NP-SBJ (-NONE- *T*-1))
+				      (VP (VV 运输)
+					  (NP-OBJ (NN 河沙) ) ) )
+				  (DEC 的) ))
+			  (NP (NN 货车) ) )
+		  (VP (PP-ADV (P 和)
+			      (NP (QP (CD 一)
+				      (CLP (M 个) ) )
+				  (CP (WHNP-2 (-NONE- *OP*))
+				      (CP (IP (NP-SBJ (-NONE- *T*-2))
+					      (VP (VV 接送)
+						  (NP-OBJ (NN 学生) ) ) )
+					  (DEC 的) ))
+				  (NP (NN 校车) ) ) )
+		      (VP (VV 相撞) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su12>
+
+
+( (IP (LCP-TMP (IP (NP-SBJ (NN 事故) )
+		   (VP (VV 发生) ) )
+	       (LC 后) )
+      (PU ，)
+      (NP-SBJ (NP-PN (NR 新野县) )
+	      (ADJP (JJ 有关) )
+	      (NP (NN 单位) ) )
+      (VP (ADVP (AD 立即) )
+	  (VP (VV 做出)
+	      (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+			  (CP (IP (NP-SBJ (-NONE- *T*-1))
+				  (VP (VA 具体) ) )
+			      (DEC 的) ))
+		      (NP (NN 抢救)
+			  (NN 指导)
+			  (NN 措施) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su13>
+
+
+( (IP (NP-SBJ (NN 医院) )
+      (VP (ADVP (AD 紧急) )
+	  (VP (VV 通知)
+	      (NP-OBJ (DP (DT 所有) )
+		      (NP (NN 住院部) )
+		      (CP (WHNP-1 (-NONE- *OP*))
+			  (CP (IP (NP-SBJ (-NONE- *T*-1))
+				  (VP (VV 歇班) ) )
+			      (DEC 的) ))
+		      (NP (NN 医生)
+			  (PU 、)
+			  (NN 护士) ) )
+	      (IP (NP-SBJ (-NONE- *PRO*))
+		  (VP (ADVP (AD 全部) )
+		      (VP (VV 到)
+			  (NP-OBJ (DNP (NP (PN 各自) )
+				       (DEG 的) )
+				  (NP (NN 岗位) ) ) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su14>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (PP-TMP (P 截止)
+		      (NP (NT 20点) ) )
+	      (ADVP (AD 还) )
+	      (VP (VV 没有)
+		  (VP (VV 公布)
+		      (NP-OBJ (DNP (NP (ADJP (JJ 有关) )
+				       (NP (NN 人员) ) )
+				   (DEG 的) )
+			      (DNP (ADJP (JJ 确切) )
+				   (DEG 的) )
+			      (NP (NN 伤亡)
+				  (NN 情况) ) ) ) )))
+      (PU ,)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 有待)
+	      (NP-OBJ (ADJP (JJ 进一步) )
+		      (NP (NN 了解) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su15>
+
+
+( (IP (NP-SBJ (LCP (NP (NN 文) )
+		   (LC 中) )
+	      (QP (CD 部分) )
+	      (NP (NN 数据) ) )
+      (VP (VC 为)
+	  (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+		      (IP (NP-SBJ (-NONE- *pro*))
+			  (VP (VP (PP-ADV (P 跟)
+					  (NP (NN 家里) ) )
+				  (VP (VV 打)
+				      (NP-OBJ (NN 电话) ) ) )
+			      (VP (MSP 所)
+				  (VP (VV 得)
+				      (NP-OBJ (-NONE- *T*-1))) ) ) ))) )
+      (PU 。) ) ) 
+
+<su id=p3su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 珍惜)
+	      (NP-OBJ (NN 生命) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 安全) )
+	  (VP (QP (OD 第一) ) ) )
+      (PU 。) ) ) 
+
+<su id=p4su1>
+
+
+( (IP (NP-SBJ (PN 我) )
+      (VP (ADVP (AD 又) )
+	  (VP (VV 核实)
+	      (AS 了)
+	      (ADVP-EXT (AD 一下) ) ) )
+      (PU 。) ) ) 
+
+<su id=p4su2>
+
+
+( (IP (NP-TMP (NT 目前) )
+      (PU ，)
+      (NP-SBJ (NN 官方)
+	      (NN 数据) )
+      (VP (VC 为)
+	  (IP-PRD (NP-SBJ (LCP (NP (NN 车) )
+			       (LC 上) )
+			  (QP (CD 17)
+			      (CLP (M 名) ) )
+			  (NP (NN 小学生) ) )
+		  (PU ，)
+		  (VP (VV 死亡)
+		      (NP-EXT (QP (CD 2) )
+			      (NP (NN 人) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p4su3>
+
+
+( (IP (ADVP (AD 但) )
+      (PP-MNR (P 据)
+	      (IP (NP-SBJ (ADJP (JJ 知情) )
+			  (NP (NN 人士) ) )
+		  (VP (VV 透露) ) ) )
+      (PU ，)
+      (IP (IP (LCP-SBJ (NP (NN 车) )
+		       (LC 上) )
+	      (VP (VV 载有)
+		  (NP-OBJ (QP (CD 28)
+			      (CLP (M 名) ) )
+			  (NP (NN 小学生) ) ) ) )
+	  (PU ，)
+	  (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (ADVP (AD 已) )
+		  (VP (VE 有)
+		      (IP-OBJ (NP-SBJ (QP (CD 5)
+					  (CLP (M 名) ) )
+				      (NP (NN 小学生) ) )
+			      (VP (VV 遇难) ) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p4su4>
+
+
+( (IP (PP-ADV (P 除)
+	      (LCP (IP (NP-SBJ (QP (CD 两)
+				   (CLP (M 名) ) )
+			       (NP (NN 小学生) ) )
+		       (VP (VV 安然无恙) ) )
+		   (LC 外) ) )
+      (PU ，)
+      (NP-SBJ (DP (DT 其余)
+		  (QP (CD 21)
+		      (CLP (M 名) ) ) )
+	      (NP (NN 小学生) ) )
+      (VP (ADVP (AD 都) )
+	  (NP-ADV (ADJP (JJ 不同) )
+		  (NP (NN 程度) ) )
+	  (VP (VV 受伤) ) )
+      (PU ，) ) ) 
+
+<su id=p4su5>
+
+
+( (IP (IP (NP-TPC (QP (CD 部分) )
+		  (NP (NN 学生) ) )
+	  (NP-SBJ (NN 伤势) )
+	  (VP (VA 严重) ) )
+      (PU ,)
+      (IP (NP-SBJ (PN 有的) )
+	  (VP (VP (VV 断)
+		  (NP-OBJ (NN 胳膊) ) )
+	      (VP (VV 断)
+		  (NP-OBJ (NN 腿) ) ) ) )
+      (PU .) ) ) 
+
+<su id=p5su1>
+
+
+( (IP (NP-SBJ (NP (NN 校车) )
+	      (NP (NP-PN (NR 金杯) )
+		  (NP (NN 车) ) ) )
+      (PU ，)
+      (VP (VP (NP-PRD (QP (CD 14) )
+		      (NP (NN 坐) ) ) )
+	  (VP (NP-ADV (ADJP (JJ 一般) )
+		      (NP (NN 情况) ) )
+	      (ADVP (AD 都) )
+	      (VP (VC 是)
+		  (VP (VV 拉)
+		      (NP-OBJ (NP (QP (CD 65)
+				      (PU -)
+				      (CD 67) )
+				  (NP (NN 人) ) )
+			      (ADVP (AD 不等) ) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p5su2>
+
+
+( (IP (NP-SBJ (DP (DT 该) )
+	      (NP (NN 车) ) )
+      (VP (VE 有)
+	  (NP-OBJ (ADJP (JJ 正规) )
+		  (NP (NN 手续) ) ) )
+      (PU ，) ) ) 
+
+<su id=p5su3>
+
+
+( (IP (NP-SBJ (NN 司机) )
+      (VP (VP (NP-PRD (QP (CD 6)
+			  (CLP (M 年) ) )
+		      (NP (NN 驾龄) ) ) )
+	  (PU ，)
+	  (VP (ADVP (AD 从) )
+	      (ADVP (AD 不) )
+	      (VP (VV 饮酒) ) ) )
+      (PU ，) ) ) 
+
+<su id=p5su4>
+
+
+( (IP (IP (NP-SBJ (NN 拉沙车) )
+	  (PU ，)
+	  (VP (VV 属)
+	      (NP-OBJ (ADJP (JJ 报废) )
+		      (NP (NN 车辆) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 车) )
+	  (VP (VE 无)
+	      (NP-OBJ (DP (DT 任何) )
+		      (NP (NN 证件) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 人) )
+	  (VP (ADVP (AD 也) )
+	      (VP (VE 没有)
+		  (NP-OBJ (NP-APP (NN 驾证)
+				  (ETC 等) )
+			  (NP (NN 手续) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p5su5>
+
+
+( (IP (LCP-TMP (NP (NN 事故) )
+	       (LC 时) )
+      (PU ，)
+      (IP (IP (NP-SBJ (NN 校车) )
+	      (VP (PP-DIR (PP (P 由)
+			      (NP (NN 东) ) )
+			  (PP (P 向)
+			      (NP (NN 西) ) ) )
+		  (VP (VV 行) ) ) )
+	  (PU ，)
+	  (IP (NP-SBJ (NN 拉沙车) )
+	      (VP (PP-DIR (PP (P 由)
+			      (NP (NN 南) ) )
+			  (PP (P 向)
+			      (NP (NN 北) ) ) )
+		  (VP (VV 行) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p5su6>
+
+
+( (IP (IP-SBJ (NP-SBJ (NN 拉沙车)
+		      (NN 头部) )
+	      (VP (VV 撞向)
+		  (NP-OBJ (NP-PN (NR 金杯)
+				 (NN 车) )
+			  (ADJP (JJ 主) )
+			  (NP (NN 驾驶室) ) ) ) )
+      (PU ，)
+      (VP (VV 造成)
+	  (IP-OBJ (NP-SBJ (NP-PN (NR 金杯)
+				 (NN 车) )
+			  (NP (NN 车头) ) )
+		  (VP (VV 转向)
+		      (NP-OBJ (NN 东北)
+			      (NN 方向) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p5su7>
+
+
+( (IP (IP (NP-SBJ (NN 司机) )
+	  (VP (ADVP (AD 当场) )
+	      (VP (VV 死亡) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 共) )
+	      (VP (VE 有)
+		  (IP-OBJ (NP-SBJ (QP (CD 29)
+				      (CLP (M 名) ) )
+				  (NP (NN 小学生) ) )
+			  (PU ，)
+			  (VP (VV 送往)
+			      (NP-OBJ (NN 县)
+				      (NN 人民)
+				      (NN 医院) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p5su8>
+
+
+( (IP (NP-SBJ (ADJP (JJ 具体) )
+	      (NP (NN 死亡)
+		  (NN 人数) ) )
+      (VP (ADVP (AD 不) )
+	  (VP (VA 清楚) ) )
+      (PU 。) ) ) 
+
+<su id=p5su9>
+
+
+( (IP (NP-SBJ (NN 拉沙车)
+	      (NN 司机) )
+      (PU ，)
+      (VP (VP (ADVP (AD 当场) )
+	      (VP (VV 逃逸) ) )
+	  (PU ，)
+	  (VP (ADVP (AD 后) )
+	      (LCP-TMP (NP (NT 当天)
+			   (NT 晚上)
+			   (NT 11时) )
+		       (LC 左右) )
+	      (PU ，)
+	      (VP (LB 被)
+		  (CP-OBJ (WHNP-1 (-NONE- *OP*))
+			  (IP (NP-SBJ (NN 公安)
+				      (NN 机关) )
+			      (VP (VV 抓获)
+				  (NP-OBJ (-NONE- *T*-1))) )) ) ) )
+      (PU 。) ) ) 
+
+<su id=p5su10>
+
+
+( (IP (IP (NP-SBJ (NP (NP (NN 幼儿园)
+			  (NN 校长) )
+		      (PRN (PU （)
+			   (ADJP (JJ 女) )
+			   (PU ）) ) )
+		  (CC 及)
+		  (NP (NN 丈夫) ) )
+	  (VP (ADVP (AD 至今) )
+	      (VP (VV 下落不明) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 公安)
+		  (NN 机关) )
+	  (VP (ADVP (AD 正找) )
+	      (VP (VV 查找) ) ) )
+      (PU 。) ) ) 
+
+<su id=p5su11>
+
+
+( (IP (IP (NP-SBJ (NN 司机) )
+	  (VP (NP-TMP (NT 今天) )
+	      (ADVP (AD 已经) )
+	      (VP (VV 死亡)
+		  (QP-EXT (CD 四)
+			  (CLP (M 天) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 至今) )
+	      (VP (VE 没有)
+		  (IP-OBJ (NP-SBJ (NN 单位)
+				  (CC 和)
+				  (NN 个人) )
+			  (VP (VV 进行)
+			      (NP-OBJ (NN 安抚) ) ) ) ) ) )
+      (PU ，)
+      (IP (NP-TPC (NN 家属) )
+	  (NP-SBJ (NN 情绪) )
+	  (VP (VV 伤心) ) )
+      (PU 。) ) ) 
+
+<su id=p5su12>
+
+
+( (IP (NP-SBJ (NN 幼儿园)
+	      (NN 方面)
+	      (NN 家属) )
+      (VP (VP (ADVP (AD 不) )
+	      (VP (VV 愿意)
+		  (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			  (VP (VSB (VV 出面)
+				   (VV 解决) ) ) ) ) )
+	  (PU ，)
+	  (VP (VV 让)
+	      (NP-OBJ (-NONE- *pro*))
+	      (IP (NP-SBJ (-NONE- *PRO*))
+		  (VP (VV 找)
+		      (NP-OBJ (NN 政府) )
+		      (IP (NP-SBJ (-NONE- *PRO*))
+			  (VP (VV 解决)
+			      (NP-OBJ (NN 事情) ) ) ) )) ) )
+      (PU 。) ) ) 
+
+<su id=p5su13>
+
+
+( (IP (NP-TMP (NT 目前) )
+      (NP-SBJ (NN 县政府) )
+      (VP (ADVP (AD 也) )
+	  (VP (VV 没有)
+	      (VP (VP (ADVP (AD 具体) )
+		      (VP (VV 出台)
+			  (NP-OBJ (DP (DT 什么) )
+				  (NP (NN 方法) ) ) ) )
+		  (PU ，)
+		  (VP (PP-DIR (P 对)
+			      (NP (NN 死者)
+				  (NN 家属) ) )
+		      (VP (VV 进行)
+			  (NP-OBJ (NP (NN 安抚)
+				      (CC 和)
+				      (NN 赔偿) )
+				  (NP (NN 措施) ) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p5su14>
+
+
+( (IP (IP (NP-SBJ (PN 本人) )
+	  (VP (VC 系)
+	      (NP-PRD (NN 死者)
+		      (NN 家属) ) ) )
+      (PU ，)
+      (IP (QP-SBJ (CLP (M 句)
+		       (M 句) ) )
+	  (VP (VV 属实) ) )
+      (PU 。) ) ) 
+
+<su id=p7su1>
+
+
+( (IP (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (VV 死) ) )
+			  (DEC 的) ))
+		  (NP (NN 孩子) ) )
+	  (VP (ADVP (AD 都) )
+	      (VP (VC 是)
+		  (DNP-PRD (NP (NR 邓州) )
+			   (DEG 的) ) ) ) )
+      (PU ,)
+      (IP (IP (NP-PN-SBJ (NR 文昌庙) )
+	      (VP (QP-PRD (CD 2)
+			  (CLP (M 个) ) ) ) )
+	  (PU 、)
+	  (IP (NP-PN-SBJ (NR 后桥) )
+	      (VP (QP-PRD (CD 1)
+			  (CLP (M 个) ) ) ) )
+	  (PU 、)
+	  (IP (NP-PN-SBJ (NR 胡营) )
+	      (VP (QP-PRD (CD 2)
+			  (CLP (M 个) ) ) ) )
+	  (PU 、)
+	  (IP (NP-PN-SBJ (NR 水牛) )
+	      (VP (QP-PRD (CD 1)
+			  (CLP (M 个) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p7su2>
+
+
+( (IP (NP-SBJ (NN 重伤) )
+      (VP (QP-PRD (CD 10)
+		  (CLP (M 个) ) ) )
+      (PU 。) ) ) 
+
+<su id=p10su1>
+
+
+( (IP (NP-SBJ (DNP (NP (QP (OD 4) )
+		       (NP (NN 楼) ) )
+		   (DEG 的) ) )
+      (VP (VP (VV 睁眼) )
+	  (VP (VV 说)
+	      (NP-OBJ (NN 瞎话) ) ) )
+      (PU ，) ) ) 
+
+<su id=p10su2>
+
+
+( (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		  (CP (IP (NP-SBJ (-NONE- *T*-1))
+			  (VP (VV 出事) ) )
+		      (DEC 的) ))
+	      (NP (NN 面包车) ) )
+      (VP (VC 是)
+	  (NP-PRD (QP (CLP (M 个) ) )
+		  (ADJP (JJ 黑) )
+		  (NP (NN 车) ) ) )
+      (PU ，) ) ) 
+
+<su id=p10su3>
+
+
+( (IP (NP-TMP (NT 当时) )
+      (LCP-SBJ (NP (NN 车) )
+	       (LC 上) )
+      (VP (VV 拉)
+	  (AS 了)
+	  (NP-OBJ (NP (QP (CD 二十七)
+			  (CLP (M 个) ) )
+		      (NP (NN 学生) ) )
+		  (PU ，)
+		  (NP (QP (CD 一)
+			  (CLP (M 个) ) )
+		      (NP (NN 教师) ) )
+		  (PU ，)
+		  (NP (QP (CD 一)
+			  (CLP (M 个) ) )
+		      (NP (NN 驾驶员) ) ) ) )
+      (PU ！) ) ) 
+
+<su id=p10su4>
+
+
+( (IP (NP-TMP (NT 当时) )
+      (NP-SBJ (NN 驾驶员) )
+      (VP (ADVP (AD 还) )
+	  (VP (VC 是)
+	      (VP (VP (VE 无)
+		      (NP-OBJ (NN 证) ) )
+		  (VP (VV 驾驶) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p10su5>
+
+
+( (IP (IP (NP-SBJ (PN 谁) )
+	  (VP (VV 说)
+	      (CP-OBJ (IP (NP-SBJ (NN 拉沙车) )
+			  (VP (VC 是)
+			      (VP (SB 让)
+				  (VP (VV 逮到)
+				      (NP-OBJ (-NONE- *-1))) ) ) )
+		      (SP 的) ) ) )
+      (PU ，)
+      (IP (CP-SBJ (IP (NP-SBJ (PN 人家) )
+		      (VP (VV 去)
+			  (VP (VV 自首) ) ) )
+		  (SP 的) )
+	  (VP (VNV (VV 行)
+		   (AD 不)
+		   (VV 行) ) ))
+      (PU 。) ) ) 
+
+<su id=p10su6>
+
+
+( (IP (IP (NP-SBJ (NP (PN 我) )
+		  (NP (QP (CD 一)
+			  (CLP (M 个) ) )
+		      (NP (NN 局外人) ) ) )
+	  (VP (ADVP (AD 就) )
+	      (VP (VV 说)
+		  (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+			      (IP (NP-SBJ (-NONE- *T*-1))
+				  (VP (ADVP (AD 这么) )
+				      (VP (VA 多) ) ) ))) ) ) )
+      (PU 。)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+		      (VP (VP (VV 睁眼) )
+			  (VP (VV 说)
+			      (NP-OBJ (NN 瞎话) ) )))
+	      (VP (VV 死)
+		  (NP-EXT (NN 全家) ) ) ) )
+      (PU ！！) ) ) 
+
+<su id=p10su7>
+
+
+( (IP (IP (NP-SBJ (NN 司机) )
+	  (VP (VP (VC 是)
+		  (NP-PRD (NP (NN 院长) )
+			  (NP (PN 他) )
+			  (NP (NN 老爸) ) ) )
+	      (VP (VE 没)
+		  (NP-OBJ (NN 驾照) ) ) ) )
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV OK) ) ) ) ) 
+

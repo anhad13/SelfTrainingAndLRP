@@ -1,0 +1,55 @@
+<su id=headline_su1> 
+
+
+( (IP (IP-SBJ (NP-PN-SBJ (NR 沃尔玛) )
+	      (VP (VV 淡出) ) )
+      (VP (ADVP (AD 只) )
+	  (VP (VC 是)
+	      (NP-PRD (NN 时间)
+		      (NN 问题) ) ) ) ) ) 
+
+<su id=p1su1>
+
+
+( (IP (IP (PP-DIR (P 针对)
+		  (NP (IP-APP (NP-SBJ (NP-PN (NR 沃尔玛) )
+				      (NP-PN (NR 重庆) )
+				      (QP (CD 12)
+					  (CLP (M 家) ) )
+				      (NP (NN 门店) ) )
+			      (VP (VP (PP-MNR (P 用)
+					      (NP (ADJP (JJ 普通) )
+						  (NP (NN 猪肉) ) ) )
+				      (VP (VV 冒充)
+					  (NP-OBJ (ADJP (JJ 绿色) )
+						  (NP (NN 猪肉) ) ) ) )
+				  (VP (VV 销售) ) ) )
+		      (QP (CD 一) )
+		      (NP (NN 事) ) ) )
+	  (PU ，)
+	  (NP-SBJ (NP-PN (NR 重庆) )
+		  (NP (NN 工商)
+		      (NN 部门) ) )
+	  (VP (NP-TMP (NT 昨天) )
+	      (VP (VV 开出)
+		  (NP-OBJ (NN 罚单) ))))
+      (PU ：)
+      (IP (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (VCD (VV 停业)
+		       (VV 整顿) ) ) )
+	  (PU 、)
+	  (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 没收)
+		  (NP-OBJ (DP (DT 所有) )
+			  (ADJP (JJ 违法) )
+			  (NP (NN 所得) ) ) ) )
+	  (PU 、)
+	  (IP (NP-SBJ (ADVP (AD 总计) )
+		      (NP (NN 罚款) ) )
+	      (VP (QP-PRD (CD 269万余)
+			  (CLP (M 元) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su2>
+
+

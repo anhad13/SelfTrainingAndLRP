@@ -1,0 +1,165 @@
+<DOC>
+<DOCID>XIN19981231.0087</DOCID>
+<HEADER>
+<DATE>1998-12-31</DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=9369>
+( (IP-HLN (NP-PN-SBJ (NR 中国)
+		     (NN 高尔夫球)
+		     (NN 精英赛))
+	  (VP (PP-LOC (P 在)
+		      (NP-PN (NR 蓉)))
+	      (VP (VV 开杆)))))
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=9370>
+((FRAG (NR 新华社)
+      (NR 成都)
+      (NT １２月)
+      (NT ３１日)
+      (NN 电)
+      (PU （)
+      (NN 记者)
+      (NR 史春东)
+      (PU ）)))
+</S>
+<S ID=9371>
+((IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		     (CP (IP (NP-SBJ (-NONE- *T*-1))
+			     (VP (VV 为期)
+				 (QP-OBJ (CD 四)
+					 (CLP (M 天)))))
+			 (DEC 的)))
+		 (NP-PN (NR 中国)
+			(NN 高尔夫球)
+			(NN 精英赛)))
+	 (VP (NP-TMP (NT 今天))
+	     (PP-LOC (P 在)
+		     (NP-PN (NR 成都)
+			    (NR 四川)
+			    (NN 国际)
+			    (NN 高尔夫球)
+			    (NN 赛场)))
+	     (VP (VV 举行)))
+	 (PU 。)))
+</S>
+<S ID=9372>
+( (IP (IP (NP-SBJ (PN 这))
+	  (VP (VC 是)
+	      (NP-PRD (NP (NP (PN 我))
+			  (NP (NN 国)))
+		      (DNP (NP (ADJP (ADVP (AD 最))
+				     (ADJP (JJ 高)))
+			       (NP (NN 水平)))
+			   (DEG 的))
+		      (NP (NN 高尔夫球)
+			  (NN 比赛)))))
+      (PU ，)
+      (IP (NP-SBJ (NP (NN 国内))
+		  (ADJP (JJ 职业))
+		  (NP (NN 选手)))
+	  (VP (ADVP (AD 均))
+	      (VP (VP (VV 赴)
+		      (NP-PN-OBJ (NR 蓉)))
+		  (VP (VV 参赛)))))
+      (PU ，)
+      (IP (NP-SBJ (NN 其中))
+	  (VP (VV 包括)
+	      (NP-OBJ (NP (NP-APP (NP-PN (NR 亚洲))
+				  (NP (NN 亚军)))
+			  (NP-PN (NR 张连伟)))
+		      (PU 、)
+		      (NP (NP-APP (NP (NP (NT ’９７))
+				      (NP-PN (NR 中国)
+					     (NN 公开赛)))
+				  (NP (NN 冠军)))
+			  (NP-PN (NR 程军)))
+		      (CC 以及)
+		      (NP (NP-PN-APP (NR 郑文根)
+				     (PU 、)
+				     (NR 吴相兵)
+				     (PU 、)
+				     (NR 刘国杰)
+				     (ETC 等))
+			  (ADJP (JJ 男))
+			  (NP (NN 选手)))
+		      (CC 和)
+		      (NP (QP (CD ６)
+			      (CLP (M 名)))
+			  (ADJP (JJ 女))
+			  (NP (NN 选手))))))
+      (PU 。)))
+</S>
+</P>
+<P>
+<S ID=9373>
+( (IP (ADVP (AD 此外))
+      (PU ，)
+      (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		  (CP (IP (NP-SBJ (-NONE- *T*-1))
+			  (VP (NP-TMP (DP (DT 本))
+				      (NP (NN 月)))
+			      (ADVP (AD 刚刚))
+			      (VP (VV 获得)
+				  (NP-OBJ (ADJP (JJ 职业))
+					  (NP (NN 资格))))))
+		      (DEC 的)))
+	      (NP (NN 新手们)))
+      (VP (ADVP (AD 也))
+	  (ADVP (AD 将))
+	  (VP (VCD (VV 登场)
+		   (VV 亮相))))
+      (PU 。)))
+</S>
+</P>
+<P>
+<S ID=9374>
+( (IP (NP-SBJ-1 (NN 精英赛)
+		(NN 裁判))
+      (VP (VP (PP-LGS (P 由)
+		      (NP (NP-APP (NP-PN (NR 中国)
+					 (NR 香港)
+					 (NN 高尔夫球)
+					 (NN 代表队))
+				  (NP (NN 队长)))
+			  (NP-PN (NR 王水明))))
+	      (VP (VV 领衔)
+		  (NP-OBJ (-NONE- *-1))))
+	  (PU ，)
+	  (VP (PP-LGS (P 由)
+		      (NP-PN (NR 中国)
+			     (NN 高尔夫球)
+			     (NN 协会)
+			     (CC 和)
+			     (NR 四川省)
+			     (NN 高尔夫球)
+			     (NN 协会)))
+	      (VP (VSB (VV 派员)
+		       (VV 组成))
+		  (NP-OBJ (-NONE- *-1)))))
+      (PU 。)))
+</S>
+<S ID=9375>
+( (IP (NP-SBJ (NN 精英赛))
+      (VP (VP (DP-TMP (DP (DT 头)
+			  (QP (CD 两)
+			      (CLP (M 天)))))
+	      (VP (VV 举行)
+		  (NP-OBJ (ADJP (JJ 职业)
+				(PU －－)
+				(JJ 业余))
+			  (NP (NN 配对赛)))))
+	  (PU ，)
+	  (VP (ADVP (AD 之后))
+	      (VP (VV 举行)
+		  (NP-OBJ (NN 精英赛)))))
+      (PU 。)))
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

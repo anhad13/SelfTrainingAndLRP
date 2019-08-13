@@ -1,0 +1,154 @@
+<DOC>
+<DOCID>XIN19981231.0018</DOCID>
+<HEADER>
+<DATE>1998-12-31</DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=8900>
+( (IP-HLN (NP-SBJ (NP-PN (NR 塔))
+		  (NP (NN 首都)))
+	  (VP (VV 发生)
+	      (NP-OBJ (NN 武装)
+		      (NN 冲突)))))
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=8901>
+((FRAG (NR 新华社)
+	     (NR 阿拉木图)
+	     (NT １２月)
+	     (NT ３０日)
+	     (NN 电)
+	     (NR 杜尚别)
+	     (NN 消息)
+	     (PU ：)))
+</S>
+<S ID=8902>
+((IP (IP (NP-SBJ (NP (NP-APP (NP-PN (NR 塔吉克斯坦))
+				 (NP (NN 首都)))
+			 (NP-PN (NR 杜尚别)))
+		     (NP (NN 市中心)))
+	     (VP (NP-TMP (NT １２月)
+			 (NT ３０日))
+		 (VP (VV 发生)
+		     (NP-OBJ (NN 武装)
+			     (NN 冲突)))))
+	 (PU ，)
+	 (IP (NP-SBJ (-NONE- *pro*))
+	     (VP (VV 造成)
+		 (IP-OBJ (IP (NP-SBJ (QP (CD ５))
+				     (NP (NN 人)))
+			     (VP (VV 死亡)))
+			 (PU ，)
+			 (IP (NP-SBJ (QP (CD ４))
+				     (NP (NN 人)))
+			     (VP (VV 受伤))))))
+	 (PU 。)))
+</S>
+</P>
+<P>
+<S ID=8903>
+( (IP (PP-MNR (P 据)
+	      (IP (NP-PN-SBJ (NR 中亚)
+			     (NN 国际)
+			     (NN 文传社))
+		  (VP (VP (VV 援引)
+			  (NP-OBJ (DNP (NP (NP-PN (NR 塔)
+						  (NN 内务部))
+					   (NP (NN 官员)))
+				       (DEG 的))
+				  (NP (NN 话))))
+		      (VP (VV 报道)))))
+      (PU ，)
+      (NP-SBJ (DNP (NP (NP-PN (NR 塔))
+		       (NP (NN 反对派)
+			   (NN 武装)
+			   (NN 部队)))
+		   (DEG 的))
+	      (QP (CD 两)
+		  (CLP (M 名)))
+	      (NP (NN 军官)))
+      (VP (NP-TMP (NT ３０日))
+	  (VP (VP (VV 应邀))
+	      (VP (PP (P 同)
+		      (NP (NP-APP (NP-PN (NN 民族)
+					 (NN 和解)
+					 (NN 委员会))
+				  (NP (NN 主席)))
+			  (NP-PN (NR 努里))))
+		  (VP (VP (VV 会晤))
+		      (PU ，)
+		      (VP (PP (P 就)
+			      (NP (IP-APP (NP-TMP (NP (DP (DT 本))
+						      (NP (NN 月)))
+						  (NP (NT ２４日)))
+					  (NP-SBJ (QP (CD 两)
+						      (CLP (M 名)))
+						  (NP (NN 反对派)
+						      (NN 武装)
+						      (NN 成员)))
+					  (VP (SB 被)
+					      (VP (VV 杀))))
+				  (QP (CD 一))
+				  (NP (NN 事))))
+			  (VP (VV 进行)
+			      (NP-OBJ (NN 磋商))))))))
+      (PU 。)))
+</S>
+<S ID=8904>
+( (IP (ADVP (AD 但))
+      (LCP-TMP (IP (NP-SBJ (NN 会晤))
+		   (VP (VV 结束)))
+	       (LC 后))
+      (PU ，)
+      (IP (IP (NP-SBJ (DP (DT 这)
+			  (QP (CD 两)
+			      (CLP (M 名))))
+		      (NP (NN 军官)))
+	      (VP (PP-LOC (P 在)
+			  (NP (NN 民族)
+			      (NN 和解)
+			      (NN 委员会)
+			      (NN 大楼)
+			      (NN 门前)))
+		  (VP (VV 发生)
+		      (NP-OBJ (NN 争吵)))))
+	  (PU ，)
+	  (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (ADVP (AD 并))
+		  (VP (VP (VV 导致)
+			  (IP-OBJ (NP-SBJ (NP (PN 双方))
+					  (ADJP (JJ 随行))
+					  (NP (NN 人员)))
+				  (VP (ADVP (AD 当场))
+				      (VP (VV 交火)))))
+		      (PU ，)
+		      (VP (VV 造成)
+			  (NP-OBJ (NN 流血)
+				  (NN 事件)))))))
+      (PU 。)))
+</S>
+</P>
+<P>
+<S ID=8905>
+( (IP (NP-SBJ (NP-PN (NR 塔吉克斯坦))
+	      (NP (NN 当局)))
+      (VP (ADVP (AD 正在))
+	  (PP-DIR (P 对)
+		  (NP (NN 事件)
+		      (NN 原因)))
+	  (VP (VV 进行)
+	      (NP-OBJ (NN 调查))))
+      (PU 。)))
+</S>
+<S ID=8906>
+( (FRAG (PU （)
+	(VV 完)
+	(PU ）)))
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

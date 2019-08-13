@@ -1,0 +1,730 @@
+<su id=p1su1>
+
+
+( (IP (NP-TPC (NN 80后))
+      (PU ，)
+      (NP-SBJ (NN 经济))
+      (VP (ADVP (AD 不))
+	  (VP (PU “)
+	      (VV 裸奔)
+	      (PU ”)))
+      (PU ，)) ) 
+
+<su id=p1su2>
+
+
+( (IP (IP (NP-TMP (NT 如今))
+	  (PU ，)
+	  (NP-SBJ (PU “)
+		  (NN 80后)
+		  (PU ”))
+	  (VP (ADVP (AD 已经))
+	      (VP (VV 走上)
+		  (NP-OBJ (NN 工作)
+			  (NN 岗位)))))
+      (PU ，)
+      (IP (LCP-SBJ (NP (NN 事业))
+		   (LC 上))
+	  (VP (ADVP (AD 正))
+	      (VP (VV 处于)
+		  (NP-OBJ (ADJP (JJ 稳定))
+			  (NP (NN 上升期))))))
+      (PU ，)
+      (IP (ADVP (CC 但))
+	  (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *pro*))
+			      (VP (VV 面对)
+				  (NP-OBJ (-NONE- *T*-1))))
+			  (DEC 的)))
+		  (NP (NP (NN 社会)
+			  (CC 和)
+			  (NN 家庭))
+		      (NP (NN 压力))))
+	  (VP (ADVP (AD 较))
+	      (VP (VA 大))))
+      (PU 。)) ) 
+
+<su id=p1su3>
+
+
+( (IP (PP-ADV (P 随着)
+	      (NP (DNP (NP (NN 年龄))
+		       (DEG 的))
+		  (NP (NN 增长))))
+      (PU ，)
+      (IP-SBJ (NP-SBJ (-NONE- *pro*))
+	      (VP (VP (VV 组建)
+		      (NP-OBJ (NN 家庭)))
+		  (PU ，)
+		  (VP (VV 生育)
+		      (NP-OBJ (NN 子女)))))
+      (PU ，)
+      (VP (ADVP (AD 都))
+	  (ADVP (AD 将))
+	  (ADVP (AD 逐渐))
+	  (VP (VV 走近)
+	      (NP-OBJ (DNP (NP (PU “)
+			       (NN 80后)
+			       (PU ”))
+			   (DEG 的))
+		      (NP (NN 视野)))))
+      (PU 。)) ) 
+
+<su id=p1su4>
+
+
+( (IP (IP-SBJ (IP (NP-TMP (NN 工作)
+			  (NN 初期))
+		  (PU ，)
+		  (IP (NP-SBJ (NN 收入))
+		      (VP (ADVP (AD 不))
+			  (VP (VA 高)))))
+	      (PU ，)
+	      (IP (NP-SBJ (NN 花费))
+		  (VP (VE 无)
+		      (VP-OBJ (NN 节制)))))
+      (VP (VC 是)
+	  (NP-PRD (NP (PU “)
+		      (NN 80后)
+		      (PU ”))
+		  (ADJP (JJ 真实))
+		  (NP (NN 写照))))
+      (PU ，)) ) 
+
+<su id=p1su5>
+
+
+( (IP (IP (LCP-SBJ (NP (PN 他们))
+		   (LC 中))
+	  (VP (ADVP (AD 多))
+	      (VP (VC 是)
+		  (NP-PRD (PU “)
+			  (NN 月光族)
+			  (PU ”)))))
+      (PU ，)
+      (IP (QP-SBJ (CD 很多))
+	  (VP (VV 沦为)
+	      (PU “)
+	      (NP-OBJ (NN 卡奴))
+	      (PU ”)))
+      (PU 。)) ) 
+
+<su id=p1su6>
+
+
+( (IP (NP-SBJ (DNP (NP (NN 理财)
+		       (NN 规划师))
+		   (DEG 的))
+	      (NP (NN 建议)))
+      (VP (VC 是)
+	  (IP-PRD (IP (NP-SBJ (-NONE- *pro*))
+		      (VP (VV 摆脱)
+			  (NP-OBJ (PU “)
+				  (NN 月光族)
+				  (PU ”))))
+		  (PU ，)
+		  (IP (NP-SBJ (NN 理财))
+		      (VP (PP-DIR (P 从)
+				  (NP (ADJP (JJ 强制))
+				      (NP (NN 储蓄))))
+			  (VP (VV 开始))))))
+      (PU 。)) ) 
+
+<su id=p1su7>
+
+
+( (IP (NP-SBJ (PU “)
+	      (NN 80后)
+	      (PU ”))
+      (VP (VP (ADVP (AD 首先))
+	      (VP (VV 应该)
+		  (VP (VV 确立)
+		      (NP-OBJ (DNP (NP (NN 理财))
+				   (DEG 的))
+			      (NP (NN 观念))))))
+	  (PU ，)
+	  (VP (PP-DIR (P 从)
+		      (NP (ADJP (JJ 强制))
+			  (NP (NN 储蓄))))
+	      (VP (VV 开始))))
+      (PU ，)
+      (PRN (NP (ADVP (AD 例如))
+	       (NP (NP-PN (NR 中航)
+			  (NR 三星))
+		   (NP (NN 银保)
+		       (NN 理财险)))))
+      (PU 。)) ) 
+
+<su id=p1su8>
+
+
+( (IP (IP (PP-TMP (P 在)
+		  (LCP (IP (NP-SBJ (NN 市场))
+			   (VP (ADVP (AD 不))
+			       (VP (VA 景气))))
+		       (LC 时)))
+	  (PU ，)
+	  (NP-SBJ (NP (NN 中长期))
+		  (ADJP (JJ 投资型))
+		  (NP (NN 保险)))
+	  (VP (VV 可以)
+	      (VP (VV 实现)
+		  (NP-OBJ (NN 保底)
+			  (NN 收益)))))
+      (PU ，)
+      (IP (ADVP (CC 而且))
+	  (IP (IP (NP-SBJ (NN 风险))
+		  (VP (VA 小)))
+	      (PU ，)
+	      (IP (NP-SBJ (NN 技术)
+			  (NN 门槛))
+		  (VP (VA 低)))))
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (PP-BNF (P 为)
+		      (NP (CP (WHNP-1 (-NONE- *OP*))
+			      (CP (IP (NP-SBJ (-NONE- *T*-1))
+				      (VP (ADVP (AD 刚))
+					  (VP (VV 步入)
+					      (NP-OBJ (NN 工作)
+						      (NN 岗位)))))
+				  (DEC 的)))
+			  (NP (PU “)
+			      (NN 80后)
+			      (PU ”))))
+	      (VP (VV 提供)
+		  (AS 了)
+		  (NP-OBJ (QP (CD 一)
+			      (CLP (M 种)))
+			  (CP (WHNP-2 (-NONE- *OP*))
+			      (CP (IP (NP-SBJ (-NONE- *T*-2))
+				      (VP (VA 良好)))
+				  (DEC 的)))
+			  (NP (DNP (NP (ADJP (JJ 强制))
+				       (NP (NN 储蓄)))
+				   (DEG 的))
+			      (NP (NN 方式)))))))
+      (PU 。)) ) 
+
+<su id=p1su9>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 还))
+	  (VP (VV 要)
+	      (VP (VV 摆脱)
+		  (NP-OBJ (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+				      (VP (VV 保障)
+					  (PU “)
+					  (NP-OBJ (NN 裸奔))
+					  (PU ”)))
+				  (DEC 的))
+			  (NP (NN 状态))))))
+      (PU 。)) ) 
+
+<su id=p1su10>
+
+
+( (IP (NP-SBJ (QP (CD 很多))
+	      (NP (PU “)
+		  (NN 80后)
+		  (PU ”)))
+      (VP (VV 认为)
+	  (IP-OBJ (IP (NP-SBJ (PN 自己))
+		      (VP (VA 年轻)))
+		  (PU ，)
+		  (IP (NP-SBJ (NN 保险))
+		      (VP (PP-ADV (P 离)
+				  (NP (PN 自己)))
+			  (ADVP (AD 很))
+			  (VP (VA 远))))))
+      (PU 。)) ) 
+
+<su id=p1su11>
+
+
+( (IP (ADVP (AD 其实))
+      (PU ，)
+      (NP-SBJ (NN 年轻人))
+      (VP (ADVP (AD 同样))
+	  (VP (VV 需要)
+	      (NP-OBJ (NP (NN 疾病)
+			  (CC 和)
+			  (NN 意外))
+		      (NP (NN 保障)))))
+      (PU ，)) ) 
+
+<su id=p1su12>
+
+
+( (IP (IP (PP-ADV (P 除了)
+		  (LCP (NP (CP (WHNP-1 (-NONE- *OP*))
+			       (CP (IP (NP-SBJ (NN 企业))
+				       (VP (VV 提供)
+					   (NP-OBJ (-NONE- *T*-1))))
+				   (DEC 的)))
+			   (NP (PU “)
+			       (NP (QP (CD 五))
+				   (NP (NN 险)))
+			       (NP (QP (CD 一))
+				   (NP (NN 金)))
+			       (PU ”)))
+		       (LC 外)))
+	  (PU ，)
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 还))
+	      (VP (VV 应该)
+		  (VP (VV 购买)
+		      (NP-OBJ (NP (QP (CD 一些))
+				  (NP (NN 短期))
+				  (NP (NN 意外险)))
+			      (CC 和)
+			      (NP (ADJP (JJ 定期))
+				  (NP (NN 寿险))))))))
+      (PU ，)
+      (IP (NP-SBJ (NN 费用))
+	  (VP (ADVP (AD 并))
+	      (ADVP (AD 不))
+	      (VP (VA 高))))
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (QP-ADV (QP (CD 一)
+			  (CLP (M 年)))
+		      (QP (QP (CD 几百)
+			      (CLP (M 元)))
+			  (CC 或者)
+			  (QP (CD 千)
+			      (CLP (M 元)))))
+	      (ADVP (AD 就))
+	      (VP (VV 可以)
+		  (VP (VV 获得)
+		      (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+				  (CP (IP (NP-SBJ (-NONE- *T*-2))
+					  (VP (ADVP (AD 较))
+					      (VP (VA 高))))
+				      (DEC 的)))
+			      (NP (NN 保障)))))))
+      (PU 。)) ) 
+
+<su id=p1su13>
+
+
+( (IP (CP-CND (ADVP (CS 如果))
+	      (IP (NP-SBJ (-NONE- *pro*))
+		  (VP (VE 有)
+		      (NP-OBJ (NN 经济)
+			      (NN 能力)))))
+      (PU ，)
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 还))
+	  (VP (VV 可以)
+	      (VP (VV 考虑)
+		  (NP-OBJ (NP (NN 证券)
+			      (NN 投资))
+			  (CC 或)
+			  (NP (DP (DT 其他))
+			      (DNP (NP (NN 投资)
+				       (NN 理财型))
+				   (DEG 的))
+			      (NP (NN 保险)))))))
+      (PU 。)) ) 
+
+<su id=p2su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VE 有)
+	  (NP-OBJ (NN 道理)))
+      (PU ，)) ) 
+
+<su id=p2su2>
+
+
+( (IP (NP-SBJ (PN 我))
+      (VP (VP (VE 没)
+	      (NP-OBJ (DP (DT 什么))
+		      (ADJP (JJ 大))
+		      (NP (NN 钱))))
+	  (PU ，)
+	  (VP (ADVP (AD 只是))
+	      (PP-MNR (P 凭着)
+		      (NP (DNP (NP (PN 自己))
+			       (DEG 的))
+			  (NP (NN 工资)
+			      (NN 收入))))
+	      (PU ，)
+	      (VP (VV 上)
+		  (AS 了)
+		  (NP-OBJ (NP (NN 理财险)
+			      (CC 和)
+			      (NN 基金))
+			  (NP (NN 定投))))))
+      (PU ，)) ) 
+
+<su id=p2su3>
+
+
+( (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+	      (VP (ADVP (AD 甭))
+		  (VP (VP (VV 管)
+			  (IP-OBJ (NP-SBJ (NN 钱))
+				  (VP (VV 多少)))))))
+      (PU ，)
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 先))
+	  (VP (VV 培养)
+	      (NP-OBJ (DNP (NP (PN 自己))
+			   (DEG 的))
+		      (NP (NN 理财)
+			  (NN 习惯)))))
+      (PU 。)) ) 
+
+<su id=p3su1>
+
+
+( (UCP (IP (NP-TMP (DP (DT 每)
+		       (CLP (M 个)))
+		   (NP (NN 月)))
+	   (NP-SBJ (NN 钱))
+	   (VP (ADVP (AD 就))
+	       (ADVP (AD 那么))
+	       (VP (QP-PRD (CLP (M 点))))))
+       (PU ，)
+       (CP (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+		       (VP (ADVP (AD 随便))
+			   (VP (VV 花花))))
+	       (NP-SBJ (-NONE- *pro*))
+	       (VP (ADVP (AD 就))
+		   (VP (VE 没有))))
+	   (SP 啦))
+       (PU 。)) ) 
+
+<su id=p4su1>
+
+
+( (IP (IP (NP-SBJ (NN 钱))
+	  (VP (ADVP (AD 总是))
+	      (IP-ADV (NP-SBJ (-NONE- *pro*))
+		      (VP (ADVP (AD 越))
+			  (VP (VV 挣))))
+	      (VP (ADVP (AD 越))
+		  (VP (VA 多)))))
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 所以))
+	      (ADVP (AD 一))
+	      (ADVP (AD 开始))
+	      (ADVP (AD 就))
+	      (VP (VV 要)
+		  (VP (VV 养成)
+		      (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+				  (CP (IP (NP-SBJ (-NONE- *T*-1))
+					  (VP (VA 良好)))
+				      (DEC 的)))
+			      (NP (NN 消费)
+				  (NN 习惯)))))))
+      (PU 。)) ) 
+
+<su id=p5su1>
+
+
+( (CP (INTJ (IJ 呵呵))
+      (CP (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (VC 是)
+		  (NP-PRD (PN 这样))))
+	  (SP 的))
+      (CP (IP (NP-SBJ (PN 谁))
+	      (VP (ADVP (AD 都))
+		  (ADVP (AD 不))
+		  (VP (VV 会)
+		      (VP (VV 说)
+			  (IP-OBJ (NP-SBJ (NN 钱))
+				  (VP (VA 少)))))))
+	  (SP 的))) ) 
+
+<su id=p6su1>
+
+
+( (IP (ADVP (AD 9)
+	    (VC 4)
+	    (AD 9)
+	    (VC 4))
+      (PU ，)
+      (IP (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 说)
+		  (IP-OBJ (NP-SBJ (-NONE- *pro*))
+			  (VP (ADVP (AD 不))
+			      (VP (VV 希望)
+				  (IP-OBJ (NP-SBJ (-NONE- *pro*))
+					  (VP (VE 有)
+					      (NP-OBJ (NN 钱)))
+					  (SP 了)))))))
+	  (PU ，)
+	  (IP (ADVP (CC 但是))
+	      (IP-SBJ (NP (NP (NN 钱))
+			  (FLR (SP 吗)))
+		      (PU ，)
+		      (VP (ADVP (AD 够))
+			  (VP (VV 花))))
+	      (VP (ADVP (AD 就))
+		  (VP (VV 可以)))
+	      (SP 了)))) ) 
+
+<su id=p7su1>
+
+
+( (IP (NP-SBJ (PN 我))
+      (VP (ADVP (AD 都))
+	  (VP (VC 是)
+	      (VP (VV 裸婚))))
+      (SP 了)
+      (PU ，，，，，，，)) ) 
+
+<su id=p8su1>
+
+
+( (CP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VNV (VV 能)
+		   (AD 不)
+		   (VV 能))
+	      (VP (VRD (VV 白送)
+		       (VV 给))
+		  (NP-OBJ (QP (CD 一)
+			      (CLP (M 份)))
+			  (NP (NN 保险))))))
+      (SP 呀)) ) 
+
+<su id=p9su1>
+
+
+( (IP (NP-TPC-1 (NN 保险))
+      (PU ，)
+      (INTJ (IJ 哈哈))
+      (PU ，)
+      (NP-SBJ (PN 我))
+      (VP (ADVP (AD 不))
+	  (VP (VV 想)
+	      (NP-OBJ (-NONE- *T*-1))))
+      (SP 了)
+      (PU ，)
+      (PP-PRP (P 因为)
+	      (IP (NP-SBJ (PN 我))
+		  (VP (VC 是)
+		      (NP-PRD (NN 月光族)))))) ) 
+
+<su id=p10su1>
+
+
+( (IP (IP (IP-SBJ (NP-SBJ (-NONE- *pro*))
+		  (VP (VV 赚)
+		      (NP-OBJ (NN 钱))))
+	  (VP (ADVP (AD 才))
+	      (VP (VC 是)
+		  (NP-PRD (ADJP (JJ 硬))
+			  (NP (NN 道理))))))
+      (PU ，)
+      (IP (NP-SBJ (NN 实力))
+	  (VP (VV 说话)))) ) 
+
+<su id=p11su1>
+
+
+( (CP-IMP (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 帮)
+		  (NP-OBJ (NN 楼主))
+		  (ADVP-EXT (AD 一下))))
+	  (SP 吧)) ) 
+
+<su id=p12su1>
+
+
+( (IP (IP (NP-TPC-1 (NN 保险))
+	  (PU ，)
+	  (NP-SBJ (PN 我))
+	  (VP (VV 买)
+	      (AS 了)
+	      (NP-OBJ (QP (CD 好多)
+			  (CLP (M 份)))
+		      (NP (-NONE- *T*-1))))
+	  (SP 了))
+      (PU ，)
+      (IP (DP-TMP (DT 每)
+		  (CLP (M 年)))
+	  (NP-SBJ (NN 保费))
+	  (VP (ADVP (AD 就))
+	      (VP (QP-PRD (CD 一万多)))))) ) 
+
+<su id=p13su1>
+
+
+( (IP (INTJ (IJ 哈哈))
+      (PU ，)
+      (NP-SBJ (PN 我))
+      (VP (VP (VC 是)
+	      (NP-PRD (NN 90后)))
+	  (PU ，)
+	  (VP (ADVP (AD 不))
+	      (VP (VV 想))))) ) 
+
+<su id=p14su1>
+
+
+( (IP (IP (NP-SBJ (DNP (NP (NN 楼主))
+		       (DEG 的))
+		  (NP (NN 提议)))
+	  (VP (VA 不错)))
+      (PU ，)
+      (IP (NP-SBJ (NN 啃老族))
+	  (VP (VV 可以)
+	      (VP (VV 考虑))))) ) 
+
+<su id=p15su1>
+
+
+( (IP (NP-TMP (NT 周末))
+      (ADVP (AD 就是))
+      (NP-SBJ (NN 朋友))
+      (VP (VA 多))
+      (PU ，)) ) 
+
+<su id=p15su2>
+
+
+( (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		  (CP (IP (NP-SBJ (-NONE- *T*-1))
+			  (VP (PP-DIR (P 对)
+				      (NP (NN 理财)))
+			      (VP (VV 感)
+				  (NP-OBJ (NN 兴趣)))))
+		      (DEC 的)))
+	      (NP (NN 人)))
+      (VP (ADVP (AD 也))
+	  (VP (VA 不少)))) ) 
+
+<su id=p16su1>
+
+
+( (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 看)
+		  (AS 了)
+		  (NP-OBJ (DNP (NP (NN 楼主))
+			       (DEG 的))
+			  (NP (NN 帖子)))))
+      (PU ，)
+      (NP-TPC-1 (NN 保险))
+      (NP-SBJ (-NONE- *pro*))
+      (VP (VV 应该)
+	  (VP (VV 考虑)
+	      (NP-OBJ (-NONE- *T*-1))
+	      (ADVP-EXT (AD 一下))))
+      (PU 。。。)) ) 
+
+<su id=p17su1>
+
+
+( (IP (INTJ (IJ 哈哈))
+      (PU ，)
+      (NP-TMP (NT 周末))
+      (NP-SBJ (PN 我))
+      (VP (VV 要)
+	  (VP (VSB (VV 出去)
+		   (VV 玩))))
+      (SP 了)) ) 
+
+<su id=p18su1>
+
+
+( (UCP (CP (IP (NP-SBJ (-NONE- *pro*))
+	       (VP (VA 厉害)))
+	   (SP 呀))
+       (PU ，)
+       (IP (NP-SBJ (PN 我))
+	   (VP (QP-TMP (CD 一)
+		       (CLP (M 年)))
+	       (ADVP (AD 才))
+	       (VP (VV 收入)
+		   (QP-OBJ (CD 1万多)))))) ) 
+
+<su id=p19su1>
+
+
+( (CP (IP (NP-VOC (NN 楼主))
+	  (PU ，)
+	  (NP-SBJ (PN 你))
+	  (VP (VC 是)
+	      (NP-PRD (NN 保险)
+		      (NN 专家))))
+      (SP 呀)
+      (PU ！！！)) ) 
+
+<su id=p20su1>
+
+
+( (CP (IP (NP-SBJ (NN 钱))
+	  (PU ，)
+	  (VP (ADVP (AD 就))
+	      (PP (P 象)
+		  (NP-OBJ (NN 时间)))
+	      (PU ，)
+	      (IP-ADV (NP-SBJ (-NONE- *pro*))
+		      (VP (VV 挤挤)))
+	      (ADVP (AD 总))
+	      (ADVP (AD 还是))
+	      (VP (VE 有))))
+      (SP 的)) ) 
+
+<su id=p21su1>
+
+
+( (CP (CP (IP (NP-SBJ (PN 我))
+	      (VP (ADVP (AD 也))
+		  (VP (VV 想)
+		      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			      (VP (VV 理财))))))
+	  (SP 呀))
+      (PU ，)
+      (CP (IP (ADVP (CC 可是))
+	      (NP-TPC-1 (NN 钱))
+	      (NP-SBJ (-NONE- *pro*))
+	      (VP (NP-LOC (PN 哪里))
+		  (VP (VV 挣)
+		      (NP-OBJ (-NONE- *T*-1)))))
+	  (SP 呀))) ) 
+
+<su id=p22su1>
+
+
+( (UCP (IP (NP-SBJ (-NONE- *pro*))
+	   (VP (VRD (VV 顶)
+		    (VV 上去))))
+       (PU ，)
+       (CP (IP (NP-SBJ (-NONE- *pro*))
+	       (VP (ADVP (AD 太))
+		   (VP (VA 讨厌)))
+	       (SP 了))
+	   (SP 哦))) ) 
+
+<su id=p22su2>
+
+
+( (IP (NP-TPC (DP (DT 整)
+		  (CLP (M 个)))
+	      (NP (NN 社会)))
+      (NP-SBJ (NN 诚信度))
+      (VP (ADVP (AD 太))
+	  (VP (VA 低)))
+      (SP 了)
+      (PU ！))) 
+
+<su id=p23su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VA 不错)))
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 要)
+	      (VP (VV 开始)
+		  (VP (VV 学)
+		      (NP-OBJ (NN 理财))))))) ) 
+

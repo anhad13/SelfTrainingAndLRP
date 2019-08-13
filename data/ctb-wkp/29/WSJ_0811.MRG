@@ -1,0 +1,144 @@
+<su id=p1su1>
+
+
+( (IP (NP-SBJ (PN 谁))
+      (VP (ADVP (AD 将))
+	  (VP (VV 当)
+	      (NP-OBJ (NP-PN (NR 台湾))
+		      (NP (NN 总统)))))) ) 
+
+<su id=p1su2>
+
+
+( (IP (NP-SBJ (DNP (NP (PN 我))
+		   (DEG 的))
+	      (NP (NN 看法)))
+      (VP (VV 如下)
+	  (PU ：)
+	  (IP-OBJ (IP (NP-PN-SBJ (NR 宋楚瑜))
+		      (PU ——)
+		      (VP (VP (ADVP (AD 逐渐))
+			      (VP (VV 飞走)))
+			  (VP (VSB (VV 引退)
+				   (VV 休养))))
+		      (PU 。))
+		  (IP (NP-PN-SBJ (NR 蔡英文))
+		      (PU ——)
+		      (VP (VP (ADVP (AD 被迫))
+			      (VP (VV 缩头)))
+			  (VP (ADVP (AD 难))
+			      (VP (VV 成)
+				  (NP-OBJ (NN 大器))))))
+		  (PU 。)
+		  (IP (NP-PN-SBJ (NR 马英九))
+		      (PU ——)
+		      (VP (VP (ADVP (AD 长期))
+			      (VP (VV 论辩)))
+			  (VP (ADVP (AD 先))
+			      (VP (VA 差)))
+			  (VP (ADVP (AD 后))
+			      (VP (VA 好)))
+			  (PU ，)
+			  (VP (VP (VV 择)
+				  (NP-OBJ (NN 机)))
+			      (VP (MSP 而)
+				  (VP (VV 出))))
+			  (VP (VV 取得)
+			      (NP-OBJ (NN 连任)))))))
+      (PU 。)) ) 
+
+<su id=p2su1>
+
+
+( (IP-Q (NP-SBJ (PN 我))
+	(VP (VV 想)
+	    (PU ，)
+	    (CP-OBJ (IP (NP-SBJ (DNP (NP-PN (NR 台湾))
+				     (DEG 的))
+				(NP (NN 老百姓)))
+			(VP (ADVP (AD 不))
+			    (VP (VC 是)
+				(ADVP (AD 都))
+				(NP-PRD (NN 傻瓜)))))
+		    (SP 吧)))
+	(PU ？)) ) 
+
+<su id=p4su1>
+
+
+( (IP (ADVP (AD 最好))
+      (NP-PN-SBJ (NR 蔡英文))
+      (VP (VV 当选))
+      (PU 。)) ) 
+
+<su id=p4su2>
+
+
+( (IP (CP-CND (ADVP (CS 如果))
+	      (IP (NP-SBJ (-NONE- *pro*))
+		  (VP (VV 连任)
+		      (QP-EXT (ADVP (AD 共))
+			      (QP (CD 八)
+				  (CLP (M 年)))))))
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 更))
+	  (VP (VA 好)))
+      (PU 。)) ) 
+
+<su id=p4su3>
+
+
+( (IP (IP-SBJ (NP-SBJ (-NONE- *pro*))
+	      (VP (ADVP (AD 重))
+		  (VP (VV 蹈)
+		      (NP-OBJ (NP-PN (NR 阿扁))
+			      (DNP (QP (CD 八)
+				       (CLP (M 年)))
+				   (DEG 之))
+			      (NP (NN 路))))))
+      (VP (ADVP (AD 将))
+	  (VP (VV 会)
+	      (VP (VV 使)
+		  (NP-OBJ (NP-PN (NR 台湾))
+			  (NP (NN 人民)))
+		  (IP (NP-SBJ (-NONE- *PRO*))
+		      (VP (ADVP (AD 更加))
+			  (VP (VV 知道)
+			      (IP-OBJ (NP-SBJ (DNP (NP (NN 台独))
+						   (DEG 之))
+					      (NP (NN 路)))
+				      (VP (ADVP (AD 不))
+					  (VP (VV 通))))))))))
+      (PU 。)) ) 
+
+<su id=p5su1>
+
+
+( (IP (NP-SBJ (PN 我))
+      (VP (VV 认为)
+	  (PU ，)
+	  (IP-OBJ (PP-TMP (P 在)
+			  (NP (DP (DT 下)
+				  (CLP (M 届)))
+			      (NP (NP-PN (NR 台湾))
+				  (NP (NN 总统)))
+			      (NP (NN 任职)
+				  (NN 期内))))
+		  (PU ，)
+		  (NP-PN-SBJ (NR 中国))
+		  (VP (VPT (VV 统一)
+			   (AD 不)
+			   (VV 了))
+		      (NP-PN-OBJ (NR 台湾)))))
+      (PU 。)) ) 
+
+<su id=p6su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 也许))
+	  (VP (VV 冲出)
+	      (NP-OBJ (QP (CD 一)
+			  (CLP (M 匹)))
+		      (NP (NN 黑马)))))) ) 
+

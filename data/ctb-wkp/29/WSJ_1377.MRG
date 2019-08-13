@@ -1,0 +1,258 @@
+<su id=p1su1>
+
+
+( (IP (NP-SBJ (NN 学校))
+      (VP (VV 需要)
+	  (NP-OBJ (DP (DT 什么))
+		  (NP (NN 人))))) ) 
+
+<su id=p1su2>
+
+
+( (IP-IMP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 不))
+	      (VP (VV 要)
+		  (VP (VV 说)
+		      (IP-OBJ (NP-SBJ (PN 自己))
+			      (VP (VC 是)
+				  (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+					      (CP (IP (NP-SBJ (-NONE- *T*-1))
+						      (VP (VV 搞)
+							  (NP-OBJ (NN 教育))))
+						  (DEC 地)))))))))
+	  (PU 。)) ) 
+
+<su id=p1su3>
+
+
+( (IP (IP (NP-TPC-1 (NN 教育))
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 没))
+	      (VP (VV 搞好)
+		  (NP-OBJ (-NONE- *T*-1)))))
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 才))
+	      (VP (VP (VV 出现)
+		      (NP-PN-OBJ (NR 郭美美)))
+		  (PU ，)
+		  (VP (VV 出现)
+		      (NP-OBJ (DP (DT 各)
+				  (CLP (M 种)))
+			      (CP-APP (WHNP (-NONE- *OP*))
+				      (CP (IP (NP-SBJ (-NONE- *pro*))
+					      (VP (VV 危害)
+						  (NP-OBJ (NN 青少年))))
+					  (DEC 地)))
+			      (NP (NN 事件)))))))
+      (PU ，)
+      (IP (ADVP (AD 连))
+	  (NP-SBJ (QP (CD 一)
+		      (CLP (M 个)))
+		  (ADJP (JJ 著名))
+		  (NP (NN 导演)))
+	  (PU ，)
+	  (VP (ADVP (AD 都))
+	      (VP (VC 是)
+		  (NP-PRD (NN 流氓)))))
+      (PU ，)
+      (IP (NP-SBJ (PN 他们))
+	  (VP (ADVP-WH (AD 为什么))
+	      (ADVP (AD 不))
+	      (VP (VV 进)
+		  (NP-OBJ (NN 监狱)))))
+      (PU ，)
+      (CC 而)
+      (IP (NP-SBJ (NN 国家))
+	  (VP (VP (ADVP (AD 依然))
+		  (VP (VV 出钱)))
+	      (VP (VV 让)
+		  (NP-OBJ (PN 他们))
+		  (IP (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 拍摄)
+			  (NP (DNP (ADJP (JJ 所谓))
+				   (DEG 地))
+			      (NP (NN 电影)
+				  (PU ，)
+				  (NN 电视剧))))))))
+      (PU ！)) ) 
+
+<su id=p1su4>
+
+
+( (IP (CP-CND (ADVP (CS 如果))
+	      (IP (NP-TPC-1 (NN 教育))
+		  (NP-SBJ (-NONE- *pro*))
+		  (VP (VV 搞)
+		      (DER 地)
+		      (VP (VA 好))
+		      (NP-OBJ (-NONE- *T*-1)))))
+      (PU ，)
+      (NP-SBJ (DP (DT 这)
+		  (CLP (M 个)))
+	      (NP (NN 国家)))
+      (VP (ADVP (AD 就))
+	  (VP (VV 拥有)
+	      (NP-OBJ (NN 希望))))
+      (SP 了)
+      (PU 。)) ) 
+
+<su id=p1su5>
+
+
+( (IP (NP-SBJ (NN 影视)
+	      (PU ，)
+	      (NN 书籍))
+      (VP (VV 污染)
+	  (NP-OBJ (PN 别人)))) ) 
+
+<su id=p1su6>
+
+
+( (IP (IP-IMP (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 看)
+		  (IP-OBJ (IP (NP-SBJ (NN 教授))
+			      (VP (VV 贪污)))
+			  (PU 。)
+			  (IP (NP-SBJ (-NONE- *pro*))
+			      (VP (NP-LOC (NN 街面))
+				  (ADVP (AD 随意))
+				  (VP (VV 骂人)))))))
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 还))
+	      (VP (VE 有)
+		  (NP-OBJ (NP (NN 教师))
+			  (NP (NN 师德))
+			  (NP (NN 问题))))))
+      (PU 。)) ) 
+
+<su id=p1su7>
+
+
+( (CP (IP (NP-SBJ (PN 你))
+	  (VP (VV 感觉)
+	      (IP-OBJ (NP-SBJ (PN 你))
+		      (VP (ADVP (AD 还))
+			  (VP (VC 是)
+			      (NP-PRD (NN 教师)))))))
+      (SP 吗)) ) 
+
+<su id=p1su8>
+
+
+( (IP (NP-SBJ (NN 国内))
+      (VP (VP (VV 需要)
+	      (VP (VP (VV 治理)
+		      (NP-OBJ (ADJP (JJ 冷血))
+			      (NP (NN 动物))))))
+	  (PU ，)
+	  (CC 而)
+	  (CC 不)
+	  (CC 是)
+	  (VP (VV 培养)
+	      (NP-OBJ (NN 教师))))
+      (PU 。)) ) 
+
+<su id=p1su9>
+
+
+( (UCP (IP (NP-SBJ (DP (DT 有些))
+		   (NP (NN 人)))
+	   (PU ，)
+	   (VP (ADVP (AD 原本))
+	       (ADVP (AD 不))
+	       (VP (VV 适合)
+		   (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			   (VP (NP-ADV (NN 一生))
+			       (VP (VV 做)
+				   (NP-OBJ (NN 教师))))))))
+       (PU ，)
+       (CP (IP (NP-SBJ (PN 她们))
+	       (VP (ADVP (AD 不过))
+		   (VP (VC 是)
+		       (VP (VRD (VV 混迹)
+				(VV 去))))))
+	   (SP 罢了))
+       (PU ！！)) ) 
+
+<su id=p2su1>
+
+
+( (UCP (IP (NP-SBJ (NN 成人))
+	   (VP (VV 温暖)
+	       (NP-OBJ (ADJP (JJ 孤独))
+		       (NP (NN 老人)))))
+       (PU ，)
+       (DFL (DT 那些))
+       (NP-Q (NP (NP (ADJP (JJ 贫困))
+		     (NP (NP (NN 山区))
+			 (PU ，)
+			 (NP (NN 乡村))))
+		 (PU ，)
+		 (NP (DP (DT 那些))
+		     (NP (NN 孩子们))))
+	     (SP 呢))
+       (PU ？)) ) 
+
+<su id=p2su2>
+
+
+( (UCP-Q (IP (NP-TPC-1 (DNP (NP (PN 她们))
+			    (DEG 的))
+		       (NP (NN 利益)))
+	     (NP-WH-SBJ (PN 谁))
+	     (VP (VV 来)
+		 (VP (VV 保护)
+		     (NP-OBJ (-NONE- *T*-1)))))
+	 (PU ？)
+	 (NP-Q (NP (NN 学校))
+	       (SP 吗))
+	 (PU ？)) ) 
+
+<su id=p2su3>
+
+
+( (CP-Q (IP (NP-SBJ (DP (DT 所有))
+		    (NP (NN 人)))
+	    (VP (VP (ADVP (AD 就))
+		    (VP (VE 没有)
+			(NP-OBJ (NN 爱心))))
+		(CC 和)
+		(VP (VV 失去)
+		    (NP-OBJ (NN 爱心)))))
+	(SP 吗)
+	(PU ？)) ) 
+
+<su id=p3su1>
+
+
+( (IP (NP-SBJ (NN 学校))
+      (VP (VC 是)
+	  (VP (VV 需要)
+	      (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+			  (CP (IP (NP-SBJ (-NONE- *T*-1))
+				  (VP (VV 忠诚于)
+				      (NP-OBJ (DNP (NP (NN 党))
+						   (DEG 的))
+					      (NP (NN 教育)
+						  (NN 事业)))))
+			      (DEC 的)))
+		      (NP (NN 人)))))) ) 
+
+<su id=p5su1>
+
+
+( (IP (NP-SBJ (NN 学校))
+      (VP (VC 是)
+	  (VP (VV 需要)
+	      (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+			  (CP (IP (NP-SBJ (-NONE- *T*-1))
+				  (VP (VV 忠诚于)
+				      (NP-OBJ (DNP (NP (NN 当))
+						   (DEG 的))
+					      (NP (NN 教育)
+						  (NN 事业)))))
+			      (DEC 的)))
+		      (NP (NN 人)))))) ) 
+

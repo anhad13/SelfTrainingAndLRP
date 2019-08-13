@@ -1,0 +1,95 @@
+<DOC>
+<DOCID>ART122</DOCID>
+<HEADER>
+    <DATE></DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=2340>
+( (IP-HLN (NP-SBJ (CP (WHNP-1 (-NONE- *OP*)) 
+		      (IP (NP-SBJ (-NONE- *T*-1)) 
+			  (VP (VV 驻) 
+			      (NP-PN-OBJ (NR 波))))) 
+		  (NP (NR 苏军))) 
+	  (VP (LCP-TMP (NP (NT 今年) 
+			   (NT 五月)) 
+		       (LC 起)) 
+	      (VP (VV 撤出)))) ) 
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=2341>
+( (IP (NP-PN-SBJ (NR 苏联)) 
+      (VP (VV 准备) 
+	  (IP-OBJ (NP-SBJ (-NONE- *PRO*)) 
+		  (VP (VP (PP-TMP (P 从) 
+				  (LCP (NP (NT 今年) 
+					   (NT 五月)) 
+				       (LC 开始))) 
+			  (VP (VV 撤出) 
+			      (NP-OBJ (CP (WHNP-1 (-NONE- *OP*)) 
+					  (CP (IP (NP-SBJ (-NONE- *T*-1)) 
+						  (VP (VV 驻) 
+						      (NP-PN-OBJ (NR 波兰)))) 
+					      (DEC 的))) 
+				      (NP-PN (NR 苏军))))) 
+		      (PU ，) 
+		      (VP (LCP-TMP (LCP (NP (NT 一九九四年))
+					(LC 中)) 
+				   (LC 以前)) 
+			  (ADVP (AD 全部)) 
+			  (VP (VV 撤完)))))) 
+      (PU 。)) ) 
+</S>
+</P>
+<P>
+<S ID=2342>
+( (IP (NP-SBJ (PN 这)) 
+      (VP (VC 是) 
+	  (NP-PRD (CP (WHNP-1 (-NONE- *OP*)) 
+		      (CP (IP (LCP-TMP (NP (CP (WHNP-2 (-NONE- *OP*)) 
+					       (CP (IP (NP-SBJ (-NONE- *T*-2)) 
+						       (VP (ADVP (AD 正)) 
+							   (PP-LOC (P 在) 
+								   (NP-PN (NR 华沙))) 
+							   (VP (VV 举行)))) 
+						   (DEC 的))) 
+					   (NP-PN (NR 波) 
+						  (NR 苏)) 
+					   (PP (P 关于) 
+					       (NP (IP-APP (IP (NP-PN-SBJ (NR 苏联)) 
+							       (VP (PP-DIR (P 从) 
+									   (NP-PN (NR 波兰))) 
+								   (VP (VV 撤军)))) 
+							   (CC 和) 
+							   (IP (NP-PN-SBJ (NR 苏军)) 
+							       (VP (VV 过境)))) 
+						   (NP (NN 问题)))) 
+					   (NP (NN 谈判))) 
+				       (LC 中)) 
+			      (NP-SBJ (NP-PN (NR 苏联)) 
+				      (NP (NN 方面))) 
+			      (VP (VV 提出) 
+				  (NP-OBJ (-NONE- *T*-1))))) 
+		      (DEC 的)) 
+		  (NP (NN 建议)))) 
+      (PU 。)) ) 
+</S>
+<S ID=2343>
+( (IP (NP-TMP (NT 目前)) 
+      (NP-SBJ (NP-PN (NR 苏联)) 
+	      (DNP (PP (P 在) 
+		       (NP-PN (NR 波兰))) 
+		   (DEG 的)) 
+	      (NP (NN 驻军))) 
+      (VP (ADVP (AD 约)) 
+	  (VP (VC 为) 
+	      (NP-PRD (QP (CD 五万)) 
+		      (NP (NN 人))))) 
+	  (PU 。)) ) 
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

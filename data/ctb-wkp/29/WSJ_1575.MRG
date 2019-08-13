@@ -1,0 +1,66 @@
+<DOC>
+<DOCID>HK.19970703.0002</DOCID>
+<HEADER>
+<DATE>1997-07-03</DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=5214>
+( (IP-HLN (NP-SBJ (-NONE- *pro*))
+	  (VP (PP (P 与)
+		  (NP-PN (NR 台湾)))
+	      (ADVP (AD 非正式))
+	      (VP (VV 接触)))))
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=5215>
+( (IP (NP-SBJ (NP-PN (NP-PN (NR 香港))
+		     (ADJP (JJ 特别))
+		     (NP (NN 行政区)))
+	      (NP (NN 行政)
+		  (NN 长官)
+		  (NN 办公室)
+		  (NN 发言人)))
+      (VP (NP-TMP (NT 今日)
+		  (PRN (PU （)
+		       (NP (NT 星期四))
+		       (PU ）)))
+	  (LCP-TMP (IP (NP-SBJ (-NONE- *PRO*))
+		       (VP (VV 回应)
+			   (NP-OBJ (NN 传媒)
+				   (NN 查询))))
+		   (LC 时))
+	  (VP (VV 表示)
+	      (PU ，)
+	      (IP-OBJ (NP-PN-SBJ (NR 叶国华))
+		      (VP (PP-TMP (P 在)
+				  (NP (NP (NT 过去))
+				      (QP (CD 数))
+				      (NP (NN 星期))))
+			  (ADVP (AD 曾))
+			  (PP (P 与)
+			      (NP (DNP (NP-PN (NR 中华)
+					      (NN 旅行社))
+				       (DEG 的))
+				  (NP-PN (NR 郑安国))))
+			  (PP (P 就)
+			      (NP (NP-PN (NR 港)
+					 (NR 台))
+				  (NP (NN 事宜))))
+			  (VP (VV 作)
+			      (NP-OBJ (DNP (ADJP (JJ 非正式))
+					   (DEG 的))
+				      (NP (NN 接触))))))))
+      (PU 。)))
+</S>
+</P>
+<P>
+<S ID=5216>
+( (FRAG (VV 完)))
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

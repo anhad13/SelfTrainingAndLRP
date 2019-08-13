@@ -1,0 +1,95 @@
+<DOC>
+<DOCID>XIN.19971202.0062</DOCID>
+<HEADER>
+<DATE>1997-12-02</DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=812>
+( (IP-HLN (NP-PN-SBJ (NR 中国)) 
+          (VP (ADVP (AD 将)) 
+              (VP (VV 延长) 
+		  (NP-OBJ (IP-APP (NP-SBJ (NN 外商) 
+					  (NN 投资) 
+					  (NN 企业)) 
+				  (VP (ADVP (AD 免税)) 
+				      (VP (VV 进口) 
+					  (NP-OBJ (NN 设备) 
+						  (CC 和) 
+						  (NN 原材料))))) 
+			  (NP (NN 宽限期)))))) ) 
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=813>
+( (FRAG  (NN 新华社) 
+         (NR 北京) 
+         (NT 十二月) 
+         (NT 二日) 
+         (NN 电) )) 
+</S>
+<S ID=814>
+( (IP (NP-ADV (CP (WHNP-1 (-NONE- *OP*)) 
+		  (CP (IP (NP-SBJ (-NONE- *T*-1)) 
+			  (VP (VV 来自) 
+			      (NP-PN-OBJ (NN 外经贸部)))) 
+		      (DEC 的))) 
+              (NP (NN 消息))) 
+      (PU ：) 
+      (PP-MNR (P 经) 
+	      (IP (NP-PN-SBJ (NN 国务院)) 
+		  (VP (VV 同意)))) 
+      (PU ，) 
+      (IP (IP (NP-PN-SBJ (NR 中国)) 
+	      (VP (PP-DIR (P 对) 
+			  (NP (CP (WHNP-2 (-NONE- *OP*)) 
+				  (CP (IP (NP-SBJ (-NONE- *pro*)) 
+					  (VP (LCP-TMP (NP (NT 一九九六年) 
+							   (NT 三月) 
+							   (NT 三十一日)) 
+						       (LC 前)) 
+					      (VP (VV 批准) 
+						  (NP-OBJ (-NONE- *T*-2))))) 
+				      (DEC 的))) 
+			      (CP (WHNP-3 (-NONE- *OP*)) 
+				  (CP (IP (NP-SBJ (NN 外商) 
+						  (NN 投资) 
+						  (NN 企业)) 
+					  (VP (LCP-LOC (NP (NN 投资) 
+							   (NN 总额)) 
+						       (LC 内)) 
+					      (VP (VV 进口) 
+						  (NP-OBJ (-NONE- *T*-3))))) 
+				      (DEC 的))) 
+			      (NP (NN 设备) 
+				  (CC 和) 
+				  (NN 原材料)))) 
+		  (PU ，) 
+		  (ADVP (AD 仍)) 
+		  (VP (VV 沿用) 
+		      (NP-OBJ (DNP (LCP (NP (NT 一九九六年) 
+					    (NT 三月) 
+					    (NT 三十一日)) 
+					(LC 前)) 
+				   (DEG 的)) 
+			      (NP (NN 进口) 
+				  (NN 税收) 
+				  (NN 政策)))))) 
+	  (PU ，) 
+	  (IP (NP-SBJ (-NONE- *pro*)) 
+	      (VP (ADVP (AD 直)) 
+		  (VP (VV 至) 
+		      (NP-OBJ (NN 进口) 
+			      (NN 完毕)))))) 
+      (PU 。)) ) 
+</S>
+<S ID=815>
+( (FRAG (PU （) 
+	(VV 完) 
+	(PU ）) )  ) 
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

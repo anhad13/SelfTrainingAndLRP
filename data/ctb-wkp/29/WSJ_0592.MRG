@@ -1,0 +1,203 @@
+<su id=p1su1>
+
+
+( (CP-CND (ADVP (CS 如果))
+	  (IP (NP-PN-SBJ (NR 美国))
+	      (VP (PP-DIR (P 对)
+			  (NP-PN (NR 伊朗)))
+		  (VP (VV 开战))))
+	  (PU ？)) ) 
+
+<su id=p1su2>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (QP-TMP (NP (NT 最近))
+		  (QP (CD 几)
+		      (CLP (M 年))))
+	  (VP (VV 看)
+	      (AS 过)
+	      (PU ，)
+	      (IP-OBJ (NP-SBJ-PN (NR 伊拉克)
+				 (PU 、)
+				 (NR 阿富汗)
+				 (PU 、)
+				 (NR 利比亚))
+		      (VP (ADVP (AD 都))
+			  (VP (LB 被)
+			      (CP-OBJ (WHNP-1 (-NONE- *OP*))
+				      (IP (NP-SBJ (NP-PN (NR 美国))
+						  (NP (NN 强权)
+						      (NN 势力)))
+					  (VP (VV 打下)
+					      (NP-OBJ (-NONE- *T*-1)))
+					  (SP 了))))))))
+      (PU 。)) ) 
+
+<su id=p1su3>
+
+
+( (IP-Q (NP-SBJ (-NONE- *pro*))
+	(VP (ADVP (AD 不))
+	    (VP (VV 知道)
+		(IP-OBJ (NP-SBJ (DNP (DP (DT 这)
+					 (CLP (M 次)))
+				     (DEG 的))
+				(NP-PN (NR 伊朗)))
+			(VP (ADVP (AD 是否))
+			    (VP (VV 可以)
+				(VP (VV 逃过)
+				    (NP-OBJ (QP (CD 一))
+					    (NP (NN 劫)))))))))
+	(PU ？)) ) 
+
+<su id=p1su4>
+
+
+( (IP (CP-CND (ADVP (CS 如果))
+	      (IP (NP-SBJ (-NONE- *pro*))
+		  (VP (VV 开战))))
+      (PU ，)
+      (NP-PN-SBJ (NR 中国))
+      (VP (VV 应该)
+	  (VP (ADVP (AD 只是))
+	      (VP (VV 会)
+		  (VP (VV 表示)
+		      (NP (ADJP-OBJ (JJ 强烈))
+			  (NP (NN 抗议)))))))
+      (PU 。)) ) 
+
+<su id=p1su5>
+
+
+( (IP (IP (NP-SBJ (NP-PN (NR 伊朗))
+		  (NP (NN 石油)
+		      (NN 能源)))
+	  (VP (VA 多)))
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 也))
+	      (VP (VV 算是)
+		  (NP-PRD (DNP (NP-PN (NR 中国))
+			       (DEG 的))
+			  (NP (NN 朋友)))))
+	  (SP 了))
+      (PU ，)
+      (IP-Q (NP-PN-SBJ (NR 中国))
+	    (VP (VV 应该)
+		(VP-WH (VV 怎么办))))
+      (PU ？)) ) 
+
+<su id=p1su6>
+
+
+( (UCP (IP (NP-SBJ (NN 世界)
+		   (NN 格局))
+	   (VP (NP-TMP (NT 现在))
+	       (ADVP (AD 全部))
+	       (VP (VV 在)
+		   (NP-OBJ (NP-PN (NR 美国))
+			   (NP (PN 那里))))))
+       (PU ，)
+       (CP-Q (IP (NP-PN-SBJ (NR 中国))
+		 (VP (ADVP (AD 还是))
+		     (VP (VV 继续)
+			 (VP (VV 做)
+			     (NP-OBJ (NN 绵羊))))))
+	     (SP 吗))
+       (PU ？)) ) 
+
+<su id=p1su7>
+
+
+( (IP (IP (NP-TPC (NP-PN (NR 伊朗))
+		  (NP (NN 问题)))
+	  (NP-SBJ (PN 我))
+	  (VP (VV 看)
+	      (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		      (VP (VC 是)
+			  (VP (VV 要)
+			      (NP-PN-OBJ (NR 俄罗斯))
+			      (IP (NP-SBJ (-NONE- *PRO*))
+				  (VP (VV 支持))))))))
+      (PU ，)
+      (IP (ADVP (AD 不然))
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (VP (VV 打)
+		  (AS 了))
+	      (VP (ADVP (AD 就))
+		  (VP (VV 答)
+		      (AS 了)))))) ) 
+
+<su id=p2su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 说)
+	      (DER 得)
+	      (VP-EXT (ADVP (AD 太))
+		      (VP (VA 好))))
+	  (SP 了))
+      (PU ，)
+      (IP (NP-PN-SBJ (NR 中国))
+	  (VP (VP (VE 没)
+		  (NP-OBJ (DP (DT 这)
+			      (CLP (M 个)))
+			  (NP (NN 实力))))
+	      (PU ，)
+	      (VP (ADVP (AD 也))
+		  (ADVP (AD 不))
+		  (VP (VV 敢)
+		      (VP (VV 去)
+			  (VP (VV 惹)
+			      (NP-PN-OBJ (NR 美国))))))))
+      (PU ；)) ) 
+
+<su id=p2su2>
+
+
+( (IP (IP (ADVP (AD 至少))
+	  (NP-SBJ (DNP (NP (PN 我们))
+		       (DEG 的))
+		  (NP (NN 国家)
+		      (NN 领导们)))
+	  (VP (ADVP (AD 不))
+	      (VP (VV 敢)
+		  (VP (VV 去)
+		      (VP (VV 惹))))))
+      (PU ，)
+      (IP (NP-SBJ (PN 我))
+	  (VP (VV 发誓)
+	      (PU ，)
+	      (IP-OBJ (IP-ADV (NP-SBJ (-NONE- *pro*))
+			      (VP (VV 借)
+				  (NP-IO (NN 国家)
+					 (NN 领导们))
+				  (NP-OBJ (QP (CD 10)
+					      (CLP (M 个)))
+					  (NP (NN 胆)))))
+		      (NP-SBJ (-NONE- *pro*))
+		      (VP (ADVP (AD 也))
+			  (ADVP (AD 不))
+			  (VP (VV 敢)
+			      (VP (VV 去)
+				  (VP (VV 惹)
+				      (NP-PN-OBJ (NR 美国)))))))))
+      (PU 。)) ) 
+
+<su id=p4su1>
+
+
+( (UCP (IP (IP-ADV (NP-SBJ (PN 你))
+		   (VP (NP-LOC (NN 上边))
+		       (VP (VV 动))))
+	   (NP-SBJ (PN 我))
+	   (VP (NP-LOC (NN 下边))
+	       (VP (VV 动)))
+	   (PU ，))
+       (CP-Q (IP (NP-SBJ (-NONE- *pro*))
+		 (VP (ADVP (AD 不))
+		     (VP (VV 行))))
+	     (SP 么))
+       (PU ？)) ) 
+

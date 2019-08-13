@@ -1,0 +1,162 @@
+<DOC>
+<DOCID>XIN19981231.0115</DOCID>
+<HEADER>
+<DATE>1998-12-31</DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=9616>
+( (IP-HLN (NP-SBJ (NP-PN (NR 韩国))
+		  (NP (NT ９８年))
+		  (NP (NN 经济)
+		      (NN 增长率)))
+	  (VP (VC 为)
+	      (QP-PRD (ADJP (JJ 负))
+		      (QP (CD 百分之七))))))
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=9617>
+((FRAG (NR 新华社)
+	     (NR 汉城)
+	     (NT １２月)
+	     (NT ３１日)
+	     (NN 电)
+	     (PU （)
+	     (NN 记者)
+	     (NR 朱克川)
+	     (PU ）)))
+</S>
+<S ID=9618>
+((IP (NP-PN-SBJ (NR 韩国)
+		    (NN 财政)
+		    (NN 经济部))
+	 (VP (NP-TMP (NT 今天))
+	     (VP (VV 宣布)
+		 (PU ，)
+		 (IP-OBJ (IP (NP-TMP (NT ９８年))
+			     (NP-SBJ (DNP (NP-PN (NR 韩国))
+					  (DEG 的))
+				     (NP (NN 经济)
+					 (NN 增长率)))
+			     (VP (VC 为)
+				 (QP-PRD (ADJP (JJ 负))
+					 (QP (CD 百分之七)))))
+			 (PU ，)
+			 (IP (NP-SBJ (ADJP (JJ 人均))
+				     (NP (NN 国民)
+					 (NN 生产)
+					 (NN 总值)))
+			     (VP (PP (P 比)
+				     (NP (NT ９７年)))
+				 (VP (VV 下降)
+				     (QP-EXT (CD 百分之三十三点五))))))))
+	 (PU 。)))
+</S>
+</P>
+<P>
+<S ID=9619>
+( (IP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+	      (VP (PP-MNR (P 按)
+			  (IP (NP-TMP (NT ９８年))
+			      (NP-SBJ (DNP (NP (NN 韩元)
+					       (CC 与)
+					       (NN 美元))
+					   (DEG 的))
+				      (ADJP (JJ 平均))
+				      (NP (NN 汇率)))
+			      (VP (VC 为)
+				  (QP-PRD (CD １４００)
+					  (CC 比)
+					  (CD １)))))
+		  (VP (VV 计算))))
+      (PU ，)
+      (NP-TMP (NT ９８年))
+      (NP-SBJ (NP-PN (NR 韩国))
+	      (ADJP (JJ 人均))
+	      (NP (NN 国民)
+		  (NN 生产)
+		  (NN 总值)))
+      (VP (VP (VC 为)
+	      (QP-PRD (CD ６３２１)
+		      (CLP (M 美元))))
+	  (PU ，)
+	  (VP (PP (P 比)
+		  (NP (DNP (NP (NT ９７年))
+			   (DEG 的))
+		      (QP (CD ９５１１)
+			  (CLP (M 美元)))))
+	      (VP (VV 下降)
+		  (QP-EXT (CD 百分之三十三点五))))
+	  (PU ，)
+	  (VP (ADVP (AD 略))
+	      (VP (VV 低于)
+		  (NP-OBJ (DNP (NP (NT １９９１年))
+			       (DEG 的))
+			  (NP (NN 水平))))))
+      (PU 。)))
+</S>
+</P>
+<P>
+<S ID=9620>
+( (IP (NP-PN-SBJ (NR 韩国)
+		 (NN 财政)
+		 (NN 经济部))
+      (VP (VV 认为)
+	  (PU ，)
+	  (IP-OBJ (NP-TMP (NT １９９９年))
+		  (NP-SBJ (DNP (NP-PN (NR 韩国))
+			       (DEG 的))
+			  (NP (NN 经济)
+			      (NN 增长率)))
+		  (VP (ADVP (AD 将))
+		      (VP (VRD (VV 恢复)
+			       (VV 到))
+			  (QP-OBJ (CD 百分之二))))))
+      (PU 。)))
+</S>
+<S ID=9621>
+( (IP (NP-SBJ (QP (CD 一些))
+	      (ADJP (JJ 权威))
+	      (NP (NN 经济)
+		  (NN 研究)
+		  (NN 机构)))
+      (VP (VV 预测)
+	  (PU ，)
+	  (IP-OBJ (CP-CND (ADVP (CS 如果))
+			  (IP (NP-SBJ (DNP (NP (NN 韩元)
+					       (CC 对)
+					       (NN 美元))
+					   (DEG 的))
+				      (ADJP (JJ 年平均))
+				      (NP (NN 汇率)))
+			      (VP (VV 能够)
+				  (VP (VV 保持)
+				      (PP (P 在)
+					  (QP (CD １２００)
+					      (CC 比)
+					      (CD １)))))))
+		  (PU ，)
+		  (NP-TMP (NT １９９９年))
+		  (NP-SBJ (NP-PN (NR 韩国))
+			  (ADJP (JJ 人均))
+			  (NP (NN 国民)
+			      (NN 生产)
+			      (NN 总值)))
+		  (VP (ADVP (AD 将))
+		      (VP (VRD (VV 回升)
+			       (VV 到))
+			  (QP-OBJ (CD ７７００)
+				  (CLP (M 美元)))))))
+      (PU 。)))
+</S>
+<S ID=9622>
+( (FRAG (PU （)
+	(VV 完)
+	(PU ）)))
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

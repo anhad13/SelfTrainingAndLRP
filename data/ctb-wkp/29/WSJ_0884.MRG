@@ -1,0 +1,75 @@
+<su id=headline_su1> 
+
+
+( (NP (ADJP (JJ 强大) )
+      (NP-PN (NR 中国) ) ) ) 
+
+<su id=p1su1>
+
+
+( (IP (IP (NP-PN-SBJ (NR 中国) )
+	  (VP (NP (NT 现在) )
+	      (VP (VE 有)
+		  (NP-OBJ (NN 实力) ) ) )
+	  (SP 了) )
+      (PU ，)
+      (IP (NP-TPC (NN 边界)
+		  (NN 问题) )
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 应该)
+	      (VP (VRD (VA 强硬)
+		       (VV 起来) ) ) )
+	  (SP 了) )
+      (PU 。) ) ) 
+
+<su id=p1su2>
+
+
+( (IP (IP (NP-PN-SBJ (NR 中国) )
+	  (VP (NP-TMP (NN 近代史) )
+	      (VP (VV 受)
+		  (NP-OBJ (NN 欺压) )
+		  (VP-EXT (ADVP (AD 太) )
+			  (VP (VA 多) ) )) )
+	  (SP 了) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 不) )
+	      (VP (VV 应)
+		  (VP (ADVP (AD 再) )
+		      (VP (VV 重复)
+			  (NP-OBJ (NN 历史) ) ) ) ) )
+	  (SP 了) )
+      (PU 。) ) ) 
+
+<su id=p5su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 不) )
+	      (VP (VV 要)
+		  (VP (ADVP (AD 忘自) )
+		      (VP (VV 骄傲) ) ) ) ) )
+      (PU ！)
+      (IP (IP-SBJ (NP-SBJ (-NONE- *pro*))
+		  (VP (VA 谨慎) ) )
+	  (VP (ADVP (AD 中) )
+	      (VP (VA 好)
+		  (ADVP-EXT (AD 些) ) ) ) )
+      (PU ！！) ) ) 
+
+<su id=p12su1>
+
+
+( (IP (IP (NP-SBJ (NN 强大) )
+	  (VP (VC 是)
+	      (NP-PRD (ADJP (JJ 硬) )
+		      (NP (NN 道理) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (DP (DT 有些) )
+		  (NP (NN 政策) ) )
+	  (VP (ADVP (AD 确) )
+	      (VP (VV 需)
+		  (VP (VV 调整) ) ) ) )
+      (PU 。) ) ) 
+

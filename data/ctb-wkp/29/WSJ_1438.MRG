@@ -1,0 +1,216 @@
+<su id=p1su1>
+
+
+( (IP-Q (NP-SBJ (DNP (NP-PN (NR 中国) )
+		     (DEG 的) )
+		(NP (NN 向心力) ) )
+	(VP (VC 是)
+	    (NP-PRD-WH (PN 什么) ) )
+	(PU ？) ) ) 
+
+<su id=p1su2>
+
+
+( (UCP (NP-PN (NR 毛泽东)
+	      (NN 思想) )
+       (PU 。)
+       (CP-Q (IP (NP-SBJ (-NONE- *pro*))
+		 (VP (ADVP (AD 还) )
+		     (VP (VE 有)
+			 (NP-OBJ (DNP (DP (DT 其他) )
+				      (DEG 的) ) ) ) ) )
+	     (SP 吗) )
+       (PU ？) ) ) 
+
+<su id=p2su1>
+
+
+( (IP (NP-SBJ (NP-PN (NR 中华)
+		     (NN 民族) )
+	      (CP (WHNP-1 (-NONE- *OP*))
+		  (CP (IP (NP-SBJ (-NONE- *T*-1))
+			  (VP (ADVP (AD 最) )
+			      (VP (VA 伟大) ) ) )
+		      (DEC 的) ))
+	      (NP (NN 地方) ) )
+      (PU ，)
+      (VP (VV 在于)
+	  (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		  (VP (VP (VV 没有)
+			  (VP (VV 依赖)
+			      (NP-OBJ (NN 宗教) ) ) )
+		      (PU ，)
+		      (VP (PP-MNR (ADVP (AD 仅仅) )
+				  (PP (P 靠)
+				      (NP (NN 血脉) ) ) )
+			  (VP (VV 维系)
+			      (AS 了)
+			      (NP-OBJ (DNP (QP (CD 五千)
+					       (CLP (M 年) ) )
+					   (DEG 的) )
+				      (NP (NN 民族)
+					  (NN 向心力) ) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p3su1>
+
+
+( (IP (NP-SBJ (NP-PN (NR 中华)
+		     (NN 民族) )
+	      (CP (WHNP-1 (-NONE- *OP*))
+		  (CP (IP (NP-SBJ (-NONE- *T*-1))
+			  (VP (ADVP (AD 最) )
+			      (VP (VA 伟大) ) ) )
+		      (DEC 的) ))
+	      (NP (NN 地方) ) )
+      (PU ，)
+      (VP (VV 在于)
+	  (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		  (VP (VP (VV 没有)
+			  (VP (VV 依赖)
+			      (NP-OBJ (NN 宗教) ) ) )
+		      (PU ，)
+		      (VP (PP-MNR (ADVP (AD 仅仅) )
+				  (PP (P 靠)
+				      (NP (NN 血脉) ) ) )
+			  (VP (VV 维系)
+			      (AS 了)
+			      (NP-OBJ (DNP (QP (CD 五千)
+					       (CLP (M 年) ) )
+					   (DEG 的) )
+				      (NP (NN 民族)
+					  (NN 向心力) ) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p3su3>
+
+
+( (IP (NP-SBJ (PN 这) )
+      (VP (ADVP (AD 也) )
+	  (ADVP (AD 就) )
+	  (VP (VC 是)
+	      (NP-PRD (DNP (NP (LCP (QP (CD 五千)
+					(CLP (M 年) ) )
+				    (LC 来) )
+			       (NP (ADJP (JJ 集权) )
+				   (NP (NN 统治) ) ) )
+			   (DEG 的) )
+		      (QP (CD 一)
+			  (CLP (M 个) ) )
+		      (NP (NN 结果) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p4su1>
+
+
+( (CP (IP (NP-PN-SBJ (NR 毛泽东)
+		     (NN 思想) )
+	  (PU ，)
+	  (VP (VV 应该)
+	      (VP (VC 是)
+		  (VP (VV 发展) ) ) ) )
+      (SP 的)
+      (PU 。) ) ) 
+
+<su id=p5su1>
+
+
+( (IP (NP-SBJ (PN 他) )
+      (VP (VP (ADVP (AD 不) )
+	      (VP (VC 是)
+		  (NP-PRD (NN 民族主义) ) ) )
+	  (PU ，)
+	  (CC 而)
+	  (VP (VC 是)
+	      (NP-PRD (NN 人民主义) ) ) )
+      (PU 。) ) ) 
+
+<su id=p6su1>
+
+
+( (IP (IP-IMP (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 请)
+		  (VP (VV 允许)
+		      (NP-OBJ (PN 我) )
+		      (IP (NP-SBJ (-NONE- *PRO*))
+			  (VP (VV 造词) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 人民主义) )
+	  (PU ，)
+	  (VP (ADVP (AD 就) )
+	      (VP (VC 是)
+		  (IP-PRD (IP (NP-SBJ (PN 一切) )
+			      (VP (PP-MNR (P 以)
+					  (NP (DNP (NP (NN 人民) )
+						   (DEG 的) )
+					      (NP (NN 利益) ) ) )
+				  (VP (VV 为)
+				      (NP-OBJ (NN 中心) ) ) ) )
+			  (PU ，)
+			  (IP (NP-SBJ (NN 政府) )
+			      (VP (PP-BNF (P 为)
+					  (NP (NN 人民) ) )
+				  (VP (VV 服务) ) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p6su2>
+
+
+( (IP (ADVP (AD 但是) )
+      (PU ，)
+      (NP-SBJ (DNP (NP (NN 人民) )
+		   (DEG 的) )
+	      (NP (NN 概念) ) )
+      (PU ，)
+      (VP (VP (VV 应该)
+	      (VP (PP-ADV (P 和)
+			  (NP (NN 公民) ) )
+		  (VP (VA 一致) ) ) )
+	  (PU ，)
+	  (VP (ADVP (AD 不) )
+	      (VP (VV 应该)
+		  (VP (VE 有)
+		      (NP-OBJ (DNP (NP (NN 阶层) )
+				   (DEG 的) )
+			      (NP (NN 歧视) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p6su3>
+
+
+( (IP (NP-SBJ (NN 平等) )
+      (PU ，)
+      (VP (VV 应该)
+	  (VP (VC 是)
+	      (NP-PRD (QP (CD 一)
+			  (CLP (M 个) ) )
+		      (NP (NN 准则) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p8su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VCD (VV 互利)
+		   (VV 共赢) ) ) )
+      (PU ~)
+      (PU ！)
+      (PU ~)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 利) ) )
+      (PU ~)
+      (PU ！)
+      (PU 。。。。。。。。。。) ) ) 
+
+<su id=p8su2>
+
+
+( (IP (NP-SBJ (DNP (PP (P 除)
+		       (LCP (LC 之外) ) )
+		   (DEG 的) ) )
+      (VP (ADVP (AD 皆) )
+	  (VP (VC 是)
+	      (VP (VV 扯淡) ) ) )
+      (PU ~)
+      (PU ！) ) ) 
+

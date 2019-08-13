@@ -1,0 +1,121 @@
+<DOC>
+<DOCID>XIN19981228.0142</DOCID>
+<HEADER>
+<DATE>1998-12-28</DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=7242>
+( (IP-HLN (NP-SBJ (NP-PN (NR 日本))
+		  (QP (CD 一))
+		  (ADJP (JJ 新))
+		  (NP (NN 党)))
+	  (VP (VV 成立))))
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=7243>
+((FRAG (NR 新华社)
+	     (NR 东京)
+	     (NT １２月)
+	     (NT ２８日)
+	     (NN 电)))
+</S>
+<S ID=7244>
+((IP (NP-SBJ (NP-APP (NP-PN (NR 日本))
+			 (QP (ADVP (AD 又))
+			     (QP (CD 一)
+				 (CLP (M 个))))
+			 (ADJP (JJ 新))
+			 (NP (NN 党派)))
+		 (NP-PN (PU “)
+			(NN 参议院)
+			(NN 俱乐部)
+			(PU ”)))
+	 (VP (NP-TMP (NT ２８日))
+	     (VP (VV 宣告)
+		 (IP-OBJ (NP-SBJ (-NONE- *pro*))
+			 (VP (VV 成立)))))
+	 (PU 。)))
+</S>
+</P>
+<P>
+<S ID=7245>
+( (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		  (CP (IP (NP-SBJ (-NONE- *T*-1))
+			  (VP (VV 参加)
+			      (NP-OBJ (NP-PN (PU “)
+					     (NN 参议院)
+					     (NN 俱乐部)
+					     (PU ”))
+				      (NP (NN 党派)))))
+		      (DEC 的))))
+      (VP (VE 有)
+	  (PU ：)
+	  (NP-OBJ (NP-APP (NP-APP (NP-PN (NN 参议院))
+				  (ADJP (JJ 无党派))
+				  (NP (NN 议员)))
+			  (NP-PN (NR 椎名素夫)
+				 (PU 、)
+				 (NR 田名部匡省)
+				 (PU 、)
+				 (NR 松冈满寿男)
+				 (PU 、)
+				 (NR 堂本晓子)
+				 (CC 和)
+				 (NR 水野诚一)
+				 (ETC 等)))
+		  (QP (CD ５))
+		  (NP (NN 人))))
+      (PU 。)))
+</S>
+<S ID=7246>
+( (IP (NP-SBJ (PN 他们))
+      (VP (ADVP (AD 原来))
+	  (ADVP (AD 都))
+	  (VP (VC 是)
+	      (NP-PRD (DNP (NP (PU “)
+			       (DNP (NP-PN (NN 参议院))
+				    (DEG 之))
+			       (NP (NN 会))
+			       (PU ”))
+			   (DEG 的))
+		      (NP (NN 成员)))))
+      (PU 。)))
+</S>
+</P>
+<P>
+<S ID=7247>
+( (IP (NP-PN-SBJ (NR 椎名素夫))
+      (VP (VV 就任)
+	  (NP-OBJ (NP (DP (DT 该))
+		      (NP (NN 党)))
+		  (NP (NN 党代表))))
+      (PU 。)))
+</S>
+</P>
+<P>
+<S ID=7248>
+( (IP (NP-SBJ (DNP (NP (DP (DT 该))
+		       (NP (NN 党)))
+		   (DEG 的))
+	      (NP (NN 奋斗)
+		  (NN 目标)))
+      (VP (VC 是)
+	  (IP-PRD (NP-SBJ (-NONE- *PRO*))
+		  (VP (VV 进行)
+		      (NP-OBJ (DNP (NP-PN (NN 参议院))
+				   (DEG 的))
+			      (NP (NN 改革))))))
+      (PU 。)))
+</S>
+<S ID=7249>
+( (FRAG (PU （)
+	(VV 完)
+	(PU ）)))
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

@@ -1,0 +1,141 @@
+<su id=p4su1>
+
+
+( (CP (CP (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 说)
+		  (DER 的)
+		  (ADVP-EXT (ON 叽里呱啦) ) ) )
+	  (SP 的) )
+      (PU ，)
+      (CP-Q (IP (NP-SBJ (DP (DT 这) )
+			(NP-PN (NR 达索) ) )
+		(VP (ADVP (AD 到底) )
+		    (VP (VC 是)
+			(NP-PRD-WH (DP (DT 啥) )
+				   (NP (NN 玩意) ) ) ) ) )
+	    (SP 呢) )
+      (PU ？？？) ) ) 
+
+<su id=p7su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 没) )
+	      (VP (VV 想到)
+		  (IP-OBJ (ADVP (AD 连) )
+			  (NP-PN-SBJ (NR 奥巴马) )
+			  (VP (ADVP (AD 都) )
+			      (VP (VV 知道)
+				  (NP-PN-OBJ (NR 达索) ) ) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NP-PN (NR 美国) )
+		  (ADJP (JJ 高端) )
+		  (NP (NN 人士) ) )
+	  (VP (ADVP (AD 真) )
+	      (VP (VC 是) ) ) )
+      (PU ...) ) ) 
+
+<su id=p11su1>
+
+
+( (CP (IP (NP-SBJ (NP-PN (NR 盖特纳) )
+		  (DP (DT 那) )
+		  (DNP (QP (CD 一)
+			   (CLP (NN 脸) ) )
+		       (DEG 的) )
+		  (NP (NN 表情) ) )
+	  (PU ，)
+	  (VP (VV 让)
+	      (NP-OBJ (NN 人) )
+	      (IP (NP-SBJ (-NONE- *PRO*))
+		  (VP (VV 感到)
+		      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			      (VP (ADVP (AD 有些) )
+				  (VP (VV 忍俊不禁) ) ) ) ) ) ) )
+      (SP 啊) ) ) 
+
+<su id=p12su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 不) )
+	  (VP (VV 知道)
+	      (CP-OBJ (IP (CP-CND (ADVP (CS 要是) )
+				  (IP (NP-SBJ (PN 他)
+					      (PN 本人) )
+				      (VP (VV 见到)
+					  (AS 了) ) ) )
+			  (NP-SBJ (-NONE- *pro*))
+			  (VP (VV 会)
+			      (VP (DVP (VP (VV 怎么样) )
+				       (DEV 的) )
+				  (VP (VV 说) ) ) ))
+		      (SP 呢)) ) ) )) 
+
+<su id=p17su1>
+
+
+( (IP (NP-SBJ (PN 这些) )
+      (VP (ADVP (AD 都) )
+	  (VP (VC 是)
+	      (NP-PRD (NP-APP (NP-PN (NR 美国) )
+			      (NP (NN 社会) )
+			      (ADJP (JJ 高端) )
+			      (NP (NN 人士) ))
+		      (PU ，)
+		      (NP-PN (NR 希拉里)
+			     (PU ，)
+			     (NR 奥巴马)
+			     (PU ，)
+			     (NR 盖特纳) ))))) ) 
+
+<su id=p19su1>
+
+
+( (CP (CP (IP (NP-PN-SBJ (NR 希拉里) )
+	      (VP (ADVP (AD 也) )
+		  (VP (VA 老)
+		      (AS 了) ) ) )
+	  (SP 啊) )
+      (PU ，)
+      (CP (IP (IP-SBJ (NP-SBJ (-NONE- *pro*))
+		      (VP (ADVP (AD 还) )
+			  (VP (VV 搀和)
+			      (NP-OBJ (DP (DT 这) )
+				      (NP (NN 事) ) ) ) ) )
+	      (VP (VV 干)
+		  (NP-OBJ (PN 什么) ) ) )
+	  (SP 呢) )
+      (PU ，)
+      (INTJ (IJ 哈哈哈) )
+      (PU 。) ) ) 
+
+<su id=p28su1>
+
+
+( (UCP (CP (IP (NP-VOC (NR 小盖子) )
+	       (PU ，)
+	       (IP-SBJ (NP-SBJ (-NONE- *pro*))
+		       (VP (VV 伴)
+			   (NP-OBJ (NN 君) ) ) )
+	       (VP (VV 如)
+		   (IP-OBJ (NP-SBJ (-NONE- *pro*))
+			   (VP (VV 伴)
+			       (NP-OBJ (NN 虎) ) ) ) ))
+	   (SP 啊))
+       (PU ，)
+       (CP (IP (NP-TPC-1 (DP (DT 那) )
+			 (NP (NN 差事) ) )
+	       (NP-SBJ (-NONE- *pro*))
+	       (VP (ADVP (AD 不) )
+		   (VP (VV 干)
+		       (NP-OBJ (-NONE- *T*-1))) ) )
+	   (SP 也罢) )
+       (PU ，)
+       (IP (NP-SBJ (PN 咱) )
+	   (VP (VP (VV 改行) )
+	       (VP (VP (VV 搞)
+		       (NP-OBJ (NN 设计) ))
+		   (VP (VV 去) ) ) ) )
+       (PU 。) ) ) 
+

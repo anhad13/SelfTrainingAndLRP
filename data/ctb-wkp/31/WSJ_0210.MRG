@@ -1,0 +1,67 @@
+<su id=p1su1>
+
+
+( (IP (NP-PN-SBJ (NR 中)
+		 (NR 俄) )
+      (VP (VP (VV 必须)
+	      (VP (VV 武装)
+		  (NP-PN-OBJ (NR 叙利亚) ) ) )
+	  (PU ，)
+	  (VP (ADVP (AD 不) )
+	      (VP (VV 让)
+		  (NP-OBJ (DNP (NP (NP (NN 西方) )
+				   (PRN (PU （)
+					(NP-PN (NR 北约) )
+					(PU ）) ) )
+			       (DEG 的) )
+			  (NP (NN 根据地) ) )
+		  (IP (NP-SBJ (-NONE- *PRO*))
+		      (VP (VRD (VV 做)
+			       (VA 大) ) ) ) ) ) ) ) ) 
+
+<su id=p1su2>
+
+
+( (IP (IP (NP-PN-SBJ (NR 叙利亚) )
+	  (VP (ADVP (AD 绝对) )
+	      (VP (VC 是)
+		  (NP-PRD (QP (OD 第二)
+			      (CLP (M 个) ) )
+			  (NP-PN (NR 利比亚) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 必须)
+	      (VP (ADVP (AD 提前) )
+		  (VP (VV 武装)
+		      (NP-OBJ (PN 它) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p5su1>
+
+
+( (IP (IP (NP-PN-SBJ (NR 中国) )
+	  (VP (VE 有)
+	      (NP-OBJ (NN 能力) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *pro*))
+			      (VP (VV 缺)
+				  (NP-OBJ (-NONE- *T*-1))) )
+			  (DEC 的) )))
+	  (VP (VC 是)
+	      (NP-PRD (NN 胆子) ) ) ) ) ) 
+
+<su id=p7su1>
+
+
+( (IP (IP (NP-SBJ (NN 组织)
+		  (NN 观念) )
+	  (VP (ADVP (AD 很) )
+	      (VP (VA 重要) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (PN 这) )
+	  (VP (VRD (VV 关系)
+		   (VV 到) )
+	      (NP-OBJ (NN 影响力) ) ) )
+      (PU 。) ) ) 
+

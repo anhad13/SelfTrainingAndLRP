@@ -1,0 +1,1970 @@
+<su id=p1su1>
+
+
+( (IP (NP-TMP (NT 最近) )
+      (PU ，)
+      (NP-SBJ (NN 国内) )
+      (VP (ADVP (AD 连续) )
+	  (VP (VV 发生)
+	      (NP-OBJ (NN 校车)
+		      (NN 事故) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su2>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VRD (VV 凸显)
+	       (VV 出) )
+	  (NP-OBJ (DNP (NP (NP (DP (DT 各)
+				   (CLP (M 级) ) )
+			       (NP (NN 政府) ) )
+			   (PP (P 对)
+			       (NP (NN 校车) ) )
+			   (NP (NN 投入) ) )
+		       (DEG 的) )
+		  (ADJP (JJ 严重) )
+		  (NP (NN 不足) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su3>
+
+
+( (IP (IP (NP-SBJ (QP (CD 许多) )
+		  (NP (NN 地方) ) )
+	  (VP (VV 撤并)
+	      (NP-OBJ (ADJP (JJ 村级) )
+		      (NP (NN 小学) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 教育)
+		  (NN 部门) )
+	  (VP (ADVP (AD 并) )
+	      (VP (VE 没有)
+		  (NP-OBJ (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+				      (VP (VV 购置)
+					  (NP-OBJ (NN 校车) ) ) )
+				  (DEC 的) )
+			  (NP (NN 安排) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su4>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 而) )
+	  (VP (VC 是)
+	      (VP (VV 让)
+		  (NP-OBJ (NN 民间) )
+		  (IP (NP-SBJ (-NONE- *PRO*))
+		      (VP (PP-MNR (P 用)
+				  (NP (NN 商业)
+				      (NN 方式) ) )
+			  (VP (VV 经营)
+			      (NP-OBJ (NN 校车) ) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su5>
+
+
+( (INC (NP-SBJ (NN 经营者) )
+       (VP-UNF (PP-PRP (P 为了)
+		       (IP (NP-SBJ (-NONE- *PRO*))
+			   (VP (VV 降低)
+			       (NP-OBJ (NN 成本) ) ) ) ))
+       (PU ，) ) ) 
+
+<su id=p1su6>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 控制)
+	  (NP-OBJ (NN 收费)
+		  (NN 水平) ) )
+      (PU ，) ) ) 
+
+<su id=p1su7>
+
+
+( (IP (NP-SBJ (NN 超载)
+	      (NN 现象) )
+      (VP (VV 比比皆是) )
+      (PU ，) ) ) 
+
+<su id=p1su8>
+
+
+( (IP (NP-SBJ (NN 危险) )
+      (VP (ADVP (AD 难以) )
+	  (VP (VV 避免) ) )
+      (PU 。) ) ) 
+
+<su id=p1su9>
+
+
+( (IP (ADVP (AD 但) )
+      (ADVP (AD 同时) )
+      (PU ，)
+      (NP-SBJ (NP-PN (NR 中国) )
+	      (ADJP (JJ 有关) )
+	      (NP (NN 部门) ) )
+      (VP (ADVP (AD 又) )
+	  (PP-DIR (P 向)
+		  (NP (NN 国外) ) )
+	  (VP (VV 捐赠)
+	      (NP-OBJ (ADJP (JJ 高档) )
+		      (NP (NN 校车) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su10>
+
+
+( (IP (NP-TPC (ADVP (AD 比如) )
+	      (NP (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-PN-SBJ (NR 中国) )
+			      (VP (PP-DIR (P 向)
+					  (NP (NP-PN (NR 马其顿) )
+					      (NP (NN 政府) ) ) )
+				  (VP (VV 捐赠)
+				      (NP-OBJ (-NONE- *T*-1))) ) )
+			  (DEC 的) ))
+		  (QP (CD 23)
+		      (CLP (M 辆) ) )
+		  (NP (NN 校车) ) ) )
+      (PU ，)
+      (NP-SBJ (NN 质量) )
+      (VP (ADVP (AD 就) )
+	  (ADVP (AD 很) )
+	  (VP (VA 不错) ) )
+      (PU 。) ) ) 
+
+<su id=p1su11>
+
+
+( (IP (NP-SBJ (IP-APP (NP-TMP (NT 2011年)
+			      (NT 11月)
+			      (NT 25日) )
+		      (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+				  (IP (NP-PN-TPC (NR 中国) )
+				      (NP-SBJ (-NONE- *T*-1))
+				      (VP (VV 驻)
+					  (NP-OBJ-PN (NR 马其顿) ) ) ))
+			      (NP (NN 使馆) ) )
+		      (VP (PP-ADV (P 与)
+				  (NP (NP-PN (NR 马其顿) )
+				      (NP (NN 政府) ) ) )
+			  (VP (VV 举行)
+			      (NP-OBJ (NN 校车)
+				      (NN 交接)
+				      (NN 仪式) ) ) ) )
+	      (NP (NN 消息) ) )
+      (PU ，)
+      (VP (VV 引起)
+	  (AS 了)
+	  (NP-OBJ (NN 公众)
+		  (NN 热议) ) )
+      (PU 。) ) ) 
+
+<su id=p1su12>
+
+
+( (IP (NP-SBJ (NN 外交部)
+	      (NN 发言人) )
+      (VP (PP-TMP (P 在)
+		  (LCP (IP (NP-SBJ (-NONE- *PRO*))
+			   (VP (VV 回应)
+			       (NP-OBJ (NN 记者)
+				       (NN 提问) ) ) )
+		       (LC 时) ) )
+	  (VP (VV 说) ) ) ) ) 
+
+<su id=p1su13>
+
+
+( (IP (PU ：)
+      (PU “)
+      (NP-PN-SBJ (NR 中国) )
+      (VP (LCP-TMP (NP (NN 改革)
+		       (NN 开放) )
+		   (LC 以来) )
+	  (PU ，)
+	  (VP (VV 接受)
+	      (AS 过)
+	      (NP-OBJ (DNP (QP (CD 大量) )
+			   (DEG 的) )
+		      (NP (NN 国际)
+			  (NN 援助) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su14>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 包括)
+	  (DFL (P 在) )
+	  (NP-OBJ (NP-APP (NN 扶贫)
+			  (PU 、)
+			  (NN 环境)
+			  (PU 、)
+			  (NN 医疗)
+			  (CC 和)
+			  (NN 技术)
+			  (ETC 等) )
+		  (DP (DT 各)
+		      (CLP (M 个) ) )
+		  (NP (NN 领域) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su15>
+
+
+( (INC (PP-ADV (P 随着)
+	       (NP (DNP (NP (NP-PN (NR 中国) )
+			    (NP (PN 自身) ) )
+			(DEG 的) )
+		   (NP (NN 发展) ) ))
+       (PU ，) ) ) 
+
+<su id=p1su16>
+
+
+( (IP (NP-SBJ (PN 我们) )
+      (VP (ADVP (AD 也) )
+	  (PP-DIR (P 向)
+		  (NP (NN 外) ) )
+	  (VP (VV 提供)
+	      (NP-OBJ (NN 援助) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su17>
+
+
+( (IP (CP-CND (ADVP (CS 虽然) )
+	      (IP (NP-SBJ (NN 数额) )
+		  (VP (VA 有限) ) ) )
+      (PU ，)
+      (NP-SBJ (PN 这) )
+      (VP (VC 是)
+	  (NP-PRD (DNP (NP (NP-PN (NR 中国) )
+			   (NP (NN 国际)
+			       (NN 责任) ) )
+		       (DEG 的) )
+		  (NP (NN 体现) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su18>
+
+
+( (IP (PU ”)
+      (NP-SBJ (ADJP (JJ 这样) )
+	      (NP (NN 回答) ) )
+      (PU ，)
+      (VP (ADVP (AD 并) )
+	  (ADVP (AD 不) )
+	  (VP (VV 能)
+	      (VP (ADVP (AD 完全) )
+		  (VP (VV 消除)
+		      (NP-OBJ (DNP (NP (NN 公众) )
+				   (DEG 的) )
+			      (NP (NN 质疑) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su19>
+
+
+( (IP (NP-SBJ (NP-PN (NR 中国) )
+	      (NP (NN 政府) ) )
+      (VP (VV 应当)
+	  (VP (VV 承担)
+	      (NP-OBJ (NN 国际)
+		      (NN 责任) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su20>
+
+
+( (IP (ADVP (AD 但) )
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 首先) )
+	  (VP (VV 要)
+	      (VP (BA 把)
+		  (IP-OBJ (NP-SBJ-1 (DNP (NP (NN 国内) )
+					 (DEG 的) )
+				    (NP (NN 事情) ) )
+			  (VP (VV 办好)
+			      (NP-OBJ (-NONE- *-1))) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su21>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (BA 把)
+	  (IP-OBJ (NP-SBJ-1 (DNP (ADJP (JJ 基本) )
+				 (DEG 的) )
+			    (NP (NN 民生)
+				(NN 需求) ) )
+		  (VP (VRD (VV 安排)
+			   (VA 好) )
+		      (NP-OBJ (-NONE- *-1))) ) )
+      (PU ，) ) ) 
+
+<su id=p1su22>
+
+
+( (IP (IP-CND (NP-SBJ (-NONE- *pro*))
+	      (VP (ADVP (CS 如果) )
+		  (VP (VP (VV 没有)
+			  (VP (VV 想到) ) )
+		      (PU ，)
+		      (CC 或)
+		      (VP (VV 没有)
+			  (VP (VV 做到) ) ) ) ) )
+      (PU ，)
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 就) )
+	  (VP (VV 应当)
+	      (VP (VV 有所)
+		  (NP-OBJ (NN 反思) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su23>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 不) )
+	  (VP (VV 能)
+	      (VP (ADVP (AD 总是) )
+		  (VP (VV 理直气壮) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su24>
+
+
+( (IP (PP-LOC (P 在)
+	      (NP (DP (DT 这) )
+		  (NP (NN 方面) ) ) )
+      (PU ，)
+      (NP-SBJ (-NONE- *pro*))
+      (VP (VE 有)
+	  (IP-OBJ (NP-SBJ (DNP (NP (QP (CD 一)
+				       (CLP (M 位) ) )
+				   (ADJP (JJ 老) )
+				   (NP (NN 外交家) ) )
+			       (DEG 的) )
+			  (NP (NN 故事) ) )
+		  (VP (ADVP (AD 不) )
+		      (VP (VV 应)
+			  (VP (VV 忘记) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su25>
+
+
+( (IP (NP-SBJ (PN 他) )
+      (VP (ADVP (AD 就) )
+	  (VP (VC 是)
+	      (NP-PRD-PN (NR 耿飚)
+			 (NN 将军) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su26>
+
+
+( (IP (NP-TMP (NP (DP (DT 上) )
+		  (NP (NN 世纪) ) )
+	      (NP (NT 60年代) ) )
+      (PU ，)
+      (NP-SBJ (NP-PN (NR 中)
+		     (NR 苏) )
+	      (QP (CD 两) )
+	      (NP (NN 党) ) )
+      (VP (ADVP (AD 公开) )
+	  (VP (VV 论战) ) )
+      (PU ，) ) ) 
+
+<su id=p1su27>
+
+
+( (IP (NP-SBJ (NN 社会主义)
+	      (NN 阵营) )
+      (VP (VV 发生)
+	  (NP-OBJ (NN 分裂) ) )
+      (PU 。) ) ) 
+
+<su id=p1su28>
+
+
+( (IP (NP-SBJ (NP-PN-APP (NR 波兰)
+			 (PU 、)
+			 (NR 匈牙利)
+			 (PU 、)
+			 (NR 捷克斯洛伐克)
+			 (PU 、)
+			 (NR 保加利亚)
+			 (PU 、)
+			 (NR 东德)
+			 (ETC 等) )
+	      (NP (NN 国) ) )
+      (VP (VV 站)
+	  (PP-LOC (P 在)
+		  (NP (NP-PN (NR 苏联) )
+		      (NP (NN 一边) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su29>
+
+
+( (IP (NP-SBJ (NP-PN-APP (NR 越南)
+			 (PU 、)
+			 (NR 朝鲜)
+			 (PU 、)
+			 (NR 罗马尼亚)
+			 (PU 、)
+			 (NR 古巴)
+			 (ETC 等) )
+	      (NP (NN 国) ) )
+      (VP (PP-ADV (P 和)
+		  (NP (NP-PN (NR 中)
+			     (PU 、)
+			     (NR 苏) )
+		      (NP (PN 双方) ) ) )
+	  (ADVP (AD 都) )
+	  (VP (VV 保持)
+	      (NP-OBJ (NN 关系) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su30>
+
+
+( (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		  (CP (IP (NP-TPC (-NONE- *T*-1))
+			  (PP-ADV (P 与)
+				  (NP-PN (NR 中国) ) )
+			  (NP-SBJ (NN 立场) )
+			  (VP (VA 一致) ) )
+		      (DEC 的) )))
+      (VP (ADVP (AD 只) )
+	  (VP (VE 有)
+	      (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+			  (CP (IP (NP-PN-SBJ (NR 霍查) )
+				  (VP (VV 领导)
+				      (NP-OBJ (-NONE- *T*-2))) )
+			      (DEC 的) ))
+		      (NP-PN (NR 阿尔巴尼亚) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su31>
+
+
+( (IP (ADVP (AD 因此) )
+      (PU ，)
+      (NP-SBJ-PN (NR 阿尔巴尼亚) )
+      (VP (LB 被)
+	  (IP-OBJ (NP-PN-SBJ (NR 中国) )
+		  (VP (VV 誉为)
+		      (NP-OBJ (DNP (NP-PN (NR 欧洲) )
+				   (DEG 的) )
+			      (NP (PU “)
+				  (QP (CD 一)
+				      (CLP (M 盏) ) )
+				  (NP (NN 社会主义)
+				      (NN 明灯) )
+				  (PU ”) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su32>
+
+
+( (IP (NP-SBJ (NP (NP (QP (CD 两) )
+		      (NP (NN 党) ) )
+		  (NP (QP (CD 两) )
+		      (NP (NN 国) ) ) )
+	      (NP (NN 关系) ) )
+      (VP (ADVP (AD 空前) )
+	  (VP (VA 亲密) ) )
+      (PU 。) ) ) 
+
+<su id=p1su33>
+
+
+( (IP (LCP-TMP (NP (NT 1967年) )
+	       (LC 初) )
+      (PU ，)
+      (NP-SBJ (NP-PN (NR 中国) )
+	      (DP (DT 所有) )
+	      (ADJP (JJ 驻外) )
+	      (NP (NN 使节) ) )
+      (VP (VP (VV 撤回)
+	      (NP-OBJ (NN 国内) ) )
+	  (PU ，)
+	  (VP (VV 参加)
+	      (NP-OBJ (NN 文革)
+		      (NN 运动) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su34>
+
+
+( (IP (NP-TMP (NT 1969年)
+	      (NT 春天) )
+      (PU ，)
+      (IP (IP (NP-SBJ (NP-PN (NR 中共) )
+		      (QP (OD 九) )
+		      (NP (NN 大) ) )
+	      (VP (VV 闭幕) ) )
+	  (PU ，)
+	  (IP (NP-SBJ (-NONE- *pro*))
+	      (VP (ADVP (AD 才) )
+		  (ADVP (AD 重新) )
+		  (PP-DIR (P 向)
+			  (NP (NN 外) ) )
+		  (VP (VV 派驻)
+		      (NP-OBJ (NN 使节) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su35>
+
+
+( (IP (NP-TMP (NT 当时) )
+      (PU ，)
+      (NP-PN-SBJ (NR 耿飚)
+		 (CC 和)
+		 (NR 黄镇) )
+      (VP (ADVP (AD 刚刚) )
+	  (VP (VV 当选)
+	      (NP-OBJ (QP (OD 九)
+			  (CLP (M 届) ) )
+		      (NP (NN 中央)
+			  (NN 委员) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su36>
+
+
+( (IP (NP-SBJ (NN 中央) )
+      (VP (VV 决定)
+	  (IP-OBJ (NP-SBJ (PN 他们) )
+		  (VP (ADVP (AD 分别) )
+		      (VP (VV 出任)
+			  (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+				      (CP (IP (NP-SBJ (-NONE- *T*-1))
+					      (VP (VV 驻)
+						  (NP-OBJ-PN (NR 阿尔巴尼亚)
+							     (CC 和)
+							     (NR 法国) ) ) )
+					  (DEC 的) ))
+				  (NP (NN 大使) ) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su37>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 表明)
+	  (NP-OBJ (DNP (PP (P 对)
+			   (NP (NP-PN (NR 中)
+				      (NR 阿)
+				      (PU 、)
+				      (NR 中)
+				      (NR 法) )
+			       (NP (NN 关系) ) ) )
+		       (DEG 的) )
+		  (ADJP (JJ 格外) )
+		  (NP (NN 重视) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su38>
+
+
+( (IP (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+		   (VP (VV 行) ) )
+	       (LC 前) )
+      (NP-PN-SBJ (NR 周恩来) )
+      (VP (ADVP (AD 还) )
+	  (ADVP (AD 专门) )
+	  (PP-ADV (P 与)
+		  (NP-PN (NR 耿飚) ) )
+	  (VP (VV 谈)
+	      (AS 了)
+	      (NP-OBJ (NN 话) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su39>
+
+
+( (IP (NP-TMP (NT 1969年)
+	      (NT 5月)
+	      (NT 16日) )
+      (PU ，)
+      (NP-SBJ-PN (NR 耿飚) )
+      (VP (VV 到达)
+	  (NP-OBJ-PN (NR 阿尔巴尼亚) ) )
+      (PU ，) ) ) 
+
+<su id=p1su40>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 受到)
+	  (NP-OBJ (DNP (NP (NP (NN 阿方) )
+			   (ADJP (JJ 主要) )
+			   (NP (NN 领导人) ) )
+		       (DEG 的) )
+		  (ADJP (JJ 隆重) )
+		  (NP (NN 接待) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su41>
+
+
+( (IP (ADVP (AD 但) )
+      (LCP-TMP (NP-SBJ (DNP (PP (P 与)
+				(NP (NN 阿方)
+				    (NN 领导人) ) )
+			    (DEG 的) )
+		       (NP (NN 接触) ) )
+	       (LC 中) )
+      (PU ，)
+      (NP-SBJ-PN (NR 耿飚) )
+      (VP (VV 感到)
+	  (IP-OBJ (NP-SBJ (PN 双方) )
+		  (VP (ADVP (AD 并) )
+		      (VP (VC 非)
+			  (VP (ADVP (AD 完全) )
+			      (VP (VA 一致) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su42>
+
+
+( (IP (PP-SBJ (P 在)
+	      (LCP (NP (CP (WHNP-1 (-NONE- *OP*))
+			   (CP (IP (NP-SBJ (PN 他) )
+				   (VP (NP-TMP (NT 晚年) )
+				       (VP (VV 完成)
+					   (NP-OBJ (-NONE- *T*-1))) ) )
+			       (DEC 的) ))
+		       (NP (NN 回忆录) ) )
+		   (LC 中) ) )
+      (PU ，)
+      (VP (VE 有)
+	  (NP-OBJ (ADJP (JJ 详细) )
+		  (NP (NN 记载) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su43>
+
+
+( (IP (NP-SBJ (NN 阿方) )
+      (VP (VV 赞扬)
+	  (NP-OBJ (DNP (LCP (NP (NP-PN (NR 中国) )
+				(NP (NN 文革) ) )
+			    (LC 中) )
+		       (DEG 的) )
+		  (ADJP (JJ 极左) )
+		  (NP (NN 思潮) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su44>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 不) )
+	  (VP (VV 赞成)
+	      (IP-OBJ (NP-PN-SBJ (NR 中国) )
+		      (VP (PP-ADV (P 和)
+				  (NP (NN 西方)
+				      (NN 国家) ) )
+			  (VP (VV 搞好)
+			      (NP-OBJ (NN 关系) ) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su45>
+
+
+( (IP (PP-DIR (P 对)
+	      (NP (PN 此) ) )
+      (NP-SBJ (NN 耿飚) )
+      (VP (ADVP (AD 颇) )
+	  (VP (VE 有)
+	      (NP-OBJ (NN 看法) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su46>
+
+
+( (PP-LOC (ADVP (AD 特别是) )
+	  (PP (P 在)
+	      (LCP (NP (NP-PN (NR 中国) )
+		       (NP (NN 援助)
+			   (NN 问题) ) )
+		   (LC 上) ) )
+	  (PU ，) ) ) 
+
+<su id=p1su47>
+
+
+( (IP (NP-SBJ (NN 阿方) )
+      (VP (NP-ADV (NN 狮子) )
+	  (ADVP (AD 大) )
+	  (VP (VV 张口) ) )
+      (PU ，) ) ) 
+
+<su id=p1su48>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 尤其) )
+	  (VP (VV 感到)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 忧虑) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su49>
+
+
+( (INC (NP-PN (NR 中国) )
+       (PP (P 自)
+	   (LCP (NP (NT 1954年) )
+		(LC 以来) ) )
+       (PU ，) ) ) 
+
+<su id=p1su50>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (PP-DIR (P 对)
+		  (NP-PN (NR 阿) ) )
+	  (NP-ADV (NN 经济)
+		  (PU 、)
+		  (NN 军事) )
+	  (VP (VV 援助)
+	      (NP-OBJ (ADVP (AD 将近) )
+		      (NP (QP (CD 90亿)
+			      (CLP (M 元) ) )
+			  (NP (NN 人民币) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su51>
+
+
+( (IP (NP-SBJ (NP-PN (NR 阿尔巴尼亚) )
+	      (ADJP (JJ 总) )
+	      (NP (NN 人口) ) )
+      (VP (ADVP (AD 才) )
+	  (VP (QP-PRD (CD 200万) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su52>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 平均) )
+	  (NP-ADV (DP (DT 每) )
+		  (NP (NN 人) ) )
+	  (VP (VV 达)
+	      (QP-OBJ (CD 4000多)
+		      (CLP (M 元) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su53>
+
+
+( (IP (NP-TMP (NT 当时) )
+      (PU ，)
+      (NP-SBJ (NN 中国人) )
+      (VP (VV 过)
+	  (AS 着)
+	  (NP-OBJ (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+			      (VP (VV 节衣缩食) ) )
+			  (DEC 的) )
+		  (NP (NN 生活) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su54>
+
+
+( (IP (PP-TMP (ADVP (AD 直) )
+	      (PP (P 到)
+		  (LCP (NP (NN 改革)
+			   (NN 开放) )
+		       (LC 前) ) ) )
+      (PU ，)
+      (NP-SBJ (ADJP (JJ 人均) )
+	      (ADJP (JJ 年) )
+	      (NP (NN 国民)
+		  (NN 生产)
+		  (NN 总值) ) )
+      (VP (ADVP (AD 不) )
+	  (ADVP (AD 曾) )
+	  (VP (VV 达到)
+	      (AS 过)
+	      (QP-OBJ (CD 400)
+		      (CLP (M 元) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su55>
+
+
+( (IP (IP (NP-SBJ (PN 我) )
+	  (VP (NP-TMP (NT 当时) )
+	      (PP-LOC (P 在)
+		      (NP (NP-PN (NR 山西) )
+			  (NP (NN 农村) ) ) )
+	      (VP (VV 插队) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NP (NN 农民) )
+		  (DNP (QP (CD 一)
+			   (CLP (M 年) ) )
+		       (DEG 的) )
+		  (NP (NN 生活费) ) )
+	  (VP (ADVP (AD 才) )
+	      (VP (QP-PRD (CD 40)
+			  (CLP (M 元) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su56>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 可以)
+	  (VP (VV 说)
+	      (PU ，)
+	      (IP-OBJ (NP-PN-SBJ (NR 中国) )
+		      (VP (VC 是)
+			  (VP (VP (VV 勒紧)
+				  (NP-OBJ (NN 裤腰带) ) )
+			      (VP (VV 搞)
+				  (NP-OBJ (NN 外援) ) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su57>
+
+
+( (IP (ADVP (AD 但) )
+      (NP-SBJ-PN (NR 霍查) )
+      (VP (DVP (VP (ADVP (AD 毫) )
+		   (ADVP (AD 不) )
+		   (VP (VV 掩饰) ) )
+	       (DEV 地) )
+	  (VP (VV 说)
+	      (PU ：)
+	      (IP-OBJ (PU “)
+		      (NP-TPC-2 (CP (WHNP-1 (-NONE- *OP*))
+				    (CP (IP (NP-SBJ (PN 你们) )
+					    (VP (VE 有)
+						(NP-OBJ (-NONE- *T*-1))) )
+					(DEC 的) )))
+		      (PU ，)
+		      (NP-SBJ (PN 我们) )
+		      (VP (ADVP (AD 也) )
+			  (VP (VV 要)
+			      (VP (VE 有)
+				  (NP-OBJ (-NONE- *T*-2))) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su58>
+
+
+( (IP (IP-SBJ (NP-SBJ (PN 我们) )
+	      (VP (PP-DIR (P 向)
+			  (NP (PN 你们) ) )
+		  (VP (VV 要求)
+		      (NP-OBJ (NN 帮助) ) ) ) )
+      (PU ，)
+      (VP (ADVP (AD 就) )
+	  (PP (P 如同)
+	      (IP (NP-SBJ (NN 弟弟) )
+		  (VP (PP-DIR (P 向)
+			      (NP (NN 哥哥) ) )
+		      (VP (VV 要求)
+			  (NP-OBJ (NN 帮助) ) ) ) ) )
+	  (VP (VA 一样) ) )
+      (PU 。)
+      (PU ”) ) ) 
+
+<su id=p1su59>
+
+
+( (IP (NP-SBJ (NP-APP (NN 部长)
+		      (NN 会议)
+		      (NN 主席) )
+	      (NP-PN (NR 谢胡) ) )
+      (VP (ADVP (AD 也) )
+	  (VP (VV 说)
+	      (PU ：)
+	      (CP-OBJ-Q (PU “)
+			(IP (IP-ADV (NP-SBJ (PN 我们) )
+				    (VP (ADVP (AD 不) )
+					(PP-DIR (P 向)
+						(NP (PN 你们) ) )
+					(VP (VV 要) ) ) )
+			    (PU ，)
+			    (NP-SBJ (-NONE- *pro*))
+			    (VP (PP-DIR (P 向)
+					(NP (PN 谁) ) )
+				(VP (VV 要) ) ) )
+			(SP 呢) ) ) )
+      (PU ？)
+      (PU ”) ) ) 
+
+<su id=p1su60>
+
+
+( (INC (LCP-TMP (IP (NP-SBJ (NP (NN 国务院)
+				(NN 副总理) )
+			    (NP-PN (NR 李先念) ) )
+		    (VP (VV 访问)
+			(NP-OBJ-PN (NR 阿尔巴尼亚) ) ) )
+		(LC 时))
+       (PU ，) ) ) 
+
+<su id=p1su61>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 曾) )
+	  (VP (VV 问)
+	      (NP-PN-IO (NR 谢胡) )
+	      (PU ，)
+	      (IP-OBJ-Q (IP-ADV (NP-SBJ (PN 你) )
+				(VP (VV 拿)
+				    (NP-OBJ (NP (PN 我们) )
+					    (ADJP (ADVP (AD 那么) )
+						  (ADJP (JJ 多) ) )
+					    (NP (NN 东西) ) ) ) )
+			(NP-SBJ (-NONE- *pro*))
+			(VP (VV 打算)
+			    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+				    (VP (NP-TMP-WH (DP (DT 什么) )
+						   (NP (NN 时候) ) )
+					(VP (VV 还) ) ) ) ) ) ) )
+      (PU ？) ) ) 
+
+<su id=p1su62>
+
+
+( (IP (NP-PN-SBJ (NR 谢胡) )
+      (VP (VV 说)
+	  (PU ，)
+	  (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		  (VP (ADVP (AD 根本) )
+		      (VP (VV 没有)
+			  (VP (VV 考虑)
+			      (AS 过)
+			      (NP-OBJ (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+						  (VP (VV 还) ) )
+					      (DEC 的) )
+				      (NP (NN 问题) ) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su63>
+
+
+( (IP (NP-PN-SBJ (NR 谢胡) )
+      (VP (VV 陪同)
+	  (NP-OBJ-PN (NR 李先念) )
+	  (IP (NP-SBJ (-NONE- *PRO*))
+	      (VP (VV 乘)
+		  (AS 了)
+		  (NP-EXT (QP (CD 六) )
+			  (NP (NN 小时) ) )
+		  (NP-OBJ (NN 汽车) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su64>
+
+
+( (IP (IP (NP-SBJ (NN 一路)
+		  (NN 谈话) )
+	  (VP (ADVP (AD 几乎) )
+	      (ADVP (AD 全) )
+	      (VP (VC 是)
+		  (IP-PRD (NP-SBJ (-NONE- *pro*))
+			  (VP (VV 要)
+			      (NP-OBJ (NN 东西) ) ) ) ) ) )
+      (PU 。)
+      (INC (NP (PN 他) ) ) ) ) 
+
+<su id=p1su65>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 说)
+	  (PU ：)
+	  (IP-OBJ (PU “)
+		  (NP-PN-SBJ (NR 阿) )
+		  (VP (VV 需要)
+		      (NP-OBJ (DNP (NP (PN 自己) )
+				   (DEG 的) )
+			      (NP (PU ‘)
+				  (NR 鞍钢)
+				  (PU ’) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su66>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 需要)
+	  (VP (VE 有)
+	      (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+			  (CP (IP (NP-SBJ (-NONE- *T*-1))
+				  (VP (VA 像样) ) )
+			      (DEC 的) ))
+		      (NP (NN 机械)
+			  (NN 工业) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su67>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 还) )
+	  (VP (VV 要)
+	      (NP-OBJ-PN (NR 中国) )
+	      (IP (NP-SBJ (-NONE- *PRO*))
+		  (VP (VV 援助)
+		      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			      (VP (VV 开发)
+				  (NP-OBJ (NN 海上)
+					  (NN 油田) ) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su68>
+
+
+( (INC (PP-LOC (P 在)
+	       (LCP (NP (DP (DT 下)
+			    (QP (CD 一)
+				(CLP (M 个) ) ) )
+			(QP (CD 五)
+			    (CLP (M 个) ) )
+			(NP (NN 计划) ) )
+		    (LC 里) ))
+       (PU ，) ) ) 
+
+<su id=p1su69>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 将) )
+	  (ADVP (AD 完全) )
+	  (VP (VV 用)
+	      (NP-OBJ (DNP (NP-PN (NR 中国) )
+			   (DEG 的) )
+		      (NP (NN 设备)
+			  (CC 和)
+			  (NN 材料) ) ) ) )
+      (PU 。)
+      (PU ”) ) ) 
+
+<su id=p1su70>
+
+
+( (INC (NP-PN-SBJ (NR 李先念) )
+       (VP-UNF (ADVP (AD 只好) )
+	       (VP (VV 表示) ) )
+       (PU ，) ) ) 
+
+<su id=p1su71>
+
+
+( (IP (NP-SBJ (PN 你们) )
+      (VP (VV 计划)
+	  (NP-OBJ (DNP (NP (PN 你们) )
+		       (DEG 的) )
+		  (NP (NN 需要) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su72>
+
+
+( (IP (NP-SBJ (PN 我们) )
+      (VP (VV 考虑)
+	  (NP-OBJ (DNP (NP (PN 我们) )
+		       (DEG 的) )
+		  (NP (NN 可能) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su73>
+
+
+( (IP (NP-PN-SBJ (NR 阿尔巴尼亚) )
+      (VP (ADVP (AD 还) )
+	  (PP-DIR (P 向)
+		  (NP-PN (NR 中国) ) )
+	  (VP (VV 提出)
+	      (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		      (VP (VV 援建)
+			  (NP-OBJ (NN 电视台) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su74>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 说)
+	  (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		  (VP (VV 要)
+		      (VP (VV 做到)
+			  (IP-OBJ (NP-SBJ (DP (DT 每)
+					      (CLP (M 个) ) )
+					  (NP (NN 农业社) ) )
+				  (VP (ADVP (AD 都) )
+				      (VP (VE 有)
+					  (NP-OBJ (NN 电视) ) ) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su75>
+
+
+( (IP (ADVP (AD 而) )
+      (NP-TPC (NP (NT 当时) )
+	      (NP-PN (NR 中国) ) )
+      (PU ，)
+      (NP-TPC (ADVP (AD 连) )
+	      (NP-PN (NR 北京)
+		     (PU 、)
+		     (NR 上海) ) )
+      (NP-SBJ (NN 电视机) )
+      (VP (ADVP (AD 都) )
+	  (ADVP (AD 很) )
+	  (VP (VA 稀罕) ) )
+      (PU ，) ) ) 
+
+<su id=p1su76>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 更) )
+	  (ADVP (AD 不) )
+	  (VP (VV 用)
+	      (VP (VV 说)
+		  (NP-OBJ (ADJP (JJ 广大) )
+			  (NP (NN 农村) ) ) ) ) )
+      (SP 了)
+      (PU 。) ) ) 
+
+<su id=p1su77>
+
+
+( (IP (IP (NP-PN-SBJ (NR 中国) )
+	  (VP (VV 帮)
+	      (NP-OBJ-PN (NR 阿尔巴尼亚) )
+	      (IP (NP-SBJ (-NONE- *PRO*))
+		  (VP (VV 搞)
+		      (AS 了)
+		      (NP-OBJ (NN 纺织厂) ) ) ) ) )
+      (PU ，)
+      (CC 但)
+      (IP (NP-SBJ (NN 当地) )
+	  (VP (VE 没有)
+	      (NP-OBJ (NN 棉花) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su78>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 要)
+	  (NP-OBJ-PN (NR 中国) )
+	  (IP (NP-SBJ (-NONE- *PRO*))
+	      (VP (VP (PP-MNR (P 用)
+			      (NP (NN 外汇) ) )
+		      (VP (VV 买进)
+			  (NP-OBJ (NN 棉花) ) ) )
+		  (VP (PP-BNF (P 给)
+			      (NP-PN (NR 阿尔巴尼亚) ) )
+		      (VP (VV 织成)
+			  (NP-OBJ (NN 布) ) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su79>
+
+
+( (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 做)
+		  (AS 了)
+		  (NP-OBJ (NN 成衣) ) ) )
+      (PU ，)
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 还) )
+	  (ADVP (AD 硬) )
+	  (VP (VV 要)
+	      (VP (VV 卖回)
+		  (NP-OBJ-PN (NR 中国) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su80>
+
+
+( (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		  (CP (IP (NP-PN-SBJ (NR 中国) )
+			  (VP (VV 援建)
+			      (NP-OBJ (-NONE- *T*-1))) )
+		      (DEC 的) ))
+	      (NP (NN 化肥厂) ) )
+      (PU ，)
+      (VP (ADVP (AD 本) )
+	  (VP (VV 应)
+	      (VP (VV 用)
+		  (NP-OBJ (NP-PN (NR 中国) )
+			  (NP (NN 设备) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su81>
+
+
+( (IP (ADVP (AD 但) )
+      (NP-SBJ (NN 阿方) )
+      (VP (VV 指定)
+	  (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		  (VP (VV 要)
+		      (VP (VV 用)
+			  (NP-OBJ (NP-PN (NR 意大利) )
+				  (NP (NN 设备) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su82>
+
+
+( (IP (NP-PN-SBJ (NR 中国) )
+      (VP (ADVP (AD 只好) )
+	  (VP (VP (PP-MNR (P 用)
+			  (NP (NN 外汇) ) )
+		  (VP (VV 买来) ) )
+	      (VP (VV 安上) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su83>
+
+
+( (IP (IP-ADV (NP-SBJ (NN 机器) )
+	      (VP (VA 坏)
+		  (AS 了) ) )
+      (PU ，)
+      (NP-SBJ (NP-APP (NN 副总理) )
+	      (NP-PN (NR 查尔查尼) ) )
+      (VP (ADVP (AD 又) )
+	  (VP (VV 要)
+	      (NP-OBJ-PN (NR 中国) )
+	      (IP (NP-SBJ (-NONE- *PRO*))
+		  (VP (VP (PP-DIR (P 从)
+				  (NP-PN (NR 意大利) ) )
+			  (VP (VV 买)
+			      (NP-OBJ (NN 机器) ) ) )
+		      (VP (VV 更换) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su84>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (LB 被)
+	  (CP-OBJ (WHNP-1 (-NONE- *OP*))
+		  (IP (NP-PN-SBJ (NR 耿飚) )
+		      (VP (VV 拒绝)
+			  (AS 了)
+			  (NP-OBJ (-NONE- *T*-1))) )) )
+      (PU 。) ) ) 
+
+<su id=p1su85>
+
+
+( (IP (NP-PN-SBJ (NR 耿飚) )
+      (VP (ADVP (AD 还) )
+	  (VP (VV 看到)
+	      (PU ，)
+	      (CP-OBJ (IP (NP-SBJ (DNP (LCP (NP (NN 马路) )
+					    (LC 边) )
+				       (DEG 的) )
+				  (NP (NN 电线杆) ) )
+			  (PU ，)
+			  (VP (ADVP (AD 都) )
+			      (VP (VC 是)
+				  (VP (PP-MNR (P 用)
+					      (NP (CP (WHNP-1 (-NONE- *OP*))
+						      (CP (IP (NP-PN-SBJ (NR 中国) )
+							      (VP (VV 援助)
+								  (NP-OBJ (-NONE- *T*-1))) )
+							  (DEC 的) ))
+						  (ADJP (JJ 优质) )
+						  (NP (NN 钢管) ) ) )
+				      (VP (VV 做) ) ) ) ) )
+		      (SP 的) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su86>
+
+
+( (IP (NP-SBJ (PN 他们) )
+      (VP (PP-MNR (P 用)
+		  (NP (CP (WHNP-1 (-NONE- *OP*))
+			  (CP (IP (NP-PN-SBJ (NR 中国) )
+				  (VP (VV 援助)
+				      (NP-OBJ (-NONE- *T*-1))) )
+			      (DEC 的) ))
+		      (NP (NN 水泥)
+			  (PU 、)
+			  (NN 钢筋) ) ) )
+	  (ADVP (AD 到处) )
+	  (VP (VV 修建)
+	      (NP-OBJ (NN 烈士)
+		      (NN 纪念碑) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su87>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (NP-ADV (NN 全国) )
+	  (ADVP (AD 共) )
+	  (VP (VV 修)
+	      (AS 了)
+	      (QP-OBJ (CD 一万多)
+		      (CLP (M 个) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su88>
+
+
+( (IP (NP-SBJ-2 (CP (WHNP-1 (-NONE- *OP*))
+		    (CP (IP (NP-PN-SBJ (NR 中国) )
+			    (VP (VV 援助)
+				(NP-OBJ (-NONE- *T*-1))) )
+			(DEC 的) ))
+		(NP (NN 化肥) ) )
+      (PU ，)
+      (VP (SB 被)
+	  (VP (DVP (VP (VA 乱七八糟) )
+		   (DEV 地) )
+	      (VP (VV 堆)
+		  (PP-LOC (P 在)
+			  (LCP (NP (NN 地) )
+			       (LC 里) ) )
+		  (NP-OBJ (-NONE- *-2)))) )
+      (PU ，) ) ) 
+
+<su id=p1su90>
+
+
+( (INC (NP-PN-SBJ (NR 耿飚) )
+       (VP (VV 认为)
+	   (PU ，)
+	   (IP-UNF (NP-SBJ (PP (P 像)
+			       (NP (PN 这样) ) )
+			   (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+				       (VP (PU “)
+					   (VV 有求必允)
+					   (PU ”) ) )
+				   (DEC 的) )
+			   (NP (NN 援助)
+			       (NN 法) ) ) ) )
+       (PU ，) ) ) 
+
+<su id=p1su91>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 加重)
+	  (AS 了)
+	  (NP-OBJ (DNP (NP-PN (NR 中国) )
+		       (DEG 的) )
+		  (NP (NN 经济)
+		      (NN 困难) ) ) )
+      (PU ；) ) ) 
+
+<su id=p1su92>
+
+
+( (IP (PP-DIR (P 对)
+	      (LCP (NP (NN 阿方) )
+		   (LC 来说) ) )
+      (PU ，)
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 只) )
+	  (VP (VV 能)
+	      (VP (VV 养成)
+		  (NP-OBJ (NP (PN 他们) )
+			  (NP (NP (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+					      (VP (VP (IP-ADV (NP-SBJ (NN 饭) )
+							      (VP (VV 来) ) )
+						      (VP (VV 张口) ) )
+						  (PU 、)
+						  (VP (IP-ADV (NP-SBJ (NN 衣) )
+							      (VP (VV 来) ) )
+						      (VP (VV 伸手) ) ) ) )
+					  (DEC 的) )
+				  (NP (NN 懒惰)
+				      (NN 习惯) ) )
+			      (CC 以及)
+			      (NP (DNP (PP (P 对)
+					   (NP (NN 外援) ) )
+				       (DEG 的) )
+				  (NP (NN 依赖)
+				      (NN 心理) ) ) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su93>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 而) )
+	  (VP (VV 无助于)
+	      (NP-OBJ (DNP (NP (PN 他们) )
+			   (DEG 的) )
+		      (NP (NN 经济)
+			  (NN 建设) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su94>
+
+
+( (IP (NP-PN-SBJ (NR 耿飚) )
+      (VP (VP (VV 想)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (PP-DIR (P 向)
+				  (NP (NN 国内) ) )
+			  (VP (VV 反映) ) ) ) )
+	  (PU ，)
+	  (CC 但)
+	  (VP (ADVP (AD 又) )
+	      (NP-ADV (NN 心) )
+	      (VP (VV 存)
+		  (NP-OBJ (NN 顾虑) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su95>
+
+
+( (IP (IP-TPC (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 说)
+		  (NP-OBJ (DNP (NP (PU “)
+				   (NP-PN (NR 欧洲) )
+				   (NP (NN 社会主义)
+				       (NN 明灯) )
+				   (PU ”) )
+			       (DEG 的) )
+			  (NP (NN 坏话) ) ) ) )
+      (PU ，)
+      (NP-SBJ (NN 后果) )
+      (VP (ADVP (AD 难以) )
+	  (VP (VV 预料) ) )
+      (PU 。) ) ) 
+
+<su id=p1su96>
+
+
+( (IP (NP-TMP (NT 1962年) )
+      (PU ，)
+      (NP-SBJ (NP-APP (NN 中央)
+		      (NN 书记处)
+		      (NN 书记)
+		      (PU 、)
+		      (NN 中联)
+		      (NN 部长) )
+	      (NP-PN (NR 王稼祥) ) )
+      (VP (PP-DIR (P 向)
+		  (NP (NN 中央) ) )
+	  (VP (VV 建议) ) )
+      (PU ，) ) ) 
+
+<su id=p1su97>
+
+
+( (IP (IP-SBJ (NP-SBJ (-NONE- *pro*))
+	      (VP (PP-DIR (P 对)
+			  (NP (NN 外) ) )
+		  (VP (VV 援助) ) ) )
+      (VP (VV 要)
+	  (VP (VV 实事求是)
+	      (PU ，)
+	      (VV 量力而行) ) )
+      (PU ，) ) ) 
+
+<su id=p1su98>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 就) )
+	  (VP (SB 被)
+	      (VP (VCP (VV 批评)
+		       (VC 为) )
+		  (NP-OBJ (NP (PU “)
+			      (NP (QP (CD 三) )
+				  (NP (NN 和) ) )
+			      (NP (QP (CD 一) )
+				  (NP (NN 少) ) )
+			      (PU ”) )
+			  (PU ，)
+			  (NP (PU “)
+			      (NP (QP (CD 三) )
+				  (NP (NN 降) ) )
+			      (NP (QP (CD 一) )
+				  (NP (NN 灭) ) )
+			      (PU ”) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su99>
+
+
+( (IP (IP-SBJ (NP-PN-SBJ (NR 毛泽东) )
+	      (VP (QP-TMP (CD 几)
+			  (CLP (M 次) ) )
+		  (ADVP (AD 突然) )
+		  (ADVP (AD 大幅度) )
+		  (VP (VV 提高)
+		      (NP-OBJ (NN 外援)
+			      (NN 项目)
+			      (NN 金额) ) ) ) )
+      (PU ，)
+      (VP (VV 让)
+	  (NP-OBJ (NP-PN-APP (NR 周恩来)
+			     (ETC 等) )
+		  (NP (NN 领导人) ) )
+	  (IP (NP-SBJ (-NONE- *PRO*))
+	      (VP (VV 措手不及) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su100>
+
+
+( (INC (PP (P 经过)
+	   (NP (CP (WHNP-1 (-NONE- *OP*))
+		   (CP (IP (NP-SBJ (-NONE- *T*-1))
+			   (VP (VA 激烈) ) )
+		       (DEC 的) ))
+	       (NP (NN 思想)
+		   (NN 斗争) ) ))
+       (PU ，) ) ) 
+
+<su id=p1su101>
+
+
+( (IP (NP-PN-SBJ (NR 耿飚) )
+      (VP (ADVP (AD 还是) )
+	  (VP (VP (PP-BNF (P 给)
+			  (NP (NP (CP (WHNP-1 (-NONE- *OP*))
+				      (CP (IP (NP-SBJ (-NONE- *T*-1))
+					      (VP (VV 主管)
+						  (NP-OBJ (NP-PN (NR 欧洲) )
+							  (NP (NN 事务) ) ) ) )
+					  (DEC 的) ))
+				  (NP (NN 副外长) ) )
+			      (NP-PN (NR 乔冠华) ) ) )
+		  (VP (VV 写)
+		      (AS 了)
+		      (NP-OBJ (QP (CD 一)
+				  (CLP (M 封) ) )
+			      (ADJP (JJ 长) )
+			      (NP (NN 信) ) ) ) )
+	      (PU ，)
+	      (VP (DVP (VP (VV 直言不讳) )
+		       (DEV 地) )
+		  (VP (VV 提出)
+		      (AS 了)
+		      (NP-OBJ (NN 意见) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su102>
+
+
+( (IP (NP-SBJ (PN 他) )
+      (VP (VV 建议)
+	  (NP-OBJ (NN 国内) )
+	  (IP (NP-SBJ (-NONE- *PRO*))
+	      (VP (PP-DIR (P 对)
+			  (NP (CP (WHPP-1 (-NONE- *OP*))
+				  (CP (IP (NP-SBJ (-NONE- *pro*))
+					  (VP (PP-ADV (-NONE- *T*-1))
+					      (VP (VV 援)
+						  (NP-OBJ-PN (NR 阿) ) )))
+				      (DEC 的) ))
+			      (NP (NN 规模)
+				  (PU 、)
+				  (NN 内容)
+				  (CC 和)
+				  (NN 方法) ) ) )
+		  (PU ，)
+		  (ADVP (AD 均) )
+		  (VP (VV 须)
+		      (VP (VP (ADVP (AD 重新) )
+			      (VP (VV 考虑) ) )
+			  (PU ，)
+			  (VP (ADVP (AD 通盘) )
+			      (VP (VV 修改) ) ) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su103>
+
+
+( (IP (NP-PN-SBJ (NR 乔冠华) )
+      (VP (VV 感到)
+	  (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		  (VP (VV 无能为力) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su104>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (BA 将)
+	  (IP-OBJ (NP-SBJ-1 (DNP (NP (PN 他) )
+				 (DEG 的) )
+			    (NP (NN 信) ) )
+		  (VP (VV 转报)
+		      (NP-IO (NN 中央) )
+		      (NP-OBJ (-NONE- *-1))) ) )
+      (PU 。) ) ) 
+
+<su id=p1su105>
+
+
+( (IP (ADVP (AD 后来) )
+      (NP-SBJ-PN (NR 耿飚) )
+      (VP (VV 回国) )
+      (PU ，) ) ) 
+
+<su id=p1su106>
+
+
+( (IP (NP-PN-SBJ (NR 李先念) )
+      (VP (PP-DIR (P 对)
+		  (NP (PN 他) ) )
+	  (VP (VV 说)
+	      (PU ：)
+	      (IP-OBJ (PU “)
+		      (NP-PN-VOC (NR 耿飚) )
+		      (PU ，)
+		      (IP (IP (NP-SBJ (NP (PN 你) )
+				      (NP (NN 胆子) ) )
+			      (VP (ADVP (AD 真) )
+				  (ADVP (AD 不) )
+				  (VP (VA 小) ) ) )
+			  (PU ，)
+			  (IP (NP-SBJ (-NONE- *pro*))
+			      (VP (VV 敢)
+				  (VP (VV 说)
+				      (NP-OBJ (DNP (NP-PN (NR 阿尔巴尼亚) )
+						   (DEG 的) )
+					      (NP (PU ‘)
+						  (NN 坏话)
+						  (PU ’) ) ) ) ) ) ) ) ) )
+      (PU ！) ) ) 
+
+<su id=p1su107>
+
+
+( (IP (NP-SBJ (PN 你) )
+      (VP (VC 是)
+	  (NP-PRD (QP (OD 第一)
+		      (CLP (M 个) ) )
+		  (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (VV 提出)
+				  (NP-OBJ (DP (DT 这)
+					      (CLP (M 种) ) )
+					  (NP (NN 意见) ) ) ) )
+			  (DEC 的) ))
+		  (NP (NN 人) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su108>
+
+
+( (IP (NP-SBJ (PN 我) )
+      (VP (VP (PP-DIR (P 对)
+		      (NP (DP (DT 这)
+			      (CLP (M 件) ) )
+			  (NP (NN 事) ) ) )
+	      (ADVP (AD 也) )
+	      (VP (VE 有)
+		  (NP-OBJ (NN 意见) ) ) )
+	  (PU ，)
+	  (CC 但)
+	  (VP (ADVP (AD 一直) )
+	      (VP (VE 没有)
+		  (NP-OBJ (CP (WHPP-1 (-NONE- *OP*))
+			      (CP (IP (NP-SBJ (-NONE- *pro*))
+				      (VP (PP-ADV (-NONE- *T*-1))
+					  (VP (VV 说话)) ) )
+				  (DEC 的) ))
+			  (NP (NN 机会) ) ) ) ) )
+      (PU 。)
+      (PU ”) ) ) 
+
+<su id=p1su109>
+
+
+( (INC (ADVP (AD 幸好) )
+       (LCP-TMP (IP (NP-PN-SBJ (NR 毛泽东) )
+		    (VP (VV 看)
+			(AS 了)
+			(NP-OBJ (DNP (NP-PN (NR 耿飚) )
+				     (DEG 的) )
+				(NP (NN 信) ) ) ) )
+		(LC 后) )
+       (PU ，) ) ) 
+
+<su id=p1su110>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 给以)
+	      (NP-OBJ (NN 称赞) ) ) )
+      (PU ：)
+      (IP (PU “)
+	  (NP-PN-SBJ (NR 耿飚) )
+	  (VP (VP (VV 敢)
+		  (VP (VP (VV 说)
+			  (NP-OBJ (NN 真话) ) )
+		      (PU ，)
+		      (VP (VV 反映)
+			  (NP-OBJ (ADJP (JJ 真实) )
+				  (NP (NN 情况) ) ) ) ) )
+	      (PU ，)
+	      (VP (VC 是)
+		  (NP-PRD (QP (CLP (M 个) ) )
+			  (ADJP (JJ 好) )
+			  (NP (NN 大使) ) ) ) ) )
+      (PU 。)
+      (PU ”) ) ) 
+
+<su id=p1su111>
+
+
+( (IP (IP-SBJ (NP-PN-SBJ (NR 耿飚) )
+	      (VP (VV 告状) ) )
+      (PU ，)
+      (VP (ADVP (AD 总算) )
+	  (VP (VV 有惊无险) ) )
+      (PU 。) ) ) 
+
+<su id=p1su112>
+
+
+( (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 出使)
+		  (QP-EXT (QP (CD 一)
+			      (CLP (M 年) ) )
+			  (ADVP (AD 多) ) ) ) )
+      (PU ，)
+      (NP-SBJ-PN (NR 耿飚) )
+      (VP (ADVP (AD 还是) )
+	  (VP (VV 离开)
+	      (AS 了)
+	      (NP-OBJ-PN (NR 阿尔巴尼亚) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su113>
+
+
+( (INC (NP-SBJ (NN 原因) )
+       (VP (VC 是)
+	   (IP-UNF (IP-ADV (NP-SBJ (-NONE- *pro*))
+			   (VP (VV 参加)
+			       (NP-OBJ (NP (NN 使馆) )
+				       (ADJP (JJ 大) )
+				       (NP (NN 扫除) ) ) ) ) ) )
+       (PU ，) ) ) 
+
+<su id=p1su114>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VP (VV 爬到)
+		  (NP-OBJ (NN 高处) ) )
+	      (VP (VV 擦)
+		  (NP-OBJ (NN 玻璃) ) ) ) )
+      (PU ，)
+      (IP (IP-ADV (NP-SBJ (-NONE- *pro*))
+		  (VP (ADVP (AD 不) )
+		      (VP (VV 留神) ) ) )
+	  (NP-SBJ (-NONE- *pro*))
+	  (VP (VRD (VV 摔)
+		   (VV 下来) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 左腿) )
+	  (VP (VV 骨折) ) )
+      (PU 。) ) ) 
+
+<su id=p1su115>
+
+
+( (IP (IP (NP-SBJ (NN 当地)
+		  (NN 医疗)
+		  (NN 条件) )
+	  (VP (VA 差) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 只好) )
+	      (VP (VSB (VV 回国)
+		       (VV 治疗) ) ) ))
+      (PU 。) ) ) 
+
+<su id=p1su116>
+
+
+( (IP (NP-TMP (NT 此前) )
+      (PU ，)
+      (NP-SBJ-PN (NR 康生) )
+      (VP (ADVP (AD 已经) )
+	  (VP (VV 提名)
+	      (NP-OBJ (PN 他) )
+	      (IP (NP-SBJ (-NONE- *PRO*))
+		  (VP (VV 出掌)
+		      (NP-OBJ (NN 中联部) ) ) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su117>
+
+
+( (IP (NP-PN-SBJ (NR 周恩来) )
+      (VP (VV 报请)
+	  (NP-OBJ-PN (NR 毛泽东) )
+	  (IP (NP-SBJ (-NONE- *PRO*))
+	      (VP (VV 同意)
+		  (PU ，)
+		  (IP-OBJ (NP-SBJ (-NONE- *pro*))
+			  (VP (VV 让)
+			      (NP-OBJ-PN (NR 耿飚) )
+			      (IP (NP-SBJ (-NONE- *PRO*))
+				  (VP (VV 出任)
+				      (NP-OBJ (NN 中联部)
+					      (NN 部长) ) ) ) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p1su118>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 结束)
+	  (AS 了)
+	  (NP-OBJ (NP-APP (CP (WHNP-1 (-NONE- *OP*))
+			      (IP (NP-SBJ (-NONE- *T*-1))
+				  (VP (VV 驻)
+				      (NP-OBJ-PN (NR 阿尔巴尼亚) ) ) ))
+			  (NP (NN 大使) ) )
+		  (NP (NN 职务) ) ) )
+      (PU 。) ) ) 
+
+<su id=p1su119>
+
+
+( (UCP (IP (NP-SBJ (NP-PN (NR 中国) )
+		   (NP (NN 老百姓) ) )
+	   (VP (ADVP (AD 更) )
+	       (VP (VV 愿意)
+		   (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+			   (VP (VV 接受)
+			       (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+					   (CP (IP (NP-SBJ (-NONE- *T*-1))
+						   (VP (NP-PN-ADV (NR 耿飚) )
+						       (VP (VA 这样) )))
+					       (DEC 的) ))
+				       (NP (NN 外交家) ) ) ) ) ) ) )
+       (PU 。)
+       (NP (PU （)
+	   (NR 丁东)
+	   (PU ）) ) ) ) 
+
+<su id=p2su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 笑而不语) )
+      (PU ……) ) ) 
+
+<su id=p2su2>
+
+
+( (IP (ADVP (AD 恐怕) )
+      (IP (PU “)
+	  (IP (NP-SBJ (NN 天朝)
+		      (NN 上国) )
+	      (VP (NP-FOC-1 (PN 啥) )
+		  (ADVP (AD 都) )
+		  (VP (VE 有)
+		      (NP-OBJ (-NONE- *-1))) ) )
+	  (PU ，)
+	  (IP-Q (IP-SBJ (NP-SBJ (-NONE- *pro*))
+			(VP (VV 设施)
+			    (QP-OBJ (CLP (M 些) ) )
+			    (PP-BNF (P 给)
+				    (NP (DP (DT 那) )
+					(NP (NN 海外)
+					    (NN 蛮夷) ) ) ) ) )
+		(VP (ADVP (AD 又) )
+		    (VP-WH (VV 何妨) ) ) ) )
+      (PU ？)
+      (PU ！)
+      (PU ”)
+      (PU ……) ) ) 
+
+<su id=p3su1>
+
+
+( (IP (PU ……)
+      (NP-SBJ (NP-PN (NR 中国) )
+	      (NP (NN 政府) ) )
+      (VP (VV 应当)
+	  (VP (VV 承担)
+	      (NP-OBJ (NN 国际)
+		      (NN 责任) ) ) )
+      (PU ，) ) ) 
+
+<su id=p3su2>
+
+
+( (IP (ADVP (AD 但) )
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 首先) )
+	  (VP (VV 要)
+	      (VP (VP (BA 把)
+		      (IP-OBJ (NP-SBJ-1 (DNP (NP (NN 国内) )
+					     (DEG 的) )
+					(NP (NN 事情) ) )
+			      (VP (VV 办好)
+				  (NP-OBJ (-NONE- *-1))) ) )
+		  (PU ，)
+		  (VP (BA 把)
+		      (IP-OBJ (NP-SBJ-2 (DNP (ADJP (JJ 基本) )
+					     (DEG 的) )
+					(NP (NN 民生)
+					    (NN 需求) ) )
+			      (VP (VRD (VV 安排)
+				       (VA 好) )
+				  (NP-OBJ (-NONE- *-2))) ) ) ) ) )
+      (PU ，) ) ) 
+
+<su id=p3su3>
+
+
+( (INC (IP-CND (NP-SBJ (-NONE- *pro*))
+	       (VP (ADVP (CS 如果) )
+		   (VP (VP (VV 没有)
+			   (VP (VV 想到) ) )
+		       (PU ，)
+		       (CC 或)
+		       (VP (VV 没有)
+			   (VP (VV 做到) ) ) ) ))
+       (PU ，) ) ) 
+
+<su id=p3su4>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 就) )
+	      (VP (VV 应当)
+		  (VP (VV 有所)
+		      (NP-OBJ (NN 反思) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 不) )
+	      (VP (VV 能)
+		  (VP (ADVP (AD 总是) )
+		      (VP (VV 理直气壮) ) ) ) ) )
+      (PU 。)
+      (PU ……) ) ) 
+

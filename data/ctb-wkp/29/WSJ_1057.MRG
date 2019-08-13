@@ -1,0 +1,131 @@
+<su id=p1su1>
+
+
+( (CP (IP (NP-TMP (NT 近日))
+	  (IP-SBJ (NP-SBJ (NN 华人))
+		  (VP (VP (VV 入)
+			  (NP-PN-OBJ (NR 韩)))
+		      (VP (VV 旅游))))
+	  (VP (ADVP (AD 将))
+	      (VP (VC 是)
+		  (VP (ADVP (AD 最))
+		      (VP (VA 危险))))))
+      (SP 的)) ) 
+
+<su id=p1su2>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 近来))
+	      (PP-LOC (P 在)
+		      (NP-PN (NR 韩国)))
+	      (VP (VV 发生)
+		  (NP-OBJ (QP (CD 多)
+			      (CLP (M 起)))
+			  (DNP (PP (P 针对)
+				   (NP (CP (WHNP-1 (-NONE- *OP*))
+					   (IP (NP-SBJ (-NONE- *T*-1))
+					       (VP (NP-DIR (NR 中国))
+						   (VP (VV 入)
+						       (NP-PN (NR 韩))))))
+				       (NP (NN 旅游团))))
+			       (DEG 的))
+			  (ADJP (JJ 恶性))
+			  (NP (NN 事件))))))
+      (PU ，)
+      (IP (NP-SBJ (NN 其中))
+	  (VP (VE 有)
+	      (IP-OBJ (QP-SBJ (CD 二十七)
+			      (CLP (NN 人)))
+		      (SKIP (NOI 被))
+		      (VP (LB 被)
+			  (IP-OBJ (NP-SBJ (NP-PN (NR 韩国))
+					  (NP (NN 警方)))
+				  (VP (VV 限制)
+				      (NP-OBJ (NN 自由))))))))
+      (PU ，)) ) 
+
+<su id=p1su3>
+
+
+( (IP (NP-SBJ (QP (CD 一)
+		  (CLP (M 次)))
+	      (NP (NN 出国游)))
+      (VP (ADVP (AD 就))
+	  (ADVP (AD 这样))
+	  (VP (VV 变成)
+	      (AS 了)
+	      (NP-OBJ (DNP (NP (NP (NN 异国))
+			       (NP (QP (CD 12))
+				   (NP (NN 小时))))
+			   (DEG 的))
+		      (NP (NN 监禁)))))
+      (PU 。)) ) 
+
+<su id=p1su4>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 同时))
+	  (VP (VE 有)
+	      (IP-OBJ (NP-SBJ (QP (CD 两))
+			      (NP (NN 人)))
+		      (VP (VP (VV 受到)
+			      (NP-OBJ (NN 伤害)))
+			  (VP (VV 入院))))))
+      (PU 。)) ) 
+
+<su id=p1su5>
+
+
+( (IP-IMP (NP-SBJ (-NONE- *pro*))
+	  (VP (PP-PRP (P 为了)
+		      (NP (DNP (NP (PN 您))
+			       (DEG 的))
+			  (NP (NP (NN 快乐))
+			      (PU 、)
+			      (NP (NN 安全)))))
+	      (PU 。)
+	      (PP-TMP (P 在)
+		      (NP (CP (WHPP-1 (-NONE- *OP*))
+			      (CP (IP (NP-SBJ (NN 危机))
+				      (VP (PP-TMP (-NONE- *T*-1))
+					  (VP (QP (VV 四伏)))))
+				  (DEC 的)))
+			  (NP (NT 近期))))
+	      (VP (VV 请)
+		  (VP (VV 改变)
+		      (NP-OBJ (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+					  (VP (VP (VV 入)
+						  (NP-PN-OBJ (NR 韩)))
+					      (VP (VV 旅游))))
+				      (DEC 的))
+			      (NP (NN 计划))))))
+	  (PU 。)) ) 
+
+<su id=p3su1>
+
+
+( (IP-IMP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *T*-1))
+			      (VP (VP (NP-TMP (NT 近期))
+				      (VP (VV 想)
+					  (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+						  (VP (VV 死)))))
+				  (PU ，)
+				  (VP (ADVP (CC 又))
+				      (VP (VP (VE 没)
+					      (NP-OBJ (NN 勇气)))
+					  (VP (VV 自杀))))))
+			  (DEC 的))))
+	  (VP (VV 请)
+	      (VP (VP (VV 去)
+		      (NP-PN-OBJ (NR 韩国)))
+		  (VP (VV 旅游))))) ) 
+
+<su id=p4su1>
+
+
+( (IP (NP-SBJ (NN 汉奸))
+      (VP (VV 崇洋媚外))) ) 
+

@@ -1,0 +1,99 @@
+<DOC>
+<DOCID>ART125</DOCID>
+<HEADER>
+    <DATE></DATE>
+</HEADER>
+<BODY>
+<HEADLINE>
+<S ID=2344>
+( (IP-HLN (NP-SBJ (NP (NP-PN (NR 乍得)) 
+		      (ADJP (JJ 新)) 
+		      (NP (NN 领导人))) 
+		  (NP-PN (NR 代比))) 
+          (VP (VV 访) 
+              (NP-PN-OBJ (NR 法)))) ) 
+</S>
+</HEADLINE>
+<TEXT>
+<P>
+<S ID=2345>
+( (IP (NP-SBJ (NP-APP (NP-PN (NR 乍得)) 
+		      (ADJP (JJ 新)) 
+		      (NP (NN 总统))) 
+	      (NP-PN (NR 依迪斯·代比))) 
+      (VP (NP-TMP (NT 十二日)) 
+          (VP (VP (VV 到达) 
+		  (NP-PN-OBJ (NR 巴黎))) 
+	      (VP (VV 访问)))) 
+      (PU 。)) ) 
+</S>
+<S ID=2346>
+( (IP (NP-PN-SBJ (NR 密特朗) 
+                 (NN 总统)) 
+      (VP (PP (P 同) 
+              (NP (PN 他))) 
+          (VP (VV 进行) 
+	      (AS 了) 
+	      (NP-OBJ (NP (QP (CD 半)) 
+			  (NP (NN 小时))) 
+		      (ADJP (JJ 秘密)) 
+		      (NP (NN 会谈))))) 
+      (PU 。)) ) 
+</S>
+<S ID=2347>
+( (IP (IP (NP-PN-SBJ (NR 代比)) 
+          (VP (VV 希望) 
+              (IP-OBJ (NP-PN-SBJ (NR 法国)) 
+                      (VP (VV 给予) 
+                          (NP-IO-PN (NR 乍得)) 
+                          (NP-OBJ (PU 『) 
+                                  (ADJP (JJ 全面)) 
+                                  (NP (NN 支持)) 
+                                  (PU 』)))))) 
+      (IP (NP-PN-SBJ (NR 法国)) 
+          (VP (PP-TMP (P 在) 
+                      (NP (CP (WHNP-1 (-NONE- *OP*)) 
+                              (CP (IP (NP-SBJ (-NONE- *pro*)) 
+				      (VP (PP-TMP (-NONE- *T*-1)) 
+					  (VP (VV 表示) 
+					      (IP (NP-SBJ (-NONE- *pro*)) 
+						  (VP (VV 愿) 
+						      (VP (VV 提供) 
+							  (NP-OBJ (NN 合作)))))))) 
+				  (DEC 的))) 
+                          (NP (NN 同时)))) 
+              (PU ，) 
+              (VP (VV 表示) 
+		  (IP (NP-SBJ (-NONE- *pro*)) 
+		      (VP (ADVP (AD 将)) 
+			  (VP (VV 中止) 
+			      (NP-OBJ (DNP (PP (P 同) 
+					       (NP-PN (NR 乍得))) 
+					   (DEG 的)) 
+				      (ADJP (JJ 军事)) 
+				      (NP (NN 协议))))))))) 
+      (PU 。)) ) 
+</S>
+<S ID=2348>
+( (IP (NP-TMP (NT 目前)) 
+      (NP-PN-SBJ (NR 法国)) 
+      (VP (PP-LOC (P 在) 
+                  (NP-PN (NR 乍得))) 
+          (VP (VE 有) 
+	      (NP-OBJ (DNP (NP (QP (CD 一千二百)) 
+			       (NP (NN 人))) 
+			   (DEG 的)) 
+		      (NP (NN 驻军))))) 
+      (PU 。)) ) 
+</S>
+<S ID=2349>
+( (FRAG  (PU （) 
+	 (NP-HLN (NP (DP (DT 本)) 
+		     (NP (NN 报))) 
+		 (NP (NN 专电))) 
+	 (PU ）)) ) 
+</S>
+</P>
+</TEXT>
+</BODY>
+</DOC>

@@ -1,0 +1,265 @@
+<su id=p1su1>
+
+
+( (INC (NP-SBJ (NN 左右))
+       (VP (LB 被)
+	   (CP-OBJ (IP (NP-SBJ (NP (DT 什么))
+			       (NP (NN 政体))))))))
+
+<su id=p1su2>
+
+
+( (FRAG (VV 耍)
+	(PU ？)))
+
+<su id=p1su3>
+
+
+( (FRAG (VV 愚弄)
+	(PU ？)) ) 
+
+<su id=p4su1>
+
+
+( (IP (IP-ADV (NP-SBJ (PN 你))
+	      (VP (ADVP (AD 不))
+		  (VP (VV 耍)
+		      (NP-OBJ (PN 自己)))))
+      (NP-SBJ (-NONE- *pro*))
+      (VP (VE 没)
+	  (IP-OBJ (NP-SBJ (NN 人))
+		  (VP (VV 能)
+		      (VP (VV 耍)
+			  (NP-OBJ (PN 你))))))
+      (PU ！)) ) 
+
+<su id=p4su2>
+
+
+( (IP (IP (IP-ADV (NP-SBJ (PN 他))
+		  (VP (VV 想)
+		      (VP (VV 耍)
+			  (NP-OBJ (PN 你)))))
+	  (NP-SBJ (PN 你))
+	  (VP (ADVP (AD 就))
+	      (VP (BA 把)
+		  (IP-OBJ (NP-SBJ-1 (DNP (NP (PN 他))
+					 (DEG 的))
+				    (NP (NN 花招)))
+			  (VP (VV 揭露)
+			      (NP-OBJ (-NONE- *-1)))))))
+      (PU ，)
+      (IP (ADVP (AD 这样))
+	  (NP-SBJ (PN 他))
+	  (VP (ADVP (AD 就))
+	      (VP (VPT (VV 耍)
+		       (AD 不)
+		       (VV 了))
+		  (NP-OBJ (PN 你))))
+	  (SP 了))
+      (PU ！)) ) 
+
+<su id=p4su3>
+
+
+( (IP (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (PN 你))
+			      (VP (VV 靠)
+				  (NP-OBJ (-NONE- *T*-1))))
+			  (DEC 的))))
+	  (VP (VC 是)
+	      (NP-PRD (NN 老百姓))))
+      (PU 、)
+      (IP (NP-SBJ (CP (WHNP-2 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *pro*))
+			      (VP (VV 想)
+				  (NP-OBJ (-NONE- *T*-2))))
+			  (DEC 的))))
+	  (VP (VC 是)
+	      (NP-PRD (NN 老百姓))))
+      (PU 、)
+      (IP (NP-SBJ (PN 自己))
+	  (VP (ADVP (AD 也))
+	      (VP (VC 是)
+		  (NP-PRD (NN 老百姓)))))
+      (PU ，)
+      (IP-Q (NP-SBJ (PN 别人))
+	    (VP (PP-MNR (P 拿)
+			(NP-WH (PN 什么)))
+		(VP (VV 耍)
+		    (NP-OBJ (PN 你)))))
+      (PU ？)) ) 
+
+<su id=p4su4>
+
+
+( (IP (NP-SBJ (PN 你))
+      (VP (IP-CND (NP-SBJ (-NONE- *PRO*))
+		  (VP (ADVP (CS 要是))
+		      (ADVP (AD 总))
+		      (VP (VV 想)
+			  (AS 着)
+			  (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+				  (VP (PP-DIR (P 往)
+					      (LCP (NP (NN 权利))
+						   (LC 上)))
+				      (VP (VV 靠)))))))
+	  (PU ，)
+	  (ADVP (AD 那))
+	  (ADVP (AD 就))
+	  (ADVP (AD 别))
+	  (VP (VV 怪)
+	      (NP-OBJ (PN 人家))
+	      (IP (NP-SBJ (-NONE- *PRO*))
+		  (VP (VV 耍)
+		      (NP-OBJ (PN 你))))))
+      (PU ！)) ) 
+
+<su id=p5su1>
+
+
+( (IP (IP-ADV (NP-SBJ (PN 你))
+	      (VP (ADVP (AD 不))
+		  (VP (VV 耍)
+		      (NP-OBJ (PN 自己)))))
+      (NP-SBJ (-NONE- *pro*))
+      (VP (VE 没)
+	  (IP-OBJ (NP-SBJ (NN 人))
+		  (VP (VV 能)
+		      (VP (VV 耍)
+			  (NP-OBJ (PN 你))))))
+      (PU ！)) ) 
+
+<su id=p5su2>
+
+
+( (IP (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (PN 你))
+			      (VP (VV 靠)
+				  (NP-OBJ (-NONE- *T*-1))))
+			  (DEC 的))))
+	  (VP (VC 是)
+	      (NP-PRD (NN 老百姓))))
+      (PU 、)
+      (IP (NP-SBJ (CP (WHNP-2 (-NONE- *OP*))
+		      (CP (IP (NP-SBJ (-NONE- *pro*))
+			      (VP (VV 想)
+				  (NP-OBJ (-NONE- *T*-2))))
+			  (DEC 的))))
+	  (VP (VC 是)
+	      (NP-PRD (NN 老百姓))))
+      (PU 、)
+      (IP (NP-SBJ (PN 自己))
+	  (VP (ADVP (AD 也))
+	      (VP (VC 是)
+		  (NP-PRD (NN 老百姓)))))
+      (PU ，)
+      (IP-Q (NP-SBJ (PN 别人))
+	    (VP (PP-MNR (P 拿)
+			(NP-WH (PN 什么)))
+		(VP (VV 耍)
+		    (NP-OBJ (PN 你)))))
+      (PU ？)) ) 
+
+<su id=p5su3>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (IP-CND (NP-SBJ (-NONE- *PRO*))
+		  (VP (ADVP (CS 要是))
+		      (ADVP (AD 总))
+		      (VP (VV 想)
+			  (AS 着)
+			  (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+				  (VP (PP-DIR (P 往)
+					      (LCP (NP (NN 权利))
+						   (LC 上)))
+				      (VP (VV 靠)))))))
+	  (PU ，)
+	  (ADVP (AD 那))
+	  (ADVP (AD 就))
+	  (ADVP (AD 别))
+	  (VP (VV 怪)
+	      (NP-OBJ (PN 人家))
+	      (IP (NP-SBJ (-NONE- *PRO*))
+		  (VP (VV 耍)
+		      (NP-OBJ (PN 你))))))
+      (PU ！)) ) 
+
+<su id=p5su4>
+
+
+( (IP (NP-SBJ (NN 权利))
+      (VP (ADVP (AD 就))
+	  (VP (VC 是)
+	      (NP-PRD (CP (WHPP-1 (-NONE- *OP*))
+			  (CP (IP (NP-SBJ (-NONE- *pro*))
+				  (VP (PP-MNR (-NONE- *T*-1))
+				      (VP (VV 用来)
+					  (VP (VV 改变)
+					      (NP-OBJ (NN 社会)
+						      (NN 关系))))))
+			      (DEC 的)))
+		      (NP (NN 杠杆)))))
+      (PU ，)) ) 
+
+<su id=p5su5>
+
+
+( (IP (IP-ADV (NP-SBJ (PN 你))
+	      (VP (PP-DIR (P 往)
+			  (LCP (NP (DP (DT 这)
+				       (CLP (M 个)))
+				   (NP (NN 杠杆)))
+			       (LC 上)))
+		  (VP (VV 去))))
+      (PU ，)
+      (NP-SBJ (DNP (NP (NP (PN 你))
+		       (NP (NN 位置)))
+		   (DEG 的))
+	      (NP (NN 高低)))
+      (VP (ADVP (AD 就))
+	  (VP (VV 由不得)
+	      (NP-OBJ (PN 你)
+		      (PN 自己))
+	      (IP (NP-SBJ (-NONE- *PRO*))
+		  (VP (VV 决定)))))
+      (PU 。)) ) 
+
+<su id=p5su6>
+
+
+( (IP (IP (NP-SBJ (PN 你))
+	  (VP (VV 想)
+	      (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+		      (VP (VV 顺杆爬)))))
+      (IP (NP-SBJ (PN 别人))
+	  (VP (ADVP (AD 自然))
+	      (VP (VP (PP-MNR (P 拿)
+			      (NP (PN 你)))
+		      (VP (VV 当)
+			  (NP-OBJ (NN 猴))))
+		  (VP (VV 耍)))))
+      (PU ！)) ) 
+
+<su id=p6su1>
+
+
+( (NP-Q (NN 权利)
+	(CC 还是)
+	(NN 权力)
+	(PU ？)) ) 
+
+<su id=p7su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 应该)
+	  (VP (VC 是)
+	      (FLR (PN 哪个))
+	      (IP-PRD (NP-SBJ (PN 你)
+			      (PN 自己))
+		      (VP (VV 去)
+			  (VP (VV 分辨))))))
+      (PU ！)) ) 
+

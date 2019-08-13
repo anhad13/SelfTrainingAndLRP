@@ -1,0 +1,198 @@
+<su id=p1su1>
+
+
+( (IP (NP-TPC-1 (NP-PN (NR 日本) )
+		(NP (NN 侵华)
+		    (NN 战争) ) )
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 怎) )
+	  (VP (VV 允)
+	      (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		      (VP (VV 美化)
+			  (NP-OBJ (-NONE- *T*-1))) ) ) ) ) )
+
+<su id=p1su2>
+
+
+( (IP (NP-TPC-1 (NP-PN (NR 日本) )
+		(NP (NN 侵华)
+		    (NN 战争) ) )
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 怎) )
+	  (VP (VV 允)
+	      (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		      (VP (VV 美化)
+			  (NP-OBJ (-NONE- *T*-1))) ) ) ) ) )
+
+<su id=p1su3>
+
+
+( (IP (NP-PN-SBJ (NR 方正县) )
+      (VP (VP (PP-BNF (P 为)
+		      (NP (NP (NP-PN (NR 日本) )
+			      (NP (NN 开拓团) ) )
+			  (PRN (PU （)
+			       (NP (NN 掠夺团) )
+			       (PU ）) ) ) )
+	      (VP (VP (VV 立)
+		      (NP-OBJ (NN 碑) ) )
+		  (PU ，)
+		  (VP (VV 树)
+		      (NP-OBJ (NN 牆) ) ) ) )
+	  (PU ，)
+	  (CC 但)
+	  (VP (NP-ADV (NN 只字) )
+	      (ADVP (AD 未) )
+	      (VP (VV 提及)
+		  (NP-OBJ (NP (NP-PN (NR 日本) )
+			      (NP (NN 侵华)
+				  (NN 战争) ) )
+			  (CC 及)
+			  (NP (NP-PN (NR 日本) )
+			      (NP (NN 军国主义) ) ) ) ) ))
+      (PU ，) ) )
+
+<su id=p1su4>
+
+
+( (IP (NP-SBJ (DP (DT 此)
+		  (CLP (M 种) ) )
+	      (NP (NN 行为) ) )
+      (VP (ADVP (AD 就) )
+	  (VP (VC 是)
+	      (NP-PRD (DNP (PP (P 对)
+			       (NP (NP-PN (NR 中国) )
+				   (NP (NN 人民) ) ) )
+			   (DEG 的) )
+		      (NP (NN 污辱) ) ) ) )
+      (PU ！) ) )
+
+<su id=p1su5>
+
+
+( (IP (IP (NP-SBJ (NN 名) )
+	  (VP (VV 曰)
+	      (NP-OBJ (PU “)
+		      (NP-PN (NR 中)
+			     (NR 日) )
+		      (NP (NN 友好) )
+		      (PU ”) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 实) )
+	  (VP (VC 为)
+	      (IP-PRD (NP-SBJ (-NONE- *pro*))
+		      (VP (VV 美化)
+			  (NP-OBJ (NN 侵华)
+				  (NN 战争) ) )) ) )
+      (PU 。) ) )
+
+<su id=p1su6>
+
+
+( (IP (NP-TPC-1 (NP-PN (NR 方正县) )
+		(DP (DT 这)
+		    (CLP (M 种) ) )
+		(ADJP (JJ 原则性) )
+		(NP (NN 错误) ) )
+      (NP-SBJ (-NONE- *pro*))
+      (VP (VV 必须)
+	  (VP (VV 纠正)
+	      (NP-OBJ (-NONE- *T*-1))) )
+      (PU ！) ) )
+
+<su id=p4su1>
+
+
+( (IP (NP-SBJ (DP (DT 有些) )
+	      (NP (NN 东西) ) )
+      (PU ，)
+      (VP (ADVP (AD 不) )
+	  (VP (VC 是)
+	      (NP-PRD (NN 人) ) ) )
+      (PU 。) ) )
+
+<su id=p4su2>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VP (VV 要)
+		  (NP-OBJ (NN 钱) ) )
+	      (VP (ADVP (AD 不) )
+		  (VP (VV 要)
+		      (NP-OBJ (NN 脸) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		      (IP (NP-SBJ (-NONE- *T*-1))
+			  (VP (VE 有)
+			      (NP-OBJ (NN 奶) ) ) )))
+	  (VP (ADVP (AD 便) )
+	      (VP (VC 是)
+		  (NP-PRD (NN 娘) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VA 悲哀) ) )
+      (PU ！) ) )
+
+<su id=p6su1>
+
+
+( (IP (IP (IP-SBJ (NP-SBJ (-NONE- *pro*))
+		  (VP (NP-LOC (NN 太空) )
+		      (VP (VV 耍)
+			  (NP-OBJ (NN 剑) ) ) ) )
+	  (VP (VV 终止)
+	      (AS 了)
+	      (NP-OBJ (NN 上限) ) ) )
+      (PU ，)
+      (IP-Q (NP-SBJ (-NONE- *pro*))
+	    (VP (ADVP (AD 不) )
+		(VP (VV 知)
+		    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+			    (VP-WH (VV 好否) ) ) ) ))
+      (PU ？) ) )
+
+<su id=p6su2>
+
+
+( (IP (IP (NP-SBJ (DNP (NP (NN 文笔) )
+		       (DEG 之) )
+		  (NP (NN 能) ) )
+	  (VP (ADVP (AD 一) )
+	      (VP (VV 现)
+		  (NP-OBJ (NN 大方) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (NN 文) )
+	  (VP (VV 显)
+	      (NP-OBJ (NN 人意) ) ) )
+      (PU ！) ) )
+
+<su id=p6su3>
+
+
+( (NP (NN 白纸)
+      (NN 黑字)
+      (PU 。) ) )
+
+<su id=p7su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (AD 就) )
+	  (VP (VC 是)
+	      (NP-PRD (QP (CD 一)
+			  (CLP (M 种) ) )
+		      (NP (NN 骗子)
+			  (NN 行为) ) ) ) ) ) )
+
+<su id=p9su1>
+
+
+( (IP (IP (NP-SBJ (NN 专家) )
+	  (VP (NP-PRD (NN 汉奸)
+		      (NN 行为) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 严惩)
+	      (NP-OBJ (NN 领导)
+		      (NN 责任) ) ) ) ) )
+

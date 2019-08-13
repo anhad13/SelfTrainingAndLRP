@@ -1,0 +1,75 @@
+<su id=p1su1>
+
+
+( (IP (NP-SBJ (-NONE- *pro*))
+      (VP (VV 看好)
+	  (NP-PN-OBJ (NR 钓鱼岛) ) ) ) )
+
+<su id=p1su2>
+
+
+( (IP (IP (NP-PN-TPC (NR 钓鱼岛) )
+	  (NP-SBJ (NN 面积) )
+	  (VP (VA 挾小) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VP (ADVP (AD 易) )
+		  (VP (VV 攻) ) )
+	      (VP (ADVP (AD 难) )
+		  (VP (VV 守) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (PN 我) )
+	  (VP (VP (VV 可)
+		  (VP (VP (VV 建)
+			  (NP-OBJ (QP (CLP (M 些) ) )
+				  (NP (NN 主权) )
+				  (ADJP (JJ 标志性) )
+				  (NP (NN 设施) ) ) )
+		      (PU ，)
+		      (VP (NP-LOC (NN 海)
+				  (NN 空) )
+			  (VP (VCD (VV 巡逻)
+				   (VV 照看) ) ) )))
+	      (PU ，)
+	      (VP (ADVP (AD 不) )
+		  (VP (VV 可)
+		      (VP (VV 驻兵) ) ) ) ) )
+      (PU ，)
+      (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VC 是)
+	      (VP (VC 为)
+		  (NP-PRD (NN 上策) ) ) ) ) ) )
+
+<su id=p2su1>
+
+
+( (CP (IP (IP-SBJ (NP-SBJ (-NONE- *pro*))
+		  (VP (VV 堆放)
+		      (NP-OBJ (NN 核)
+			      (NN 废料) ) ) )
+	  (VP (ADVP (AD 就) )
+	      (VP (VV 行) ) ) )
+      (SP 啦)
+      (PU 。) ) )
+
+<su id=p4su1>
+
+
+( (IP (ADVP (AD 不过) )
+      (NP-SBJ (-NONE- *pro*))
+      (VP (IP-ADV (VP (VV 细想)
+		      (ADVP (AD 一下) ) ) )
+	  (ADVP (AD 也) )
+	  (VP (VV 觉)
+	      (IP-OBJ (NP-SBJ (-NONE- *pro*))
+		      (VP (VE 有)
+			  (NP-OBJ (QP (CLP (M 些) ) )
+				  (NP (NN 道理) ) ) )) ) ) ) )
+
+<su id=p4su2>
+
+
+( (IP-IMP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 吹下水) )
+	  (NP-VOC (NN 姐) ) ) )
+

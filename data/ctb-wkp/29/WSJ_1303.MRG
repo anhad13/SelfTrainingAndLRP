@@ -1,0 +1,156 @@
+<su id=p1su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (VV 爱国)))
+      (PU ,)
+      (IP (NP-SBJ (PN 你))
+	  (VP (ADVP (AD 很))
+	      (VP (VV 受伤))))
+      (PU ！)) ) 
+
+<su id=p1su2>
+
+
+( (IP (PU 『)
+      (IP-SBJ (NP (-NONE- *pro*))
+	      (VP (VV 爱国)))
+      (PU ,)
+      (IP (NP-SBJ (PN 你))
+	  (VP (ADVP (AD 很))
+	      (VP (VV 受伤))))
+      (PU 』)) ) 
+
+<su id=p1su3>
+
+
+( (IP (IP (PP-DIR (PP (P 从)
+		      (NP (QP (NN 三聚氰氨))
+			  (NP (NN 事件))))
+		  (PP (P 到)
+		      (NP (NP (NP-PN (NR 甘肃))
+			      (NP (NN 校车)))
+			  (NP (NN 惨剧)))))
+	  (PU ,)
+	  (PP-DIR (PP (P 从)
+		      (NP (NP (ADJP (JJ 小))
+			      (NP-PN (NR 悦悦)))
+			  (NP (NN 事件))))
+		  (PP (P 到)
+		      (IP (DNP (NP (NT 今天))
+			       (DEG 的))
+			  (IP (NP-SBJ (NP-PN (NR 山西))
+				      (NP (NN 国企)
+					  (NN 老总)))
+			      (VP (VV 失窃)
+				  (QP-OBJ (CD 5000万)))))))
+	  (PU .)
+	  (IP (IP (NP-SBJ (PN 我们))
+		  (VP (ADVP (AD 很))
+		      (VP (VV 心痛))))
+	      (PU ,)
+	      (IP (NP-SBJ (PN 我们))
+		  (VP (ADVP (AD 很))
+		      (VP (VA 气愤))))))
+      (PU ,)
+      (IP (ADVP (CC 可))
+	  (NP-SBJ (PN 他们))
+	  (VP (ADVP (AD 依然))
+	      (VP (VA 淡定))))
+      (PU .)) ) 
+
+<su id=p1su4>
+
+
+( (IP (NP-SBJ (PN 我))
+      (VP (ADVP (AD 越来越))
+	  (VP (VV 发现)
+	      (PU ,)
+	      (IP-OBJ (IP-ADV (IP (NP-SBJ (PN 你))
+				  (VP (ADVP (AD 越是))
+				      (VP (VV 关心)
+					  (NP-OBJ (DP (DT 这)
+						      (CLP (M 个)))
+						  (NP (NN 国家))))))
+			      (PU ,)
+			      (IP (NP-SBJ (PN 你))
+				  (VP (ADVP (AD 越是))
+				      (VP (VV 爱)
+					  (NP-OBJ (DP (DT 这)
+						      (CLP (M 个)))
+						  (NP (NN 国家)))))))
+		      (PU ,)
+		      (NP-SBJ (NP (PN 你))
+			      (NP (NN 心理)))
+		      (VP (VP (ADVP (AD 就))
+			      (ADVP (AD 越))
+			      (VP (VA 气愤)))
+			  (PU ,)
+			  (VP (ADVP (AD 越))
+			      (VP (VV 受伤)))))))
+      (PU .)) ) 
+
+<su id=p1su5>
+
+
+( (IP (NP-SBJ (PN 谁))
+      (VP (ADVP (AD 不))
+	  (VP (VV 愿)
+	      (IP-OBJ (NP-SBJ (DNP (NP (PN 自己))
+				   (DEG 的))
+			      (NP (NN 祖国)))
+		      (VP (VA 强大)))))
+      (PU ,)) ) 
+
+<su id=p1su6>
+
+
+( (IP (ADVP (CC 可))
+      (IP-ADV (NP-SBJ (-NONE- *pro*))
+	      (VP (VV 爱国)))
+      (PU ,)
+      (NP-SBJ (PN 你))
+      (VP (ADVP (AD 很))
+	  (VP (VV 受伤)))) ) 
+
+<su id=p2su1>
+
+
+( (IP (IP (NP-SBJ (PN 我))
+	  (VP (PP-LOC (P 在)
+		      (NP (NN 医院)))
+	      (ADVP (AD 天天))
+	      (VP (VV 看到)
+		  (NP-OBJ (NN 死亡)))))
+      (PU ，)
+      (IP (PP-MNR (P 按)
+		  (NP (NN 楼主)
+		      (NN 意思)))
+	  (NP-SBJ (NN 人))
+	  (VP (ADVP (VA 多))
+	      (ADVP (AD 别))
+	      (VP (VV 活))))
+      (IP (IP-SBJ (NP-SBJ (-NONE- *pro*))
+		  (VP (VV 受)
+		      (NP (ADJP (ADVP (AD 这))
+				(ADJP (JJ 多)))
+			  (NP (NN 罪)))))
+	  (VP-WH (VV 干)
+		 (NP-OBJ (PN 什么))))
+      (PU 。)) ) 
+
+<su id=p3su1>
+
+
+( (IP (IP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 不))
+	      (VP (VC 是)
+		  (IP-PRD (NP-SBJ (-NONE- *pro*))
+			  (VP (ADVP (AD 不))
+			      (VP (VV 报)))))))
+      (PU ，)
+      (IP (NP-SBJ (NN 时候))
+	  (VP (ADVP (AD 未))
+	      (VP (VV 到))))
+      (PU 。)) ) 
+

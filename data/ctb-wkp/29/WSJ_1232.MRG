@@ -1,0 +1,193 @@
+<su id=p1su1>
+
+
+( (IP-IMP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 不))
+	      (VP (VV 要)
+		  (VP (ADVP (AD 太))
+		      (VP (BA 把)
+			  (IP-OBJ (NP-PN-SBJ (NR 韩国))
+				  (VP (VV 当)
+				      (NP-OBJ (QP (CLP (M 回)))
+					      (NP (NN 事儿)))))))))) ) 
+
+<su id=p1su2>
+
+
+( (IP (NP-PN-SBJ (CC 不管是)
+		 (NP-PN (NR 菲律宾)
+			(PU 、)
+			(NR 马来西亚)
+			(PU 、)
+			(NR 日本)
+			(PU 、)
+			(NR 泰国)
+			(ETC 等等))
+		 (CC 还是)
+		 (NP-PN (CP (WHNP-1 (-NONE- *OP*))
+			    (CP (IP (NP-SBJ (-NONE- *T*-1))
+				    (VP (NP-TMP (NT 现在))
+					(ADVP (ON 汪汪))
+					(VP (VV 叫))))
+				(DEC 的)))
+			(NP-PN (NR 韩国))))
+      (PU ，)
+      (VP (ADVP (AD 无非))
+	  (ADVP (AD 都))
+	  (VP (VC 是)
+	      (NP-PRD (QP (CD 一)
+			  (CLP (M 群)))
+		      (NP (NN 狗)))))
+      (PU ！)) ) 
+
+<su id=p1su3>
+
+
+( (IP (NP-SBJ (NP-PN (NR 中国))
+	      (DNP (ADJP (JJ 真正))
+		   (DEG 的))
+	      (NP (NN 敌人)))
+      (VP (VC 是)
+	  (NP-PRD (NP-APP (CP (WHNP-1 (-NONE- *OP*))
+			      (CP (IP (NP-SBJ (-NONE- *T*-1))
+				      (VP (VV 站)
+					  (PP-LOC (P 在)
+						  (LCP (NP (NP (DP (DT 这)
+								   (CLP (M 群)))
+							       (ADJP (JJ 饿))
+							       (NP (NN 狗)))
+							   (NP (NN 身)))
+						       (LC 后)))))
+				  (DEC 的)))
+			  (DP (DT 那)
+			      (CLP (M 个)))
+			  (NP (NP (ADJP (JJ 大))
+				  (NP (NN 恶霸)))
+			      (NP (ADJP (JJ 大))
+				  (NP (NN 流氓)))))
+		  (PU ————)
+		  (NP-PN (NR 美国))))
+      (PU ！)) ) 
+
+<su id=p1su5>
+
+
+( (FRAG (NT 2011-12-14)
+	(NT 15:07)) ) 
+
+<su id=p3su1>
+
+
+( (UCP (IP (NP-SBJ (PN 自己))
+	   (VP (VE 有)
+	       (NP-OBJ (DNP (NP (PN 自己))
+			    (DEG 的))
+		       (NP (NN 看法)))))
+       (CP (IP (NP-SBJ (-NONE- *pro*))
+	       (VP (ADVP (AD 不))
+		   (VP (VV 能)
+		       (VP (ADVP (AD 怎么))
+			   (VP (VV 说))))))
+	   (SP 拉))) ) 
+
+<su id=p4su1>
+
+
+( (IP (IP-CND (NP-SBJ (NN 话))
+	      (VP (ADVP (CS 虽))
+		  (VP (VA 直))))
+      (PU ，)
+      (ADVP (AD 但))
+      (NP-SBJ (-NONE- *pro*))
+      (VP (VV 说)
+	  (DER 的)
+	  (VP-EXT (VA 好)))
+      (PU ！)) ) 
+
+<su id=p4su2>
+
+
+( (IP (IP (NP-SBJ (NP (NT 当今))
+		  (NP (NN 世界)))
+	  (VP (VE 无)
+	      (IP-OBJ (NP-SBJ (NN 是非)
+			      (NN 黑白))
+		      (VP (VV 可)
+			  (VP (VV 言))))))
+      (PU ，)
+      (IP (NP-SBJ (NN 胜者))
+	  (VP (ADVP (AD 全))
+	      (VP (VA 对))))
+      (PU ，)
+      (IP (NP-SBJ (NN 败者))
+	  (VP (ADVP (AD 全))
+	      (VP (VC 是)
+		  (NP-PRD (NN 错误)))))
+      (PU 。)) ) 
+
+<su id=p5su1>
+
+
+( (IP (IP (PP-LOC (P 在)
+		  (NP-PN (NR 韩国)))
+	  (NP-SBJ (NN 人们))
+	  (VP (VP (BA 把)
+		  (IP-OBJ (NP-SBJ-1 (NN 中国人))
+			  (VP (VV 当)
+			      (NP-IO (-NONE- *-1))
+			      (NP-OBJ (NN 朋友)))))
+	      (PU ，)
+	      (VP (VV 喜欢)
+		  (NP-OBJ (NN 中国人)))
+	      (PU ，)
+	      (VP (VV 学)
+		  (IP-OBJ-SBJ (NP (-NONE- *PRO*))
+			      (VP (VV 说)
+				  (NP-OBJ (NN 中国话)))))
+	      (PU ，)
+	      (VP (ADVP (AD 更))
+		  (VP (VV 喜欢)
+		      (NP-OBJ (NP-PN (NR 中国))
+			      (NP (NN 文化)))))))
+      (PU ，)
+      (IP (NP-SBJ (NN 人们))
+	  (VP (VV 认为)
+	      (IP-OBJ (NP-PN-SBJ (NR 中国))
+		      (VP (VC 是)
+			  (NP-PRD (DNP (NP (NN 本国))
+				       (DEG 的))
+				  (NP (NN 朋友)))))))
+      (PU 。)) ) 
+
+<su id=p5su2>
+
+
+( (IP-IMP (NP-SBJ (-NONE- *pro*))
+	  (VP (ADVP (AD 仔细))
+	      (VP (VV 想想)
+		  (IP-OBJ (NP-SBJ (-NONE- *pro*))
+			  (VP (ADVP (AD 还))
+			      (VP (VE 有)
+				  (IP-OBJ (NP-SBJ (DP (DT 哪)
+						      (QP (CD 一)
+							  (CLP (M 个))))
+						  (NP (NN 国家)))
+					  (VP (VC 是)
+					      (NP-PRD (DNP (NP-PN (NR 中国))
+							   (DEG 的))
+						      (NP (NN 朋友))))))))))
+	  (PU 。)) ) 
+
+<su id=p6su1>
+
+
+( (IP-Q (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+		    (CP (IP (NP-SBJ (PN 我))
+			    (VP (PP-BNF (P 给)
+					(NP-PN (NR 美国)))
+				(VP (VV 设计)
+				    (NP-OBJ (-NONE- *T*-1)))))
+			(DEC 的)))
+		(NP (NN 国旗)))
+	(VP-WH (VV 怎么样))) ) 
+

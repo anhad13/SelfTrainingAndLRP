@@ -1,0 +1,52 @@
+<DOC>
+<DOCID> CNR20001204.1700.1466 </DOCID>
+<DOCTYPE SOURCE="broadcast news"> NEWS STORY </DOCTYPE>
+<DATETIME> 12/04/2000 17:24:26.94 </DATETIME>
+<BODY>
+<TEXT>
+( (IP (NP-PN-SBJ (NR 普京))
+      (VP (NP-TMP (NT １号))
+	  (VP (VV 表示)
+	      (IP-OBJ (IP (NP-SBJ (DNP (PP (P 关于)
+					   (IP (NP-SBJ (NN 政府))
+					       (VP (ADVP (AD 将))
+						   (ADVP (ADVP (AD 很))
+							 (ADVP (AD 快)))
+						   (VP (VV 辞职)))))
+				       (DEG 的))
+				  (NP (NN 说法)))
+			  (VP (ADVP (AD 纯))
+			      (VP (VV 属)
+				  (NP-OBJ (NN 谣言)))))
+		      (PU ，)
+		      (IP (NP-SBJ (DP (DT 这些))
+				  (NP (NN 谣言)))
+			  (VP (VE 没有)
+			      (NP-OBJ (DP (DT 任何))
+				      (NP (NN 依据))))))))
+      (PU 。))) 
+( (IP (IP (ADVP (AD 近来))
+	  (NP-SBJ (NP-PN (NR 俄))
+		  (NP (NN 政府)
+		      (NN 工作)))
+	  (VP (VV 遭到)
+	      (AS 了)
+	      (NP-OBJ (DNP (NP-PN (NR 普京)
+				  (NN 总统))
+			   (DEG 的))
+		      (NP (NN 批评)))))
+      (PU ，)
+      (IP (NP-SBJ (NP-PN (NR 俄))
+		  (NP (NN 媒体)))
+	  (VP (ADVP (AD 随即))
+	      (VP (VV 出现)
+		  (AS 了)
+		  (NP-OBJ (CP-APP (IP (NP-SBJ (NN 政府))
+				      (VP (ADVP (AD 将))
+					  (VP (VV 辞职))))
+				  (DEC 的))
+			  (NP (NN 报道))))))
+      (PU 。))) 
+</TEXT>
+</BODY>
+</DOC>
