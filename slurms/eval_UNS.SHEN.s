@@ -8,4 +8,4 @@
 
 model_no=$1
 
-python -u main.py --eval_on test --eval_only --load trained_models/UNS.shen.${model_no} --batch 1 --PRPN --shen
+python -u main.py --treebank ctb_wkp --force_binarize --eval_on dev --eval_only --load trained_models/${model_no} --batch 1 --PRPN --shen

@@ -3,7 +3,7 @@
 #SBATCH -t48:00:00
 #SBATCH --mem=40GB
 #SBATCH --gres=gpu:1
-#SBATCH --output=logs/supervisionZH_wkp
+#SBATCH --output=logs/resultsctb/supervisionZHWKP%j.out
 #SBATCH --mail-type=END
 #SBATCH --mail-user=kann@nyu.edu;anhad@nyu.edu
 
@@ -12,4 +12,4 @@
 model_no=$1
 supervision_limit=$2
 
-python -u main.py --treebank ctb_wkp --save trained_models/baselines/supervised_zh_wkp.${model_no} --batch 64 --force_binarize --supervision_limit ${supervision_limit}
+python -u main.py --eval_on test --treebank ctb  --force_binarize --save trained_models/baselines/supervised_zh.${model_no} --batch 25 --force_binarize --supervision_limit ${supervision_limit}

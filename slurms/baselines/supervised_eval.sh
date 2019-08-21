@@ -3,7 +3,7 @@
 #SBATCH -t48:00:00
 #SBATCH --mem=40GB
 #SBATCH --gres=gpu:1
-#SBATCH --output=logs/supervision_full
+#SBATCH --output=logs/supervision_%j.out
 #SBATCH --mail-type=END
 #SBATCH --mail-user=kann@nyu.edu;anhad@nyu.edu
 
@@ -12,4 +12,4 @@
 model_no=$1
 supervision_limit=$2
 
-python -u main.py --eval_only --eval_on test --force_binarize --load trained_models/baselines/supervised.full --batch 64 --supervision_limit ${supervision_limit}
+python -u main.py --eval_only --eval_on test --force_binarize --load ${model_no} --batch 64 --supervision_limit ${supervision_limit}

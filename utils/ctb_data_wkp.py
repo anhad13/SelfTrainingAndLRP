@@ -143,7 +143,11 @@ def load_trees(path, vocab=None, grow_vocab=True, supervision_limit=-1, supervis
                 print("skipping")
             # Binarize tree.
             if binarize:
-                nltk.treetransforms.chomsky_normal_form(sent)
+                try:
+                    nltk.treetransforms.chomsky_normal_form(sent)
+                except:
+                    print(sent)
+                    continue
             treelist = tree2list(sent)
             gate_values = tree_to_gates(treelist)
             brackets = get_brackets(treelist)[0]

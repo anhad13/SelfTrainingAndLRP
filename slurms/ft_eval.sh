@@ -1,9 +1,9 @@
 #!/bin/bash
 #
 #SBATCH -t48:00:00
-#SBATCH --mem=100GB
+#SBATCH --mem=40GB
 #SBATCH --gres=gpu:1
-#SBATCH --output=logs/B2B_ctb_250_0.08_%j.out
+#SBATCH --output=logs/B2B_eval%j.out
 #SBATCH --mail-type=END
 #SBATCH --mail-user=kann@nyu.edu;anhad@nyu.edu
 
@@ -12,12 +12,8 @@
 supervision_limit=$1
 load_from=$2
 
-python -u main.py --batch 32 --PRPN \
-    --shen --parse_with_distances --semisupervised --training_ratio 0.08 --beta 0.5 \
+python -u main.py --batch 64 --PRPN \
+    --shen --parse_with_distances --semisupervised --eval_only --eval_on test --force_binarize --beta 0.5 \
     --supervision_limit ${supervision_limit} \
     --load ${load_from} \
-    --treebank ctb \
-    --force_binarize\
-    --eval_on test\
-    --vocabulary dict_ctb.pkl\
     --training_method "interleave"

@@ -79,7 +79,7 @@ def checkoserrror(path):
             raise
 
 
-def load_trees(path, ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervised_model=False, binarize = False):
+def load_trees(path, ids, vocab=None, semisupervised=False, grow_vocab=True, supervision_limit=-1, supervised_model=False, binarize = False):
     '''
        This returns
        1) a list of torch.LongTensors containing the indices of all not filtered words of each sentence
@@ -121,12 +121,16 @@ def load_trees(path, ids, vocab=None, grow_vocab=True, supervision_limit=-1, sup
                 print("skipping")
             # Binarize tree.
             if binarize:
-                nltk.treetransforms.chomsky_normal_form(sent)
+                try:
+                    nltk.treetransforms.chomsky_normal_form(sent)
+                except:
+                    print(sent)
+                    continue
             treelist = tree2list(sent)
             gate_values = tree_to_gates(treelist)
             brackets = get_brackets(treelist)[0]
             if supervision_limit > -1 and counter >= supervision_limit:
-                if supervised_model:
+                if (not semisupervised) and supervised_model:
                     break
                 all_dists.append(torch.zeros_like(torch.FloatTensor(list2distance(treelist)[0])))
                 all_gates.append(torch.zeros_like(torch.FloatTensor(gate_values)))
@@ -134,7 +138,7 @@ def load_trees(path, ids, vocab=None, grow_vocab=True, supervision_limit=-1, sup
             else:
                 all_dists.append(torch.FloatTensor(list2distance(treelist)[0]))
                 all_gates.append(torch.FloatTensor(gate_values))
-                if supervised_model==False:
+                if semisupervised==False and supervised_model==False:
                    skip_sup.append(False)
                 else:
                    skip_sup.append(True)
@@ -190,7 +194,7 @@ def main(data = 'data/ctb/',supervision_limit=-1, supervised_model=False, vocabu
     development = list(range(886, 931 + 1)) + list(range(1148, 1151 + 1))
     test = list(range(816, 885 + 1)) + list(range(1137, 1147 + 1))
     if pickled_file_path == None:
-        train_data = load_trees(path, training, vocab=vocabulary, grow_vocab=(vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model, binarize = True)
+        train_data = load_trees(path, training, vocab=vocabulary, grow_vocab=(vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model, semisupervised=semisupervised, binarize = True)
     else: # assumption: supervised load from pickle and all data is UNSUP
         pickled_training_data = pickle.load(open(pickled_file_path, "rb"))
         train_data = load_trees(train_file_ids, vocab=pickled_training_data[-1], grow_vocab= False, binarize = True)
