@@ -360,7 +360,7 @@ if __name__ == '__main__':
     if args.treebank == "ctb":
         print("Using chinese treebank")
         data_loader = ctb_data
-    if args.treebank == "ctb_wkp":
+    elif args.treebank == "ctb_wkp":
         print("Using chinese treebank")
         data_loader = ctb_data_wkp
     elif args.treebank == "negra":
@@ -384,11 +384,12 @@ if __name__ == '__main__':
     print("training method: " + str(args.training_method))
     if args.eval_only:
         assert args.load != None
+        print("Supervision limit: " + str(args.supervision_limit))
         print('Loading pretrained model from ' + args.load + '.')
         outfile = args.load + '_output_' + str(time.time())
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         model = torch.load(args.load, map_location=device) 
-        train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, bagging=args.bagging,semisupervised = args.semisupervised, force_binarize = args.force_binarize) 
+        train_data, valid_data, test_data = data_loader.main(args.data, supervised_model=(not args.PRPN or args.alpha == 1.), supervision_limit=args.supervision_limit, bagging=args.bagging,semisupervised = args.semisupervised, force_binarize = args.force_binarize) 
         if args.eval_on == 'train':
             f1 = eval_fct(model, train_data, args.PRPN, (not args.parse_with_distances), is_cuda, outfile)
         elif args.eval_on == 'test':
@@ -403,7 +404,7 @@ if __name__ == '__main__':
     else:
         train_data, valid_data, test_data = data_loader.main(args.data, supervision_limit=args.supervision_limit, supervised_model=(not args.PRPN or args.alpha == 1.), pickled_file_path =args.train_from_pickle, bagging=args.bagging ,semisupervised = args.semisupervised, force_binarize = args.force_binarize)        
     if args.dump_vocabulary:
-        pickle.dump(valid_data[-1], open("dict.pkl","wb"))
+        pickle.dump(valid_data[-1], open("dict_ctb.pkl","wb"))
         print("Saving Vocab to file.")
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_beta = args.beta, parse_with_gates=(not args.parse_with_distances),
