@@ -230,7 +230,7 @@ def LM_criterion(input, targets, targets_mask, ntokens):
 
 def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=3,
               alpha=0., train_beta=1.0, parse_with_gates=True, save_to=None, load_from=None, eval_on='dev',
-              use_orig_prpn=False, training_method='unsupervised', training_ratio=0.5):
+              use_orig_prpn=False, training_method='unsupervised', training_ratio=0.5, nlookback = 1):
     if save_to:
         if '/' in save_to:
             os.makedirs('/'.join(save_to.split('/')[:-1]), exist_ok=True)
@@ -243,7 +243,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         else:
             info += '\nUsing distances for parsing.'
         print(info)
-        model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.0, False, False, 0, use_orig_prpn=use_orig_prpn)
+        model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.0, False, False, 0, use_orig_prpn=use_orig_prpn, nlookback = nlookback)
     else:
         print('Using supervised parser.')
         model = Parser(nemb, nhid, len(vocab))
@@ -356,6 +356,10 @@ if __name__ == '__main__':
     parser.add_argument('--treebank', type= str, default='ptb', help='ptb/ctb')
     parser.add_argument('--semisupervised', action='store_true', help='do both supervi and unsupervi/useful for supervision limit types')
     parser.add_argument('--force_binarize', action='store_true', help='force for binary comparison for F1 calc')
+    parser.add_argument('--nhid', type= int, default = 300, help='hidden dims')
+    parser.add_argument('--nemb', type= int, default = 100, help= 'emb dimension')
+    parser.add_argument('--nlookback', type= int, default = 1, help= 'lookback for PRPN')
+    
     args = parser.parse_args()
     if args.treebank == "ctb":
         print("Using chinese treebank")
@@ -409,4 +413,4 @@ if __name__ == '__main__':
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_beta = args.beta, parse_with_gates=(not args.parse_with_distances),
               save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs,             
-              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio)
+              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio, nhid=args.nhid, nemb=args.nemb, nlookback = args.nlookback)
