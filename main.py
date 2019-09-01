@@ -64,6 +64,15 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file
     reca_list = []
     f1_list = []
     outf = []
+    label_map = dataset[-2]
+    label_targets = dataset[7]
+    #first reverse label map
+    rev_label_map = {}
+    accuracy_map = {}
+    net_acc = []
+    for x in label_map.keys():
+        accuracy_map[x] = []
+        rev_label_map[label_map[x]] = x
     for i in range(len(dataset[0])):
         #for i in range(1):
         x = dataset[0][i]
@@ -73,7 +82,6 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file
             y = y.cuda()
         gold_brackets = dataset[3][i]
         sent = dataset[4][i]
-
         if use_prpn:
             x = x.unsqueeze(1)
             hidden = model.init_hidden(1)
@@ -88,6 +96,8 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file
         else:
             preds = model(x.unsqueeze(0), torch.ones_like(x.unsqueeze(0)), cuda).transpose(0, 1)
             pred_tree = build_tree(list(preds.data[0]), sent[1:-1])
+        predicted_labels = model.label_out[0].argmax(1)[2:-1]
+        net_acc.append(torch.sum(predicted_labels ==label_targets[i]).cpu().data.item()/float(len(predicted_labels)))
         pred_brackets = get_brackets(pred_tree)[0]
 
         overlap = pred_brackets.intersection(gold_brackets)
@@ -107,6 +117,7 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file
         f = open(output_file, "wb")
         pickle.dump(outf, f)
     # Sentence-level F1.
+    print("Label Acc", numpy.mean(net_acc))
     return numpy.mean(f1_list)
 
 
@@ -119,6 +130,7 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
         yg = dataset[5][i:i+batch_size]  # [5] for gates
         yd = dataset[1][i:i+batch_size]  # distances
         skip_sup = dataset[6][i:i+batch_size]  # distances
+        ll = dataset[7][i:i+batch_size]
         max_len = 0
         for ex in x:
             if ex.shape[0] > max_len:
@@ -131,8 +143,9 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
         current_mask_yg = []
         current_mask_mg = []
         current_mask_md = []
+        current_ll = []
         skip_no = 0
-        for ex_x, ex_yg, ex_yd in zip(x, yg, yd):
+        for ex_x, ex_yg, ex_yd, ex_ll in zip(x, yg, yd, ll):
             mask_x = torch.ones_like(ex_x)
             mask_yg = torch.ones_like(ex_yg, dtype=torch.long)
             mask_yd = torch.ones_like(ex_yd, dtype=torch.long)
@@ -141,6 +154,7 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
                 ex_x = torch.cat((ex_x, torch.LongTensor([padding_idx])))
                 ex_yg = torch.cat((ex_yg, torch.FloatTensor([padding_idx])))
                 ex_yd = torch.cat((ex_yd, torch.FloatTensor([padding_idx])))
+                ex_ll = torch.cat((ex_ll, torch.LongTensor([padding_idx])))
                 mask_x = torch.cat((mask_x, torch.LongTensor([padding_idx])))
                 mask_yd = torch.cat((mask_yd, torch.LongTensor([padding_idx])))
                 mask_yg = torch.cat((mask_yg, torch.LongTensor([padding_idx])))
@@ -160,6 +174,7 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
             current_mask_yg.append(mask_yg.unsqueeze(0))
             current_mask_mg.append(mask_mg.unsqueeze(0))
             current_mask_md.append(mask_md.unsqueeze(0))
+            current_ll.append(ex_ll.unsqueeze(0))
         supervision_type = ["unsupervised"]
         if training_method == 'interleave':
             if max(skip_sup) == False: #null supervision on this:
@@ -173,10 +188,10 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
         for is_batch_supervised in supervision_type:
             if cuda:
                 batches.append((torch.cat(current_x).cuda(), torch.cat(current_yd).cuda(), torch.cat(current_yg).cuda(),
-                                torch.cat(current_mask_x).cuda(), torch.cat(current_mask_yd).cuda(), torch.cat(current_mask_yg).cuda() ,torch.cat(current_mask_mg).cuda(), torch.cat(current_mask_md).cuda(), is_batch_supervised))
+                                torch.cat(current_mask_x).cuda(), torch.cat(current_mask_yd).cuda(), torch.cat(current_mask_yg).cuda() ,torch.cat(current_mask_mg).cuda(), torch.cat(current_mask_md).cuda(), is_batch_supervised, torch.cat(current_ll).cuda()))
             else:
                 batches.append((torch.cat(current_x), torch.cat(current_yd), torch.cat(current_yg),
-                                torch.cat(current_mask_x), torch.cat(current_mask_yd), torch.cat(current_mask_yg), torch.cat(current_mask_mg), torch.cat(current_mask_md), is_batch_supervised))
+                                torch.cat(current_mask_x), torch.cat(current_mask_yd), torch.cat(current_mask_yg), torch.cat(current_mask_mg), torch.cat(current_mask_md), is_batch_supervised, torch.cat(current_ll)))
         i += batch_size
     if training_ratio == 1.0 and training_method == 'interleave':
         training_method = "supervised"
@@ -230,7 +245,7 @@ def LM_criterion(input, targets, targets_mask, ntokens):
 
 def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=3,
               alpha=0., train_beta=1.0, parse_with_gates=True, save_to=None, load_from=None, eval_on='dev',
-              use_orig_prpn=False, training_method='unsupervised', training_ratio=0.5, nlookback = 1):
+              use_orig_prpn=False, training_method='unsupervised', training_ratio=0.5, label_weight = 0.5):
     if save_to:
         if '/' in save_to:
             os.makedirs('/'.join(save_to.split('/')[:-1]), exist_ok=True)
@@ -243,7 +258,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         else:
             info += '\nUsing distances for parsing.'
         print(info)
-        model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.0, False, False, 0, use_orig_prpn=use_orig_prpn, nlookback = nlookback)
+        model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.0, False, False, 0, use_orig_prpn=use_orig_prpn, nlabels= len(train_data[-2]))
     else:
         print('Using supervised parser.')
         model = Parser(nemb, nhid, len(vocab))
@@ -267,7 +282,8 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         epoch_start_time = time.time()
         av_loss = 0.
         shuffle(train)
-        for (x, yd, yg, mask_x, mask_yd, mask_yg, mask_mg, mask_md, training_method) in train:
+        nlabels = len(train_data[-2])
+        for (x, yd, yg, mask_x, mask_yd, mask_yg, mask_mg, mask_md, training_method, label_l) in train:
             optimizer.zero_grad()
             if use_prpn:
                 if training_method == "unsupervised":
@@ -282,17 +298,19 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                     zeros = torch.zeros((mask_x.shape[0],)).unsqueeze(0).long()
                 gates = model.gates * mask_mg
                 gates = gates.transpose(0,1)[1:-1].transpose(0,1)
-                
                 loss1g = ranking_loss(gates, yg, mask_yg)
                 # multi-task training on distances
                 distances = model.distances * mask_md
                 distances = distances.transpose(0,1)[2:-1].transpose(0,1)
                 loss1d = ranking_loss(distances, yd, mask_yd)
-                
+                label_out = model.label_out.transpose(0,1)[2:-1].transpose(0,1).contiguous().view(-1, nlabels)
+                loss_labels = nn.CrossEntropyLoss()(label_out, label_l.contiguous().view(-1))
                 loss1 = loss1g * train_beta + loss1d * (1 - train_beta)
                 loss2 = LM_criterion(output, torch.cat([x.transpose(1, 0)[1:], zeros], dim=0),
                                      torch.cat([mask_x.transpose(1, 0)[1:], zeros], dim=0), len(vocab))
                 loss = alpha * loss1 + (1 - alpha) * loss2
+                print(loss_labels)
+                loss += label_weight * loss_labels
             else:
                 preds = model(x, mask_x, cuda)
                 loss = ranking_loss(preds.transpose(0, 1), yd, mask_yd)
@@ -413,4 +431,4 @@ if __name__ == '__main__':
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_beta = args.beta, parse_with_gates=(not args.parse_with_distances),
               save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs,             
-              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio, nhid=args.nhid, nemb=args.nemb, nlookback = args.nlookback)
+              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio, nhid=args.nhid, nemb=args.nemb)

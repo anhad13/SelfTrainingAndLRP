@@ -17,7 +17,8 @@ class PRPN(nn.Module):
     def __init__(self, ntoken, ninp, nhid, nlayers,
                  nslots=5, nlookback=1, resolution=0.1,
                  dropout=0.4, idropout=0.4, rdropout=0.1,
-                 tie_weights=False, hard=False, res=1, use_orig_prpn=True):
+                 tie_weights=False, hard=False, res=1, 
+                 use_orig_prpn=True, nlabels = 1):
         super(PRPN, self).__init__()
         
         self.nhid = nhid
@@ -51,9 +52,12 @@ class PRPN(nn.Module):
                                      
         self.attentions = None
         self.gates = None
-        self.distances = None
-                                             
+        self.distances = None                                   
         self.init_weights()
+        self.pred_labels = nn.Sequential(nn.Dropout(dropout),
+                                            nn.Linear(nhid, nhid),
+                                            nn.ReLU(),
+                                            nn.Linear(nhid, nlabels))
 
 
     def init_weights(self):
@@ -118,6 +122,7 @@ class PRPN(nn.Module):
 
         output = self.drop(output)
         decoded = self.decoder(output)
+        self.label_out = self.pred_labels(self.parser.pre_gates.transpose(1, 2))
         return decoded.view(ntimestep, bsz, -1), (reader_state, parser_state, predictor_state)
 
     def init_hidden(self, bsz):

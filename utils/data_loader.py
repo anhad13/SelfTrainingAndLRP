@@ -26,7 +26,6 @@ def list2distance(tree_ar):
     hh = max([lh, rh])+1
     return ld + [hh] + rd, hh
 
-
 def get_brackets(tree, idx=0):
     brackets = set()
     if isinstance(tree, list) or isinstance(tree, nltk.Tree):
@@ -43,7 +42,7 @@ def get_brackets(tree, idx=0):
 
 def tree2list(tree):
     if isinstance(tree, nltk.Tree):
-        if tree.label() in word_tags:
+        if len(tree) == 1:
             return tree.leaves()[0]
         else:
             root = []
@@ -56,6 +55,14 @@ def tree2list(tree):
             elif len(root) == 1:
                 return root[0]
     return []
+
+def tree2labellist(tree):
+    if len(tree) == 1:
+        return []
+    current = [tree.label().split("|")[-1]]
+    c1 = tree2labellist(tree[0])
+    c2 = tree2labellist(tree[1])
+    return c1 + current + c2
 
 
 def build_tree(depth, sen):
@@ -74,16 +81,16 @@ def build_tree(depth, sen):
 def filter_words(tree):
     words = []
     for w, tag in tree.pos():
-        if tag in word_tags:
-            w = w.lower()
-            w = re.sub('[0-9]+', 'N', w)
-            # if tag == 'CD':
-            #     w = 'N'
-            words.append(w)
+        # if tag in word_tags:
+        w = w.lower()
+        w = re.sub('[0-9]+', 'N', w)
+        # if tag == 'CD':
+        #     w = 'N'
+        words.append(w)
     return words
 
 
-def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervised_model=False, semisupervised=False, binarize=False):
+def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervised_model=False, semisupervised=False, binarize=False, label_vocab = {}):
     '''
        This returns
        1) a list of torch.LongTensors containing the indices of all not filtered words of each sentence
@@ -92,9 +99,14 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
        4) the brackets as tuples
        5) the gate values for training PRPN in a supervised way
     '''
+    if len(label_vocab) == 0:
+        expand_labels = True
+        label_vocab = {"UNK": 0}
+    else:
+        expand_labels = False
     if not vocab:
         vocab = {'<pad>': 0, '<bos>': 1, '<eos>': 2, '<unk>': 3}
-    all_sents, all_trees, all_dists, all_brackets, all_words, all_gates, skip_sup = [], [], [], [], [], [], []
+    all_sents, all_trees, all_dists, all_brackets, all_words, all_gates, skip_sup, all_labels = [], [], [], [], [], [], [], []
     counter = 0
     for id in ids:
         #sentences = ptb.parsed_sents(id)
@@ -116,6 +128,17 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
             if binarize:
                 nltk.treetransforms.chomsky_normal_form(sent)
             treelist = tree2list(sent)
+            label_list = tree2labellist(sent)
+            label_list_ids = []
+            for x in label_list:
+                if x not in label_vocab:
+                    if expand_labels:
+                        label_vocab[x]=len(label_vocab)
+                        label_list_ids.append(label_vocab[x])
+                    else:
+                        label_list_ids.append(0)
+                else:
+                    label_list_ids.append(label_vocab[x])
             gate_values = tree_to_gates(treelist)
             brackets = get_brackets(treelist)[0]
             if supervision_limit > -1 and counter >= supervision_limit:
@@ -135,12 +158,13 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
             all_trees.append(treelist)
             all_brackets.append(brackets)
             all_words.append(words)
+            all_labels.append(torch.LongTensor(label_list_ids))
 
             counter += 1
         if supervision_limit > -1 and counter >= supervision_limit and supervised_model:
             break
 
-    return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, skip_sup, vocab
+    return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, skip_sup, all_labels, label_vocab, vocab
 
 
 def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pickled_file_path=None, bagging=False, semisupervised=False, force_binarize=False):
@@ -160,7 +184,7 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pi
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
     if pickled_file_path == None:
-        train_data = load_trees(train_file_ids, vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model, semisupervised=semisupervised, binarize=True)
+        train_data = load_trees(train_file_ids[:1], vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model, semisupervised=semisupervised, binarize=True)
     else: # assumption: supervised load from pickle and all data is UNSUP
         pickled_training_data = pickle.load(open(pickled_file_path, "rb"))
         if bagging:
@@ -181,9 +205,9 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pi
             else:
                 train_data[6].append(False)
         vocabulary = pickled_training_data[-1]
-    valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab= (vocabulary==None))
-    test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False, binarize= force_binarize)
-    rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False, binarize= force_binarize)
+    valid_data = load_trees(valid_file_ids[:1], vocab=train_data[-1], grow_vocab= (vocabulary==None), label_vocab= train_data[-2])
+    test_data = load_trees(test_file_ids[:1], vocab=train_data[-1], grow_vocab=False, binarize= force_binarize, label_vocab= train_data[-2])
+    rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False, binarize= force_binarize, label_vocab= train_data[-2])
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) + len(rest_data[0])
     print('Number of sentences loaded: ' + str(number_sentences))
     
