@@ -184,7 +184,7 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pi
             elif 'data/wsj/00/wsj_0000.mrg' <= id <= 'data/wsj/01/wsj_0199.mrg' or 'data/wsj/24/wsj_2400.mrg' <= id <= 'data/wsj/24/wsj_2499.mrg':
                 rest_file_ids.append(id)
     if pickled_file_path == None:
-        train_data = load_trees(train_file_ids[:1], vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model, semisupervised=semisupervised, binarize=True)
+        train_data = load_trees(train_file_ids, vocab=vocabulary, grow_vocab= (vocabulary==None), supervision_limit=supervision_limit, supervised_model=supervised_model, semisupervised=semisupervised, binarize=True)
     else: # assumption: supervised load from pickle and all data is UNSUP
         pickled_training_data = pickle.load(open(pickled_file_path, "rb"))
         if bagging:
@@ -205,8 +205,8 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pi
             else:
                 train_data[6].append(False)
         vocabulary = pickled_training_data[-1]
-    valid_data = load_trees(valid_file_ids[:1], vocab=train_data[-1], grow_vocab= (vocabulary==None), label_vocab= train_data[-2])
-    test_data = load_trees(test_file_ids[:1], vocab=train_data[-1], grow_vocab=False, binarize= force_binarize, label_vocab= train_data[-2])
+    valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab= (vocabulary==None), label_vocab= train_data[-2])
+    test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False, binarize= force_binarize, label_vocab= train_data[-2])
     rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False, binarize= force_binarize, label_vocab= train_data[-2])
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) + len(rest_data[0])
     print('Number of sentences loaded: ' + str(number_sentences))
