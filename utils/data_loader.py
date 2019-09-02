@@ -42,7 +42,7 @@ def get_brackets(tree, idx=0):
 
 def tree2list(tree):
     if isinstance(tree, nltk.Tree):
-        if len(tree) == 1:
+        if len(tree.leaves()) == 1:
             return tree.leaves()[0]
         else:
             root = []
@@ -56,13 +56,18 @@ def tree2list(tree):
                 return root[0]
     return []
 
+
 def tree2labellist(tree):
-    if len(tree) == 1:
-        return []
-    current = [tree.label().split("|")[-1]]
-    c1 = tree2labellist(tree[0])
-    c2 = tree2labellist(tree[1])
-    return c1 + current + c2
+    if isinstance(tree, nltk.Tree):
+        if len(tree.leaves())<=1:
+            return []
+        elif len(tree)==1:
+            return tree2labellist(tree[0])
+        current = [tree.label().split("|")[-1]]
+        c1 = tree2labellist(tree[0])
+        c2 = tree2labellist(tree[1])
+        return c1 + current + c2
+    return []
 
 
 def build_tree(depth, sen):
@@ -81,12 +86,8 @@ def build_tree(depth, sen):
 def filter_words(tree):
     words = []
     for w, tag in tree.pos():
-        # if tag in word_tags:
-        w = w.lower()
-        w = re.sub('[0-9]+', 'N', w)
-        # if tag == 'CD':
-        #     w = 'N'
-        words.append(w)
+        if w in tree.leaves():
+            words.append(w)
     return words
 
 
@@ -112,6 +113,8 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
         #sentences = ptb.parsed_sents(id)
         ptb = BracketParseCorpusReader('', id)
         for sent in ptb.parsed_sents():
+            if binarize:
+                nltk.treetransforms.chomsky_normal_form(sent)
             words = ['<bos>'] + filter_words(sent) + ['<eos>']
             idx = []
             for word in words:
@@ -125,8 +128,6 @@ def load_trees(ids, vocab=None, grow_vocab=True, supervision_limit=-1, supervise
                 continue
                 print("skipping")
             # Binarize tree.
-            if binarize:
-                nltk.treetransforms.chomsky_normal_form(sent)
             treelist = tree2list(sent)
             label_list = tree2labellist(sent)
             label_list_ids = []
@@ -207,7 +208,7 @@ def main(path, supervision_limit=-1, supervised_model=False, vocabulary=None, pi
         vocabulary = pickled_training_data[-1]
     valid_data = load_trees(valid_file_ids, vocab=train_data[-1], grow_vocab= (vocabulary==None), label_vocab= train_data[-2])
     test_data = load_trees(test_file_ids, vocab=train_data[-1], grow_vocab=False, binarize= force_binarize, label_vocab= train_data[-2])
-    rest_data = load_trees(rest_file_ids[:1], vocab=train_data[-1], grow_vocab=False, binarize= force_binarize, label_vocab= train_data[-2])
+    rest_data = load_trees(rest_file_ids, vocab=train_data[-1], grow_vocab=False, binarize= force_binarize, label_vocab= train_data[-2])
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) + len(rest_data[0])
     print('Number of sentences loaded: ' + str(number_sentences))
     
