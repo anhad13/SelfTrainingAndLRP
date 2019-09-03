@@ -10,7 +10,7 @@ import time
 from utils import data_loader, ctb_data, german_data, arabic_data, ctb_data_wkp
 from model.parser import Parser
 from model.prpn import PRPN
-from utils.data_loader import build_tree, get_brackets
+from utils.data_loader import build_tree, get_brackets, build_tree_labelled, get_pred_labelled_bracketed
 import torch.nn as nn
 import pickle
 import math
@@ -69,7 +69,9 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file
     #first reverse label map
     rev_label_map = {}
     accuracy_map = {}
+    do_labelled_f1 = False
     net_acc = []
+    labelled_f1 = []
     for x in label_map.keys():
         accuracy_map[x] = []
         rev_label_map[label_map[x]] = x
@@ -91,15 +93,21 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file
                 preds = gates[1:-1]
                 pred_tree = build_tree_prpn(list(preds.data), sent[1:-1])
             else:  # parse using supervised distances
+                do_labelled_f1 = True
                 preds = model.distances.transpose(1, 0)[2:-1].squeeze(0)
                 pred_tree = build_tree(list(preds.data), sent[1:-1])
+                pred_tree_labelled = build_tree_labelled(list(preds.data), sent[1:-1], list(model.label_out[0].argmax(1)[2:-1]), rev_label_map)
+                label_brackets = get_pred_labelled_bracketed(pred_tree_labelled)[0]
         else:
             preds = model(x.unsqueeze(0), torch.ones_like(x.unsqueeze(0)), cuda).transpose(0, 1)
             pred_tree = build_tree(list(preds.data[0]), sent[1:-1])
+            #import pdb;pdb.set_trace()
+            pred_tree_labelled = build_tree_labelled(list(preds.data[0]), sent[1:-1], list(model.label_out.transpose(0,1)[0].argmax(1)), rev_label_map)
+            label_brackets = get_pred_labelled_bracketed(pred_tree_labelled)[0]
+            do_labelled_f1 = True
         predicted_labels = model.label_out[0].argmax(1)[2:-1]
-        net_acc.append(torch.sum(predicted_labels ==label_targets[i]).cpu().data.item()/float(len(predicted_labels)))
+        #net_acc.append(torch.sum(predicted_labels ==label_targets[i]).cpu().data.item()/float(len(predicted_labels)))
         pred_brackets = get_brackets(pred_tree)[0]
-
         overlap = pred_brackets.intersection(gold_brackets)
         
         prec = float(len(overlap)) / (len(pred_brackets) + 1e-8)
@@ -112,12 +120,24 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file
         prec_list.append(prec)
         reca_list.append(reca)
         f1_list.append(f1)
+        if do_labelled_f1:
+            overlap = label_brackets.intersection(dataset[8][i])
+            prec = float(len(overlap)) / (len(label_brackets) + 1e-8)
+            reca = float(len(overlap)) / (len(dataset[8][i]) + 1e-8)
+            if len(gold_brackets) == 0:
+                reca = 1.
+                if len(pred_brackets) == 0: 
+                    prec = 1.
+            f1 = 2 * prec * reca / (prec + reca + 1e-8)
+            labelled_f1.append(f1)
         outf.append({'f1': f1, 'example': sent, 'pred_tree': pred_tree, 'preds': preds, 'parse_with_gates': parse_with_gates, 'gold': gold_brackets})    
     if output_file:
         f = open(output_file, "wb")
         pickle.dump(outf, f)
     # Sentence-level F1.
-    print("Label Acc", numpy.mean(net_acc))
+    if do_labelled_f1:
+        print("Labelled F1", numpy.mean(labelled_f1))
+        # print("Label Acc", numpy.mean(net_acc))
     return numpy.mean(f1_list)
 
 
@@ -245,7 +265,7 @@ def LM_criterion(input, targets, targets_mask, ntokens):
 
 def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nhid=300, epochs=300, batch_size=3,
               alpha=0., train_beta=1.0, parse_with_gates=True, save_to=None, load_from=None, eval_on='dev',
-              use_orig_prpn=False, training_method='unsupervised', training_ratio=0.5, label_weight = 0.5):
+              use_orig_prpn=False, training_method='unsupervised', training_ratio=0.5, label_weight = 100.0):
     if save_to:
         if '/' in save_to:
             os.makedirs('/'.join(save_to.split('/')[:-1]), exist_ok=True)
@@ -261,7 +281,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         model = PRPN(len(vocab), nemb, nhid, 2, 15, 5, 0.1, 0.2, 0.2, 0.0, False, False, 0, use_orig_prpn=use_orig_prpn, nlabels= len(train_data[-2]))
     else:
         print('Using supervised parser.')
-        model = Parser(nemb, nhid, len(vocab))
+        model = Parser(nemb, nhid, len(vocab), nlabels=len(train_data[-2]))
     if load_from:
         print('Loading pretrained model from ' + load_from + '.')
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -309,11 +329,15 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                 loss2 = LM_criterion(output, torch.cat([x.transpose(1, 0)[1:], zeros], dim=0),
                                      torch.cat([mask_x.transpose(1, 0)[1:], zeros], dim=0), len(vocab))
                 loss = alpha * loss1 + (1 - alpha) * loss2
-                print(loss_labels)
-                loss += label_weight * loss_labels
+                if training_method!="unsupervised":
+                    loss += label_weight * loss_labels
             else:
+                #straight to the tree.
                 preds = model(x, mask_x, cuda)
+                label_out =model.label_out.transpose(0,1).contiguous().view(-1, nlabels)
+                loss_labels = nn.CrossEntropyLoss()(label_out, label_l.contiguous().view(-1))
                 loss = ranking_loss(preds.transpose(0, 1), yd, mask_yd)
+                loss += label_weight * loss_labels
             av_loss += loss
             loss.backward()
             torch.nn.utils.clip_grad_norm(model.parameters(), 1.)
@@ -377,6 +401,7 @@ if __name__ == '__main__':
     parser.add_argument('--nhid', type= int, default = 300, help='hidden dims')
     parser.add_argument('--nemb', type= int, default = 100, help= 'emb dimension')
     parser.add_argument('--nlookback', type= int, default = 1, help= 'lookback for PRPN')
+    parser.add_argument('--label_weight', type= float, default = 100.0, help= 'label weight ')
     
     args = parser.parse_args()
     if args.treebank == "ctb":
@@ -431,4 +456,4 @@ if __name__ == '__main__':
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_beta = args.beta, parse_with_gates=(not args.parse_with_distances),
               save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs,             
-              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio, nhid=args.nhid, nemb=args.nemb)
+              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio, nhid=args.nhid, nemb=args.nemb, label_weight = args.label_weight)

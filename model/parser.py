@@ -8,7 +8,7 @@ from torch.autograd import Variable
 
 class Parser(nn.Module):
 
-    def __init__(self, nemb, nhid, nvoc, dropout=0.3, dropout_emb=0.1):
+    def __init__(self, nemb, nhid, nvoc, dropout=0.3, dropout_emb=0.1, nlabels = 100):
         super(Parser, self).__init__()
         
         self.nvoc = nvoc
@@ -25,7 +25,10 @@ class Parser(nn.Module):
         self.ff2 = nn.Linear(self.nhid, 1)
     
         self.tanh = nn.Tanh()
-
+        self.pred_labels = nn.Sequential(nn.Dropout(dropout),
+                                            nn.Linear(nhid, nhid),
+                                            nn.ReLU(),
+                                            nn.Linear(nhid, nlabels))
     
     def forward(self, input, mask, cuda):
         # emb: seq_len, emb_size
@@ -58,6 +61,6 @@ class Parser(nn.Module):
         ff1_out = self.ff1(lstm2_out)
         ff1_out = self.dropout(self.tanh(ff1_out))
         ff2_out = self.ff2(ff1_out)
-        
+        self.label_out = self.pred_labels(ff1_out)
         # ff2_out: batch_size, seq_len-1, 2
         return ff2_out.squeeze(2)
