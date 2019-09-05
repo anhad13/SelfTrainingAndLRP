@@ -324,7 +324,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                 distances = distances.transpose(0,1)[2:-1].transpose(0,1)
                 loss1d = ranking_loss(distances, yd, mask_yd)
                 label_out = model.label_out.transpose(0,1)[2:-1].transpose(0,1).contiguous().view(-1, nlabels)
-                loss_labels = nn.CrossEntropyLoss()(label_out, label_l.contiguous().view(-1))
+                loss_labels = nn.CrossEntropyLoss(ignore_index=0)(label_out, label_l.contiguous().view(-1))
                 loss1 = loss1g * train_beta + loss1d * (1 - train_beta)
                 loss2 = LM_criterion(output, torch.cat([x.transpose(1, 0)[1:], zeros], dim=0),
                                      torch.cat([mask_x.transpose(1, 0)[1:], zeros], dim=0), len(vocab))
@@ -334,8 +334,8 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
             else:
                 #straight to the tree.
                 preds = model(x, mask_x, cuda)
-                label_out =model.label_out.transpose(0,1).contiguous().view(-1, nlabels)
-                loss_labels = nn.CrossEntropyLoss()(label_out, label_l.contiguous().view(-1))
+                label_out = model.label_out.transpose(0,1).contiguous().view(-1, nlabels)
+                loss_labels = nn.CrossEntropyLoss(ignore_index=0)(label_out, label_l.contiguous().view(-1))
                 loss = ranking_loss(preds.transpose(0, 1), yd, mask_yd)
                 loss += label_weight * loss_labels
             av_loss += loss
