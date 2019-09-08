@@ -29,6 +29,10 @@ class Parser(nn.Module):
                                             nn.Linear(nhid, nhid),
                                             nn.ReLU(),
                                             nn.Linear(nhid, nlabels))
+        self.pred_leaf_labels = nn.Sequential(nn.Dropout(dropout),
+                                            nn.Linear(2*nhid, nhid),
+                                            nn.ReLU(),
+                                            nn.Linear(nhid, nlabels))
     
     def forward(self, input, mask, cuda):
         # emb: seq_len, emb_size
@@ -62,5 +66,6 @@ class Parser(nn.Module):
         ff1_out = self.dropout(self.tanh(ff1_out))
         ff2_out = self.ff2(ff1_out)
         self.label_out = self.pred_labels(ff1_out)
+        self.leaf_label_out = self.pred_leaf_labels(lstm1_out.transpose(1,2)).transpose(0,1)
         # ff2_out: batch_size, seq_len-1, 2
         return ff2_out.squeeze(2)

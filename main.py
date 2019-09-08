@@ -16,8 +16,10 @@ import pickle
 import math
 from os import listdir
 from os.path import isfile, join, isdir
-
-
+from utils.compute_f1 import compute_f1
+# do pip install PYEVALB before running this.
+from PYEVALB import scorer
+from PYEVALB import parser
 
 def ranking_loss(pred, gold, mask):
     loss = 0.
@@ -101,8 +103,10 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file
         else:
             preds = model(x.unsqueeze(0), torch.ones_like(x.unsqueeze(0)), cuda).transpose(0, 1)
             pred_tree = build_tree(list(preds.data[0]), sent[1:-1])
-            #import pdb;pdb.set_trace()
             pred_tree_labelled = build_tree_labelled(list(preds.data[0]), sent[1:-1], list(model.label_out.transpose(0,1)[0].argmax(1)), rev_label_map)
+            predicted_nonleafs = list(model.label_out.transpose(0,1)[0].argmax(1))
+            predicted_leafs = list(model.leaf_label_out.squeeze(1).argmax(1))
+            l_f1 = compute_f1(dataset[4][i], dataset[10][i],predicted_leafs, predicted_nonleafs, list(preds.data[0]), rev_label_map)
             label_brackets = get_pred_labelled_bracketed(pred_tree_labelled)[0]
             do_labelled_f1 = True
         predicted_labels = model.label_out[0].argmax(1)[2:-1]
@@ -121,15 +125,7 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file
         reca_list.append(reca)
         f1_list.append(f1)
         if do_labelled_f1:
-            overlap = label_brackets.intersection(dataset[8][i])
-            prec = float(len(overlap)) / (len(label_brackets) + 1e-8)
-            reca = float(len(overlap)) / (len(dataset[8][i]) + 1e-8)
-            if len(gold_brackets) == 0:
-                reca = 1.
-                if len(pred_brackets) == 0: 
-                    prec = 1.
-            f1 = 2 * prec * reca / (prec + reca + 1e-8)
-            labelled_f1.append(f1)
+            labelled_f1.append(l_f1)
         outf.append({'f1': f1, 'example': sent, 'pred_tree': pred_tree, 'preds': preds, 'parse_with_gates': parse_with_gates, 'gold': gold_brackets})    
     if output_file:
         f = open(output_file, "wb")
@@ -151,6 +147,7 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
         yd = dataset[1][i:i+batch_size]  # distances
         skip_sup = dataset[6][i:i+batch_size]  # distances
         ll = dataset[7][i:i+batch_size]
+        leafl = dataset[9][i:i+batch_size]
         max_len = 0
         for ex in x:
             if ex.shape[0] > max_len:
@@ -164,8 +161,9 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
         current_mask_mg = []
         current_mask_md = []
         current_ll = []
+        current_leafl = []
         skip_no = 0
-        for ex_x, ex_yg, ex_yd, ex_ll in zip(x, yg, yd, ll):
+        for ex_x, ex_yg, ex_yd, ex_ll, ex_leaf in zip(x, yg, yd, ll, leafl):
             mask_x = torch.ones_like(ex_x)
             mask_yg = torch.ones_like(ex_yg, dtype=torch.long)
             mask_yd = torch.ones_like(ex_yd, dtype=torch.long)
@@ -175,9 +173,11 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
                 ex_yg = torch.cat((ex_yg, torch.FloatTensor([padding_idx])))
                 ex_yd = torch.cat((ex_yd, torch.FloatTensor([padding_idx])))
                 ex_ll = torch.cat((ex_ll, torch.LongTensor([padding_idx])))
+                ex_leaf = torch.cat((ex_leaf, torch.LongTensor([padding_idx])))
                 mask_x = torch.cat((mask_x, torch.LongTensor([padding_idx])))
                 mask_yd = torch.cat((mask_yd, torch.LongTensor([padding_idx])))
                 mask_yg = torch.cat((mask_yg, torch.LongTensor([padding_idx])))
+
             # 1 - > -1 is valid
             mask_mg = torch.cat((torch.zeros(1), torch.ones(len(repl_x[1:-1])), torch.zeros(max_len-len(repl_x[1:-1])-1)))
             # 2 -> -1
@@ -195,6 +195,7 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
             current_mask_mg.append(mask_mg.unsqueeze(0))
             current_mask_md.append(mask_md.unsqueeze(0))
             current_ll.append(ex_ll.unsqueeze(0))
+            current_leafl.append(ex_leaf.unsqueeze(0))
         supervision_type = ["unsupervised"]
         if training_method == 'interleave':
             if max(skip_sup) == False: #null supervision on this:
@@ -208,10 +209,14 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
         for is_batch_supervised in supervision_type:
             if cuda:
                 batches.append((torch.cat(current_x).cuda(), torch.cat(current_yd).cuda(), torch.cat(current_yg).cuda(),
-                                torch.cat(current_mask_x).cuda(), torch.cat(current_mask_yd).cuda(), torch.cat(current_mask_yg).cuda() ,torch.cat(current_mask_mg).cuda(), torch.cat(current_mask_md).cuda(), is_batch_supervised, torch.cat(current_ll).cuda()))
+                                torch.cat(current_mask_x).cuda(), torch.cat(current_mask_yd).cuda(), 
+                                torch.cat(current_mask_yg).cuda() ,torch.cat(current_mask_mg).cuda(), torch.cat(current_mask_md).cuda(), 
+                                is_batch_supervised, torch.cat(current_ll).cuda(), torch.cat(current_leafl).cuda()))
             else:
                 batches.append((torch.cat(current_x), torch.cat(current_yd), torch.cat(current_yg),
-                                torch.cat(current_mask_x), torch.cat(current_mask_yd), torch.cat(current_mask_yg), torch.cat(current_mask_mg), torch.cat(current_mask_md), is_batch_supervised, torch.cat(current_ll)))
+                                torch.cat(current_mask_x), torch.cat(current_mask_yd), torch.cat(current_mask_yg), 
+                                torch.cat(current_mask_mg), torch.cat(current_mask_md), 
+                                is_batch_supervised, torch.cat(current_ll), torch.cat(current_leafl)))
         i += batch_size
     if training_ratio == 1.0 and training_method == 'interleave':
         training_method = "supervised"
@@ -303,7 +308,7 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
         av_loss = 0.
         shuffle(train)
         nlabels = len(train_data[-2])
-        for (x, yd, yg, mask_x, mask_yd, mask_yg, mask_mg, mask_md, training_method, label_l) in train:
+        for (x, yd, yg, mask_x, mask_yd, mask_yg, mask_mg, mask_md, training_method, label_l, leaf_l) in train:
             optimizer.zero_grad()
             if use_prpn:
                 if training_method == "unsupervised":
@@ -335,7 +340,10 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                 #straight to the tree.
                 preds = model(x, mask_x, cuda)
                 label_out = model.label_out.transpose(0,1).contiguous().view(-1, nlabels)
+                leaf_label_out = model.leaf_label_out[1:-1].transpose(0,1).contiguous().view(-1, nlabels)
+                leaf_loss = nn.CrossEntropyLoss(ignore_index=0)(leaf_label_out, leaf_l.contiguous().view(-1))
                 loss_labels = nn.CrossEntropyLoss(ignore_index=0)(label_out, label_l.contiguous().view(-1))
+                loss_labels += leaf_loss
                 loss = ranking_loss(preds.transpose(0, 1), yd, mask_yd)
                 loss += label_weight * loss_labels
             av_loss += loss
