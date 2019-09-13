@@ -82,7 +82,7 @@ def tree2labellist(tree):
                 return [], ["phi"] , [tree.pos()[0][1]]
         elif len(tree)==1:
             return tree2labellist(tree[0])
-        current = [tree.label()]#.split("|")[-1]]
+        current =  [re.split('-|=', tree.label())[0]]#.split("|")[-1]]
         c1, l1, p1 = tree2labellist(tree[0])
         c2, l2, p2= tree2labellist(tree[1])
         return c1 + current + c2, l1 + l2, p1 + p2

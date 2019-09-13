@@ -106,7 +106,8 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file
             pred_tree_labelled = build_tree_labelled(list(preds.data[0]), sent[1:-1], list(model.label_out.transpose(0,1)[0].argmax(1)), rev_label_map)
             predicted_nonleafs = list(model.label_out.transpose(0,1)[0].argmax(1))
             predicted_leafs = list(model.leaf_label_out.squeeze(1).argmax(1))
-            l_f1 = compute_f1(dataset[4][i], dataset[10][i],predicted_leafs, predicted_nonleafs, list(preds.data[0]), list(dataset[11][i]), rev_label_map)
+            #gold_leafs, gold_nonleafs, gold_dists,
+            l_f1 = compute_f1(dataset[4][i], dataset[10][i],predicted_leafs, predicted_nonleafs, list(preds.data[0]), list(dataset[11][i]),list(dataset[9][i]),list(dataset[7][i]) ,list(dataset[1][i]),rev_label_map)
             label_brackets = get_pred_labelled_bracketed(pred_tree_labelled)[0]
             do_labelled_f1 = True
         predicted_labels = model.label_out[0].argmax(1)[2:-1]

@@ -2,8 +2,9 @@ from PYEVALB import scorer
 from PYEVALB import parser
 import numpy
 import nltk
+import re
 
-def compute_f1(tokens, gold_nltk_tree, leaf, nonleaf, pred_tree, pos_list, hmap):
+def compute_f1(tokens, gold_nltk_tree, leaf, nonleaf, pred_tree, pos_list, gold_leafs, gold_nonleafs, gold_dists,  hmap):
 	"""
 
 	"""
@@ -16,12 +17,55 @@ def compute_f1(tokens, gold_nltk_tree, leaf, nonleaf, pred_tree, pos_list, hmap)
 	for x in nonleaf:
 		nonleafa.append(hmap[int(x)])
 	test = build_tree_labelled(pred_tree, sent, nonleafa, leafa, pos_list)
+	leafa = []
+	for x in gold_leafs:
+		leafa.append(hmap[int(x)])
+	nonleafa = []
+	for x in gold_nonleafs:
+		nonleafa.append(hmap[int(x)])
+	gold = build_tree_labelled(gold_dists, sent, nonleafa, leafa, pos_list)
+	
 	gold_tree = parser.create_from_bracket_string(gold)
 	test_tree = parser.create_from_bracket_string(test)
+	# print(gold_tree)
+	# print("\n")
+	# print(test_tree)
 
 	res = scorer.Scorer().score_trees(gold_tree, test_tree)
 	f1 = 2 * res.prec * res.recall / (res.prec + res.recall + 1e-8)
 	return f1
+
+def tree2list(tree, parent_arc=[]):
+    if isinstance(tree, nltk.Tree):
+        label = tree.label()
+        if isinstance(tree[0], nltk.Tree):
+            label = re.split('-|=', tree.label())[0]
+        root_arc_list = parent_arc + [label]
+        root_arc = '+'.join(root_arc_list)
+        if len(tree) == 1:
+            root, arc, tag = tree2list(tree[0], parent_arc=root_arc_list)
+        elif len(tree) == 2:
+            c0, arc0, tag0 = tree2list(tree[0])
+            c1, arc1, tag1 = tree2list(tree[1])
+            root = [c0, c1]
+            arc = arc0 + [root_arc] + arc1
+            tag = tag0 + tag1
+        else:
+            c0, arc0, tag0 = tree2list(tree[0])
+            c1, arc1, tag1 = tree2list(nltk.Tree('<empty>', tree[1:]))
+            if bin == 0:
+                root = [c0] + c1
+            else:
+                root = [c0, c1]
+            arc = arc0 + [root_arc] + arc1
+            tag = tag0 + tag1
+        return root, arc, tag
+    else:
+        if len(parent_arc) == 1:
+            parent_arc.insert(0, '<empty>')
+        # parent_arc[-1] = '<POS>'
+        del parent_arc[-1]
+        return str(tree), [], ['+'.join(parent_arc)]
 
 
 def build_tree_labelled(depth, sen, label_nonleaf, label_leaf, pos_list):
