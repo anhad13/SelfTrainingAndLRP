@@ -56,8 +56,11 @@ class PRPN(nn.Module):
         self.init_weights()
         self.pred_labels = nn.Sequential(nn.Dropout(dropout),
                                             nn.Linear(nhid, nhid),
-                                            nn.ReLU(),
-                                            nn.Linear(nhid, nlabels))
+                                            nn.ReLU())
+        self.arc = nn.Linear(nhid, nlabels)
+        self.pred_leaf_labels = nn.Sequential(nn.Dropout(dropout),
+                                            nn.Linear(ninp, nhid),
+                                            nn.ReLU())
 
 
     def init_weights(self):
@@ -74,6 +77,7 @@ class PRPN(nn.Module):
         ntimestep = input.size(0)
         bsz = input.size(1)
         emb = self.encoder(input)  # timesteps, bsz, ninp
+        self.leaf_label_out = self.arc(self.pred_leaf_labels(emb))
         output_h = []
         output_memory = []
         attentions = []
@@ -122,7 +126,7 @@ class PRPN(nn.Module):
 
         output = self.drop(output)
         decoded = self.decoder(output)
-        self.label_out = self.pred_labels(self.parser.pre_gates.transpose(1, 2))
+        self.label_out = self.arc(self.pred_labels(self.parser.pre_gates.transpose(1, 2)))
         return decoded.view(ntimestep, bsz, -1), (reader_state, parser_state, predictor_state)
 
     def init_hidden(self, bsz):

@@ -98,8 +98,13 @@ def eval_fct(model, dataset, use_prpn, parse_with_gates, cuda=False, output_file
                 do_labelled_f1 = True
                 preds = model.distances.transpose(1, 0)[2:-1].squeeze(0)
                 pred_tree = build_tree(list(preds.data), sent[1:-1])
-                pred_tree_labelled = build_tree_labelled(list(preds.data), sent[1:-1], list(model.label_out[0].argmax(1)[2:-1]), rev_label_map)
+                pred_tree_labelled = build_tree_labelled(list(preds.data), sent[1:-1], list(model.label_out.transpose(0,1)[2:-1].squeeze(1).argmax(1)), rev_label_map)
+                predicted_nonleafs = list(model.label_out.transpose(0,1)[2:-1].squeeze(1).argmax(1))
+                predicted_leafs = list(model.leaf_label_out.squeeze(1).argmax(1))
+                #gold_leafs, gold_nonleafs, gold_dists,
+                l_f1 = compute_f1(dataset[4][i], dataset[10][i],predicted_leafs, predicted_nonleafs, list(preds.data), list(dataset[11][i]),list(dataset[9][i]),list(dataset[7][i]) ,list(dataset[1][i]),rev_label_map)
                 label_brackets = get_pred_labelled_bracketed(pred_tree_labelled)[0]
+                do_labelled_f1 = True
         else:
             preds = model(x.unsqueeze(0), torch.ones_like(x.unsqueeze(0)), cuda).transpose(0, 1)
             pred_tree = build_tree(list(preds.data[0]), sent[1:-1])
@@ -329,8 +334,13 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                 distances = model.distances * mask_md
                 distances = distances.transpose(0,1)[2:-1].transpose(0,1)
                 loss1d = ranking_loss(distances, yd, mask_yd)
-                label_out = model.label_out.transpose(0,1)[2:-1].transpose(0,1).contiguous().view(-1, nlabels)
+                label_out = model.label_out.contiguous().view(-1, nlabels)
+                leaf_label_out = model.leaf_label_out.transpose(0,1).contiguous().view(-1, nlabels)
+                label_l = torch.cat([torch.zeros(batch_size,2).long(),label_l, torch.zeros(batch_size,1).long()], 1)
+                leaf_l = torch.cat([torch.zeros(batch_size,1).long(),leaf_l, torch.zeros(batch_size,1).long()], 1)
+                leaf_loss = nn.CrossEntropyLoss(ignore_index=0)(leaf_label_out, leaf_l.contiguous().view(-1))
                 loss_labels = nn.CrossEntropyLoss(ignore_index=0)(label_out, label_l.contiguous().view(-1))
+                loss_labels += leaf_loss
                 loss1 = loss1g * train_beta + loss1d * (1 - train_beta)
                 loss2 = LM_criterion(output, torch.cat([x.transpose(1, 0)[1:], zeros], dim=0),
                                      torch.cat([mask_x.transpose(1, 0)[1:], zeros], dim=0), len(vocab))
