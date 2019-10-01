@@ -26,11 +26,7 @@ def compute_f1(tokens, gold_nltk_tree, leaf, nonleaf, pred_tree, pos_list, gold_
 	gold = build_tree_labelled(gold_dists, sent, nonleafa, leafa, pos_list)
 	
 	gold_tree = parser.create_from_bracket_string(gold)
-	test_tree = parser.create_from_bracket_string(test)
-	# print(gold_tree)
-	# print("\n")
-	# print(test_tree)
-
+	test_tree = parser.create_from_bracket_string(test)#;print(gold_tree);print("\n");print(test_tree)
 	res = scorer.Scorer().score_trees(gold_tree, test_tree)
 	f1 = 2 * res.prec * res.recall / (res.prec + res.recall + 1e-8)
 	return f1
@@ -72,7 +68,7 @@ def build_tree_labelled(depth, sen, label_nonleaf, label_leaf, pos_list):
     assert len(depth) == len(sen) - 1
     if len(sen)==1:
     	assert len(label_leaf) == 1
-    	if label_leaf[0] == "phi":#phi allert
+    	if True:#label_leaf[0] == "phi":#phi allert
     		return "("+pos_list[0]+" "+sen[0]+")" 
     	else:
     		return "("+label_leaf[0] + "("+pos_list[0]+" "+sen[0]+"))"
