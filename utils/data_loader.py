@@ -8,6 +8,7 @@ from nltk.corpus import ptb
 from nltk.corpus import BracketParseCorpusReader
 from utils.tree_to_gate import tree_to_gates
 import pickle
+import re
 
 word_tags = ['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NNP', 'NNPS', 'PDT',
              'POS', 'PRP', 'PRP$', 'RB', 'RBR', 'RBS', 'RP', 'SYM', 'TO', 'UH', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ',
@@ -82,10 +83,13 @@ def tree2labellist(tree):
                 return [], ["phi"] , [tree.pos()[0][1]]
         elif len(tree)==1:
             return tree2labellist(tree[0])
-        current =  [re.split('-|=', tree.label())[0]]#.split("|")[-1]]
+        out = tree.label()
+        while re.search('\(([A-Z0-9]{1,})((-|=)[A-Z0-9]*)*\s{1,}\)', out) is not None:
+            out = re.sub('\(([A-Z0-9]{1,})((-|=)[A-Z0-9]*)*\s{1,}\)', '', out)
+        # current =  [re.split('-|=', tree.label())[0]]#.split("|")[-1]]
         c1, l1, p1 = tree2labellist(tree[0])
         c2, l2, p2= tree2labellist(tree[1])
-        return c1 + current + c2, l1 + l2, p1 + p2
+        return c1 + [out] + c2, l1 + l2, p1 + p2
     return [], [], []
 
 
