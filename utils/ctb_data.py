@@ -10,6 +10,7 @@ from utils.tree_to_gate import tree_to_gates
 import pickle
 from os.path import isfile, join, isdir
 from os import listdir
+from utils.data_loader import *
 
 def list2distance(tree_ar):
     if type(tree_ar) != list:
@@ -33,6 +34,23 @@ def get_brackets(tree, idx=0):
     else:
         return brackets, idx + 1
 
+def tree2labellist(tree):
+    if isinstance(tree, nltk.Tree):
+        if len(tree.leaves())<=1:
+            if tree.pos()[0][1]!=tree.label():#this means its actually a const
+                return [], [tree.label()], [tree.pos()[0][1]]
+            else:
+                return [], ["phi"] , [tree.pos()[0][1]]
+        elif len(tree)==1:
+            return tree2labellist(tree[0])
+        # out = tree.label()
+        # while re.search('\(([A-Z0-9]{1,})((-|=)[A-Z0-9]*)*\s{1,}\)', out) is not None:
+        #     out = re.sub('\(([A-Z0-9]{1,})((-|=)[A-Z0-9]*)*\s{1,}\)', '', out)
+        out = tree.label()
+        c1, l1, p1 = tree2labellist(tree[0])
+        c2, l2, p2= tree2labellist(tree[1])
+        return c1 + [out] + c2, l1 + l2, p1 + p2
+    return [], [], []
 
 def tree2list(tree):
     if isinstance(tree, nltk.Tree):
@@ -79,7 +97,20 @@ def checkoserrror(path):
             raise
 
 
-def load_trees(path, ids, vocab=None, semisupervised=False, grow_vocab=True, supervision_limit=-1, supervised_model=False, binarize = False):
+def get_labelled_brackets(tree, idx=0):
+    brackets = set()
+    if isinstance(tree, list) or isinstance(tree, nltk.Tree):
+        for node in tree:
+            node_brac, next_idx = get_labelled_brackets(node, idx)
+            if next_idx - idx > 1:
+                brackets.add((idx, next_idx, tree.label()))
+                brackets.update(node_brac)
+            idx = next_idx
+        return brackets, idx
+    else:
+        return brackets, idx + 1
+
+def load_trees(path, ids, vocab=None, semisupervised=False, grow_vocab=True, supervision_limit=-1, supervised_model=False, binarize = False, label_vocab = {}):
     '''
        This returns
        1) a list of torch.LongTensors containing the indices of all not filtered words of each sentence
@@ -90,10 +121,15 @@ def load_trees(path, ids, vocab=None, semisupervised=False, grow_vocab=True, sup
     '''
     if not vocab:
         vocab = {'<pad>': 0, '<bos>': 1, '<eos>': 2, '<unk>': 3}
-    all_sents, all_trees, all_dists, all_brackets, all_words, all_gates, skip_sup = [], [], [], [], [], [], []
+    all_sents, all_trees, all_dists, all_brackets, all_words, all_gates, skip_sup, all_labels, all_labelled_brackets, all_label_leafs, all_original_trees, all_pos_list = [], [], [], [], [], [], [], [], [], [], [], []
     counter = 0
     files = []
     dontexist = 0
+    if len(label_vocab) == 0:
+        expand_labels = True
+        label_vocab = {"UNK": 0, "phi": 1}
+    else:
+        expand_labels = False
     ctb = convert_ctb5_to_backeted(path, ids)
     # for fid in ids:
     #     # f = 'chtb_%03d.fid' % fid
@@ -121,14 +157,33 @@ def load_trees(path, ids, vocab=None, semisupervised=False, grow_vocab=True, sup
                 print("skipping")
             # Binarize tree.
             if binarize:
-                try:
-                    nltk.treetransforms.chomsky_normal_form(sent)
-                except:
-                    print(sent)
-                    continue
+                nltk.treetransforms.chomsky_normal_form(sent)
             treelist = tree2list(sent)
+            label_list, leaf_list, pos_list = tree2labellist(sent)
+            label_list_ids = []
+            leaf_list_ids = []
+            all_pos_list.append(pos_list)
+            for x in label_list:
+                if x not in label_vocab:
+                    if expand_labels:
+                        label_vocab[x]=len(label_vocab)
+                        label_list_ids.append(label_vocab[x])
+                    else:
+                        label_list_ids.append(0)
+                else:
+                    label_list_ids.append(label_vocab[x])
+            for x in leaf_list:
+                if x not in label_vocab:
+                    if expand_labels:
+                        label_vocab[x]=len(label_vocab)
+                        leaf_list_ids.append(label_vocab[x])
+                    else:
+                        leaf_list_ids.append(0)
+                else:
+                    leaf_list_ids.append(label_vocab[x])
             gate_values = tree_to_gates(treelist)
-            brackets = get_brackets(treelist)[0]
+            brackets = get_brackets(sent)[0]
+            labelled_brackets = get_labelled_brackets(sent)[0]
             if supervision_limit > -1 and counter >= supervision_limit:
                 if (not semisupervised) and supervised_model:
                     break
@@ -142,14 +197,18 @@ def load_trees(path, ids, vocab=None, semisupervised=False, grow_vocab=True, sup
                    skip_sup.append(False)
                 else:
                    skip_sup.append(True)
+            all_original_trees.append(sent)
             all_sents.append(torch.LongTensor(idx))
             all_trees.append(treelist)
             all_brackets.append(brackets)
+            all_labelled_brackets.append(labelled_brackets)
             all_words.append(words)
-            counter += 1
+            all_labels.append(torch.LongTensor(label_list_ids))
+            all_label_leafs.append(torch.LongTensor(leaf_list_ids))
+
         if supervision_limit > -1 and counter >= supervision_limit and supervised_model:
             break
-    return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, skip_sup, vocab
+    return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, skip_sup, all_labels, all_labelled_brackets, all_label_leafs, all_original_trees, all_pos_list, label_vocab, vocab
 
 
 def convert_ctb5_to_backeted(ctb_root, ids):
@@ -211,8 +270,8 @@ def main(data = 'data/ctb/',supervision_limit=-1, supervised_model=False, vocabu
             else:
                 train_data[6].append(False)
         vocabulary = pickled_training_data[-1]
-    valid_data = load_trees(path, development, vocab=train_data[-1], grow_vocab= (vocabulary==None), binarize= force_binarize)
-    test_data = load_trees(path, test, vocab=train_data[-1], grow_vocab=False, binarize= force_binarize)
+    valid_data = load_trees(path, development, vocab=train_data[-1], grow_vocab= (vocabulary==None), binarize= force_binarize, label_vocab= train_data[-2])
+    test_data = load_trees(path, test, vocab=train_data[-1], grow_vocab=False, binarize= force_binarize, label_vocab= train_data[-2])
     number_sentences = len(train_data[0]) + len(valid_data[0]) + len(test_data[0]) 
     print('Number of sentences loaded: ' + str(number_sentences))
     
