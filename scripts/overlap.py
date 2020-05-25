@@ -4,7 +4,7 @@ sys.path.append(".")
 from utils.data_loader import build_tree, get_brackets
 import numpy
 import torch
-from utils import data_loader
+from utils import data_loader_legacy as data_loader
 from utils.tree_to_gate import tree_to_gates
 def extract_hm():
 	train_data, valid_data, test_data = data_loader.main("data/")
@@ -33,6 +33,10 @@ def list2distance(tree_ar):
     hh = max([lh, rh])+1
     return ld + [hh] + rd, hh
 
+def depth(arr):
+	if type(arr)!=list:
+		return 0
+	return max(depth(arr[0]),depth(arr[1]))+1
 
 def get_stats(outputs):
 	numSent = len(outputs[0])
@@ -41,10 +45,12 @@ def get_stats(outputs):
 	numReports = len(outputs)
 	agree = 0
 	fullagree_f1 = []
-	av_lenth = {2: [], 3: [], 4: [], 5: [],6: [],7: [],8: [],9: []}
-	av_f1 = {2: [], 3: [], 4: [], 5: [],6: [],7: [],8: [],9: []}
-	av_f1_diff = {2: [], 3: [], 4: [], 5: [],6: [],7: [],8: [],9: []}
-	partial_agree = {2: 0, 3: 0, 4: 0, 5: 0,6: 0,7: 0 ,8 : 0,9 : 0}
+	av_lenth = {1: [], 2: [], 3: [], 4: [], 5: [],6: [],7:[],8:[],9:[],10:[],11:[],12:[],13:[],14:[],15:[],16:[],17:[],18:[],19:[],20:[]}
+	av_depth = {1: [], 2: [], 3: [], 4: [], 5: [],6: [],7:[],8:[],9:[],10:[],11:[],12:[],13:[],14:[],15:[],16:[],17:[],18:[],19:[],20:[]}	
+	av_f1 = {1: [], 2: [], 3: [], 4: [], 5: [],6: [],7:[],8:[],9:[],10:[],11:[],12:[],13:[],14:[],15:[],16:[],17:[],18:[],19:[],20:[]}
+	av_f1_diff = {1:[],2: [], 3: [], 4: [], 5: [],6: [],7:[],8:[],9:[],10:[],11:[],12:[],13:[],14:[],15:[],16:[],17:[],18:[],19:[],20:[]}
+	partial_agree = {1: 0,2: 0, 3: 0, 4: 0, 5: 0,6: 0,7:0,8:0,9:0,10:0,11:0,12:0,13:0,14:0,15:0,16:0,17:0,18:0,19:0,20:0}
+	av_d = []
 	todump = [[],[],[],[],[],[],[]]
 	hm, vocab = extract_hm()
 	for j in range(numSent):
@@ -77,12 +83,13 @@ def get_stats(outputs):
 			partial_agree[best_match]+=1
 			av_lenth[best_match].append(len(outputs[0][j]['example']))
 			av_f1[best_match].append(numpy.mean(best_matchf1s))
+			av_depth[best_match].append(depth(predtree))
 			not_match_f1s = []
 			for el in f1s: 
 				if el not in best_matchf1s:
 					not_match_f1s.append(el)
 			av_f1_diff[best_match].append(numpy.mean(best_matchf1s)-numpy.mean(not_match_f1s))
-			if best_match >= 9:
+			if best_match >= 3:
 				for i in [4]:
 					todump[i].append(fulldata[i])
 				todump[0].append(torch.LongTensor(fulldata[0]))         
@@ -90,9 +97,13 @@ def get_stats(outputs):
 				todump[2].append(besttree)
 				todump[3].append(get_brackets(besttree)[0])
 				todump[5].append(torch.FloatTensor(tree_to_gates(besttree)))
+		else:
+			av_lenth[best_match].append(len(outputs[0][j]['example']))
+			av_f1[best_match].append(numpy.mean(f1s))
+			av_depth[best_match].append(depth(predtree))
+			partial_agree[1]+=1
 	todump[6] = vocab
-	pickle.dump(todump, open("9match.data", "wb"))
-
+	pickle.dump(todump, open("10_5_3.data", "wb"))
 
 	for k in av_lenth:
 		print("Matching "+str(k)+" reports: "+str(partial_agree[k]))
@@ -100,6 +111,7 @@ def get_stats(outputs):
 		print("Av Length of sentences: " + str(numpy.mean(av_lenth[k])))
 		print("Min Length: "+str(numpy.min(av_lenth[k])))
 		print("Max Length: "+str(numpy.max(av_lenth[k])))
+		print("Av Depth of sentences: " + str(numpy.mean(av_depth[k])))
 
 # Example call: python scripts
 if __name__ == '__main__':

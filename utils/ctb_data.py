@@ -205,7 +205,7 @@ def load_trees(path, ids, vocab=None, semisupervised=False, grow_vocab=True, sup
             all_words.append(words)
             all_labels.append(torch.LongTensor(label_list_ids))
             all_label_leafs.append(torch.LongTensor(leaf_list_ids))
-
+            counter += 1
         if supervision_limit > -1 and counter >= supervision_limit and supervised_model:
             break
     return all_sents, all_dists, all_trees, all_brackets, all_words, all_gates, skip_sup, all_labels, all_labelled_brackets, all_label_leafs, all_original_trees, all_pos_list, label_vocab, vocab

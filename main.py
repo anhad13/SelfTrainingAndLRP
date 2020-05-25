@@ -232,7 +232,7 @@ def batchify(dataset, batch_size, use_prpn, cuda = False, padding_idx=0, trainin
         supervised_batches = []
         unsupervised_batches = []
         for batch in batches:
-            if batch[-1] == "supervised":
+            if batch[-3] == "supervised":
                 supervised_batches.append(batch)
             else:
                 unsupervised_batches.append(batch)
@@ -296,6 +296,10 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
     if load_from:
         print('Loading pretrained model from ' + load_from + '.')
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        #model_dict = model.state_dict()
+        #pre_d = torch.load(load_from).state_dict()
+        #checkpoint = torch.load(load_from)
+        #model.load_state_dict(pre_d)
         model = torch.load(load_from, map_location=device)
 
     optimizer = optim.Adam(model.parameters())
@@ -336,11 +340,11 @@ def train_fct(train_data, valid_data, vocab, use_prpn, cuda=False,  nemb=100, nh
                 loss1d = ranking_loss(distances, yd, mask_yd)
                 label_out = model.label_out.contiguous().view(-1, nlabels)
                 leaf_label_out = model.leaf_label_out.transpose(0,1).contiguous().view(-1, nlabels)
-                label_l = torch.cat([torch.zeros(batch_size,2).long(),label_l, torch.zeros(batch_size,1).long()], 1)
-                leaf_l = torch.cat([torch.zeros(batch_size,1).long(),leaf_l, torch.zeros(batch_size,1).long()], 1)
+                label_l = torch.cat([torch.zeros(batch_size,2).cuda().long(),label_l, torch.zeros(batch_size,1).cuda().long()], 1)
+                leaf_l = torch.cat([torch.zeros(batch_size,1).cuda().long(),leaf_l, torch.zeros(batch_size,1).cuda().long()], 1)
                 leaf_loss = nn.CrossEntropyLoss(ignore_index=0)(leaf_label_out, leaf_l.contiguous().view(-1))
                 loss_labels = nn.CrossEntropyLoss(ignore_index=0)(label_out, label_l.contiguous().view(-1))
-                loss_labels += leaf_loss
+                #loss_labels = leaf_loss
                 loss1 = loss1g * train_beta + loss1d * (1 - train_beta)
                 loss2 = LM_criterion(output, torch.cat([x.transpose(1, 0)[1:], zeros], dim=0),
                                      torch.cat([mask_x.transpose(1, 0)[1:], zeros], dim=0), len(vocab))
@@ -439,6 +443,7 @@ if __name__ == '__main__':
         print("Using english treebank")
     is_cuda = False
     gpu_device = 0
+    print("Label Wt: "+str(args.label_weight))
     if args.bagging:
         print("bagging...")
     if not torch.cuda.is_available():
@@ -475,4 +480,4 @@ if __name__ == '__main__':
     train_fct(train_data, valid_data, valid_data[-1], args.PRPN, is_cuda, alpha=args.alpha,
               train_beta = args.beta, parse_with_gates=(not args.parse_with_distances),
               save_to=args.save, load_from=args.load, eval_on=args.eval_on, batch_size=args.batch, epochs=args.epochs,             
-              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio, nhid=args.nhid, nemb=args.nemb, label_weight = args.label_weight)
+              use_orig_prpn=args.shen, training_method=args.training_method, training_ratio=args.training_ratio, nhid=args.nhid, nemb=args.nemb, label_weight = float(args.label_weight))

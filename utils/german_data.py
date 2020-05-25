@@ -245,7 +245,6 @@ def load_trees(path, vocab=None, grow_vocab=True, supervision_limit=-1, supervis
             brackets = get_brackets(sent)[0]
             labelled_brackets = get_labelled_brackets(sent)[0]
             if supervision_limit > -1 and counter >= supervision_limit:
-                import pdb;pdb.set_trace()
                 if (not semisupervised) and supervised_model:
                     break
                 all_dists.append(torch.zeros_like(torch.FloatTensor(list2distance(treelist)[0])))

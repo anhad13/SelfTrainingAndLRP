@@ -25,7 +25,7 @@ class ShenParsingNetwork(nn.Module):
         # Attention layers
         self.gate = nn.Sequential(nn.Dropout(dropout),
                                   nn.Conv1d(ninp, nhid, (nlookback + 1)),
-                                  nn.BatchNorm1d(nhid),
+                                  #nn.BatchNorm1d(nhid),
                                   nn.ReLU(),
                                   nn.Dropout(dropout))
             
