@@ -1,6 +1,4 @@
-# SelfTrainingAndLRP
-Self-training PRPN and low-resource parsing
-
+Steps for self-training PRPN:
 
 1. Training multiple PRPN instances:
 
@@ -19,3 +17,5 @@ python -u scripts/overlap.py <comma sep outputs generated in step 2>
 python -u main.py --batch 64 --PRPN \
     --shen --alpha 0.5 --save Fout20_12_${load_from} \
     --beta 0.5 --force_binarize --training_ratio 0.2  --load <training-data-path-from-step-1> --train_from_pickle  <training-data-path-from-step-3> --training_method interleave
+
+
